@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Lupa - Observatorio de Transparencia Colombia</title>
+    <meta name="description" content="Registro documentado y verificado de casos del gobierno colombiano. Informacion de fuentes periodisticas publicas.">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-search"></i>
+                    <h1>La Lupa</h1>
+                </div>
+                <p class="subtitle">Observatorio de Transparencia - Colombia</p>
+            </div>
+            <nav class="nav">
+                <a href="#casos" class="nav-link active">Casos</a>
+                <a href="#estadisticas" class="nav-link">Estadisticas</a>
+                <a href="#temas-interes" class="nav-link">Temas</a>
+                <a href="#" class="nav-link btn-medios" id="btn-medios">
+                    <i class="fas fa-newspaper"></i> Medios
+                </a>
+                <a href="#" class="nav-link btn-violencia" id="btn-violencia">
+                    <i class="fas fa-chart-bar"></i> Violencia
+                </a>
+                <a href="sugerir.html" class="nav-link btn-sugerir">
+                    <i class="fas fa-plus"></i> Sugerir Caso
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Estadisticas rapidas -->
+            <section id="estadisticas" class="stats-section">
+                <div class="stats-grid" id="stats-grid">
+                    <!-- Se llena con JavaScript -->
+                </div>
+            </section>
+
+            <!-- Filtros y busqueda -->
+            <section class="filters-section">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="search-input" placeholder="Buscar por titulo, descripcion o persona...">
+                </div>
+                <div class="filters">
+                    <div class="filter-group">
+                        <label>Categoria:</label>
+                        <select id="filter-categoria">
+                            <option value="">Todas las categorias</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Medio:</label>
+                        <select id="filter-medio">
+                            <option value="">Todos los medios</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Gravedad:</label>
+                        <select id="filter-gravedad">
+                            <option value="">Todas</option>
+                            <option value="alta">Alta</option>
+                            <option value="media">Media</option>
+                            <option value="baja">Baja</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Estado:</label>
+                        <select id="filter-estado">
+                            <option value="">Todos</option>
+                            <option value="Comprobado">Comprobado</option>
+                            <option value="En investigacion">En investigacion</option>
+                            <option value="Desmentido">Desmentido</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Ordenar:</label>
+                        <select id="sort-by">
+                            <option value="fecha-desc">Mas recientes</option>
+                            <option value="fecha-asc">Mas antiguos</option>
+                            <option value="gravedad">Por gravedad</option>
+                        </select>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Lista de casos -->
+            <section id="casos" class="casos-section">
+                <div class="casos-header">
+                    <h2><i class="fas fa-list"></i> Casos Documentados</h2>
+                    <span class="casos-count" id="casos-count">0 casos</span>
+                </div>
+                <div class="casos-grid" id="casos-grid">
+                    <!-- Se llena con JavaScript -->
+                </div>
+                <div class="no-results" id="no-results" style="display: none;">
+                    <i class="fas fa-search"></i>
+                    <p>No se encontraron casos con los filtros seleccionados</p>
+                </div>
+            </section>
+
+            <!-- Temas de Interes -->
+            <section id="temas-interes" class="temas-section">
+                <div class="section-header">
+                    <h2><i class="fas fa-lightbulb"></i> Temas de Interes</h2>
+                    <p>Analisis de politicas que afectan a los colombianos</p>
+                </div>
+
+                <div class="temas-grid">
+                    <!-- Tema: Salario Minimo -->
+                    <article class="tema-card" id="tema-salario">
+                        <div class="tema-header">
+                            <div class="tema-icon salario">
+                                <i class="fas fa-money-bill-wave"></i>
+                            </div>
+                            <h3>Aumento del Salario Minimo</h3>
+                        </div>
+                        <div class="tema-content">
+                            <p class="tema-pregunta">Como afecta el aumento del salario minimo a Colombia?</p>
+
+                            <div class="tema-datos">
+                                <div class="dato-item">
+                                    <span class="dato-label">Salario 2022:</span>
+                                    <span class="dato-valor">$1.000.000 COP</span>
+                                </div>
+                                <div class="dato-item">
+                                    <span class="dato-label">Salario 2025:</span>
+                                    <span class="dato-valor">$1.423.500 COP</span>
+                                </div>
+                                <div class="dato-item highlight">
+                                    <span class="dato-label">Aumento acumulado:</span>
+                                    <span class="dato-valor">42.35%</span>
+                                </div>
+                            </div>
+
+                            <div class="tema-analisis">
+                                <div class="analisis-seccion beneficios">
+                                    <h4><i class="fas fa-check-circle"></i> A quienes ayuda</h4>
+                                    <ul>
+                                        <li>Trabajadores formales con contrato (aprox. 8.5 millones)</li>
+                                        <li>Pensionados que reciben el minimo</li>
+                                        <li>Beneficiarios de subsidios indexados al salario</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion perjuicios">
+                                    <h4><i class="fas fa-exclamation-triangle"></i> A quienes afecta negativamente</h4>
+                                    <ul>
+                                        <li><strong>Informales (58% de trabajadores):</strong> No reciben el aumento pero pagan precios mas altos</li>
+                                        <li><strong>Pequenas empresas:</strong> Aumento en costos laborales puede llevar a despidos</li>
+                                        <li><strong>Desempleados:</strong> Mas dificil conseguir empleo formal</li>
+                                        <li><strong>Consumidores:</strong> Inflacion en bienes y servicios</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion contexto">
+                                    <h4><i class="fas fa-info-circle"></i> Contexto economico</h4>
+                                    <ul>
+                                        <li>Informalidad laboral: 58% (una de las mas altas de America Latina)</li>
+                                        <li>Desempleo: 10.2% (2024)</li>
+                                        <li>El aumento supera la inflacion pero tambien la productividad</li>
+                                        <li>Empresas pequenas reportan dificultad para mantener nomina</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="tema-fuentes">
+                                <h4>Fuentes:</h4>
+                                <a href="https://www.dane.gov.co" target="_blank" rel="noopener">DANE</a>,
+                                <a href="https://www.banrep.gov.co" target="_blank" rel="noopener">Banco de la Republica</a>,
+                                <a href="https://www.mintrabajo.gov.co" target="_blank" rel="noopener">MinTrabajo</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Tema: Gasolina -->
+                    <article class="tema-card" id="tema-gasolina">
+                        <div class="tema-header">
+                            <div class="tema-icon gasolina">
+                                <i class="fas fa-gas-pump"></i>
+                            </div>
+                            <h3>Aumento del Precio de la Gasolina y el FEPC</h3>
+                        </div>
+                        <div class="tema-content">
+                            <p class="tema-pregunta">Por que la gasolina paso de $9.000 a casi $17.000? A donde fue el dinero?</p>
+
+                            <div class="tema-datos">
+                                <div class="dato-item">
+                                    <span class="dato-label">Agosto 2022:</span>
+                                    <span class="dato-valor">$9.264 COP/galon</span>
+                                </div>
+                                <div class="dato-item">
+                                    <span class="dato-label">Enero 2026:</span>
+                                    <span class="dato-valor">$16.057 COP/galon</span>
+                                </div>
+                                <div class="dato-item highlight">
+                                    <span class="dato-label">Aumento:</span>
+                                    <span class="dato-valor">73.3% (+$6.793)</span>
+                                </div>
+                            </div>
+
+                            <div class="tema-analisis">
+                                <div class="analisis-seccion contexto">
+                                    <h4><i class="fas fa-history"></i> Que paso con el FEPC?</h4>
+                                    <p>El Fondo de Estabilizacion de Precios de Combustibles (FEPC) subsidiaba la diferencia entre el precio internacional y el precio de venta al publico.</p>
+                                    <p><strong>Deficit heredado (agosto 2022):</strong> $36.7 billones</p>
+                                    <p style="font-size: 0.85rem; color: var(--text-light);">Nota: Petro afirma que heredo $65-70 billones, pero La Silla Vacia califico esto como "enganoso" - esa cifra incluye deficit generado posteriormente.</p>
+                                </div>
+
+                                <div class="analisis-seccion beneficios">
+                                    <h4><i class="fas fa-chart-line"></i> Evolucion del Deficit FEPC</h4>
+                                    <div class="fepc-tabla">
+                                        <div class="fepc-row header">
+                                            <span>Ano</span>
+                                            <span>Deficit</span>
+                                            <span>Cambio</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>2022 (heredado)</span>
+                                            <span>$36.7 billones</span>
+                                            <span>-</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>2023</span>
+                                            <span>$20.5 billones</span>
+                                            <span class="positivo">-$16.2B</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>2024</span>
+                                            <span>$10.5 billones</span>
+                                            <span class="positivo">-$10B</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>2025</span>
+                                            <span>$2.5-5 billones</span>
+                                            <span class="positivo">-$5.5B</span>
+                                        </div>
+                                        <div class="fepc-row destacado">
+                                            <span>Ene 2026</span>
+                                            <span>$0 (segun Petro)</span>
+                                            <span class="positivo">Saldado</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="analisis-seccion destino">
+                                    <h4><i class="fas fa-piggy-bank"></i> A donde fue el dinero? (Cifras)</h4>
+                                    <ul>
+                                        <li><strong>Total destinado al FEPC (2022-2025):</strong> $72.8 billones</li>
+                                        <li><strong>Pagos de Ecopetrol (2023-2024):</strong> $57.3 billones</li>
+                                        <li><strong>Las 2 reformas tributarias:</strong> ~$54 billones (ANIF: "El FEPC se comio el recaudo tributario")</li>
+                                    </ul>
+                                    <p style="margin-top: 10px;"><strong>Dato critico:</strong> El gobierno Petro genero $31 billones ADICIONALES de deficit durante su mandato (2023: $19B, 2024: $8B, 2025: $4B) - Economista Felipe Campos</p>
+                                </div>
+
+                                <div class="analisis-seccion impacto">
+                                    <h4><i class="fas fa-users"></i> Impacto en los colombianos</h4>
+                                    <ul>
+                                        <li><strong>Taxistas:</strong> Pasaron de gastar $1.25M/mes a $2.05M/mes (+$800.000)</li>
+                                        <li><strong>Transporte publico:</strong> Aumento de tarifas en todo el pais</li>
+                                        <li><strong>Alimentos:</strong> Incremento en costos de distribucion</li>
+                                        <li><strong>Inflacion general:</strong> Efecto cascada en toda la economia</li>
+                                        <li><strong>ACPM:</strong> Sigue subsidiado ~$3.500/galon (usuarios de gasolina pagan $1.500 extra para compensar)</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion criticas">
+                                    <h4><i class="fas fa-exclamation-triangle"></i> Promesas de Campana vs Realidad</h4>
+                                    <div class="promesa-item incumplida">
+                                        <i class="fas fa-times-circle"></i>
+                                        <div>
+                                            <strong>"Combustibles mas baratos"</strong>
+                                            <span>Subio 73%</span>
+                                        </div>
+                                    </div>
+                                    <div class="promesa-item incumplida">
+                                        <i class="fas fa-times-circle"></i>
+                                        <div>
+                                            <strong>"Zonas francas de combustible para taxistas"</strong>
+                                            <span>No implementado</span>
+                                        </div>
+                                    </div>
+                                    <div class="promesa-item incumplida">
+                                        <i class="fas fa-times-circle"></i>
+                                        <div>
+                                            <strong>"Precios estables"</strong>
+                                            <span>Aumentos mensuales por 2+ anos</span>
+                                        </div>
+                                    </div>
+                                    <p style="margin-top: 15px; font-size: 0.9rem;"><strong>Defensa de Petro:</strong> "Ni siquiera en campana sabiamos del hueco que nos dejaban... de no subir la gasolina, estariamos en depresion economica"</p>
+                                </div>
+
+                                <div class="analisis-seccion perjuicios">
+                                    <h4><i class="fas fa-search"></i> Que dice la Contraloria?</h4>
+                                    <ul>
+                                        <li><strong>Recomienda liquidar el FEPC:</strong> "Mecanismo mal disenado que ha costado ~$100 billones a la Nacion"</li>
+                                        <li><strong>Alerta sobre Ecopetrol:</strong> "Enfrenta importantes desafios de liquidez" por demoras en pagos del gobierno</li>
+                                        <li><strong>Critica:</strong> "Se dejaron de focalizar recursos para inversion publica"</li>
+                                    </ul>
+                                    <p style="margin-top: 10px; font-size: 0.9rem; color: var(--text-light);"><i class="fas fa-info-circle"></i> No se encontraron denuncias de corrupcion directa con fondos del FEPC. La Procuraduria abrio seguimiento preventivo.</p>
+                                </div>
+                            </div>
+
+                            <div class="tema-fuentes">
+                                <h4>Fuentes:</h4>
+                                <a href="https://www.contraloria.gov.co" target="_blank" rel="noopener">Contraloria</a>,
+                                <a href="https://www.lasillavacia.com" target="_blank" rel="noopener">La Silla Vacia</a>,
+                                <a href="https://www.semana.com" target="_blank" rel="noopener">Semana</a>,
+                                <a href="https://www.portafolio.co" target="_blank" rel="noopener">Portafolio</a>,
+                                <a href="https://www.infobae.com" target="_blank" rel="noopener">Infobae</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Tema: Dolar -->
+                    <article class="tema-card" id="tema-dolar">
+                        <div class="tema-header">
+                            <div class="tema-icon dolar">
+                                <i class="fas fa-dollar-sign"></i>
+                            </div>
+                            <h3>El Precio del Dolar en Colombia</h3>
+                        </div>
+                        <div class="tema-content">
+                            <p class="tema-pregunta">Por que el dolar esta tan bajo? Es gracias a la gestion de Petro?</p>
+
+                            <div class="tema-datos">
+                                <div class="dato-item">
+                                    <span class="dato-label">Agosto 2022 (posesion):</span>
+                                    <span class="dato-valor">$4.337 COP</span>
+                                </div>
+                                <div class="dato-item">
+                                    <span class="dato-label">Nov 2022 (maximo):</span>
+                                    <span class="dato-valor">$5.061 COP</span>
+                                </div>
+                                <div class="dato-item highlight">
+                                    <span class="dato-label">Enero 2026:</span>
+                                    <span class="dato-valor">~$3.700 COP</span>
+                                </div>
+                            </div>
+
+                            <div class="tema-analisis">
+                                <div class="analisis-seccion contexto">
+                                    <h4><i class="fas fa-globe"></i> Por que bajo el dolar?</h4>
+                                    <p><strong>Factores EXTERNOS (70-80% del efecto):</strong></p>
+                                    <ul>
+                                        <li><strong>Debilitamiento del dolar global:</strong> La Reserva Federal (Fed) de EE.UU. bajo tasas de interes, debilitando el dolar 9.4% mundialmente</li>
+                                        <li><strong>Carry trade:</strong> Inversionistas traen dolares a Colombia para aprovechar tasas de interes altas (9.25%)</li>
+                                        <li><strong>Apetito por mercados emergentes:</strong> Flujo global hacia paises como Colombia</li>
+                                    </ul>
+                                    <p style="margin-top: 15px;"><strong>Factores INTERNOS (20-30% del efecto):</strong></p>
+                                    <ul>
+                                        <li><strong>Emision record de deuda:</strong> El gobierno emitio $4.950 millones USD en bonos, la mayor de la historia</li>
+                                        <li><strong>Tasas altas del BanRep:</strong> Banco de la Republica mantuvo tasas en 9.25%, atrayendo capitales</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion criticas">
+                                    <h4><i class="fas fa-balance-scale"></i> Es gracias a Petro? Analisis objetivo</h4>
+                                    <p><strong>NO es principalmente por su gestion:</strong></p>
+                                    <ul>
+                                        <li>El 70-80% del movimiento se debe a factores internacionales, no a politica local</li>
+                                        <li>El Banco de la Republica (independiente) controla las tasas de interes</li>
+                                        <li>El dolar llego a su MAXIMO historico ($5.061) justo despues de que Petro asumio</li>
+                                    </ul>
+                                    <p style="margin-top: 15px;"><strong>Problemas de su gestion que DEBILITAN el peso:</strong></p>
+                                    <ul>
+                                        <li>Deficit fiscal de 6.7% del PIB (el mas alto sin contar pandemia)</li>
+                                        <li>Colombia paga 15% mas que Brasil, 43% mas que Chile para endeudarse</li>
+                                        <li>Caida de inversion extranjera directa del 17.5%</li>
+                                        <li>Incertidumbre por politica petrolera</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion beneficios">
+                                    <h4><i class="fas fa-thumbs-up"></i> Para quienes es BUENO el dolar bajo</h4>
+                                    <ul>
+                                        <li><strong>Importadores:</strong> Productos extranjeros mas baratos</li>
+                                        <li><strong>Industria:</strong> Insumos importados mas economicos</li>
+                                        <li><strong>Consumidores:</strong> Tecnologia, electronicos, carros importados mas baratos</li>
+                                        <li><strong>Gobierno y empresas con deuda en dolares:</strong> Pagan menos</li>
+                                        <li><strong>Viajeros:</strong> Mas poder adquisitivo en el exterior</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion perjuicios">
+                                    <h4><i class="fas fa-thumbs-down"></i> Para quienes es MALO el dolar bajo</h4>
+                                    <ul>
+                                        <li><strong>Exportadores (cafe, flores, banano):</strong> Reciben menos pesos por cada dolar</li>
+                                        <li><strong>Sector petrolero:</strong> Menores ingresos en pesos</li>
+                                        <li><strong>Familias con remesas:</strong> Reciben $300-400 menos por cada dolar enviado</li>
+                                        <li><strong>Sector turismo receptivo:</strong> Colombia mas cara para extranjeros</li>
+                                        <li><strong>Agricultores exportadores:</strong> Menor rentabilidad y competitividad</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion impacto">
+                                    <h4><i class="fas fa-exclamation-circle"></i> Conclusion</h4>
+                                    <p>El fortalecimiento del peso es <strong>principalmente coyuntural</strong> (factores externos y emision de deuda), mientras que los <strong>problemas estructurales persisten</strong>: deficit fiscal elevado, perdida del grado de inversion desde 2021, y caida de la inversion extranjera.</p>
+                                    <p style="margin-top: 10px;">La apreciacion actual <strong>no refleja una mejora estructural</strong> de la economia colombiana, sino condiciones favorables temporales del mercado internacional.</p>
+                                </div>
+                            </div>
+
+                            <div class="tema-fuentes">
+                                <h4>Fuentes:</h4>
+                                <a href="https://www.banrep.gov.co" target="_blank" rel="noopener">Banco de la Republica</a>,
+                                <a href="https://www.bloomberglinea.com" target="_blank" rel="noopener">Bloomberg</a>,
+                                <a href="https://www.larepublica.co" target="_blank" rel="noopener">La Republica</a>,
+                                <a href="https://www.anif.com.co" target="_blank" rel="noopener">ANIF</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Tema: Institucionalidad -->
+                    <article class="tema-card tema-card-wide" id="tema-institucionalidad">
+                        <div class="tema-header institucionalidad">
+                            <div class="tema-icon institucionalidad">
+                                <i class="fas fa-landmark"></i>
+                            </div>
+                            <h3>Controles al Gobierno y Crisis Institucional</h3>
+                        </div>
+                        <div class="tema-content">
+                            <p class="tema-pregunta">Quien controla al gobierno? Puede el presidente saltarse al Congreso? Que pasa con los desacatos?</p>
+
+                            <div class="institucionalidad-section">
+                                <h4><i class="fas fa-university"></i> Estructura de Control en Colombia</h4>
+                                <div class="control-grid">
+                                    <div class="control-item">
+                                        <strong><i class="fas fa-gavel"></i> Congreso</strong>
+                                        <p>Senado (108) + Camara (188). Aprueba leyes, reformas, ejerce control politico. El gobierno necesita su aprobacion para reformas.</p>
+                                    </div>
+                                    <div class="control-item">
+                                        <strong><i class="fas fa-balance-scale"></i> Corte Constitucional</strong>
+                                        <p>9 magistrados. Guardiana de la Constitucion. Revisa leyes, decretos, tutelas. Puede tumbar decisiones inconstitucionales.</p>
+                                    </div>
+                                    <div class="control-item">
+                                        <strong><i class="fas fa-building"></i> Consejo de Estado</strong>
+                                        <p>31 magistrados. Tribunal supremo administrativo. Resuelve conflictos ciudadano vs Estado. Revisa decretos del gobierno.</p>
+                                    </div>
+                                    <div class="control-item">
+                                        <strong><i class="fas fa-user-tie"></i> Procuraduria</strong>
+                                        <p>Control disciplinario. Puede investigar y sancionar funcionarios publicos, incluyendo ministros.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tema-analisis">
+                                <div class="analisis-seccion contexto">
+                                    <h4><i class="fas fa-scroll"></i> Como se aprueban las reformas?</h4>
+                                    <p>Las reformas (laboral, pensional, salud) deben pasar por <strong>4 debates</strong> en el Congreso:</p>
+                                    <ol style="padding-left: 20px; margin: 10px 0;">
+                                        <li>Comision de camara de origen</li>
+                                        <li>Plenaria de camara de origen</li>
+                                        <li>Comision de la otra camara</li>
+                                        <li>Plenaria de la otra camara</li>
+                                    </ol>
+                                    <p><strong>Mayorias requeridas:</strong></p>
+                                    <ul>
+                                        <li><strong>Leyes ordinarias:</strong> Mayoria simple (mitad +1 de presentes)</li>
+                                        <li><strong>Leyes estatutarias:</strong> Mayoria absoluta + revision de la Corte</li>
+                                        <li><strong>Reformas constitucionales:</strong> Mayoria absoluta en 2 vueltas</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion criticas">
+                                    <h4><i class="fas fa-exclamation-triangle"></i> Saltarse al Congreso: Los Decretos</h4>
+                                    <p><strong>Cuando puede el presidente gobernar por decreto?</strong></p>
+                                    <p>Solo en <strong>Estados de Excepcion</strong> (Art. 215 Constitucion):</p>
+                                    <ul>
+                                        <li>Hechos sobrevinientes que perturben gravemente el orden economico/social</li>
+                                        <li>Maximo 30 dias por declaratoria, 90 dias al ano</li>
+                                        <li>Control automatico de la Corte Constitucional</li>
+                                        <li>No puede desmejorar derechos de trabajadores</li>
+                                    </ul>
+                                    <p style="margin-top: 15px;"><strong style="color: var(--accent);">Casos problematicos del gobierno Petro:</strong></p>
+                                    <ul>
+                                        <li><strong>Dic 2025 - Emergencia Economica:</strong> Decreto 1390 tras hundirse ley de financiamiento. Permite subir impuestos sin Congreso. Fedesarrollo: "No existe hecho sobreviniente que lo justifique"</li>
+                                        <li><strong>Mayo 2025 - Consulta Popular:</strong> Decreto 0639 suspendido por Consejo de Estado por no tener concepto previo del Senado (inconstitucional)</li>
+                                        <li><strong>Amenaza de Asamblea Constituyente:</strong> Constitucionalistas advierten que "se aparta de la Constitucion vigente"</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion perjuicios">
+                                    <h4><i class="fas fa-times-circle"></i> Casos de Desacato Documentados</h4>
+                                    <p>Casos donde el gobierno ha incumplido ordenes judiciales:</p>
+                                    <ul>
+                                        <li><strong>UPC de Salud:</strong> Corte Constitucional abrio incidente de desacato contra el Ministro de Salud por no cumplir orden de reajustar la UPC desde 2016. Puede enfrentar arresto de hasta 6 meses</li>
+                                        <li><strong>Reforma Pensional:</strong> Corte ordeno suspension temporal (Auto 841/2025) por vicios de procedimiento. Gobierno tuvo que dar marcha atras</li>
+                                        <li><strong>Gobernadores vs Emergencia:</strong> 17 gobernadores se negaron a aplicar decreto de emergencia. Ministro de Justicia amenaza con acciones judiciales</li>
+                                        <li><strong>Deudas de Salud:</strong> Tribunal de Antioquia ordeno pagar $20.3 billones al sistema de salud. Incumplido</li>
+                                    </ul>
+                                </div>
+
+                                <div class="analisis-seccion impacto">
+                                    <h4><i class="fas fa-building-columns"></i> Impacto en la Institucionalidad</h4>
+                                    <p><strong>Segun analistas y constitucionalistas:</strong></p>
+                                    <ul>
+                                        <li>"El Ejecutivo percibe decisiones judiciales como obstaculos; las cortes perciben intentos de socavar su legitimidad"</li>
+                                        <li>"Al convocar consulta con ruptura del procedimiento, el presidente asume ser arbitro, juez y parte"</li>
+                                        <li>"Los retrocesos institucionales no siempre son abruptos, a menudo son graduales" - La Silla Vacia</li>
+                                        <li>"Expone a Colombia al riesgo de una deriva autoritaria" - Analistas internacionales</li>
+                                    </ul>
+                                    <div class="alerta-institucional">
+                                        <i class="fas fa-exclamation-circle"></i>
+                                        <p><strong>Por que esto nos afecta a TODOS:</strong> La separacion de poderes protege a los ciudadanos del abuso de poder. Cuando un presidente se salta los controles, sienta precedentes peligrosos para futuros gobiernos de cualquier ideologia. La institucionalidad debil perjudica la inversion, la confianza y el Estado de derecho.</p>
+                                    </div>
+                                </div>
+
+                                <div class="analisis-seccion beneficios">
+                                    <h4><i class="fas fa-chart-bar"></i> Balance de Reformas 2022-2025</h4>
+                                    <div class="reforma-balance">
+                                        <div class="reforma-item aprobada">
+                                            <i class="fas fa-check"></i>
+                                            <span>Reforma Pensional</span>
+                                            <small>(con vicios subsanados)</small>
+                                        </div>
+                                        <div class="reforma-item aprobada">
+                                            <i class="fas fa-check"></i>
+                                            <span>Reforma Laboral</span>
+                                            <small>(con resistencia)</small>
+                                        </div>
+                                        <div class="reforma-item hundida">
+                                            <i class="fas fa-times"></i>
+                                            <span>Reforma a la Salud</span>
+                                            <small>(2 intentos fallidos)</small>
+                                        </div>
+                                        <div class="reforma-item hundida">
+                                            <i class="fas fa-times"></i>
+                                            <span>Ley de Financiamiento</span>
+                                            <small>(hundida, motivo emergencia)</small>
+                                        </div>
+                                    </div>
+                                    <p style="margin-top: 15px; font-size: 0.9rem; color: var(--text-light);">Total leyes sancionadas 2022-2025: 376 | Solo en 2025: 114 leyes</p>
+                                </div>
+                            </div>
+
+                            <div class="tema-fuentes">
+                                <h4>Fuentes:</h4>
+                                <a href="https://www.corteconstitucional.gov.co" target="_blank" rel="noopener">Corte Constitucional</a>,
+                                <a href="https://www.consejodeestado.gov.co" target="_blank" rel="noopener">Consejo de Estado</a>,
+                                <a href="https://www.lasillavacia.com" target="_blank" rel="noopener">La Silla Vacia</a>,
+                                <a href="https://congresovisible.uniandes.edu.co" target="_blank" rel="noopener">Congreso Visible</a>,
+                                <a href="https://www.eltiempo.com" target="_blank" rel="noopener">El Tiempo</a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Modal para ver detalle del caso -->
+    <div class="modal" id="caso-modal">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="modal-body" id="modal-body">
+                <!-- Se llena con JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para ver medios -->
+    <div class="modal" id="medios-modal">
+        <div class="modal-content modal-medios">
+            <button class="modal-close" id="medios-modal-close">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="modal-body" id="medios-modal-body">
+                <div class="medios-header">
+                    <h2><i class="fas fa-newspaper"></i> Medios que han Documentado</h2>
+                    <p class="medios-disclaimer">
+                        <i class="fas fa-shield-alt"></i>
+                        <strong>Transparencia:</strong> Estos son los medios de comunicacion nacionales e internacionales
+                        que han publicado investigaciones sobre los casos documentados. La diversidad de fuentes
+                        (medios de izquierda, derecha, independientes e internacionales) demuestra que la informacion
+                        proviene de verificacion periodistica, no de una agenda politica.
+                    </p>
+                </div>
+                <div class="medios-stats" id="medios-stats">
+                    <!-- Se llena con JavaScript -->
+                </div>
+                <div class="medios-grid" id="medios-grid">
+                    <!-- Se llena con JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para estadisticas de violencia -->
+    <div class="modal" id="violencia-modal">
+        <div class="modal-content modal-violencia">
+            <button class="modal-close" id="violencia-modal-close">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="modal-body">
+                <div class="violencia-header">
+                    <h2><i class="fas fa-chart-bar"></i> Estadisticas de Violencia en Colombia</h2>
+                    <p class="violencia-periodo">Periodo: Agosto 2022 - Enero 2025 (Gobierno Petro)</p>
+                    <p class="violencia-disclaimer">
+                        <i class="fas fa-info-circle"></i>
+                        Datos recopilados de fuentes oficiales y organizaciones de derechos humanos.
+                        Estas cifras reflejan la crisis humanitaria que vive el pais.
+                    </p>
+                </div>
+
+                <div class="violencia-stats-grid">
+                    <!-- Masacres -->
+                    <div class="violencia-stat-card masacres">
+                        <div class="stat-icon">
+                            <i class="fas fa-skull-crossbones"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-number">178+</span>
+                            <span class="stat-label">Masacres registradas</span>
+                            <span class="stat-detail">(2022-2024)</span>
+                        </div>
+                        <div class="stat-breakdown">
+                            <p><strong>2022 (desde agosto):</strong> 28 masacres</p>
+                            <p><strong>2023:</strong> 80 masacres, 281 victimas</p>
+                            <p><strong>2024:</strong> 70+ masacres registradas</p>
+                        </div>
+                        <div class="stat-source">Fuente: INDEPAZ</div>
+                    </div>
+
+                    <!-- Desplazamiento Forzado -->
+                    <div class="violencia-stat-card desplazamiento">
+                        <div class="stat-icon">
+                            <i class="fas fa-running"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-number">836.000+</span>
+                            <span class="stat-label">Personas desplazadas</span>
+                            <span class="stat-detail">(2022-2024)</span>
+                        </div>
+                        <div class="stat-breakdown">
+                            <p><strong>2023:</strong> 380.000+ desplazados</p>
+                            <p><strong>2024:</strong> 456.000+ desplazados</p>
+                            <p><strong>Principales causas:</strong> Guerrillas, GAO, disputas territoriales</p>
+                        </div>
+                        <div class="stat-source">Fuente: OCHA, ACNUR</div>
+                    </div>
+
+                    <!-- Lideres Sociales -->
+                    <div class="violencia-stat-card lideres">
+                        <div class="stat-icon">
+                            <i class="fas fa-user-shield"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-number">400+</span>
+                            <span class="stat-label">Lideres sociales asesinados</span>
+                            <span class="stat-detail">(2022-2024)</span>
+                        </div>
+                        <div class="stat-breakdown">
+                            <p><strong>2023:</strong> 181 lideres asesinados</p>
+                            <p><strong>2024:</strong> 197+ lideres asesinados</p>
+                            <p><strong>Regiones mas afectadas:</strong> Cauca, Narino, Antioquia</p>
+                        </div>
+                        <div class="stat-source">Fuente: INDEPAZ, Defensoria</div>
+                    </div>
+
+                    <!-- Secuestros -->
+                    <div class="violencia-stat-card secuestros">
+                        <div class="stat-icon">
+                            <i class="fas fa-user-lock"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-number">600+</span>
+                            <span class="stat-label">Secuestros reportados</span>
+                            <span class="stat-detail">(2022-2024)</span>
+                        </div>
+                        <div class="stat-breakdown">
+                            <p><strong>2023:</strong> 280+ secuestros</p>
+                            <p><strong>2024:</strong> 332+ secuestros (aumento del 18.6%)</p>
+                            <p><strong>Principal responsable:</strong> ELN (70%+ de casos)</p>
+                        </div>
+                        <div class="stat-source">Fuente: Fundacion Pais Libre</div>
+                    </div>
+
+                    <!-- Reclutamiento de menores -->
+                    <div class="violencia-stat-card reclutamiento">
+                        <div class="stat-icon">
+                            <i class="fas fa-child"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-number">200+</span>
+                            <span class="stat-label">Menores reclutados</span>
+                            <span class="stat-detail">(por ano)</span>
+                        </div>
+                        <div class="stat-breakdown">
+                            <p><strong>Grupos responsables:</strong> ELN, disidencias FARC, Clan del Golfo</p>
+                            <p><strong>Departamentos criticos:</strong> Cauca, Choco, Narino, Arauca</p>
+                            <p><strong>Problema:</strong> Subregistro por miedo a denunciar</p>
+                        </div>
+                        <div class="stat-source">Fuente: COALICO, Defensoria</div>
+                    </div>
+
+                    <!-- Homicidios -->
+                    <div class="violencia-stat-card homicidios">
+                        <div class="stat-icon">
+                            <i class="fas fa-crosshairs"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-number">13.500+</span>
+                            <span class="stat-label">Homicidios anuales</span>
+                            <span class="stat-detail">(promedio)</span>
+                        </div>
+                        <div class="stat-breakdown">
+                            <p><strong>2023:</strong> 13.500+ homicidios</p>
+                            <p><strong>2024:</strong> Tendencia similar o al alza</p>
+                            <p><strong>Tasa:</strong> ~26 por cada 100.000 habitantes</p>
+                        </div>
+                        <div class="stat-source">Fuente: Medicina Legal, Policia Nacional</div>
+                    </div>
+                </div>
+
+                <div class="violencia-contexto">
+                    <h3><i class="fas fa-exclamation-circle"></i> Contexto de la "Paz Total"</h3>
+                    <p>El gobierno Petro implemento la politica de "Paz Total" que busca negociar con todos los grupos armados simultaneamente. Sin embargo, los criticos senalan que:</p>
+                    <ul>
+                        <li>Los grupos armados han aprovechado los ceses al fuego para fortalecerse</li>
+                        <li>El ELN ha continuado secuestrando durante las negociaciones</li>
+                        <li>Las disidencias de las FARC han expandido su control territorial</li>
+                        <li>La violencia no ha disminuido sino que se ha mantenido o aumentado en varias metricas</li>
+                    </ul>
+                </div>
+
+                <div class="violencia-fuentes">
+                    <h4>Fuentes de datos:</h4>
+                    <div class="fuentes-lista">
+                        <a href="https://indepaz.org.co" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> INDEPAZ</a>
+                        <a href="https://www.acnur.org" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> ACNUR</a>
+                        <a href="https://www.defensoria.gov.co" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Defensoria del Pueblo</a>
+                        <a href="https://www.medicinalegal.gov.co" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Medicina Legal</a>
+                        <a href="https://www.unocha.org" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> OCHA</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <p><strong>Aviso:</strong> Este sitio documenta informacion de fuentes periodisticas publicas.
+                    Cada caso incluye sus fuentes para verificacion independiente.</p>
+                    <p>Ultima actualizacion: <span id="ultima-actualizacion">-</span></p>
+                </div>
+                <div class="footer-links">
+                    <a href="sugerir.html" class="footer-link">
+                        <i class="fas fa-plus-circle"></i> Sugerir un caso
+                    </a>
+                    <a href="#metodologia" class="footer-link">
+                        <i class="fas fa-info-circle"></i> Metodologia
+                    </a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>La Lupa - Proyecto de transparencia ciudadana</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

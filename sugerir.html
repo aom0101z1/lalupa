@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sugerir Caso - La Lupa Colombia</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .form-page {
+            min-height: 100vh;
+            background: var(--background);
+        }
+
+        .form-container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        .form-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+
+        .form-header p {
+            color: var(--text-light);
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--secondary);
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        .suggestion-form {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        .form-group label .required {
+            color: var(--accent);
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid var(--border);
+            border-radius: var(--radius);
+            font-size: 1rem;
+            font-family: inherit;
+            transition: var(--transition);
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: var(--secondary);
+        }
+
+        .form-group textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+
+        .form-group .help-text {
+            font-size: 0.85rem;
+            color: var(--text-light);
+            margin-top: 5px;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 600px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .fuentes-container {
+            border: 2px dashed var(--border);
+            border-radius: var(--radius);
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+
+        .fuente-entry {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 10px;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .fuente-entry:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+        }
+
+        @media (max-width: 600px) {
+            .fuente-entry {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .btn-add-fuente {
+            background: var(--background);
+            border: 2px dashed var(--border);
+            padding: 10px;
+            border-radius: var(--radius);
+            cursor: pointer;
+            color: var(--text-light);
+            font-size: 0.9rem;
+            width: 100%;
+            transition: var(--transition);
+        }
+
+        .btn-add-fuente:hover {
+            border-color: var(--secondary);
+            color: var(--secondary);
+        }
+
+        .btn-submit {
+            background: var(--secondary);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            border-radius: var(--radius);
+            cursor: pointer;
+            width: 100%;
+            transition: var(--transition);
+        }
+
+        .btn-submit:hover {
+            background: #2980b9;
+        }
+
+        .btn-submit:disabled {
+            background: var(--text-light);
+            cursor: not-allowed;
+        }
+
+        .disclaimer {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: var(--radius);
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+
+        .disclaimer i {
+            color: #856404;
+            margin-right: 8px;
+        }
+
+        .success-message {
+            display: none;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .success-message i {
+            font-size: 4rem;
+            color: var(--success);
+            margin-bottom: 20px;
+        }
+
+        .success-message h2 {
+            margin-bottom: 10px;
+        }
+
+        .success-message p {
+            color: var(--text-light);
+            margin-bottom: 20px;
+        }
+
+        .config-notice {
+            background: #e3f2fd;
+            border: 1px solid #2196f3;
+            border-radius: var(--radius);
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+
+        .config-notice code {
+            background: rgba(0,0,0,0.1);
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body class="form-page">
+    <div class="form-container">
+        <a href="index.html" class="back-link">
+            <i class="fas fa-arrow-left"></i>
+            Volver al inicio
+        </a>
+
+        <div class="form-header">
+            <h1><i class="fas fa-plus-circle"></i> Sugerir un Caso</h1>
+            <p>Ayuda a documentar casos de mentiras o corrupcion con fuentes verificables</p>
+        </div>
+
+        <div class="config-notice" id="config-notice">
+            <i class="fas fa-info-circle"></i>
+            <strong>Configuracion necesaria:</strong> Para recibir sugerencias, configura el formulario con
+            <a href="https://formspree.io" target="_blank">Formspree</a> (gratuito).
+            Reemplaza <code>TU_FORMSPREE_ID</code> en el atributo <code>action</code> del formulario con tu ID.
+        </div>
+
+        <div class="suggestion-form" id="form-container">
+            <div class="disclaimer">
+                <i class="fas fa-exclamation-triangle"></i>
+                <strong>Importante:</strong> Solo envia casos que puedas respaldar con fuentes verificables
+                de medios de comunicacion reconocidos. Las sugerencias seran revisadas antes de publicarse.
+            </div>
+
+            <!-- Cambiar action a tu endpoint de Formspree -->
+            <form id="suggestion-form" action="https://formspree.io/f/TU_FORMSPREE_ID" method="POST">
+                <div class="form-group">
+                    <label>Titulo del caso <span class="required">*</span></label>
+                    <input type="text" name="titulo" required placeholder="Ej: Petro afirmo X pero la realidad es Y">
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Categoria <span class="required">*</span></label>
+                        <select name="categoria" required>
+                            <option value="">Selecciona una categoria</option>
+                            <option value="mentiras">Mentiras</option>
+                            <option value="corrupcion">Corrupcion</option>
+                            <option value="nepotismo">Nepotismo</option>
+                            <option value="contratos">Contratos Irregulares</option>
+                            <option value="conflicto-interes">Conflicto de Interes</option>
+                            <option value="recursos-publicos">Mal Uso de Recursos</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Fecha del hecho <span class="required">*</span></label>
+                        <input type="date" name="fecha" required>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Descripcion detallada <span class="required">*</span></label>
+                    <textarea name="descripcion" required placeholder="Describe el caso con todos los detalles relevantes..."></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Afirmacion original (si aplica)</label>
+                    <textarea name="afirmacion" placeholder="Cita textual de lo que dijo el presidente o funcionario..." rows="3"></textarea>
+                    <p class="help-text">Si es una mentira, escribe exactamente lo que se afirmo</p>
+                </div>
+
+                <div class="form-group">
+                    <label>Evidencia <span class="required">*</span></label>
+                    <textarea name="evidencia" required placeholder="Explica que evidencia demuestra la falsedad o irregularidad..."></textarea>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Entidad involucrada</label>
+                        <input type="text" name="entidad" placeholder="Ej: Presidencia, Ministerio de Salud...">
+                    </div>
+
+                    <div class="form-group">
+                        <label>Personas involucradas</label>
+                        <input type="text" name="personas" placeholder="Nombres separados por coma">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Fuentes <span class="required">*</span></label>
+                    <p class="help-text" style="margin-bottom: 10px;">Incluye al menos una fuente de un medio reconocido</p>
+                    <div class="fuentes-container" id="fuentes-container">
+                        <div class="fuente-entry">
+                            <input type="text" name="fuente_nombre_1" placeholder="Nombre del medio" required>
+                            <input type="url" name="fuente_url_1" placeholder="https://..." required>
+                        </div>
+                    </div>
+                    <button type="button" class="btn-add-fuente" id="btn-add-fuente">
+                        <i class="fas fa-plus"></i> Agregar otra fuente
+                    </button>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Tu nombre (opcional)</label>
+                        <input type="text" name="nombre_contribuidor" placeholder="Para darte credito">
+                    </div>
+
+                    <div class="form-group">
+                        <label>Tu email (opcional)</label>
+                        <input type="email" name="email_contribuidor" placeholder="Por si necesitamos contactarte">
+                    </div>
+                </div>
+
+                <button type="submit" class="btn-submit">
+                    <i class="fas fa-paper-plane"></i> Enviar Sugerencia
+                </button>
+            </form>
+        </div>
+
+        <div class="success-message" id="success-message">
+            <i class="fas fa-check-circle"></i>
+            <h2>Gracias por tu contribucion</h2>
+            <p>Tu sugerencia ha sido enviada y sera revisada por el equipo.
+            Si es verificable, sera agregada al registro.</p>
+            <a href="index.html" class="back-link" style="justify-content: center;">
+                <i class="fas fa-arrow-left"></i>
+                Volver al inicio
+            </a>
+        </div>
+    </div>
+
+    <script>
+        let fuenteCount = 1;
+
+        document.getElementById('btn-add-fuente').addEventListener('click', function() {
+            fuenteCount++;
+            const container = document.getElementById('fuentes-container');
+            const entry = document.createElement('div');
+            entry.className = 'fuente-entry';
+            entry.innerHTML = `
+                <input type="text" name="fuente_nombre_${fuenteCount}" placeholder="Nombre del medio">
+                <input type="url" name="fuente_url_${fuenteCount}" placeholder="https://...">
+            `;
+            container.appendChild(entry);
+        });
+
+        // Manejo del envio del formulario
+        const form = document.getElementById('suggestion-form');
+        form.addEventListener('submit', async function(e) {
+            // Si el formulario tiene el ID de ejemplo, mostrar aviso
+            if (form.action.includes('TU_FORMSPREE_ID')) {
+                e.preventDefault();
+                alert('Por favor configura tu Formspree ID en el archivo sugerir.html para recibir sugerencias.');
+                return;
+            }
+        });
+
+        // Ocultar aviso de configuracion si ya esta configurado
+        if (!form.action.includes('TU_FORMSPREE_ID')) {
+            document.getElementById('config-notice').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

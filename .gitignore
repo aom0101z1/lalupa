@@ -1,0 +1,20 @@
+# Archivos personales - NO subir
+notas-personales.txt
+mis-notas/
+.env
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Herramientas locales (no subir al servidor)
+actualizador.html
+herramientas/
