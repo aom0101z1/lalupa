@@ -669,9 +669,346 @@
                     <div class="section-header">
                         <h2><i class="fas fa-fire"></i> Temas de Interes</h2>
                         <p>Analisis de politicas que afectan a los colombianos</p>
+                        <!-- Admin toggle -->
+                        <button class="admin-toggle" id="admin-toggle" style="display: none;">
+                            <i class="fas fa-arrows-alt"></i> Modo Admin: Reorganizar
+                        </button>
                     </div>
 
-                    <div class="temas-grid">
+                    <div class="temas-grid" id="temas-grid-sortable">
+                        <!-- Tema: Capitalismo - NUEVO -->
+                        <article class="tema-card tema-card-wide" id="tema-capitalismo" data-order="1">
+                            <div class="tema-header" style="background: linear-gradient(135deg, #059669 0%, #047857 100%);">
+                                <div class="tema-icon" style="background: rgba(255,255,255,0.2);">
+                                    <i class="fas fa-chart-line"></i>
+                                </div>
+                                <h3>Capitalismo y Libre Mercado: El Motor de la Prosperidad</h3>
+                            </div>
+                            <div class="tema-content">
+                                <p class="tema-pregunta">Por que los paises con economia de mercado libre generan prosperidad, riqueza y oportunidades para todos?</p>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-lightbulb"></i> Que es el Capitalismo - Explicacion Simple</h4>
+                                    <div class="analisis-seccion contexto">
+                                        <p><strong>El capitalismo es un sistema economico</strong> donde los individuos y empresas privadas son duenos de los medios de produccion (fabricas, negocios, tierras) y toman sus propias decisiones economicas.</p>
+                                        <p><strong>Principios basicos:</strong></p>
+                                        <ul>
+                                            <li><strong>Propiedad privada:</strong> Puedes ser dueno de tu casa, tu negocio, tus ahorros. Nadie te los quita.</li>
+                                            <li><strong>Libre mercado:</strong> Los precios se determinan por oferta y demanda, no por el gobierno.</li>
+                                            <li><strong>Competencia:</strong> Las empresas compiten por ofrecer mejores productos a mejores precios.</li>
+                                            <li><strong>Libertad de eleccion:</strong> Tu decides que comprar, donde trabajar, que negocio emprender.</li>
+                                        </ul>
+                                        <p style="margin-top: 15px;"><strong>Resultado:</strong> Las personas tienen incentivos para trabajar duro, innovar y crear valor, porque se benefician directamente de su esfuerzo.</p>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-rocket"></i> Por Que el Capitalismo Funciona</h4>
+                                    <div class="control-grid">
+                                        <div class="control-item" style="border-left-color: #059669;">
+                                            <strong><i class="fas fa-brain" style="color: #059669;"></i> Incentivos Alineados</strong>
+                                            <p>Cuando puedes quedarte con los frutos de tu trabajo, tienes razon para esforzarte. El panadero hace buen pan no por altruismo, sino porque si es malo, los clientes van a otro lado.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #059669;">
+                                            <strong><i class="fas fa-sync" style="color: #059669;"></i> Informacion Descentralizada</strong>
+                                            <p>Millones de personas tomando decisiones saben mas que cualquier comite de planificacion. Los precios transmiten informacion sobre escasez y demanda instantaneamente.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #059669;">
+                                            <strong><i class="fas fa-lightbulb" style="color: #059669;"></i> Innovacion Constante</strong>
+                                            <p>La competencia impulsa la innovacion. iPhone, Netflix, Amazon, los autos electricos - todos nacieron de empresarios buscando mejorar y ganar en el mercado.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #059669;">
+                                            <strong><i class="fas fa-hand-holding-heart" style="color: #059669;"></i> Movilidad Social</strong>
+                                            <p>Puedes nacer pobre y hacerte rico si trabajas duro y tienes buenas ideas. Jeff Bezos empezo vendiendo libros en un garaje. Howard Schultz (Starbucks) crecio en vivienda publica.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-flag-usa"></i> Ejemplos de Exito: Paises Capitalistas</h4>
+
+                                    <div class="analisis-seccion beneficios" style="margin-bottom: 20px;">
+                                        <h4><i class="fas fa-star"></i> Estados Unidos</h4>
+                                        <ul>
+                                            <li><strong>PIB per capita:</strong> ~$76,000 USD (top 10 mundial)</li>
+                                            <li><strong>Innovacion:</strong> Apple, Google, Amazon, Tesla, Microsoft - las empresas mas valiosas del mundo son americanas</li>
+                                            <li><strong>Movilidad:</strong> El 80% de los millonarios americanos son de primera generacion (no heredaron su riqueza)</li>
+                                            <li><strong>Inmigracion:</strong> Millones quieren ir a EEUU, no huir de el. El "sueno americano" existe porque hay oportunidades reales</li>
+                                            <li><strong>Caridad:</strong> Los americanos donan mas de $400 mil millones al ano a causas beneficas - mas que cualquier otro pais</li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="analisis-seccion beneficios" style="margin-bottom: 20px;">
+                                        <h4><i class="fas fa-wind"></i> Paises Nordicos (NO son socialistas)</h4>
+                                        <p style="margin-bottom: 10px;"><strong>Mito:</strong> "Suecia, Dinamarca, Noruega son socialistas"</p>
+                                        <p style="margin-bottom: 15px;"><strong>Realidad:</strong> Son economias de LIBRE MERCADO con altos impuestos para servicios sociales, pero:</p>
+                                        <ul>
+                                            <li><strong>Propiedad privada:</strong> Total. No hay expropiaciones ni control estatal de empresas.</li>
+                                            <li><strong>Libertad economica:</strong> Dinamarca ocupa puesto #10 en el Indice de Libertad Economica (mas libre que EEUU)</li>
+                                            <li><strong>Facilidad para negocios:</strong> Suecia tiene menos regulaciones para abrir empresas que muchos paises</li>
+                                            <li><strong>Sin salario minimo:</strong> Dinamarca, Suecia y Noruega NO tienen salario minimo legal - lo negocian libremente</li>
+                                            <li><strong>Empresas privadas:</strong> IKEA, Volvo, Spotify, Lego, Maersk - todas privadas, no estatales</li>
+                                        </ul>
+                                        <p style="margin-top: 10px;"><em>El primer ministro danes Lars Lokke Rasmussen dijo: "Dinamarca NO es socialista. Tenemos una economia de mercado."</em></p>
+                                    </div>
+
+                                    <div class="analisis-seccion beneficios" style="margin-bottom: 20px;">
+                                        <h4><i class="fas fa-globe-europe"></i> Otros Ejemplos de Exito Capitalista</h4>
+                                        <ul>
+                                            <li><strong>Suiza:</strong> PIB per capita ~$92,000. Baja intervencion estatal, secreto bancario, innovacion farmaceutica</li>
+                                            <li><strong>Singapur:</strong> De pais pobre en 1965 a PIB per capita de $65,000. Libre mercado extremo, bajos impuestos</li>
+                                            <li><strong>Irlanda:</strong> El "tigre celta" - bajo impuestos corporativos atrajo a Apple, Google, Facebook. PIB per capita ~$100,000</li>
+                                            <li><strong>Chile:</strong> El pais mas prospero de Sudamerica gracias a reformas de libre mercado. Pobreza bajo de 45% a 8%</li>
+                                            <li><strong>Corea del Sur:</strong> En 1960 era mas pobre que Ghana. Hoy: Samsung, Hyundai, K-pop. PIB per capita $35,000</li>
+                                            <li><strong>Japon y Alemania:</strong> Destruidos en WWII, reconstruidos con capitalismo. Hoy son potencias mundiales</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-door-open"></i> El Capitalismo Te Permite Sonar</h4>
+                                    <div class="analisis-seccion contexto">
+                                        <p>En un pais capitalista, <strong>tu futuro no esta predeterminado</strong>. Puedes:</p>
+                                        <ul>
+                                            <li><strong>Emprender:</strong> Abrir tu negocio, desde una tienda hasta una startup tecnologica</li>
+                                            <li><strong>Estudiar:</strong> Invertir en tu educacion y mejorar tus ingresos</li>
+                                            <li><strong>Ahorrar:</strong> Acumular capital para tu futuro y el de tu familia</li>
+                                            <li><strong>Invertir:</strong> Comprar acciones, propiedades, o iniciar negocios</li>
+                                            <li><strong>Cambiar de carrera:</strong> Si no te gusta tu trabajo, puedes buscar otro o crear el tuyo</li>
+                                            <li><strong>Fracasar y volver a intentar:</strong> El fracaso no es permanente - puedes reinventarte</li>
+                                        </ul>
+                                        <p style="margin-top: 15px;"><strong>Historias reales:</strong></p>
+                                        <ul>
+                                            <li><strong>Oprah Winfrey:</strong> Nacio en pobreza rural, hoy vale $2.5 mil millones</li>
+                                            <li><strong>Elon Musk:</strong> Inmigrante sudafricano, durmio en su oficina, hoy es el hombre mas rico del mundo</li>
+                                            <li><strong>Shakira:</strong> De Barranquilla a estrella mundial - posible gracias al mercado libre de la musica</li>
+                                            <li><strong>Do Won Chang:</strong> Inmigrante coreano, trabajaba en gasolinera, fundo Forever 21</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-chart-bar"></i> Datos que no Mienten</h4>
+                                    <div class="fepc-tabla">
+                                        <div class="fepc-row header">
+                                            <span>Indicador</span>
+                                            <span>Paises mas libres</span>
+                                            <span>Paises menos libres</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>PIB per capita</span>
+                                            <span class="positivo">$48,000+ USD</span>
+                                            <span>$7,000 USD</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>Pobreza extrema</span>
+                                            <span class="positivo">0.8%</span>
+                                            <span>27%</span>
+                                        </div>
+                                        <div class="fepc-row">
+                                            <span>Esperanza de vida</span>
+                                            <span class="positivo">81 anos</span>
+                                            <span>65 anos</span>
+                                        </div>
+                                        <div class="fepc-row destacado">
+                                            <span>Libertad personal</span>
+                                            <span class="positivo">Alta</span>
+                                            <span>Reprimida</span>
+                                        </div>
+                                    </div>
+                                    <p style="margin-top: 10px; font-size: 0.85rem; color: var(--text-secondary);">Fuente: Indice de Libertad Economica 2024 - Heritage Foundation</p>
+                                </div>
+
+                                <div class="alerta-institucional" style="background: linear-gradient(135deg, #ecfdf5, #d1fae5); border-color: #059669;">
+                                    <i class="fas fa-check-circle" style="color: #059669;"></i>
+                                    <div>
+                                        <p><strong>El capitalismo ha sacado a mas personas de la pobreza que cualquier otro sistema en la historia.</strong></p>
+                                        <p style="margin-top: 10px;">En 1820, el 94% de la humanidad vivia en pobreza extrema. Hoy es menos del 10%. Esto se logro gracias al comercio libre, la innovacion y los mercados abiertos, no gracias al socialismo.</p>
+                                    </div>
+                                </div>
+
+                                <div class="tema-fuentes">
+                                    <h4>Fuentes:</h4>
+                                    <a href="https://www.heritage.org/index/" target="_blank">Indice de Libertad Economica</a>
+                                    <a href="https://ourworldindata.org/extreme-poverty" target="_blank">Our World in Data</a>
+                                    <a href="https://www.worldbank.org/" target="_blank">Banco Mundial</a>
+                                    <a href="https://www.fraserinstitute.org/" target="_blank">Fraser Institute</a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Tema: Socialismo - NUEVO -->
+                        <article class="tema-card tema-card-wide" id="tema-socialismo" data-order="2">
+                            <div class="tema-header" style="background: linear-gradient(135deg, #ea580c 0%, #c2410c 100%);">
+                                <div class="tema-icon" style="background: rgba(255,255,255,0.2);">
+                                    <i class="fas fa-hand-fist"></i>
+                                </div>
+                                <h3>El Socialismo: La Puerta de Entrada al Comunismo</h3>
+                            </div>
+                            <div class="tema-content">
+                                <p class="tema-pregunta">Como el socialismo es el primer paso hacia el comunismo y por que siempre termina igual?</p>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-book"></i> Que es el Socialismo - Explicacion Simple</h4>
+                                    <div class="analisis-seccion contexto">
+                                        <p><strong>El socialismo es un sistema economico y politico</strong> donde el Estado tiene un rol central en controlar o redistribuir los recursos economicos "en nombre de la igualdad".</p>
+                                        <p><strong>Caracteristicas principales:</strong></p>
+                                        <ul>
+                                            <li>Intervencion fuerte del gobierno en la economia</li>
+                                            <li>Altos impuestos para "redistribuir" la riqueza</li>
+                                            <li>Nacionalizacion de industrias clave</li>
+                                            <li>Control de precios y salarios</li>
+                                            <li>Expansion del Estado de bienestar</li>
+                                        </ul>
+                                        <p style="margin-top: 15px; padding: 15px; background: rgba(234, 88, 12, 0.1); border-radius: 8px;"><strong>Lo que no te dicen:</strong> El propio Karl Marx dijo que el socialismo es la "fase de transicion" hacia el comunismo. No es el destino final, es el camino.</p>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-stairs"></i> Las Etapas: De Democracia a Dictadura</h4>
+                                    <div class="control-grid">
+                                        <div class="control-item" style="border-left-color: #ea580c;">
+                                            <strong><i class="fas fa-1" style="color: #ea580c;"></i> Etapa 1: Las Promesas</strong>
+                                            <p>"Vamos a ayudar a los pobres", "Educacion gratis", "Salud gratis", "Los ricos pagaran". Suena bien, ganan elecciones democraticamente.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #ea580c;">
+                                            <strong><i class="fas fa-2" style="color: #ea580c;"></i> Etapa 2: Expansion del Estado</strong>
+                                            <p>Suben impuestos, nacionalizan empresas "estrategicas", crean dependencia con programas sociales. El Estado crece, el sector privado se encoge.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #ea580c;">
+                                            <strong><i class="fas fa-3" style="color: #ea580c;"></i> Etapa 3: Crisis Economica</strong>
+                                            <p>Las empresas huyen o quiebran, la inversion cae, el desempleo sube, se acaba el dinero. Empiezan a imprimir dinero = inflacion.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #ea580c;">
+                                            <strong><i class="fas fa-4" style="color: #ea580c;"></i> Etapa 4: Control de Precios</strong>
+                                            <p>Para "combatir" la inflacion, controlan precios. Resultado: escasez, mercado negro, filas para todo. La economia se destruye.</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #dc2626;">
+                                            <strong><i class="fas fa-5" style="color: #dc2626;"></i> Etapa 5: Represion</strong>
+                                            <p>La gente protesta por la crisis. Respuesta: perseguir a la oposicion, controlar medios, criminalizar la disidencia. "Es culpa del imperialismo".</p>
+                                        </div>
+                                        <div class="control-item" style="border-left-color: #dc2626;">
+                                            <strong><i class="fas fa-6" style="color: #dc2626;"></i> Etapa 6: Dictadura Total</strong>
+                                            <p>Eliminan elecciones libres, persiguen opositores, controlan todo. Ya no es socialismo "democratico", es comunismo totalitario.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-route"></i> El Patron se Repite: Casos Reales</h4>
+
+                                    <div class="analisis-seccion perjuicios" style="margin-bottom: 20px;">
+                                        <h4><i class="fas fa-oil-can"></i> Venezuela: El Caso Mas Reciente</h4>
+                                        <ul>
+                                            <li><strong>1998:</strong> Chavez gana elecciones prometiendo "socialismo del siglo XXI"</li>
+                                            <li><strong>2001-2007:</strong> Nacionaliza petroleo, electricidad, telecomunicaciones</li>
+                                            <li><strong>2007-2012:</strong> Control de precios, expropiaciones masivas, "misiones" sociales</li>
+                                            <li><strong>2013-2016:</strong> Crisis economica, escasez, inflacion descontrolada</li>
+                                            <li><strong>2017-presente:</strong> Represion de protestas, presos politicos, fraude electoral</li>
+                                            <li><strong>Resultado:</strong> 7+ millones de refugiados, pobreza del 90%, dictadura total</li>
+                                        </ul>
+                                        <p style="margin-top: 10px; font-style: italic;">"El objetivo del socialismo es el comunismo" - Vladimir Lenin</p>
+                                    </div>
+
+                                    <div class="analisis-seccion perjuicios" style="margin-bottom: 20px;">
+                                        <h4><i class="fas fa-umbrella-beach"></i> Cuba: 65 Anos del Mismo Patron</h4>
+                                        <ul>
+                                            <li><strong>1959:</strong> Castro promete democracia y reformas moderadas</li>
+                                            <li><strong>1960:</strong> Nacionaliza todas las empresas, bancos, propiedades</li>
+                                            <li><strong>1961:</strong> Se declara comunista, elimina elecciones</li>
+                                            <li><strong>1962-presente:</strong> Racionamiento de comida, represion, pobreza</li>
+                                            <li><strong>Resultado:</strong> 65 anos de dictadura, exodo masivo, miseria generalizada</li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="analisis-seccion perjuicios" style="margin-bottom: 20px;">
+                                        <h4><i class="fas fa-hammer"></i> Nicaragua: La Revolucion que Devoro a sus Hijos</h4>
+                                        <ul>
+                                            <li><strong>1979:</strong> Sandinistas prometen democracia y justicia social</li>
+                                            <li><strong>1980s:</strong> Nacionalizaciones, censura, servicio militar obligatorio</li>
+                                            <li><strong>1990:</strong> Pierden elecciones, aceptan resultado (temporalmente)</li>
+                                            <li><strong>2007:</strong> Ortega vuelve al poder</li>
+                                            <li><strong>2018-presente:</strong> Represion brutal de protestas, cientos de presos politicos</li>
+                                            <li><strong>Resultado:</strong> Otra dictadura socialista en America Latina</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-mask"></i> Las Tacticas del Socialismo para Llegar al Poder</h4>
+                                    <div class="control-grid">
+                                        <div class="control-item">
+                                            <strong><i class="fas fa-bullhorn"></i> Populismo</strong>
+                                            <p>"Nosotros vs ellos". Crear enemigos: los ricos, los empresarios, el imperialismo, la oligarquia. Dividir para conquistar.</p>
+                                        </div>
+                                        <div class="control-item">
+                                            <strong><i class="fas fa-gift"></i> Clientelismo</strong>
+                                            <p>Programas sociales para crear dependencia. Si no votas por nosotros, pierdes tu subsidio.</p>
+                                        </div>
+                                        <div class="control-item">
+                                            <strong><i class="fas fa-newspaper"></i> Control de Medios</strong>
+                                            <p>Comprar, cerrar o intimidar medios criticos. Crear medios estatales de propaganda.</p>
+                                        </div>
+                                        <div class="control-item">
+                                            <strong><i class="fas fa-gavel"></i> Cooptar Instituciones</strong>
+                                            <p>Tomar control de cortes, fiscalias, entes electorales. Eliminar contrapesos.</p>
+                                        </div>
+                                        <div class="control-item">
+                                            <strong><i class="fas fa-graduation-cap"></i> Adoctrinar</strong>
+                                            <p>Controlar educacion para formar generaciones que piensen como el Estado quiere.</p>
+                                        </div>
+                                        <div class="control-item">
+                                            <strong><i class="fas fa-gun"></i> Armar a Civiles Leales</strong>
+                                            <p>Crear milicias o "colectivos" armados que defiendan la revolucion con violencia.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-exclamation-triangle"></i> Senales de Alerta: Tu Pais Va Hacia el Socialismo Si...</h4>
+                                    <div class="analisis-seccion perjuicios">
+                                        <ul>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> El gobierno ataca constantemente al sector privado y a "los ricos"</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Proponen nacionalizar empresas o industrias clave</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Hablan de "refundar" el pais o cambiar la constitucion</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Atacan a la prensa como "enemiga del pueblo"</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Quieren controlar el banco central o la politica monetaria</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Crean programas masivos de subsidios que generan dependencia</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Buscan debilitar a los organismos de control (cortes, fiscalia)</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Usan el discurso de "pueblo vs oligarquia" constantemente</li>
+                                            <li><i class="fas fa-check" style="color: #dc2626;"></i> Tienen "amigos" en Cuba, Venezuela o Nicaragua</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="institucionalidad-section">
+                                    <h4><i class="fas fa-quote-left"></i> Lo Dijeron Ellos Mismos</h4>
+                                    <div class="analisis-seccion contexto" style="font-style: italic;">
+                                        <p>"<strong>El objetivo del socialismo es el comunismo.</strong>" - Vladimir Lenin</p>
+                                        <p style="margin-top: 15px;">"<strong>La democracia es el camino hacia el socialismo.</strong>" - Karl Marx</p>
+                                        <p style="margin-top: 15px;">"<strong>El socialismo solo funciona en dos lugares: en el cielo donde no lo necesitan, y en el infierno donde ya lo tienen.</strong>" - Ronald Reagan</p>
+                                        <p style="margin-top: 15px;">"<strong>El problema del socialismo es que eventualmente te quedas sin el dinero de los demas.</strong>" - Margaret Thatcher</p>
+                                    </div>
+                                </div>
+
+                                <div class="alerta-institucional">
+                                    <i class="fas fa-skull-crossbones"></i>
+                                    <div>
+                                        <p><strong>El patron siempre es el mismo:</strong> Prometen paraiso, entregan miseria. Prometen igualdad, crean una elite. Prometen libertad, entregan dictadura.</p>
+                                        <p style="margin-top: 10px;"><strong>Cada vez que alguien dice "pero esta vez sera diferente"</strong>, recuerda: Venezuela tambien dijo eso. Cuba tambien dijo eso. La Union Sovietica tambien dijo eso.</p>
+                                    </div>
+                                </div>
+
+                                <div class="tema-fuentes">
+                                    <h4>Fuentes:</h4>
+                                    <a href="https://www.hrw.org/americas/venezuela" target="_blank">HRW - Venezuela</a>
+                                    <a href="https://freedomhouse.org/" target="_blank">Freedom House</a>
+                                    <a href="https://www.economist.com/" target="_blank">The Economist</a>
+                                    <a href="https://www.cato.org/" target="_blank">Cato Institute</a>
+                                </div>
+                            </div>
+                        </article>
+
                         <!-- Tema: Salario Minimo -->
                         <article class="tema-card" id="tema-salario">
                             <div class="tema-header">
@@ -1403,6 +1740,253 @@
             e.preventDefault();
             document.getElementById('medios-modal')?.classList.add('active');
         });
+
+        // =============================================
+        // ADMIN MODE - Drag and Drop for Temas
+        // =============================================
+        const ADMIN_KEY = 'lalupa_admin_2025';
+        let isAdminMode = false;
+
+        // Check for admin mode with secret key combination (Ctrl+Shift+A)
+        document.addEventListener('keydown', (e) => {
+            if (e.ctrlKey && e.shiftKey && e.key === 'A') {
+                e.preventDefault();
+                toggleAdminMode();
+            }
+        });
+
+        function toggleAdminMode() {
+            isAdminMode = !isAdminMode;
+            const adminToggle = document.getElementById('admin-toggle');
+            const temasGrid = document.getElementById('temas-grid-sortable');
+
+            if (isAdminMode) {
+                adminToggle.style.display = 'inline-flex';
+                temasGrid.classList.add('admin-sortable');
+                enableDragAndDrop();
+                showAdminNotification('Modo Admin ACTIVADO - Arrastra los temas para reorganizarlos');
+            } else {
+                adminToggle.style.display = 'none';
+                temasGrid.classList.remove('admin-sortable');
+                disableDragAndDrop();
+                showAdminNotification('Modo Admin DESACTIVADO');
+            }
+        }
+
+        function showAdminNotification(message) {
+            const notification = document.createElement('div');
+            notification.className = 'admin-notification';
+            notification.innerHTML = `<i class="fas fa-shield-alt"></i> ${message}`;
+            notification.style.cssText = `
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                background: linear-gradient(135deg, #6366f1, #8b5cf6);
+                color: white;
+                padding: 16px 24px;
+                border-radius: 12px;
+                font-weight: 600;
+                z-index: 10000;
+                box-shadow: 0 10px 40px rgba(99, 102, 241, 0.4);
+                animation: slideIn 0.3s ease;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            `;
+            document.body.appendChild(notification);
+
+            setTimeout(() => {
+                notification.style.animation = 'slideOut 0.3s ease';
+                setTimeout(() => notification.remove(), 300);
+            }, 3000);
+        }
+
+        // Drag and Drop functionality
+        let draggedElement = null;
+
+        function enableDragAndDrop() {
+            const temas = document.querySelectorAll('.tema-card');
+            temas.forEach(tema => {
+                tema.setAttribute('draggable', 'true');
+                tema.addEventListener('dragstart', handleDragStart);
+                tema.addEventListener('dragend', handleDragEnd);
+                tema.addEventListener('dragover', handleDragOver);
+                tema.addEventListener('drop', handleDrop);
+                tema.addEventListener('dragenter', handleDragEnter);
+                tema.addEventListener('dragleave', handleDragLeave);
+            });
+        }
+
+        function disableDragAndDrop() {
+            const temas = document.querySelectorAll('.tema-card');
+            temas.forEach(tema => {
+                tema.setAttribute('draggable', 'false');
+                tema.removeEventListener('dragstart', handleDragStart);
+                tema.removeEventListener('dragend', handleDragEnd);
+                tema.removeEventListener('dragover', handleDragOver);
+                tema.removeEventListener('drop', handleDrop);
+                tema.removeEventListener('dragenter', handleDragEnter);
+                tema.removeEventListener('dragleave', handleDragLeave);
+            });
+        }
+
+        function handleDragStart(e) {
+            draggedElement = this;
+            this.classList.add('dragging');
+            e.dataTransfer.effectAllowed = 'move';
+        }
+
+        function handleDragEnd(e) {
+            this.classList.remove('dragging');
+            document.querySelectorAll('.tema-card').forEach(card => {
+                card.classList.remove('drag-over');
+            });
+            saveTemasOrder();
+        }
+
+        function handleDragOver(e) {
+            e.preventDefault();
+            e.dataTransfer.dropEffect = 'move';
+        }
+
+        function handleDragEnter(e) {
+            e.preventDefault();
+            if (this !== draggedElement) {
+                this.classList.add('drag-over');
+            }
+        }
+
+        function handleDragLeave(e) {
+            this.classList.remove('drag-over');
+        }
+
+        function handleDrop(e) {
+            e.preventDefault();
+            if (this !== draggedElement) {
+                const grid = document.getElementById('temas-grid-sortable');
+                const allTemas = [...grid.querySelectorAll('.tema-card')];
+                const draggedIndex = allTemas.indexOf(draggedElement);
+                const droppedIndex = allTemas.indexOf(this);
+
+                if (draggedIndex < droppedIndex) {
+                    this.parentNode.insertBefore(draggedElement, this.nextSibling);
+                } else {
+                    this.parentNode.insertBefore(draggedElement, this);
+                }
+            }
+            this.classList.remove('drag-over');
+        }
+
+        function saveTemasOrder() {
+            const temas = document.querySelectorAll('.tema-card');
+            const order = [...temas].map(tema => tema.id);
+            localStorage.setItem('lalupa_temas_order', JSON.stringify(order));
+            showAdminNotification('Orden guardado! Los cambios se veran cuando actualices la pagina.');
+        }
+
+        // Load saved order on page load
+        function loadTemasOrder() {
+            const savedOrder = localStorage.getItem('lalupa_temas_order');
+            if (savedOrder) {
+                const order = JSON.parse(savedOrder);
+                const grid = document.getElementById('temas-grid-sortable');
+                order.forEach(id => {
+                    const tema = document.getElementById(id);
+                    if (tema) {
+                        grid.appendChild(tema);
+                    }
+                });
+            }
+        }
+
+        // Load order when page loads
+        document.addEventListener('DOMContentLoaded', loadTemasOrder);
     </script>
+
+    <style>
+        /* Admin Mode Styles */
+        .admin-toggle {
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 50px;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 15px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
+            transition: all 0.3s ease;
+        }
+
+        .admin-toggle:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
+        }
+
+        .admin-sortable .tema-card {
+            cursor: grab;
+            position: relative;
+        }
+
+        .admin-sortable .tema-card::after {
+            content: '\f0b2';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(99, 102, 241, 0.9);
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            z-index: 10;
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
+        }
+
+        .admin-sortable .tema-card:active {
+            cursor: grabbing;
+        }
+
+        .tema-card.dragging {
+            opacity: 0.5;
+            transform: scale(1.02);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+        }
+
+        .tema-card.drag-over {
+            border: 3px dashed #6366f1;
+            background: rgba(99, 102, 241, 0.05);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(100px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes slideOut {
+            from {
+                opacity: 1;
+                transform: translateX(0);
+            }
+            to {
+                opacity: 0;
+                transform: translateX(100px);
+            }
+        }
+    </style>
 </body>
 </html>
