@@ -117,7 +117,7 @@ async function init() {
         renderStats();
         filterAndRenderCasos();
 
-        if (data.estadisticas.ultima_actualizacion) {
+        if (data.estadisticas.ultima_actualizacion && ultimaActualizacion) {
             ultimaActualizacion.textContent = formatDate(data.estadisticas.ultima_actualizacion);
         }
     } catch (error) {
