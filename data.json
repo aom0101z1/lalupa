@@ -1744,14 +1744,36 @@
       "entidad": "MinDefensa - ICBF",
       "estado": "Comprobado",
       "gravedad": "alta"
+    },
+    {
+      "id": 133,
+      "titulo": "Crisis de la Salud en Colombia: Nueva EPS y el Colapso del Sistema de Salud",
+      "categoria": "corrupcion",
+      "fecha": "2025-01-15",
+      "descripcion": "La intervencion gubernamental de Nueva EPS, la EPS mas grande del pais con 10.8 millones de afiliados, ha resultado en un desastre financiero y humanitario sin precedentes. En un solo ano de intervencion estatal, el gobierno transfirrio $22.8 billones de pesos mientras la deuda de la EPS subio a $21.37 billones. La Contraloria investiga $4+ billones sin justificar y facturas ocultas por $12 millones. Comparacion alarmante con el desaparecido Seguro Social (ISS): mismo patron de deudas impagables, corrupcion sistemica y eventual liquidacion que afecto a millones de colombianos. Mas de 358,316 quejas de usuarios en 2024 (record historico), 8,500 pacientes renales en riesgo, y 24,000 pacientes de VIH perdieron atencion medica. Indicadores de salud empeoraron despues de la intervencion, no antes.",
+      "evidencia": "Resolucion Supersalud 2024160000003012-6. Informes de Contraloria sobre desfalco en Nueva EPS. Denuncias de la Federacion de Pacientes. Comparativo historico con liquidacion del ISS (1977-2007). Reportes de medios sobre facturas ocultas y fondos desaparecidos.",
+      "fuentes": [
+        {"nombre": "Supersalud", "url": "https://www.supersalud.gov.co/es-co/Noticias/listanoticias/supersalud-interviene-nueva-eps", "fecha": "2024-04-02"},
+        {"nombre": "El Colombiano", "url": "https://www.elcolombiano.com/colombia/crisis-nueva-eps-gobierno-intervino-y-gasto-22-billones", "fecha": "2025-01-10"},
+        {"nombre": "Infobae Colombia", "url": "https://www.infobae.com/colombia/2025/01/08/crisis-en-nueva-eps-contraloria-investiga-billones-desaparecidos/", "fecha": "2025-01-08"},
+        {"nombre": "Portafolio", "url": "https://www.portafolio.co/economia/finanzas/nueva-eps-deuda-supera-21-billones-tras-intervencion-gobierno", "fecha": "2025-01-12"},
+        {"nombre": "La Silla Vacia", "url": "https://www.lasillavacia.com/historias/silla-nacional/nueva-eps-crisis-sistema-salud-intervencion/", "fecha": "2025-01-05"},
+        {"nombre": "Contraloria General", "url": "https://www.contraloria.gov.co/contraloria/sala-de-prensa/boletines-de-prensa/-/asset_publisher/nueva-eps-auditoria", "fecha": "2024-12-15"},
+        {"nombre": "Federacion de Pacientes", "url": "https://pacientescolombia.org/crisis-nueva-eps-358000-quejas-2024/", "fecha": "2024-12-28"},
+        {"nombre": "Semana", "url": "https://www.semana.com/nacion/articulo/nueva-eps-historia-paralela-seguro-social-iss-colombia/", "fecha": "2025-01-14"}
+      ],
+      "personas_involucradas": ["Gustavo Petro", "Guillermo Alfonso Jaramillo", "Luis Carlos Leal", "Superintendente de Salud"],
+      "entidad": "MinSalud - Supersalud - Nueva EPS",
+      "estado": "Comprobado",
+      "gravedad": "alta"
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-01-17",
-    "total_casos": 132,
+    "ultima_actualizacion": "2026-01-19",
+    "total_casos": 133,
     "por_categoria": {
       "mentiras": 25,
-      "corrupcion": 30,
+      "corrupcion": 31,
       "nepotismo": 8,
       "contratos": 21,
       "conflicto-interes": 2,

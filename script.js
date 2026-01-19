@@ -410,10 +410,33 @@ function openModal(id) {
                 </ul>
             </div>
         ` : ''}
+
+        <div id="rating-container"></div>
+        <div id="comments-container"></div>
     `;
 
     modal.classList.add('active');
     document.body.style.overflow = 'hidden';
+
+    // Load rating and comments asynchronously
+    loadRatingAndComments(id);
+}
+
+// Load rating and comments for the modal
+async function loadRatingAndComments(caseId) {
+    // Load rating
+    const ratingData = await loadRating(caseId);
+    const ratingContainer = document.getElementById('rating-container');
+    if (ratingContainer) {
+        ratingContainer.innerHTML = renderRatingSection(caseId, ratingData);
+    }
+
+    // Load comments
+    const comments = await loadComments(caseId);
+    const commentsContainer = document.getElementById('comments-container');
+    if (commentsContainer) {
+        commentsContainer.innerHTML = renderCommentsSection(caseId, comments);
+    }
 }
 
 // Cerrar modal
@@ -673,3 +696,906 @@ if (violenciaModal) {
 
 // Iniciar
 init();
+
+// ================================
+// AUTHENTICATION HANDLERS
+// ================================
+
+// Handle login form submission
+async function handleLogin(event) {
+    event.preventDefault();
+    const email = document.getElementById('login-email').value;
+    const password = document.getElementById('login-password').value;
+
+    try {
+        await signInWithEmail(email, password);
+    } catch (error) {
+        console.error('Login error:', error);
+    }
+}
+
+// Handle register form submission
+async function handleRegister(event) {
+    event.preventDefault();
+    const name = document.getElementById('register-name').value;
+    const email = document.getElementById('register-email').value;
+    const password = document.getElementById('register-password').value;
+
+    try {
+        await signUpWithEmail(email, password, name);
+    } catch (error) {
+        console.error('Register error:', error);
+    }
+}
+
+// Handle forgot password
+async function handleForgotPassword(event) {
+    event.preventDefault();
+    const email = document.getElementById('login-email').value;
+
+    if (!email) {
+        showNotification('Ingresa tu correo electronico primero', 'error');
+        return;
+    }
+
+    await sendPasswordReset(email);
+}
+
+// ================================
+// COMMENTS SYSTEM
+// ================================
+
+let currentCaseId = null;
+
+// Load comments for a case
+async function loadComments(caseId) {
+    try {
+        const commentsRef = db.collection('comments')
+            .where('caseId', '==', caseId)
+            .where('isHidden', '==', false)
+            .orderBy('createdAt', 'desc');
+
+        const snapshot = await commentsRef.get();
+        const comments = [];
+
+        snapshot.forEach(doc => {
+            comments.push({ id: doc.id, ...doc.data() });
+        });
+
+        return comments;
+    } catch (error) {
+        console.error('Error loading comments:', error);
+        return [];
+    }
+}
+
+// Add a comment
+async function addComment(caseId, content) {
+    if (!currentUser) {
+        showNotification('Debes iniciar sesion para comentar', 'error');
+        openAuthModal();
+        return false;
+    }
+
+    if (userIsBlocked) {
+        showNotification('Tu cuenta ha sido bloqueada y no puedes comentar', 'error');
+        return false;
+    }
+
+    try {
+        await db.collection('comments').add({
+            caseId: caseId,
+            userId: currentUser.uid,
+            userName: currentUser.displayName || currentUser.email.split('@')[0],
+            content: content,
+            createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+            isHidden: false
+        });
+
+        showNotification('Comentario agregado', 'success');
+        return true;
+    } catch (error) {
+        console.error('Error adding comment:', error);
+        showNotification('Error al agregar comentario', 'error');
+        return false;
+    }
+}
+
+// Delete a comment (admin only)
+async function deleteComment(commentId) {
+    if (!isAdmin) {
+        showNotification('No tienes permisos', 'error');
+        return false;
+    }
+
+    try {
+        await db.collection('comments').doc(commentId).update({
+            isHidden: true
+        });
+
+        showNotification('Comentario eliminado', 'success');
+        return true;
+    } catch (error) {
+        console.error('Error deleting comment:', error);
+        showNotification('Error al eliminar comentario', 'error');
+        return false;
+    }
+}
+
+// Render comments section HTML
+function renderCommentsSection(caseId, comments) {
+    currentCaseId = caseId;
+
+    let html = `
+        <div class="comments-section">
+            <div class="comments-header">
+                <h3><i class="fas fa-comments"></i> Comentarios</h3>
+                <span class="comments-count">${comments.length} comentario${comments.length !== 1 ? 's' : ''}</span>
+            </div>
+    `;
+
+    // Show blocked message if user is blocked
+    if (userIsBlocked) {
+        html += `
+            <div class="user-blocked-message">
+                <i class="fas fa-ban"></i> Tu cuenta ha sido bloqueada y no puedes comentar
+            </div>
+        `;
+    }
+    // Comment form (if logged in and not blocked)
+    else if (currentUser) {
+        html += `
+            <div class="comment-form">
+                <textarea id="comment-input" placeholder="Escribe tu comentario..."></textarea>
+                <div class="comment-form-actions">
+                    <button class="btn-comment-submit" onclick="submitComment(${caseId})">
+                        <i class="fas fa-paper-plane"></i> Enviar
+                    </button>
+                </div>
+            </div>
+        `;
+    } else {
+        html += `
+            <div class="comment-login-prompt">
+                <p>Inicia sesion para dejar un comentario</p>
+                <button onclick="openAuthModal()">
+                    <i class="fas fa-sign-in-alt"></i> Iniciar Sesion
+                </button>
+            </div>
+        `;
+    }
+
+    // Comments list
+    if (comments.length > 0) {
+        html += '<div class="comments-list">';
+        comments.forEach(comment => {
+            const date = comment.createdAt ? new Date(comment.createdAt.toDate()).toLocaleDateString('es-CO', {
+                year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+            }) : 'Ahora';
+
+            const initials = comment.userName.substring(0, 2).toUpperCase();
+
+            html += `
+                <div class="comment-item" data-comment-id="${comment.id}">
+                    <div class="comment-header">
+                        <div class="comment-author">
+                            <div class="comment-avatar">${initials}</div>
+                            <div class="comment-author-info">
+                                <strong>${escapeHtml(comment.userName)}</strong>
+                                <small>${date}</small>
+                            </div>
+                        </div>
+                        ${isAdmin ? `
+                            <div class="comment-actions">
+                                <button class="comment-delete" onclick="handleDeleteComment('${comment.id}', ${caseId})">
+                                    <i class="fas fa-trash"></i> Eliminar
+                                </button>
+                            </div>
+                        ` : ''}
+                    </div>
+                    <div class="comment-content">${escapeHtml(comment.content)}</div>
+                </div>
+            `;
+        });
+        html += '</div>';
+    } else {
+        html += `
+            <div class="no-comments">
+                <i class="fas fa-comment-slash"></i>
+                <p>No hay comentarios aun. Se el primero en comentar!</p>
+            </div>
+        `;
+    }
+
+    html += '</div>';
+    return html;
+}
+
+// Submit comment handler
+async function submitComment(caseId) {
+    const input = document.getElementById('comment-input');
+    const content = input.value.trim();
+
+    if (!content) {
+        showNotification('Escribe un comentario', 'error');
+        return;
+    }
+
+    const success = await addComment(caseId, content);
+    if (success) {
+        input.value = '';
+        // Reload comments
+        const comments = await loadComments(caseId);
+        const commentsContainer = document.querySelector('.comments-section');
+        if (commentsContainer) {
+            commentsContainer.outerHTML = renderCommentsSection(caseId, comments);
+        }
+    }
+}
+
+// Handle delete comment
+async function handleDeleteComment(commentId, caseId) {
+    if (confirm('Estas seguro de eliminar este comentario?')) {
+        const success = await deleteComment(commentId);
+        if (success) {
+            const comments = await loadComments(caseId);
+            const commentsContainer = document.querySelector('.comments-section');
+            if (commentsContainer) {
+                commentsContainer.outerHTML = renderCommentsSection(caseId, comments);
+            }
+        }
+    }
+}
+
+// Update comment section when auth state changes
+function updateCommentSection() {
+    if (currentCaseId && document.querySelector('.comments-section')) {
+        loadComments(currentCaseId).then(comments => {
+            const commentsContainer = document.querySelector('.comments-section');
+            if (commentsContainer) {
+                commentsContainer.outerHTML = renderCommentsSection(currentCaseId, comments);
+            }
+        });
+    }
+}
+
+// ================================
+// RATINGS SYSTEM
+// ================================
+
+// Load rating for a case
+async function loadRating(caseId) {
+    try {
+        const ratingDoc = await db.collection('ratings').doc(String(caseId)).get();
+
+        if (ratingDoc.exists) {
+            return ratingDoc.data();
+        }
+
+        return { totalRatings: 0, averageRating: 0, userRatings: {} };
+    } catch (error) {
+        console.error('Error loading rating:', error);
+        return { totalRatings: 0, averageRating: 0, userRatings: {} };
+    }
+}
+
+// Submit rating
+async function submitRating(caseId, rating) {
+    if (!currentUser) {
+        showNotification('Debes iniciar sesion para calificar', 'error');
+        openAuthModal();
+        return false;
+    }
+
+    if (userIsBlocked) {
+        showNotification('Tu cuenta ha sido bloqueada', 'error');
+        return false;
+    }
+
+    try {
+        const ratingRef = db.collection('ratings').doc(String(caseId));
+        const ratingDoc = await ratingRef.get();
+
+        let data = ratingDoc.exists ? ratingDoc.data() : {
+            totalRatings: 0,
+            averageRating: 0,
+            userRatings: {}
+        };
+
+        const previousRating = data.userRatings[currentUser.uid];
+
+        // Update user rating
+        data.userRatings[currentUser.uid] = rating;
+
+        // Recalculate average
+        const ratings = Object.values(data.userRatings);
+        data.totalRatings = ratings.length;
+        data.averageRating = ratings.reduce((a, b) => a + b, 0) / ratings.length;
+
+        await ratingRef.set(data);
+
+        showNotification(previousRating ? 'Calificacion actualizada' : 'Gracias por tu calificacion!', 'success');
+        return true;
+    } catch (error) {
+        console.error('Error submitting rating:', error);
+        showNotification('Error al guardar calificacion', 'error');
+        return false;
+    }
+}
+
+// Render rating section HTML
+function renderRatingSection(caseId, ratingData) {
+    const userRating = currentUser ? ratingData.userRatings[currentUser.uid] : null;
+
+    let starsHtml = '';
+    for (let i = 1; i <= 5; i++) {
+        starsHtml += `<i class="fas fa-star"></i>`;
+    }
+
+    const avgStarsHtml = renderStars(ratingData.averageRating);
+
+    let html = `
+        <div class="rating-section" data-case-id="${caseId}">
+            <div class="rating-header">
+                <h4><i class="fas fa-star"></i> Califica este caso</h4>
+                ${ratingData.totalRatings > 0 ? `
+                    <div class="rating-average">
+                        <span class="stars">${avgStarsHtml}</span>
+                        <span>${ratingData.averageRating.toFixed(1)}</span>
+                        <small>(${ratingData.totalRatings} voto${ratingData.totalRatings !== 1 ? 's' : ''})</small>
+                    </div>
+                ` : ''}
+            </div>
+    `;
+
+    if (userIsBlocked) {
+        html += `<p class="rating-login-prompt">Tu cuenta ha sido bloqueada</p>`;
+    } else if (currentUser) {
+        html += `
+            <div class="star-rating" data-case-id="${caseId}">
+                ${[1,2,3,4,5].map(i => `
+                    <i class="fas fa-star star ${userRating && i <= userRating ? 'active' : ''}"
+                       data-rating="${i}"
+                       onclick="handleRating(${caseId}, ${i})"
+                       onmouseenter="highlightStars(${i})"
+                       onmouseleave="resetStars(${userRating || 0})"></i>
+                `).join('')}
+            </div>
+            ${userRating ? `<p class="rating-submitted"><i class="fas fa-check"></i> Tu calificacion: ${userRating} estrella${userRating !== 1 ? 's' : ''}</p>` : ''}
+        `;
+    } else {
+        html += `
+            <p class="rating-login-prompt">
+                <a href="#" onclick="openAuthModal(); return false;">Inicia sesion</a> para calificar
+            </p>
+        `;
+    }
+
+    html += '</div>';
+    return html;
+}
+
+// Render star icons based on rating
+function renderStars(rating) {
+    let html = '';
+    for (let i = 1; i <= 5; i++) {
+        if (i <= rating) {
+            html += '<i class="fas fa-star"></i>';
+        } else if (i - 0.5 <= rating) {
+            html += '<i class="fas fa-star-half-alt"></i>';
+        } else {
+            html += '<i class="far fa-star"></i>';
+        }
+    }
+    return html;
+}
+
+// Handle rating click
+async function handleRating(caseId, rating) {
+    const success = await submitRating(caseId, rating);
+    if (success) {
+        const ratingData = await loadRating(caseId);
+        const ratingContainer = document.querySelector('.rating-section');
+        if (ratingContainer) {
+            ratingContainer.outerHTML = renderRatingSection(caseId, ratingData);
+        }
+    }
+}
+
+// Highlight stars on hover
+function highlightStars(rating) {
+    const stars = document.querySelectorAll('.star-rating .star');
+    stars.forEach((star, index) => {
+        if (index < rating) {
+            star.classList.add('hovered');
+        } else {
+            star.classList.remove('hovered');
+        }
+    });
+}
+
+// Reset stars on mouse leave
+function resetStars(userRating) {
+    const stars = document.querySelectorAll('.star-rating .star');
+    stars.forEach((star, index) => {
+        star.classList.remove('hovered');
+        if (index < userRating) {
+            star.classList.add('active');
+        } else {
+            star.classList.remove('active');
+        }
+    });
+}
+
+// ================================
+// ADMIN PANEL
+// ================================
+
+// Open admin panel
+function openAdminPanel() {
+    closeUserMenu();
+    const modal = document.getElementById('admin-modal');
+    if (modal) {
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+        showAdminTab('users');
+    }
+}
+
+// Close admin panel
+function closeAdminPanel() {
+    const modal = document.getElementById('admin-modal');
+    if (modal) {
+        modal.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+}
+
+// Show admin tab
+async function showAdminTab(tab) {
+    // Update tab buttons
+    document.querySelectorAll('.admin-tab').forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.textContent.toLowerCase().includes(tab === 'users' ? 'usuario' : tab === 'comments' ? 'comentario' : 'bloqueado')) {
+            btn.classList.add('active');
+        }
+    });
+
+    const content = document.getElementById('admin-content');
+    content.innerHTML = '<div class="admin-loading"><i class="fas fa-spinner fa-spin"></i> Cargando...</div>';
+
+    try {
+        if (tab === 'users') {
+            const users = await loadAllUsers();
+            content.innerHTML = renderUsersTable(users);
+        } else if (tab === 'comments') {
+            const comments = await loadAllComments();
+            content.innerHTML = renderCommentsTable(comments);
+        } else if (tab === 'blocked') {
+            const users = await loadBlockedUsers();
+            content.innerHTML = renderBlockedTable(users);
+        }
+    } catch (error) {
+        console.error('Error loading admin data:', error);
+        content.innerHTML = '<div class="admin-empty"><i class="fas fa-exclamation-circle"></i><p>Error al cargar datos</p></div>';
+    }
+}
+
+// Load all users
+async function loadAllUsers() {
+    const snapshot = await db.collection('users').orderBy('lastLogin', 'desc').limit(50).get();
+    const users = [];
+    snapshot.forEach(doc => users.push({ id: doc.id, ...doc.data() }));
+    return users;
+}
+
+// Load all comments (admin)
+async function loadAllComments() {
+    const snapshot = await db.collection('comments')
+        .where('isHidden', '==', false)
+        .orderBy('createdAt', 'desc')
+        .limit(50)
+        .get();
+    const comments = [];
+    snapshot.forEach(doc => comments.push({ id: doc.id, ...doc.data() }));
+    return comments;
+}
+
+// Load blocked users
+async function loadBlockedUsers() {
+    const snapshot = await db.collection('users').where('isBlocked', '==', true).get();
+    const users = [];
+    snapshot.forEach(doc => users.push({ id: doc.id, ...doc.data() }));
+    return users;
+}
+
+// Render users table
+function renderUsersTable(users) {
+    if (users.length === 0) {
+        return '<div class="admin-empty"><i class="fas fa-users"></i><p>No hay usuarios registrados</p></div>';
+    }
+
+    let html = `
+        <table class="admin-table">
+            <thead>
+                <tr>
+                    <th>Usuario</th>
+                    <th>Email</th>
+                    <th>Estado</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+    `;
+
+    users.forEach(user => {
+        const initials = (user.displayName || user.email || 'U').substring(0, 2).toUpperCase();
+        html += `
+            <tr>
+                <td>
+                    <div class="user-cell">
+                        <div class="user-avatar">${initials}</div>
+                        <span>${escapeHtml(user.displayName || 'Sin nombre')}</span>
+                    </div>
+                </td>
+                <td>${escapeHtml(user.email)}</td>
+                <td>
+                    <span class="status-badge ${user.isBlocked ? 'blocked' : 'active'}">
+                        ${user.isBlocked ? 'Bloqueado' : 'Activo'}
+                    </span>
+                </td>
+                <td>
+                    ${user.email !== ADMIN_EMAIL ? (
+                        user.isBlocked ?
+                        `<button class="btn-unblock" onclick="unblockUser('${user.id}')">Desbloquear</button>` :
+                        `<button class="btn-block" onclick="blockUser('${user.id}')">Bloquear</button>`
+                    ) : '<span style="color: var(--text-muted)">Admin</span>'}
+                </td>
+            </tr>
+        `;
+    });
+
+    html += '</tbody></table>';
+    return html;
+}
+
+// Render comments table
+function renderCommentsTable(comments) {
+    if (comments.length === 0) {
+        return '<div class="admin-empty"><i class="fas fa-comments"></i><p>No hay comentarios</p></div>';
+    }
+
+    let html = `
+        <table class="admin-table">
+            <thead>
+                <tr>
+                    <th>Usuario</th>
+                    <th>Comentario</th>
+                    <th>Caso ID</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+    `;
+
+    comments.forEach(comment => {
+        const initials = (comment.userName || 'U').substring(0, 2).toUpperCase();
+        const truncatedContent = comment.content.length > 50 ?
+            comment.content.substring(0, 50) + '...' : comment.content;
+
+        html += `
+            <tr>
+                <td>
+                    <div class="user-cell">
+                        <div class="user-avatar">${initials}</div>
+                        <span>${escapeHtml(comment.userName)}</span>
+                    </div>
+                </td>
+                <td>${escapeHtml(truncatedContent)}</td>
+                <td>#${comment.caseId}</td>
+                <td>
+                    <button class="btn-block" onclick="adminDeleteComment('${comment.id}')">Eliminar</button>
+                </td>
+            </tr>
+        `;
+    });
+
+    html += '</tbody></table>';
+    return html;
+}
+
+// Render blocked users table
+function renderBlockedTable(users) {
+    if (users.length === 0) {
+        return '<div class="admin-empty"><i class="fas fa-user-slash"></i><p>No hay usuarios bloqueados</p></div>';
+    }
+
+    let html = `
+        <table class="admin-table">
+            <thead>
+                <tr>
+                    <th>Usuario</th>
+                    <th>Email</th>
+                    <th>Razon</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+    `;
+
+    users.forEach(user => {
+        const initials = (user.displayName || user.email || 'U').substring(0, 2).toUpperCase();
+        html += `
+            <tr>
+                <td>
+                    <div class="user-cell">
+                        <div class="user-avatar">${initials}</div>
+                        <span>${escapeHtml(user.displayName || 'Sin nombre')}</span>
+                    </div>
+                </td>
+                <td>${escapeHtml(user.email)}</td>
+                <td>${escapeHtml(user.blockedReason || 'No especificada')}</td>
+                <td>
+                    <button class="btn-unblock" onclick="unblockUser('${user.id}')">Desbloquear</button>
+                </td>
+            </tr>
+        `;
+    });
+
+    html += '</tbody></table>';
+    return html;
+}
+
+// Block user
+async function blockUser(userId) {
+    const reason = prompt('Razon del bloqueo (opcional):');
+
+    try {
+        await db.collection('users').doc(userId).update({
+            isBlocked: true,
+            blockedAt: firebase.firestore.FieldValue.serverTimestamp(),
+            blockedReason: reason || ''
+        });
+
+        showNotification('Usuario bloqueado', 'success');
+        showAdminTab('users');
+    } catch (error) {
+        console.error('Error blocking user:', error);
+        showNotification('Error al bloquear usuario', 'error');
+    }
+}
+
+// Unblock user
+async function unblockUser(userId) {
+    try {
+        await db.collection('users').doc(userId).update({
+            isBlocked: false,
+            blockedAt: null,
+            blockedReason: ''
+        });
+
+        showNotification('Usuario desbloqueado', 'success');
+        showAdminTab('blocked');
+    } catch (error) {
+        console.error('Error unblocking user:', error);
+        showNotification('Error al desbloquear usuario', 'error');
+    }
+}
+
+// Admin delete comment
+async function adminDeleteComment(commentId) {
+    if (confirm('Estas seguro de eliminar este comentario?')) {
+        try {
+            await db.collection('comments').doc(commentId).update({
+                isHidden: true
+            });
+            showNotification('Comentario eliminado', 'success');
+            showAdminTab('comments');
+        } catch (error) {
+            console.error('Error deleting comment:', error);
+            showNotification('Error al eliminar comentario', 'error');
+        }
+    }
+}
+
+// ================================
+// DRAG AND DROP FOR CASES
+// ================================
+
+let isEditMode = false;
+let casesOrder = [];
+let originalOrder = [];
+
+// Toggle edit mode
+function toggleEditMode() {
+    isEditMode = !isEditMode;
+    const casosGrid = document.getElementById('casos-grid');
+    const editBtn = document.getElementById('edit-mode-btn');
+
+    if (isEditMode) {
+        casosGrid.classList.add('edit-mode-active');
+        editBtn.innerHTML = '<i class="fas fa-check"></i> Guardar';
+        editBtn.style.background = 'linear-gradient(135deg, #10b981, #059669)';
+
+        // Store original order
+        originalOrder = [...filteredCasos.map(c => c.id)];
+        casesOrder = [...originalOrder];
+
+        enableCasesDragAndDrop();
+        showSaveOrderBar();
+        showNotification('Modo edicion activado. Arrastra los casos para reordenar.', 'info');
+    } else {
+        casosGrid.classList.remove('edit-mode-active');
+        editBtn.innerHTML = '<i class="fas fa-arrows-alt"></i> Editar';
+        editBtn.style.background = '';
+
+        disableCasesDragAndDrop();
+        hideSaveOrderBar();
+    }
+}
+
+// Enable drag and drop for cases
+function enableCasesDragAndDrop() {
+    const cards = document.querySelectorAll('.caso-card');
+    cards.forEach(card => {
+        card.setAttribute('draggable', 'true');
+        card.addEventListener('dragstart', handleCaseDragStart);
+        card.addEventListener('dragend', handleCaseDragEnd);
+        card.addEventListener('dragover', handleCaseDragOver);
+        card.addEventListener('drop', handleCaseDrop);
+        card.addEventListener('dragenter', handleCaseDragEnter);
+        card.addEventListener('dragleave', handleCaseDragLeave);
+    });
+}
+
+// Disable drag and drop for cases
+function disableCasesDragAndDrop() {
+    const cards = document.querySelectorAll('.caso-card');
+    cards.forEach(card => {
+        card.setAttribute('draggable', 'false');
+        card.removeEventListener('dragstart', handleCaseDragStart);
+        card.removeEventListener('dragend', handleCaseDragEnd);
+        card.removeEventListener('dragover', handleCaseDragOver);
+        card.removeEventListener('drop', handleCaseDrop);
+        card.removeEventListener('dragenter', handleCaseDragEnter);
+        card.removeEventListener('dragleave', handleCaseDragLeave);
+    });
+}
+
+let draggedCase = null;
+
+function handleCaseDragStart(e) {
+    draggedCase = this;
+    this.classList.add('dragging');
+    e.dataTransfer.effectAllowed = 'move';
+}
+
+function handleCaseDragEnd(e) {
+    this.classList.remove('dragging');
+    document.querySelectorAll('.caso-card').forEach(card => {
+        card.classList.remove('drag-over');
+    });
+}
+
+function handleCaseDragOver(e) {
+    e.preventDefault();
+    e.dataTransfer.dropEffect = 'move';
+}
+
+function handleCaseDragEnter(e) {
+    e.preventDefault();
+    if (this !== draggedCase) {
+        this.classList.add('drag-over');
+    }
+}
+
+function handleCaseDragLeave(e) {
+    this.classList.remove('drag-over');
+}
+
+function handleCaseDrop(e) {
+    e.preventDefault();
+    if (this !== draggedCase) {
+        const grid = document.getElementById('casos-grid');
+        const allCards = [...grid.querySelectorAll('.caso-card')];
+        const draggedIndex = allCards.indexOf(draggedCase);
+        const droppedIndex = allCards.indexOf(this);
+
+        if (draggedIndex < droppedIndex) {
+            this.parentNode.insertBefore(draggedCase, this.nextSibling);
+        } else {
+            this.parentNode.insertBefore(draggedCase, this);
+        }
+
+        // Update order array
+        casesOrder = [...grid.querySelectorAll('.caso-card')].map(card => parseInt(card.dataset.id));
+    }
+    this.classList.remove('drag-over');
+}
+
+// Show save order bar
+function showSaveOrderBar() {
+    let bar = document.getElementById('save-order-bar');
+    if (!bar) {
+        bar = document.createElement('div');
+        bar.id = 'save-order-bar';
+        bar.className = 'save-order-bar';
+        bar.innerHTML = `
+            <p><i class="fas fa-info-circle"></i> Arrastra los casos para cambiar el orden</p>
+            <button class="btn-save-order" onclick="saveOrderToFirestore()">
+                <i class="fas fa-save"></i> Guardar Orden
+            </button>
+            <button class="btn-cancel-order" onclick="cancelOrderChanges()">
+                <i class="fas fa-times"></i> Cancelar
+            </button>
+        `;
+        document.body.appendChild(bar);
+    }
+
+    setTimeout(() => bar.classList.add('visible'), 10);
+}
+
+// Hide save order bar
+function hideSaveOrderBar() {
+    const bar = document.getElementById('save-order-bar');
+    if (bar) {
+        bar.classList.remove('visible');
+        setTimeout(() => bar.remove(), 300);
+    }
+}
+
+// Save order to Firestore
+async function saveOrderToFirestore() {
+    try {
+        await db.collection('settings').doc('casesOrder').set({
+            order: casesOrder,
+            updatedAt: firebase.firestore.FieldValue.serverTimestamp(),
+            updatedBy: currentUser.email
+        });
+
+        showNotification('Orden guardado exitosamente!', 'success');
+        toggleEditMode();
+    } catch (error) {
+        console.error('Error saving order:', error);
+        showNotification('Error al guardar el orden', 'error');
+    }
+}
+
+// Cancel order changes
+function cancelOrderChanges() {
+    // Restore original order
+    casesOrder = [...originalOrder];
+    renderCasos();
+    toggleEditMode();
+    showNotification('Cambios cancelados', 'info');
+}
+
+// Load order from Firestore
+async function loadOrderFromFirestore() {
+    try {
+        const doc = await db.collection('settings').doc('casesOrder').get();
+        if (doc.exists) {
+            return doc.data().order || [];
+        }
+        return [];
+    } catch (error) {
+        console.error('Error loading order:', error);
+        return [];
+    }
+}
+
+// Event listener for edit mode button
+document.getElementById('edit-mode-btn')?.addEventListener('click', toggleEditMode);
+
+// Event listener for admin panel button
+document.getElementById('admin-panel-btn')?.addEventListener('click', openAdminPanel);
+
+// Close admin modal on background click
+document.getElementById('admin-modal')?.addEventListener('click', (e) => {
+    if (e.target.id === 'admin-modal') closeAdminPanel();
+});
+
+// Close auth modal on background click
+document.getElementById('auth-modal')?.addEventListener('click', (e) => {
+    if (e.target.id === 'auth-modal') closeAuthModal();
+});
