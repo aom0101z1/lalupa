@@ -1599,3 +1599,320 @@ document.getElementById('admin-modal')?.addEventListener('click', (e) => {
 document.getElementById('auth-modal')?.addEventListener('click', (e) => {
     if (e.target.id === 'auth-modal') closeAuthModal();
 });
+
+// ================================
+// TEMAS ACCORDION & DRAG-AND-DROP
+// ================================
+
+let temasEditMode = false;
+let temasOrder = [];
+let originalTemasOrder = [];
+
+// Initialize temas accordion functionality
+function initTemasAccordion() {
+    const temaCards = document.querySelectorAll('.tema-card');
+
+    temaCards.forEach(card => {
+        const header = card.querySelector('.tema-header');
+        const content = card.querySelector('.tema-content');
+
+        if (!header || !content) return;
+
+        // Add collapsed class initially (all collapsed by default)
+        content.classList.add('tema-content-collapsed');
+        card.classList.add('tema-collapsed');
+
+        // Add toggle icon if not exists
+        if (!header.querySelector('.tema-toggle-icon')) {
+            const toggleIcon = document.createElement('span');
+            toggleIcon.className = 'tema-toggle-icon';
+            toggleIcon.innerHTML = '<i class="fas fa-chevron-down"></i>';
+            header.appendChild(toggleIcon);
+        }
+
+        // Make header clickable
+        header.style.cursor = 'pointer';
+        header.addEventListener('click', (e) => {
+            // Don't toggle if dragging
+            if (temasEditMode && e.target.closest('.tema-drag-handle')) return;
+            toggleTemaContent(card);
+        });
+    });
+}
+
+// Toggle tema content visibility
+function toggleTemaContent(card) {
+    const content = card.querySelector('.tema-content');
+    const icon = card.querySelector('.tema-toggle-icon i');
+
+    if (content.classList.contains('tema-content-collapsed')) {
+        // Expand
+        content.classList.remove('tema-content-collapsed');
+        card.classList.remove('tema-collapsed');
+        if (icon) {
+            icon.classList.remove('fa-chevron-down');
+            icon.classList.add('fa-chevron-up');
+        }
+    } else {
+        // Collapse
+        content.classList.add('tema-content-collapsed');
+        card.classList.add('tema-collapsed');
+        if (icon) {
+            icon.classList.remove('fa-chevron-up');
+            icon.classList.add('fa-chevron-down');
+        }
+    }
+}
+
+// Toggle temas edit mode (admin only)
+function toggleTemasEditMode() {
+    if (!isAdmin) {
+        showNotification('Solo administradores pueden editar', 'error');
+        return;
+    }
+
+    temasEditMode = !temasEditMode;
+    const temasGrid = document.getElementById('temas-grid-sortable');
+    const adminToggle = document.getElementById('admin-toggle');
+
+    if (temasEditMode) {
+        temasGrid.classList.add('temas-edit-mode');
+        adminToggle.innerHTML = '<i class="fas fa-check"></i> Guardar Orden';
+        adminToggle.style.background = 'linear-gradient(135deg, #10b981, #059669)';
+
+        // Store original order
+        originalTemasOrder = [...document.querySelectorAll('.tema-card')].map(c => c.id);
+        temasOrder = [...originalTemasOrder];
+
+        // Add drag handles to each tema
+        addTemasDragHandles();
+        enableTemasDragAndDrop();
+        showTemasOrderBar();
+        showNotification('Modo edicion de temas activado. Arrastra para reordenar.', 'info');
+    } else {
+        temasGrid.classList.remove('temas-edit-mode');
+        adminToggle.innerHTML = '<i class="fas fa-arrows-alt"></i> Modo Admin: Reorganizar';
+        adminToggle.style.background = '';
+
+        removeTemasDragHandles();
+        disableTemasDragAndDrop();
+        hideTemasOrderBar();
+    }
+}
+
+// Add drag handles to temas
+function addTemasDragHandles() {
+    document.querySelectorAll('.tema-card').forEach(card => {
+        const header = card.querySelector('.tema-header');
+        if (header && !header.querySelector('.tema-drag-handle')) {
+            const handle = document.createElement('div');
+            handle.className = 'tema-drag-handle';
+            handle.innerHTML = '<i class="fas fa-grip-vertical"></i>';
+            header.insertBefore(handle, header.firstChild);
+        }
+    });
+}
+
+// Remove drag handles from temas
+function removeTemasDragHandles() {
+    document.querySelectorAll('.tema-drag-handle').forEach(handle => handle.remove());
+}
+
+// Enable drag and drop for temas
+function enableTemasDragAndDrop() {
+    const cards = document.querySelectorAll('.tema-card');
+    cards.forEach(card => {
+        card.setAttribute('draggable', 'true');
+        card.addEventListener('dragstart', handleTemaDragStart);
+        card.addEventListener('dragend', handleTemaDragEnd);
+        card.addEventListener('dragover', handleTemaDragOver);
+        card.addEventListener('drop', handleTemaDrop);
+        card.addEventListener('dragenter', handleTemaDragEnter);
+        card.addEventListener('dragleave', handleTemaDragLeave);
+    });
+}
+
+// Disable drag and drop for temas
+function disableTemasDragAndDrop() {
+    const cards = document.querySelectorAll('.tema-card');
+    cards.forEach(card => {
+        card.setAttribute('draggable', 'false');
+        card.removeEventListener('dragstart', handleTemaDragStart);
+        card.removeEventListener('dragend', handleTemaDragEnd);
+        card.removeEventListener('dragover', handleTemaDragOver);
+        card.removeEventListener('drop', handleTemaDrop);
+        card.removeEventListener('dragenter', handleTemaDragEnter);
+        card.removeEventListener('dragleave', handleTemaDragLeave);
+    });
+}
+
+let draggedTema = null;
+
+function handleTemaDragStart(e) {
+    draggedTema = this;
+    this.classList.add('tema-dragging');
+    e.dataTransfer.effectAllowed = 'move';
+}
+
+function handleTemaDragEnd(e) {
+    this.classList.remove('tema-dragging');
+    document.querySelectorAll('.tema-card').forEach(card => {
+        card.classList.remove('tema-drag-over');
+    });
+}
+
+function handleTemaDragOver(e) {
+    e.preventDefault();
+    e.dataTransfer.dropEffect = 'move';
+}
+
+function handleTemaDragEnter(e) {
+    e.preventDefault();
+    if (this !== draggedTema) {
+        this.classList.add('tema-drag-over');
+    }
+}
+
+function handleTemaDragLeave(e) {
+    this.classList.remove('tema-drag-over');
+}
+
+function handleTemaDrop(e) {
+    e.preventDefault();
+    if (this !== draggedTema) {
+        const grid = document.getElementById('temas-grid-sortable');
+        const allCards = [...grid.querySelectorAll('.tema-card')];
+        const draggedIndex = allCards.indexOf(draggedTema);
+        const droppedIndex = allCards.indexOf(this);
+
+        if (draggedIndex < droppedIndex) {
+            this.parentNode.insertBefore(draggedTema, this.nextSibling);
+        } else {
+            this.parentNode.insertBefore(draggedTema, this);
+        }
+
+        // Update order array
+        temasOrder = [...grid.querySelectorAll('.tema-card')].map(card => card.id);
+    }
+    this.classList.remove('tema-drag-over');
+}
+
+// Show temas order bar
+function showTemasOrderBar() {
+    let bar = document.getElementById('temas-order-bar');
+    if (!bar) {
+        bar = document.createElement('div');
+        bar.id = 'temas-order-bar';
+        bar.className = 'save-order-bar temas-bar';
+        bar.innerHTML = `
+            <p><i class="fas fa-info-circle"></i> Arrastra los articulos de opinion para cambiar el orden</p>
+            <button class="btn-save-order" onclick="saveTemasOrderToFirestore()">
+                <i class="fas fa-save"></i> Guardar Orden
+            </button>
+            <button class="btn-cancel-order" onclick="cancelTemasOrderChanges()">
+                <i class="fas fa-times"></i> Cancelar
+            </button>
+        `;
+        document.body.appendChild(bar);
+    }
+
+    setTimeout(() => bar.classList.add('visible'), 10);
+}
+
+// Hide temas order bar
+function hideTemasOrderBar() {
+    const bar = document.getElementById('temas-order-bar');
+    if (bar) {
+        bar.classList.remove('visible');
+        setTimeout(() => bar.remove(), 300);
+    }
+}
+
+// Save temas order to Firestore
+async function saveTemasOrderToFirestore() {
+    try {
+        await db.collection('settings').doc('temasOrder').set({
+            order: temasOrder,
+            updatedAt: firebase.firestore.FieldValue.serverTimestamp(),
+            updatedBy: currentUser.email
+        });
+
+        showNotification('Orden de temas guardado!', 'success');
+        toggleTemasEditMode();
+    } catch (error) {
+        console.error('Error saving temas order:', error);
+        showNotification('Error al guardar el orden', 'error');
+    }
+}
+
+// Cancel temas order changes
+function cancelTemasOrderChanges() {
+    // Restore original order
+    const grid = document.getElementById('temas-grid-sortable');
+    originalTemasOrder.forEach(id => {
+        const card = document.getElementById(id);
+        if (card) grid.appendChild(card);
+    });
+
+    toggleTemasEditMode();
+    showNotification('Cambios cancelados', 'info');
+}
+
+// Load temas order from Firestore
+async function loadTemasOrderFromFirestore() {
+    try {
+        const doc = await db.collection('settings').doc('temasOrder').get();
+        if (doc.exists) {
+            const order = doc.data().order || [];
+            applyTemasOrder(order);
+        }
+    } catch (error) {
+        console.error('Error loading temas order:', error);
+    }
+}
+
+// Apply temas order to DOM
+function applyTemasOrder(order) {
+    const grid = document.getElementById('temas-grid-sortable');
+    if (!grid || order.length === 0) return;
+
+    order.forEach(id => {
+        const card = document.getElementById(id);
+        if (card) grid.appendChild(card);
+    });
+}
+
+// Update admin toggle visibility based on auth
+function updateTemasAdminUI() {
+    const adminToggle = document.getElementById('admin-toggle');
+    if (adminToggle) {
+        adminToggle.style.display = isAdmin ? 'inline-flex' : 'none';
+    }
+}
+
+// Event listener for temas admin toggle
+document.getElementById('admin-toggle')?.addEventListener('click', toggleTemasEditMode);
+
+// Initialize temas on page load (after auth is ready)
+function initTemas() {
+    initTemasAccordion();
+    updateTemasAdminUI();
+
+    // Load saved order if logged in
+    if (typeof db !== 'undefined') {
+        loadTemasOrderFromFirestore();
+    }
+}
+
+// Call initTemas after a delay to ensure Firebase is ready
+setTimeout(initTemas, 1000);
+
+// Also update temas UI when auth state changes
+if (typeof auth !== 'undefined') {
+    auth.onAuthStateChanged(() => {
+        updateTemasAdminUI();
+        if (isAdmin) {
+            loadTemasOrderFromFirestore();
+        }
+    });
+}

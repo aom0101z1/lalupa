@@ -3212,3 +3212,184 @@ body {
 .btn-cancel-order:hover {
     background: rgba(255, 255, 255, 0.2);
 }
+
+/* ================================
+   TEMAS ACCORDION
+   ================================ */
+
+/* Collapsed state for tema content */
+.tema-content-collapsed {
+    display: none;
+}
+
+/* Toggle icon in tema header */
+.tema-toggle-icon {
+    margin-left: auto;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    transition: var(--transition);
+    flex-shrink: 0;
+}
+
+.tema-toggle-icon i {
+    font-size: 0.9rem;
+    transition: transform 0.3s ease;
+}
+
+.tema-header:hover .tema-toggle-icon {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Tema card collapsed state */
+.tema-card.tema-collapsed {
+    box-shadow: var(--shadow-sm);
+}
+
+.tema-card.tema-collapsed:hover {
+    box-shadow: var(--shadow);
+    transform: translateY(-2px);
+}
+
+.tema-card.tema-collapsed .tema-header {
+    border-radius: var(--radius-xl);
+}
+
+/* Admin toggle button */
+.admin-toggle {
+    margin-top: 16px;
+    padding: 10px 20px;
+    border-radius: var(--radius-full);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    border: none;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.admin-toggle:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4);
+}
+
+/* ================================
+   TEMAS DRAG AND DROP
+   ================================ */
+
+/* Temas edit mode */
+.temas-edit-mode .tema-card {
+    cursor: grab;
+    border: 2px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.temas-edit-mode .tema-card:hover {
+    border-color: var(--secondary);
+}
+
+.temas-edit-mode .tema-card:active {
+    cursor: grabbing;
+}
+
+/* Tema drag handle */
+.tema-drag-handle {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: var(--radius);
+    cursor: grab;
+    flex-shrink: 0;
+    transition: var(--transition);
+}
+
+.tema-drag-handle:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.tema-drag-handle i {
+    font-size: 1.1rem;
+}
+
+/* Dragging states for temas */
+.tema-card.tema-dragging {
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+
+.tema-card.tema-drag-over {
+    border: 3px dashed var(--secondary) !important;
+    background: rgba(99, 102, 241, 0.05);
+}
+
+/* Temas order bar */
+.save-order-bar.temas-bar {
+    background: linear-gradient(135deg, #7c3aed, #5b21b6);
+}
+
+/* Mobile adjustments for temas accordion */
+@media (max-width: 768px) {
+    .tema-toggle-icon {
+        width: 32px;
+        height: 32px;
+    }
+
+    .tema-drag-handle {
+        width: 36px;
+        height: 36px;
+    }
+
+    .admin-toggle {
+        margin-top: 12px;
+        padding: 8px 16px;
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .tema-header {
+        gap: 12px;
+    }
+
+    .tema-toggle-icon {
+        width: 28px;
+        height: 28px;
+    }
+
+    .tema-toggle-icon i {
+        font-size: 0.75rem;
+    }
+
+    .tema-drag-handle {
+        width: 32px;
+        height: 32px;
+    }
+
+    .save-order-bar {
+        flex-direction: column;
+        gap: 12px;
+        padding: 12px 16px;
+    }
+
+    .save-order-bar p {
+        font-size: 0.85rem;
+        text-align: center;
+    }
+
+    .save-order-bar button {
+        width: 100%;
+        justify-content: center;
+    }
+}
