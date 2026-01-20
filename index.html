@@ -459,6 +459,62 @@
                 padding: 6px 14px;
             }
         }
+
+        /* Opinion Badge for Temas section */
+        .opinion-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: linear-gradient(135deg, #8b5cf6, #6366f1);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-top: 12px;
+        }
+
+        /* Temas promo banner in hero */
+        .temas-promo {
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(139, 92, 246, 0.15);
+            border: 1px solid rgba(139, 92, 246, 0.3);
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .temas-promo-text {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 0.95rem;
+        }
+
+        .temas-promo-text strong {
+            color: #a78bfa;
+        }
+
+        .btn-temas-promo {
+            background: linear-gradient(135deg, #8b5cf6, #6366f1);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-temas-promo:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+        }
     </style>
 </head>
 <body>
@@ -486,7 +542,7 @@
                 </div>
                 <nav class="hero-nav">
                     <a href="#casos" class="hero-nav-link"><i class="fas fa-folder-open"></i> <span>Casos</span></a>
-                    <a href="#temas-interes" class="hero-nav-link"><i class="fas fa-fire"></i> <span>Temas</span></a>
+                    <a href="#temas-interes" class="hero-nav-link"><i class="fas fa-pen-fancy"></i> <span>Opinion</span></a>
                     <a href="#" class="hero-nav-link" id="btn-medios-hero"><i class="fas fa-newspaper"></i> <span>Medios</span></a>
                     <a href="sugerir.html" class="hero-nav-link btn-action"><i class="fas fa-plus"></i> Sugerir</a>
                     <a href="#" class="hero-nav-link btn-auth" id="auth-button-hero"><i class="fas fa-sign-in-alt"></i> <span>Iniciar Sesion</span></a>
@@ -504,8 +560,8 @@
                     Donde la <span class="highlight">verdad</span><br>sale a la luz
                 </h2>
                 <p class="hero-subtitle">
-                    Desenmascaramos la corrupcion y las mentiras del poder con hechos verificables.
-                    Una fuente independiente de informacion para ciudadaños que exigen la verdad.
+                    Recopilamos noticias publicadas por medios reconocidos sobre corrupcion y mentiras del poder.
+                    Aqui no inventamos nada: cada caso tiene sus fuentes verificables para que nadie diga que son "noticias falsas".
                 </p>
                 <div class="hero-stats">
                     <div class="hero-stat">
@@ -529,6 +585,13 @@
                         <i class="fas fa-chart-line"></i> Ver Estadisticas
                     </a>
                 </div>
+
+                <div class="temas-promo">
+                    <span class="temas-promo-text"><i class="fas fa-pen-fancy"></i> <strong>Nuevo:</strong> Lee nuestros articulos de opinion y analisis</span>
+                    <a href="#temas-interes" class="btn-temas-promo">
+                        <i class="fas fa-fire"></i> Ver Temas de Opinion
+                    </a>
+                </div>
             </div>
         </div>
 
@@ -544,24 +607,24 @@
             <div class="features-grid">
                 <div class="feature-card">
                     <div class="feature-icon verificado">
-                        <i class="fas fa-check-double"></i>
+                        <i class="fas fa-newspaper"></i>
                     </div>
-                    <h3>Informacion Verificada</h3>
-                    <p>Cada caso esta respaldado por fuentes periodisticas reconocidas. No publicamos rumores, solo hechos comprobables.</p>
+                    <h3>Noticias de Medios Reales</h3>
+                    <p>Recopilamos noticias publicadas por medios reconocidos como El Tiempo, Semana, El Espectador, Infobae y muchos mas. Nosotros no las inventamos.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon fuentes">
                         <i class="fas fa-link"></i>
                     </div>
-                    <h3>Fuentes Publicas</h3>
-                    <p>Todas las fuentes son de acceso publico. Puedes verificar cada caso por ti mismo con un solo clic.</p>
+                    <h3>Verificalo Tu Mismo</h3>
+                    <p>Cada noticia tiene enlace directo al medio que la publico. Haz clic y comprueba que la noticia existe. Que nadie diga que son inventos.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon transparencia">
                         <i class="fas fa-eye"></i>
                     </div>
-                    <h3>Transparencia Total</h3>
-                    <p>Sin agenda oculta. Documentamos los hechos tal como son reportados por medios de comunicacion independientes.</p>
+                    <h3>Quien lo Publico</h3>
+                    <p>Mostramos claramente que medio publico cada noticia y cuando. Asi queda evidencia de que la informacion viene de fuentes periodisticas, no de nosotros.</p>
                 </div>
             </div>
         </div>
@@ -579,7 +642,7 @@
                 <div class="sticky-links">
                     <a href="#casos" class="sticky-link active">Casos</a>
                     <a href="#estadisticas" class="sticky-link">Estadisticas</a>
-                    <a href="#temas-interes" class="sticky-link">Temas</a>
+                    <a href="#temas-interes" class="sticky-link">Opinion</a>
                     <a href="#" class="sticky-link" id="btn-medios">
                         <i class="fas fa-newspaper"></i> Medios
                     </a>
@@ -675,11 +738,12 @@
                     </div>
                 </section>
 
-                <!-- Temas de Interes -->
+                <!-- Temas de Interes - Opinion y Analisis -->
                 <section id="temas-interes" class="temas-section">
                     <div class="section-header">
-                        <h2><i class="fas fa-fire"></i> Temas de Interes</h2>
-                        <p>Analisis de politicas que afectan a los colombiaños</p>
+                        <h2><i class="fas fa-pen-fancy"></i> Opinion y Analisis</h2>
+                        <p>Esta seccion SI es nuestra: aqui compartimos nuestro analisis y opinion sobre temas importantes para Colombia</p>
+                        <span class="opinion-badge"><i class="fas fa-user-edit"></i> Contenido editorial de La Lupa</span>
                         <!-- Admin toggle -->
                         <button class="admin-toggle" id="admin-toggle" style="display: none;">
                             <i class="fas fa-arrows-alt"></i> Modo Admin: Reorganizar
