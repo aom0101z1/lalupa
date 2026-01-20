@@ -3,7 +3,7 @@
 // Get them from: Firebase Console > Project Settings > Your apps > Web app
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDdJOinP5e_R-X1lNOnSMnL7DpI9FyUmhE",
+    apiKey: "AIzaSyDdjOinP5e_R-X1lNOnSMnL7DpI9FyUmhE",
     authDomain: "lalupa0101.firebaseapp.com",
     projectId: "lalupa0101",
     storageBucket: "lalupa0101.firebasestorage.app",
