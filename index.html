@@ -709,14 +709,15 @@
                                 <option value="">Todos</option>
                                 <option value="Comprobado">Comprobado</option>
                                 <option value="En investigacion">En investigacion</option>
+                                <option value="Reportado">Reportado</option>
                                 <option value="Desmentido">Desmentido</option>
                             </select>
                         </div>
                         <div class="filter-group">
                             <label>Ordenar:</label>
                             <select id="sort-by">
-                                <option value="fecha-desc">Másrecientes</option>
-                                <option value="fecha-asc">Másantiguos</option>
+                                <option value="fecha-desc">Más recientes</option>
+                                <option value="fecha-asc">Más antiguos</option>
                                 <option value="gravedad">Por gravedad</option>
                             </select>
                         </div>
@@ -734,7 +735,7 @@
                     </div>
                     <div class="no-results" id="no-results" style="display: none;">
                         <i class="fas fa-search"></i>
-                        <p>No se encontraron casos con los filtros selecciónados</p>
+                        <p>No se encontraron casos con los filtros seleccionados</p>
                     </div>
                 </section>
 
@@ -2105,12 +2106,17 @@
             window.requestAnimationFrame(step);
         }
 
-        // Animate hero stats on load
+        // Animate hero stats on load - wait for data to load first
         window.addEventListener('load', () => {
-            const totalCasosEl = document.getElementById('hero-total-casos');
-            if (totalCasosEl) {
-                animateValue(totalCasosEl, 0, 132, 2000);
-            }
+            // Give init() time to load data, then animate with actual count
+            setTimeout(() => {
+                const totalCasosEl = document.getElementById('hero-total-casos');
+                if (totalCasosEl && typeof data !== 'undefined' && data.casos) {
+                    animateValue(totalCasosEl, 0, data.casos.length, 2000);
+                } else if (totalCasosEl) {
+                    animateValue(totalCasosEl, 0, 135, 2000); // Fallback
+                }
+            }, 500);
         });
 
         // Connect hero buttons to modals

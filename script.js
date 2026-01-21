@@ -110,24 +110,46 @@ const mediosInfo = {
 // Inicializar la aplicacion
 async function init() {
     try {
+        console.log('Iniciando carga de datos...');
         const response = await fetch('data.json');
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
         data = await response.json();
+        console.log('Datos cargados:', data.casos ? data.casos.length + ' casos' : 'sin casos');
+
+        // Verify data structure
+        if (!data.categorias || !Array.isArray(data.categorias)) {
+            console.error('data.categorias no es un array valido');
+            data.categorias = [];
+        }
+        if (!data.casos || !Array.isArray(data.casos)) {
+            console.error('data.casos no es un array valido');
+            data.casos = [];
+        }
 
         populateFilters();
         renderStats();
         filterAndRenderCasos();
 
-        if (data.estadisticas.ultima_actualizacion && ultimaActualizacion) {
+        if (data.estadisticas && data.estadisticas.ultima_actualizacion && ultimaActualizacion) {
             ultimaActualizacion.textContent = formatDate(data.estadisticas.ultima_actualizacion);
         }
+
+        console.log('Inicializacion completada. Casos filtrados:', filteredCasos.length);
     } catch (error) {
         console.error('Error cargando datos:', error);
-        casosGrid.innerHTML = `
-            <div class="no-results">
-                <i class="fas fa-exclamation-circle"></i>
-                <p>Error al cargar los datos. Verifica que el archivo data.json existe.</p>
-            </div>
-        `;
+        if (casosGrid) {
+            casosGrid.innerHTML = `
+                <div class="no-results">
+                    <i class="fas fa-exclamation-circle"></i>
+                    <p>Error al cargar los datos. Verifica que el archivo data.json existe.</p>
+                    <p style="font-size: 0.8em; color: #999;">${error.message}</p>
+                </div>
+            `;
+        }
     }
 }
 
@@ -654,14 +676,20 @@ function filterByMedio(medioNombre) {
 }
 
 // Event listeners para modal de medios
-btnMedios.addEventListener('click', (e) => {
-    e.preventDefault();
-    openMediosModal();
-});
-mediosModalClose.addEventListener('click', closeMediosModal);
-mediosModal.addEventListener('click', (e) => {
-    if (e.target === mediosModal) closeMediosModal();
-});
+if (btnMedios) {
+    btnMedios.addEventListener('click', (e) => {
+        e.preventDefault();
+        openMediosModal();
+    });
+}
+if (mediosModalClose) {
+    mediosModalClose.addEventListener('click', closeMediosModal);
+}
+if (mediosModal) {
+    mediosModal.addEventListener('click', (e) => {
+        if (e.target === mediosModal) closeMediosModal();
+    });
+}
 
 // Modal de violencia
 function openViolenciaModal() {
