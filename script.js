@@ -107,67 +107,45 @@ const mediosInfo = {
     'Inter-American Dialogue': { tipo: 'oficial', pais: 'EE.UU.', icon: 'fa-globe-americas' }
 };
 
-// Debug helper - remove in production
-function showDebug(msg) {
-    console.log(msg);
-    let debugEl = document.getElementById('debug-output');
-    if (!debugEl) {
-        debugEl = document.createElement('div');
-        debugEl.id = 'debug-output';
-        debugEl.style.cssText = 'position:fixed;bottom:0;left:0;right:0;background:#000;color:#0f0;font-family:monospace;font-size:12px;padding:10px;max-height:200px;overflow-y:auto;z-index:9999;';
-        document.body.appendChild(debugEl);
-    }
-    debugEl.innerHTML += msg + '<br>';
-}
-
 // Inicializar la aplicacion
 async function init() {
-    showDebug('init() called');
     try {
-        showDebug('Fetching data.json...');
+        console.log('La Lupa: Iniciando carga de datos...');
         const response = await fetch('data.json');
-        showDebug('Fetch response status: ' + response.status);
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
 
         data = await response.json();
-        showDebug('JSON parsed. casos: ' + (data.casos ? data.casos.length : 'undefined'));
-        showDebug('categorias: ' + (data.categorias ? data.categorias.length : 'undefined'));
+        console.log('La Lupa: Datos cargados -', data.casos ? data.casos.length + ' casos' : 'sin casos');
 
         // Verify data structure
         if (!data.categorias || !Array.isArray(data.categorias)) {
-            showDebug('ERROR: data.categorias not valid array');
+            console.error('La Lupa: data.categorias no es un array valido');
             data.categorias = [];
         }
         if (!data.casos || !Array.isArray(data.casos)) {
-            showDebug('ERROR: data.casos not valid array');
+            console.error('La Lupa: data.casos no es un array valido');
             data.casos = [];
         }
 
-        showDebug('Calling populateFilters...');
         populateFilters();
-        showDebug('Calling renderStats...');
         renderStats();
-        showDebug('Calling filterAndRenderCasos...');
         filterAndRenderCasos();
-        showDebug('filteredCasos.length: ' + filteredCasos.length);
 
         if (data.estadisticas && data.estadisticas.ultima_actualizacion && ultimaActualizacion) {
             ultimaActualizacion.textContent = formatDate(data.estadisticas.ultima_actualizacion);
         }
 
-        showDebug('Init completed successfully!');
+        console.log('La Lupa: Inicializacion completada. Casos mostrados:', filteredCasos.length);
     } catch (error) {
-        showDebug('ERROR: ' + error.message);
-        console.error('Error cargando datos:', error);
+        console.error('La Lupa: Error cargando datos:', error);
         if (casosGrid) {
             casosGrid.innerHTML = `
                 <div class="no-results">
                     <i class="fas fa-exclamation-circle"></i>
-                    <p>Error al cargar los datos. Verifica que el archivo data.json existe.</p>
-                    <p style="font-size: 0.8em; color: #999;">${error.message}</p>
+                    <p>Error al cargar los datos. Por favor recarga la pagina.</p>
                 </div>
             `;
         }
