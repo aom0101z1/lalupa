@@ -107,39 +107,60 @@ const mediosInfo = {
     'Inter-American Dialogue': { tipo: 'oficial', pais: 'EE.UU.', icon: 'fa-globe-americas' }
 };
 
+// Debug helper - remove in production
+function showDebug(msg) {
+    console.log(msg);
+    let debugEl = document.getElementById('debug-output');
+    if (!debugEl) {
+        debugEl = document.createElement('div');
+        debugEl.id = 'debug-output';
+        debugEl.style.cssText = 'position:fixed;bottom:0;left:0;right:0;background:#000;color:#0f0;font-family:monospace;font-size:12px;padding:10px;max-height:200px;overflow-y:auto;z-index:9999;';
+        document.body.appendChild(debugEl);
+    }
+    debugEl.innerHTML += msg + '<br>';
+}
+
 // Inicializar la aplicacion
 async function init() {
+    showDebug('init() called');
     try {
-        console.log('Iniciando carga de datos...');
+        showDebug('Fetching data.json...');
         const response = await fetch('data.json');
+        showDebug('Fetch response status: ' + response.status);
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
 
         data = await response.json();
-        console.log('Datos cargados:', data.casos ? data.casos.length + ' casos' : 'sin casos');
+        showDebug('JSON parsed. casos: ' + (data.casos ? data.casos.length : 'undefined'));
+        showDebug('categorias: ' + (data.categorias ? data.categorias.length : 'undefined'));
 
         // Verify data structure
         if (!data.categorias || !Array.isArray(data.categorias)) {
-            console.error('data.categorias no es un array valido');
+            showDebug('ERROR: data.categorias not valid array');
             data.categorias = [];
         }
         if (!data.casos || !Array.isArray(data.casos)) {
-            console.error('data.casos no es un array valido');
+            showDebug('ERROR: data.casos not valid array');
             data.casos = [];
         }
 
+        showDebug('Calling populateFilters...');
         populateFilters();
+        showDebug('Calling renderStats...');
         renderStats();
+        showDebug('Calling filterAndRenderCasos...');
         filterAndRenderCasos();
+        showDebug('filteredCasos.length: ' + filteredCasos.length);
 
         if (data.estadisticas && data.estadisticas.ultima_actualizacion && ultimaActualizacion) {
             ultimaActualizacion.textContent = formatDate(data.estadisticas.ultima_actualizacion);
         }
 
-        console.log('Inicializacion completada. Casos filtrados:', filteredCasos.length);
+        showDebug('Init completed successfully!');
     } catch (error) {
+        showDebug('ERROR: ' + error.message);
         console.error('Error cargando datos:', error);
         if (casosGrid) {
             casosGrid.innerHTML = `
