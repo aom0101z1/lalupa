@@ -12,12 +12,25 @@ const firebaseConfig = {
     measurementId: "G-68S1GCTY4J"
 };
 
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+// Initialize Firebase with error handling
+let auth = null;
+let db = null;
+let firebaseInitialized = false;
 
-// Initialize services
-const auth = firebase.auth();
-const db = firebase.firestore();
+try {
+    if (typeof firebase !== 'undefined') {
+        firebase.initializeApp(firebaseConfig);
+        auth = firebase.auth();
+        db = firebase.firestore();
+        firebaseInitialized = true;
+        console.log('Firebase initialized successfully');
+    } else {
+        console.warn('Firebase SDK not loaded - authentication features disabled');
+    }
+} catch (error) {
+    console.error('Firebase initialization error:', error);
+    console.warn('Site will work without authentication features');
+}
 
 // Admin email - this user will have admin privileges
 const ADMIN_EMAIL = "admin@ciudadbilingue.com";
@@ -27,34 +40,40 @@ let currentUser = null;
 let isAdmin = false;
 let userIsBlocked = false;
 
-// Auth state observer
-auth.onAuthStateChanged(async (user) => {
-    currentUser = user;
+// Auth state observer - only if Firebase is initialized
+if (auth) {
+    auth.onAuthStateChanged(async (user) => {
+        currentUser = user;
 
-    if (user) {
-        // Check if user is admin
-        isAdmin = user.email === ADMIN_EMAIL;
+        if (user) {
+            // Check if user is admin
+            isAdmin = user.email === ADMIN_EMAIL;
 
-        // Check if user is blocked
-        userIsBlocked = await checkIfUserBlocked(user.uid);
+            // Check if user is blocked
+            userIsBlocked = await checkIfUserBlocked(user.uid);
 
-        // Create or update user profile in Firestore
-        await createOrUpdateUserProfile(user);
+            // Create or update user profile in Firestore
+            await createOrUpdateUserProfile(user);
 
-        // Update UI
-        updateAuthUI(true);
+            // Update UI
+            updateAuthUI(true);
 
-        console.log('Usuario autenticado:', user.email, isAdmin ? '(Admin)' : '');
-    } else {
-        isAdmin = false;
-        userIsBlocked = false;
-        updateAuthUI(false);
-        console.log('Usuario no autenticado');
-    }
-});
+            console.log('Usuario autenticado:', user.email, isAdmin ? '(Admin)' : '');
+        } else {
+            isAdmin = false;
+            userIsBlocked = false;
+            updateAuthUI(false);
+            console.log('Usuario no autenticado');
+        }
+    });
+} else {
+    // Firebase not available - update UI for non-authenticated state
+    updateAuthUI(false);
+}
 
 // Create or update user profile
 async function createOrUpdateUserProfile(user) {
+    if (!db) return; // Firebase not available
     try {
         const userRef = db.collection('users').doc(user.uid);
         const userDoc = await userRef.get();
@@ -82,6 +101,7 @@ async function createOrUpdateUserProfile(user) {
 
 // Check if user is blocked
 async function checkIfUserBlocked(userId) {
+    if (!db) return false; // Firebase not available
     try {
         const userDoc = await db.collection('users').doc(userId).get();
         if (userDoc.exists) {
@@ -96,6 +116,10 @@ async function checkIfUserBlocked(userId) {
 
 // Sign in with email/password
 async function signInWithEmail(email, password) {
+    if (!auth) {
+        showNotification('Autenticacion no disponible', 'error');
+        return null;
+    }
     try {
         const result = await auth.signInWithEmailAndPassword(email, password);
         closeAuthModal();
@@ -109,6 +133,10 @@ async function signInWithEmail(email, password) {
 
 // Sign up with email/password
 async function signUpWithEmail(email, password, displayName) {
+    if (!auth) {
+        showNotification('Autenticacion no disponible', 'error');
+        return null;
+    }
     try {
         const result = await auth.createUserWithEmailAndPassword(email, password);
 
@@ -128,6 +156,10 @@ async function signUpWithEmail(email, password, displayName) {
 
 // Sign in with Google
 async function signInWithGoogle() {
+    if (!auth || typeof firebase === 'undefined') {
+        showNotification('Autenticacion no disponible', 'error');
+        return null;
+    }
     try {
         const provider = new firebase.auth.GoogleAuthProvider();
         provider.setCustomParameters({
@@ -146,6 +178,10 @@ async function signInWithGoogle() {
 
 // Sign out
 async function signOut() {
+    if (!auth) {
+        showNotification('Autenticacion no disponible', 'error');
+        return;
+    }
     try {
         await auth.signOut();
         showNotification('Sesion cerrada', 'info');
@@ -362,6 +398,10 @@ function switchAuthMode(mode) {
 
 // Password reset
 async function sendPasswordReset(email) {
+    if (!auth) {
+        showNotification('Autenticacion no disponible', 'error');
+        return;
+    }
     try {
         await auth.sendPasswordResetEmail(email);
         showNotification('Correo de recuperacion enviado', 'success');
