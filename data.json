@@ -66,6 +66,93 @@
   ],
   "casos": [
     {
+      "id": 139,
+      "titulo": "Denuncias de fraude en recolección de firmas presidenciales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-20",
+      "descripcion": "El proceso de recolección de firmas para las elecciones presidenciales presenta un balance agridulce con denuncias por fraude. La Registraduría recibió una cantidad de firmas tres veces mayor a la de 2022, lo que retó sus tiempos y capacidades operativas, generando cuestionamientos sobre la validez del proceso.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/este-es-el-balance-agridulce-que-deja-la-recoleccion-de-firmas-para-las-elecciones-presidenciales-se-vienen-denuncias-por-fraude-y-una-reforma-3525773",
+          "fecha": "2026-01-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Registraduría Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-21 18:32"
+    },
+    {
+      "id": 138,
+      "titulo": "Secretaria de Presidencia obtuvo tres títulos universitarios en un mismo día",
+      "categoria": "mentiras",
+      "fecha": "2026-01-21",
+      "descripcion": "La secretaria del despacho del presidente Gustavo Petro habría recibido tres títulos universitarios el mismo día en la Fundación San José: dos carreras profesionales y un tecnólogo. Los documentos de grado fueron expedidos con la misma fecha, mismo número de acta (322) y firmados por las mismas directivas, lo que genera dudas sobre la legitimidad de estos títulos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/secretaria-de-la-presidencia-de-gustavo-petro-habria-recibido-tres-titulos-universitarios-el-mismo-dia-en-la-fundacion-san-jose-esto-se-sabe-3525824",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-21 18:32"
+    },
+    {
+      "id": 137,
+      "titulo": "Inscripción irregular de cédulas en elección de curules de paz",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-21",
+      "descripcion": "Se reportó inscripción irregular de cédulas en el 27,4% de los municipios que elegirán las 16 curules de paz de la Cámara de Representantes. Este problema electoral afecta directamente la implementación del acuerdo de paz y pone en riesgo la legitimidad del proceso democrático en estas zonas especiales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-reporto-inscripcion-irregular-de-cedulas-en-27-4-de-los-municipios-que-elegiran-las-curules-de-paz-de-la-camara-3525955",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Registraduría Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-21 18:32"
+    },
+    {
+      "id": 136,
+      "titulo": "Problemas de visados de canciller y funcionarios antes de reunión Petro-Trump",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-21",
+      "descripcion": "La canciller Rosa Villavicencio será reemplazada por el vicecanciller Mauricio Jaramillo en la sesión del Consejo de Seguridad de la ONU debido a versiones sobre problemas de visados que afectarían a ella y otros funcionarios. Esto ocurre a dos semanas de la reunión programada entre Petro y Trump, sugiriendo posibles complicaciones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/vicecanciller-mauricio-jaramillo-reemplazara-a-canciller-rosa-villavicencio-en-sesion-del-consejo-de-seguridad-de-las-naciones-unidas-3525983",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Rosa Villavicencio",
+        "Mauricio Jaramillo"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-21 18:32"
+    },
+    {
       "id": 135,
       "titulo": "Renuncia de esposa de ministro por conflictos en la Fiscalía",
       "categoria": "conflicto-interes",
