@@ -66,6 +66,119 @@
   ],
   "casos": [
     {
+      "id": 144,
+      "titulo": "Falsedad sobre estabilidad de precios de alimentos",
+      "categoria": "mentiras",
+      "fecha": "2026-01-22",
+      "descripcion": "El presidente Petro afirmó que los precios de alimentos estaban estables después del alza del salario mínimo, pero datos oficiales de Corabastos y el DANE muestran que los precios de los alimentos sí han subido. Esta declaración constituye una afirmación falsa sobre un indicador económico clave que afecta directamente a los ciudadanos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/precios-de-los-alimentos-si-han-subido-luego-del-alza-del-salario-minimo/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 01:03"
+    },
+    {
+      "id": 143,
+      "titulo": "Irregularidades en nuevo modelo de expedición de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-01-21",
+      "descripcion": "La Contraloría alertó sobre retrasos, costos irregulares y riesgos fiscales en el nuevo modelo de expedición de pasaportes de la Cancillería. La entidad señaló falta de planeación e incertidumbre en los costos del servicio, que debe entrar en vigencia en abril de 2026, poniendo en riesgo tanto la implementación como los recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-advierte-que-la-cancilleria-presenta-retrasos-costos-irregulares-y-riesgos-fiscales-en-el-nuevo-modelo-de-expedicion-de-pasaportes-3526052",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-22 01:03"
+    },
+    {
+      "id": 142,
+      "titulo": "Riesgos fiscales por recorte a proyecto del Canal del Dique",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-21",
+      "descripcion": "La Contraloría advirtió sobre riesgos fiscales derivados del recorte a vigencias futuras para el proyecto de restauración del Canal del Dique. Este proyecto busca restaurar ecosistemas, controlar inundaciones y mejorar la calidad del agua hacia Cartagena, pero los recortes presupuestales ponen en riesgo su ejecución adecuada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-advierte-riesgos-fiscales-por-recorte-a-vigencias-futuras-para-el-proyecto-de-restauracion-del-canal-del-dique-3526094",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 01:03"
+    },
+    {
+      "id": 141,
+      "titulo": "Problemas de visados de funcionarios de Cancillería",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-21",
+      "descripcion": "La canciller Rosa Villavicencio no podrá asistir a la sesión del Consejo de Seguridad de las Naciones Unidas debido a problemas de visados que también afectan a otros funcionarios de la Cancillería. El vicecanciller Mauricio Jaramillo la reemplazará. Esta situación ocurre a dos semanas de la reunión entre Petro y Trump, sugiriendo posibles complicaciones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/vicecanciller-mauricio-jaramillo-reemplazara-a-canciller-rosa-villavicencio-en-sesion-del-consejo-de-seguridad-de-las-naciones-unidas-3525983",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Rosa Villavicencio",
+        "Mauricio Jaramillo"
+      ],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 01:03"
+    },
+    {
+      "id": 140,
+      "titulo": "Nombramiento de ministro sin experiencia pública ni educación superior",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-21",
+      "descripcion": "El gobierno de Gustavo Petro designó a Alfredo Acosta Zapata como ministro de la Igualdad, quien según su hoja de vida no ha ejercido cargos públicos anteriormente y tiene nivel educativo de bachiller. Este nombramiento plantea interrogantes sobre los criterios de selección para cargos ministeriales de alto nivel en el gobierno nacional.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/quien-es-alfredo-acosta-zapata-designado-ministro-de-la-igualdad-de-gobierno-de-gustavo-petro-no-ha-ejercido-en-cargos-publicos-y-es-bachiller-3525984",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Alfredo Acosta Zapata",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de la Igualdad",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 01:03"
+    },
+    {
       "id": 139,
       "titulo": "Denuncias de fraude en recolección de firmas presidenciales",
       "categoria": "recursos-publicos",
