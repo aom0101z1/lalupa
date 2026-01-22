@@ -759,73 +759,160 @@
                                     <i class="fas fa-shield-alt"></i>
                                 </div>
                                 <h3>Mi Vida Como Policía en Colombia: Del Orgullo al Desencanto</h3>
+                                <button class="lang-toggle" onclick="toggleLanguage(this, event)" title="Switch to English">
+                                    <i class="fas fa-globe"></i>
+                                    <span class="lang-text">EN</span>
+                                </button>
                             </div>
                             <div class="tema-content">
-                                <p class="tema-pregunta">Una historia personal que muchos colombianos desconocen</p>
+                                <!-- SPANISH VERSION -->
+                                <div class="lang-content es active">
+                                    <p class="tema-pregunta">Una historia personal que muchos colombianos desconocen</p>
 
-                                <div class="institucionalidad-section">
-                                    <div class="análisis-sección contexto">
-                                        <p>Hace muchos años, siendo muy joven, tuve el orgullo de vestir el uniforme de la <strong>Policía Nacional de Colombia</strong>. No llegué a la institución por vocación clara — llegué porque mi madre me influenció a serlo. En mi familia había otros policías, y sin tener muy claro qué quería hacer con mi vida, decidí seguir ese camino.</p>
+                                    <div class="institucionalidad-section">
+                                        <div class="análisis-sección contexto">
+                                            <p>Hace muchos años, siendo muy joven, tuve el orgullo de vestir el uniforme de la <strong>Policía Nacional de Colombia</strong>. No llegué a la institución por vocación clara — llegué porque mi madre me influenció a serlo. En mi familia había otros policías, y sin tener muy claro qué quería hacer con mi vida, decidí seguir ese camino.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-mountain"></i> El Terremoto de Armenia: Mi Primer Servicio</h4>
+                                        <div class="análisis-sección contexto">
+                                            <p>Hice el curso de patrullero y lo terminé en una fecha que jamás olvidaré: los tiempos del <strong>terremoto que devastó a Armenia en 1999</strong>. Ese fue mi primer servicio como policía.</p>
+                                            <p style="margin-top: 15px;">Nos llevaron desde Manizales cuando nos faltaba menos de un mes para graduarnos. La ciudad estaba destruida — estaciones de policía, cuarteles de bomberos, hospitales, escuelas... todo en escombros. Nuestra misión era ayudar en el desastre y proteger a la gente.</p>
+                                            <p style="margin-top: 15px; padding: 15px; background: rgba(30, 58, 95, 0.2); border-radius: 8px; border-left: 4px solid #1e3a5f;">
+                                                Recuerdo como si fuera ayer cómo la gente nos aplaudía cuando pasábamos por las calles. <strong>¡Qué orgullo ser policía!</strong> Yo sacaba pecho al caminar. Aunque casi no dormíamos, no queríamos parar de trabajar porque la gente nos necesitaba. En ese momento entendí para qué servía este uniforme.
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-skull-crossbones"></i> La Realidad que Nadie Cuenta</h4>
+                                        <div class="análisis-sección perjuicios">
+                                            <p>Después de ese momento de gloria, tuve que enfrentarme a una realidad completamente diferente.</p>
+                                            <p style="margin-top: 15px;">Fui asignado a diferentes zonas del país donde el mayor problema no era servir a la comunidad — era <strong>sobrevivir</strong>:</p>
+                                            <ul>
+                                                <li>Sobrevivir a las <strong>tomas guerrilleras</strong></li>
+                                                <li>Ver a mis compañeros <strong>destrozados por explosivos</strong></li>
+                                                <li>Ver cómo llegaban los guerrilleros y, cuando los policías se entregaban pensando que les respetarían la vida, aún así <strong>los cortaban en pedazos</strong></li>
+                                                <li><strong>Los vi jugar fútbol con las cabezas de mis compañeros</strong> en el parque del pueblo</li>
+                                            </ul>
+                                            <p style="margin-top: 15px;">Los secuestros. Las violaciones. El peligro constante para nuestras familias.</p>
+                                            <p style="margin-top: 15px; color: #fca5a5;">Había zonas del país donde la gente <strong>no te podía ni saludar</strong> porque la guerrilla los mataba por hacerlo. Zonas donde no podíamos ni comprar comida porque les tenían <strong>prohibido vendernos</strong>. Éramos el enemigo, no por lo que hacíamos, sino por lo que representaba nuestro uniforme.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-heart-broken"></i> La Decisión Más Difícil</h4>
+                                        <div class="análisis-sección contexto">
+                                            <p>Al final, decidí <strong>renunciar y salir del país</strong>.</p>
+                                            <p style="margin-top: 15px;">No pude con tanta maldad. No pude seguir en un lugar donde jamás volvería a sentir el orgullo que sentí aquella vez en Armenia, cuando la gente me necesitaba y yo podía ayudarla. <em>Ese policía que sacaba pecho al caminar murió en alguna vereda olvidada de Colombia.</em></p>
+                                        </div>
+                                    </div>
+
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-exclamation-triangle"></i> Lo Que Veo Hoy</h4>
+                                        <div class="análisis-sección perjuicios">
+                                            <p><strong>Qué triste es ver que hoy en día estamos volviendo a esos tiempos.</strong></p>
+                                            <p style="margin-top: 15px;">Qué triste ver a mi país siendo tomado nuevamente por grupos que se hacen llamar "guerrilleros" pero que no tienen ideales — <strong>son simplemente criminales</strong>. Criminales que se mantienen con el dinero del narcotráfico, los secuestros, las extorsiones. Lo mismo de siempre, con diferentes nombres.</p>
+                                            <p style="margin-top: 15px;">Esperemos que esto no continúe. Ojalá no tengamos que salir de nuevo.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="alerta-institucional" style="background: linear-gradient(135deg, rgba(30, 58, 95, 0.2), rgba(12, 35, 64, 0.3)); border-left-color: #1e3a5f;">
+                                        <i class="fas fa-medal" style="color: #fbbf24;"></i>
+                                        <div>
+                                            <p><strong>Ojalá ningún joven policía tuviera que vivir lo que yo viví</strong>, pero infortunadamente en este momento seguro está pasando en algún rincón de Colombia.</p>
+                                            <p style="margin-top: 15px; font-size: 1.1rem;"><strong>Mis respetos por las Fuerzas Armadas.</strong> Parte de mi corazón está con ustedes.</p>
+                                            <p style="margin-top: 10px; font-size: 1.2rem; color: #fbbf24;"><strong>Mucha fuerza y valentía.</strong></p>
+                                        </div>
+                                    </div>
+
+                                    <div class="tema-fuentes">
+                                        <h4>Contexto histórico:</h4>
+                                        <a href="https://es.wikipedia.org/wiki/Terremoto_de_Armenia_de_1999" target="_blank">Terremoto de Armenia 1999</a>
+                                        <a href="https://es.wikipedia.org/wiki/Conflicto_armado_interno_de_Colombia" target="_blank">Conflicto armado colombiano</a>
+                                    </div>
+
+                                    <div class="tema-autor">
+                                        <em>Este es un artículo de opinión</em>
+                                        <strong>Autor: Alexander O.M.</strong>
                                     </div>
                                 </div>
 
-                                <div class="institucionalidad-section">
-                                    <h4><i class="fas fa-mountain"></i> El Terremoto de Armenia: Mi Primer Servicio</h4>
-                                    <div class="análisis-sección contexto">
-                                        <p>Hice el curso de patrullero y lo terminé en una fecha que jamás olvidaré: los tiempos del <strong>terremoto que devastó a Armenia en 1999</strong>. Ese fue mi primer servicio como policía.</p>
-                                        <p style="margin-top: 15px;">Nos llevaron desde Manizales cuando nos faltaba menos de un mes para graduarnos. La ciudad estaba destruida — estaciones de policía, cuarteles de bomberos, hospitales, escuelas... todo en escombros. Nuestra misión era ayudar en el desastre y proteger a la gente.</p>
-                                        <p style="margin-top: 15px; padding: 15px; background: rgba(30, 58, 95, 0.2); border-radius: 8px; border-left: 4px solid #1e3a5f;">
-                                            Recuerdo como si fuera ayer cómo la gente nos aplaudía cuando pasábamos por las calles. <strong>¡Qué orgullo ser policía!</strong> Yo sacaba pecho al caminar. Aunque casi no dormíamos, no queríamos parar de trabajar porque la gente nos necesitaba. En ese momento entendí para qué servía este uniforme.
-                                        </p>
-                                    </div>
-                                </div>
+                                <!-- ENGLISH VERSION -->
+                                <div class="lang-content en">
+                                    <p class="tema-pregunta">A personal story that many Colombians don't know</p>
 
-                                <div class="institucionalidad-section">
-                                    <h4><i class="fas fa-skull-crossbones"></i> La Realidad que Nadie Cuenta</h4>
-                                    <div class="análisis-sección perjuicios">
-                                        <p>Después de ese momento de gloria, tuve que enfrentarme a una realidad completamente diferente.</p>
-                                        <p style="margin-top: 15px;">Fui asignado a diferentes zonas del país donde el mayor problema no era servir a la comunidad — era <strong>sobrevivir</strong>:</p>
-                                        <ul>
-                                            <li>Sobrevivir a las <strong>tomas guerrilleras</strong></li>
-                                            <li>Ver a mis compañeros <strong>destrozados por explosivos</strong></li>
-                                            <li>Ver cómo llegaban los guerrilleros y, cuando los policías se entregaban pensando que les respetarían la vida, aún así <strong>los cortaban en pedazos</strong></li>
-                                            <li><strong>Los vi jugar fútbol con las cabezas de mis compañeros</strong> en el parque del pueblo</li>
-                                        </ul>
-                                        <p style="margin-top: 15px;">Los secuestros. Las violaciones. El peligro constante para nuestras familias.</p>
-                                        <p style="margin-top: 15px; color: #fca5a5;">Había zonas del país donde la gente <strong>no te podía ni saludar</strong> porque la guerrilla los mataba por hacerlo. Zonas donde no podíamos ni comprar comida porque les tenían <strong>prohibido vendernos</strong>. Éramos el enemigo, no por lo que hacíamos, sino por lo que representaba nuestro uniforme.</p>
+                                    <div class="institucionalidad-section">
+                                        <div class="análisis-sección contexto">
+                                            <p>Many years ago, when I was very young, I had the pride of wearing the uniform of the <strong>Colombian National Police</strong>. I didn't join the institution with a clear vocation — I joined because my mother influenced me to do so. There were other police officers in my family, and without being very clear about what I wanted to do with my life, I decided to follow that path.</p>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="institucionalidad-section">
-                                    <h4><i class="fas fa-heart-broken"></i> La Decisión Más Difícil</h4>
-                                    <div class="análisis-sección contexto">
-                                        <p>Al final, decidí <strong>renunciar y salir del país</strong>.</p>
-                                        <p style="margin-top: 15px;">No pude con tanta maldad. No pude seguir en un lugar donde jamás volvería a sentir el orgullo que sentí aquella vez en Armenia, cuando la gente me necesitaba y yo podía ayudarla. <em>Ese policía que sacaba pecho al caminar murió en alguna vereda olvidada de Colombia.</em></p>
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-mountain"></i> The Armenia Earthquake: My First Service</h4>
+                                        <div class="análisis-sección contexto">
+                                            <p>I completed the patrol officer course and finished it on a date I will never forget: during the <strong>earthquake that devastated Armenia in 1999</strong>. That was my first service as a police officer.</p>
+                                            <p style="margin-top: 15px;">They took us from Manizales when we had less than a month until graduation. The city was destroyed — police stations, fire departments, hospitals, schools... everything in ruins. Our mission was to help with the disaster and protect the people.</p>
+                                            <p style="margin-top: 15px; padding: 15px; background: rgba(30, 58, 95, 0.2); border-radius: 8px; border-left: 4px solid #1e3a5f;">
+                                                I remember as if it were yesterday how people applauded us when we walked through the streets. <strong>What a pride to be a police officer!</strong> I walked with my chest out. Although we barely slept, we didn't want to stop working because people needed us. At that moment I understood what this uniform was for.
+                                            </p>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="institucionalidad-section">
-                                    <h4><i class="fas fa-exclamation-triangle"></i> Lo Que Veo Hoy</h4>
-                                    <div class="análisis-sección perjuicios">
-                                        <p><strong>Qué triste es ver que hoy en día estamos volviendo a esos tiempos.</strong></p>
-                                        <p style="margin-top: 15px;">Qué triste ver a mi país siendo tomado nuevamente por grupos que se hacen llamar "guerrilleros" pero que no tienen ideales — <strong>son simplemente criminales</strong>. Criminales que se mantienen con el dinero del narcotráfico, los secuestros, las extorsiones. Lo mismo de siempre, con diferentes nombres.</p>
-                                        <p style="margin-top: 15px;">Esperemos que esto no continúe. Ojalá no tengamos que salir de nuevo.</p>
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-skull-crossbones"></i> The Reality Nobody Talks About</h4>
+                                        <div class="análisis-sección perjuicios">
+                                            <p>After that moment of glory, I had to face a completely different reality.</p>
+                                            <p style="margin-top: 15px;">I was assigned to different areas of the country where the biggest problem wasn't serving the community — it was <strong>surviving</strong>:</p>
+                                            <ul>
+                                                <li>Surviving <strong>guerrilla takeovers</strong></li>
+                                                <li>Seeing my colleagues <strong>torn apart by explosives</strong></li>
+                                                <li>Watching how guerrillas arrived and, when police officers surrendered thinking their lives would be spared, they were still <strong>cut into pieces</strong></li>
+                                                <li><strong>I saw them playing soccer with my colleagues' heads</strong> in the town square</li>
+                                            </ul>
+                                            <p style="margin-top: 15px;">The kidnappings. The rapes. The constant danger to our families.</p>
+                                            <p style="margin-top: 15px; color: #fca5a5;">There were areas of the country where people <strong>couldn't even greet you</strong> because the guerrillas would kill them for doing so. Areas where we couldn't even buy food because they were <strong>forbidden to sell to us</strong>. We were the enemy, not because of what we did, but because of what our uniform represented.</p>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="alerta-institucional" style="background: linear-gradient(135deg, rgba(30, 58, 95, 0.2), rgba(12, 35, 64, 0.3)); border-left-color: #1e3a5f;">
-                                    <i class="fas fa-medal" style="color: #fbbf24;"></i>
-                                    <div>
-                                        <p><strong>Ojalá ningún joven policía tuviera que vivir lo que yo viví</strong>, pero infortunadamente en este momento seguro está pasando en algún rincón de Colombia.</p>
-                                        <p style="margin-top: 15px; font-size: 1.1rem;"><strong>Mis respetos por las Fuerzas Armadas.</strong> Parte de mi corazón está con ustedes.</p>
-                                        <p style="margin-top: 10px; font-size: 1.2rem; color: #fbbf24;"><strong>Mucha fuerza y valentía.</strong></p>
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-heart-broken"></i> The Hardest Decision</h4>
+                                        <div class="análisis-sección contexto">
+                                            <p>In the end, I decided to <strong>resign and leave the country</strong>.</p>
+                                            <p style="margin-top: 15px;">I couldn't handle so much evil. I couldn't stay in a place where I would never again feel the pride I felt that time in Armenia, when people needed me and I could help them. <em>That police officer who walked with his chest out died somewhere in a forgotten village in Colombia.</em></p>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="tema-fuentes">
-                                    <h4>Contexto histórico:</h4>
-                                    <a href="https://es.wikipedia.org/wiki/Terremoto_de_Armenia_de_1999" target="_blank">Terremoto de Armenia 1999</a>
-                                    <a href="https://es.wikipedia.org/wiki/Conflicto_armado_interno_de_Colombia" target="_blank">Conflicto armado colombiano</a>
+                                    <div class="institucionalidad-section">
+                                        <h4><i class="fas fa-exclamation-triangle"></i> What I See Today</h4>
+                                        <div class="análisis-sección perjuicios">
+                                            <p><strong>How sad it is to see that today we are going back to those times.</strong></p>
+                                            <p style="margin-top: 15px;">How sad to see my country being taken over again by groups that call themselves "guerrillas" but have no ideals — <strong>they are simply criminals</strong>. Criminals who sustain themselves with money from drug trafficking, kidnappings, extortions. The same as always, with different names.</p>
+                                            <p style="margin-top: 15px;">Let's hope this doesn't continue. Hopefully we won't have to leave again.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="alerta-institucional" style="background: linear-gradient(135deg, rgba(30, 58, 95, 0.2), rgba(12, 35, 64, 0.3)); border-left-color: #1e3a5f;">
+                                        <i class="fas fa-medal" style="color: #fbbf24;"></i>
+                                        <div>
+                                            <p><strong>I hope no young police officer ever has to live what I lived</strong>, but unfortunately right now it's surely happening somewhere in Colombia.</p>
+                                            <p style="margin-top: 15px; font-size: 1.1rem;"><strong>My respect to the Armed Forces.</strong> Part of my heart is with you.</p>
+                                            <p style="margin-top: 10px; font-size: 1.2rem; color: #fbbf24;"><strong>Much strength and courage.</strong></p>
+                                        </div>
+                                    </div>
+
+                                    <div class="tema-fuentes">
+                                        <h4>Historical context:</h4>
+                                        <a href="https://en.wikipedia.org/wiki/1999_Armenia,_Colombia_earthquake" target="_blank">Armenia Earthquake 1999</a>
+                                        <a href="https://en.wikipedia.org/wiki/Colombian_conflict" target="_blank">Colombian armed conflict</a>
+                                    </div>
+
+                                    <div class="tema-autor">
+                                        <em>This is an opinion article</em>
+                                        <strong>Author: Alexander O.M.</strong>
+                                    </div>
                                 </div>
 
                                 <div class="share-section">
@@ -842,11 +929,6 @@
                                         <a class="share-btn email" onclick="shareArticle('email', this)" title="Enviar por correo"><i class="fas fa-envelope"></i><span>Email</span></a>
                                         <a class="share-btn copy-link" onclick="shareArticle('copy', this)" title="Copiar enlace"><i class="fas fa-link"></i><span>Copiar</span></a>
                                     </div>
-                                </div>
-
-                                <div class="tema-autor">
-                                    <em>Este es un artículo de opinión</em>
-                                    <strong>Autor: Alexander O.M.</strong>
                                 </div>
                             </div>
                         </article>

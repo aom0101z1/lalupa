@@ -1667,6 +1667,34 @@ function initTemasAccordion() {
     });
 }
 
+// Toggle language for article (Spanish/English)
+function toggleLanguage(button, event) {
+    event.stopPropagation(); // Prevent card from expanding/collapsing
+
+    const card = button.closest('.tema-card');
+    const esContent = card.querySelector('.lang-content.es');
+    const enContent = card.querySelector('.lang-content.en');
+    const langText = button.querySelector('.lang-text');
+
+    if (!esContent || !enContent) return;
+
+    const isSpanish = esContent.classList.contains('active');
+
+    if (isSpanish) {
+        // Switch to English
+        esContent.classList.remove('active');
+        enContent.classList.add('active');
+        langText.textContent = 'ES';
+        button.title = 'Cambiar a Español';
+    } else {
+        // Switch to Spanish
+        enContent.classList.remove('active');
+        esContent.classList.add('active');
+        langText.textContent = 'EN';
+        button.title = 'Switch to English';
+    }
+}
+
 // Toggle tema content visibility
 function toggleTemaContent(card) {
     const content = card.querySelector('.tema-content');
