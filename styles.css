@@ -3393,3 +3393,199 @@ body {
         justify-content: center;
     }
 }
+
+/* ================================
+   OPINION ARTICLES HORIZONTAL LAYOUT
+   ================================ */
+/* Desktop: 2 columns for opinion articles */
+@media (min-width: 1025px) {
+    .temas-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 28px;
+    }
+
+    .temas-grid .tema-card-wide {
+        grid-column: auto; /* Override the span to allow 2-column layout */
+    }
+}
+
+/* Tablet: 1 column */
+@media (max-width: 1024px) {
+    .temas-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .temas-grid .tema-card-wide {
+        grid-column: 1 / -1;
+    }
+}
+
+/* ================================
+   SOCIAL SHARING BUTTONS
+   ================================ */
+.share-section {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.share-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.share-header i {
+    font-size: 1.1rem;
+    color: var(--secondary);
+}
+
+.share-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.share-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.share-btn:active {
+    transform: translateY(0);
+}
+
+.share-btn i {
+    font-size: 1rem;
+}
+
+/* WhatsApp */
+.share-btn.whatsapp {
+    background: linear-gradient(135deg, #25D366, #128C7E);
+}
+
+.share-btn.whatsapp:hover {
+    background: linear-gradient(135deg, #20BD5A, #0D7366);
+}
+
+/* Facebook */
+.share-btn.facebook {
+    background: linear-gradient(135deg, #1877F2, #0D5BB5);
+}
+
+.share-btn.facebook:hover {
+    background: linear-gradient(135deg, #166FE5, #0A4F9E);
+}
+
+/* X (Twitter) */
+.share-btn.twitter {
+    background: linear-gradient(135deg, #1DA1F2, #0D8DDB);
+}
+
+.share-btn.twitter:hover {
+    background: linear-gradient(135deg, #1A91DA, #0B7FC4);
+}
+
+/* X (new branding - black) */
+.share-btn.x-twitter {
+    background: linear-gradient(135deg, #14171A, #000000);
+}
+
+.share-btn.x-twitter:hover {
+    background: linear-gradient(135deg, #272C30, #14171A);
+}
+
+/* LinkedIn */
+.share-btn.linkedin {
+    background: linear-gradient(135deg, #0A66C2, #084D93);
+}
+
+.share-btn.linkedin:hover {
+    background: linear-gradient(135deg, #0959AB, #06427D);
+}
+
+/* Telegram */
+.share-btn.telegram {
+    background: linear-gradient(135deg, #0088CC, #006699);
+}
+
+.share-btn.telegram:hover {
+    background: linear-gradient(135deg, #007AB8, #005580);
+}
+
+/* Email */
+.share-btn.email {
+    background: linear-gradient(135deg, #6366F1, #4F46E5);
+}
+
+.share-btn.email:hover {
+    background: linear-gradient(135deg, #5558E3, #4338CA);
+}
+
+/* Copy Link */
+.share-btn.copy-link {
+    background: linear-gradient(135deg, #6B7280, #4B5563);
+}
+
+.share-btn.copy-link:hover {
+    background: linear-gradient(135deg, #5B6270, #3B4553);
+}
+
+.share-btn.copy-link.copied {
+    background: linear-gradient(135deg, #10B981, #059669);
+}
+
+/* Responsive share buttons */
+@media (max-width: 768px) {
+    .share-buttons {
+        justify-content: center;
+    }
+
+    .share-btn {
+        padding: 8px 14px;
+        font-size: 0.8rem;
+    }
+
+    .share-btn span {
+        display: none; /* Hide text on mobile, show only icons */
+    }
+
+    .share-btn {
+        padding: 12px;
+        border-radius: 50%;
+    }
+
+    .share-btn i {
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .share-btn {
+        padding: 10px;
+    }
+
+    .share-btn i {
+        font-size: 1rem;
+    }
+}
