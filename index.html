@@ -3268,6 +3268,51 @@
         }
 
         // =============================================
+        // OPEN ARTICLE FROM URL HASH
+        // =============================================
+        function openArticleFromHash() {
+            const hash = window.location.hash;
+            if (hash && hash.startsWith('#tema-')) {
+                const articleId = hash.substring(1); // Remove the #
+                const article = document.getElementById(articleId);
+
+                if (article) {
+                    // Wait a bit for page to fully load
+                    setTimeout(() => {
+                        // Find and click the header to expand the article
+                        const header = article.querySelector('.tema-header');
+                        const content = article.querySelector('.tema-content');
+
+                        if (content && content.classList.contains('tema-content-collapsed')) {
+                            // Use the existing toggle function if available
+                            if (typeof toggleTemaContent === 'function') {
+                                toggleTemaContent(article);
+                            } else {
+                                // Manual expand
+                                content.classList.remove('tema-content-collapsed');
+                                article.classList.remove('tema-collapsed');
+                                const icon = article.querySelector('.tema-toggle-icon i');
+                                if (icon) {
+                                    icon.classList.remove('fa-chevron-down');
+                                    icon.classList.add('fa-chevron-up');
+                                }
+                            }
+                        }
+
+                        // Scroll to the article
+                        article.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }, 500);
+                }
+            }
+        }
+
+        // Open article on page load if hash exists
+        window.addEventListener('load', openArticleFromHash);
+
+        // Also handle hash changes (when user clicks back/forward)
+        window.addEventListener('hashchange', openArticleFromHash);
+
+        // =============================================
         // ADMIN MODE - Drag and Drop for Temas
         // =============================================
         const ADMIN_KEY = 'lalupa_admin_2025';
