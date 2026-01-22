@@ -1671,17 +1671,40 @@ function initTemasAccordion() {
 function toggleTemaContent(card) {
     const content = card.querySelector('.tema-content');
     const icon = card.querySelector('.tema-toggle-icon i');
+    const isExpanding = content.classList.contains('tema-content-collapsed');
 
-    if (content.classList.contains('tema-content-collapsed')) {
-        // Expand
+    if (isExpanding) {
+        // First, collapse all other cards (accordion behavior)
+        const allCards = document.querySelectorAll('.tema-card');
+        allCards.forEach(otherCard => {
+            if (otherCard !== card) {
+                const otherContent = otherCard.querySelector('.tema-content');
+                const otherIcon = otherCard.querySelector('.tema-toggle-icon i');
+                if (otherContent && !otherContent.classList.contains('tema-content-collapsed')) {
+                    otherContent.classList.add('tema-content-collapsed');
+                    otherCard.classList.add('tema-collapsed');
+                    if (otherIcon) {
+                        otherIcon.classList.remove('fa-chevron-up');
+                        otherIcon.classList.add('fa-chevron-down');
+                    }
+                }
+            }
+        });
+
+        // Now expand this card
         content.classList.remove('tema-content-collapsed');
         card.classList.remove('tema-collapsed');
         if (icon) {
             icon.classList.remove('fa-chevron-down');
             icon.classList.add('fa-chevron-up');
         }
+
+        // Scroll to the expanded card smoothly
+        setTimeout(() => {
+            card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 100);
     } else {
-        // Collapse
+        // Collapse this card
         content.classList.add('tema-content-collapsed');
         card.classList.add('tema-collapsed');
         if (icon) {
