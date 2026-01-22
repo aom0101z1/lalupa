@@ -66,6 +66,97 @@
   ],
   "casos": [
     {
+      "id": 158,
+      "titulo": "Funcionaria del MinEducación recibió tres títulos irregulares de la Fundación San José",
+      "categoria": "mentiras",
+      "fecha": "2026-01-22",
+      "descripcion": "Una funcionaria del Ministerio de Educación recibió tres títulos de la Fundación San José, institución bajo escrutinio por presunta expedición irregular de certificados académicos. El ministro Daniel Rojas defendió el caso como 'doble titulación y homologación', pero persisten las dudas sobre la legitimidad de los títulos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mineducacion-defiende-a-funcionaria-que-recibio-tres-titulos-en-la-san-jose/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Rojas"
+      ],
+      "entidad": "Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-22 18:20"
+    },
+    {
+      "id": 157,
+      "titulo": "Agencia Nacional de Tierras omitió transparencia contractual",
+      "categoria": "contratos",
+      "fecha": "2026-01-22",
+      "descripcion": "El Tribunal Administrativo de Cundinamarca investiga a la Agencia Nacional de Tierras por presunta omisión en transparencia contractual, específicamente por no publicar información requerida en la plataforma SECOP, violando las normas de contratación pública y transparencia.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/por-presunta-omision-en-transparencia-contractual-la-agencia-nacional-de-tierras-debera-comparecer-ante-la-justicia-estos-son-los-detalles-3526277",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 18:20"
+    },
+    {
+      "id": 156,
+      "titulo": "Policía exigía dinero a patrullera para omitir queja disciplinaria",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-22",
+      "descripcion": "Luis Carlos Bahoque, secretario de la Estación de Policía Caribe Norte de Cartagena, fue enviado a casa por cárcel por presuntamente exigir dinero a una patrullera para omitir una queja disciplinaria en su contra. El caso evidencia corrupción interna en la institución policial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/envian-a-casa-por-carcel-a-policia-que-le-habria-exigido-plata-a-una-patrullera-para-omitir-queja-en-cartagena-3526283",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Bahoque"
+      ],
+      "entidad": "Policía Nacional - Estación Caribe Norte Cartagena",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 18:20"
+    },
+    {
+      "id": 155,
+      "titulo": "Secretaria del despacho presidencial sin pruebas TyT y Saber Pro para títulos universitarios",
+      "categoria": "mentiras",
+      "fecha": "2026-01-21",
+      "descripcion": "Catherine Juvinao reveló que la secretaria del despacho del presidente Petro no habría presentado las pruebas TyT y Saber Pro requeridas para obtener sus títulos universitarios de la Fundación San José, institución que presuntamente expidió certificados académicos de manera irregular.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/secretaria-de-despacho-del-presidente-petro-no-habria-presentado-las-pruebas-tyt-y-saber-pro-para-sus-titulos-universitarios-de-la-fundacion-san-jose-3526149",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Catherine Juvinao",
+        "Secretaria del despacho presidencial"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-22 18:20"
+    },
+    {
       "id": 154,
       "titulo": "Petro mintió sobre estabilidad de precios de alimentos tras alza de salario mínimo",
       "categoria": "mentiras",
