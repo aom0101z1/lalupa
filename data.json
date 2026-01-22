@@ -66,6 +66,121 @@
   ],
   "casos": [
     {
+      "id": 149,
+      "titulo": "Petro mintió sobre estabilidad de precios de alimentos",
+      "categoria": "mentiras",
+      "fecha": "2026-01-22",
+      "descripcion": "El presidente Petro afirmó que los precios de los alimentos estaban estables luego del alza del salario mínimo, pero datos de Corabastos y el Dane demuestran que es falso: los precios de los alimentos sí han subido. Esta declaración constituye una afirmación falsa del mandatario sobre un tema económico sensible para la ciudadanía.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/precios-de-los-alimentos-si-han-subido-luego-del-alza-del-salario-minimo/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 06:22"
+    },
+    {
+      "id": 148,
+      "titulo": "Contrato de paneles solares con financiador de campaña Petro incumple entregas",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-22",
+      "descripcion": "Euclides Torres, financiador de la campaña de Petro que fue favorecido por el gobierno con contratos de transición energética, no ha cumplido plazos en contrato de paneles solares. Los pagos avanzan pero no los kilovatios prometidos. Se han inaugurado obras que aún no funcionan, evidenciando posible conflicto de interés en la adjudicación de contratos a financiadores de campaña.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/contrato-de-paneles-solares-de-euclides-torres-avanza-en-pagos-pero-no-en-kilovatios/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Euclides Torres",
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-22 06:22"
+    },
+    {
+      "id": 147,
+      "titulo": "Irregularidades en nuevo modelo de expedición de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-01-21",
+      "descripcion": "La Contraloría alertó sobre retrasos, costos irregulares y riesgos fiscales en el nuevo modelo de expedición de pasaportes de la Cancillería. La entidad señaló falta de planeación e incertidumbre en los costos del servicio, que debe entrar en vigencia en abril. Esto representa un riesgo fiscal y operativo para el Estado.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-advierte-que-la-cancilleria-presenta-retrasos-costos-irregulares-y-riesgos-fiscales-en-el-nuevo-modelo-de-expedicion-de-pasaportes-3526052",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-22 06:22"
+    },
+    {
+      "id": 146,
+      "titulo": "Alerta por crecimiento de contratación directa en gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-01-21",
+      "descripcion": "La Contraloría evidenció un crecimiento de la contratación directa por 22 billones de pesos durante el mandato de Gustavo Petro. Además, alertó sobre la acumulación de pagos de deuda para el 2029 relacionada con la venta de bonos TES. Este incremento significativo en contratación directa plantea interrogantes sobre transparencia y competencia en la adjudicación de contratos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-el-concepto-de-la-contraloria-sobre-la-venta-de-bonos-tes-alerta-por-acumulacion-de-pagos-de-deuda-para-el-3526067",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-22 06:22"
+    },
+    {
+      "id": 145,
+      "titulo": "Secretaria de despacho presidencial con títulos universitarios irregulares",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-21",
+      "descripcion": "La secretaria del despacho del presidente Petro habría obtenido títulos universitarios de la Fundación San José sin presentar las pruebas TyT y Saber Pro requeridas. Catherine Juvinao reveló detalles sobre la presunta expedición irregular de estos certificados académicos, lo que plantea dudas sobre la validez de las credenciales educativas de una funcionaria de alto nivel en el gobierno.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/secretaria-de-despacho-del-presidente-petro-no-habria-presentado-las-pruebas-tyt-y-saber-pro-para-sus-titulos-universitarios-de-la-fundacion-san-jose-3526149",
+          "fecha": "2026-01-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Secretaria del despacho presidencial",
+        "Catherine Juvinao"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-22 06:22"
+    },
+    {
       "id": 144,
       "titulo": "Falsedad sobre estabilidad de precios de alimentos",
       "categoria": "mentiras",
