@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 163,
+      "titulo": "Sobrecostos en contratación de testigos electorales del CNE",
+      "categoria": "contratos",
+      "fecha": "2026-01-22",
+      "descripcion": "Una investigación de La Silla Vacía encontró que el proceso de contratación de testigos electorales del CNE tenía potenciales sobrecostos y patrones de favorecimiento hacia la empresa LinkTic SAS. El presidente del CNE defendió la transparencia del proceso ante las denuncias.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/presidente-del-cne-dice-que-contratacion-de-testigos-fue-transparente/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Presidente del CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 06:22"
+    },
+    {
+      "id": 162,
+      "titulo": "Nombramiento de allegada de Benedetti en DAPRE",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-22",
+      "descripcion": "Nhora Mondragón, identificada como 'ficha del ministro Armando Benedetti', fue designada como nueva directora del DAPRE en reemplazo de Angie Rodríguez. El nombramiento genera cuestionamientos sobre posible favoritismo político y vínculos personales en cargos estratégicos de la administración.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/ficha-del-ministro-armando-benedetti-es-designada-como-nueva-directora-del-dapre-se-trata-de-nhora-mondragon-3526386",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Nhora Mondragón",
+        "Armando Benedetti",
+        "Angie Rodríguez"
+      ],
+      "entidad": "DAPRE",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-23 06:22"
+    },
+    {
+      "id": 161,
+      "titulo": "Nombramiento de cónsul con designación previa suspendida",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-22",
+      "descripcion": "El gobierno Petro nombró a Maryory Ecinedth Pabón como cónsul en Tijuana, pese a que su designación anterior como cónsul en Calgary se encuentra suspendida de forma temporal. Pabón es militante del Pacto Histórico, lo que genera cuestionamientos sobre los criterios de selección diplomática.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-petro-reencaucha-como-consul-en-tijuana-a-militante-del-pacto-historico-cuyo-nombramiento-como-consul-en-calgary-se-encuentra-suspendido-3526479",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Maryory Ecinedth Pabón",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-23 06:22"
+    },
+    {
       "id": 160,
       "titulo": "Presuntos sobrecostos en contratación de testigos electorales del CNE",
       "categoria": "contratos",
