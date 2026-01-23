@@ -66,6 +66,97 @@
   ],
   "casos": [
     {
+      "id": 170,
+      "titulo": "Exgobernador de Chocó Johany Palacios llamado a juicio por contratos irregulares de gas natural",
+      "categoria": "contratos",
+      "fecha": "2026-01-23",
+      "descripcion": "La Corte Suprema de Justicia llamó a juicio al exgobernador del Chocó Johany Palacios por peculado a favor de terceros y prevaricato, relacionados con una 'feria de contratos' para instalar gas natural en el departamento. El caso evidencia irregularidades en la contratación pública y posible malversación de recursos destinados a infraestructura energética en una de las regiones más pobres del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/la-fiesta-de-contratos-para-instalar-gas-natural-en-choco-que-llevo-a-juicio-al-exgobernador-johany-palacios-3526585",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Johany Palacios"
+      ],
+      "entidad": "Gobernación del Chocó",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 18:21"
+    },
+    {
+      "id": 169,
+      "titulo": "Procuraduría abre indagación por presunto acoso sexual contra Carlos Caicedo en Magdalena",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-23",
+      "descripcion": "La Procuraduría abrió indagación por presunto acoso sexual en el departamento del Magdalena, a raíz de denuncias contra Carlos Caicedo. Varias exfuncionarias del departamento indicaron que habrían sido víctimas de violencia por parte del candidato y algunos de sus cercanos, configurando un posible caso de abuso de poder y violencia de género en el ejercicio de funciones públicas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abre-indagacion-por-presunto-acoso-sexual-en-magdalena-a-raiz-de-denuncias-contra-carlos-caicedo-3526622",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo"
+      ],
+      "entidad": "Gobernación del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 18:21"
+    },
+    {
+      "id": 168,
+      "titulo": "Salida masiva de auxiliares administrativos en consulados colombianos antes de elecciones",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-23",
+      "descripcion": "Unidiplo lanza alerta por la declaratoria de insubsistencia masiva de auxiliares administrativos en consulados, misiones diplomáticas y sedes de la Cancillería en Bogotá, justo en la antesala de las elecciones. Esta situación genera preocupación por el impacto en los servicios consulares durante un período electoral crítico para los colombianos en el exterior.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/unidiplo-lanza-alerta-por-salida-masiva-de-auxiliares-administrativos-en-consulados-de-colombia-en-la-antesala-de-las-elecciones-3526569",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 18:21"
+    },
+    {
+      "id": 167,
+      "titulo": "Esposa del ministro Idárraga obtiene nuevo cargo en Ministerio de Ambiente tras salir de la Fiscalía",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-23",
+      "descripcion": "Andrea del Pilar Verdugo, esposa del ministro Idárraga, renunció esta semana a la dirección de Asuntos Jurídicos de la Fiscalía y fue nombrada como asesora en el Ministerio de Ambiente. El nombramiento de la esposa de un ministro en otro ministerio del mismo gobierno plantea interrogantes sobre posible nepotismo y conflicto de intereses en las designaciones públicas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/andrea-del-pilar-verdugo-esposa-del-ministro-idarraga-ya-tiene-nuevo-cargo-tras-salir-de-la-fiscalia-sera-asesora-en-el-ministerio-de-ambiente-3526598",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrea del Pilar Verdugo",
+        "Ministro Idárraga"
+      ],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-23 18:21"
+    },
+    {
       "id": 166,
       "titulo": "Posibles sobrecostos y favorecimiento en contratación de testigos electorales del CNE",
       "categoria": "contratos",
