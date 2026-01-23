@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 166,
+      "titulo": "Posibles sobrecostos y favorecimiento en contratación de testigos electorales del CNE",
+      "categoria": "contratos",
+      "fecha": "2026-01-22",
+      "descripcion": "Una investigación encontró potenciales sobrecostos y patrones de favorecimiento hacia la empresa LinkTic SAS en el proceso de contratación de testigos electorales por parte del CNE. El presidente del CNE defendió la transparencia del proceso, pero las evidencias sugieren irregularidades en la adjudicación que requieren mayor escrutinio.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/presidente-del-cne-dice-que-contratacion-de-testigos-fue-transparente/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Presidente del CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral - CNE",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 12:28"
+    },
+    {
+      "id": 165,
+      "titulo": "Allegada del ministro Benedetti nombrada directora del DAPRE",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-22",
+      "descripcion": "Nhora Mondragón, identificada como 'ficha del ministro Armando Benedetti', fue designada como nueva directora del Departamento Administrativo de la Presidencia (DAPRE), reemplazando a Angie Rodríguez. Este nombramiento sugiere un posible caso de nepotismo político al favorecer a una persona cercana al ministro para un cargo de alta responsabilidad administrativa.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/ficha-del-ministro-armando-benedetti-es-designada-como-nueva-directora-del-dapre-se-trata-de-nhora-mondragon-3526386",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Nhora Mondragón",
+        "Armando Benedetti",
+        "Angie Rodríguez"
+      ],
+      "entidad": "DAPRE - Departamento Administrativo de la Presidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 12:28"
+    },
+    {
+      "id": 164,
+      "titulo": "Militante del Pacto Histórico nombrada cónsul en Tijuana pese a suspensión previa",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-22",
+      "descripcion": "El gobierno Petro nombró a Maryory Ecinedth Pabón, militante del Pacto Histórico, como cónsul en Tijuana, pese a que su designación como cónsul en Calgary, Canadá, se encuentra suspendida de forma temporal. Este 'reencauche' diplomático plantea interrogantes sobre los criterios de selección y la idoneidad para cargos consulares.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-petro-reencaucha-como-consul-en-tijuana-a-militante-del-pacto-historico-cuyo-nombramiento-como-consul-en-calgary-se-encuentra-suspendido-3526479",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Maryory Ecinedth Pabón",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-23 12:28"
+    },
+    {
       "id": 163,
       "titulo": "Sobrecostos en contratación de testigos electorales del CNE",
       "categoria": "contratos",
