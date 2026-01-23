@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 160,
+      "titulo": "Presuntos sobrecostos en contratación de testigos electorales del CNE",
+      "categoria": "contratos",
+      "fecha": "2026-01-22",
+      "descripcion": "Una investigación de La Silla Vacía reveló que el proceso de contratación de testigos electorales por parte del CNE presenta potenciales sobrecostos y patrones de favorecimiento hacia la empresa LinkTic SAS. El presidente del CNE defendió la transparencia del proceso tras las denuncias sobre irregularidades en la contratación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/presidente-del-cne-dice-que-contratacion-de-testigos-fue-transparente/",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Presidente del CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-23 01:03"
+    },
+    {
+      "id": 159,
+      "titulo": "Nombramiento de allegada de Benedetti como directora del DAPRE",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-22",
+      "descripcion": "Nhora Mondragón, descrita como 'ficha del ministro Armando Benedetti', fue designada como nueva directora del Departamento Administrativo de la Presidencia (DAPRE), reemplazando a Angie Rodríguez. El nombramiento sugiere favoritismo hacia personas cercanas al ministro Benedetti en cargos de alta responsabilidad administrativa.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/ficha-del-ministro-armando-benedetti-es-designada-como-nueva-directora-del-dapre-se-trata-de-nhora-mondragon-3526386",
+          "fecha": "2026-01-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Nhora Mondragón",
+        "Armando Benedetti",
+        "Angie Rodríguez"
+      ],
+      "entidad": "DAPRE - Departamento Administrativo de la Presidencia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-23 01:03"
+    },
+    {
       "id": 158,
       "titulo": "Funcionaria del MinEducación recibió tres títulos irregulares de la Fundación San José",
       "categoria": "mentiras",
