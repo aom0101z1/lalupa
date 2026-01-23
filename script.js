@@ -1980,7 +1980,38 @@ function initTemas() {
     if (typeof db !== 'undefined') {
         loadTemasOrderFromFirestore();
     }
+
+    // Open article from URL hash AFTER accordion is initialized
+    openArticleFromHash();
 }
+
+// Open article from URL hash - handles direct links to articles
+function openArticleFromHash() {
+    const hash = window.location.hash;
+    if (hash && hash.startsWith('#tema-')) {
+        const articleId = hash.substring(1); // Remove the #
+        const article = document.getElementById(articleId);
+
+        if (article) {
+            // Small delay to ensure DOM is ready
+            setTimeout(() => {
+                // Use toggleTemaContent to expand the article
+                const content = article.querySelector('.tema-content');
+                if (content && content.classList.contains('tema-content-collapsed')) {
+                    toggleTemaContent(article);
+                }
+
+                // Scroll to the article with offset for header
+                setTimeout(() => {
+                    article.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            }, 100);
+        }
+    }
+}
+
+// Handle hash changes (when user clicks back/forward or shares link)
+window.addEventListener('hashchange', openArticleFromHash);
 
 // Call initTemas after a delay to ensure Firebase is ready
 setTimeout(initTemas, 1000);
