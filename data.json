@@ -66,6 +66,118 @@
   ],
   "casos": [
     {
+      "id": 184,
+      "titulo": "Procuraduría investiga acoso sexual en Gobernación del Magdalena",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-23",
+      "descripcion": "La Procuraduría indaga presuntos casos de acoso sexual en la Gobernación del Magdalena entre 2020 y 2023, tras conocer testimonios que describen situaciones de acoso en el interior de la entidad departamental. La investigación se relaciona con denuncias contra el exgobernador Carlos Caicedo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-indaga-presuntos-casos-de-acoso-sexual-en-la-gobernacion-del-magdalena-entre-2020-y-3526657",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo"
+      ],
+      "entidad": "Gobernación del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 12:23"
+    },
+    {
+      "id": 183,
+      "titulo": "Contratistas de Barranquilla frustran desalojo de predio estatal",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-23",
+      "descripcion": "La SAE denuncia que contratistas de Barranquilla y familiares del alias 'Portafolio' frustraron proceso de desalojo en el predio Villa Laurita (Malambo), impidiendo que el Estado tome posesión de un bien que le pertenece. Esto sugiere posible connivencia entre funcionarios públicos y particulares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/sae-denuncia-que-contratistas-de-barranquilla-y-familiares-del-temido-alias-portafolio-frustraron-proceso-de-desalojo-en-predio-del-estado-3526660",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "SAE - Alcaldía de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 12:23"
+    },
+    {
+      "id": 182,
+      "titulo": "ANT demandada por presunta omisión en transparencia contractual",
+      "categoria": "contratos",
+      "fecha": "2026-01-23",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) fue demandada por presunta omisión en transparencia contractual. La entidad se defiende argumentando que puede adquirir predios mediante expropiación y negociación directa, y que no necesariamente todo se reporta en el SECOP, lo que genera dudas sobre transparencia en contratación.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-se-va-a-defender-la-ant-tras-ser-demandada-por-presunta-omision-en-trasparencia-contractual-detalles-del-pleito-juridico-3526740",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-24 12:23"
+    },
+    {
+      "id": 181,
+      "titulo": "Gobierno crea 1.000 puestos en el Ministerio de Trabajo antes de Ley de Garantías",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-23",
+      "descripcion": "Denuncian que el Gobierno Petro creó 1.000 puestos de trabajo en el Ministerio de Trabajo a pocos días de entrar en vigencia la Ley de Garantías (31 de enero), que restringe la contratación estatal y el aumento del gasto público. Esto representa una posible maniobra para evadir las restricciones legales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/denuncian-que-gobierno-petro-creo-1-000-puestos-de-trabajo-a-pocos-dias-de-entrar-en-vigencia-la-ley-de-garantias-3526781",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 12:23"
+    },
+    {
+      "id": 180,
+      "titulo": "Presidente defiende a secretaria tras denuncia sobre títulos irregulares",
+      "categoria": "mentiras",
+      "fecha": "2026-01-23",
+      "descripcion": "El presidente Gustavo Petro defiende a su secretaria Juliana Guerrero tras denuncias sobre títulos irregulares de la Fundación San José, calificando las acusaciones como 'irresponsabilidad' y 'vejamen'. Las congresistas Catherine Juvinao y Jennifer Pedraza denunciaron 24 casos bajo la misma modalidad de expedición irregular de certificados universitarios.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-defendio-a-su-secretaria-tras-denuncia-sobre-titulos-irregulares-de-la-fundacion-san-jose-es-presa-de-un-vejamen-3526796",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-24 12:23"
+    },
+    {
       "id": 179,
       "titulo": "Procuraduría investiga acoso sexual en Gobernación del Magdalena",
       "categoria": "abuso-poder",
