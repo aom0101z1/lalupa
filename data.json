@@ -66,6 +66,122 @@
   ],
   "casos": [
     {
+      "id": 175,
+      "titulo": "Procuraduría investiga presunto acoso sexual contra Carlos Caicedo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-23",
+      "descripcion": "La Procuraduría abrió indagación por presunto acoso sexual en la Gobernación del Magdalena entre 2020 y 2023, a raíz de denuncias contra Carlos Caicedo. Varias exfuncionarias del departamento indicaron haber sido víctimas de violencia por parte del candidato y algunos de sus cercanos durante su gestión como gobernador.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abre-indagacion-por-presunto-acoso-sexual-en-magdalena-a-raiz-de-denuncias-contra-carlos-caicedo-3526622",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo"
+      ],
+      "entidad": "Gobernación del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 01:01"
+    },
+    {
+      "id": 174,
+      "titulo": "Contratistas frustran desalojo de predio estatal con vínculos criminales",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-23",
+      "descripcion": "La SAE denuncia que contratistas de Barranquilla y familiares del alias 'Portafolio' frustraron un proceso de desalojo en el predio Villa Laurita, ubicado en Malambo, impidiendo que la entidad tomara posesión del bien del Estado. El caso evidencia vínculos entre contratistas públicos y estructuras criminales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/sae-denuncia-que-contratistas-de-barranquilla-y-familiares-del-temido-alias-portafolio-frustraron-proceso-de-desalojo-en-predio-del-estado-3526660",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias Portafolio"
+      ],
+      "entidad": "SAE - Sociedad de Activos Especiales",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 01:01"
+    },
+    {
+      "id": 173,
+      "titulo": "ANT demandada por presunta omisión en transparencia contractual",
+      "categoria": "contratos",
+      "fecha": "2026-01-23",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) fue demandada por presunta omisión en transparencia contractual. La entidad se defiende argumentando que puede adquirir predios mediante expropiación y negociación directa, y que no necesariamente todo se reporta en el SECOP. El caso cuestiona la transparencia en la contratación de la entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-se-va-a-defender-la-ant-tras-ser-demandada-por-presunta-omision-en-trasparencia-contractual-detalles-del-pleito-juridico-3526740",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-24 01:01"
+    },
+    {
+      "id": 172,
+      "titulo": "Esposa de ministro obtiene nuevo cargo tras salir de la Fiscalía",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-23",
+      "descripcion": "Andrea del Pilar Verdugo, esposa del ministro Idárraga, renunció esta semana a la dirección de Asuntos Jurídicos de la Fiscalía y ya tiene un nuevo cargo como asesora en el Ministerio de Ambiente. El nombramiento genera cuestionamientos sobre posible nepotismo al tratarse de la cónyuge de un ministro del gabinete.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/andrea-del-pilar-verdugo-esposa-del-ministro-idarraga-ya-tiene-nuevo-cargo-tras-salir-de-la-fiscalia-sera-asesora-en-el-ministerio-de-ambiente-3526598",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrea del Pilar Verdugo",
+        "Ministro Idárraga"
+      ],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-24 01:01"
+    },
+    {
+      "id": 171,
+      "titulo": "Presuntos títulos universitarios irregulares denunciados por legisladoras",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-23",
+      "descripcion": "Catherine Juvinao y Jennifer Pedraza denunciaron 24 casos bajo la misma modalidad de expedición de certificados universitarios irregulares por parte de la Fundación San José. La institución asegura haber sido víctima de fraude y haber presentado denuncias. El caso involucra a Juliana Guerrero entre los presuntos beneficiarios de títulos irregulares.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/fundacion-san-jose-hablo-de-la-presunta-expedicion-irregular-de-titulos-universitarios-y-aseguro-que-presentaron-las-denuncias-se-detecto-fraude-3526702",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Catherine Juvinao",
+        "Jennifer Pedraza",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Fundación San José",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 01:01"
+    },
+    {
       "id": 170,
       "titulo": "Exgobernador de Chocó Johany Palacios llamado a juicio por contratos irregulares de gas natural",
       "categoria": "contratos",
