@@ -66,6 +66,95 @@
   ],
   "casos": [
     {
+      "id": 188,
+      "titulo": "Procuraduría investiga casos de acoso sexual en Gobernación del Magdalena",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-23",
+      "descripcion": "La Procuraduría General abrió investigación por presuntos casos de acoso sexual ocurridos en la Gobernación del Magdalena entre 2020 y 2023. La decisión se tomó tras conocer testimonios que describen presuntas situaciones de acoso sexual al interior de la entidad departamental. Aunque los hechos ocurrieron en administraciones anteriores, constituye un caso relevante de abuso de poder en el sector público.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-indaga-presuntos-casos-de-acoso-sexual-en-la-gobernacion-del-magdalena-entre-2020-y-3526657",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 18:18"
+    },
+    {
+      "id": 187,
+      "titulo": "Contratistas de Barranquilla y familiares de alias 'Portafolio' frustran desalojo del SAE",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-23",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) denunció que contratistas de la Alcaldía de Barranquilla y familiares del criminal alias 'Portafolio' frustraron el proceso de desalojo del predio estatal Villa Laurita en Malambo. La entidad no pudo tomar posesión del bien del Estado debido a la interferencia de estos actores, lo que evidencia posibles vínculos entre contratistas públicos y estructuras criminales para beneficiarse de bienes estatales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/sae-denuncia-que-contratistas-de-barranquilla-y-familiares-del-temido-alias-portafolio-frustraron-proceso-de-desalojo-en-predio-del-estado-3526660",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias 'Portafolio'"
+      ],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-24 18:18"
+    },
+    {
+      "id": 186,
+      "titulo": "ANT demandada por presunta omisión en transparencia contractual",
+      "categoria": "contratos",
+      "fecha": "2026-01-23",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) enfrenta una demanda por presunta omisión en transparencia contractual. La entidad se defiende argumentando que puede adquirir predios mediante expropiación y negociación directa, y que no necesariamente todo debe reportarse en el SECOP. Este caso plantea interrogantes sobre la transparencia en las contrataciones públicas y el cumplimiento de las normas de publicidad de contratos estatales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-se-va-a-defender-la-ant-tras-ser-demandada-por-presunta-omision-en-trasparencia-contractual-detalles-del-pleito-juridico-3526740",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-24 18:18"
+    },
+    {
+      "id": 185,
+      "titulo": "Petro defiende a su secretaria tras denuncia de títulos irregulares",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-23",
+      "descripcion": "El presidente Gustavo Petro volvió a defender públicamente a su secretaria tras denuncias sobre títulos irregulares de la Fundación San José. El mandatario calificó las denuncias como una 'irresponsabilidad' y señaló que su secretaria 'es presa de un vejamen', argumentando que se graduó de universidad a distancia. Este caso genera cuestionamientos sobre el uso del cargo presidencial para defender funcionarios bajo investigación por irregularidades académicas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-defendio-a-su-secretaria-tras-denuncia-sobre-titulos-irregulares-de-la-fundacion-san-jose-es-presa-de-un-vejamen-3526796",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Secretaria presidencial"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-24 18:18"
+    },
+    {
       "id": 184,
       "titulo": "Procuraduría investiga acoso sexual en Gobernación del Magdalena",
       "categoria": "abuso-poder",
