@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 194,
+      "titulo": "Denuncia de aplicación irregular de polígrafo a congresista",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-24",
+      "descripcion": "La representante Ingrid Aguirre denunció que Carlos Caicedo ordenó aplicarle una prueba de polígrafo, la cual fue ejecutada por Rafael Martínez. La congresista había renunciado previamente a la bancada de Fuerza Ciudadana. Esta práctica constituye un posible abuso de autoridad y extralimitación de funciones por parte de dirigentes políticos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/congresista-denuncia-que-caicedo-ordeno-hacerle-la-prueba-de-poligrafo/",
+          "fecha": "2026-01-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ingrid Aguirre",
+        "Carlos Caicedo",
+        "Rafael Martínez"
+      ],
+      "entidad": "Fuerza Ciudadana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-25 06:20"
+    },
+    {
+      "id": 193,
+      "titulo": "Magistrado solicita suspensión provisional del decreto de emergencia económica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-25",
+      "descripcion": "El magistrado Carlos Camargo presentó un documento de 86 páginas solicitando la suspensión provisional del decreto de emergencia económica declarado por el gobierno de Petro, argumentando que existen elementos suficientes para decretar dicha suspensión. Esta sería la primera vez que se aplica una medida cautelar a un decreto de esta naturaleza.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/magistrado-camargo-pide-suspender-decreto-de-emergencia-economica/",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Camargo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Constitucional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-25 06:20"
+    },
+    {
       "id": 192,
       "titulo": "Congresista denuncia que Caicedo le ordenó prueba de polígrafo",
       "categoria": "abuso-poder",
