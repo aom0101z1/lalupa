@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Administración - Registros Evento</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <style>
+        :root {
+            --color-primary: #1a1a2e;
+            --color-secondary: #16213e;
+            --color-accent: #c9a227;
+            --color-accent-light: #e6c84c;
+            --color-text: #f5f5f5;
+            --color-text-muted: #b8b8b8;
+            --color-success: #4caf50;
+            --color-error: #ef5350;
+            --color-white: #ffffff;
+            --color-bg-card: rgba(255, 255, 255, 0.03);
+            --font-display: 'Playfair Display', serif;
+            --font-body: 'Source Sans 3', sans-serif;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-body);
+            background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 50%, #0f0f23 100%);
+            min-height: 100vh;
+            color: var(--color-text);
+        }
+
+        /* Header matching durguez.com */
+        .site-header {
+            background: var(--color-white);
+            padding: 25px 40px;
+            text-align: center;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .site-title {
+            font-family: var(--font-display);
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #1a1a2e;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            margin: 0;
+            padding-bottom: 10px;
+            display: inline-block;
+            border-bottom: 4px solid var(--color-accent);
+        }
+
+        .site-tagline {
+            font-family: var(--font-body);
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #1a1a2e;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            margin-top: 12px;
+            margin-bottom: 0;
+        }
+
+        .site-tagline span {
+            margin: 0 6px;
+            color: var(--color-accent);
+        }
+
+        .admin-bar {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 15px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(201, 162, 39, 0.2);
+        }
+
+        .admin-bar h2 {
+            font-family: var(--font-display);
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: var(--color-accent-light);
+        }
+
+        .admin-bar-right {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.9rem;
+        }
+
+        .user-info img {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            border: 2px solid var(--color-accent);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        /* Login Screen */
+        .login-container {
+            min-height: calc(100vh - 200px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+
+        .login-card {
+            background: var(--color-bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 20px;
+            padding: 50px 40px;
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .login-card h2 {
+            font-family: var(--font-display);
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+        }
+
+        .login-card p {
+            color: var(--color-text-muted);
+            margin-bottom: 30px;
+        }
+
+        .btn-google {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            width: 100%;
+            padding: 14px 24px;
+            background: var(--color-white);
+            color: #333;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-google:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-google svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Tabs */
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 1px solid rgba(201, 162, 39, 0.2);
+            padding-bottom: 15px;
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            background: transparent;
+            border: 1px solid rgba(201, 162, 39, 0.3);
+            border-radius: 10px;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tab-btn.active {
+            background: linear-gradient(135deg, var(--color-accent) 0%, #b8941f 100%);
+            color: var(--color-primary);
+            border-color: var(--color-accent);
+        }
+
+        .tab-btn:hover:not(.active) {
+            border-color: var(--color-accent);
+            color: var(--color-accent);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: var(--color-bg-card);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 16px;
+            padding: 24px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--color-accent);
+            margin-bottom: 8px;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--color-text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .controls {
+            background: var(--color-bg-card);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 30px;
+        }
+
+        .controls-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: flex-end;
+        }
+
+        .control-group {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .control-label {
+            display: block;
+            font-size: 0.8rem;
+            color: var(--color-accent-light);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .control-input, .control-select {
+            width: 100%;
+            padding: 12px 16px;
+            font-size: 0.95rem;
+            font-family: var(--font-body);
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(201, 162, 39, 0.2);
+            border-radius: 10px;
+            color: var(--color-white);
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .control-input:focus, .control-select:focus {
+            border-color: var(--color-accent);
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .control-select option {
+            background: var(--color-primary);
+            color: var(--color-white);
+        }
+
+        .btn {
+            padding: 12px 24px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            font-family: var(--font-body);
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--color-accent) 0%, #b8941f 100%);
+            color: var(--color-primary);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(201, 162, 39, 0.3);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(201, 162, 39, 0.3);
+            color: var(--color-text);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: var(--color-accent);
+        }
+
+        .btn-success {
+            background: linear-gradient(135deg, var(--color-success) 0%, #388e3c 100%);
+            color: white;
+        }
+
+        .btn-danger {
+            background: linear-gradient(135deg, var(--color-error) 0%, #c62828 100%);
+            color: white;
+        }
+
+        .btn-sm {
+            padding: 8px 16px;
+            font-size: 0.8rem;
+        }
+
+        .table-container {
+            background: var(--color-bg-card);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 16px;
+            overflow: hidden;
+        }
+
+        .table-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 24px;
+            border-bottom: 1px solid rgba(201, 162, 39, 0.15);
+        }
+
+        .table-title {
+            font-family: var(--font-display);
+            font-size: 1.3rem;
+            font-weight: 500;
+        }
+
+        .table-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .table-scroll {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 800px;
+        }
+
+        th, td {
+            padding: 16px 20px;
+            text-align: left;
+            border-bottom: 1px solid rgba(201, 162, 39, 0.1);
+        }
+
+        th {
+            background: rgba(201, 162, 39, 0.1);
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--color-accent-light);
+        }
+
+        tr:hover {
+            background: rgba(201, 162, 39, 0.05);
+        }
+
+        td {
+            font-size: 0.95rem;
+            color: var(--color-text);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .badge-leader {
+            background: rgba(201, 162, 39, 0.2);
+            color: var(--color-accent-light);
+        }
+
+        .badge-active {
+            background: rgba(76, 175, 80, 0.2);
+            color: #81c784;
+        }
+
+        .badge-inactive {
+            background: rgba(239, 83, 80, 0.2);
+            color: #ef9a9a;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--color-text-muted);
+        }
+
+        .empty-state svg {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(26, 26, 46, 0.9);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(201, 162, 39, 0.2);
+            border-top-color: var(--color-accent);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .leader-summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 12px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(201, 162, 39, 0.15);
+        }
+
+        .leader-item {
+            background: rgba(201, 162, 39, 0.08);
+            border-radius: 10px;
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .leader-code {
+            font-weight: 600;
+            color: var(--color-accent);
+        }
+
+        .leader-count {
+            background: var(--color-accent);
+            color: var(--color-primary);
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .refresh-btn, .logout-btn {
+            padding: 8px;
+            background: transparent;
+            border: 1px solid rgba(201, 162, 39, 0.3);
+            border-radius: 8px;
+            cursor: pointer;
+            color: var(--color-accent);
+            transition: all 0.3s ease;
+        }
+
+        .refresh-btn:hover, .logout-btn:hover {
+            background: rgba(201, 162, 39, 0.1);
+        }
+
+        .refresh-btn svg, .logout-btn svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        .realtime-indicator {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            color: var(--color-success);
+        }
+
+        .realtime-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--color-success);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* Code Generator Section */
+        .code-generator {
+            background: var(--color-bg-card);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 30px;
+        }
+
+        .code-generator h3 {
+            font-family: var(--font-display);
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            color: var(--color-accent-light);
+        }
+
+        .generated-code {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(201, 162, 39, 0.1);
+            border-radius: 10px;
+        }
+
+        .generated-code .code {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--color-accent);
+            font-family: monospace;
+            letter-spacing: 2px;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        /* Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+        }
+
+        .modal {
+            background: var(--color-secondary);
+            border: 1px solid rgba(201, 162, 39, 0.3);
+            border-radius: 16px;
+            padding: 30px;
+            max-width: 500px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .modal h3 {
+            font-family: var(--font-display);
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            color: var(--color-accent-light);
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+            margin-top: 20px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .site-header {
+                padding: 20px 15px;
+            }
+
+            .site-title {
+                font-size: 1.8rem;
+                letter-spacing: 4px;
+            }
+
+            .site-tagline {
+                font-size: 0.65rem;
+                letter-spacing: 2px;
+            }
+
+            .admin-bar {
+                flex-direction: column;
+                gap: 15px;
+                padding: 15px 20px;
+            }
+
+            .admin-bar h2 {
+                font-size: 1.1rem;
+            }
+
+            .tabs {
+                flex-wrap: wrap;
+            }
+
+            .controls-row {
+                flex-direction: column;
+            }
+
+            .control-group {
+                width: 100%;
+            }
+
+            .table-header {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .table-actions {
+                width: 100%;
+                justify-content: stretch;
+            }
+
+            .table-actions .btn {
+                flex: 1;
+                justify-content: center;
+            }
+
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="loadingOverlay" class="loading-overlay">
+        <div class="loading-spinner"></div>
+    </div>
+
+    <!-- Header matching durguez.com style -->
+    <header class="site-header">
+        <h1 class="site-title">DURGUEZ</h1>
+        <p class="site-tagline">DIOS<span>·</span>FAMILIA<span>·</span>PATRIA<span>·</span>EMPRESA<span>·</span>SEGURIDAD</p>
+    </header>
+
+    <!-- Login Screen -->
+    <div id="loginScreen" class="login-container">
+        <div class="login-card">
+            <h2>Panel de Administración</h2>
+            <p>Inicia sesión para acceder al panel</p>
+            <button class="btn-google" id="googleSignInBtn">
+                <svg viewBox="0 0 24 24">
+                    <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+                    <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+                    <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+                    <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+                </svg>
+                Iniciar sesión con Google
+            </button>
+        </div>
+    </div>
+
+    <!-- Admin Panel (hidden until login) -->
+    <div id="adminPanel" class="hidden">
+        <!-- Admin Bar -->
+        <div class="admin-bar">
+            <h2>Panel de Administración</h2>
+            <div class="admin-bar-right">
+                <div class="user-info">
+                    <img id="userPhoto" src="" alt="User">
+                    <span id="userName"></span>
+                </div>
+                <div class="realtime-indicator">
+                    <span class="realtime-dot"></span>
+                    Tiempo real
+                </div>
+                <button class="refresh-btn" onclick="loadData()" title="Actualizar datos">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6M1 20v-6h6"/>
+                        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                    </svg>
+                </button>
+                <button class="logout-btn" onclick="signOut()" title="Cerrar sesión">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/>
+                        <polyline points="16 17 21 12 16 7"/>
+                        <line x1="21" y1="12" x2="9" y2="12"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="container">
+            <!-- Tabs -->
+            <div class="tabs">
+                <button class="tab-btn active" onclick="showTab('registros')">Registros</button>
+                <button class="tab-btn" onclick="showTab('lideres')">Gestión de Líderes</button>
+            </div>
+
+            <!-- Tab: Registros -->
+            <div id="tab-registros" class="tab-content active">
+                <!-- Statistics -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-value" id="totalRegistros">0</div>
+                        <div class="stat-label">Total Registros</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="registrosHoy">0</div>
+                        <div class="stat-label">Registros Hoy</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="lideresActivos">0</div>
+                        <div class="stat-label">Líderes Activos</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="ultimaHora">0</div>
+                        <div class="stat-label">Última Hora</div>
+                    </div>
+                </div>
+
+                <!-- Filters -->
+                <div class="controls">
+                    <div class="controls-row">
+                        <div class="control-group">
+                            <label class="control-label">Buscar por nombre o cédula</label>
+                            <input
+                                type="text"
+                                id="searchInput"
+                                class="control-input"
+                                placeholder="Escribe para buscar..."
+                                oninput="filterData()"
+                            >
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label">Filtrar por código de líder</label>
+                            <select id="leaderFilter" class="control-select" onchange="filterData()">
+                                <option value="">Todos los líderes</option>
+                                <!-- Dynamic options will be added -->
+                            </select>
+                        </div>
+                        <div class="control-group" style="flex: 0 0 auto;">
+                            <label class="control-label">&nbsp;</label>
+                            <button class="btn btn-secondary" onclick="clearFilters()">
+                                Limpiar filtros
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Leader Summary -->
+                    <div class="leader-summary" id="leaderSummary">
+                        <!-- Dynamic content -->
+                    </div>
+                </div>
+
+                <!-- Data Table -->
+                <div class="table-container">
+                    <div class="table-header">
+                        <h2 class="table-title">Registros (<span id="filteredCount">0</span>)</h2>
+                        <div class="table-actions">
+                            <button class="btn btn-success" onclick="exportToExcel()">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                    <polyline points="7 10 12 15 17 10"/>
+                                    <line x1="12" y1="15" x2="12" y2="3"/>
+                                </svg>
+                                Exportar Todo
+                            </button>
+                            <button class="btn btn-primary" onclick="exportFilteredToExcel()">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                    <polyline points="7 10 12 15 17 10"/>
+                                    <line x1="12" y1="15" x2="12" y2="3"/>
+                                </svg>
+                                Exportar Filtrado
+                            </button>
+                        </div>
+                    </div>
+                    <div class="table-scroll">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Código Líder</th>
+                                    <th>Nombre Líder</th>
+                                    <th>Nombre Completo</th>
+                                    <th>Cédula</th>
+                                    <th>Teléfono</th>
+                                    <th>Fecha Registro</th>
+                                    <th>Accesos</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                                <!-- Dynamic content -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="emptyState" class="empty-state hidden">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                            <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/>
+                            <rect x="9" y="3" width="6" height="4" rx="2"/>
+                            <path d="M9 12h6M9 16h6"/>
+                        </svg>
+                        <p>No hay registros que mostrar</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tab: Gestión de Líderes -->
+            <div id="tab-lideres" class="tab-content">
+                <!-- Code Generator -->
+                <div class="code-generator">
+                    <h3>Generar Nuevo Código de Líder</h3>
+                    <form id="leaderForm">
+                        <div class="form-row">
+                            <div class="control-group">
+                                <label class="control-label">Nombre del Líder *</label>
+                                <input type="text" id="leaderNombre" class="control-input" placeholder="Nombre completo" required>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">Cédula *</label>
+                                <input type="text" id="leaderCedula" class="control-input" placeholder="Número de cédula" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="control-group">
+                                <label class="control-label">Teléfono *</label>
+                                <input type="tel" id="leaderTelefono" class="control-input" placeholder="Número de teléfono" required>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">Email</label>
+                                <input type="email" id="leaderEmail" class="control-input" placeholder="Correo electrónico">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <line x1="12" y1="5" x2="12" y2="19"/>
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                            </svg>
+                            Generar Código y Guardar Líder
+                        </button>
+                    </form>
+
+                    <div id="generatedCodeContainer" class="generated-code hidden">
+                        <span>Código generado:</span>
+                        <span class="code" id="generatedCode"></span>
+                        <button class="btn btn-secondary btn-sm" onclick="copyCode()">Copiar</button>
+                    </div>
+                </div>
+
+                <!-- Leaders Table -->
+                <div class="table-container">
+                    <div class="table-header">
+                        <h2 class="table-title">Líderes Registrados (<span id="totalLideres">0</span>)</h2>
+                        <div class="table-actions">
+                            <button class="btn btn-success" onclick="exportLeadersToExcel()">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                    <polyline points="7 10 12 15 17 10"/>
+                                    <line x1="12" y1="15" x2="12" y2="3"/>
+                                </svg>
+                                Exportar Líderes
+                            </button>
+                        </div>
+                    </div>
+                    <div class="table-scroll">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Código</th>
+                                    <th>Nombre</th>
+                                    <th>Cédula</th>
+                                    <th>Teléfono</th>
+                                    <th>Email</th>
+                                    <th>Registros</th>
+                                    <th>Estado</th>
+                                    <th>Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody id="leadersTableBody">
+                                <!-- Dynamic content -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="emptyLeadersState" class="empty-state hidden">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                            <circle cx="9" cy="7" r="4"/>
+                            <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                            <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                        </svg>
+                        <p>No hay líderes registrados. Genera el primer código arriba.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Edit Leader Modal -->
+    <div id="editModal" class="modal-overlay hidden">
+        <div class="modal">
+            <h3>Editar Líder</h3>
+            <form id="editLeaderForm">
+                <input type="hidden" id="editLeaderId">
+                <div class="control-group" style="margin-bottom: 15px;">
+                    <label class="control-label">Código</label>
+                    <input type="text" id="editLeaderCode" class="control-input" readonly>
+                </div>
+                <div class="control-group" style="margin-bottom: 15px;">
+                    <label class="control-label">Nombre</label>
+                    <input type="text" id="editLeaderNombre" class="control-input" required>
+                </div>
+                <div class="control-group" style="margin-bottom: 15px;">
+                    <label class="control-label">Cédula</label>
+                    <input type="text" id="editLeaderCedula" class="control-input" required>
+                </div>
+                <div class="control-group" style="margin-bottom: 15px;">
+                    <label class="control-label">Teléfono</label>
+                    <input type="tel" id="editLeaderTelefono" class="control-input" required>
+                </div>
+                <div class="control-group" style="margin-bottom: 15px;">
+                    <label class="control-label">Email</label>
+                    <input type="email" id="editLeaderEmail" class="control-input">
+                </div>
+                <div class="modal-actions">
+                    <button type="button" class="btn btn-secondary" onclick="closeEditModal()">Cancelar</button>
+                    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script type="module">
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
+        import {
+            getAuth,
+            signInWithPopup,
+            GoogleAuthProvider,
+            onAuthStateChanged,
+            signOut as firebaseSignOut
+        } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js';
+        import {
+            getFirestore,
+            collection,
+            addDoc,
+            doc,
+            updateDoc,
+            deleteDoc,
+            query,
+            orderBy,
+            where,
+            getDocs,
+            onSnapshot,
+            serverTimestamp
+        } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js';
+
+        // =====================================================
+        // CONFIGURACIÓN FIREBASE - DURGUEZ REGISTRO
+        // =====================================================
+        const firebaseConfig = {
+            apiKey: "AIzaSyB_2VfUKH4dOkQ5fTqYy8hixUE9qN3amYY",
+            authDomain: "durguez-registro.firebaseapp.com",
+            projectId: "durguez-registro",
+            storageBucket: "durguez-registro.firebasestorage.app",
+            messagingSenderId: "1074589358816",
+            appId: "1:1074589358816:web:a56e1318dee9d8dee10e85"
+        };
+        // =====================================================
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const db = getFirestore(app);
+        const REGISTROS_COLLECTION = 'registros_evento';
+        const LIDERES_COLLECTION = 'lideres';
+
+        // Global state
+        let allData = [];
+        let filteredData = [];
+        let leadersData = [];
+        let leadersMap = {}; // code -> leader info
+
+        // Generate unique code
+        function generateCode() {
+            const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+            let code = 'DUR-';
+            for (let i = 0; i < 5; i++) {
+                code += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+            return code;
+        }
+
+        // Check if code exists
+        async function codeExists(code) {
+            const q = query(collection(db, LIDERES_COLLECTION), where('code', '==', code));
+            const snapshot = await getDocs(q);
+            return !snapshot.empty;
+        }
+
+        // Generate unique code (ensuring no duplicates)
+        async function generateUniqueCode() {
+            let code;
+            let exists = true;
+            while (exists) {
+                code = generateCode();
+                exists = await codeExists(code);
+            }
+            return code;
+        }
+
+        // Auth state observer
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+                // User is signed in
+                document.getElementById('loginScreen').classList.add('hidden');
+                document.getElementById('adminPanel').classList.remove('hidden');
+                document.getElementById('userPhoto').src = user.photoURL || 'https://via.placeholder.com/32';
+                document.getElementById('userName').textContent = user.displayName || user.email;
+                loadData();
+                loadLeaders();
+            } else {
+                // User is signed out
+                document.getElementById('loginScreen').classList.remove('hidden');
+                document.getElementById('adminPanel').classList.add('hidden');
+                document.getElementById('loadingOverlay').classList.add('hidden');
+            }
+        });
+
+        // Google Sign In
+        document.getElementById('googleSignInBtn').addEventListener('click', async () => {
+            const provider = new GoogleAuthProvider();
+            try {
+                await signInWithPopup(auth, provider);
+            } catch (error) {
+                console.error('Error signing in:', error);
+                alert('Error al iniciar sesión. Intenta nuevamente.');
+            }
+        });
+
+        // Sign Out
+        window.signOut = async function() {
+            try {
+                await firebaseSignOut(auth);
+            } catch (error) {
+                console.error('Error signing out:', error);
+            }
+        };
+
+        // Tab switching
+        window.showTab = function(tabName) {
+            // Update buttons
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelector(`[onclick="showTab('${tabName}')"]`).classList.add('active');
+
+            // Update content
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+            document.getElementById(`tab-${tabName}`).classList.add('active');
+        };
+
+        // Format date
+        function formatDate(timestamp) {
+            if (!timestamp) return '-';
+            const date = timestamp.toDate ? timestamp.toDate() : new Date(timestamp);
+            return date.toLocaleString('es-CO', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // Update leader filter dropdown
+        function updateLeaderFilter() {
+            const select = document.getElementById('leaderFilter');
+            select.innerHTML = '<option value="">Todos los líderes</option>';
+            leadersData.forEach(leader => {
+                const option = document.createElement('option');
+                option.value = leader.code;
+                option.textContent = `${leader.code} (${leader.nombre})`;
+                select.appendChild(option);
+            });
+        }
+
+        // Update statistics
+        function updateStats() {
+            const now = new Date();
+            const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+            const oneHourAgo = new Date(now - 60 * 60 * 1000);
+
+            const registrosHoy = allData.filter(item => {
+                const createdAt = item.createdAt?.toDate ? item.createdAt.toDate() : new Date(item.createdAt);
+                return createdAt >= today;
+            }).length;
+
+            const ultimaHora = allData.filter(item => {
+                const createdAt = item.createdAt?.toDate ? item.createdAt.toDate() : new Date(item.createdAt);
+                return createdAt >= oneHourAgo;
+            }).length;
+
+            const leaderCounts = {};
+            allData.forEach(item => {
+                leaderCounts[item.leaderCode] = (leaderCounts[item.leaderCode] || 0) + 1;
+            });
+
+            document.getElementById('totalRegistros').textContent = allData.length;
+            document.getElementById('registrosHoy').textContent = registrosHoy;
+            document.getElementById('lideresActivos').textContent = Object.keys(leaderCounts).length;
+            document.getElementById('ultimaHora').textContent = ultimaHora;
+
+            // Update leader summary
+            const summaryHtml = Object.entries(leaderCounts)
+                .sort((a, b) => b[1] - a[1])
+                .map(([code, count]) => {
+                    const leaderName = leadersMap[code]?.nombre || 'Desconocido';
+                    return `
+                    <div class="leader-item">
+                        <span class="leader-code" title="${leaderName}">${code}</span>
+                        <span class="leader-count">${count}</span>
+                    </div>
+                `;
+                }).join('');
+
+            document.getElementById('leaderSummary').innerHTML = summaryHtml || '<p style="color: var(--color-text-muted);">Sin registros aún</p>';
+        }
+
+        // Render registrations table
+        function renderTable() {
+            const tbody = document.getElementById('tableBody');
+            const emptyState = document.getElementById('emptyState');
+            const filteredCount = document.getElementById('filteredCount');
+
+            filteredCount.textContent = filteredData.length;
+
+            if (filteredData.length === 0) {
+                tbody.innerHTML = '';
+                emptyState.classList.remove('hidden');
+                return;
+            }
+
+            emptyState.classList.add('hidden');
+
+            tbody.innerHTML = filteredData.map((item, index) => {
+                const leaderName = leadersMap[item.leaderCode]?.nombre || '-';
+                return `
+                <tr>
+                    <td>${index + 1}</td>
+                    <td><span class="badge badge-leader">${item.leaderCode || '-'}</span></td>
+                    <td>${leaderName}</td>
+                    <td>${item.nombreCompleto || '-'}</td>
+                    <td>${item.cedula || '-'}</td>
+                    <td>${item.telefono || '-'}</td>
+                    <td>${formatDate(item.createdAt)}</td>
+                    <td>${item.accessCount || 1}</td>
+                </tr>
+            `;
+            }).join('');
+        }
+
+        // Render leaders table
+        function renderLeadersTable() {
+            const tbody = document.getElementById('leadersTableBody');
+            const emptyState = document.getElementById('emptyLeadersState');
+            const totalLideres = document.getElementById('totalLideres');
+
+            totalLideres.textContent = leadersData.length;
+
+            if (leadersData.length === 0) {
+                tbody.innerHTML = '';
+                emptyState.classList.remove('hidden');
+                return;
+            }
+
+            emptyState.classList.add('hidden');
+
+            // Count registrations per leader
+            const regCounts = {};
+            allData.forEach(item => {
+                regCounts[item.leaderCode] = (regCounts[item.leaderCode] || 0) + 1;
+            });
+
+            tbody.innerHTML = leadersData.map((leader, index) => `
+                <tr>
+                    <td>${index + 1}</td>
+                    <td><span class="badge badge-leader">${leader.code}</span></td>
+                    <td>${leader.nombre}</td>
+                    <td>${leader.cedula}</td>
+                    <td>${leader.telefono}</td>
+                    <td>${leader.email || '-'}</td>
+                    <td>${regCounts[leader.code] || 0}</td>
+                    <td>
+                        <span class="badge ${leader.active !== false ? 'badge-active' : 'badge-inactive'}">
+                            ${leader.active !== false ? 'Activo' : 'Inactivo'}
+                        </span>
+                    </td>
+                    <td>
+                        <button class="btn btn-secondary btn-sm" onclick="editLeader('${leader.id}')">Editar</button>
+                        <button class="btn btn-${leader.active !== false ? 'danger' : 'success'} btn-sm"
+                                onclick="toggleLeaderStatus('${leader.id}', ${leader.active !== false})">
+                            ${leader.active !== false ? 'Desactivar' : 'Activar'}
+                        </button>
+                    </td>
+                </tr>
+            `).join('');
+        }
+
+        // Filter data
+        window.filterData = function() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const leaderFilter = document.getElementById('leaderFilter').value;
+
+            filteredData = allData.filter(item => {
+                const matchesSearch = !searchTerm ||
+                    item.nombreCompleto?.toLowerCase().includes(searchTerm) ||
+                    item.cedula?.includes(searchTerm) ||
+                    item.telefono?.includes(searchTerm);
+
+                const matchesLeader = !leaderFilter || item.leaderCode === leaderFilter;
+
+                return matchesSearch && matchesLeader;
+            });
+
+            renderTable();
+        };
+
+        // Clear filters
+        window.clearFilters = function() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('leaderFilter').value = '';
+            filteredData = [...allData];
+            renderTable();
+        };
+
+        // Export to Excel
+        window.exportToExcel = function() {
+            exportData(allData, 'todos_los_registros');
+        };
+
+        window.exportFilteredToExcel = function() {
+            exportData(filteredData, 'registros_filtrados');
+        };
+
+        function exportData(data, filename) {
+            const exportData = data.map((item, index) => ({
+                '#': index + 1,
+                'Código Líder': item.leaderCode || '',
+                'Nombre Líder': leadersMap[item.leaderCode]?.nombre || '',
+                'Nombre Completo': item.nombreCompleto || '',
+                'Cédula': item.cedula || '',
+                'Teléfono': item.telefono || '',
+                'Fecha Registro': formatDate(item.createdAt),
+                'Último Acceso': formatDate(item.lastAccess),
+                'Cantidad Accesos': item.accessCount || 1
+            }));
+
+            const ws = XLSX.utils.json_to_sheet(exportData);
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, 'Registros');
+
+            const colWidths = Object.keys(exportData[0] || {}).map(key => ({
+                wch: Math.max(key.length, ...exportData.map(row => String(row[key]).length)) + 2
+            }));
+            ws['!cols'] = colWidths;
+
+            XLSX.writeFile(wb, `${filename}_${new Date().toISOString().split('T')[0]}.xlsx`);
+        }
+
+        window.exportLeadersToExcel = function() {
+            const regCounts = {};
+            allData.forEach(item => {
+                regCounts[item.leaderCode] = (regCounts[item.leaderCode] || 0) + 1;
+            });
+
+            const exportData = leadersData.map((leader, index) => ({
+                '#': index + 1,
+                'Código': leader.code,
+                'Nombre': leader.nombre,
+                'Cédula': leader.cedula,
+                'Teléfono': leader.telefono,
+                'Email': leader.email || '',
+                'Registros': regCounts[leader.code] || 0,
+                'Estado': leader.active !== false ? 'Activo' : 'Inactivo',
+                'Fecha Creación': formatDate(leader.createdAt)
+            }));
+
+            const ws = XLSX.utils.json_to_sheet(exportData);
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, 'Líderes');
+
+            XLSX.writeFile(wb, `lideres_${new Date().toISOString().split('T')[0]}.xlsx`);
+        };
+
+        // Load leaders
+        function loadLeaders() {
+            const q = query(collection(db, LIDERES_COLLECTION), orderBy('createdAt', 'desc'));
+
+            onSnapshot(q, (snapshot) => {
+                leadersData = snapshot.docs.map(doc => ({
+                    id: doc.id,
+                    ...doc.data()
+                }));
+
+                // Build leaders map
+                leadersMap = {};
+                leadersData.forEach(leader => {
+                    leadersMap[leader.code] = leader;
+                });
+
+                updateLeaderFilter();
+                renderLeadersTable();
+                updateStats();
+                renderTable();
+            }, (error) => {
+                console.error('Error loading leaders:', error);
+            });
+        }
+
+        // Load registrations data
+        window.loadData = function() {
+            document.getElementById('loadingOverlay').classList.remove('hidden');
+
+            const q = query(
+                collection(db, REGISTROS_COLLECTION),
+                orderBy('createdAt', 'desc')
+            );
+
+            onSnapshot(q, (snapshot) => {
+                allData = snapshot.docs.map(doc => ({
+                    id: doc.id,
+                    ...doc.data()
+                }));
+
+                filteredData = [...allData];
+                updateStats();
+                filterData();
+                document.getElementById('loadingOverlay').classList.add('hidden');
+            }, (error) => {
+                console.error('Error loading data:', error);
+                document.getElementById('loadingOverlay').classList.add('hidden');
+                alert('Error al cargar los datos. Verifica la configuración de Firebase.');
+            });
+        };
+
+        // Create new leader
+        document.getElementById('leaderForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const nombre = document.getElementById('leaderNombre').value.trim();
+            const cedula = document.getElementById('leaderCedula').value.trim();
+            const telefono = document.getElementById('leaderTelefono').value.trim();
+            const email = document.getElementById('leaderEmail').value.trim();
+
+            try {
+                const code = await generateUniqueCode();
+
+                await addDoc(collection(db, LIDERES_COLLECTION), {
+                    code,
+                    nombre,
+                    cedula,
+                    telefono,
+                    email,
+                    active: true,
+                    createdAt: serverTimestamp()
+                });
+
+                // Show generated code
+                document.getElementById('generatedCode').textContent = code;
+                document.getElementById('generatedCodeContainer').classList.remove('hidden');
+
+                // Clear form
+                document.getElementById('leaderForm').reset();
+
+                alert(`Líder creado exitosamente con código: ${code}`);
+            } catch (error) {
+                console.error('Error creating leader:', error);
+                alert('Error al crear el líder. Intenta nuevamente.');
+            }
+        });
+
+        // Copy code to clipboard
+        window.copyCode = function() {
+            const code = document.getElementById('generatedCode').textContent;
+            navigator.clipboard.writeText(code).then(() => {
+                alert('Código copiado al portapapeles');
+            });
+        };
+
+        // Edit leader
+        window.editLeader = function(leaderId) {
+            const leader = leadersData.find(l => l.id === leaderId);
+            if (!leader) return;
+
+            document.getElementById('editLeaderId').value = leaderId;
+            document.getElementById('editLeaderCode').value = leader.code;
+            document.getElementById('editLeaderNombre').value = leader.nombre;
+            document.getElementById('editLeaderCedula').value = leader.cedula;
+            document.getElementById('editLeaderTelefono').value = leader.telefono;
+            document.getElementById('editLeaderEmail').value = leader.email || '';
+
+            document.getElementById('editModal').classList.remove('hidden');
+        };
+
+        window.closeEditModal = function() {
+            document.getElementById('editModal').classList.add('hidden');
+        };
+
+        // Save leader edit
+        document.getElementById('editLeaderForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const leaderId = document.getElementById('editLeaderId').value;
+            const nombre = document.getElementById('editLeaderNombre').value.trim();
+            const cedula = document.getElementById('editLeaderCedula').value.trim();
+            const telefono = document.getElementById('editLeaderTelefono').value.trim();
+            const email = document.getElementById('editLeaderEmail').value.trim();
+
+            try {
+                await updateDoc(doc(db, LIDERES_COLLECTION, leaderId), {
+                    nombre,
+                    cedula,
+                    telefono,
+                    email
+                });
+
+                closeEditModal();
+                alert('Líder actualizado exitosamente');
+            } catch (error) {
+                console.error('Error updating leader:', error);
+                alert('Error al actualizar el líder. Intenta nuevamente.');
+            }
+        });
+
+        // Toggle leader status
+        window.toggleLeaderStatus = async function(leaderId, currentActive) {
+            const action = currentActive ? 'desactivar' : 'activar';
+            if (!confirm(`¿Estás seguro que deseas ${action} este líder?`)) return;
+
+            try {
+                await updateDoc(doc(db, LIDERES_COLLECTION, leaderId), {
+                    active: !currentActive
+                });
+                alert(`Líder ${currentActive ? 'desactivado' : 'activado'} exitosamente`);
+            } catch (error) {
+                console.error('Error toggling leader status:', error);
+                alert('Error al cambiar el estado del líder.');
+            }
+        };
+
+        // Close modal on outside click
+        document.getElementById('editModal').addEventListener('click', (e) => {
+            if (e.target.id === 'editModal') {
+                closeEditModal();
+            }
+        });
+    </script>
+</body>
+</html>

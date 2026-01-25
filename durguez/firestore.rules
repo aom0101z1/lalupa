@@ -1,0 +1,29 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Registration collection - public read/create, limited update
+    match /registros_evento/{document} {
+      allow read: if true;
+      allow create: if request.resource.data.keys().hasAll([
+        'leaderCode',
+        'nombreCompleto',
+        'telefono',
+        'cedula',
+        'acceptedPolicy'
+      ]) && request.resource.data.acceptedPolicy == true;
+      allow update: if request.resource.data.diff(resource.data).affectedKeys()
+        .hasOnly(['lastAccess', 'accessCount']);
+    }
+
+    // Leaders collection - public read for active codes, authenticated write
+    match /lideres/{document} {
+      // Anyone can read active leader codes (needed for registration validation)
+      allow read: if true;
+
+      // Only authenticated users can create/update/delete leaders
+      allow create: if request.auth != null;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null;
+    }
+  }
+}

@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro Evento - Durguez</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primary: #1a1a2e;
+            --color-secondary: #16213e;
+            --color-accent: #c9a227;
+            --color-accent-light: #e6c84c;
+            --color-text: #f5f5f5;
+            --color-text-muted: #b8b8b8;
+            --color-success: #4caf50;
+            --color-error: #ef5350;
+            --color-white: #ffffff;
+            --font-display: 'Playfair Display', serif;
+            --font-body: 'Source Sans 3', sans-serif;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-body);
+            background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 50%, #0f0f23 100%);
+            min-height: 100vh;
+            color: var(--color-text);
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+            opacity: 0.03;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            max-width: 520px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Header matching durguez.com */
+        .site-header {
+            background: var(--color-white);
+            padding: 30px 20px;
+            text-align: center;
+            margin-bottom: 40px;
+            border-radius: 0 0 20px 20px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .site-title {
+            font-family: var(--font-display);
+            font-size: 3rem;
+            font-weight: 700;
+            color: #1a1a2e;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            margin: 0;
+            padding-bottom: 12px;
+            display: inline-block;
+            border-bottom: 4px solid var(--color-accent);
+        }
+
+        .site-tagline {
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: #1a1a2e;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            margin-top: 15px;
+        }
+
+        .site-tagline span {
+            margin: 0 8px;
+            color: var(--color-accent);
+        }
+
+        .logo-container {
+            text-align: center;
+            margin-bottom: 40px;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .logo {
+            max-width: 280px;
+            height: auto;
+            filter: drop-shadow(0 4px 20px rgba(201, 162, 39, 0.2));
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3),
+                        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+        }
+
+        .card-title {
+            font-family: var(--font-display);
+            font-size: 1.8rem;
+            font-weight: 600;
+            text-align: center;
+            margin-bottom: 8px;
+            color: var(--color-white);
+            letter-spacing: 0.5px;
+        }
+
+        .card-subtitle {
+            text-align: center;
+            color: var(--color-text-muted);
+            margin-bottom: 32px;
+            font-size: 0.95rem;
+            font-weight: 300;
+        }
+
+        .step-indicator {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 32px;
+        }
+
+        .step-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(201, 162, 39, 0.2);
+            transition: all 0.4s ease;
+        }
+
+        .step-dot.active {
+            background: var(--color-accent);
+            box-shadow: 0 0 15px rgba(201, 162, 39, 0.5);
+            transform: scale(1.2);
+        }
+
+        .form-group {
+            margin-bottom: 24px;
+        }
+
+        .form-label {
+            display: block;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--color-accent-light);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 16px 20px;
+            font-size: 1rem;
+            font-family: var(--font-body);
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(201, 162, 39, 0.2);
+            border-radius: 12px;
+            color: var(--color-white);
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        .form-input::placeholder {
+            color: rgba(255, 255, 255, 0.3);
+        }
+
+        .form-input:focus {
+            border-color: var(--color-accent);
+            background: rgba(255, 255, 255, 0.08);
+            box-shadow: 0 0 20px rgba(201, 162, 39, 0.15);
+        }
+
+        .form-input.error {
+            border-color: var(--color-error);
+            animation: shake 0.5s ease;
+        }
+
+        .checkbox-container {
+            display: flex;
+            align-items: flex-start;
+            gap: 14px;
+            margin-bottom: 24px;
+            cursor: pointer;
+        }
+
+        .checkbox-input {
+            display: none;
+        }
+
+        .checkbox-custom {
+            width: 24px;
+            height: 24px;
+            min-width: 24px;
+            border: 2px solid rgba(201, 162, 39, 0.4);
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            margin-top: 2px;
+        }
+
+        .checkbox-input:checked + .checkbox-custom {
+            background: var(--color-accent);
+            border-color: var(--color-accent);
+        }
+
+        .checkbox-custom svg {
+            width: 14px;
+            height: 14px;
+            stroke: var(--color-primary);
+            stroke-width: 3;
+            opacity: 0;
+            transform: scale(0);
+            transition: all 0.2s ease;
+        }
+
+        .checkbox-input:checked + .checkbox-custom svg {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        .checkbox-label {
+            font-size: 0.9rem;
+            color: var(--color-text-muted);
+            line-height: 1.5;
+        }
+
+        .checkbox-label a {
+            color: var(--color-accent);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s ease;
+        }
+
+        .checkbox-label a:hover {
+            color: var(--color-accent-light);
+            text-decoration: underline;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 18px 24px;
+            font-size: 1rem;
+            font-weight: 600;
+            font-family: var(--font-body);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--color-accent) 0%, #b8941f 100%);
+            color: var(--color-primary);
+            box-shadow: 0 8px 25px rgba(201, 162, 39, 0.3);
+        }
+
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 35px rgba(201, 162, 39, 0.4);
+        }
+
+        .btn-primary:active:not(:disabled) {
+            transform: translateY(0);
+        }
+
+        .btn-primary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            border: 1px solid rgba(201, 162, 39, 0.3);
+            color: var(--color-text-muted);
+            margin-top: 12px;
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--color-accent);
+            color: var(--color-accent);
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 12px;
+            margin-top: 24px;
+        }
+
+        .btn-group .btn {
+            flex: 1;
+        }
+
+        .message {
+            padding: 14px 18px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .message-error {
+            background: rgba(239, 83, 80, 0.15);
+            border: 1px solid rgba(239, 83, 80, 0.3);
+            color: #ff8a80;
+        }
+
+        .message-success {
+            background: rgba(76, 175, 80, 0.15);
+            border: 1px solid rgba(76, 175, 80, 0.3);
+            color: #a5d6a7;
+        }
+
+        .message-info {
+            background: rgba(201, 162, 39, 0.15);
+            border: 1px solid rgba(201, 162, 39, 0.3);
+            color: var(--color-accent-light);
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(26, 26, 46, 0.3);
+            border-radius: 50%;
+            border-top-color: var(--color-primary);
+            animation: spin 0.8s linear infinite;
+        }
+
+        .divider {
+            display: flex;
+            align-items: center;
+            margin: 28px 0;
+        }
+
+        .divider::before,
+        .divider::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(201, 162, 39, 0.3), transparent);
+        }
+
+        .divider span {
+            padding: 0 16px;
+            font-size: 0.8rem;
+            color: var(--color-text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .reentry-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .reentry-link a {
+            color: var(--color-accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .reentry-link a:hover {
+            color: var(--color-accent-light);
+            text-decoration: underline;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(201, 162, 39, 0.1);
+        }
+
+        .footer p {
+            font-size: 0.8rem;
+            color: var(--color-text-muted);
+        }
+
+        .footer a {
+            color: var(--color-accent);
+            text-decoration: none;
+        }
+
+        /* Decorative elements */
+        .decoration {
+            position: fixed;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .decoration-1 {
+            top: 10%;
+            right: 5%;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(201, 162, 39, 0.08) 0%, transparent 70%);
+            border-radius: 50%;
+        }
+
+        .decoration-2 {
+            bottom: 15%;
+            left: 5%;
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(201, 162, 39, 0.05) 0%, transparent 70%);
+            border-radius: 50%;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            20%, 60% { transform: translateX(-8px); }
+            40%, 80% { transform: translateX(8px); }
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .site-header {
+                padding: 20px 15px;
+                margin-bottom: 30px;
+            }
+
+            .site-title {
+                font-size: 2rem;
+                letter-spacing: 4px;
+            }
+
+            .site-tagline {
+                font-size: 0.7rem;
+                letter-spacing: 2px;
+            }
+
+            .container {
+                padding: 24px 16px;
+            }
+
+            .card {
+                padding: 28px 24px;
+            }
+
+            .card-title {
+                font-size: 1.5rem;
+            }
+
+            .logo {
+                max-width: 220px;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="decoration decoration-1"></div>
+    <div class="decoration decoration-2"></div>
+
+    <!-- Header matching durguez.com style -->
+    <header class="site-header">
+        <h1 class="site-title">DURGUEZ</h1>
+        <p class="site-tagline">DIOS<span>·</span>FAMILIA<span>·</span>PATRIA<span>·</span>EMPRESA<span>·</span>SEGURIDAD</p>
+    </header>
+
+    <div class="container">
+
+        <!-- Step 1: Code Verification -->
+        <div id="step1" class="card">
+            <div class="step-indicator">
+                <div class="step-dot active"></div>
+                <div class="step-dot"></div>
+            </div>
+
+            <h1 class="card-title">Bienvenido</h1>
+            <p class="card-subtitle">Ingresa tu código de invitación para continuar</p>
+
+            <div id="step1-message" class="hidden"></div>
+
+            <form id="codeForm">
+                <div class="form-group">
+                    <label class="form-label" for="leaderCode">Código de Invitación</label>
+                    <input 
+                        type="text" 
+                        id="leaderCode" 
+                        name="leaderCode" 
+                        class="form-input" 
+                        placeholder="Ej: DUR-7X9K2"
+                        autocomplete="off"
+                        required
+                    >
+                </div>
+
+                <button type="submit" class="btn btn-primary" id="verifyCodeBtn">
+                    Verificar Código
+                </button>
+            </form>
+
+            <div class="divider">
+                <span>¿Ya te registraste?</span>
+            </div>
+
+            <div class="reentry-link">
+                <a href="#" id="showReentryLink">Ingresa con tu cédula →</a>
+            </div>
+        </div>
+
+        <!-- Step 1B: Re-entry for existing users -->
+        <div id="step1b" class="card hidden">
+            <div class="step-indicator">
+                <div class="step-dot active"></div>
+                <div class="step-dot"></div>
+            </div>
+
+            <h1 class="card-title">Re-ingreso</h1>
+            <p class="card-subtitle">Ingresa tu código y cédula para acceder nuevamente</p>
+
+            <div id="step1b-message" class="hidden"></div>
+
+            <form id="reentryForm">
+                <div class="form-group">
+                    <label class="form-label" for="reentryCode">Código de Invitación</label>
+                    <input 
+                        type="text" 
+                        id="reentryCode" 
+                        name="reentryCode" 
+                        class="form-input" 
+                        placeholder="Ej: DUR-7X9K2"
+                        autocomplete="off"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="reentryCedula">Número de Cédula</label>
+                    <input 
+                        type="text" 
+                        id="reentryCedula" 
+                        name="reentryCedula" 
+                        class="form-input" 
+                        placeholder="Tu número de cédula"
+                        autocomplete="off"
+                        required
+                    >
+                </div>
+
+                <button type="submit" class="btn btn-primary" id="reentryBtn">
+                    Ingresar al Evento
+                </button>
+
+                <button type="button" class="btn btn-secondary" id="backToStep1">
+                    ← Volver
+                </button>
+            </form>
+        </div>
+
+        <!-- Step 2: Registration Form -->
+        <div id="step2" class="card hidden">
+            <div class="step-indicator">
+                <div class="step-dot active"></div>
+                <div class="step-dot active"></div>
+            </div>
+
+            <h1 class="card-title">Registro</h1>
+            <p class="card-subtitle">Completa tus datos para acceder al evento</p>
+
+            <div id="step2-message" class="hidden"></div>
+
+            <form id="registrationForm">
+                <input type="hidden" id="confirmedCode" name="confirmedCode">
+
+                <div class="form-group">
+                    <label class="form-label" for="nombreCompleto">Nombre y Apellido</label>
+                    <input 
+                        type="text" 
+                        id="nombreCompleto" 
+                        name="nombreCompleto" 
+                        class="form-input" 
+                        placeholder="Tu nombre completo"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="telefono">Teléfono</label>
+                    <input 
+                        type="tel" 
+                        id="telefono" 
+                        name="telefono" 
+                        class="form-input" 
+                        placeholder="Tu número de teléfono"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="cedula">Número de Cédula</label>
+                    <input 
+                        type="text" 
+                        id="cedula" 
+                        name="cedula" 
+                        class="form-input" 
+                        placeholder="Tu número de cédula"
+                        required
+                    >
+                </div>
+
+                <label class="checkbox-container">
+                    <input type="checkbox" id="acceptPolicy" name="acceptPolicy" class="checkbox-input" required>
+                    <span class="checkbox-custom">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <polyline points="20 6 9 17 4 12"></polyline>
+                        </svg>
+                    </span>
+                    <span class="checkbox-label">
+                        He leído y acepto la 
+                        <a href="https://durguez.com/politica-de-datos/" target="_blank">
+                            Política de Tratamiento de Datos Personales
+                        </a>
+                    </span>
+                </label>
+
+                <div class="btn-group">
+                    <button type="button" class="btn btn-secondary" id="exitBtn">
+                        Salir
+                    </button>
+                    <button type="submit" class="btn btn-primary" id="submitBtn" disabled>
+                        Ingresar
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <div class="footer">
+            <p>© 2025 <a href="https://durguez.com" target="_blank">Durguez</a> — Primero Dios, luego la Familia y la Patria</p>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script type="module">
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
+        import {
+            getFirestore,
+            collection,
+            addDoc,
+            query,
+            where,
+            getDocs,
+            doc,
+            updateDoc,
+            increment,
+            serverTimestamp
+        } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js';
+
+        // =====================================================
+        // CONFIGURACIÓN FIREBASE - DURGUEZ REGISTRO
+        // =====================================================
+        const firebaseConfig = {
+            apiKey: "AIzaSyB_2VfUKH4dOkQ5fTqYy8hixUE9qN3amYY",
+            authDomain: "durguez-registro.firebaseapp.com",
+            projectId: "durguez-registro",
+            storageBucket: "durguez-registro.firebasestorage.app",
+            messagingSenderId: "1074589358816",
+            appId: "1:1074589358816:web:a56e1318dee9d8dee10e85"
+        };
+
+        // URL del Zoom Webinar
+        const ZOOM_URL = "https://us02web.zoom.us/j/84436574404?pwd=Odrl7lhlXTWbNI9SaNBEjUldgBdZFM.1";
+        // =====================================================
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const db = getFirestore(app);
+        const COLLECTION_NAME = 'registros_evento';
+        const LIDERES_COLLECTION = 'lideres';
+
+        // Cache for leader codes (loaded from Firestore)
+        let leaderCodesCache = {};
+
+        // DOM Elements
+        const step1 = document.getElementById('step1');
+        const step1b = document.getElementById('step1b');
+        const step2 = document.getElementById('step2');
+        const codeForm = document.getElementById('codeForm');
+        const reentryForm = document.getElementById('reentryForm');
+        const registrationForm = document.getElementById('registrationForm');
+        const acceptPolicy = document.getElementById('acceptPolicy');
+        const submitBtn = document.getElementById('submitBtn');
+        const showReentryLink = document.getElementById('showReentryLink');
+        const backToStep1 = document.getElementById('backToStep1');
+        const exitBtn = document.getElementById('exitBtn');
+
+        // Helper Functions
+        function showMessage(containerId, message, type) {
+            const container = document.getElementById(containerId);
+            container.className = `message message-${type}`;
+            container.innerHTML = message;
+            container.classList.remove('hidden');
+        }
+
+        function hideMessage(containerId) {
+            const container = document.getElementById(containerId);
+            container.classList.add('hidden');
+        }
+
+        function setLoading(button, loading) {
+            if (loading) {
+                button.disabled = true;
+                button.dataset.originalText = button.textContent;
+                button.innerHTML = '<span class="loading"></span>';
+            } else {
+                button.disabled = false;
+                button.textContent = button.dataset.originalText;
+            }
+        }
+
+        // Load leader codes from Firestore
+        async function loadLeaderCodes() {
+            try {
+                const q = query(collection(db, LIDERES_COLLECTION), where('active', '==', true));
+                const snapshot = await getDocs(q);
+                leaderCodesCache = {};
+                snapshot.docs.forEach(doc => {
+                    const data = doc.data();
+                    leaderCodesCache[data.code] = {
+                        id: doc.id,
+                        name: data.nombre,
+                        ...data
+                    };
+                });
+                console.log('Leader codes loaded:', Object.keys(leaderCodesCache).length);
+            } catch (error) {
+                console.error('Error loading leader codes:', error);
+            }
+        }
+
+        // Validate leader code against Firestore data
+        async function validateLeaderCode(code) {
+            const upperCode = code?.toUpperCase().trim();
+
+            // First check cache
+            if (leaderCodesCache[upperCode]) {
+                return upperCode;
+            }
+
+            // If not in cache, query Firestore directly
+            try {
+                const q = query(
+                    collection(db, LIDERES_COLLECTION),
+                    where('code', '==', upperCode),
+                    where('active', '==', true)
+                );
+                const snapshot = await getDocs(q);
+                if (!snapshot.empty) {
+                    const data = snapshot.docs[0].data();
+                    leaderCodesCache[upperCode] = {
+                        id: snapshot.docs[0].id,
+                        name: data.nombre,
+                        ...data
+                    };
+                    return upperCode;
+                }
+            } catch (error) {
+                console.error('Error validating code:', error);
+            }
+
+            return null;
+        }
+
+        // Initialize: load leader codes on page load
+        loadLeaderCodes();
+
+        async function checkExistingRegistration(cedula) {
+            const q = query(
+                collection(db, COLLECTION_NAME),
+                where('cedula', '==', cedula)
+            );
+            const snapshot = await getDocs(q);
+            
+            if (!snapshot.empty) {
+                const docData = snapshot.docs[0];
+                return { exists: true, id: docData.id, data: docData.data() };
+            }
+            return { exists: false };
+        }
+
+        async function createRegistration(data) {
+            return await addDoc(collection(db, COLLECTION_NAME), {
+                ...data,
+                createdAt: serverTimestamp(),
+                lastAccess: serverTimestamp(),
+                accessCount: 1
+            });
+        }
+
+        async function updateLastAccess(docId) {
+            const docRef = doc(db, COLLECTION_NAME, docId);
+            await updateDoc(docRef, {
+                lastAccess: serverTimestamp(),
+                accessCount: increment(1)
+            });
+        }
+
+        function redirectToZoom() {
+            window.location.href = ZOOM_URL;
+        }
+
+        // Event Handlers
+        showReentryLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            step1.classList.add('hidden');
+            step1b.classList.remove('hidden');
+        });
+
+        backToStep1.addEventListener('click', () => {
+            step1b.classList.add('hidden');
+            step1.classList.remove('hidden');
+            hideMessage('step1b-message');
+        });
+
+        exitBtn.addEventListener('click', () => {
+            if (confirm('¿Estás seguro que deseas salir?')) {
+                window.location.href = 'https://durguez.com';
+            }
+        });
+
+        acceptPolicy.addEventListener('change', () => {
+            submitBtn.disabled = !acceptPolicy.checked;
+        });
+
+        // Code Verification Form
+        codeForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const verifyBtn = document.getElementById('verifyCodeBtn');
+            const codeInput = document.getElementById('leaderCode');
+            const code = codeInput.value;
+
+            hideMessage('step1-message');
+            setLoading(verifyBtn, true);
+
+            try {
+                const validCode = await validateLeaderCode(code);
+
+                if (!validCode) {
+                    showMessage('step1-message', '❌ Código inválido. Verifica e intenta nuevamente.', 'error');
+                    codeInput.classList.add('error');
+                    setTimeout(() => codeInput.classList.remove('error'), 500);
+                    return;
+                }
+
+                // Code is valid, show registration form
+                document.getElementById('confirmedCode').value = validCode;
+                step1.classList.add('hidden');
+                step2.classList.remove('hidden');
+
+            } catch (error) {
+                console.error('Error:', error);
+                showMessage('step1-message', '❌ Error al verificar. Intenta nuevamente.', 'error');
+            } finally {
+                setLoading(verifyBtn, false);
+            }
+        });
+
+        // Re-entry Form
+        reentryForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const reentryBtn = document.getElementById('reentryBtn');
+            const code = document.getElementById('reentryCode').value;
+            const cedula = document.getElementById('reentryCedula').value.trim();
+
+            hideMessage('step1b-message');
+            setLoading(reentryBtn, true);
+
+            try {
+                // Validate code
+                const validCode = await validateLeaderCode(code);
+                if (!validCode) {
+                    showMessage('step1b-message', '❌ Código inválido.', 'error');
+                    return;
+                }
+
+                // Check if cedula exists
+                const existing = await checkExistingRegistration(cedula);
+                
+                if (!existing.exists) {
+                    showMessage('step1b-message', '❌ No encontramos un registro con esa cédula. Por favor regístrate primero.', 'error');
+                    return;
+                }
+
+                // Verify the code matches
+                if (existing.data.leaderCode !== validCode) {
+                    showMessage('step1b-message', '❌ El código no coincide con tu registro original.', 'error');
+                    return;
+                }
+
+                // Update last access and redirect
+                await updateLastAccess(existing.id);
+                showMessage('step1b-message', '✅ ¡Bienvenido de nuevo! Redirigiendo al evento...', 'success');
+                
+                setTimeout(redirectToZoom, 1500);
+
+            } catch (error) {
+                console.error('Error:', error);
+                showMessage('step1b-message', '❌ Error al procesar. Intenta nuevamente.', 'error');
+            } finally {
+                setLoading(reentryBtn, false);
+            }
+        });
+
+        // Registration Form
+        registrationForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            if (!acceptPolicy.checked) {
+                showMessage('step2-message', '⚠️ Debes aceptar la política de tratamiento de datos para continuar.', 'error');
+                return;
+            }
+
+            setLoading(submitBtn, true);
+            hideMessage('step2-message');
+
+            const formData = {
+                leaderCode: document.getElementById('confirmedCode').value,
+                nombreCompleto: document.getElementById('nombreCompleto').value.trim(),
+                telefono: document.getElementById('telefono').value.trim(),
+                cedula: document.getElementById('cedula').value.trim(),
+                acceptedPolicy: true,
+                acceptedPolicyAt: new Date().toISOString()
+            };
+
+            try {
+                // Check if cedula already exists
+                const existing = await checkExistingRegistration(formData.cedula);
+                
+                if (existing.exists) {
+                    showMessage('step2-message', '⚠️ Ya existe un registro con esta cédula. Usa la opción de re-ingreso.', 'info');
+                    return;
+                }
+
+                // Create new registration
+                await createRegistration(formData);
+                
+                showMessage('step2-message', '✅ ¡Registro exitoso! Redirigiendo al evento...', 'success');
+                
+                setTimeout(redirectToZoom, 1500);
+
+            } catch (error) {
+                console.error('Error:', error);
+                showMessage('step2-message', '❌ Error al registrar. Por favor intenta nuevamente.', 'error');
+            } finally {
+                setLoading(submitBtn, false);
+            }
+        });
+
+        // Format code input
+        document.getElementById('leaderCode').addEventListener('input', function(e) {
+            this.value = this.value.toUpperCase();
+        });
+
+        document.getElementById('reentryCode').addEventListener('input', function(e) {
+            this.value = this.value.toUpperCase();
+        });
+    </script>
+</body>
+</html>
