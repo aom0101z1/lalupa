@@ -66,6 +66,81 @@
   ],
   "casos": [
     {
+      "id": 197,
+      "titulo": "Congresista denuncia aplicación irregular de polígrafo por orden de Caicedo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-24",
+      "descripcion": "La representante Ingrid Aguirre, quien renunció a Fuerza Ciudadana, denunció que Carlos Caicedo le ordenó someterse a una prueba de polígrafo que fue ejecutada por Rafael Martínez. Esta práctica constituiría un abuso de autoridad al someter a una congresista a procedimientos no contemplados en la ley para ejercer presión política o control irregular sobre su actividad legislativa.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/congresista-denuncia-que-caicedo-ordeno-hacerle-la-prueba-de-poligrafo/",
+          "fecha": "2026-01-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ingrid Aguirre",
+        "Carlos Caicedo",
+        "Rafael Martínez"
+      ],
+      "entidad": "Fuerza Ciudadana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-25 12:25"
+    },
+    {
+      "id": 196,
+      "titulo": "Magistrado Camargo solicita suspender decreto de emergencia económica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-25",
+      "descripcion": "El magistrado Carlos Camargo presentó un documento de 86 páginas argumentando que existen elementos suficientes para decretar la suspensión provisional del decreto de emergencia económica del gobierno Petro. Esta acción representa un control judicial excepcional sobre las facultades presidenciales en estados de excepción, lo que podría configurar un caso de extralimitación de funciones por parte del ejecutivo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/magistrado-camargo-pide-suspender-decreto-de-emergencia-economica/",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Camargo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Constitucional - Presidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-25 12:25"
+    },
+    {
+      "id": 195,
+      "titulo": "Magistrados proponen suspender emergencia económica de Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-25",
+      "descripcion": "Los magistrados Carlos Camargo y Juan Carlos Cortés de la Corte Constitucional radicaron solicitudes para aplicar, por primera vez en la historia, una medida cautelar para suspender un decreto de emergencia económica declarado por el gobierno Petro. Además propusieron apartar al magistrado Ibáñez del debate. Esta sería una medida inédita contra un estado de excepción presidencial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/detalles-ineditos-de-la-sala-de-la-corte-que-propuso-suspender-la-emergencia-economica-y-apartar-a-ibanez-del-debate-3526806",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Camargo",
+        "Juan Carlos Cortés",
+        "Gustavo Petro",
+        "Ibáñez"
+      ],
+      "entidad": "Corte Constitucional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-25 12:25"
+    },
+    {
       "id": 194,
       "titulo": "Denuncia de aplicación irregular de polígrafo a congresista",
       "categoria": "abuso-poder",
