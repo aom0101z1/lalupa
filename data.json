@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 199,
+      "titulo": "Crisis financiera en universidades públicas revelada por Contraloría",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-25",
+      "descripcion": "La Contraloría reveló que solo una de 34 universidades públicas es autosostenible según estudio de finanzas entre 2019 y 2024. El informe evidencia mal manejo de recursos públicos con rezagos en pasivos pensionales y problemas estructurales de sostenibilidad financiera en el sistema de educación superior público del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/solo-una-de-34-universidades-publicas-es-autosostenible-el-duro-informe-de-la-contraloria-sobre-la-educacion-superior-3526838",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-25 18:18"
+    },
+    {
+      "id": 198,
+      "titulo": "Acusación formal contra Carlos R. González, exdirector del Dapre",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-25",
+      "descripcion": "La Fiscalía tiene listo el escrito de acusación contra Carlos R. González, exdirector del Dapre y mano derecha del presidente Petro, por defraudar a la sociedad. El funcionario se encuentra actualmente prófugo de la justicia y asilado en Nicaragua. El caso representa un escándalo de alto nivel en el círculo más cercano al presidente.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/era-la-mano-derecha-del-presidente-y-defraudo-a-la-sociedad-los-terminos-de-la-acusacion-contra-carlos-r-gonzalez-3527002",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos R. González",
+        "Gustavo Petro"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia de la República (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-25 18:18"
+    },
+    {
       "id": 197,
       "titulo": "Congresista denuncia aplicación irregular de polígrafo por orden de Caicedo",
       "categoria": "abuso-poder",
