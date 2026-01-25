@@ -66,6 +66,99 @@
   ],
   "casos": [
     {
+      "id": 192,
+      "titulo": "Congresista denuncia que Caicedo le ordenó prueba de polígrafo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-24",
+      "descripcion": "La representante Ingrid Aguirre, quien renunció a Fuerza Ciudadana, denunció que Carlos Caicedo le ordenó someterse a una prueba de polígrafo, la cual fue ejecutada por Rafael Martínez. Esta práctica constituiría un posible abuso de autoridad al imponer métodos de verificación no contemplados en los procedimientos parlamentarios regulares, generando cuestionamientos sobre el ejercicio del poder dentro de las organizaciones políticas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/congresista-denuncia-que-caicedo-ordeno-hacerle-la-prueba-de-poligrafo/",
+          "fecha": "2026-01-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ingrid Aguirre",
+        "Carlos Caicedo",
+        "Rafael Martínez"
+      ],
+      "entidad": "Congreso de la República - Fuerza Ciudadana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-25 01:09"
+    },
+    {
+      "id": 191,
+      "titulo": "ANT demandada por presunta omisión en transparencia contractual",
+      "categoria": "contratos",
+      "fecha": "2026-01-23",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) fue demandada por presunta omisión en transparencia contractual. La entidad se defiende argumentando que puede adquirir predios mediante expropiación y negociación directa, y que no necesariamente toda la información debe reportarse en el SECOP. El caso cuestiona los procedimientos de contratación y transparencia en la adquisición de tierras por parte de la ANT.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-se-va-a-defender-la-ant-tras-ser-demandada-por-presunta-omision-en-trasparencia-contractual-detalles-del-pleito-juridico-3526740",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-25 01:09"
+    },
+    {
+      "id": 190,
+      "titulo": "CNE responde sobre millonario contrato para software de testigos electorales",
+      "categoria": "contratos",
+      "fecha": "2026-01-23",
+      "descripcion": "El presidente del Consejo Nacional Electoral, Cristian Quiroz, respondió a cuestionamientos sobre la firma de un millonario contrato para adquirir un software destinado a inscribir testigos electorales. El funcionario defendió la transparencia del proceso, pero la magnitud del contrato y su propósito específico han generado interrogantes sobre la adjudicación y necesidad del sistema.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-proximas-elecciones-seran-las-mas-transparentes-que-hemos-tenido-en-anos-cristian-quiroz-presidente-del-consejo-nacional-electoral-cne-3526761",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Cristian Quiroz"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-25 01:09"
+    },
+    {
+      "id": 189,
+      "titulo": "Presidente Petro defiende a su secretaria tras denuncias por títulos irregulares",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-23",
+      "descripcion": "El presidente Gustavo Petro defendió a su secretaria tras denuncias sobre títulos irregulares de la Fundación San José, calificando las acusaciones como 'irresponsabilidad' y 'vejamen'. El mandatario insistió que su secretaria 'se graduó de la universidad a distancia', pero las denuncias sobre la irregularidad de los títulos de esta fundación siguen siendo objeto de cuestionamiento.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-defendio-a-su-secretaria-tras-denuncia-sobre-titulos-irregulares-de-la-fundacion-san-jose-es-presa-de-un-vejamen-3526796",
+          "fecha": "2026-01-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Secretaria presidencial"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-25 01:09"
+    },
+    {
       "id": 188,
       "titulo": "Procuraduría investiga casos de acoso sexual en Gobernación del Magdalena",
       "categoria": "abuso-poder",
