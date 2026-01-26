@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 206,
+      "titulo": "Gobierno elimina cifras oficiales de cocaína de la ONU sin justificación técnica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-26",
+      "descripcion": "El presidente Petro anunció que dejará de usar las mediciones de UNODC sobre cultivos de coca, lo que dejaría a Colombia sin datos comparables internacionalmente. Esta decisión unilateral arriesga el respaldo internacional y puede afectar la cooperación en la lucha antidrogas, sin presentar una metodología alternativa científicamente validada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-arriesga-respaldo-internacional-al-eliminar-cifra-de-cocaina-de-la-onu-3527035",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-26 12:29"
+    },
+    {
+      "id": 205,
+      "titulo": "Entrega irregular de hacienda La Virgen del Cobre por parte de ANT",
+      "categoria": "contratos",
+      "fecha": "2026-01-25",
+      "descripcion": "La ANT entregó un predio con pasado paramilitar a asociaciones campesinas, pero existe la posibilidad de que la justicia tumbe esta gestión por irregularidades jurídicas. El caso involucra la entrega de tierras de restitución sin seguir los procedimientos legales apropiados, lo que genera conflictos entre campesinos y pone en riesgo los recursos públicos invertidos en el proceso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/esta-es-la-verdad-juridica-de-la-hacienda-de-la-virgen-del-cobre-el-predio-con-pasado-paramilitar-por-el-que-campesinos-se-pelean-tras-entrega-de-ant-3527031",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ANT - Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-26 12:29"
+    },
+    {
+      "id": 204,
+      "titulo": "Cuarta renuncia de interventor en Air-e empresa intervenida por el gobierno",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-25",
+      "descripcion": "Renuncia el interventor de Air-e, empresa de energía intervenida por el gobierno, siendo el cuarto interventor que abandona el cargo. Esta situación evidencia problemas en la gestión de la intervención gubernamental de la empresa y posibles dificultades en el manejo de recursos públicos destinados a garantizar el servicio de energía.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/renuncia-interventor-de-air-e-empresa-de-energia-intervenida-por-el-gobierno/",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Interventor Air-e"
+      ],
+      "entidad": "Air-e",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-26 12:29"
+    },
+    {
       "id": 203,
       "titulo": "Cuarta renuncia de interventor en Air-e durante intervención gubernamental",
       "categoria": "recursos-publicos",
