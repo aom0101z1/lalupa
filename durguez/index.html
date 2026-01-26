@@ -79,9 +79,31 @@
             letter-spacing: 6px;
             text-transform: uppercase;
             margin: 0;
-            padding-bottom: 10px;
             display: inline-block;
-            border-bottom: 4px solid var(--color-brand-orange);
+        }
+
+        .site-underline {
+            display: flex;
+            justify-content: center;
+            margin: 12px auto;
+            width: 280px;
+            height: 5px;
+        }
+
+        .site-underline span {
+            flex: 1;
+        }
+
+        .site-underline .bar-red {
+            background: #D32F2F;
+        }
+
+        .site-underline .bar-yellow {
+            background: #FBC02D;
+        }
+
+        .site-underline .bar-blue {
+            background: #42A5F5;
         }
 
         .site-tagline {
@@ -91,7 +113,7 @@
             color: var(--color-text-dark);
             letter-spacing: 2px;
             text-transform: uppercase;
-            margin-top: 12px;
+            margin-top: 8px;
         }
 
         .site-tagline span {
@@ -498,6 +520,12 @@
                 letter-spacing: 3px;
             }
 
+            .site-underline {
+                width: 180px;
+                height: 4px;
+                margin: 10px auto;
+            }
+
             .site-tagline {
                 font-size: 0.6rem;
                 letter-spacing: 1px;
@@ -536,6 +564,11 @@
     <!-- Header matching durguez.com style -->
     <header class="site-header">
         <h1 class="site-title">DURGUEZ</h1>
+        <div class="site-underline">
+            <span class="bar-red"></span>
+            <span class="bar-yellow"></span>
+            <span class="bar-blue"></span>
+        </div>
         <p class="site-tagline">DIOS<span>·</span>FAMILIA<span>·</span>PATRIA<span>·</span>EMPRESA<span>·</span>SEGURIDAD</p>
     </header>
 
