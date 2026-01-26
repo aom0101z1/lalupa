@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 203,
+      "titulo": "Cuarta renuncia de interventor en Air-e durante intervención gubernamental",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-25",
+      "descripcion": "El interventor de Air-e, empresa de energía intervenida por el gobierno nacional, anunció su renuncia efectiva el 30 de enero. Con esta salida, ya son cuatro los interventores que han pasado por la empresa durante el proceso de intervención, evidenciando problemas en la gestión y continuidad administrativa de la entidad intervenida con recursos públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/renuncia-interventor-de-air-e-empresa-de-energia-intervenida-por-el-gobierno/",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Air-e",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-26 06:25"
+    },
+    {
+      "id": 202,
+      "titulo": "Entrega irregular de hacienda La Virgen del Cobre por parte de la ANT",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-25",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) entregó un predio con pasado paramilitar a asociaciones campesinas, pero existe la posibilidad de que la justicia tumbe esta gestión por irregularidades en el proceso. El caso involucra la entrega de tierras públicas sin seguir los procedimientos legales establecidos, lo que genera conflictos entre campesinos por la propiedad del predio.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/esta-es-la-verdad-juridica-de-la-hacienda-de-la-virgen-del-cobre-el-predio-con-pasado-paramilitar-por-el-que-campesinos-se-pelean-tras-entrega-de-ant-3527031",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-26 06:25"
+    },
+    {
       "id": 201,
       "titulo": "Cuarta renuncia de interventor en Air-e",
       "categoria": "recursos-publicos",
