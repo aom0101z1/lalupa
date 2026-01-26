@@ -1073,6 +1073,19 @@
         let filteredData = [];
         let leadersData = [];
         let leadersMap = {}; // code -> leader info
+        const ADMINS_COLLECTION = 'admins';
+
+        // Check if user is authorized admin
+        async function isAuthorizedAdmin(email) {
+            try {
+                const q = query(collection(db, ADMINS_COLLECTION), where('email', '==', email.toLowerCase()));
+                const snapshot = await getDocs(q);
+                return !snapshot.empty;
+            } catch (error) {
+                console.error('Error checking admin status:', error);
+                return false;
+            }
+        }
 
         // Generate unique code
         function generateCode() {
@@ -1103,9 +1116,20 @@
         }
 
         // Auth state observer
-        onAuthStateChanged(auth, (user) => {
+        onAuthStateChanged(auth, async (user) => {
             if (user) {
-                // User is signed in
+                // Check if user is authorized admin
+                const isAdmin = await isAuthorizedAdmin(user.email);
+
+                if (!isAdmin) {
+                    // Not authorized - sign out and show error
+                    await firebaseSignOut(auth);
+                    document.getElementById('loadingOverlay').classList.add('hidden');
+                    alert('Acceso denegado. Tu cuenta no está autorizada como administrador.\n\nContacta al administrador del sistema.');
+                    return;
+                }
+
+                // User is authorized admin
                 document.getElementById('loginScreen').classList.add('hidden');
                 document.getElementById('adminPanel').classList.remove('hidden');
                 document.getElementById('userPhoto').src = user.photoURL || 'https://via.placeholder.com/32';

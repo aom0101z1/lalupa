@@ -25,5 +25,14 @@ service cloud.firestore {
       allow update: if request.auth != null;
       allow delete: if request.auth != null;
     }
+
+    // Admins collection - authenticated read only (write via Firebase Console)
+    match /admins/{document} {
+      // Authenticated users can read to check their own admin status
+      allow read: if request.auth != null;
+
+      // No client-side writes - admins managed via Firebase Console only
+      allow write: if false;
+    }
   }
 }
