@@ -4,6 +4,7 @@ mis-notas/
 .env
 *.log
 LALUPA_PROJECT_CONTEXT.md
+.claude/
 
 # Sistema
 .DS_Store
