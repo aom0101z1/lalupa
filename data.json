@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 209,
+      "titulo": "Denuncia por cambios diplomáticos irregulares previo a elecciones",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-26",
+      "descripcion": "El sindicato de Cancillería denunció una avalancha de contrataciones y cambios en el servicio diplomático previo a la entrada en vigencia de la ley de garantías electorales. Se reportan salidas de funcionarios con más de dos décadas de experiencia, lo que genera sospechas sobre posibles movimientos irregulares en el cuerpo diplomático antes del período electoral, potencialmente violando las normas de neutralidad electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/sindicato-de-cancilleria-denuncia-cambios-diplomaticos-previo-a-elecciones/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios de Cancillería"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-26 18:23"
+    },
+    {
+      "id": 208,
+      "titulo": "Proceso judicial de exministros Bonilla y Velasco por escándalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-26",
+      "descripcion": "El caso de los exministros Bonilla y Velasco continúa en el sistema judicial por el escándalo de corrupción en la UNGRD. En el Tribunal de Bogotá está pendiente revisar si los exfuncionarios deben continuar privados de la libertad. El magistrado Riaño no aceptó revisar el expediente, generando un enredo procesal en este caso de alto perfil relacionado con corrupción en el gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/caso-de-los-exministros-bonilla-y-velasco-sigue-enredado-magistrado-riano-no-acepto-revisar-el-expediente-3527252",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Olmedo López (Bonilla)",
+        "Sneyder Pinilla (Velasco)",
+        "Magistrado Riaño"
+      ],
+      "entidad": "UNGRD - Unidad Nacional para la Gestión del Riesgo de Desastres",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-26 18:23"
+    },
+    {
+      "id": 207,
+      "titulo": "Cuestionamiento por costos del viaje de Francia Márquez a África",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-26",
+      "descripcion": "La senadora María Fernanda Cabal reveló cifras oficiales que indican que el viaje de la vicepresidenta Francia Márquez a África habría costado más de $500 millones en viáticos y combustible. Esta denuncia pública cuestiona el uso de recursos públicos en el desplazamiento oficial de la vicepresidenta, generando debate sobre la proporcionalidad del gasto público en viajes diplomáticos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/maria-fernanda-cabal-afirmo-que-el-viaje-de-la-vicepresidenta-francia-marquez-a-africa-habria-costado-mas-de-500-millones-en-viaticos-y-combustible-3527147",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Francia Márquez",
+        "María Fernanda Cabal"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-26 18:23"
+    },
+    {
       "id": 206,
       "titulo": "Gobierno elimina cifras oficiales de cocaína de la ONU sin justificación técnica",
       "categoria": "abuso-poder",
