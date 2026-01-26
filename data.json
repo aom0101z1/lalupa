@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 201,
+      "titulo": "Cuarta renuncia de interventor en Air-e",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-25",
+      "descripcion": "Renuncia el interventor de Air-e, empresa de energía intervenida por el gobierno nacional. Con esta dimisión, ya son cuatro los interventores que han pasado por la empresa, evidenciando inestabilidad administrativa en una entidad bajo intervención estatal. El interventor saldrá el 30 de enero, generando incertidumbre sobre la gestión de los recursos públicos destinados al sector energético.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/renuncia-interventor-de-air-e-empresa-de-energia-intervenida-por-el-gobierno/",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Air-e",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-26 01:08"
+    },
+    {
+      "id": 200,
+      "titulo": "Acusación formal contra Carlos R. González, exdirector del Dapre",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-25",
+      "descripcion": "La Fiscalía presenta acusación formal contra Carlos R. González, exdirector del Departamento Administrativo de la Presidencia de la República (Dapre), quien se encuentra prófugo en Nicaragua. El funcionario, descrito como 'la mano derecha del Presidente', es acusado de defraudar a la sociedad. González se asiló en Nicaragua para evadir la justicia colombiana.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/era-la-mano-derecha-del-presidente-y-defraudo-a-la-sociedad-los-terminos-de-la-acusacion-contra-carlos-r-gonzalez-3527002",
+          "fecha": "2026-01-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos R. González"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-26 01:08"
+    },
+    {
       "id": 199,
       "titulo": "Crisis financiera en universidades públicas revelada por Contraloría",
       "categoria": "recursos-publicos",
