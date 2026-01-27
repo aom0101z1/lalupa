@@ -66,6 +66,76 @@
   ],
   "casos": [
     {
+      "id": 227,
+      "titulo": "Éxodo masivo en Cancillería compromete funcionamiento de consulados",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-27",
+      "descripcion": "Remezón sin precedentes en la Cancillería con salida masiva de personal diplomático a un mes de elecciones. Consulados evalúan reducir o suspender funciones por falta de personal. Hay fuertes movimientos en planta interna y embajadas, siendo significativo el caso de Julio Riaño.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/la-oleada-de-retiros-sacude-a-la-cancilleria-a-un-mes-de-elecciones-consulados-evaluan-reducir-o-suspender-funciones-por-salida-masiva-de-personal-3527479",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Julio Riaño"
+      ],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 18:26"
+    },
+    {
+      "id": 226,
+      "titulo": "Nombramiento irregular de viceministra sin perfil diplomático requerido",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-27",
+      "descripcion": "Cancillería designa a Paula Andrea Cerón Arboleda como viceministra de Asuntos Migratorios. Asodiplo advierte que según la ley, el cargo debería ser ocupado por un funcionario de carrera diplomática, no por una abogada y académica sin el perfil requerido para servicios consulares.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-designa-a-abogada-y-academica-como-viceministra-de-asuntos-migratorios-despacho-a-cargo-de-los-servicios-consulares-3527523",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Paula Andrea Cerón Arboleda"
+      ],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-27 18:26"
+    },
+    {
+      "id": 225,
+      "titulo": "Inconsistencias académicas en Fundación San José bajo tutela del Ministerio de Educación",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-27",
+      "descripcion": "Jennifer Pedraza denuncia 779 nuevas inconsistencias académicas en la Fundación San José tras 4 meses de investigación. Solicita intervención inmediata a la institución y apertura de indagación contra el ministro de Educación por presuntas irregularidades en el manejo de esta fundación educativa.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/jennifer-pedraza-denuncia-779-nuevas-inconsistencias-academicas-en-la-fundacion-san-jose-pide-abrir-indagacion-contra-el-ministro-de-educacion-3527535",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Jennifer Pedraza",
+        "Ministro de Educación"
+      ],
+      "entidad": "Ministerio de Educación - Fundación San José",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 18:26"
+    },
+    {
       "id": 224,
       "titulo": "Inestabilidad y cuestionamientos en la Unidad de Víctimas",
       "categoria": "recursos-publicos",
