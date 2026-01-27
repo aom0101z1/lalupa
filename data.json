@@ -66,6 +66,98 @@
   ],
   "casos": [
     {
+      "id": 213,
+      "titulo": "Inestabilidad y cuestionamientos por contratación atípica en la Unidad de Víctimas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-26",
+      "descripcion": "La Defensoría lanza alerta por la inestabilidad en la Unidad de Víctimas tras la salida de su director Adith Rafael Romero. Los problemas incluyen baja ejecución presupuestal, cuestionamientos por contratación atípica y presencia de fichas políticas. Esta situación compromete la atención a las víctimas del conflicto y el manejo adecuado de los recursos públicos destinados a esta población.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/defensoria-lanza-alerta-por-inestabilidad-en-la-unidad-de-victimas/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Adith Rafael Romero"
+      ],
+      "entidad": "Unidad para la Atención y Reparación Integral a las Víctimas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-27 01:06"
+    },
+    {
+      "id": 212,
+      "titulo": "Nuevas denuncias por acoso sexual contra Carlos Caicedo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-26",
+      "descripcion": "Una quinta mujer denuncia presunto acoso sexual por parte del exgobernador Carlos Caicedo, quien trabajaba en su despacho. La denunciante declara que 'me pidió de manera directa que me acostara con él'. Este caso se suma a denuncias previas contra el funcionario por el mismo tipo de conductas, configurando un patrón de abuso de poder y acoso.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/nuevas-denuncias-por-presunto-acoso-sexual-contra-carlos-caicedo/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo"
+      ],
+      "entidad": "Gobernación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 01:06"
+    },
+    {
+      "id": 211,
+      "titulo": "Decreto de emergencia económica firmado por ministra sin nombramiento vigente",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-26",
+      "descripcion": "El Consejo Gremial solicita a la Corte Constitucional tumbar el decreto de emergencia económica porque fue firmado por Irene Vélez cuando su nombramiento como ministra de Ambiente ya no estaba vigente. Esto constituye un vicio de competencia en la expedición del decreto, al ser firmado por una funcionaria que carecía de facultades legales para hacerlo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/consejo-gremial-pidio-a-la-corte-constitucional-tumbar-emergencia-economica/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Irene Vélez"
+      ],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 01:06"
+    },
+    {
+      "id": 210,
+      "titulo": "Denuncia de 'nómina paralela' en el Gobierno Petro por aumento de contratos de prestación de servicios",
+      "categoria": "contratos",
+      "fecha": "2026-01-26",
+      "descripcion": "Investigación revela un aumento de 7,2 billones de pesos en contratos de prestación de servicios durante el gobierno de Petro, lo que es denunciado como una 'nómina paralela'. La investigación fue realizada por el candidato a la Cámara José David Castellanos del Nuevo Liberalismo, quien documenta este incremento significativo en la contratación por prestación de servicios.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/denuncian-nomina-paralela-en-el-gobierno-petro-gasto-en-contratos-de-prestacion-de-servicios-aumento-7-2-billones-de-pesos-3527274",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "José David Castellanos"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 01:06"
+    },
+    {
       "id": 209,
       "titulo": "Denuncia por cambios diplomáticos irregulares previo a elecciones",
       "categoria": "diplomaticos",
