@@ -66,6 +66,146 @@
   ],
   "casos": [
     {
+      "id": 224,
+      "titulo": "Inestabilidad y cuestionamientos en la Unidad de Víctimas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-26",
+      "descripcion": "La Defensoría alerta sobre la inestabilidad en la Unidad de Víctimas tras la salida de su director Adith Rafael Romero. Se suman problemas de baja ejecución presupuestal, cuestionamientos por contratación atípica y la presencia de fichas políticas en la entidad. Esta situación compromete la atención a las víctimas del conflicto armado y evidencia mal manejo administrativo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/defensoria-lanza-alerta-por-inestabilidad-en-la-unidad-de-victimas/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Adith Rafael Romero"
+      ],
+      "entidad": "Unidad para las Víctimas",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 12:29"
+    },
+    {
+      "id": 223,
+      "titulo": "Denuncias por acoso sexual contra Carlos Caicedo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-26",
+      "descripcion": "Surgen nuevas denuncias por presunto acoso sexual contra Carlos Caicedo. Una quinta mujer que trabajaba en su despacho de gobernador testifica que 'me pidió de manera directa que me acostara con él'. El caso evidencia un patrón de abuso de poder y acoso sexual por parte del exgobernador hacia sus empleadas, constituyendo graves faltas disciplinarias y penales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/nuevas-denuncias-por-presunto-acoso-sexual-contra-carlos-caicedo/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo"
+      ],
+      "entidad": "Gobernación del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 12:29"
+    },
+    {
+      "id": 222,
+      "titulo": "Decreto firmado por ministra sin nombramiento vigente",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-26",
+      "descripcion": "El Consejo Gremial pide a la Corte Constitucional tumbar el decreto de emergencia económica, argumentando que fue firmado por Irene Vélez cuando su nombramiento como ministra de Ambiente ya no estaba vigente. Esto constituiría un acto administrativo sin competencia legal, representando una extralimitación de funciones por parte de la exfuncionaria.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/consejo-gremial-pidio-a-la-corte-constitucional-tumbar-emergencia-economica/",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Irene Vélez"
+      ],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 12:29"
+    },
+    {
+      "id": 221,
+      "titulo": "Presuntos hechos de corrupción en la Unidad para las Víctimas",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-27",
+      "descripcion": "La Defensoría del Pueblo solicita al Gobierno Petro 'respuestas claras' por presuntos hechos de corrupción en la Unidad para las Víctimas. La entidad señala que la rotación continua del cargo de director genera inestabilidad en los procesos, sugiriendo problemas estructurales en el manejo de esta importante institución encargada de atender a las víctimas del conflicto armado.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/defensoria-del-pueblo-pide-al-gobierno-petro-respuestas-claras-por-presuntos-hechos-de-corrupcion-en-la-unidad-para-las-victimas-3527428",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Unidad para las Víctimas",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 12:29"
+    },
+    {
+      "id": 220,
+      "titulo": "Denuncia de nómina paralela en el Gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-26",
+      "descripcion": "Investigación documenta un aumento de 7,2 billones de pesos en contratos de prestación de servicios durante el gobierno de Petro, lo que constituiría una 'nómina paralela'. La denuncia fue realizada por José David Castellanos del Nuevo Liberalismo, señalando un posible uso irregular de recursos públicos para contratar personal por fuera de la nómina oficial del Estado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/denuncian-nomina-paralela-en-el-gobierno-petro-gasto-en-contratos-de-prestacion-de-servicios-aumento-7-2-billones-de-pesos-3527274",
+          "fecha": "2026-01-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "José David Castellanos"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-27 12:29"
+    },
+    {
+      "id": 219,
+      "titulo": "Secretaria de Petro con títulos académicos irregulares",
+      "categoria": "mentiras",
+      "fecha": "2026-01-27",
+      "descripcion": "Nelfy Melo Morales, secretaria del presidente Petro, enfrenta acusaciones por títulos irregulares de la Fundación San José que aparecen como culminados en su hoja de vida de Función Pública. La funcionaria respondió a las acusaciones defendiendo que 'no existía ningún afán', pero el caso evidencia posibles irregularidades en la documentación académica presentada para ocupar un cargo público de alto nivel.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/secretaria-del-presidente-petro-rompio-el-silencio-y-respondio-a-acusacion-de-titulos-irregulares-en-la-fundacion-san-jose-no-existia-ningun-afan-3527387",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Nelfy Melo Morales",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-27 12:29"
+    },
+    {
       "id": 218,
       "titulo": "Inestabilidad y cuestionamientos en la Unidad de Víctimas",
       "categoria": "recursos-publicos",
