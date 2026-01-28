@@ -1334,32 +1334,28 @@
             }
         }
 
-        // Generate unique code
-        function generateCode() {
-            const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
-            let code = 'DUR-';
-            for (let i = 0; i < 5; i++) {
-                code += chars.charAt(Math.floor(Math.random() * chars.length));
-            }
-            return code;
-        }
-
-        // Check if code exists
-        async function codeExists(code) {
-            const q = query(collection(db, LIDERES_COLLECTION), where('code', '==', code));
-            const snapshot = await getDocs(q);
-            return !snapshot.empty;
-        }
-
-        // Generate unique code (ensuring no duplicates)
+        // Generate next sequential code (LIDER101, LIDER102, etc.)
         async function generateUniqueCode() {
-            let code;
-            let exists = true;
-            while (exists) {
-                code = generateCode();
-                exists = await codeExists(code);
+            try {
+                // Get all existing codes to find the highest number
+                const snapshot = await getDocs(collection(db, LIDERES_COLLECTION));
+                let maxNumber = 100; // Start at 100, so first code is LIDER101
+
+                snapshot.forEach(doc => {
+                    const code = doc.data().code;
+                    if (code && code.startsWith('LIDER')) {
+                        const num = parseInt(code.replace('LIDER', ''));
+                        if (!isNaN(num) && num > maxNumber) {
+                            maxNumber = num;
+                        }
+                    }
+                });
+
+                return 'LIDER' + (maxNumber + 1);
+            } catch (error) {
+                console.error('Error generating code:', error);
+                return 'LIDER101';
             }
-            return code;
         }
 
         // Auth state observer
