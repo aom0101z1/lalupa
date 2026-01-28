@@ -66,6 +66,99 @@
   ],
   "casos": [
     {
+      "id": 234,
+      "titulo": "Gobierno firma más de 5.900 contratos antes de Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-01-27",
+      "descripcion": "El gobierno de Petro ha firmado más de 5.900 contratos antes de que entre en vigor la Ley de Garantías. El Ministerio de Minas fue la cartera que más contratos realizó (883), seguido por el Ministerio de Ambiente (720). Esta práctica podría constituir un uso estratégico de recursos públicos en época electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-ha-firmado-mas-de-5-900-contratos-antes-de-la-ley-de-garantias/",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional - Ministerios",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-28 06:24"
+    },
+    {
+      "id": 233,
+      "titulo": "Petro comete errores para criticar dato de cocaína potencial de la ONU",
+      "categoria": "mentiras",
+      "fecha": "2026-01-28",
+      "descripcion": "El presidente Gustavo Petro dice mentiras para criticar los datos de cocaína potencial reportados por la ONU, según análisis de La Silla Vacía. Esta cifra es clave para su próxima visita con Donald Trump. Aunque la medición tiene problemas, el presidente utiliza información falsa para criticarla.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/petro-comete-errores-para-criticar-dato-de-cocaina-potencial-de-la-onu/",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-28 06:24"
+    },
+    {
+      "id": 232,
+      "titulo": "Exdirectivos del AMVA procesados por presunta corrupción en contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-27",
+      "descripcion": "Juan David Palacio, quien estuvo al frente del Área Metropolitana durante la alcaldía de Daniel Quintero, junto con otros exdirectivos del AMVA, están siendo procesados por la Fiscalía por presunta corrupción en contratos. Los procesados se declararon inocentes de los cargos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/exdirectivos-del-amva-en-la-alcaldia-de-daniel-quintero-se-declararon-inocentes-de-presunta-corrupcion-en-contratos-3527624",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan David Palacio",
+        "Daniel Quintero"
+      ],
+      "entidad": "AMVA - Área Metropolitana del Valle de Aburrá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-28 06:24"
+    },
+    {
+      "id": 231,
+      "titulo": "Sobrecostos y fines electorales en contratos del AMVA durante gestión de Daniel Quintero",
+      "categoria": "contratos",
+      "fecha": "2026-01-27",
+      "descripcion": "La Fiscalía imputó a cuatro personas por presuntamente pertenecer a un grupo ilegal para defraudar al Estado a través de 6 contratos del Área Metropolitana del Valle de Aburrá (AMVA) durante la alcaldía de Daniel Quintero. Los señalamientos incluyen sobrecostos y uso de recursos públicos con fines electorales. Se espera una nueva ronda de judicializados en este caso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/sobrecostos-y-fines-electorales-los-graves-senalamientos-de-la-fiscalia-por-6-contratos-del-amva-en-la-era-de-daniel-quintero-3527688",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "AMVA - Área Metropolitana del Valle de Aburrá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-28 06:24"
+    },
+    {
       "id": 230,
       "titulo": "Más de 5.900 contratos firmados antes de Ley de Garantías",
       "categoria": "contratos",
