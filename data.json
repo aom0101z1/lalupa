@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 236,
+      "titulo": "Espionaje interno en el gabinete presidencial con software israelí",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-27",
+      "descripcion": "Dos ministros del gobierno Petro denunciaron que sus teléfonos fueron infectados con software espía israelí, revelando una trama de contraespionaje interno dentro del mismo gabinete presidencial. La situación convierte al ministro de Defensa en sospechoso y evidencia operaciones de espionaje entre funcionarios del mismo gobierno.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-ha-firmado-mas-de-5-900-contratos-antes-de-la-ley-de-garantias/",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-28 12:29"
+    },
+    {
+      "id": 235,
+      "titulo": "Sobrecostos y fines electorales en contratos del AMVA bajo Daniel Quintero",
+      "categoria": "contratos",
+      "fecha": "2026-01-27",
+      "descripcion": "La Fiscalía imputó a cuatro personas por supuestamente pertenecer a un grupo ilegal para defraudar al Estado a través de 6 contratos del Área Metropolitana del Valle de Aburrá (AMVA) durante la administración de Daniel Quintero. Los señalamientos incluyen sobrecostos y uso de contratos públicos con fines electorales. Se esperan más judicializaciones en el caso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/sobrecostos-y-fines-electorales-los-graves-senalamientos-de-la-fiscalia-por-6-contratos-del-amva-en-la-era-de-daniel-quintero-3527688",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "AMVA",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-28 12:29"
+    },
+    {
       "id": 234,
       "titulo": "Gobierno firma más de 5.900 contratos antes de Ley de Garantías",
       "categoria": "contratos",
