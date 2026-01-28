@@ -605,11 +605,11 @@
                 </button>
             </form>
 
-            <div class="divider">
+            <div class="divider" id="reentry-divider">
                 <span>¿Ya te registraste?</span>
             </div>
 
-            <div class="reentry-link">
+            <div class="reentry-link" id="reentry-link-container">
                 <a href="#" id="showReentryLink">Ingresa con tu cédula →</a>
             </div>
         </div>
@@ -859,6 +859,16 @@
                     document.getElementById('acceptPolicy').checked = true;
                     document.getElementById('submitBtn').disabled = false;
                 }
+            }
+
+            // Hide re-entry option if cédula is disabled (can't identify returning users)
+            const reentryDivider = document.getElementById('reentry-divider');
+            const reentryLinkContainer = document.getElementById('reentry-link-container');
+            if (reentryDivider) {
+                reentryDivider.style.display = formConfig.cedula ? 'flex' : 'none';
+            }
+            if (reentryLinkContainer) {
+                reentryLinkContainer.style.display = formConfig.cedula ? 'block' : 'none';
             }
         }
 
