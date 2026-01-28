@@ -4,15 +4,19 @@ service cloud.firestore {
     // Registration collection - public read/create, limited update
     match /registros_evento/{document} {
       allow read: if true;
+      // Only require leaderCode and acceptedPolicy, other fields are optional based on config
       allow create: if request.resource.data.keys().hasAll([
         'leaderCode',
-        'nombreCompleto',
-        'telefono',
-        'cedula',
         'acceptedPolicy'
       ]) && request.resource.data.acceptedPolicy == true;
       allow update: if request.resource.data.diff(resource.data).affectedKeys()
         .hasOnly(['lastAccess', 'accessCount']);
+    }
+
+    // Settings collection - public read, admin write
+    match /settings/{document} {
+      allow read: if true;
+      allow write: if request.auth != null;
     }
 
     // Leaders collection - public read for active codes, authenticated write

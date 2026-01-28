@@ -678,39 +678,50 @@
             <form id="registrationForm">
                 <input type="hidden" id="confirmedCode" name="confirmedCode">
 
-                <div class="form-group">
+                <div class="form-group" id="field-nombreCompleto">
                     <label class="form-label" for="nombreCompleto">Nombre y Apellido</label>
-                    <input 
-                        type="text" 
-                        id="nombreCompleto" 
-                        name="nombreCompleto" 
-                        class="form-input" 
+                    <input
+                        type="text"
+                        id="nombreCompleto"
+                        name="nombreCompleto"
+                        class="form-input"
                         placeholder="Tu nombre completo"
                         required
                     >
                 </div>
 
-                <div class="form-group">
+                <div class="form-group" id="field-cedula">
+                    <label class="form-label" for="cedula">Número de Cédula</label>
+                    <input
+                        type="text"
+                        id="cedula"
+                        name="cedula"
+                        class="form-input"
+                        placeholder="Tu número de cédula"
+                        required
+                    >
+                </div>
+
+                <div class="form-group" id="field-telefono">
                     <label class="form-label" for="telefono">Teléfono</label>
-                    <input 
-                        type="tel" 
-                        id="telefono" 
-                        name="telefono" 
-                        class="form-input" 
+                    <input
+                        type="tel"
+                        id="telefono"
+                        name="telefono"
+                        class="form-input"
                         placeholder="Tu número de teléfono"
                         required
                     >
                 </div>
 
-                <div class="form-group">
-                    <label class="form-label" for="cedula">Número de Cédula</label>
-                    <input 
-                        type="text" 
-                        id="cedula" 
-                        name="cedula" 
-                        class="form-input" 
-                        placeholder="Tu número de cédula"
-                        required
+                <div class="form-group" id="field-email" style="display: none;">
+                    <label class="form-label" for="email">Correo Electrónico</label>
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        class="form-input"
+                        placeholder="Tu correo electrónico"
                     >
                 </div>
 
@@ -756,6 +767,7 @@
             where,
             getDocs,
             doc,
+            getDoc,
             updateDoc,
             increment,
             serverTimestamp
@@ -782,9 +794,78 @@
         const db = getFirestore(app);
         const COLLECTION_NAME = 'registros_evento';
         const LIDERES_COLLECTION = 'lideres';
+        const SETTINGS_DOC = 'formConfig';
 
         // Cache for leader codes (loaded from Firestore)
         let leaderCodesCache = {};
+
+        // Form configuration (loaded from Firestore)
+        let formConfig = {
+            nombreCompleto: true,
+            cedula: true,
+            telefono: true,
+            email: false
+        };
+
+        // Load form configuration from Firestore
+        async function loadFormConfig() {
+            try {
+                const docRef = doc(db, 'settings', SETTINGS_DOC);
+                const docSnap = await getDoc(docRef);
+
+                if (docSnap.exists()) {
+                    formConfig = docSnap.data();
+                }
+
+                applyFormConfig();
+            } catch (error) {
+                console.error('Error loading form config:', error);
+            }
+        }
+
+        // Apply form configuration to show/hide fields
+        function applyFormConfig() {
+            const nombreGroup = document.getElementById('field-nombreCompleto');
+            const cedulaGroup = document.getElementById('field-cedula');
+            const telefonoGroup = document.getElementById('field-telefono');
+            const emailGroup = document.getElementById('field-email');
+
+            // Show/hide fields based on config
+            if (nombreGroup) {
+                nombreGroup.style.display = formConfig.nombreCompleto ? 'block' : 'none';
+                nombreGroup.querySelector('input').required = formConfig.nombreCompleto;
+            }
+            if (cedulaGroup) {
+                cedulaGroup.style.display = formConfig.cedula ? 'block' : 'none';
+                cedulaGroup.querySelector('input').required = formConfig.cedula;
+            }
+            if (telefonoGroup) {
+                telefonoGroup.style.display = formConfig.telefono ? 'block' : 'none';
+                telefonoGroup.querySelector('input').required = formConfig.telefono;
+            }
+            if (emailGroup) {
+                emailGroup.style.display = formConfig.email ? 'block' : 'none';
+                emailGroup.querySelector('input').required = formConfig.email;
+            }
+
+            // Check if any field is enabled
+            const hasAnyField = formConfig.nombreCompleto || formConfig.cedula || formConfig.telefono || formConfig.email;
+
+            // If no fields, hide the policy checkbox too (no data to collect)
+            const policyContainer = document.querySelector('.checkbox-container');
+            if (policyContainer) {
+                policyContainer.style.display = hasAnyField ? 'flex' : 'none';
+                if (!hasAnyField) {
+                    document.getElementById('acceptPolicy').checked = true;
+                    document.getElementById('submitBtn').disabled = false;
+                }
+            }
+        }
+
+        // Check if form should be skipped (no fields enabled)
+        function shouldSkipForm() {
+            return !formConfig.nombreCompleto && !formConfig.cedula && !formConfig.telefono && !formConfig.email;
+        }
 
         // DOM Elements
         const step1 = document.getElementById('step1');
@@ -876,8 +957,9 @@
             return null;
         }
 
-        // Initialize: load leader codes on page load
+        // Initialize: load leader codes and form config on page load
         loadLeaderCodes();
+        loadFormConfig();
 
         async function checkExistingRegistration(cedula) {
             const q = query(
@@ -957,10 +1039,24 @@
                     return;
                 }
 
-                // Code is valid, show registration form
+                // Code is valid
                 document.getElementById('confirmedCode').value = validCode;
-                step1.classList.add('hidden');
-                step2.classList.remove('hidden');
+
+                // Check if form should be skipped (no fields enabled)
+                if (shouldSkipForm()) {
+                    // Create minimal registration and redirect to Zoom
+                    await createRegistration({
+                        leaderCode: validCode,
+                        acceptedPolicy: true,
+                        acceptedPolicyAt: new Date().toISOString()
+                    });
+                    showMessage('step1-message', '✅ ¡Código válido! Redirigiendo al evento...', 'success');
+                    setTimeout(redirectToZoom, 1500);
+                } else {
+                    // Show registration form
+                    step1.classList.add('hidden');
+                    step2.classList.remove('hidden');
+                }
 
             } catch (error) {
                 console.error('Error:', error);
@@ -1019,8 +1115,10 @@
         // Registration Form
         registrationForm.addEventListener('submit', async (e) => {
             e.preventDefault();
-            
-            if (!acceptPolicy.checked) {
+
+            // Check policy only if it's visible
+            const policyVisible = document.querySelector('.checkbox-container').style.display !== 'none';
+            if (policyVisible && !acceptPolicy.checked) {
                 showMessage('step2-message', '⚠️ Debes aceptar la política de tratamiento de datos para continuar.', 'error');
                 return;
             }
@@ -1028,29 +1126,44 @@
             setLoading(submitBtn, true);
             hideMessage('step2-message');
 
+            // Build form data based on enabled fields
             const formData = {
                 leaderCode: document.getElementById('confirmedCode').value,
-                nombreCompleto: document.getElementById('nombreCompleto').value.trim(),
-                telefono: document.getElementById('telefono').value.trim(),
-                cedula: document.getElementById('cedula').value.trim(),
                 acceptedPolicy: true,
                 acceptedPolicyAt: new Date().toISOString()
             };
 
+            // Only add fields that are enabled
+            if (formConfig.nombreCompleto) {
+                formData.nombreCompleto = document.getElementById('nombreCompleto').value.trim();
+            }
+            if (formConfig.cedula) {
+                formData.cedula = document.getElementById('cedula').value.trim();
+            }
+            if (formConfig.telefono) {
+                formData.telefono = document.getElementById('telefono').value.trim();
+            }
+            if (formConfig.email) {
+                formData.email = document.getElementById('email').value.trim();
+            }
+
             try {
-                // Check if cedula already exists
-                const existing = await checkExistingRegistration(formData.cedula);
-                
-                if (existing.exists) {
-                    showMessage('step2-message', '⚠️ Ya existe un registro con esta cédula. Usa la opción de re-ingreso.', 'info');
-                    return;
+                // Check if cedula already exists (only if cedula field is enabled)
+                if (formConfig.cedula && formData.cedula) {
+                    const existing = await checkExistingRegistration(formData.cedula);
+
+                    if (existing.exists) {
+                        showMessage('step2-message', '⚠️ Ya existe un registro con esta cédula. Usa la opción de re-ingreso.', 'info');
+                        setLoading(submitBtn, false);
+                        return;
+                    }
                 }
 
                 // Create new registration
                 await createRegistration(formData);
-                
+
                 showMessage('step2-message', '✅ ¡Registro exitoso! Redirigiendo al evento...', 'success');
-                
+
                 setTimeout(redirectToZoom, 1500);
 
             } catch (error) {

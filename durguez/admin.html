@@ -650,6 +650,166 @@
             margin-top: 20px;
         }
 
+        /* Configuration Tab Styles */
+        .config-section {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .config-title {
+            font-family: var(--font-display);
+            font-size: 1.5rem;
+            color: var(--color-accent-light);
+            margin-bottom: 10px;
+        }
+
+        .config-description {
+            color: var(--color-text-muted);
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+
+        .config-card {
+            background: var(--color-bg-card);
+            border: 1px solid rgba(201, 162, 39, 0.15);
+            border-radius: 16px;
+            padding: 30px;
+        }
+
+        .config-card h4 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+            color: var(--color-text);
+        }
+
+        .config-toggle-group {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .config-toggle-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            transition: background 0.2s;
+        }
+
+        .config-toggle-item:hover {
+            background: rgba(0, 0, 0, 0.3);
+        }
+
+        .config-toggle-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .config-toggle-label {
+            font-weight: 500;
+            color: var(--color-text);
+        }
+
+        .config-toggle-desc {
+            font-size: 0.85rem;
+            color: var(--color-text-muted);
+        }
+
+        /* Toggle Switch */
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 26px;
+            flex-shrink: 0;
+        }
+
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .toggle-slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(255, 255, 255, 0.1);
+            transition: 0.3s;
+            border-radius: 26px;
+        }
+
+        .toggle-slider:before {
+            position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: 0.3s;
+            border-radius: 50%;
+        }
+
+        .toggle-switch input:checked + .toggle-slider {
+            background-color: var(--color-success);
+        }
+
+        .toggle-switch input:checked + .toggle-slider:before {
+            transform: translateX(24px);
+        }
+
+        .config-preview {
+            margin-top: 25px;
+            padding-top: 25px;
+            border-top: 1px solid rgba(201, 162, 39, 0.15);
+        }
+
+        .config-preview h5 {
+            font-size: 0.9rem;
+            color: var(--color-text-muted);
+            margin-bottom: 10px;
+        }
+
+        .preview-box {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 15px 20px;
+            border-radius: 8px;
+            font-size: 0.95rem;
+        }
+
+        .preview-box p {
+            margin: 0;
+        }
+
+        #activeFieldsPreview {
+            color: var(--color-accent-light);
+            font-weight: 500;
+        }
+
+        .config-actions {
+            margin-top: 25px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .config-status {
+            font-size: 0.9rem;
+            color: var(--color-success);
+        }
+
+        .config-status.error {
+            color: var(--color-error);
+        }
+
         /* Responsive */
         @media (max-width: 768px) {
             .site-header {
@@ -787,6 +947,7 @@
             <div class="tabs">
                 <button class="tab-btn active" onclick="showTab('registros')">Registros</button>
                 <button class="tab-btn" onclick="showTab('lideres')">Gestión de Líderes</button>
+                <button class="tab-btn" onclick="showTab('configuracion')">Configuración</button>
             </div>
 
             <!-- Tab: Registros -->
@@ -986,6 +1147,83 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Tab: Configuración -->
+            <div id="tab-configuracion" class="tab-content">
+                <div class="config-section">
+                    <h3 class="config-title">Configuración del Formulario de Registro</h3>
+                    <p class="config-description">Selecciona qué campos deseas solicitar a los asistentes. Si desactivas todos los campos, los usuarios solo ingresarán el código de invitación y serán redirigidos directamente al evento.</p>
+
+                    <div class="config-card">
+                        <h4>Campos del Formulario</h4>
+
+                        <div class="config-toggle-group">
+                            <div class="config-toggle-item">
+                                <div class="config-toggle-info">
+                                    <span class="config-toggle-label">Nombre Completo</span>
+                                    <span class="config-toggle-desc">Solicitar nombre y apellido del asistente</span>
+                                </div>
+                                <label class="toggle-switch">
+                                    <input type="checkbox" id="configNombre" checked>
+                                    <span class="toggle-slider"></span>
+                                </label>
+                            </div>
+
+                            <div class="config-toggle-item">
+                                <div class="config-toggle-info">
+                                    <span class="config-toggle-label">Cédula</span>
+                                    <span class="config-toggle-desc">Solicitar número de documento de identidad</span>
+                                </div>
+                                <label class="toggle-switch">
+                                    <input type="checkbox" id="configCedula" checked>
+                                    <span class="toggle-slider"></span>
+                                </label>
+                            </div>
+
+                            <div class="config-toggle-item">
+                                <div class="config-toggle-info">
+                                    <span class="config-toggle-label">Teléfono</span>
+                                    <span class="config-toggle-desc">Solicitar número de teléfono</span>
+                                </div>
+                                <label class="toggle-switch">
+                                    <input type="checkbox" id="configTelefono" checked>
+                                    <span class="toggle-slider"></span>
+                                </label>
+                            </div>
+
+                            <div class="config-toggle-item">
+                                <div class="config-toggle-info">
+                                    <span class="config-toggle-label">Correo Electrónico</span>
+                                    <span class="config-toggle-desc">Solicitar dirección de email</span>
+                                </div>
+                                <label class="toggle-switch">
+                                    <input type="checkbox" id="configEmail">
+                                    <span class="toggle-slider"></span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="config-preview">
+                            <h5>Vista Previa</h5>
+                            <div id="configPreview" class="preview-box">
+                                <p>Campos activos: <span id="activeFieldsPreview">Nombre, Cédula, Teléfono</span></p>
+                            </div>
+                        </div>
+
+                        <div class="config-actions">
+                            <button class="btn btn-primary" onclick="saveFormConfig()">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/>
+                                    <polyline points="17 21 17 13 7 13 7 21"/>
+                                    <polyline points="7 3 7 8 15 8"/>
+                                </svg>
+                                Guardar Configuración
+                            </button>
+                            <span id="configSaveStatus" class="config-status"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -1038,6 +1276,8 @@
             collection,
             addDoc,
             doc,
+            getDoc,
+            setDoc,
             updateDoc,
             deleteDoc,
             query,
@@ -1067,13 +1307,20 @@
         const db = getFirestore(app);
         const REGISTROS_COLLECTION = 'registros_evento';
         const LIDERES_COLLECTION = 'lideres';
+        const ADMINS_COLLECTION = 'admins';
+        const SETTINGS_DOC = 'formConfig';
 
         // Global state
         let allData = [];
         let filteredData = [];
         let leadersData = [];
         let leadersMap = {}; // code -> leader info
-        const ADMINS_COLLECTION = 'admins';
+        let formConfig = {
+            nombreCompleto: true,
+            cedula: true,
+            telefono: true,
+            email: false
+        };
 
         // Check if user is authorized admin
         async function isAuthorizedAdmin(email) {
@@ -1136,6 +1383,7 @@
                 document.getElementById('userName').textContent = user.displayName || user.email;
                 loadData();
                 loadLeaders();
+                loadFormConfig();
             } else {
                 // User is signed out
                 document.getElementById('loginScreen').classList.remove('hidden');
@@ -1174,6 +1422,84 @@
             document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
             document.getElementById(`tab-${tabName}`).classList.add('active');
         };
+
+        // =====================================================
+        // FORM CONFIGURATION FUNCTIONS
+        // =====================================================
+
+        // Load form configuration from Firestore
+        async function loadFormConfig() {
+            try {
+                const docRef = doc(db, 'settings', SETTINGS_DOC);
+                const docSnap = await getDoc(docRef);
+
+                if (docSnap.exists()) {
+                    formConfig = docSnap.data();
+                }
+
+                // Update UI toggles
+                document.getElementById('configNombre').checked = formConfig.nombreCompleto !== false;
+                document.getElementById('configCedula').checked = formConfig.cedula !== false;
+                document.getElementById('configTelefono').checked = formConfig.telefono !== false;
+                document.getElementById('configEmail').checked = formConfig.email === true;
+
+                updateConfigPreview();
+            } catch (error) {
+                console.error('Error loading form config:', error);
+            }
+        }
+
+        // Save form configuration to Firestore
+        window.saveFormConfig = async function() {
+            const statusEl = document.getElementById('configSaveStatus');
+            statusEl.textContent = 'Guardando...';
+            statusEl.className = 'config-status';
+
+            try {
+                formConfig = {
+                    nombreCompleto: document.getElementById('configNombre').checked,
+                    cedula: document.getElementById('configCedula').checked,
+                    telefono: document.getElementById('configTelefono').checked,
+                    email: document.getElementById('configEmail').checked,
+                    updatedAt: serverTimestamp()
+                };
+
+                const docRef = doc(db, 'settings', SETTINGS_DOC);
+                await setDoc(docRef, formConfig);
+
+                statusEl.textContent = '✓ Configuración guardada';
+                statusEl.className = 'config-status';
+
+                setTimeout(() => {
+                    statusEl.textContent = '';
+                }, 3000);
+            } catch (error) {
+                console.error('Error saving form config:', error);
+                statusEl.textContent = '✗ Error al guardar';
+                statusEl.className = 'config-status error';
+            }
+        };
+
+        // Update configuration preview
+        function updateConfigPreview() {
+            const fields = [];
+            if (document.getElementById('configNombre').checked) fields.push('Nombre');
+            if (document.getElementById('configCedula').checked) fields.push('Cédula');
+            if (document.getElementById('configTelefono').checked) fields.push('Teléfono');
+            if (document.getElementById('configEmail').checked) fields.push('Correo');
+
+            const previewEl = document.getElementById('activeFieldsPreview');
+            if (fields.length === 0) {
+                previewEl.textContent = 'Ninguno (solo código de invitación)';
+            } else {
+                previewEl.textContent = fields.join(', ');
+            }
+        }
+
+        // Add event listeners for config toggles
+        ['configNombre', 'configCedula', 'configTelefono', 'configEmail'].forEach(id => {
+            document.getElementById(id).addEventListener('change', updateConfigPreview);
+        });
 
         // Format date
         function formatDate(timestamp) {
