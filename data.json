@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 230,
+      "titulo": "Más de 5.900 contratos firmados antes de Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-01-27",
+      "descripcion": "El Gobierno ha firmado más de 5.900 contratos antes de la entrada en vigencia de la Ley de Garantías electorales. El Ministerio de Minas lideró con 883 contratos, seguido por el Ministerio de Ambiente con 720. Esta práctica genera cuestionamientos sobre posible uso electoral de recursos públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-ha-firmado-mas-de-5-900-contratos-antes-de-la-ley-de-garantias/",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gobierno Petro"
+      ],
+      "entidad": "Ministerio de Minas - Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-28 01:03"
+    },
+    {
+      "id": 229,
+      "titulo": "Corrupción en contratos del AMVA durante alcaldía de Daniel Quintero",
+      "categoria": "contratos",
+      "fecha": "2026-01-27",
+      "descripcion": "Exdirectivos del Área Metropolitana del Valle de Aburrá (AMVA) durante la alcaldía de Daniel Quintero se declararon inocentes ante la Fiscalía por presunta corrupción en contratos. Juan David Palacio, quien estuvo al frente del AMVA, es uno de los procesados por irregularidades contractuales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/exdirectivos-del-amva-en-la-alcaldia-de-daniel-quintero-se-declararon-inocentes-de-presunta-corrupcion-en-contratos-3527624",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan David Palacio",
+        "Daniel Quintero"
+      ],
+      "entidad": "AMVA - Alcaldía de Medellín",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-28 01:03"
+    },
+    {
+      "id": 228,
+      "titulo": "Nuevas inconsistencias académicas en la Fundación San José",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-27",
+      "descripcion": "La representante Jennifer Pedraza denunció 779 nuevas inconsistencias académicas en la Fundación San José tras 4 meses de investigación. Pidió una intervención inmediata a la institución y solicitó abrir indagación contra el ministro de Educación por estas irregularidades en el sector educativo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/jennifer-pedraza-denuncia-779-nuevas-inconsistencias-academicas-en-la-fundacion-san-jose-pide-abrir-indagacion-contra-el-ministro-de-educacion-3527535",
+          "fecha": "2026-01-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Jennifer Pedraza",
+        "Ministro de Educación"
+      ],
+      "entidad": "Fundación San José - Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-28 01:03"
+    },
+    {
       "id": 227,
       "titulo": "Éxodo masivo en Cancillería compromete funcionamiento de consulados",
       "categoria": "diplomaticos",
