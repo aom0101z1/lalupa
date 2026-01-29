@@ -66,6 +66,99 @@
   ],
   "casos": [
     {
+      "id": 248,
+      "titulo": "Irregularidades en registro de antecedentes disciplinarios de Daniel Quintero",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-28",
+      "descripcion": "El Procurador Eljach ordenó remover funcionarios tras descubrir que la cédula del exalcalde de Medellín Daniel Quintero aparecía irregularmente como 'cancelada por muerte' en el registro de antecedentes disciplinarios. Se ordenó una investigación para esclarecer esta manipulación de registros oficiales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-eljach-ordena-remover-funcionarios-tras-irregular-registro-de-antecedentes-disciplinarios-de-daniel-quintero-3527998",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Jaime Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 247,
+      "titulo": "Exgobernador de Arauca acusado por contrato irregular de $20 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-01-28",
+      "descripcion": "José Facundo Castillo Cisneros, exgobernador de Arauca, fue acusado ante la Corte Suprema por un contrato sin requisitos en una obra vial valorada en $20 mil millones. La Corte avaló que la Gobernación de Arauca y la Contraloría sean reconocidas como víctimas en el proceso penal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/exgobernador-de-arauca-jose-facundo-castillo-cisneros-es-acusado-ante-la-corte-suprema-por-contrato-sin-requisitos-en-obra-vial-de-20-mil-millones-3527999",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "José Facundo Castillo Cisneros"
+      ],
+      "entidad": "Gobernación de Arauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 246,
+      "titulo": "Contraloría identifica graves riesgos en decreto de repatriación de pensiones de Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "La Contraloría General encontró graves riesgos en el decreto presidencial sobre repatriación de pensiones, determinando que la medida afectará tanto los intereses individuales de los ahorradores como los intereses colectivos del Estado, poniendo en riesgo recursos públicos y privados del sistema pensional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-graves-riesgos-que-hallo-la-contraloria-tras-analizar-el-decreto-de-petro-para-la-repatriacion-de-pensiones-3528056",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 245,
+      "titulo": "Denuncias internas en la Cancillería en vísperas de reunión con Trump",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "El Ministerio de Relaciones Exteriores enfrenta denuncias internas no especificadas junto con otros problemas diplomáticos, incluyendo trabas con Ecuador y tensiones por el endurecimiento del tono del presidente Petro antes de la importante reunión con el presidente Trump.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/los-lios-que-acumula-la-cancilleria-en-la-antesala-de-la-cita-con-trump-denuncias-internas-trabas-con-ecuador-y-regreso-del-tono-duro-de-petro-3528043",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
       "id": 244,
       "titulo": "Irregularidades en registro de antecedentes disciplinarios de Daniel Quintero",
       "categoria": "abuso-poder",
