@@ -66,6 +66,56 @@
   ],
   "casos": [
     {
+      "id": 241,
+      "titulo": "Tres magistrados del CNE cercanos al oficialismo estudiarán inhabilitación de Iván Cepeda",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-28",
+      "descripcion": "Los tres magistrados del Consejo Nacional Electoral que estudiarán si Iván Cepeda está inhabilitado para participar en la consulta llegaron al CNE con el impulso de la bancada petrista. Esta situación genera cuestionamientos sobre posible conflicto de interés, considerando que Cepeda es candidato del oficialismo y los magistrados que decidirán su suerte fueron apoyados por el mismo sector político.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-a-la-consulta-estos-son-los-tres-magistrados-del-cne-cercanos-al-oficialismo-que-estudiaran-si-esta-inhabilitado-3527922",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Fabiola Márquez",
+        "Alba Lucía Velásquez",
+        "Álvaro Echeverry"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 01:12"
+    },
+    {
+      "id": 240,
+      "titulo": "Irregular registro de antecedentes disciplinarios de Daniel Quintero en la Procuraduría",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-28",
+      "descripcion": "La cédula del exalcalde de Medellín Daniel Quintero aparecía como 'cancelada por muerte' en el registro de antecedentes disciplinarios de la Procuraduría. El Procurador Eljach ordenó remover funcionarios tras detectar esta irregularidad y abrió investigación. Este caso evidencia fallas graves en el sistema de información de antecedentes disciplinarios que podrían afectar procesos legales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-eljach-ordena-remover-funcionarios-tras-irregular-registro-de-antecedentes-disciplinarios-de-daniel-quintero-3527998",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Jaime Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 01:12"
+    },
+    {
       "id": 239,
       "titulo": "Retrasos en pagos del gobierno nacional para nómina de docentes en Bogotá",
       "categoria": "recursos-publicos",
