@@ -66,6 +66,145 @@
   ],
   "casos": [
     {
+      "id": 254,
+      "titulo": "Fiscalía acusará al coronel Carlos Feria por abuso contra Marelbys Meza",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía formulará acusación contra el coronel Carlos Feria el 18 de febrero por los delitos de peculado por uso, abuso de función pública y constreñimiento ilegal relacionados con el polígrafo aplicado a Marelbys Meza. El caso evidencia abuso de autoridad y uso irregular de recursos públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusara-al-coronel-carlos-feria-por-poligrafo-a-marelbys-meza/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Feria",
+        "Marelbys Meza"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 253,
+      "titulo": "Exgobernador de Arauca acusado por contrato irregular de $20 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-01-28",
+      "descripcion": "El exgobernador de Arauca José Facundo Castillo Cisneros es acusado ante la Corte Suprema por un contrato sin requisitos en obra vial valorado en $20 mil millones. La Corte avaló la acreditación de la Gobernación de Arauca y la Contraloría como víctimas del proceso penal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/exgobernador-de-arauca-jose-facundo-castillo-cisneros-es-acusado-ante-la-corte-suprema-por-contrato-sin-requisitos-en-obra-vial-de-20-mil-millones-3527999",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "José Facundo Castillo Cisneros"
+      ],
+      "entidad": "Gobernación de Arauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 252,
+      "titulo": "Contraloría alerta riesgos en decreto de repatriación de pensiones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "La Contraloría encontró graves riesgos en el decreto del presidente Petro para la repatriación de pensiones. Según el órgano de control, la medida afectará los intereses individuales de los ahorradores y los colectivos del Estado, generando esfuerzos fiscales adicionales para el sistema pensional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-graves-riesgos-que-hallo-la-contraloria-tras-analizar-el-decreto-de-petro-para-la-repatriacion-de-pensiones-3528056",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 251,
+      "titulo": "Acusación a Carlos Ramón González por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "Carlos Ramón González reapareció virtualmente desde Nicaragua en audiencia de acusación ante la Corte Suprema por el escándalo de corrupción en la UNGRD. La Sala reconoció como víctimas a la UNGRD, la Contraloría y dos comunidades wayúu. Es uno de los casos de corrupción más graves del gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/carlos-ramon-gonzalez-reaparecio-y-fue-acusado-de-forma-virtual-ante-la-corte-suprema-por-saqueo-a-la-ungrd-3528173",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón González"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 250,
+      "titulo": "Magistrada se declara impedida por conflicto de interés en caso de emergencia económica",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-29",
+      "descripcion": "La magistrada Paola Andrea Meneses se declaró impedida para estudiar los impuestos de la emergencia económica debido a un posible conflicto de interés, ya que su esposo es jefe jurídico de Ecopetrol. La Sala debe decidir si acepta o no el impedimento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/magistrada-paola-andrea-meneses-se-declaro-impedida-para-estudiar-impuestos-de-la-emergencia-economica-3528138",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Paola Andrea Meneses"
+      ],
+      "entidad": "Corte Constitucional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 249,
+      "titulo": "Denuncias internas en Cancillería previo a reunión con Trump",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "El Ministerio de Relaciones Exteriores enfrenta denuncias internas y varios frentes problemáticos a pocos días del viaje del presidente Petro a Washington para reunirse con Trump. Se mencionan trabas diplomáticas con Ecuador y el regreso del tono confrontativo del mandatario, lo que podría afectar las relaciones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/los-lios-que-acumula-la-cancilleria-en-la-antesala-de-la-cita-con-trump-denuncias-internas-trabas-con-ecuador-y-regreso-del-tono-duro-de-petro-3528043",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
       "id": 248,
       "titulo": "Irregularidades en registro de antecedentes disciplinarios de Daniel Quintero",
       "categoria": "abuso-poder",
