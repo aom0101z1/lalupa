@@ -66,6 +66,79 @@
   ],
   "casos": [
     {
+      "id": 244,
+      "titulo": "Irregularidades en registro de antecedentes disciplinarios de Daniel Quintero",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-28",
+      "descripcion": "El Procurador Eljach ordenó remover funcionarios tras descubrir que la cédula del exalcalde de Medellín Daniel Quintero aparecía irregular en el sistema como 'cancelada por muerte'. Se ordenó investigación por estas irregularidades en el manejo de registros disciplinarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-eljach-ordena-remover-funcionarios-tras-irregular-registro-de-antecedentes-disciplinarios-de-daniel-quintero-3527998",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Eljach"
+      ],
+      "entidad": "Procuraduría General",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 06:35"
+    },
+    {
+      "id": 243,
+      "titulo": "Exgobernador de Arauca acusado por contrato irregular de $20 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-01-28",
+      "descripcion": "José Facundo Castillo Cisneros, exgobernador de Arauca, es acusado ante la Corte Suprema por adjudicar un contrato sin cumplir los requisitos legales para una obra vial valorada en $20 mil millones. La Contraloría General y la Gobernación de Arauca fueron reconocidas como víctimas en el proceso penal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/exgobernador-de-arauca-jose-facundo-castillo-cisneros-es-acusado-ante-la-corte-suprema-por-contrato-sin-requisitos-en-obra-vial-de-20-mil-millones-3527999",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "José Facundo Castillo Cisneros"
+      ],
+      "entidad": "Gobernación de Arauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 06:35"
+    },
+    {
+      "id": 242,
+      "titulo": "Magistrados cercanos al oficialismo estudiarán inhabilitación de Iván Cepeda",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-28",
+      "descripcion": "Tres magistrados del CNE que llegaron con el impulso de la bancada petrista serán quienes estudien si Iván Cepeda está inhabilitado para participar en la consulta presidencial. Esto genera un evidente conflicto de interés ya que los mismos magistrados afines al gobierno evaluarán la participación de un candidato del oficialismo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-a-la-consulta-estos-son-los-tres-magistrados-del-cne-cercanos-al-oficialismo-que-estudiaran-si-esta-inhabilitado-3527922",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Fabiola Márquez",
+        "Alba Lucía Velásquez",
+        "Álvaro Echeverry"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 06:35"
+    },
+    {
       "id": 241,
       "titulo": "Tres magistrados del CNE cercanos al oficialismo estudiarán inhabilitación de Iván Cepeda",
       "categoria": "conflicto-interes",
