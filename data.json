@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 267,
+      "titulo": "Acusación formal a Carlos Ramón por caso Ungrd",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía acusó formalmente a Carlos Ramón por los delitos de cohecho por dar u ofrecer, peculado por apropiación en favor de terceros y lavado de activos en el marco del escándalo de corrupción de la Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd). Este caso involucra el desvío de recursos públicos destinados para la gestión de desastres.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusa-formalmente-a-carlos-ramon-por-caso-ungrd/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 12:33"
+    },
+    {
+      "id": 266,
+      "titulo": "Politización del Banco de la República por parte del gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-30",
+      "descripcion": "Un codirector del Banco de la República omitió cálculos para apoyar la posición del presidente Petro de que subir el salario mínimo no aumenta la inflación. Esta actuación evidencia la politización de la entidad y el uso indebido de la institución para respaldar posiciones políticas del gobierno, fracturando la independencia técnica del banco central.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/petro-le-deja-un-banrep-fracturado-y-politizado-al-proximo-presidente/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Banco de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 12:33"
+    },
+    {
+      "id": 265,
+      "titulo": "Intervención en nombramientos de interventores de salud a través de Laura Sarabia",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-30",
+      "descripcion": "El exsuperintendente Luis Carlos Leal afirmó que las hojas de vida de interventores de salud llegaron a través de 'la mano derecha' de Laura Sarabia, jefa de gabinete presidencial. El presidente Petro dijo que Leal se dejó 'engañar' con estas hojas de vida, sugiriendo irregularidades en el proceso de selección de personal para cargos de interventoría en el sector salud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/exsuperintendente-luis-carlos-leal-afirmo-que-las-hojas-de-vida-de-interventores-de-salud-llegaron-a-traves-de-la-mano-derecha-de-laura-sarabia-3528389",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Leal",
+        "Laura Sarabia",
+        "Gustavo Petro"
+      ],
+      "entidad": "Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 12:33"
+    },
+    {
       "id": 264,
       "titulo": "Conflicto por presuntos desvíos en interventores de EPS",
       "categoria": "recursos-publicos",
