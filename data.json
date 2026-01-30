@@ -66,6 +66,124 @@
   ],
   "casos": [
     {
+      "id": 259,
+      "titulo": "Controversia por interventores de EPS con presuntos desvíos",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "Se presentó una confrontación entre el presidente Petro y Carolina Sarabia sobre quién llevó las hojas de vida de interventores a la Superintendencia de Salud, posteriormente señalados por presuntos desvíos de recursos del sistema de salud. El caso evidencia posibles irregularidades en la designación de interventores de EPS y el manejo de recursos de salud.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/choque-entre-petro-y-sarabia-por-hojas-de-vida-de-interventores-de-eps/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Carolina Sarabia"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 258,
+      "titulo": "Acusación formal contra Carlos Ramón por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía acusó formalmente a Carlos Ramón González por los delitos de cohecho por dar u ofrecer, peculado por apropiación en favor de terceros y lavado de activos en el marco del escándalo de corrupción de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Este caso involucra el desvío de recursos destinados para atención de emergencias.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusa-formalmente-a-carlos-ramon-por-caso-ungrd/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón González"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 257,
+      "titulo": "Corrupción en Universidad Metropolitana de Barranquilla",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía imputó cargos a Luis Fernando Acosta, directivo de la Universidad Metropolitana de Barranquilla y excónsul honorario en Polonia, por presuntamente haber direccionado ilegalmente fallos y resoluciones. El proceso se adelanta en contumacia, lo que indica que el imputado no se ha presentado ante la justicia.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/imputaron-a-luis-fernando-acosta-directivo-de-la-universidad-metropolitana-de-barranquilla-por-supuesta-corrupcion-3528242",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Fernando Acosta"
+      ],
+      "entidad": "Universidad Metropolitana de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 256,
+      "titulo": "Títulos académicos irregulares de funcionarios estatales",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fundación San José expidió 14 títulos académicos irregulares a funcionarios y contratistas del Estado, incluyendo el caso de Juliana Guerrero. Las inconsistencias aparecen en personal de entidades como Migración Colombia, la Unidad Nacional de Protección (UNP), el Instituto Penitenciario (Inpec) y diversas superintendencias, sugiriendo un esquema sistemático de falsificación de credenciales académicas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/el-caso-de-juliana-guerrero-no-es-el-unico-los-otros-14-titulos-irregulares-expedidos-por-la-fundacion-san-jose-a-funcionarios-dentro-del-estado-3528216",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero",
+        "14 funcionarios adicionales"
+      ],
+      "entidad": "Migración Colombia, UNP, Inpec, Superintendencias",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 255,
+      "titulo": "Incumplimiento masivo en reporte de gastos de campañas electorales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "Solo el 5% de los candidatos al Congreso han reportado sus gastos e ingresos de campaña como establece la ley. Ningún aspirante presidencial por firmas ha informado sus movimientos financieros pese a tener la obligación legal de hacerlo. Esta falta de transparencia impide el control sobre el origen y uso de recursos en las campañas electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/advierten-que-el-reporte-de-gastos-e-ingresos-de-campanas-al-congreso-ha-sido-casi-nulo-solo-el-5-de-los-candidatos-lo-ha-hecho-3528326",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Candidatos presidenciales por firmas",
+        "Candidatos al Congreso"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
       "id": 254,
       "titulo": "Fiscalía acusará al coronel Carlos Feria por abuso contra Marelbys Meza",
       "categoria": "abuso-poder",
