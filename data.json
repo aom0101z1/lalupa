@@ -66,6 +66,741 @@
   ],
   "casos": [
     {
+      "id": 270,
+      "titulo": "Exnarco 'Hombre Marlboro' apoya candidatos políticos",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-30",
+      "descripcion": "El exnarco Samuel Santander Lopesierra, conocido como 'Hombre Marlboro', está realizando actividades de campaña apoyando a Martha Peralta (presidenta del Mais) y al representante conservador Juan Loreto Gómez. Este apoyo de una persona con antecedentes criminales a candidatos políticos plantea serias preocupaciones sobre posibles conflictos de interés y vínculos inapropiados.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/hombre-marlboro-apoya-a-candidato-conservador-y-a-martha-peralta/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Samuel Santander Lopesierra",
+        "Martha Peralta",
+        "Juan Loreto Gómez"
+      ],
+      "entidad": "Mais, Partido Conservador",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 18:30"
+    },
+    {
+      "id": 269,
+      "titulo": "Denuncia por presión electoral en Nariño con recursos públicos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-30",
+      "descripcion": "El alcalde de Ipiales denunció a una aspirante del Partido Verde por supuestamente exigirle apoyo electoral a cambio de mover proyectos en entidades públicas. El caso ya fue denunciado ante la Fiscalía y constituye un presunto caso de presión electoral utilizando recursos y proyectos públicos como moneda de cambio político.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/pelea-en-narino-entre-alcalde-y-candidata-por-supuesta-presion-electoral/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de Ipiales",
+        "Candidata del Partido Verde"
+      ],
+      "entidad": "Alcaldía de Ipiales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 18:30"
+    },
+    {
+      "id": 268,
+      "titulo": "Exmagistrado Jorge Eliécer Mola llamado a juicio por prevaricato y fraude procesal",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-30",
+      "descripcion": "El exmagistrado Jorge Eliécer Mola ha sido llamado a juicio por interferir ilegalmente en procesos penales. Responderá por los delitos de prevaricato por acción en concurso homogéneo y heterogéneo, y fraude procesal. Este caso documenta una presunta manipulación del sistema judicial por parte de un alto funcionario de la rama judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/llaman-a-juicio-al-exmagistrado-jorge-eliecer-mola-senalado-de-interferir-ilegalmente-en-procesos-penales-3528463",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eliécer Mola"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 18:30"
+    },
+    {
+      "id": 267,
+      "titulo": "Acusación formal a Carlos Ramón por caso Ungrd",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía acusó formalmente a Carlos Ramón por los delitos de cohecho por dar u ofrecer, peculado por apropiación en favor de terceros y lavado de activos en el marco del escándalo de corrupción de la Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd). Este caso involucra el desvío de recursos públicos destinados para la gestión de desastres.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusa-formalmente-a-carlos-ramon-por-caso-ungrd/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 12:33"
+    },
+    {
+      "id": 266,
+      "titulo": "Politización del Banco de la República por parte del gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-30",
+      "descripcion": "Un codirector del Banco de la República omitió cálculos para apoyar la posición del presidente Petro de que subir el salario mínimo no aumenta la inflación. Esta actuación evidencia la politización de la entidad y el uso indebido de la institución para respaldar posiciones políticas del gobierno, fracturando la independencia técnica del banco central.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/petro-le-deja-un-banrep-fracturado-y-politizado-al-proximo-presidente/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Banco de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 12:33"
+    },
+    {
+      "id": 265,
+      "titulo": "Intervención en nombramientos de interventores de salud a través de Laura Sarabia",
+      "categoria": "nepotismo",
+      "fecha": "2026-01-30",
+      "descripcion": "El exsuperintendente Luis Carlos Leal afirmó que las hojas de vida de interventores de salud llegaron a través de 'la mano derecha' de Laura Sarabia, jefa de gabinete presidencial. El presidente Petro dijo que Leal se dejó 'engañar' con estas hojas de vida, sugiriendo irregularidades en el proceso de selección de personal para cargos de interventoría en el sector salud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/exsuperintendente-luis-carlos-leal-afirmo-que-las-hojas-de-vida-de-interventores-de-salud-llegaron-a-traves-de-la-mano-derecha-de-laura-sarabia-3528389",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Leal",
+        "Laura Sarabia",
+        "Gustavo Petro"
+      ],
+      "entidad": "Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 12:33"
+    },
+    {
+      "id": 264,
+      "titulo": "Conflicto por presuntos desvíos en interventores de EPS",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "Se presenta un choque entre el presidente Petro y la funcionaria Sarabia por las hojas de vida de interventores de EPS. Petro señaló que fue ella quien llevó a la SuperSalud las hojas de vida de interventores que luego fueron señalados por presuntos desvíos de recursos del sistema de salud, generando un conflicto sobre responsabilidades en la selección de estos funcionarios.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/choque-entre-petro-y-sarabia-por-hojas-de-vida-de-interventores-de-eps/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Sarabia"
+      ],
+      "entidad": "SuperSalud - Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 263,
+      "titulo": "Acusación formal contra Carlos Ramón por corrupción en UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía acusó formalmente a Carlos Ramón por el caso UNGRD por los delitos de cohecho por dar u ofrecer, peculado por apropiación en favor de terceros y lavado de activos. Este caso forma parte del escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres que ha salpicado al gobierno actual.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusa-formalmente-a-carlos-ramon-por-caso-ungrd/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón"
+      ],
+      "entidad": "UNGRD - Unidad Nacional para la Gestión del Riesgo de Desastres",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 262,
+      "titulo": "Afirmación falsa sobre déficit del fondo de gasolina",
+      "categoria": "mentiras",
+      "fecha": "2026-01-30",
+      "descripcion": "Se verificó como engañosa la afirmación de que el gobierno Duque dejó un déficit de $70 billones en el fondo de la gasolina. La realidad es que para 2022 el déficit fue de $36 billones, y Duque pagó lo que le correspondía hasta el final de su mandato: $6 billones de pesos. Esta información falsa distorsiona el debate público sobre las finanzas del sector energético.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/otra-vez-duque-no-dejo-deficit-de-70-billones-en-el-fondo-de-la-gasolina/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios del gobierno actual"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 261,
+      "titulo": "Denuncia de participación indebida de funcionarios en política electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "El candidato Lizcano denunció que el presidente Petro y dos alcaldes están apoyando 'de frente' a dos candidatos presidenciales, violando presuntamente las normas que prohíben a los funcionarios públicos participar en política. Pidió garantías al Procurador para las elecciones, cuestionando dónde está la ley que obliga a que los funcionarios no participen en política.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/lizcano-le-pidio-al-procurador-garantias-en-las-elecciones-donde-esta-la-ley-que-obliga-a-que-los-funcionarios-no-puedan-participar-en-politica-3528234",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Lizcano",
+        "Dos alcaldes no identificados"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 260,
+      "titulo": "Incumplimiento masivo en reporte de gastos de campañas electorales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "Solo el 5% de los candidatos al Congreso han cumplido con la obligación legal de reportar sus gastos e ingresos de campaña. Ningún aspirante presidencial por firmas ha informado sus movimientos financieros, pese a tener la obligación legal de hacerlo. Esta falta de transparencia impide el control sobre el uso de recursos en las campañas políticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/advierten-que-el-reporte-de-gastos-e-ingresos-de-campanas-al-congreso-ha-sido-casi-nulo-solo-el-5-de-los-candidatos-lo-ha-hecho-3528326",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Candidatos presidenciales por firmas",
+        "Candidatos al Congreso"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 259,
+      "titulo": "Controversia por interventores de EPS con presuntos desvíos",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "Se presentó una confrontación entre el presidente Petro y Carolina Sarabia sobre quién llevó las hojas de vida de interventores a la Superintendencia de Salud, posteriormente señalados por presuntos desvíos de recursos del sistema de salud. El caso evidencia posibles irregularidades en la designación de interventores de EPS y el manejo de recursos de salud.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/choque-entre-petro-y-sarabia-por-hojas-de-vida-de-interventores-de-eps/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Carolina Sarabia"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 258,
+      "titulo": "Acusación formal contra Carlos Ramón por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía acusó formalmente a Carlos Ramón González por los delitos de cohecho por dar u ofrecer, peculado por apropiación en favor de terceros y lavado de activos en el marco del escándalo de corrupción de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Este caso involucra el desvío de recursos destinados para atención de emergencias.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusa-formalmente-a-carlos-ramon-por-caso-ungrd/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón González"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 257,
+      "titulo": "Corrupción en Universidad Metropolitana de Barranquilla",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía imputó cargos a Luis Fernando Acosta, directivo de la Universidad Metropolitana de Barranquilla y excónsul honorario en Polonia, por presuntamente haber direccionado ilegalmente fallos y resoluciones. El proceso se adelanta en contumacia, lo que indica que el imputado no se ha presentado ante la justicia.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/imputaron-a-luis-fernando-acosta-directivo-de-la-universidad-metropolitana-de-barranquilla-por-supuesta-corrupcion-3528242",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Fernando Acosta"
+      ],
+      "entidad": "Universidad Metropolitana de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 256,
+      "titulo": "Títulos académicos irregulares de funcionarios estatales",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fundación San José expidió 14 títulos académicos irregulares a funcionarios y contratistas del Estado, incluyendo el caso de Juliana Guerrero. Las inconsistencias aparecen en personal de entidades como Migración Colombia, la Unidad Nacional de Protección (UNP), el Instituto Penitenciario (Inpec) y diversas superintendencias, sugiriendo un esquema sistemático de falsificación de credenciales académicas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/el-caso-de-juliana-guerrero-no-es-el-unico-los-otros-14-titulos-irregulares-expedidos-por-la-fundacion-san-jose-a-funcionarios-dentro-del-estado-3528216",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero",
+        "14 funcionarios adicionales"
+      ],
+      "entidad": "Migración Colombia, UNP, Inpec, Superintendencias",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 255,
+      "titulo": "Incumplimiento masivo en reporte de gastos de campañas electorales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "Solo el 5% de los candidatos al Congreso han reportado sus gastos e ingresos de campaña como establece la ley. Ningún aspirante presidencial por firmas ha informado sus movimientos financieros pese a tener la obligación legal de hacerlo. Esta falta de transparencia impide el control sobre el origen y uso de recursos en las campañas electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/advierten-que-el-reporte-de-gastos-e-ingresos-de-campanas-al-congreso-ha-sido-casi-nulo-solo-el-5-de-los-candidatos-lo-ha-hecho-3528326",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Candidatos presidenciales por firmas",
+        "Candidatos al Congreso"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 01:12"
+    },
+    {
+      "id": 254,
+      "titulo": "Fiscalía acusará al coronel Carlos Feria por abuso contra Marelbys Meza",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía formulará acusación contra el coronel Carlos Feria el 18 de febrero por los delitos de peculado por uso, abuso de función pública y constreñimiento ilegal relacionados con el polígrafo aplicado a Marelbys Meza. El caso evidencia abuso de autoridad y uso irregular de recursos públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusara-al-coronel-carlos-feria-por-poligrafo-a-marelbys-meza/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Feria",
+        "Marelbys Meza"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 253,
+      "titulo": "Exgobernador de Arauca acusado por contrato irregular de $20 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-01-28",
+      "descripcion": "El exgobernador de Arauca José Facundo Castillo Cisneros es acusado ante la Corte Suprema por un contrato sin requisitos en obra vial valorado en $20 mil millones. La Corte avaló la acreditación de la Gobernación de Arauca y la Contraloría como víctimas del proceso penal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/exgobernador-de-arauca-jose-facundo-castillo-cisneros-es-acusado-ante-la-corte-suprema-por-contrato-sin-requisitos-en-obra-vial-de-20-mil-millones-3527999",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "José Facundo Castillo Cisneros"
+      ],
+      "entidad": "Gobernación de Arauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 252,
+      "titulo": "Contraloría alerta riesgos en decreto de repatriación de pensiones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "La Contraloría encontró graves riesgos en el decreto del presidente Petro para la repatriación de pensiones. Según el órgano de control, la medida afectará los intereses individuales de los ahorradores y los colectivos del Estado, generando esfuerzos fiscales adicionales para el sistema pensional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-graves-riesgos-que-hallo-la-contraloria-tras-analizar-el-decreto-de-petro-para-la-repatriacion-de-pensiones-3528056",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 251,
+      "titulo": "Acusación a Carlos Ramón González por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "Carlos Ramón González reapareció virtualmente desde Nicaragua en audiencia de acusación ante la Corte Suprema por el escándalo de corrupción en la UNGRD. La Sala reconoció como víctimas a la UNGRD, la Contraloría y dos comunidades wayúu. Es uno de los casos de corrupción más graves del gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/carlos-ramon-gonzalez-reaparecio-y-fue-acusado-de-forma-virtual-ante-la-corte-suprema-por-saqueo-a-la-ungrd-3528173",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón González"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 250,
+      "titulo": "Magistrada se declara impedida por conflicto de interés en caso de emergencia económica",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-29",
+      "descripcion": "La magistrada Paola Andrea Meneses se declaró impedida para estudiar los impuestos de la emergencia económica debido a un posible conflicto de interés, ya que su esposo es jefe jurídico de Ecopetrol. La Sala debe decidir si acepta o no el impedimento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/magistrada-paola-andrea-meneses-se-declaro-impedida-para-estudiar-impuestos-de-la-emergencia-economica-3528138",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Paola Andrea Meneses"
+      ],
+      "entidad": "Corte Constitucional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 249,
+      "titulo": "Denuncias internas en Cancillería previo a reunión con Trump",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "El Ministerio de Relaciones Exteriores enfrenta denuncias internas y varios frentes problemáticos a pocos días del viaje del presidente Petro a Washington para reunirse con Trump. Se mencionan trabas diplomáticas con Ecuador y el regreso del tono confrontativo del mandatario, lo que podría afectar las relaciones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/los-lios-que-acumula-la-cancilleria-en-la-antesala-de-la-cita-con-trump-denuncias-internas-trabas-con-ecuador-y-regreso-del-tono-duro-de-petro-3528043",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 18:32"
+    },
+    {
+      "id": 248,
+      "titulo": "Irregularidades en registro de antecedentes disciplinarios de Daniel Quintero",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-28",
+      "descripcion": "El Procurador Eljach ordenó remover funcionarios tras descubrir que la cédula del exalcalde de Medellín Daniel Quintero aparecía irregularmente como 'cancelada por muerte' en el registro de antecedentes disciplinarios. Se ordenó una investigación para esclarecer esta manipulación de registros oficiales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-eljach-ordena-remover-funcionarios-tras-irregular-registro-de-antecedentes-disciplinarios-de-daniel-quintero-3527998",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Jaime Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 247,
+      "titulo": "Exgobernador de Arauca acusado por contrato irregular de $20 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-01-28",
+      "descripcion": "José Facundo Castillo Cisneros, exgobernador de Arauca, fue acusado ante la Corte Suprema por un contrato sin requisitos en una obra vial valorada en $20 mil millones. La Corte avaló que la Gobernación de Arauca y la Contraloría sean reconocidas como víctimas en el proceso penal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/exgobernador-de-arauca-jose-facundo-castillo-cisneros-es-acusado-ante-la-corte-suprema-por-contrato-sin-requisitos-en-obra-vial-de-20-mil-millones-3527999",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "José Facundo Castillo Cisneros"
+      ],
+      "entidad": "Gobernación de Arauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 246,
+      "titulo": "Contraloría identifica graves riesgos en decreto de repatriación de pensiones de Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "La Contraloría General encontró graves riesgos en el decreto presidencial sobre repatriación de pensiones, determinando que la medida afectará tanto los intereses individuales de los ahorradores como los intereses colectivos del Estado, poniendo en riesgo recursos públicos y privados del sistema pensional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-graves-riesgos-que-hallo-la-contraloria-tras-analizar-el-decreto-de-petro-para-la-repatriacion-de-pensiones-3528056",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 245,
+      "titulo": "Denuncias internas en la Cancillería en vísperas de reunión con Trump",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "El Ministerio de Relaciones Exteriores enfrenta denuncias internas no especificadas junto con otros problemas diplomáticos, incluyendo trabas con Ecuador y tensiones por el endurecimiento del tono del presidente Petro antes de la importante reunión con el presidente Trump.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/los-lios-que-acumula-la-cancilleria-en-la-antesala-de-la-cita-con-trump-denuncias-internas-trabas-con-ecuador-y-regreso-del-tono-duro-de-petro-3528043",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 12:35"
+    },
+    {
+      "id": 244,
+      "titulo": "Irregularidades en registro de antecedentes disciplinarios de Daniel Quintero",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-28",
+      "descripcion": "El Procurador Eljach ordenó remover funcionarios tras descubrir que la cédula del exalcalde de Medellín Daniel Quintero aparecía irregular en el sistema como 'cancelada por muerte'. Se ordenó investigación por estas irregularidades en el manejo de registros disciplinarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-eljach-ordena-remover-funcionarios-tras-irregular-registro-de-antecedentes-disciplinarios-de-daniel-quintero-3527998",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Eljach"
+      ],
+      "entidad": "Procuraduría General",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 06:35"
+    },
+    {
+      "id": 243,
+      "titulo": "Exgobernador de Arauca acusado por contrato irregular de $20 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-01-28",
+      "descripcion": "José Facundo Castillo Cisneros, exgobernador de Arauca, es acusado ante la Corte Suprema por adjudicar un contrato sin cumplir los requisitos legales para una obra vial valorada en $20 mil millones. La Contraloría General y la Gobernación de Arauca fueron reconocidas como víctimas en el proceso penal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/exgobernador-de-arauca-jose-facundo-castillo-cisneros-es-acusado-ante-la-corte-suprema-por-contrato-sin-requisitos-en-obra-vial-de-20-mil-millones-3527999",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "José Facundo Castillo Cisneros"
+      ],
+      "entidad": "Gobernación de Arauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-29 06:35"
+    },
+    {
+      "id": 242,
+      "titulo": "Magistrados cercanos al oficialismo estudiarán inhabilitación de Iván Cepeda",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-28",
+      "descripcion": "Tres magistrados del CNE que llegaron con el impulso de la bancada petrista serán quienes estudien si Iván Cepeda está inhabilitado para participar en la consulta presidencial. Esto genera un evidente conflicto de interés ya que los mismos magistrados afines al gobierno evaluarán la participación de un candidato del oficialismo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-a-la-consulta-estos-son-los-tres-magistrados-del-cne-cercanos-al-oficialismo-que-estudiaran-si-esta-inhabilitado-3527922",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Fabiola Márquez",
+        "Alba Lucía Velásquez",
+        "Álvaro Echeverry"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 06:35"
+    },
+    {
+      "id": 241,
+      "titulo": "Tres magistrados del CNE cercanos al oficialismo estudiarán inhabilitación de Iván Cepeda",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-28",
+      "descripcion": "Los tres magistrados del Consejo Nacional Electoral que estudiarán si Iván Cepeda está inhabilitado para participar en la consulta llegaron al CNE con el impulso de la bancada petrista. Esta situación genera cuestionamientos sobre posible conflicto de interés, considerando que Cepeda es candidato del oficialismo y los magistrados que decidirán su suerte fueron apoyados por el mismo sector político.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-a-la-consulta-estos-son-los-tres-magistrados-del-cne-cercanos-al-oficialismo-que-estudiaran-si-esta-inhabilitado-3527922",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Fabiola Márquez",
+        "Alba Lucía Velásquez",
+        "Álvaro Echeverry"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 01:12"
+    },
+    {
+      "id": 240,
+      "titulo": "Irregular registro de antecedentes disciplinarios de Daniel Quintero en la Procuraduría",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-28",
+      "descripcion": "La cédula del exalcalde de Medellín Daniel Quintero aparecía como 'cancelada por muerte' en el registro de antecedentes disciplinarios de la Procuraduría. El Procurador Eljach ordenó remover funcionarios tras detectar esta irregularidad y abrió investigación. Este caso evidencia fallas graves en el sistema de información de antecedentes disciplinarios que podrían afectar procesos legales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-eljach-ordena-remover-funcionarios-tras-irregular-registro-de-antecedentes-disciplinarios-de-daniel-quintero-3527998",
+          "fecha": "2026-01-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Jaime Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-29 01:12"
+    },
+    {
       "id": 239,
       "titulo": "Retrasos en pagos del gobierno nacional para nómina de docentes en Bogotá",
       "categoria": "recursos-publicos",
