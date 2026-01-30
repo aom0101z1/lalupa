@@ -1061,9 +1061,60 @@
 
             <!-- Tab: Gestión de Líderes -->
             <div id="tab-lideres" class="tab-content">
-                <!-- Code Generator -->
+                <!-- Batch Code Generator -->
+                <div class="code-generator" style="margin-bottom: 20px; background: linear-gradient(135deg, #1a237e 0%, #283593 100%); border: 2px solid #3949ab;">
+                    <h3 style="color: #fff;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: middle; margin-right: 8px;">
+                            <rect x="3" y="3" width="7" height="7"/>
+                            <rect x="14" y="3" width="7" height="7"/>
+                            <rect x="14" y="14" width="7" height="7"/>
+                            <rect x="3" y="14" width="7" height="7"/>
+                        </svg>
+                        Generación Masiva de Códigos CD101
+                    </h3>
+                    <p style="color: rgba(255,255,255,0.8); margin-bottom: 15px; font-size: 14px;">
+                        Genera múltiples códigos de una vez. Formato: <strong>CD101-001</strong>, <strong>CD101-002</strong>, etc.
+                        Los códigos quedan "Sin asignar" y puedes editarlos después para agregar los datos del líder.
+                    </p>
+                    <div class="form-row" style="align-items: flex-end;">
+                        <div class="control-group" style="flex: 0 0 200px;">
+                            <label class="control-label" style="color: rgba(255,255,255,0.9);">Cantidad de códigos</label>
+                            <input type="number" id="batchQuantity" class="control-input" min="1" max="500" value="10" style="font-size: 18px; font-weight: bold; text-align: center;">
+                        </div>
+                        <div class="control-group" style="flex: 1;">
+                            <button type="button" class="btn" onclick="handleBatchGeneration()" style="background: #ffeb3b; color: #1a237e; font-weight: bold; padding: 12px 24px;">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+                                </svg>
+                                Generar Códigos Masivamente
+                            </button>
+                        </div>
+                    </div>
+                    <div id="batchProgressContainer" class="hidden" style="margin-top: 15px;">
+                        <div style="background: rgba(255,255,255,0.2); border-radius: 10px; overflow: hidden; height: 24px;">
+                            <div id="batchProgressBar" style="background: #4caf50; height: 100%; width: 0%; transition: width 0.3s; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 12px;">
+                                0%
+                            </div>
+                        </div>
+                        <p id="batchProgressText" style="color: rgba(255,255,255,0.8); margin-top: 8px; font-size: 13px;">Generando códigos...</p>
+                    </div>
+                    <div id="batchResultContainer" class="hidden" style="margin-top: 15px; background: rgba(76, 175, 80, 0.2); padding: 15px; border-radius: 8px; border: 1px solid #4caf50;">
+                        <p style="color: #a5d6a7; font-weight: bold; margin-bottom: 8px;">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: middle; margin-right: 5px;">
+                                <polyline points="20 6 9 17 4 12"/>
+                            </svg>
+                            <span id="batchResultText">Códigos generados exitosamente</span>
+                        </p>
+                        <p style="color: rgba(255,255,255,0.7); font-size: 13px;">Desde <strong id="batchFirstCode">-</strong> hasta <strong id="batchLastCode">-</strong></p>
+                    </div>
+                </div>
+
+                <!-- Single Code Generator -->
                 <div class="code-generator">
-                    <h3>Generar Nuevo Código de Líder</h3>
+                    <h3>Crear Líder Individual con Datos</h3>
+                    <p style="color: rgba(255,255,255,0.7); margin-bottom: 15px; font-size: 14px;">
+                        Usa esta opción si quieres crear un código y asignar los datos del líder al mismo tiempo.
+                    </p>
                     <form id="leaderForm">
                         <div class="form-row">
                             <div class="control-group">
@@ -1090,7 +1141,7 @@
                                 <line x1="12" y1="5" x2="12" y2="19"/>
                                 <line x1="5" y1="12" x2="19" y2="12"/>
                             </svg>
-                            Generar Código y Guardar Líder
+                            Crear Líder con Código
                         </button>
                     </form>
 
@@ -1239,15 +1290,15 @@
                 </div>
                 <div class="control-group" style="margin-bottom: 15px;">
                     <label class="control-label">Nombre</label>
-                    <input type="text" id="editLeaderNombre" class="control-input" required>
+                    <input type="text" id="editLeaderNombre" class="control-input" placeholder="Nombre del líder">
                 </div>
                 <div class="control-group" style="margin-bottom: 15px;">
                     <label class="control-label">Cédula</label>
-                    <input type="text" id="editLeaderCedula" class="control-input" required>
+                    <input type="text" id="editLeaderCedula" class="control-input" placeholder="Número de cédula">
                 </div>
                 <div class="control-group" style="margin-bottom: 15px;">
                     <label class="control-label">Teléfono</label>
-                    <input type="tel" id="editLeaderTelefono" class="control-input" required>
+                    <input type="tel" id="editLeaderTelefono" class="control-input" placeholder="Número de teléfono">
                 </div>
                 <div class="control-group" style="margin-bottom: 15px;">
                     <label class="control-label">Email</label>
@@ -1334,27 +1385,72 @@
             }
         }
 
-        // Generate next sequential code (LIDER101, LIDER102, etc.)
+        // Generate next sequential code (CD101-001, CD101-002, etc.)
         async function generateUniqueCode() {
             try {
                 // Get all existing codes to find the highest number
                 const snapshot = await getDocs(collection(db, LIDERES_COLLECTION));
-                let maxNumber = 100; // Start at 100, so first code is LIDER101
+                let maxNumber = 0; // Start at 0, so first code is CD101-001
 
                 snapshot.forEach(doc => {
                     const code = doc.data().code;
-                    if (code && code.startsWith('LIDER')) {
-                        const num = parseInt(code.replace('LIDER', ''));
+                    if (code && code.startsWith('CD101-')) {
+                        const num = parseInt(code.replace('CD101-', ''));
                         if (!isNaN(num) && num > maxNumber) {
                             maxNumber = num;
                         }
                     }
                 });
 
-                return 'LIDER' + (maxNumber + 1);
+                // Format with leading zeros (001, 002, etc.)
+                const nextNum = (maxNumber + 1).toString().padStart(3, '0');
+                return 'CD101-' + nextNum;
             } catch (error) {
                 console.error('Error generating code:', error);
-                return 'LIDER101';
+                return 'CD101-001';
+            }
+        }
+
+        // Generate multiple codes at once (batch creation)
+        async function generateBatchCodes(quantity) {
+            try {
+                const snapshot = await getDocs(collection(db, LIDERES_COLLECTION));
+                let maxNumber = 0;
+
+                snapshot.forEach(doc => {
+                    const code = doc.data().code;
+                    if (code && code.startsWith('CD101-')) {
+                        const num = parseInt(code.replace('CD101-', ''));
+                        if (!isNaN(num) && num > maxNumber) {
+                            maxNumber = num;
+                        }
+                    }
+                });
+
+                const codes = [];
+                const now = new Date();
+
+                for (let i = 1; i <= quantity; i++) {
+                    const nextNum = (maxNumber + i).toString().padStart(3, '0');
+                    const code = 'CD101-' + nextNum;
+
+                    await addDoc(collection(db, LIDERES_COLLECTION), {
+                        code: code,
+                        nombre: '',
+                        cedula: '',
+                        telefono: '',
+                        email: '',
+                        active: true,
+                        createdAt: serverTimestamp()
+                    });
+
+                    codes.push(code);
+                }
+
+                return codes;
+            } catch (error) {
+                console.error('Error generating batch codes:', error);
+                throw error;
             }
         }
 
@@ -1517,7 +1613,9 @@
             leadersData.forEach(leader => {
                 const option = document.createElement('option');
                 option.value = leader.code;
-                option.textContent = `${leader.code} (${leader.nombre})`;
+                option.textContent = leader.nombre
+                    ? `${leader.code} (${leader.nombre})`
+                    : `${leader.code} (Sin asignar)`;
                 select.appendChild(option);
             });
         }
@@ -1623,9 +1721,9 @@
                 <tr>
                     <td>${index + 1}</td>
                     <td><span class="badge badge-leader">${leader.code}</span></td>
-                    <td>${leader.nombre}</td>
-                    <td>${leader.cedula}</td>
-                    <td>${leader.telefono}</td>
+                    <td>${leader.nombre || '<span style="color: #ff9800; font-style: italic;">Sin asignar</span>'}</td>
+                    <td>${leader.cedula || '<span style="color: #999;">-</span>'}</td>
+                    <td>${leader.telefono || '<span style="color: #999;">-</span>'}</td>
                     <td>${leader.email || '-'}</td>
                     <td>${regCounts[leader.code] || 0}</td>
                     <td>
@@ -1714,9 +1812,9 @@
             const exportData = leadersData.map((leader, index) => ({
                 '#': index + 1,
                 'Código': leader.code,
-                'Nombre': leader.nombre,
-                'Cédula': leader.cedula,
-                'Teléfono': leader.telefono,
+                'Nombre': leader.nombre || '(Sin asignar)',
+                'Cédula': leader.cedula || '',
+                'Teléfono': leader.telefono || '',
                 'Email': leader.email || '',
                 'Registros': regCounts[leader.code] || 0,
                 'Estado': leader.active !== false ? 'Activo' : 'Inactivo',
@@ -1823,6 +1921,83 @@
             navigator.clipboard.writeText(code).then(() => {
                 alert('Código copiado al portapapeles');
             });
+        };
+
+        // Handle batch code generation
+        window.handleBatchGeneration = async function() {
+            const quantity = parseInt(document.getElementById('batchQuantity').value);
+
+            if (isNaN(quantity) || quantity < 1 || quantity > 500) {
+                alert('Por favor ingresa una cantidad entre 1 y 500');
+                return;
+            }
+
+            if (!confirm(`¿Generar ${quantity} códigos CD101?\n\nLos códigos quedarán "Sin asignar" y podrás editarlos después.`)) {
+                return;
+            }
+
+            // Show progress
+            document.getElementById('batchProgressContainer').classList.remove('hidden');
+            document.getElementById('batchResultContainer').classList.add('hidden');
+            document.getElementById('batchProgressBar').style.width = '0%';
+            document.getElementById('batchProgressBar').textContent = '0%';
+            document.getElementById('batchProgressText').textContent = 'Iniciando generación...';
+
+            try {
+                // Get current max number
+                const snapshot = await getDocs(collection(db, LIDERES_COLLECTION));
+                let maxNumber = 0;
+
+                snapshot.forEach(doc => {
+                    const code = doc.data().code;
+                    if (code && code.startsWith('CD101-')) {
+                        const num = parseInt(code.replace('CD101-', ''));
+                        if (!isNaN(num) && num > maxNumber) {
+                            maxNumber = num;
+                        }
+                    }
+                });
+
+                const codes = [];
+                const batchSize = 10; // Process in batches of 10
+
+                for (let i = 1; i <= quantity; i++) {
+                    const nextNum = (maxNumber + i).toString().padStart(3, '0');
+                    const code = 'CD101-' + nextNum;
+
+                    await addDoc(collection(db, LIDERES_COLLECTION), {
+                        code: code,
+                        nombre: '',
+                        cedula: '',
+                        telefono: '',
+                        email: '',
+                        active: true,
+                        createdAt: serverTimestamp()
+                    });
+
+                    codes.push(code);
+
+                    // Update progress every 1 or every batch
+                    if (i % Math.max(1, Math.floor(quantity / 50)) === 0 || i === quantity) {
+                        const percent = Math.round((i / quantity) * 100);
+                        document.getElementById('batchProgressBar').style.width = percent + '%';
+                        document.getElementById('batchProgressBar').textContent = percent + '%';
+                        document.getElementById('batchProgressText').textContent = `Generando... ${i} de ${quantity} códigos`;
+                    }
+                }
+
+                // Show success
+                document.getElementById('batchProgressContainer').classList.add('hidden');
+                document.getElementById('batchResultContainer').classList.remove('hidden');
+                document.getElementById('batchResultText').textContent = `${quantity} códigos generados exitosamente`;
+                document.getElementById('batchFirstCode').textContent = codes[0];
+                document.getElementById('batchLastCode').textContent = codes[codes.length - 1];
+
+            } catch (error) {
+                console.error('Error generating batch codes:', error);
+                document.getElementById('batchProgressContainer').classList.add('hidden');
+                alert('Error al generar códigos. Intenta nuevamente.');
+            }
         };
 
         // Edit leader
