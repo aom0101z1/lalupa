@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 270,
+      "titulo": "Exnarco 'Hombre Marlboro' apoya candidatos políticos",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-01-30",
+      "descripcion": "El exnarco Samuel Santander Lopesierra, conocido como 'Hombre Marlboro', está realizando actividades de campaña apoyando a Martha Peralta (presidenta del Mais) y al representante conservador Juan Loreto Gómez. Este apoyo de una persona con antecedentes criminales a candidatos políticos plantea serias preocupaciones sobre posibles conflictos de interés y vínculos inapropiados.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/hombre-marlboro-apoya-a-candidato-conservador-y-a-martha-peralta/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Samuel Santander Lopesierra",
+        "Martha Peralta",
+        "Juan Loreto Gómez"
+      ],
+      "entidad": "Mais, Partido Conservador",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 18:30"
+    },
+    {
+      "id": 269,
+      "titulo": "Denuncia por presión electoral en Nariño con recursos públicos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-30",
+      "descripcion": "El alcalde de Ipiales denunció a una aspirante del Partido Verde por supuestamente exigirle apoyo electoral a cambio de mover proyectos en entidades públicas. El caso ya fue denunciado ante la Fiscalía y constituye un presunto caso de presión electoral utilizando recursos y proyectos públicos como moneda de cambio político.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/pelea-en-narino-entre-alcalde-y-candidata-por-supuesta-presion-electoral/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de Ipiales",
+        "Candidata del Partido Verde"
+      ],
+      "entidad": "Alcaldía de Ipiales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 18:30"
+    },
+    {
+      "id": 268,
+      "titulo": "Exmagistrado Jorge Eliécer Mola llamado a juicio por prevaricato y fraude procesal",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-30",
+      "descripcion": "El exmagistrado Jorge Eliécer Mola ha sido llamado a juicio por interferir ilegalmente en procesos penales. Responderá por los delitos de prevaricato por acción en concurso homogéneo y heterogéneo, y fraude procesal. Este caso documenta una presunta manipulación del sistema judicial por parte de un alto funcionario de la rama judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/llaman-a-juicio-al-exmagistrado-jorge-eliecer-mola-senalado-de-interferir-ilegalmente-en-procesos-penales-3528463",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eliécer Mola"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 18:30"
+    },
+    {
       "id": 267,
       "titulo": "Acusación formal a Carlos Ramón por caso Ungrd",
       "categoria": "corrupcion",
