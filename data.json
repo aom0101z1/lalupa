@@ -66,6 +66,125 @@
   ],
   "casos": [
     {
+      "id": 264,
+      "titulo": "Conflicto por presuntos desvíos en interventores de EPS",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "Se presenta un choque entre el presidente Petro y la funcionaria Sarabia por las hojas de vida de interventores de EPS. Petro señaló que fue ella quien llevó a la SuperSalud las hojas de vida de interventores que luego fueron señalados por presuntos desvíos de recursos del sistema de salud, generando un conflicto sobre responsabilidades en la selección de estos funcionarios.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/choque-entre-petro-y-sarabia-por-hojas-de-vida-de-interventores-de-eps/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Sarabia"
+      ],
+      "entidad": "SuperSalud - Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 263,
+      "titulo": "Acusación formal contra Carlos Ramón por corrupción en UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-29",
+      "descripcion": "La Fiscalía acusó formalmente a Carlos Ramón por el caso UNGRD por los delitos de cohecho por dar u ofrecer, peculado por apropiación en favor de terceros y lavado de activos. Este caso forma parte del escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres que ha salpicado al gobierno actual.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-acusa-formalmente-a-carlos-ramon-por-caso-ungrd/",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón"
+      ],
+      "entidad": "UNGRD - Unidad Nacional para la Gestión del Riesgo de Desastres",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 262,
+      "titulo": "Afirmación falsa sobre déficit del fondo de gasolina",
+      "categoria": "mentiras",
+      "fecha": "2026-01-30",
+      "descripcion": "Se verificó como engañosa la afirmación de que el gobierno Duque dejó un déficit de $70 billones en el fondo de la gasolina. La realidad es que para 2022 el déficit fue de $36 billones, y Duque pagó lo que le correspondía hasta el final de su mandato: $6 billones de pesos. Esta información falsa distorsiona el debate público sobre las finanzas del sector energético.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/otra-vez-duque-no-dejo-deficit-de-70-billones-en-el-fondo-de-la-gasolina/",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios del gobierno actual"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 261,
+      "titulo": "Denuncia de participación indebida de funcionarios en política electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-29",
+      "descripcion": "El candidato Lizcano denunció que el presidente Petro y dos alcaldes están apoyando 'de frente' a dos candidatos presidenciales, violando presuntamente las normas que prohíben a los funcionarios públicos participar en política. Pidió garantías al Procurador para las elecciones, cuestionando dónde está la ley que obliga a que los funcionarios no participen en política.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/lizcano-le-pidio-al-procurador-garantias-en-las-elecciones-donde-esta-la-ley-que-obliga-a-que-los-funcionarios-no-puedan-participar-en-politica-3528234",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Lizcano",
+        "Dos alcaldes no identificados"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
+      "id": 260,
+      "titulo": "Incumplimiento masivo en reporte de gastos de campañas electorales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-01-29",
+      "descripcion": "Solo el 5% de los candidatos al Congreso han cumplido con la obligación legal de reportar sus gastos e ingresos de campaña. Ningún aspirante presidencial por firmas ha informado sus movimientos financieros, pese a tener la obligación legal de hacerlo. Esta falta de transparencia impide el control sobre el uso de recursos en las campañas políticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/advierten-que-el-reporte-de-gastos-e-ingresos-de-campanas-al-congreso-ha-sido-casi-nulo-solo-el-5-de-los-candidatos-lo-ha-hecho-3528326",
+          "fecha": "2026-01-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Candidatos presidenciales por firmas",
+        "Candidatos al Congreso"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-30 06:36"
+    },
+    {
       "id": 259,
       "titulo": "Controversia por interventores de EPS con presuntos desvíos",
       "categoria": "corrupcion",
