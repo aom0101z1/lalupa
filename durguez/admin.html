@@ -1273,6 +1273,78 @@
                             <span id="configSaveStatus" class="config-status"></span>
                         </div>
                     </div>
+
+                    <!-- Meeting Date/Time Configuration -->
+                    <div class="config-card" style="margin-top: 20px;">
+                        <h4>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: middle; margin-right: 8px;">
+                                <circle cx="12" cy="12" r="10"/>
+                                <polyline points="12 6 12 12 16 14"/>
+                            </svg>
+                            Fecha y Hora de la Reunión
+                        </h4>
+                        <p style="color: rgba(255,255,255,0.7); margin-bottom: 15px; font-size: 14px;">
+                            Configura la fecha y hora del evento. Esta información se mostrará en el cronómetro de cuenta regresiva.
+                        </p>
+
+                        <div class="form-row" style="gap: 15px; margin-bottom: 15px;">
+                            <div class="control-group" style="flex: 1;">
+                                <label class="control-label">Fecha del Evento</label>
+                                <input type="date" id="configMeetingDate" class="control-input" value="2026-02-28">
+                            </div>
+                            <div class="control-group" style="flex: 1;">
+                                <label class="control-label">Hora del Evento</label>
+                                <input type="time" id="configMeetingTime" class="control-input" value="19:00">
+                            </div>
+                        </div>
+
+                        <div class="control-group" style="margin-bottom: 15px;">
+                            <label class="control-label">Título del Evento</label>
+                            <input type="text" id="configMeetingTitle" class="control-input" placeholder="Ej: Gran Reunión Virtual con Durguez" value="Gran Reunión Virtual con José Durguez">
+                        </div>
+
+                        <div class="control-group" style="margin-bottom: 15px;">
+                            <label class="control-label">Descripción (para Google Calendar)</label>
+                            <textarea id="configMeetingDescription" class="control-input" rows="2" placeholder="Descripción del evento..." style="resize: vertical;">Únete a la gran reunión virtual con José Durguez. ¡Tu voto cuenta! Centro Democrático - 101</textarea>
+                        </div>
+
+                        <div class="config-preview" style="margin-bottom: 15px;">
+                            <h5>Vista Previa del Cronómetro</h5>
+                            <div id="countdownPreview" style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); padding: 20px; border-radius: 10px; text-align: center;">
+                                <div style="color: rgba(255,255,255,0.8); font-size: 14px; margin-bottom: 10px;">Faltan para el evento:</div>
+                                <div id="previewCountdown" style="display: flex; justify-content: center; gap: 15px;">
+                                    <div style="text-align: center;">
+                                        <div style="font-size: 32px; font-weight: bold; color: #ffeb3b;" id="previewDays">00</div>
+                                        <div style="font-size: 11px; color: rgba(255,255,255,0.7);">DÍAS</div>
+                                    </div>
+                                    <div style="text-align: center;">
+                                        <div style="font-size: 32px; font-weight: bold; color: #fff;" id="previewHours">00</div>
+                                        <div style="font-size: 11px; color: rgba(255,255,255,0.7);">HORAS</div>
+                                    </div>
+                                    <div style="text-align: center;">
+                                        <div style="font-size: 32px; font-weight: bold; color: #fff;" id="previewMinutes">00</div>
+                                        <div style="font-size: 11px; color: rgba(255,255,255,0.7);">MINUTOS</div>
+                                    </div>
+                                    <div style="text-align: center;">
+                                        <div style="font-size: 32px; font-weight: bold; color: #fff;" id="previewSeconds">00</div>
+                                        <div style="font-size: 11px; color: rgba(255,255,255,0.7);">SEGUNDOS</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="config-actions">
+                            <button class="btn btn-primary" onclick="saveMeetingConfig()">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/>
+                                    <polyline points="17 21 17 13 7 13 7 21"/>
+                                    <polyline points="7 3 7 8 15 8"/>
+                                </svg>
+                                Guardar Fecha y Hora
+                            </button>
+                            <span id="meetingSaveStatus" class="config-status"></span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1476,6 +1548,7 @@
                 loadData();
                 loadLeaders();
                 loadFormConfig();
+                loadMeetingConfig();
             } else {
                 // User is signed out
                 document.getElementById('loginScreen').classList.remove('hidden');
@@ -1592,6 +1665,109 @@
         ['configNombre', 'configCedula', 'configTelefono', 'configEmail'].forEach(id => {
             document.getElementById(id).addEventListener('change', updateConfigPreview);
         });
+
+        // Meeting configuration
+        let meetingConfig = {
+            date: '2026-02-28',
+            time: '19:00',
+            title: 'Gran Reunión Virtual con José Durguez',
+            description: 'Únete a la gran reunión virtual con José Durguez. ¡Tu voto cuenta! Centro Democrático - 101'
+        };
+
+        // Load meeting configuration
+        async function loadMeetingConfig() {
+            try {
+                const docRef = doc(db, 'settings', 'meetingConfig');
+                const docSnap = await getDoc(docRef);
+
+                if (docSnap.exists()) {
+                    meetingConfig = { ...meetingConfig, ...docSnap.data() };
+                }
+
+                // Update UI
+                document.getElementById('configMeetingDate').value = meetingConfig.date || '2026-02-28';
+                document.getElementById('configMeetingTime').value = meetingConfig.time || '19:00';
+                document.getElementById('configMeetingTitle').value = meetingConfig.title || '';
+                document.getElementById('configMeetingDescription').value = meetingConfig.description || '';
+
+                updateCountdownPreview();
+            } catch (error) {
+                console.error('Error loading meeting config:', error);
+            }
+        }
+
+        // Save meeting configuration
+        window.saveMeetingConfig = async function() {
+            const statusEl = document.getElementById('meetingSaveStatus');
+            statusEl.textContent = 'Guardando...';
+            statusEl.className = 'config-status';
+
+            try {
+                meetingConfig = {
+                    date: document.getElementById('configMeetingDate').value,
+                    time: document.getElementById('configMeetingTime').value,
+                    title: document.getElementById('configMeetingTitle').value,
+                    description: document.getElementById('configMeetingDescription').value,
+                    updatedAt: serverTimestamp()
+                };
+
+                const docRef = doc(db, 'settings', 'meetingConfig');
+                await setDoc(docRef, meetingConfig);
+
+                statusEl.textContent = '✓ Fecha y hora guardadas';
+                statusEl.className = 'config-status';
+
+                setTimeout(() => {
+                    statusEl.textContent = '';
+                }, 3000);
+            } catch (error) {
+                console.error('Error saving meeting config:', error);
+                statusEl.textContent = '✗ Error al guardar';
+                statusEl.className = 'config-status error';
+            }
+        };
+
+        // Update countdown preview
+        function updateCountdownPreview() {
+            const date = document.getElementById('configMeetingDate').value;
+            const time = document.getElementById('configMeetingTime').value;
+
+            if (!date || !time) return;
+
+            const targetDate = new Date(`${date}T${time}:00`);
+
+            function updatePreview() {
+                const now = new Date();
+                const diff = targetDate - now;
+
+                if (diff <= 0) {
+                    document.getElementById('previewDays').textContent = '00';
+                    document.getElementById('previewHours').textContent = '00';
+                    document.getElementById('previewMinutes').textContent = '00';
+                    document.getElementById('previewSeconds').textContent = '00';
+                    return;
+                }
+
+                const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+                document.getElementById('previewDays').textContent = days.toString().padStart(2, '0');
+                document.getElementById('previewHours').textContent = hours.toString().padStart(2, '0');
+                document.getElementById('previewMinutes').textContent = minutes.toString().padStart(2, '0');
+                document.getElementById('previewSeconds').textContent = seconds.toString().padStart(2, '0');
+            }
+
+            updatePreview();
+            // Update every second
+            if (window.countdownPreviewInterval) clearInterval(window.countdownPreviewInterval);
+            window.countdownPreviewInterval = setInterval(updatePreview, 1000);
+        }
+
+        // Update preview when date/time changes
+        document.getElementById('configMeetingDate').addEventListener('change', updateCountdownPreview);
+        document.getElementById('configMeetingTime').addEventListener('change', updateCountdownPreview);
 
         // Format date
         function formatDate(timestamp) {

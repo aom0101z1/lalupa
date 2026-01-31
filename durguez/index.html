@@ -555,6 +555,122 @@
                 flex-direction: column;
             }
         }
+
+        /* Countdown Timer Styles */
+        .countdown-section {
+            background: linear-gradient(135deg, #1a237e 0%, #283593 100%);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 24px;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(26, 35, 126, 0.3);
+        }
+
+        .countdown-title {
+            color: #fff;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .countdown-event-name {
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 0.85rem;
+            margin-bottom: 16px;
+        }
+
+        .countdown-timer {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .countdown-item {
+            text-align: center;
+            min-width: 60px;
+        }
+
+        .countdown-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #ffeb3b;
+            line-height: 1;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .countdown-value.secondary {
+            color: #fff;
+        }
+
+        .countdown-label {
+            font-size: 0.65rem;
+            color: rgba(255, 255, 255, 0.7);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 4px;
+        }
+
+        .countdown-separator {
+            font-size: 2rem;
+            color: rgba(255, 255, 255, 0.4);
+            font-weight: 300;
+            align-self: flex-start;
+            margin-top: 2px;
+        }
+
+        .btn-google-calendar {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            background: #fff;
+            color: #1a237e;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .btn-google-calendar:hover {
+            background: #f5f5f5;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+
+        .btn-google-calendar svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        .countdown-expired {
+            color: #ffeb3b;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        @media (max-width: 480px) {
+            .countdown-timer {
+                gap: 8px;
+            }
+            .countdown-item {
+                min-width: 50px;
+            }
+            .countdown-value {
+                font-size: 1.6rem;
+            }
+            .countdown-separator {
+                font-size: 1.6rem;
+            }
+            .btn-google-calendar {
+                padding: 10px 16px;
+                font-size: 0.85rem;
+            }
+        }
     </style>
 </head>
 <body>
@@ -573,6 +689,44 @@
     </header>
 
     <div class="container">
+
+        <!-- Countdown Timer -->
+        <div id="countdownSection" class="countdown-section">
+            <div class="countdown-title">Faltan para el evento:</div>
+            <div id="countdownEventName" class="countdown-event-name">Gran Reunión Virtual con José Durguez</div>
+
+            <div id="countdownTimer" class="countdown-timer">
+                <div class="countdown-item">
+                    <div class="countdown-value" id="countdownDays">00</div>
+                    <div class="countdown-label">Días</div>
+                </div>
+                <span class="countdown-separator">:</span>
+                <div class="countdown-item">
+                    <div class="countdown-value secondary" id="countdownHours">00</div>
+                    <div class="countdown-label">Horas</div>
+                </div>
+                <span class="countdown-separator">:</span>
+                <div class="countdown-item">
+                    <div class="countdown-value secondary" id="countdownMinutes">00</div>
+                    <div class="countdown-label">Minutos</div>
+                </div>
+                <span class="countdown-separator">:</span>
+                <div class="countdown-item">
+                    <div class="countdown-value secondary" id="countdownSeconds">00</div>
+                    <div class="countdown-label">Segundos</div>
+                </div>
+            </div>
+
+            <a id="addToCalendarBtn" href="#" target="_blank" class="btn-google-calendar">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                    <line x1="16" y1="2" x2="16" y2="6"/>
+                    <line x1="8" y1="2" x2="8" y2="6"/>
+                    <line x1="3" y1="10" x2="21" y2="10"/>
+                </svg>
+                Agregar a Google Calendar
+            </a>
+        </div>
 
         <!-- Step 1: Code Verification -->
         <div id="step1" class="card">
@@ -807,6 +961,14 @@
             email: false
         };
 
+        // Meeting configuration (loaded from Firestore)
+        let meetingConfig = {
+            date: '2026-02-28',
+            time: '19:00',
+            title: 'Gran Reunión Virtual con José Durguez',
+            description: 'Únete a la gran reunión virtual con José Durguez. ¡Tu voto cuenta! Centro Democrático - 101'
+        };
+
         // Load form configuration from Firestore
         async function loadFormConfig() {
             try {
@@ -820,6 +982,96 @@
                 applyFormConfig();
             } catch (error) {
                 console.error('Error loading form config:', error);
+            }
+        }
+
+        // Load meeting configuration from Firestore
+        async function loadMeetingConfig() {
+            try {
+                const docRef = doc(db, 'settings', 'meetingConfig');
+                const docSnap = await getDoc(docRef);
+
+                if (docSnap.exists()) {
+                    meetingConfig = { ...meetingConfig, ...docSnap.data() };
+                }
+
+                // Update event name
+                const eventNameEl = document.getElementById('countdownEventName');
+                if (eventNameEl && meetingConfig.title) {
+                    eventNameEl.textContent = meetingConfig.title;
+                }
+
+                // Start countdown
+                startCountdown();
+
+                // Update Google Calendar link
+                updateCalendarLink();
+            } catch (error) {
+                console.error('Error loading meeting config:', error);
+                // Start countdown with defaults anyway
+                startCountdown();
+                updateCalendarLink();
+            }
+        }
+
+        // Start the countdown timer
+        function startCountdown() {
+            const targetDate = new Date(`${meetingConfig.date}T${meetingConfig.time}:00`);
+
+            function updateCountdown() {
+                const now = new Date();
+                const diff = targetDate - now;
+
+                const timerEl = document.getElementById('countdownTimer');
+                const sectionEl = document.getElementById('countdownSection');
+
+                if (diff <= 0) {
+                    // Event has started or passed
+                    if (timerEl) {
+                        timerEl.innerHTML = '<div class="countdown-expired">¡El evento ya comenzó!</div>';
+                    }
+                    return;
+                }
+
+                const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+                document.getElementById('countdownDays').textContent = days.toString().padStart(2, '0');
+                document.getElementById('countdownHours').textContent = hours.toString().padStart(2, '0');
+                document.getElementById('countdownMinutes').textContent = minutes.toString().padStart(2, '0');
+                document.getElementById('countdownSeconds').textContent = seconds.toString().padStart(2, '0');
+            }
+
+            updateCountdown();
+            setInterval(updateCountdown, 1000);
+        }
+
+        // Generate Google Calendar URL
+        function updateCalendarLink() {
+            const startDate = new Date(`${meetingConfig.date}T${meetingConfig.time}:00`);
+            const endDate = new Date(startDate.getTime() + (2 * 60 * 60 * 1000)); // 2 hours duration
+
+            // Format dates for Google Calendar (YYYYMMDDTHHmmss)
+            const formatDate = (d) => {
+                return d.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, '');
+            };
+
+            const params = new URLSearchParams({
+                action: 'TEMPLATE',
+                text: meetingConfig.title || 'Reunión Virtual con Durguez',
+                dates: `${formatDate(startDate)}/${formatDate(endDate)}`,
+                details: meetingConfig.description || '',
+                location: 'Evento Virtual (Zoom)',
+                ctz: 'America/Bogota'
+            });
+
+            const calendarUrl = `https://calendar.google.com/calendar/render?${params.toString()}`;
+
+            const calendarBtn = document.getElementById('addToCalendarBtn');
+            if (calendarBtn) {
+                calendarBtn.href = calendarUrl;
             }
         }
 
@@ -967,9 +1219,10 @@
             return null;
         }
 
-        // Initialize: load leader codes and form config on page load
+        // Initialize: load leader codes, form config, and meeting config on page load
         loadLeaderCodes();
         loadFormConfig();
+        loadMeetingConfig();
 
         async function checkExistingRegistration(cedula) {
             const q = query(
