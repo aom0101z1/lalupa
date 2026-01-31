@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 279,
+      "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
+      "categoria": "mentiras",
+      "fecha": "2026-01-31",
+      "descripcion": "El exministro Reyes publicó un chat donde el presidente Petro le pidió no aplicar el decreto a contratos previos de carbón con Israel, contradiciendo las acusaciones públicas que el presidente había hecho contra Reyes. Este caso evidencia una contradicción entre las declaraciones públicas del mandatario y sus instrucciones privadas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/reyes-contradice-a-petro-y-muestra-orden-de-mantener-contratos-con-israel/",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Andrés Reyes"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-01-31 18:19"
+    },
+    {
+      "id": 278,
+      "titulo": "Coroneles de Policía se rebelan contra órdenes de ir a zonas de crisis",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-31",
+      "descripcion": "El director de la Policía Nacional, general Rincón, reveló en un audio la 'rebeldía' de coroneles que se niegan a ir a zonas con crisis de orden público. Esta situación expone una ruptura en la unidad de mando y afecta la autoridad institucional y el control territorial, comprometiendo la capacidad operativa de la institución en áreas críticas del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-audio-del-director-de-la-policia-que-expone-la-rebeldia-de-coroneles-para-ir-a-zonas-con-crisis-de-orden-publico-ruptura-en-la-unidad-de-mando-3528678",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "General Rincón"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-01-31 18:19"
+    },
+    {
       "id": 277,
       "titulo": "Presidente Petro comparte video falso generado por inteligencia artificial",
       "categoria": "mentiras",
