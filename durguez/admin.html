@@ -1073,7 +1073,7 @@
                         Generación Masiva de Códigos CD101
                     </h3>
                     <p style="color: rgba(255,255,255,0.8); margin-bottom: 15px; font-size: 14px;">
-                        Genera múltiples códigos de una vez. Formato: <strong>CD101-001</strong>, <strong>CD101-002</strong>, etc.
+                        Genera múltiples códigos de una vez. Formato: <strong>CD101-0001</strong>, <strong>CD101-002</strong>, etc.
                         Los códigos quedan "Sin asignar" y puedes editarlos después para agregar los datos del líder.
                     </p>
                     <div class="form-row" style="align-items: flex-end;">
@@ -1385,12 +1385,12 @@
             }
         }
 
-        // Generate next sequential code (CD101-001, CD101-002, etc.)
+        // Generate next sequential code (CD101-0001, CD101-002, etc.)
         async function generateUniqueCode() {
             try {
                 // Get all existing codes to find the highest number
                 const snapshot = await getDocs(collection(db, LIDERES_COLLECTION));
-                let maxNumber = 0; // Start at 0, so first code is CD101-001
+                let maxNumber = 0; // Start at 0, so first code is CD101-0001
 
                 snapshot.forEach(doc => {
                     const code = doc.data().code;
@@ -1403,11 +1403,11 @@
                 });
 
                 // Format with leading zeros (001, 002, etc.)
-                const nextNum = (maxNumber + 1).toString().padStart(3, '0');
+                const nextNum = (maxNumber + 1).toString().padStart(4, '0');
                 return 'CD101-' + nextNum;
             } catch (error) {
                 console.error('Error generating code:', error);
-                return 'CD101-001';
+                return 'CD101-0001';
             }
         }
 
@@ -1431,7 +1431,7 @@
                 const now = new Date();
 
                 for (let i = 1; i <= quantity; i++) {
-                    const nextNum = (maxNumber + i).toString().padStart(3, '0');
+                    const nextNum = (maxNumber + i).toString().padStart(4, '0');
                     const code = 'CD101-' + nextNum;
 
                     await addDoc(collection(db, LIDERES_COLLECTION), {
@@ -1962,7 +1962,7 @@
                 const batchSize = 10; // Process in batches of 10
 
                 for (let i = 1; i <= quantity; i++) {
-                    const nextNum = (maxNumber + i).toString().padStart(3, '0');
+                    const nextNum = (maxNumber + i).toString().padStart(4, '0');
                     const code = 'CD101-' + nextNum;
 
                     await addDoc(collection(db, LIDERES_COLLECTION), {
