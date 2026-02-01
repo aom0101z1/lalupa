@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 282,
+      "titulo": "Contradicción entre Petro y ministro Reyes sobre contratos con Israel",
+      "categoria": "mentiras",
+      "fecha": "2026-01-31",
+      "descripcion": "El ministro Andrés Camacho Reyes contradijo públicamente al presidente Petro mediante un chat donde muestra que el mandatario ordenó no aplicar el decreto de suspensión a contratos previos de carbón con Israel, contradiciendo las acusaciones públicas que Petro había hecho sobre el manejo de estos contratos. Esto evidencia inconsistencias en las declaraciones presidenciales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/reyes-contradice-a-petro-y-muestra-orden-de-mantener-contratos-con-israel/",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Andrés Camacho Reyes"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 01:24"
+    },
+    {
+      "id": 281,
+      "titulo": "Crisis de autoridad en la Policía por negativa de coroneles a ir a zonas conflictivas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-31",
+      "descripcion": "Un audio del director de la Policía, general Rincón, expone que varios coroneles se han negado a ser trasladados a zonas con crisis de orden público, evidenciando una ruptura en la unidad de mando y compromitiendo el control territorial. Esta situación representa una crisis de autoridad dentro de la institución policial que afecta la seguridad nacional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-audio-del-director-de-la-policia-que-expone-la-rebeldia-de-coroneles-para-ir-a-zonas-con-crisis-de-orden-publico-ruptura-en-la-unidad-de-mando-3528678",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "General Rincón"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 01:24"
+    },
+    {
+      "id": 280,
+      "titulo": "Armando Benedetti recupera visa estadounidense tras escándalos diplomáticos",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-30",
+      "descripcion": "El exembajador Armando Benedetti, quien enfrentó múltiples escándalos durante su gestión diplomática y perdió su visa a Estados Unidos, la ha recuperado y podría hacer parte de la delegación presidencial que acompañe a Petro en su reunión con Trump. Esto genera interrogantes sobre las consecuencias de los escándalos previos y su idoneidad para representar al país en misiones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/armando-benedetti-recupera-visa-a-los-estados-unidos-hara-parte-de-la-delegacion-que-acompane-al-presidente-gustavo-petro-a-reunion-con-trump-3528555",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 01:24"
+    },
+    {
       "id": 279,
       "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
       "categoria": "mentiras",
