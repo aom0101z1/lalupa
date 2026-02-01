@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 284,
+      "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
+      "categoria": "mentiras",
+      "fecha": "2026-01-31",
+      "descripcion": "El ministro de Minas, Andrés Reyes, publicó un chat donde Petro pidió no aplicar el decreto a contratos previos de carbón con Israel, contradiciendo las acusaciones públicas del presidente. Esta contradicción evidencia inconsistencias en las declaraciones oficiales del gobierno sobre las relaciones comerciales con Israel.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/reyes-contradice-a-petro-y-muestra-orden-de-mantener-contratos-con-israel/",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Andrés Reyes"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 06:38"
+    },
+    {
+      "id": 283,
+      "titulo": "Petro ordena extradición de alias Pipe Tuluá por presunta compra de funcionarios",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-31",
+      "descripcion": "El presidente Gustavo Petro ordenó al ministro de Justicia extraditar a alias Pipe Tuluá en un intento de frenar la compra de funcionarios y la dilación del proceso judicial. La orden presidencial se produce en medio de solicitudes de negociación, recursos jurídicos pendientes y presión contra la banda La Inmaculada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-petro-ordena-al-ministro-de-justicia-extraditar-a-alias-pipe-tulua-en-un-intento-de-frenar-compra-de-funcionarios-y-dilacion-del-proceso-3528796",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "alias Pipe Tuluá"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 06:38"
+    },
+    {
       "id": 282,
       "titulo": "Contradicción entre Petro y ministro Reyes sobre contratos con Israel",
       "categoria": "mentiras",
