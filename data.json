@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 288,
+      "titulo": "Intento de soborno de 'Pipe Tuluá' para evitar extradición",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Petro denunció públicamente que alias 'Pipe Tuluá', líder de la organización criminal 'La Inmaculada', intentó sobornar a funcionarios para evitar su extradición a Estados Unidos. El narcotraficante está preso desde 2015 y condenado a 30 años de cárcel, pero ha estado dilando su proceso de extradición presuntamente a través de la corrupción de funcionarios del sistema judicial.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-acusa-a-pipe-tulua-de-intento-de-soborno-para-evitar-extradicion/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Alias Pipe Tuluá"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 18:22"
+    },
+    {
+      "id": 287,
+      "titulo": "Contratación masiva del Gobierno Petro antes de Ley de Garantías",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-01",
+      "descripcion": "El gobierno de Petro realizó 9.282 nombramientos y 213 contratos con empresas por valor de $1,3 billones en apenas 30 días, justo antes de que entrara en vigencia la Ley de Garantías que prohíbe hacer contratos directos durante período electoral. Esta práctica sugiere un aprovechamiento del último momento disponible para realizar contratación masiva sin las restricciones normales del proceso electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-petro-contrato-13-billones-en-30-dias-antes-de-ley-de-garantias/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 18:22"
+    },
+    {
       "id": 286,
       "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
       "categoria": "mentiras",
