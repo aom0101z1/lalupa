@@ -66,6 +66,94 @@
   ],
   "casos": [
     {
+      "id": 302,
+      "titulo": "Tercer contrato de pasaportes por 185.000 millones antes de ley de garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Cancillería firmó por tercera vez un contrato para la expedición de pasaportes por valor de 185.000 millones de pesos. La firma se realizó días antes de que entrara en vigencia la ley de garantías electorales, lo que genera suspicacias sobre el timing de la adjudicación de este millonario contrato.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/por-tercera-vez-cancilleria-firma-contrato-para-expedicion-de-pasaportes/",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 301,
+      "titulo": "Demanda de pérdida de investidura por casos UNGRD e Invías",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-02",
+      "descripcion": "El Consejo de Estado admitió demanda de pérdida de investidura contra Martha Peralta y 8 congresistas más por los casos de corrupción en la UNGRD e Invías. La demanda fue interpuesta por el abogado Pablo Bustos de la Red de Veedurías de Colombia contra estos funcionarios involucrados en escándalos de corrupción.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-admite-demanda-de-perdida-de-investidura-contra-martha-peralta-y-8-congresistas-por-caso-ungrd-e-invias-3529083",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta"
+      ],
+      "entidad": "UNGRD, Invías",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 300,
+      "titulo": "Exembajador en Ghana acusado de violencia sexual",
+      "categoria": "diplomaticos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Fiscalía llamó a juicio a Daniel Garcés Carabalí, exembajador de Colombia en Ghana, por supuesta violencia sexual contra su expareja. Fue acusado por violencia intrafamiliar agravada, acceso carnal violento, fraude procesal y ejercicio arbitrario de la custodia de un menor.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-llama-a-juicio-a-daniel-garces-carabali-exembajador-de-colombia-en-ghana-por-supuesta-violencia-sexual-contra-su-expareja-3529009",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Garcés Carabalí"
+      ],
+      "entidad": "Embajada de Colombia en Ghana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 299,
+      "titulo": "Irregularidades por 28.000 millones de pesos en impuesto al turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría detectó irregularidades en el manejo del impuesto al turismo que ascienden a más de 28.000 millones de pesos. Se identificaron fallas en el control ejercido por la DIAN y deficiencias en la fiscalización tributaria de estos recursos públicos destinados al sector turístico.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/irregularidades-en-el-manejo-del-impuesto-al-turismo-se-tasan-en-mas-de-28-000-millones-de-pesos-contraloria-3529026",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
       "id": 298,
       "titulo": "Roy Barreras contrata asesor investigado por terrorismo y corrupción",
       "categoria": "conflicto-interes",
