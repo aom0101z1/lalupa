@@ -66,6 +66,79 @@
   ],
   "casos": [
     {
+      "id": 298,
+      "titulo": "Roy Barreras contrata asesor investigado por terrorismo y corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "Roy Barreras sumó a Xavier Vendrell como asesor de su campaña presidencial. Vendrell es un estratega catalán que trabajó en la campaña de Gustavo Petro en 2022 y ha sido investigado por terrorismo y corrupción en España. La contratación de una persona con antecedentes judiciales genera interrogantes sobre conflictos de interés.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/roy-barreras-suma-a-xavier-vendrell-como-asesor-de-su-campana/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Xavier Vendrell"
+      ],
+      "entidad": "Campaña presidencial Roy Barreras",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 12:37"
+    },
+    {
+      "id": 297,
+      "titulo": "Apartan fiscal del caso Laura Sarabia por conflicto de interés",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-02",
+      "descripcion": "El fiscal Juan Carlos Arias fue apartado del caso contra Laura Sarabia por tener amistad con el abogado defensor. La fiscal general Luz Adriana Camargo aceptó el impedimento elevado por el investigador. Este caso evidencia un conflicto de interés que podría haber comprometido la imparcialidad del proceso judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/apartan-al-fiscal-del-caso-contra-laura-sarabia-por-la-amistad-que-tiene-con-el-abogado-defensor-3528876",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Arias",
+        "Laura Sarabia",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 12:37"
+    },
+    {
+      "id": 296,
+      "titulo": "Petro interviene en proceso electoral del CNE sobre candidatura de Iván Cepeda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Gustavo Petro tomó partido públicamente en el debate jurídico sobre si Iván Cepeda puede participar en la consulta presidencial de marzo, interviniendo en un proceso electoral en curso ante el CNE. Esta intervención presidencial en asuntos electorales constituye una posible extralimitación de funciones del ejecutivo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-vuelve-a-intervenir-en-politica-electoral-por-proceso-en-el-cne-sobre-postulacion-de-ivan-cepeda-en-la-consulta-del-8-de-marzo-3528866",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Iván Cepeda"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 12:37"
+    },
+    {
       "id": 295,
       "titulo": "Petro acusa intento de soborno de 'Pipe Tuluá' para evitar extradición",
       "categoria": "corrupcion",
