@@ -66,6 +66,102 @@
   ],
   "casos": [
     {
+      "id": 295,
+      "titulo": "Petro acusa intento de soborno de 'Pipe Tuluá' para evitar extradición",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Gustavo Petro acusó a 'Pipe Tuluá', líder de 'La Inmaculada' (organización criminal del Valle), de intento de soborno para evitar su extradición. El criminal, preso desde 2015 y condenado a 30 años de cárcel, habría intentado corromper funcionarios para detener el proceso de extradición a Estados Unidos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-acusa-a-pipe-tulua-de-intento-de-soborno-para-evitar-extradicion/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Pipe Tuluá"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 294,
+      "titulo": "Gobierno Petro contrató $1,3 billones en 30 días antes de Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-01",
+      "descripcion": "El gobierno de Gustavo Petro realizó 9.282 nombramientos y 213 contratos con empresas por valor de $1,3 billones en 10 entidades durante los 30 días previos a la entrada en vigor de la Ley de Garantías, que prohíbe hacer contratos directos. Esta práctica genera sospechas sobre la urgencia y transparencia de estas contrataciones.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-petro-contrato-13-billones-en-30-dias-antes-de-ley-de-garantias/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 293,
+      "titulo": "Roy Barreras contrata asesor investigado por terrorismo y corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "Roy Barreras sumó como asesor de su campaña presidencial a Xavier Vendrell, un polémico estratega catalán que fue parte de la campaña de Gustavo Petro en 2022 y que ha sido investigado por terrorismo y corrupción en España. La contratación de una persona con este historial judicial genera preocupaciones sobre conflictos de interés.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/roy-barreras-suma-a-xavier-vendrell-como-asesor-de-su-campana/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Xavier Vendrell"
+      ],
+      "entidad": "Campaña presidencial de Roy Barreras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 292,
+      "titulo": "Apartan al fiscal del caso contra Laura Sarabia por conflicto de interés",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "La fiscal general, Luz Adriana Camargo, aceptó el impedimento que elevó el investigador Juan Carlos Arias en el caso contra Laura Sarabia debido a la amistad que tiene con el abogado defensor. Esto evidencia un conflicto de interés que compromete la imparcialidad del proceso judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/apartan-al-fiscal-del-caso-contra-laura-sarabia-por-la-amistad-que-tiene-con-el-abogado-defensor-3528876",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Arias",
+        "Luz Adriana Camargo",
+        "Laura Sarabia"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
       "id": 291,
       "titulo": "Petro denuncia intento de soborno de 'Pipe Tuluá' para evitar extradición",
       "categoria": "corrupcion",
