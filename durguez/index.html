@@ -1164,12 +1164,23 @@
             }
         }
 
-        // Validate leader code against Firestore (optimized: only queries the specific code)
+        // =====================================================
+        // VALIDACIÓN DE CÓDIGO DE LÍDER - OPTIMIZADO
+        // =====================================================
+        // ANTES: Se cargaban TODOS los líderes activos al abrir la página
+        //        (ej: 2,000 líderes = 2,000 lecturas de Firestore por visitante)
+        //
+        // AHORA: Solo se consulta el código específico que ingresa el usuario
+        //        (1 lectura de Firestore por validación)
+        //
+        // Cambio realizado: 2026-02-03
+        // =====================================================
         async function validateLeaderCode(code) {
             const upperCode = code?.toUpperCase().trim();
             if (!upperCode) return null;
 
             try {
+                // Busca SOLO el código específico ingresado, no todos los líderes
                 const q = query(
                     collection(db, LIDERES_COLLECTION),
                     where('code', '==', upperCode),
