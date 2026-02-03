@@ -66,6 +66,92 @@
   ],
   "casos": [
     {
+      "id": 310,
+      "titulo": "Alcalde de San Vicente del Caguán se apropió de pago destinado a familia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Comisión de Disciplina Judicial de Caquetá le canceló la tarjeta profesional y le prohibió ejercer la abogacía al alcalde de San Vicente del Caguán por presuntamente apropiarse de un pago que estaba destinado a una familia. Este caso representa un claro ejemplo de malversación de recursos por parte de un funcionario público.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/alcalde-de-caqueta-presuntamente-se-apropio-de-pago-a-una-familia/",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de San Vicente del Caguán"
+      ],
+      "entidad": "Alcaldía de San Vicente del Caguán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 309,
+      "titulo": "Megaproyecto de turismo fluvial del gobierno Petro presenta graves retrasos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría reveló hallazgos inéditos sobre el megaproyecto de turismo a través de los ríos de Colombia, promesa del gobierno de Gustavo Petro. A corte de 2025, solo se ha construido el 5% de lo prometido, evidenciando un grave retraso en la ejecución y posible mal uso de recursos públicos destinados a esta iniciativa gubernamental.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-megaproyecto-de-turismo-a-traves-de-los-rios-de-colombia-esta-estancado-estos-son-los-hallazgos-ineditos-de-la-contraloria-3529126",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 308,
+      "titulo": "Pérdidas millonarias por fallas en sistema de cobro de Impuesto Nacional al Turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "Colombia está perdiendo miles de millones de pesos debido a fallas en el sistema de cobro del Impuesto Nacional al Turismo por parte de la DIAN. Los hallazgos fiscales de la Contraloría revelan que estos recursos no recaudados adecuadamente se hubieran podido invertir en otros sectores. El contralor delegado para el Comercio confirmó las deficiencias en el sistema de recaudo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-es-como-colombia-esta-perdiendo-plata-por-culpa-de-la-dian-y-su-sistema-de-cobro-al-impuesto-nacional-al-turismo-se-hubiera-podido-invertir-3529138",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 307,
+      "titulo": "Procuraduría identifica riesgos en megacontrato de IA del Ministerio de Ciencia",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Procuraduría encontró riesgos en el megacontrato para el desarrollo de Inteligencia Artificial del Ministerio de Ciencia, Tecnología e Innovación por valor de $630.000 millones. El órgano de control ya puso el ojo en la actividad contractual de este acuerdo público, identificando posibles irregularidades en su estructuración o ejecución.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estos-son-los-riesgos-que-la-procuraduria-encontro-en-el-megacontrato-para-el-desarrollo-de-inteligencia-artificial-del-ministerio-de-ciencia-3529220",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ciencia, Tecnología e Innovación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
       "id": 306,
       "titulo": "Audios comprometen a Barguil en presunta repartija de contratos",
       "categoria": "contratos",
