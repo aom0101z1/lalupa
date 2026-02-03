@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 314,
+      "titulo": "Corte Suprema niega libertad a Andrés Calle por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Corte Suprema de Justicia negó la libertad al expresidente de la Cámara de Representantes Andrés Calle, quien se encuentra detenido por su presunta participación en el escándalo de corrupción conocido como el 'saqueo a la UNGRD' (Unidad Nacional para la Gestión del Riesgo de Desastres). La Corte también evaluará su traslado a una guarnición militar por amenazas reportadas por su defensa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-nego-la-libertad-al-expresidente-de-la-camara-andres-calle-detenido-por-el-saqueo-a-la-ungrd-3529373",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Calle"
+      ],
+      "entidad": "UNGRD - Unidad Nacional para la Gestión del Riesgo de Desastres",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 18:43"
+    },
+    {
       "id": 313,
       "titulo": "Alcalde de San Vicente del Caguán sancionado por apropiación de dineros de familia",
       "categoria": "corrupcion",
