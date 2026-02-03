@@ -951,9 +951,6 @@
         const LIDERES_COLLECTION = 'lideres';
         const SETTINGS_DOC = 'formConfig';
 
-        // Cache for leader codes (loaded from Firestore)
-        let leaderCodesCache = {};
-
         // Form configuration (loaded from Firestore)
         let formConfig = {
             nombreCompleto: true,
@@ -1167,36 +1164,11 @@
             }
         }
 
-        // Load leader codes from Firestore
-        async function loadLeaderCodes() {
-            try {
-                const q = query(collection(db, LIDERES_COLLECTION), where('active', '==', true));
-                const snapshot = await getDocs(q);
-                leaderCodesCache = {};
-                snapshot.docs.forEach(doc => {
-                    const data = doc.data();
-                    leaderCodesCache[data.code] = {
-                        id: doc.id,
-                        name: data.nombre,
-                        ...data
-                    };
-                });
-                console.log('Leader codes loaded:', Object.keys(leaderCodesCache).length);
-            } catch (error) {
-                console.error('Error loading leader codes:', error);
-            }
-        }
-
-        // Validate leader code against Firestore data
+        // Validate leader code against Firestore (optimized: only queries the specific code)
         async function validateLeaderCode(code) {
             const upperCode = code?.toUpperCase().trim();
+            if (!upperCode) return null;
 
-            // First check cache
-            if (leaderCodesCache[upperCode]) {
-                return upperCode;
-            }
-
-            // If not in cache, query Firestore directly
             try {
                 const q = query(
                     collection(db, LIDERES_COLLECTION),
@@ -1205,12 +1177,6 @@
                 );
                 const snapshot = await getDocs(q);
                 if (!snapshot.empty) {
-                    const data = snapshot.docs[0].data();
-                    leaderCodesCache[upperCode] = {
-                        id: snapshot.docs[0].id,
-                        name: data.nombre,
-                        ...data
-                    };
                     return upperCode;
                 }
             } catch (error) {
@@ -1220,8 +1186,7 @@
             return null;
         }
 
-        // Initialize: load leader codes, form config, and meeting config on page load
-        loadLeaderCodes();
+        // Initialize: load form config and meeting config on page load
         loadFormConfig();
         loadMeetingConfig();
 
