@@ -66,6 +66,816 @@
   ],
   "casos": [
     {
+      "id": 314,
+      "titulo": "Corte Suprema niega libertad a Andrés Calle por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Corte Suprema de Justicia negó la libertad al expresidente de la Cámara de Representantes Andrés Calle, quien se encuentra detenido por su presunta participación en el escándalo de corrupción conocido como el 'saqueo a la UNGRD' (Unidad Nacional para la Gestión del Riesgo de Desastres). La Corte también evaluará su traslado a una guarnición militar por amenazas reportadas por su defensa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-nego-la-libertad-al-expresidente-de-la-camara-andres-calle-detenido-por-el-saqueo-a-la-ungrd-3529373",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Calle"
+      ],
+      "entidad": "UNGRD - Unidad Nacional para la Gestión del Riesgo de Desastres",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 18:43"
+    },
+    {
+      "id": 313,
+      "titulo": "Alcalde de San Vicente del Caguán sancionado por apropiación de dineros de familia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Comisión de Disciplina Judicial de Caquetá le canceló la tarjeta profesional y le prohibió ejercer la abogacía al alcalde de San Vicente del Caguán por presuntamente apropiarse de un pago destinado a una familia. La sanción disciplinaria confirma irregularidades en el manejo de recursos por parte del mandatario local.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/alcalde-de-caqueta-presuntamente-se-apropio-de-pago-a-una-familia/",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de San Vicente del Caguán"
+      ],
+      "entidad": "Alcaldía de San Vicente del Caguán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-03 12:37"
+    },
+    {
+      "id": 312,
+      "titulo": "DIAN pierde miles de millones por fallas en sistema de cobro del Impuesto Nacional al Turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "Colombia está perdiendo miles de millones de pesos debido a fallas en el sistema de cobro del Impuesto Nacional al Turismo manejado por la DIAN. Los hallazgos fiscales de la Contraloría superan los miles de millones que se hubieran podido invertir. El contralor delegado para el Comercio confirmó las deficiencias en el sistema de recaudo tributario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-es-como-colombia-esta-perdiendo-plata-por-culpa-de-la-dian-y-su-sistema-de-cobro-al-impuesto-nacional-al-turismo-se-hubiera-podido-invertir-3529138",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 12:37"
+    },
+    {
+      "id": 311,
+      "titulo": "Procuraduría identifica riesgos en megacontrato de IA del MinCiencias por $630.000 millones",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Procuraduría General encontró riesgos en el megacontrato para el desarrollo de Inteligencia Artificial del Ministerio de Ciencia, Tecnología e Innovación por un valor de $630.000 millones. El órgano de control ya puso vigilancia sobre esta actividad contractual debido a las irregularidades identificadas en el proceso de contratación pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estos-son-los-riesgos-que-la-procuraduria-encontro-en-el-megacontrato-para-el-desarrollo-de-inteligencia-artificial-del-ministerio-de-ciencia-3529220",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ciencia, Tecnología e Innovación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 12:37"
+    },
+    {
+      "id": 310,
+      "titulo": "Alcalde de San Vicente del Caguán se apropió de pago destinado a familia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Comisión de Disciplina Judicial de Caquetá le canceló la tarjeta profesional y le prohibió ejercer la abogacía al alcalde de San Vicente del Caguán por presuntamente apropiarse de un pago que estaba destinado a una familia. Este caso representa un claro ejemplo de malversación de recursos por parte de un funcionario público.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/alcalde-de-caqueta-presuntamente-se-apropio-de-pago-a-una-familia/",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de San Vicente del Caguán"
+      ],
+      "entidad": "Alcaldía de San Vicente del Caguán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 309,
+      "titulo": "Megaproyecto de turismo fluvial del gobierno Petro presenta graves retrasos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría reveló hallazgos inéditos sobre el megaproyecto de turismo a través de los ríos de Colombia, promesa del gobierno de Gustavo Petro. A corte de 2025, solo se ha construido el 5% de lo prometido, evidenciando un grave retraso en la ejecución y posible mal uso de recursos públicos destinados a esta iniciativa gubernamental.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-megaproyecto-de-turismo-a-traves-de-los-rios-de-colombia-esta-estancado-estos-son-los-hallazgos-ineditos-de-la-contraloria-3529126",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 308,
+      "titulo": "Pérdidas millonarias por fallas en sistema de cobro de Impuesto Nacional al Turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "Colombia está perdiendo miles de millones de pesos debido a fallas en el sistema de cobro del Impuesto Nacional al Turismo por parte de la DIAN. Los hallazgos fiscales de la Contraloría revelan que estos recursos no recaudados adecuadamente se hubieran podido invertir en otros sectores. El contralor delegado para el Comercio confirmó las deficiencias en el sistema de recaudo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-es-como-colombia-esta-perdiendo-plata-por-culpa-de-la-dian-y-su-sistema-de-cobro-al-impuesto-nacional-al-turismo-se-hubiera-podido-invertir-3529138",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 307,
+      "titulo": "Procuraduría identifica riesgos en megacontrato de IA del Ministerio de Ciencia",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Procuraduría encontró riesgos en el megacontrato para el desarrollo de Inteligencia Artificial del Ministerio de Ciencia, Tecnología e Innovación por valor de $630.000 millones. El órgano de control ya puso el ojo en la actividad contractual de este acuerdo público, identificando posibles irregularidades en su estructuración o ejecución.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estos-son-los-riesgos-que-la-procuraduria-encontro-en-el-megacontrato-para-el-desarrollo-de-inteligencia-artificial-del-ministerio-de-ciencia-3529220",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ciencia, Tecnología e Innovación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 06:38"
+    },
+    {
+      "id": 306,
+      "titulo": "Audios comprometen a Barguil en presunta repartija de contratos",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "Se revelaron audios que comprometen al político Barguil en una presunta repartija de contratos. Es investigado por la Corte Suprema por presunto tráfico de influencias desde 2022, y ayer se dieron a conocer las interceptaciones telefónicas que sustentan la investigación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/audios-comprometen-a-barguil-en-presunta-repartija-de-contratos/",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Barguil"
+      ],
+      "entidad": "No especificada",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 305,
+      "titulo": "Alcalde de San Vicente del Caguán se apropió de pago a familia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Comisión de Disciplina Judicial de Caquetá le canceló la tarjeta profesional y le prohibió ejercer la abogacía al alcalde de San Vicente del Caguán por presuntamente apropiarse de un pago destinado a una familia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/alcalde-de-caqueta-presuntamente-se-apropio-de-pago-a-una-familia/",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de San Vicente del Caguán"
+      ],
+      "entidad": "Alcaldía de San Vicente del Caguán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 304,
+      "titulo": "Megaproyecto de turismo fluvial del gobierno Petro está estancado",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría reveló hallazgos inéditos sobre el megaproyecto de turismo a través de los ríos de Colombia prometido por el gobierno de Gustavo Petro. A corte de 2025, solo se ha construido el 5% de lo prometido, evidenciando un grave retraso en la ejecución de este proyecto con recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-megaproyecto-de-turismo-a-traves-de-los-rios-de-colombia-esta-estancado-estos-son-los-hallazgos-ineditos-de-la-contraloria-3529126",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 303,
+      "titulo": "DIAN pierde miles de millones por fallas en cobro del Impuesto Nacional al Turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría encontró hallazgos fiscales que superan los miles de millones de pesos debido a fallas en el sistema de cobro del Impuesto Nacional al Turismo por parte de la DIAN. El contralor delegado para el Comercio señaló que estos recursos se hubieran podido invertir.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-es-como-colombia-esta-perdiendo-plata-por-culpa-de-la-dian-y-su-sistema-de-cobro-al-impuesto-nacional-al-turismo-se-hubiera-podido-invertir-3529138",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Contralor delegado para el Comercio"
+      ],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 302,
+      "titulo": "Tercer contrato de pasaportes por 185.000 millones antes de ley de garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Cancillería firmó por tercera vez un contrato para la expedición de pasaportes por valor de 185.000 millones de pesos. La firma se realizó días antes de que entrara en vigencia la ley de garantías electorales, lo que genera suspicacias sobre el timing de la adjudicación de este millonario contrato.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/por-tercera-vez-cancilleria-firma-contrato-para-expedicion-de-pasaportes/",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 301,
+      "titulo": "Demanda de pérdida de investidura por casos UNGRD e Invías",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-02",
+      "descripcion": "El Consejo de Estado admitió demanda de pérdida de investidura contra Martha Peralta y 8 congresistas más por los casos de corrupción en la UNGRD e Invías. La demanda fue interpuesta por el abogado Pablo Bustos de la Red de Veedurías de Colombia contra estos funcionarios involucrados en escándalos de corrupción.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-admite-demanda-de-perdida-de-investidura-contra-martha-peralta-y-8-congresistas-por-caso-ungrd-e-invias-3529083",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta"
+      ],
+      "entidad": "UNGRD, Invías",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 300,
+      "titulo": "Exembajador en Ghana acusado de violencia sexual",
+      "categoria": "diplomaticos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Fiscalía llamó a juicio a Daniel Garcés Carabalí, exembajador de Colombia en Ghana, por supuesta violencia sexual contra su expareja. Fue acusado por violencia intrafamiliar agravada, acceso carnal violento, fraude procesal y ejercicio arbitrario de la custodia de un menor.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-llama-a-juicio-a-daniel-garces-carabali-exembajador-de-colombia-en-ghana-por-supuesta-violencia-sexual-contra-su-expareja-3529009",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Garcés Carabalí"
+      ],
+      "entidad": "Embajada de Colombia en Ghana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 299,
+      "titulo": "Irregularidades por 28.000 millones de pesos en impuesto al turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría detectó irregularidades en el manejo del impuesto al turismo que ascienden a más de 28.000 millones de pesos. Se identificaron fallas en el control ejercido por la DIAN y deficiencias en la fiscalización tributaria de estos recursos públicos destinados al sector turístico.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/irregularidades-en-el-manejo-del-impuesto-al-turismo-se-tasan-en-mas-de-28-000-millones-de-pesos-contraloria-3529026",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 18:32"
+    },
+    {
+      "id": 298,
+      "titulo": "Roy Barreras contrata asesor investigado por terrorismo y corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "Roy Barreras sumó a Xavier Vendrell como asesor de su campaña presidencial. Vendrell es un estratega catalán que trabajó en la campaña de Gustavo Petro en 2022 y ha sido investigado por terrorismo y corrupción en España. La contratación de una persona con antecedentes judiciales genera interrogantes sobre conflictos de interés.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/roy-barreras-suma-a-xavier-vendrell-como-asesor-de-su-campana/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Xavier Vendrell"
+      ],
+      "entidad": "Campaña presidencial Roy Barreras",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 12:37"
+    },
+    {
+      "id": 297,
+      "titulo": "Apartan fiscal del caso Laura Sarabia por conflicto de interés",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-02",
+      "descripcion": "El fiscal Juan Carlos Arias fue apartado del caso contra Laura Sarabia por tener amistad con el abogado defensor. La fiscal general Luz Adriana Camargo aceptó el impedimento elevado por el investigador. Este caso evidencia un conflicto de interés que podría haber comprometido la imparcialidad del proceso judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/apartan-al-fiscal-del-caso-contra-laura-sarabia-por-la-amistad-que-tiene-con-el-abogado-defensor-3528876",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Arias",
+        "Laura Sarabia",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 12:37"
+    },
+    {
+      "id": 296,
+      "titulo": "Petro interviene en proceso electoral del CNE sobre candidatura de Iván Cepeda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Gustavo Petro tomó partido públicamente en el debate jurídico sobre si Iván Cepeda puede participar en la consulta presidencial de marzo, interviniendo en un proceso electoral en curso ante el CNE. Esta intervención presidencial en asuntos electorales constituye una posible extralimitación de funciones del ejecutivo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-vuelve-a-intervenir-en-politica-electoral-por-proceso-en-el-cne-sobre-postulacion-de-ivan-cepeda-en-la-consulta-del-8-de-marzo-3528866",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Iván Cepeda"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 12:37"
+    },
+    {
+      "id": 295,
+      "titulo": "Petro acusa intento de soborno de 'Pipe Tuluá' para evitar extradición",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Gustavo Petro acusó a 'Pipe Tuluá', líder de 'La Inmaculada' (organización criminal del Valle), de intento de soborno para evitar su extradición. El criminal, preso desde 2015 y condenado a 30 años de cárcel, habría intentado corromper funcionarios para detener el proceso de extradición a Estados Unidos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-acusa-a-pipe-tulua-de-intento-de-soborno-para-evitar-extradicion/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Pipe Tuluá"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 294,
+      "titulo": "Gobierno Petro contrató $1,3 billones en 30 días antes de Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-01",
+      "descripcion": "El gobierno de Gustavo Petro realizó 9.282 nombramientos y 213 contratos con empresas por valor de $1,3 billones en 10 entidades durante los 30 días previos a la entrada en vigor de la Ley de Garantías, que prohíbe hacer contratos directos. Esta práctica genera sospechas sobre la urgencia y transparencia de estas contrataciones.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-petro-contrato-13-billones-en-30-dias-antes-de-ley-de-garantias/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 293,
+      "titulo": "Roy Barreras contrata asesor investigado por terrorismo y corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "Roy Barreras sumó como asesor de su campaña presidencial a Xavier Vendrell, un polémico estratega catalán que fue parte de la campaña de Gustavo Petro en 2022 y que ha sido investigado por terrorismo y corrupción en España. La contratación de una persona con este historial judicial genera preocupaciones sobre conflictos de interés.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/roy-barreras-suma-a-xavier-vendrell-como-asesor-de-su-campana/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Xavier Vendrell"
+      ],
+      "entidad": "Campaña presidencial de Roy Barreras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 292,
+      "titulo": "Apartan al fiscal del caso contra Laura Sarabia por conflicto de interés",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "La fiscal general, Luz Adriana Camargo, aceptó el impedimento que elevó el investigador Juan Carlos Arias en el caso contra Laura Sarabia debido a la amistad que tiene con el abogado defensor. Esto evidencia un conflicto de interés que compromete la imparcialidad del proceso judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/apartan-al-fiscal-del-caso-contra-laura-sarabia-por-la-amistad-que-tiene-con-el-abogado-defensor-3528876",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Arias",
+        "Luz Adriana Camargo",
+        "Laura Sarabia"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 06:52"
+    },
+    {
+      "id": 291,
+      "titulo": "Petro denuncia intento de soborno de 'Pipe Tuluá' para evitar extradición",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Gustavo Petro acusó a alias 'Pipe Tuluá', líder de la organización criminal 'La Inmaculada', de intentar sobornarlo para evitar su extradición a Estados Unidos. El narco está preso desde 2015 y condenado a 30 años de cárcel. Petro ordenó concretar el envío del cabecilla criminal a Estados Unidos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-acusa-a-pipe-tulua-de-intento-de-soborno-para-evitar-extradicion/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Pipe Tuluá",
+        "Andrés Idárraga"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 01:16"
+    },
+    {
+      "id": 290,
+      "titulo": "Gobierno contrató $1,3 billones en 30 días antes de Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-01",
+      "descripcion": "El gobierno de Gustavo Petro realizó 9.282 nombramientos y 213 contratos con empresas por valor de $1,3 billones en 10 entidades durante los 30 días previos a la entrada en vigor de la Ley de Garantías Electorales, que prohíbe hacer contratos directos. Esta práctica genera sospechas sobre la urgencia y transparencia de estas contrataciones masivas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-petro-contrato-13-billones-en-30-dias-antes-de-ley-de-garantias/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-02 01:16"
+    },
+    {
+      "id": 289,
+      "titulo": "Fiscal apartado del caso Laura Sarabia por conflicto de interés",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-01",
+      "descripcion": "La fiscal general Luz Adriana Camargo aceptó el impedimento del fiscal Juan Carlos Arias para investigar el caso contra Laura Sarabia debido a su amistad con el abogado defensor de la exjefa de gabinete presidencial. Este apartamiento evidencia un conflicto de interés que podría comprometer la objetividad de la investigación judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/apartan-al-fiscal-del-caso-contra-laura-sarabia-por-la-amistad-que-tiene-con-el-abogado-defensor-3528876",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Arias",
+        "Luz Adriana Camargo",
+        "Laura Sarabia"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-02 01:16"
+    },
+    {
+      "id": 288,
+      "titulo": "Intento de soborno de 'Pipe Tuluá' para evitar extradición",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-01",
+      "descripcion": "El presidente Petro denunció públicamente que alias 'Pipe Tuluá', líder de la organización criminal 'La Inmaculada', intentó sobornar a funcionarios para evitar su extradición a Estados Unidos. El narcotraficante está preso desde 2015 y condenado a 30 años de cárcel, pero ha estado dilando su proceso de extradición presuntamente a través de la corrupción de funcionarios del sistema judicial.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-acusa-a-pipe-tulua-de-intento-de-soborno-para-evitar-extradicion/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Alias Pipe Tuluá"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 18:22"
+    },
+    {
+      "id": 287,
+      "titulo": "Contratación masiva del Gobierno Petro antes de Ley de Garantías",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-01",
+      "descripcion": "El gobierno de Petro realizó 9.282 nombramientos y 213 contratos con empresas por valor de $1,3 billones en apenas 30 días, justo antes de que entrara en vigencia la Ley de Garantías que prohíbe hacer contratos directos durante período electoral. Esta práctica sugiere un aprovechamiento del último momento disponible para realizar contratación masiva sin las restricciones normales del proceso electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-petro-contrato-13-billones-en-30-dias-antes-de-ley-de-garantias/",
+          "fecha": "2026-02-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 18:22"
+    },
+    {
+      "id": 286,
+      "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
+      "categoria": "mentiras",
+      "fecha": "2026-01-31",
+      "descripcion": "El ministro Andrés Reyes contradijo públicamente al presidente Petro mostrando un chat donde el mandatario pidió no aplicar el decreto a contratos previos de carbón con Israel, contradiciendo las acusaciones previas del presidente sobre el mantenimiento de dichos contratos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/reyes-contradice-a-petro-y-muestra-orden-de-mantener-contratos-con-israel/",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Andrés Reyes"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 12:29"
+    },
+    {
+      "id": 285,
+      "titulo": "Petro ordena extradición de alias Pipe Tuluá para frenar compra de funcionarios",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-31",
+      "descripcion": "El presidente Gustavo Petro ordenó al ministro de Justicia extraditar a alias Pipe Tuluá en un intento de frenar la compra de funcionarios y la dilación del proceso judicial. La orden presidencial se da en medio de solicitudes de negociación, recursos jurídicos pendientes y la presión contra la banda La Inmaculada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-petro-ordena-al-ministro-de-justicia-extraditar-a-alias-pipe-tulua-en-un-intento-de-frenar-compra-de-funcionarios-y-dilacion-del-proceso-3528796",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "alias Pipe Tuluá"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 12:29"
+    },
+    {
+      "id": 284,
+      "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
+      "categoria": "mentiras",
+      "fecha": "2026-01-31",
+      "descripcion": "El ministro de Minas, Andrés Reyes, publicó un chat donde Petro pidió no aplicar el decreto a contratos previos de carbón con Israel, contradiciendo las acusaciones públicas del presidente. Esta contradicción evidencia inconsistencias en las declaraciones oficiales del gobierno sobre las relaciones comerciales con Israel.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/reyes-contradice-a-petro-y-muestra-orden-de-mantener-contratos-con-israel/",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Andrés Reyes"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 06:38"
+    },
+    {
+      "id": 283,
+      "titulo": "Petro ordena extradición de alias Pipe Tuluá por presunta compra de funcionarios",
+      "categoria": "corrupcion",
+      "fecha": "2026-01-31",
+      "descripcion": "El presidente Gustavo Petro ordenó al ministro de Justicia extraditar a alias Pipe Tuluá en un intento de frenar la compra de funcionarios y la dilación del proceso judicial. La orden presidencial se produce en medio de solicitudes de negociación, recursos jurídicos pendientes y presión contra la banda La Inmaculada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-petro-ordena-al-ministro-de-justicia-extraditar-a-alias-pipe-tulua-en-un-intento-de-frenar-compra-de-funcionarios-y-dilacion-del-proceso-3528796",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "alias Pipe Tuluá"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 06:38"
+    },
+    {
+      "id": 282,
+      "titulo": "Contradicción entre Petro y ministro Reyes sobre contratos con Israel",
+      "categoria": "mentiras",
+      "fecha": "2026-01-31",
+      "descripcion": "El ministro Andrés Camacho Reyes contradijo públicamente al presidente Petro mediante un chat donde muestra que el mandatario ordenó no aplicar el decreto de suspensión a contratos previos de carbón con Israel, contradiciendo las acusaciones públicas que Petro había hecho sobre el manejo de estos contratos. Esto evidencia inconsistencias en las declaraciones presidenciales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/reyes-contradice-a-petro-y-muestra-orden-de-mantener-contratos-con-israel/",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Andrés Camacho Reyes"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 01:24"
+    },
+    {
+      "id": 281,
+      "titulo": "Crisis de autoridad en la Policía por negativa de coroneles a ir a zonas conflictivas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-01-31",
+      "descripcion": "Un audio del director de la Policía, general Rincón, expone que varios coroneles se han negado a ser trasladados a zonas con crisis de orden público, evidenciando una ruptura en la unidad de mando y compromitiendo el control territorial. Esta situación representa una crisis de autoridad dentro de la institución policial que afecta la seguridad nacional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-audio-del-director-de-la-policia-que-expone-la-rebeldia-de-coroneles-para-ir-a-zonas-con-crisis-de-orden-publico-ruptura-en-la-unidad-de-mando-3528678",
+          "fecha": "2026-01-31"
+        }
+      ],
+      "personas_involucradas": [
+        "General Rincón"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-01 01:24"
+    },
+    {
+      "id": 280,
+      "titulo": "Armando Benedetti recupera visa estadounidense tras escándalos diplomáticos",
+      "categoria": "diplomaticos",
+      "fecha": "2026-01-30",
+      "descripcion": "El exembajador Armando Benedetti, quien enfrentó múltiples escándalos durante su gestión diplomática y perdió su visa a Estados Unidos, la ha recuperado y podría hacer parte de la delegación presidencial que acompañe a Petro en su reunión con Trump. Esto genera interrogantes sobre las consecuencias de los escándalos previos y su idoneidad para representar al país en misiones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/armando-benedetti-recupera-visa-a-los-estados-unidos-hara-parte-de-la-delegacion-que-acompane-al-presidente-gustavo-petro-a-reunion-con-trump-3528555",
+          "fecha": "2026-01-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-01 01:24"
+    },
+    {
       "id": 279,
       "titulo": "Contradicción entre Petro y Reyes sobre contratos con Israel",
       "categoria": "mentiras",
