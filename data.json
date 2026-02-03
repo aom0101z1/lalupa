@@ -66,6 +66,71 @@
   ],
   "casos": [
     {
+      "id": 313,
+      "titulo": "Alcalde de San Vicente del Caguán sancionado por apropiación de dineros de familia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Comisión de Disciplina Judicial de Caquetá le canceló la tarjeta profesional y le prohibió ejercer la abogacía al alcalde de San Vicente del Caguán por presuntamente apropiarse de un pago destinado a una familia. La sanción disciplinaria confirma irregularidades en el manejo de recursos por parte del mandatario local.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/alcalde-de-caqueta-presuntamente-se-apropio-de-pago-a-una-familia/",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de San Vicente del Caguán"
+      ],
+      "entidad": "Alcaldía de San Vicente del Caguán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-03 12:37"
+    },
+    {
+      "id": 312,
+      "titulo": "DIAN pierde miles de millones por fallas en sistema de cobro del Impuesto Nacional al Turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "Colombia está perdiendo miles de millones de pesos debido a fallas en el sistema de cobro del Impuesto Nacional al Turismo manejado por la DIAN. Los hallazgos fiscales de la Contraloría superan los miles de millones que se hubieran podido invertir. El contralor delegado para el Comercio confirmó las deficiencias en el sistema de recaudo tributario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-es-como-colombia-esta-perdiendo-plata-por-culpa-de-la-dian-y-su-sistema-de-cobro-al-impuesto-nacional-al-turismo-se-hubiera-podido-invertir-3529138",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 12:37"
+    },
+    {
+      "id": 311,
+      "titulo": "Procuraduría identifica riesgos en megacontrato de IA del MinCiencias por $630.000 millones",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Procuraduría General encontró riesgos en el megacontrato para el desarrollo de Inteligencia Artificial del Ministerio de Ciencia, Tecnología e Innovación por un valor de $630.000 millones. El órgano de control ya puso vigilancia sobre esta actividad contractual debido a las irregularidades identificadas en el proceso de contratación pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estos-son-los-riesgos-que-la-procuraduria-encontro-en-el-megacontrato-para-el-desarrollo-de-inteligencia-artificial-del-ministerio-de-ciencia-3529220",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ciencia, Tecnología e Innovación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 12:37"
+    },
+    {
       "id": 310,
       "titulo": "Alcalde de San Vicente del Caguán se apropió de pago destinado a familia",
       "categoria": "corrupcion",
