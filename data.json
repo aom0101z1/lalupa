@@ -66,6 +66,98 @@
   ],
   "casos": [
     {
+      "id": 306,
+      "titulo": "Audios comprometen a Barguil en presunta repartija de contratos",
+      "categoria": "contratos",
+      "fecha": "2026-02-02",
+      "descripcion": "Se revelaron audios que comprometen al político Barguil en una presunta repartija de contratos. Es investigado por la Corte Suprema por presunto tráfico de influencias desde 2022, y ayer se dieron a conocer las interceptaciones telefónicas que sustentan la investigación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/audios-comprometen-a-barguil-en-presunta-repartija-de-contratos/",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Barguil"
+      ],
+      "entidad": "No especificada",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 305,
+      "titulo": "Alcalde de San Vicente del Caguán se apropió de pago a familia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La Comisión de Disciplina Judicial de Caquetá le canceló la tarjeta profesional y le prohibió ejercer la abogacía al alcalde de San Vicente del Caguán por presuntamente apropiarse de un pago destinado a una familia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/alcalde-de-caqueta-presuntamente-se-apropio-de-pago-a-una-familia/",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de San Vicente del Caguán"
+      ],
+      "entidad": "Alcaldía de San Vicente del Caguán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 304,
+      "titulo": "Megaproyecto de turismo fluvial del gobierno Petro está estancado",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría reveló hallazgos inéditos sobre el megaproyecto de turismo a través de los ríos de Colombia prometido por el gobierno de Gustavo Petro. A corte de 2025, solo se ha construido el 5% de lo prometido, evidenciando un grave retraso en la ejecución de este proyecto con recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-megaproyecto-de-turismo-a-traves-de-los-rios-de-colombia-esta-estancado-estos-son-los-hallazgos-ineditos-de-la-contraloria-3529126",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
+      "id": 303,
+      "titulo": "DIAN pierde miles de millones por fallas en cobro del Impuesto Nacional al Turismo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-02",
+      "descripcion": "La Contraloría encontró hallazgos fiscales que superan los miles de millones de pesos debido a fallas en el sistema de cobro del Impuesto Nacional al Turismo por parte de la DIAN. El contralor delegado para el Comercio señaló que estos recursos se hubieran podido invertir.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-es-como-colombia-esta-perdiendo-plata-por-culpa-de-la-dian-y-su-sistema-de-cobro-al-impuesto-nacional-al-turismo-se-hubiera-podido-invertir-3529138",
+          "fecha": "2026-02-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Contralor delegado para el Comercio"
+      ],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-03 01:16"
+    },
+    {
       "id": 302,
       "titulo": "Tercer contrato de pasaportes por 185.000 millones antes de ley de garantías",
       "categoria": "contratos",
