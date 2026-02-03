@@ -3,8 +3,11 @@ notas-personales.txt
 mis-notas/
 .env
 *.log
-LALUPA_PROJECT_CONTEXT.md
+PROJECT_SUMMARY_LALUPA.md
 .claude/
+
+# Windows accidental files
+nul
 
 # Sistema
 .DS_Store
