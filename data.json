@@ -66,6 +66,32 @@
   ],
   "casos": [
     {
+      "id": 315,
+      "titulo": "Audio de 'Pipe Tuluá' revela presunto financiamiento a campaña Petro 2022",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-03",
+      "descripcion": "La candidata Vicky Dávila reveló un audio del extraditado 'Pipe Tuluá' en el que habla de supuesta entrega de dineros a Juan Fernando Petro (hermano del presidente) para la campaña presidencial de 2022. El extraditado afirma haber financiado la campaña y llevará las pruebas a Estados Unidos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-vicky-davila-revela-audio-del-extraditado-pipe-tulua-en-el-que-habla-de-supuesta-entrega-de-dineros-a-juan-fernando-petro-3529474",
+          "fecha": "2026-02-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Felipe Marín 'Pipe Tuluá'",
+        "Juan Fernando Petro",
+        "Gustavo Petro",
+        "Vicky Dávila"
+      ],
+      "entidad": "Campaña presidencial Petro 2022",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-04 01:11"
+    },
+    {
       "id": 314,
       "titulo": "Corte Suprema niega libertad a Andrés Calle por saqueo a la UNGRD",
       "categoria": "corrupcion",
