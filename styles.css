@@ -811,6 +811,10 @@ body {
     background: linear-gradient(135deg, #0284c7 0%, #0ea5e9 100%);
 }
 
+.tema-header.gobiernos-socialistas {
+    background: linear-gradient(135deg, #991b1b 0%, #b91c1c 100%);
+}
+
 .tema-header.policia {
     background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 100%);
 }
@@ -3685,4 +3689,160 @@ body {
 .tema-autor strong {
     color: var(--text-primary);
     font-weight: 600;
+}
+
+/* ================================
+   ARTICLE APPROVAL SYSTEM
+   ================================ */
+
+.draft-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    flex-shrink: 0;
+    margin-left: 8px;
+    animation: pulse-badge 2s infinite;
+}
+
+.draft-badge[data-status="draft"] {
+    background: rgba(245, 158, 11, 0.3);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.5);
+}
+
+.draft-badge[data-status="review"] {
+    background: rgba(59, 130, 246, 0.3);
+    color: #93c5fd;
+    border: 1px solid rgba(59, 130, 246, 0.5);
+}
+
+@keyframes pulse-badge {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.article-admin-controls {
+    position: relative;
+    flex-shrink: 0;
+    margin-left: 8px;
+}
+
+.btn-article-status {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    font-size: 0.85rem;
+}
+
+.btn-article-status:hover {
+    background: rgba(255, 255, 255, 0.35);
+    transform: rotate(90deg);
+}
+
+.article-status-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 8px;
+    background: var(--card-bg, #1e1e2e);
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+    z-index: 100;
+    min-width: 180px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.article-status-menu button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    padding: 12px 16px;
+    border: none;
+    background: none;
+    color: var(--text, #e0e0e0);
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.article-status-menu button:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.article-status-menu button.active {
+    background: rgba(99, 102, 241, 0.15);
+    color: #a5b4fc;
+    font-weight: 600;
+}
+
+.admin-article-actions {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.admin-article-actions button {
+    font-size: 0.75rem;
+    padding: 4px 10px;
+}
+
+.status-badge.review {
+    background: rgba(59, 130, 246, 0.2);
+    color: #93c5fd;
+}
+
+/* Case approval summary */
+.admin-cases-summary {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+.cases-stat {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.cases-stat.pending-stat {
+    background: rgba(245, 158, 11, 0.15);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.cases-stat.approved-stat {
+    background: rgba(34, 197, 94, 0.15);
+    color: #22c55e;
+    border: 1px solid rgba(34, 197, 94, 0.3);
+}
+
+.cases-stat.rejected-stat {
+    background: rgba(239, 68, 68, 0.15);
+    color: #ef4444;
+    border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+/* Admin tabs - better wrapping for many tabs */
+.admin-tabs {
+    flex-wrap: wrap;
 }

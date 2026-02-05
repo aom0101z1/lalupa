@@ -130,6 +130,11 @@ async function init() {
             data.casos = [];
         }
 
+        // Load case approvals before rendering
+        if (typeof db !== 'undefined') {
+            await loadCaseApprovals();
+        }
+
         populateFilters();
         renderStats();
         filterAndRenderCasos();
@@ -233,6 +238,21 @@ function filterAndRenderCasos() {
 
     // Filtrar
     filteredCasos = data.casos.filter(caso => {
+        // Filtro de aprobación: ocultar casos auto-generados no aprobados para usuarios públicos
+        if (caso.auto_generated) {
+            const status = caseApprovals[caso.id];
+            // Casos con estado explícito en Firestore: respetar el estado
+            if (status === 'rejected') return false;
+            if (status === 'approved') { /* continuar con otros filtros */ }
+            // Casos sin estado: pendientes si fueron creados desde el 5 de feb 2026
+            else if (!status) {
+                const caseDate = caso.added_date || caso.fecha;
+                if (caseDate && caseDate >= '2026-02-05' && !(typeof isAdmin !== 'undefined' && isAdmin)) {
+                    return false;
+                }
+            }
+        }
+
         // Busqueda
         if (searchTerm) {
             const searchFields = [
@@ -1183,7 +1203,8 @@ async function showAdminTab(tab) {
     // Update tab buttons
     document.querySelectorAll('.admin-tab').forEach(btn => {
         btn.classList.remove('active');
-        if (btn.textContent.toLowerCase().includes(tab === 'users' ? 'usuario' : tab === 'comments' ? 'comentario' : 'bloqueado')) {
+        const tabMap = { 'users': 'usuario', 'comments': 'comentario', 'blocked': 'bloqueado', 'articles': 'opinión', 'cases': 'casos' };
+        if (btn.textContent.toLowerCase().includes(tabMap[tab] || '')) {
             btn.classList.add('active');
         }
     });
@@ -1201,6 +1222,11 @@ async function showAdminTab(tab) {
         } else if (tab === 'blocked') {
             const users = await loadBlockedUsers();
             content.innerHTML = renderBlockedTable(users);
+        } else if (tab === 'articles') {
+            content.innerHTML = renderArticlesTable();
+        } else if (tab === 'cases') {
+            await loadCaseApprovals();
+            content.innerHTML = renderPendingCasesTable();
         }
     } catch (error) {
         console.error('Error loading admin data:', error);
@@ -1976,9 +2002,10 @@ function initTemas() {
     initTemasAccordion();
     updateTemasAdminUI();
 
-    // Load saved order if logged in
+    // Load saved order and article statuses if Firebase is ready
     if (typeof db !== 'undefined') {
         loadTemasOrderFromFirestore();
+        loadArticleStatuses();
     }
 
     // Open article from URL hash AFTER accordion is initialized
@@ -1992,7 +2019,7 @@ function openArticleFromHash() {
         const articleId = hash.substring(1); // Remove the #
         const article = document.getElementById(articleId);
 
-        if (article) {
+        if (article && article.style.display !== 'none') {
             // Small delay to ensure DOM is ready
             setTimeout(() => {
                 // Use toggleTemaContent to expand the article
@@ -2022,6 +2049,403 @@ if (typeof auth !== 'undefined') {
         updateTemasAdminUI();
         if (isAdmin) {
             loadTemasOrderFromFirestore();
+            loadArticleStatuses().then(() => {
+                addArticleAdminControls();
+            });
+            loadCaseApprovals().then(() => {
+                filterAndRenderCasos();
+            });
+        } else {
+            applyArticleVisibility();
+            document.querySelectorAll('.article-admin-controls').forEach(el => el.remove());
+            loadCaseApprovals().then(() => {
+                filterAndRenderCasos();
+            });
+            document.querySelectorAll('.draft-badge').forEach(el => el.remove());
         }
     });
+}
+
+// ================================
+// ARTICLE APPROVAL SYSTEM
+// ================================
+
+let articleStatuses = {};
+
+// Load article statuses from Firestore
+async function loadArticleStatuses() {
+    if (typeof db === 'undefined') return;
+    try {
+        const doc = await db.collection('settings').doc('articleStatus').get();
+        if (doc.exists) {
+            articleStatuses = doc.data().statuses || {};
+        }
+        applyArticleVisibility();
+    } catch (error) {
+        console.error('Error loading article statuses:', error);
+    }
+}
+
+// Apply visibility based on article status
+function applyArticleVisibility() {
+    const allCards = document.querySelectorAll('.tema-card');
+    allCards.forEach(card => {
+        const status = articleStatuses[card.id];
+
+        // Remove existing draft badges
+        card.querySelectorAll('.draft-badge').forEach(b => b.remove());
+
+        if (status === 'draft' || status === 'review') {
+            if (typeof isAdmin !== 'undefined' && isAdmin) {
+                // Admin sees it with a badge
+                card.style.display = '';
+                const badge = document.createElement('span');
+                badge.className = 'draft-badge';
+                badge.textContent = status === 'draft' ? 'BORRADOR' : 'EN REVISIÓN';
+                badge.dataset.status = status;
+                const header = card.querySelector('.tema-header');
+                // Insert before lang-toggle if present
+                const langToggle = header.querySelector('.lang-toggle');
+                if (langToggle) {
+                    header.insertBefore(badge, langToggle);
+                } else {
+                    header.appendChild(badge);
+                }
+            } else {
+                // Public user: hide the article
+                card.style.display = 'none';
+            }
+        } else {
+            // Published or no status (existing articles) - visible to all
+            card.style.display = '';
+        }
+    });
+}
+
+// Set article status (admin only)
+async function setArticleStatus(articleId, status) {
+    if (typeof isAdmin === 'undefined' || !isAdmin || typeof db === 'undefined') return;
+    try {
+        const docRef = db.collection('settings').doc('articleStatus');
+        const doc = await docRef.get();
+        let statuses = doc.exists ? (doc.data().statuses || {}) : {};
+
+        statuses[articleId] = status;
+
+        await docRef.set({
+            statuses: statuses,
+            updatedAt: firebase.firestore.FieldValue.serverTimestamp(),
+            updatedBy: currentUser.email
+        });
+
+        articleStatuses = statuses;
+        applyArticleVisibility();
+        addArticleAdminControls();
+
+        // Close the menu
+        const menu = document.getElementById('status-menu-' + articleId);
+        if (menu) menu.style.display = 'none';
+
+        const msgs = {
+            'published': '¡Artículo publicado!',
+            'draft': 'Artículo marcado como borrador',
+            'review': 'Artículo marcado para revisión'
+        };
+        alert(msgs[status] || 'Estado actualizado');
+    } catch (error) {
+        console.error('Error updating article status:', error);
+        alert('Error al actualizar estado del artículo');
+    }
+}
+
+// Add admin controls to each article header
+function addArticleAdminControls() {
+    if (typeof isAdmin === 'undefined' || !isAdmin) return;
+
+    // Remove existing controls first to avoid duplicates
+    document.querySelectorAll('.article-admin-controls').forEach(el => el.remove());
+
+    document.querySelectorAll('.tema-card').forEach(card => {
+        const controls = document.createElement('div');
+        controls.className = 'article-admin-controls';
+        const articleId = card.id;
+        const status = articleStatuses[articleId] || 'published';
+
+        controls.innerHTML = `
+            <button class="btn-article-status" onclick="event.stopPropagation(); toggleArticleStatusMenu('${articleId}')" title="Estado del artículo">
+                <i class="fas fa-cog"></i>
+            </button>
+            <div class="article-status-menu" id="status-menu-${articleId}" style="display:none;">
+                <button onclick="event.stopPropagation(); setArticleStatus('${articleId}', 'published')" class="${status === 'published' ? 'active' : ''}">
+                    <i class="fas fa-check-circle"></i> Publicar
+                </button>
+                <button onclick="event.stopPropagation(); setArticleStatus('${articleId}', 'draft')" class="${status === 'draft' ? 'active' : ''}">
+                    <i class="fas fa-pencil-alt"></i> Borrador
+                </button>
+                <button onclick="event.stopPropagation(); setArticleStatus('${articleId}', 'review')" class="${status === 'review' ? 'active' : ''}">
+                    <i class="fas fa-search"></i> En Revisión
+                </button>
+            </div>
+        `;
+
+        const header = card.querySelector('.tema-header');
+        header.appendChild(controls);
+    });
+}
+
+// Toggle article status dropdown menu
+function toggleArticleStatusMenu(articleId) {
+    const menu = document.getElementById('status-menu-' + articleId);
+    if (!menu) return;
+
+    // Close all other menus
+    document.querySelectorAll('.article-status-menu').forEach(m => {
+        if (m.id !== 'status-menu-' + articleId) m.style.display = 'none';
+    });
+
+    menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
+}
+
+// Close status menus when clicking outside
+document.addEventListener('click', function(e) {
+    if (!e.target.closest('.article-admin-controls')) {
+        document.querySelectorAll('.article-status-menu').forEach(m => m.style.display = 'none');
+    }
+});
+
+// Render articles table for admin panel
+function renderArticlesTable() {
+    const allCards = document.querySelectorAll('.tema-card');
+    if (allCards.length === 0) {
+        return '<div class="admin-empty"><i class="fas fa-newspaper"></i><p>No hay artículos</p></div>';
+    }
+
+    let html = `
+        <table class="admin-table">
+            <thead>
+                <tr>
+                    <th>Artículo</th>
+                    <th>Estado</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>`;
+
+    allCards.forEach(card => {
+        const title = card.querySelector('h3')?.textContent || card.id;
+        const status = articleStatuses[card.id] || 'published';
+        const statusClass = status === 'published' ? 'active' : status === 'draft' ? 'blocked' : 'review';
+        const statusLabel = status === 'published' ? 'Publicado' : status === 'draft' ? 'Borrador' : 'En Revisión';
+
+        html += `
+                <tr>
+                    <td><strong>${title}</strong><br><small style="color: var(--text-muted);">#${card.id}</small></td>
+                    <td><span class="status-badge ${statusClass}">${statusLabel}</span></td>
+                    <td>
+                        <div class="admin-article-actions">
+                            ${status !== 'published' ? `<button class="btn-unblock" onclick="setArticleStatus('${card.id}', 'published')"><i class="fas fa-check"></i> Publicar</button>` : ''}
+                            ${status !== 'draft' ? `<button class="btn-block" onclick="setArticleStatus('${card.id}', 'draft')"><i class="fas fa-pencil-alt"></i> Borrador</button>` : ''}
+                            ${status !== 'review' ? `<button class="btn-block" style="background:rgba(59,130,246,0.2);color:#93c5fd;" onclick="setArticleStatus('${card.id}', 'review')"><i class="fas fa-search"></i> Revisión</button>` : ''}
+                        </div>
+                    </td>
+                </tr>`;
+    });
+
+    html += `
+            </tbody>
+        </table>`;
+
+    return html;
+}
+
+// ================================
+// CASE APPROVAL SYSTEM
+// ================================
+
+let caseApprovals = {};
+
+// Load case approvals from Firestore
+async function loadCaseApprovals() {
+    if (typeof db === 'undefined') return;
+    try {
+        const doc = await db.collection('settings').doc('caseApproval').get();
+        if (doc.exists) {
+            caseApprovals = doc.data().statuses || {};
+        }
+    } catch (error) {
+        console.error('Error loading case approvals:', error);
+    }
+}
+
+// Set case approval status
+async function setCaseStatus(caseId, status) {
+    if (typeof isAdmin === 'undefined' || !isAdmin || typeof db === 'undefined') return;
+    try {
+        const docRef = db.collection('settings').doc('caseApproval');
+        const doc = await docRef.get();
+        let statuses = doc.exists ? (doc.data().statuses || {}) : {};
+
+        statuses[caseId] = status;
+
+        await docRef.set({
+            statuses: statuses,
+            updatedAt: firebase.firestore.FieldValue.serverTimestamp(),
+            updatedBy: currentUser.email
+        });
+
+        caseApprovals = statuses;
+
+        // Re-render the cases table in admin panel
+        const content = document.getElementById('admin-content');
+        if (content) {
+            content.innerHTML = renderPendingCasesTable();
+        }
+
+        // Re-filter public cases view
+        filterAndRenderCasos();
+
+        const msgs = {
+            'approved': '¡Caso aprobado y publicado!',
+            'rejected': 'Caso rechazado',
+            'pending': 'Caso marcado como pendiente'
+        };
+        alert(msgs[status] || 'Estado actualizado');
+    } catch (error) {
+        console.error('Error updating case status:', error);
+        alert('Error al actualizar estado del caso');
+    }
+}
+
+// Render pending cases table for admin panel
+function renderPendingCasesTable() {
+    if (!data || !data.casos) {
+        return '<div class="admin-empty"><i class="fas fa-folder-open"></i><p>No hay datos cargados</p></div>';
+    }
+
+    // Get auto-generated cases that need review
+    const autoGeneratedCases = data.casos.filter(c => c.auto_generated);
+
+    if (autoGeneratedCases.length === 0) {
+        return '<div class="admin-empty"><i class="fas fa-check-circle"></i><p>No hay casos auto-generados</p></div>';
+    }
+
+    // Separate by status
+    const pendingCases = autoGeneratedCases.filter(c => {
+        const status = caseApprovals[c.id];
+        if (status === 'pending') return true;
+        if (!status) {
+            const caseDate = c.added_date || c.fecha;
+            return caseDate && caseDate >= '2026-02-05';
+        }
+        return false;
+    });
+    const approvedCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'approved');
+    const rejectedCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'rejected');
+
+    let html = `
+        <div class="admin-cases-summary">
+            <span class="cases-stat pending-stat"><i class="fas fa-clock"></i> ${pendingCases.length} pendientes</span>
+            <span class="cases-stat approved-stat"><i class="fas fa-check"></i> ${approvedCases.length} aprobados</span>
+            <span class="cases-stat rejected-stat"><i class="fas fa-times"></i> ${rejectedCases.length} rechazados</span>
+        </div>`;
+
+    if (pendingCases.length > 0) {
+        html += `<div style="display:flex; justify-content:space-between; align-items:center; margin: 15px 0 10px;">
+            <h4 style="color: #fbbf24; margin: 0;"><i class="fas fa-clock"></i> Pendientes de Aprobación (${pendingCases.length})</h4>
+            <button class="btn-unblock" onclick="approveAllPendingCases()" style="font-size:0.75rem;"><i class="fas fa-check-double"></i> Aprobar Todos</button>
+        </div>`;
+        html += renderCasesAdminTable(pendingCases, 'pending');
+    }
+
+    if (approvedCases.length > 0) {
+        html += `<h4 style="margin: 20px 0 10px; color: #22c55e;"><i class="fas fa-check-circle"></i> Casos Aprobados</h4>`;
+        html += renderCasesAdminTable(approvedCases, 'approved');
+    }
+
+    if (rejectedCases.length > 0) {
+        html += `<h4 style="margin: 20px 0 10px; color: #ef4444;"><i class="fas fa-times-circle"></i> Casos Rechazados</h4>`;
+        html += renderCasesAdminTable(rejectedCases, 'rejected');
+    }
+
+    return html;
+}
+
+// Render a table of cases for admin panel
+function renderCasesAdminTable(cases, currentStatus) {
+    let html = `
+        <table class="admin-table">
+            <thead>
+                <tr>
+                    <th>Caso</th>
+                    <th>Categoría</th>
+                    <th>Fecha</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>`;
+
+    cases.forEach(caso => {
+        const categoria = data.categorias.find(c => c.id === caso.categoria);
+        const catName = categoria ? categoria.nombre : caso.categoria;
+
+        html += `
+                <tr>
+                    <td>
+                        <strong>${escapeHtml(caso.titulo)}</strong>
+                        <br><small style="color: var(--text-muted);">${escapeHtml(caso.descripcion).substring(0, 120)}...</small>
+                        ${caso.personas_involucradas ? `<br><small style="color: #a5b4fc;"><i class="fas fa-users"></i> ${caso.personas_involucradas.join(', ')}</small>` : ''}
+                    </td>
+                    <td><small>${catName}</small></td>
+                    <td><small>${caso.fecha}</small></td>
+                    <td>
+                        <div class="admin-article-actions">
+                            ${currentStatus !== 'approved' ? `<button class="btn-unblock" onclick="setCaseStatus(${caso.id}, 'approved')"><i class="fas fa-check"></i> Aprobar</button>` : ''}
+                            ${currentStatus !== 'rejected' ? `<button class="btn-block" onclick="setCaseStatus(${caso.id}, 'rejected')"><i class="fas fa-times"></i> Rechazar</button>` : ''}
+                            ${currentStatus !== 'pending' ? `<button class="btn-block" style="background:rgba(245,158,11,0.2);color:#fbbf24;" onclick="setCaseStatus(${caso.id}, 'pending')"><i class="fas fa-clock"></i> Pendiente</button>` : ''}
+                        </div>
+                    </td>
+                </tr>`;
+    });
+
+    html += `
+            </tbody>
+        </table>`;
+
+    return html;
+}
+
+// Approve all pending cases at once
+async function approveAllPendingCases() {
+    if (typeof isAdmin === 'undefined' || !isAdmin || typeof db === 'undefined') return;
+    const autoGeneratedCases = data.casos.filter(c => c.auto_generated);
+    const pendingCases = autoGeneratedCases.filter(c => {
+        const status = caseApprovals[c.id];
+        if (status === 'pending') return true;
+        if (!status) {
+            const caseDate = c.added_date || c.fecha;
+            return caseDate && caseDate >= '2026-02-05';
+        }
+        return false;
+    });
+
+    if (pendingCases.length === 0) return;
+    if (!confirm(`¿Aprobar los ${pendingCases.length} casos pendientes?`)) return;
+
+    const docRef = db.collection('settings').doc('caseApproval');
+    const doc = await docRef.get();
+    let statuses = doc.exists ? (doc.data().statuses || {}) : {};
+
+    pendingCases.forEach(c => { statuses[c.id] = 'approved'; });
+
+    await docRef.set({
+        statuses: statuses,
+        updatedAt: firebase.firestore.FieldValue.serverTimestamp(),
+        updatedBy: currentUser.email
+    });
+
+    caseApprovals = statuses;
+    const content = document.getElementById('admin-content');
+    if (content) content.innerHTML = renderPendingCasesTable();
+    filterAndRenderCasos();
+    alert('¡Todos los casos pendientes han sido aprobados!');
 }

@@ -369,6 +369,7 @@ IMPORTANTE:
 - relevancia_score de 1-10 (solo incluir si >= 6)
 - Evita articulos que sean solo especulacion o rumores
 - Relacionados con el gobierno actual de Colombia (Petro)
+- NUNCA incluir casos negativos sobre las siguientes personas (EXCLUIDAS): Abelardo de la Espriella, Fico de la Espriella
 - Si ningun articulo es relevante o todos son duplicados, devuelve {{"casos_relevantes": []}}
 
 ARTICULOS A ANALIZAR:
