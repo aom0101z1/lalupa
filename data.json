@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 321,
+      "titulo": "Ejecutivos de megaproyecto Puerto Pisisí denunciados por incumplir compensaciones a víctimas del conflicto",
+      "categoria": "contratos",
+      "fecha": "2026-02-04",
+      "descripcion": "Víctimas de la guerra presentaron denuncia ante la Fiscalía contra ejecutivos del megaproyecto portuario Puerto Pisisí en Turbo, Antioquia. Los denunciantes aseguran que les han incumplido las compensaciones prometidas, considerando que el proyecto se construye sobre tierras que fueron objeto de despojo durante el conflicto armado. El caso evidencia posibles irregularidades en el manejo de compromisos sociales en megaproyectos de infraestructura.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mindefensa-despliega-apoyo-institucional-para-atender-emergencia-invernal-en-cordoba-3529784",
+          "fecha": "2026-02-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Ejecutivos Puerto Pisisí"
+      ],
+      "entidad": "Puerto Pisisí - Megaproyecto portuario de Turbo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-05 12:39"
+    },
+    {
+      "id": 320,
+      "titulo": "Cronología contradictoria entre candidato De la Espriella y presunto testaferro de Maduro Alex Saab",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-05",
+      "descripcion": "Las explicaciones del precandidato presidencial Fico de la Espriella sobre su relación con Alex Saab no coinciden con la secuencia de hechos públicos documentados. Saab es considerado presunto testaferro de Nicolás Maduro y las inconsistencias en las declaraciones de De la Espriella generan dudas sobre la naturaleza y alcance de su relación profesional y personal con el empresario colombo-venezolano.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/xavier-vendrell-el-guino-de-petro-a-roy/",
+          "fecha": "2026-02-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Fico de la Espriella",
+        "Alex Saab"
+      ],
+      "entidad": "Campaña presidencial de Fico de la Espriella",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-05 12:39"
+    },
+    {
       "id": 319,
       "titulo": "Influencer Felipe Saruma hace campaña con maquinaria clientelista de los Char",
       "categoria": "recursos-publicos",
