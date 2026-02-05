@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 318,
+      "titulo": "Gobierno presenta menores muertos en bombardeos como combatientes para evitar críticas por daño colateral",
+      "categoria": "mentiras",
+      "fecha": "2026-02-04",
+      "descripcion": "En su presentación al gobierno de Donald Trump sobre eficiencia en la lucha contra 'narcoterroristas', el gobierno colombiano habría presentado a menores de edad muertos en bombardeos como combatientes para sostener la narrativa de 'cero daño colateral'. Esta clasificación falsa buscaría ocultar muertes de civiles menores de edad en operaciones militares y mantener el apoyo estadounidense.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/cero-dano-colateral-asi-presento-colombia-a-menores-muertos-en-bombardeos/",
+          "fecha": "2026-02-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-05 01:12"
+    },
+    {
+      "id": 317,
+      "titulo": "Presidencia recusa a 7 magistrados por presunto interés patrimonial en emergencia económica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-04",
+      "descripcion": "La Presidencia de la República, a través del secretario jurídico Augusto Ocampo, recusó a 7 de los 9 magistrados de la Corte Constitucional en el caso de la emergencia económica. El argumento es que tienen patrimonios superiores a 2.000 millones de pesos y por tanto estarían impedidos por presunto interés en la norma. Esta estrategia buscaría evitar que la Corte tome una decisión desfavorable sobre la emergencia económica.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/presidencia-recusa-a-7-magistrados-en-caso-de-emergencia-economica-por-tener-patrimonios-superiores-a-2-000-millones-3529810",
+          "fecha": "2026-02-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Augusto Ocampo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-05 01:12"
+    },
+    {
+      "id": 316,
+      "titulo": "Conjuez Hollman Ibáñez posible conflicto de intereses en decisión sobre Iván Cepeda",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-04",
+      "descripcion": "El conjuez Hollman Ibáñez, quien decidió excluir a Iván Cepeda de la consulta presidencial, habría estado impedido para tomar esa decisión por haber sido socio de la firma de Abelardo de la Espriella. Esta situación genera controversia sobre la legitimidad de su decisión al existir potenciales conflictos de interés que no fueron declarados antes de asumir el caso.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/esta-impedido-hollman-ibanez-para-resolver-el-caso-de-ivan-cepeda-en-el-cne-fue-socio-de-la-firma-de-abelardo-de-la-espriella-3529738",
+          "fecha": "2026-02-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Hollman Ibáñez",
+        "Abelardo de la Espriella",
+        "Iván Cepeda"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-05 01:12"
+    },
+    {
       "id": 315,
       "titulo": "Audio de 'Pipe Tuluá' revela presunto financiamiento a campaña Petro 2022",
       "categoria": "corrupcion",
