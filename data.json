@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 319,
+      "titulo": "Influencer Felipe Saruma hace campaña con maquinaria clientelista de los Char",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-04",
+      "descripcion": "El influencer Felipe Saruma, con millones de seguidores en TikTok e Instagram, está haciendo campaña para la Cámara de Atlántico utilizando la estructura clientelista del clan Char. Esta estrategia combina el poder de las redes sociales con prácticas tradicionales de clientelismo político, incluyendo el uso de planillas y políticos en las calles para captar votos, lo que puede implicar uso indebido de recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/esposa-del-hombre-que-se-hizo-pasar-por-heredero-del-banquero-jaime-gilinski-quedo-en-libertad-no-fue-vinculada-al-delito-de-estafa-3529756",
+          "fecha": "2026-02-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Felipe Saruma",
+        "Familia Char"
+      ],
+      "entidad": "Campaña electoral Atlántico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-05 06:46"
+    },
+    {
       "id": 318,
       "titulo": "Gobierno presenta menores muertos en bombardeos como combatientes para evitar críticas por daño colateral",
       "categoria": "mentiras",
