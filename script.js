@@ -2090,7 +2090,8 @@ async function loadArticleStatuses() {
 function applyArticleVisibility() {
     const allCards = document.querySelectorAll('.tema-card');
     allCards.forEach(card => {
-        const status = articleStatuses[card.id];
+        // Use Firestore status, or fall back to data-default-status attribute, or 'published'
+        const status = articleStatuses[card.id] || card.dataset.defaultStatus || 'published';
 
         // Remove existing draft badges
         card.querySelectorAll('.draft-badge').forEach(b => b.remove());
@@ -2116,7 +2117,7 @@ function applyArticleVisibility() {
                 card.style.display = 'none';
             }
         } else {
-            // Published or no status (existing articles) - visible to all
+            // Published - visible to all
             card.style.display = '';
         }
     });
@@ -2169,7 +2170,7 @@ function addArticleAdminControls() {
         const controls = document.createElement('div');
         controls.className = 'article-admin-controls';
         const articleId = card.id;
-        const status = articleStatuses[articleId] || 'published';
+        const status = articleStatuses[articleId] || card.dataset.defaultStatus || 'published';
 
         controls.innerHTML = `
             <button class="btn-article-status" onclick="event.stopPropagation(); toggleArticleStatusMenu('${articleId}')" title="Estado del artículo">
@@ -2233,7 +2234,7 @@ function renderArticlesTable() {
 
     allCards.forEach(card => {
         const title = card.querySelector('h3')?.textContent || card.id;
-        const status = articleStatuses[card.id] || 'published';
+        const status = articleStatuses[card.id] || card.dataset.defaultStatus || 'published';
         const statusClass = status === 'published' ? 'active' : status === 'draft' ? 'blocked' : 'review';
         const statusLabel = status === 'published' ? 'Publicado' : status === 'draft' ? 'Borrador' : 'En Revisión';
 
