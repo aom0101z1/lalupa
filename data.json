@@ -66,6 +66,31 @@
   ],
   "casos": [
     {
+      "id": 325,
+      "titulo": "Denuncia por abuso de poder contra esposa del Ministro de Salud en la Supersalud",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-06",
+      "descripcion": "La congresista Jennifer Pedraza denunció ante la Procuraduría a Beatriz Eugenia Gómez, esposa del ministro de Salud y alta funcionaria de la Supersalud, por presunto abuso de poder al intervenir en decisiones institucionales pese a haberse declarado impedida. El caso evidencia un posible conflicto de intereses donde la funcionaria habría participado en decisiones que debía evitar por su relación familiar con el ministro del sector.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/jennifer-pedraza-denuncio-ante-la-procuraduria-a-beatriz-eugenia-gomez-esposa-del-ministro-de-salud-por-presunto-abuso-de-poder-3530132",
+          "fecha": "2026-02-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Beatriz Eugenia Gómez",
+        "Jennifer Pedraza",
+        "Ministro de Salud"
+      ],
+      "entidad": "Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-06 06:41"
+    },
+    {
       "id": 324,
       "titulo": "Representante de curul de paz en Caquetá intenta crear dinastía familiar heredando la silla a su hijo",
       "categoria": "nepotismo",
