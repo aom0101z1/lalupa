@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 328,
+      "titulo": "Procuraduría alerta por irregularidades en cuarto contrato de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-02-06",
+      "descripcion": "La Procuraduría encendió alarmas por un nuevo contrato para expedir pasaportes que no cuenta con fecha de inicio. El ente de control manifestó que este es el cuarto convenio entre la Cancillería y la Imprenta para un objetivo similar, evidenciando posibles irregularidades en la contratación para este servicio público.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-enciende-las-alarmas-por-nuevo-contrato-para-expedir-pasaportes-no-cuenta-con-fecha-de-inicio-3530210",
+          "fecha": "2026-02-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-06 18:35"
+    },
+    {
+      "id": 327,
+      "titulo": "Expresidente de Nueva EPS va a juicio por alteración de estados financieros",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-06",
+      "descripcion": "José Fernando Cardona, expresidente de Nueva EPS, enfrentará juicio por supuesto entramado ilegal para alterar estados financieros entre 2019 y 2022. La Fiscalía también tiene cargos contra otros exdirectivos de la EPS por los mismos hechos. Este caso se suma a los múltiples escándalos que han afectado al sistema de salud colombiano.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/jose-fernando-cardona-expresidente-de-nueva-eps-va-a-juicio-por-supuesto-entramado-ilegal-para-alterar-estados-financieros-3530290",
+          "fecha": "2026-02-06"
+        }
+      ],
+      "personas_involucradas": [
+        "José Fernando Cardona"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-06 18:35"
+    },
+    {
       "id": 326,
       "titulo": "Leopoldo Múnera citado por Fiscalía antes de renunciar a la Universidad Nacional",
       "categoria": "abuso-poder",
