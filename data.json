@@ -66,6 +66,72 @@
   ],
   "casos": [
     {
+      "id": 324,
+      "titulo": "Representante de curul de paz en Caquetá intenta crear dinastía familiar heredando la silla a su hijo",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-05",
+      "descripcion": "Un representante actual de las curules de paz, espacios concebidos para las víctimas del conflicto, planea heredar su posición a su hijo mientras él aspira a la circunscripción ordinaria. Esta práctica constituye un caso evidente de nepotismo político que pervierte el propósito de representación de víctimas en estos espacios especiales del Congreso, convirtiéndolos en feudos familiares.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/todo-queda-en-familia-curul-de-paz-de-padre-a-hijo-en-caqueta/",
+          "fecha": "2026-02-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Curules de Paz - Caquetá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-06 01:11"
+    },
+    {
+      "id": 323,
+      "titulo": "Hallazgos fiscales de la Contraloría revelan que miles de millones del Fondo Nacional del Arroz se quedan en privados",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-05",
+      "descripcion": "La Contraloría encontró irregularidades en el manejo de recursos del Fondo Nacional del Arroz, donde miles de millones de pesos públicos se están quedando en manos de entidades privadas. El órgano de control realizó una auditoría de seguimiento a la federación arrocera que reveló hallazgos fiscales significativos sobre el mal uso de recursos destinados al sector agrícola.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estos-son-los-hallazgos-de-la-contraloria-sobre-los-recursos-del-fondo-nacional-del-arroz-miles-de-millones-de-pesos-se-estan-quedando-en-privados-3530081",
+          "fecha": "2026-02-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Nacional del Arroz",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-06 01:11"
+    },
+    {
+      "id": 322,
+      "titulo": "Contradicciones entre entidades del gobierno sobre órdenes de captura contra 'Chiquito Malo'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-05",
+      "descripcion": "La Consejería de Paz afirmó que 'Chiquito Malo' tiene suspendidas las órdenes de captura desde diciembre, mientras que el Ministerio de Defensa señaló que la suspensión solo aplica durante el desplazamiento hacia las Zonas de Ubicación Temporal. La Fiscalía se mostró sorprendida por el manejo del tema por parte de la oficina del alto comisionado Otty Patiño, evidenciando falta de coordinación institucional en temas críticos de seguridad.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/cortocircuito-en-el-gobierno-consejeria-de-paz-senala-que-chiquito-malo-tiene-suspendidas-ordenes-de-captura-desde-diciembre-3530010",
+          "fecha": "2026-02-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Otty Patiño",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Consejería de Paz",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-06 01:11"
+    },
+    {
       "id": 321,
       "titulo": "Ejecutivos de megaproyecto Puerto Pisisí denunciados por incumplir compensaciones a víctimas del conflicto",
       "categoria": "contratos",
