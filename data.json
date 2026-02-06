@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 326,
+      "titulo": "Leopoldo Múnera citado por Fiscalía antes de renunciar a la Universidad Nacional",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-05",
+      "descripcion": "Según la Red de Veedurías de Colombia, Leopoldo Múnera habría sido citado por la Fiscalía previo a su renuncia como rector de la Universidad Nacional. Mientras el académico argumenta que su salida obedece a un retiro voluntario, la organización advierte sobre posibles acciones legales, sugiriendo que la renuncia podría estar relacionada con investigaciones en curso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/red-de-veedurias-de-colombia-asegura-que-leopoldo-munera-fue-citado-por-la-fiscalia-previo-a-su-renuncia-a-la-universidad-nacional-3530166",
+          "fecha": "2026-02-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Leopoldo Múnera"
+      ],
+      "entidad": "Universidad Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-06 12:37"
+    },
+    {
       "id": 325,
       "titulo": "Denuncia por abuso de poder contra esposa del Ministro de Salud en la Supersalud",
       "categoria": "conflicto-interes",
