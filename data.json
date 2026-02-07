@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 330,
+      "titulo": "CNE revoca listas del Pacto Histórico por irregularidades electorales",
+      "categoria": "contratos",
+      "fecha": "2026-02-06",
+      "descripcion": "El Consejo Nacional Electoral revocó las listas del Pacto Histórico en Atlántico y Cundinamarca por irregularidades en su inscripción. En Cundinamarca determinó que la lista no podía ser inscrita porque en 2022 superaron el 15% de los votos, mientras que en Atlántico fue por problemas en el ordenamiento de la lista. Esta decisión afecta directamente al partido de gobierno en dos departamentos estratégicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gerente-del-banrep-anuncia-utilidades-de-14-billones-para-2026/",
+          "fecha": "2026-02-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Pacto Histórico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-07 01:10"
+    },
+    {
+      "id": 329,
+      "titulo": "Corte Constitucional suspende impuesto de emergencia económica por inconstitucional",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-06",
+      "descripcion": "La Corte Constitucional suspendió el impuesto del 'aporte solidario de energía' que había sido expedido bajo la emergencia económica del gobierno Petro. La Sala Plena dejó sin efectos una tarifa adicional a los operadores de energía que formaba parte del paquete de impuestos creados bajo el estado de excepción, evidenciando problemas jurídicos en la implementación de las medidas económicas excepcionales del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-a-caravana-de-proteccion-del-senador-castellano-en-arauca-reabre-alertas-sobre-seguridad-politica-en-zonas-de-conflicto-3530281",
+          "fecha": "2026-02-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-07 01:10"
+    },
+    {
       "id": 328,
       "titulo": "Procuraduría alerta por irregularidades en cuarto contrato de pasaportes",
       "categoria": "contratos",
