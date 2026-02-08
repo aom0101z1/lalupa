@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 331,
+      "titulo": "Muerte de menor de edad en bombardeo contra ELN eleva cifra a 16 menores fallecidos en operaciones militares",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-08",
+      "descripcion": "Medicina Legal confirmó la muerte de un menor de edad en un bombardeo de la Fuerza Pública contra el ELN en el Catatumbo. Esta muerte eleva a 16 la cifra de menores de edad que han fallecido en bombardeos de las fuerzas armadas contra grupos armados durante el gobierno actual. El caso evidencia un patrón preocupante en las operaciones militares que afectan a población civil menor de edad, sugiriendo posibles fallas en los protocolos de distinción y proporcionalidad en las operaciones contra objetivos militares.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/medicina-legal-confirma-muerte-de-menor-de-edad-en-bombardeo-contra-eln/",
+          "fecha": "2026-02-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Sánchez (Ministro de Defensa)"
+      ],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-08 18:24"
+    },
+    {
       "id": 330,
       "titulo": "CNE revoca listas del Pacto Histórico por irregularidades electorales",
       "categoria": "contratos",
