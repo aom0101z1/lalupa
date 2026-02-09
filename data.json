@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 333,
+      "titulo": "Contraloría detecta sobrecostos y pagos sin soporte en Programa de Alimentación Escolar",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-09",
+      "descripcion": "La Contraloría General de la República reveló hallazgos delicados sobre el Programa de Alimentación Escolar en Colombia, incluyendo sobrecostos y pagos sin soporte de ejecución. Estas irregularidades comprometen recursos públicos destinados a la alimentación de estudiantes en todo el territorio nacional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-delicados-hallazgos-de-la-contraloria-sobre-el-programa-de-alimentacion-escolar-en-toda-colombia-3530745",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Programa de Alimentación Escolar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-09 12:45"
+    },
+    {
+      "id": 332,
+      "titulo": "Exgobernador del Chocó imputado por corrupción en contratos de comercialización de licor",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-09",
+      "descripcion": "Patrocinio Sánchez, exgobernador del Chocó, fue imputado por los delitos de contrato sin cumplimiento de requisitos legales y peculado por apropiación en relación con dos contratos para comercializar licor. El exfuncionario no aceptó los cargos presentados por la Fiscalía.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/imputaron-a-exgobernador-del-choco-por-presunta-corrupcion-en-dos-contratos-para-comercializar-licor-3530794",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Patrocinio Sánchez"
+      ],
+      "entidad": "Gobernación del Chocó",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-09 12:45"
+    },
+    {
       "id": 331,
       "titulo": "Muerte de menor de edad en bombardeo contra ELN eleva cifra a 16 menores fallecidos en operaciones militares",
       "categoria": "abuso-poder",
