@@ -66,6 +66,96 @@
   ],
   "casos": [
     {
+      "id": 337,
+      "titulo": "Corte Suprema condena a fiscal Bibiana Orozco por prevaricato en caso Jineth Bedoya",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-09",
+      "descripcion": "La Corte Suprema de Justicia condenó a la fiscal Bibiana Orozco a cuatro años de cárcel por prevaricato en el caso de la periodista Jineth Bedoya. La Sala de Casación Penal revocó la sentencia absolutoria anterior, encontrando que la fiscal incurrió en abuso de poder en el manejo del caso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/atencion-corte-suprema-condena-a-la-fiscal-bibiana-orozco-por-prevaricato-en-el-caso-de-jineth-bedoya-3530911",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Bibiana Orozco"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-09 18:45"
+    },
+    {
+      "id": 336,
+      "titulo": "Dos miembros del comité promotor de la constituyente fueron contratistas estatales",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-09",
+      "descripcion": "Dos de los nueve miembros del comité promotor para recolectar firmas para una Asamblea Constituyente, aprobado por la Registraduría en enero, fueron contratistas del Estado entre 2024 y 2025. Esto genera un potencial conflicto de interés en la promoción de una reforma constitucional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/2-de-9-miembros-del-comite-de-la-constituyente-fueron-contratistas-estatales/",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-09 18:45"
+    },
+    {
+      "id": 335,
+      "titulo": "Fiscalía imputará a Juliana Guerrero por expedición irregular de títulos universitarios",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-09",
+      "descripcion": "La Fiscalía imputará cargos por falsedad en documento público y uso de documento público falso a Juliana Guerrero y al secretario de la Fundación San José por presuntas irregularidades en la expedición de títulos universitarios. El caso surge de una investigación por documentos académicos fraudulentos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/estos-son-los-dos-delitos-que-le-imputaran-a-juliana-guerrero-y-a-secretario-de-la-fundacion-san-jose-por-expedicion-de-titulos-universitarios-3530835",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Fundación San José",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-09 18:45"
+    },
+    {
+      "id": 334,
+      "titulo": "Fiscalía imputará a Ricardo Roa por violación de topes en campaña Petro y compra irregular de apartamento",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-09",
+      "descripcion": "La Fiscalía anunció que imputará cargos a Ricardo Roa, directivo de Ecopetrol, por presunta violación de topes electorales en la campaña presidencial de Gustavo Petro y por la supuesta compra irregular de un apartamento. El caso involucra tanto irregularidades en financiación electoral como posible tráfico de influencias.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/urgente-fiscalia-imputara-a-ricardo-roa-por-presunta-violacion-de-topes-en-la-campana-petro-presidente-3530876",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-09 18:45"
+    },
+    {
       "id": 333,
       "titulo": "Contraloría detecta sobrecostos y pagos sin soporte en Programa de Alimentación Escolar",
       "categoria": "recursos-publicos",
