@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 340,
+      "titulo": "Petro y Colombia Humana inician campaña contra fiscal general tras imputaciones a funcionarios",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-10",
+      "descripcion": "El presidente Petro y su movimiento político Colombia Humana iniciaron una cruzada contra la fiscal general Luz Adriana Camargo, pidiendo investigarla justo cuando se anunciaron imputaciones contra Juliana Guerrero y Ricardo Roa, dos funcionarios clave del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/presidente-petro-y-movimiento-colombia-humana-inician-cruzada-contra-la-fiscal-general-tras-el-llamado-a-imputacion-contra-dos-alfiles-del-gobierno-3531151",
+          "fecha": "2026-02-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-10 18:54"
+    },
+    {
       "id": 339,
       "titulo": "MinSalud planea trasladar 6 millones de usuarios a EPS intervenidas sin libre elección",
       "categoria": "abuso-poder",
