@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 339,
+      "titulo": "MinSalud planea trasladar 6 millones de usuarios a EPS intervenidas sin libre elección",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-09",
+      "descripcion": "Un proyecto del Ministerio de Salud busca trasladar a 6 millones de usuarios del sistema de salud a EPS intervenidas, limitando su derecho a la libre elección de aseguradora. La Mesa Nacional de Asociaciones de Usuarios en Salud advierte que esta medida podría agravar la crisis humanitaria en el sector salud y constituye un posible abuso de poder al restringir derechos fundamentales de los usuarios.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/proyecto-de-minsalud-trasladaria-a-6-millones-de-usuarios-a-eps-intervenidas/",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-10 01:26"
+    },
+    {
+      "id": 338,
+      "titulo": "Contraloría reporta triplicación de hallazgos fiscales en PAE durante 2025",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-09",
+      "descripcion": "El contralor delegado para el sector Educación, Andrey Rodríguez, reveló que en 2025 se triplicaron los hallazgos fiscales del Programa de Alimentación Escolar (PAE) en comparación con años anteriores. Esto representa una escalada significativa en las irregularidades detectadas en el manejo de recursos destinados a la alimentación de estudiantes en instituciones educativas públicas del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/en-2025-se-triplicaron-los-hallazgos-fiscales-del-pae-contralor-que-vigila-la-alimentacion-escolar-publica-en-colombia-3531029",
+          "fecha": "2026-02-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrey Rodríguez"
+      ],
+      "entidad": "Programa de Alimentación Escolar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-10 01:26"
+    },
+    {
       "id": 337,
       "titulo": "Corte Suprema condena a fiscal Bibiana Orozco por prevaricato en caso Jineth Bedoya",
       "categoria": "abuso-poder",
