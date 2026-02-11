@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 344,
+      "titulo": "Gobierno ordena retorno forzoso de exjefe anticorrupción de la Policía clave en casos como UNGRD",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-11",
+      "descripcion": "El presidente Gustavo Petro firmó un decreto ordenando el retorno a Colombia del coronel Jorge Alexander Mora, exjefe anticorrupción de la Policía y figura clave en casos como la UNGRD. El oficial acudió a la CIDH por temor a su seguridad, considerando que la orden podría ser una represalia por su trabajo en casos de corrupción que involucran al gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/exjefe-anticorrupcion-de-la-policia-acudio-a-la-cidh-tras-orden-del-gobierno-de-retornar-a-colombia-teme-por-su-seguridad-3531445",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jorge Alexander Mora"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-11 12:45"
+    },
+    {
       "id": 343,
       "titulo": "Petro denuncia presunto complot policial sin presentar evidencias",
       "categoria": "mentiras",
