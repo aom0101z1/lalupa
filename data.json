@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 342,
+      "titulo": "Consejo de Estado se declara competente para tramitar pérdida de investidura de Petro como senador",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-10",
+      "descripcion": "La Sala Plena del Consejo de Estado se atribuyó la competencia para tramitar una demanda de pérdida de investidura contra Gustavo Petro cuando era senador. Esta decisión abre un proceso jurídico que podría tener implicaciones sobre la legitimidad del actual presidente, relacionado con su conducta durante su periodo como congresista.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/primicia-consejo-de-estado-dice-que-es-competente-para-tramitar-la-perdida-de-investidura-de-gustavo-petro-como-senador-3531341",
+          "fecha": "2026-02-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Consejo de Estado",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-11 01:24"
+    },
+    {
+      "id": 341,
+      "titulo": "Gobierno Petro firmó más de $70.000 millones en contratos de propaganda política en una semana",
+      "categoria": "contratos",
+      "fecha": "2026-02-10",
+      "descripcion": "Katherine Miranda denunció que el gobierno de Petro firmó contratos por más de $70.000 millones en propaganda política en solo una semana, mientras el país atraviesa una crisis ambiental y días antes de que entrara en vigencia la Ley de Garantías. La denuncia cuestiona el timing y el monto de estos contratos de publicidad gubernamental.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/katherine-miranda-denuncio-que-gobierno-petro-firmo-mas-de-70-000-millones-en-contratos-de-propaganda-politica-en-tan-solo-una-semana-gravisimo-3531305",
+          "fecha": "2026-02-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Katherine Miranda",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-11 01:24"
+    },
+    {
       "id": 340,
       "titulo": "Petro y Colombia Humana inician campaña contra fiscal general tras imputaciones a funcionarios",
       "categoria": "abuso-poder",
