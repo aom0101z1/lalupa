@@ -66,6 +66,74 @@
   ],
   "casos": [
     {
+      "id": 347,
+      "titulo": "Registraduría oculta porcentaje de firmas avaladas para candidaturas presidenciales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-11",
+      "descripcion": "La Registraduría Nacional mantiene en reserva el porcentaje de firmas avaladas para las candidaturas presidenciales, un dato clave para evaluar la fuerza de los movimientos políticos. Desde 2018 la entidad no proporciona esta información pública.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/registraduria-sigue-sin-dar-porcentaje-de-firmas-avaladas-para-presidencia/",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-11 18:51"
+    },
+    {
+      "id": 346,
+      "titulo": "Gobierno oficializa salida del general Edwin Urrego tras acusaciones de Petro sobre presunto complot",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-11",
+      "descripcion": "El gobierno oficializa la salida de la Policía del general Edwin Urrego, quien fue señalado por el presidente Petro de participar en un presunto complot en su contra. Urrego fue llamado a calificar servicios y continuará en pagaduría durante tres meses.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/se-oficializa-la-salida-de-la-policia-del-general-edwin-urrego-senalado-por-el-presidente-petro-de-un-presunto-complot-en-su-contra-3531574",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Urrego",
+        "Gustavo Petro"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-11 18:51"
+    },
+    {
+      "id": 345,
+      "titulo": "Petro solicita 8 billones para nueva emergencia económica en Córdoba sin justificación clara",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-11",
+      "descripcion": "El presidente Petro solicita 8 billones de pesos para una nueva emergencia económica en Córdoba, pero el origen y justificación de esta cifra ha sido cuestionado por la oposición, recordando el escándalo de Olmedo López y los carrotanques en la UNGRD.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/de-donde-sale-la-cifra-de-8-billones-de-pesos-que-busca-el-presidente-petro-con-la-nueva-emergencia-economica-para-atender-la-crisis-en-cordoba-3531588",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-11 18:51"
+    },
+    {
       "id": 344,
       "titulo": "Gobierno ordena retorno forzoso de exjefe anticorrupción de la Policía clave en casos como UNGRD",
       "categoria": "abuso-poder",
