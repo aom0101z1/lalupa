@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 343,
+      "titulo": "Petro denuncia presunto complot policial sin presentar evidencias",
+      "categoria": "mentiras",
+      "fecha": "2026-02-10",
+      "descripcion": "El presidente Petro denunció un presunto complot en su contra, acusando a un general de la Policía de haber recibido órdenes para sembrar narcóticos en su vehículo. Las acusaciones fueron realizadas sin presentar evidencias concretas y en el marco de su campaña contra la Fiscalía tras las imputaciones a funcionarios de su gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/catatumbo-findeter-y-mineducacion-renuevan-escuelas-en-municipios-afectados-por-la-violencia-3531420",
+          "fecha": "2026-02-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-11 06:52"
+    },
+    {
       "id": 342,
       "titulo": "Consejo de Estado se declara competente para tramitar pérdida de investidura de Petro como senador",
       "categoria": "abuso-poder",
