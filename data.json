@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 351,
+      "titulo": "Contraloría confirma contratos por $14 billones antes de Ley de Garantías superando era Duque",
+      "categoria": "contratos",
+      "fecha": "2026-02-12",
+      "descripcion": "La Contraloría General de la República confirmó que el gobierno Petro realizó contratos por $14 billones antes de la entrada en vigencia de la Ley de Garantías electorales. Esta cifra equivale exactamente al monto solicitado para la emergencia económica y supera significativamente los montos contratados durante el gobierno de Iván Duque en el mismo período.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/la-sesion-reservada-que-pidio-la-defensa-de-sandra-ortiz-por-el-caso-ungrd-buscan-informacion-de-un-exsenador-3531773",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-12 12:41"
+    },
+    {
       "id": 350,
       "titulo": "Junta de Ecopetrol mantiene a Ricardo Roa pese a imputación por corrupción",
       "categoria": "conflicto-interes",
