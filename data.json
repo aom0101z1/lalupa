@@ -66,6 +66,76 @@
   ],
   "casos": [
     {
+      "id": 350,
+      "titulo": "Junta de Ecopetrol mantiene a Ricardo Roa pese a imputación por corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-11",
+      "descripcion": "La Junta Directiva de Ecopetrol no tiene planes para remover a Ricardo Roa de su cargo como presidente de la petrolera estatal, pese a que la Fiscalía lo acusará de dos delitos, uno de ellos por corrupción dentro de la compañía. Esta decisión genera cuestionamientos sobre conflictos de interés y manejo de la crisis reputacional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/listo-nombramiento-de-jorge-ivan-cuervo-como-nuevo-minjusticia/",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-12 01:17"
+    },
+    {
+      "id": 349,
+      "titulo": "General Urrego revela que Benedetti manifestó intención de sacarlo de la Policía",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-11",
+      "descripcion": "El general Edwin Urrego reveló que el ministro Iván Velásquez (anteriormente Benedetti) manifestó su intención de que saliera de la Policía Nacional. Urrego se refirió al decreto que formalizó su retiro y a los traslados que tuvo en los últimos meses, tras los señalamientos del presidente Petro sobre un presunto complot policial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-juzgado-falla-a-favor-de-petro-y-niega-tutelaton-por-polemicas-manifestaciones-sobre-la-sexualidad-de-jesus-3531694",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Urrego",
+        "Iván Velásquez"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-12 01:17"
+    },
+    {
+      "id": 348,
+      "titulo": "Defensoría alerta sobre plan para trasladar población privada de libertad a Nueva EPS en crisis financiera",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-11",
+      "descripcion": "La Defensoría del Pueblo emitió advertencias sobre el nuevo plan de salud que busca que la Nueva EPS asuma la atención médica de toda la población privada de la libertad. La principal preocupación se centra en la compleja situación financiera de la Nueva EPS, que podría comprometer la atención en salud de esta población vulnerable.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/corte-constitucional-solicita-a-la-jep-y-justicia-y-paz-que-disenen-un-plan-articulado-tras-confusion-por-competencia-sobre-lider-paramilitares-3531725",
+          "fecha": "2026-02-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Defensor del Pueblo"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-12 01:17"
+    },
+    {
       "id": 347,
       "titulo": "Registraduría oculta porcentaje de firmas avaladas para candidaturas presidenciales",
       "categoria": "recursos-publicos",
