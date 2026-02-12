@@ -66,6 +66,96 @@
   ],
   "casos": [
     {
+      "id": 355,
+      "titulo": "Procuraduría no fue notificada sobre archivo de caso contra Ricardo Roa",
+      "categoria": "contratos",
+      "fecha": "2026-02-12",
+      "descripcion": "La Procuraduría reveló que la Fiscalía no le notificó el archivo del proceso contra Ricardo Roa, presidente de Ecopetrol, por supuesto direccionamiento de contratos. La empresa denunciante Helicol busca reabrir el caso. Esta situación evidencia fallas en la coordinación entre entes de control y posibles irregularidades procesales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/procuraduria-dice-que-fiscalia-no-le-notifico-el-archivo-de-caso-contra-ricardo-roa-por-supuesto-direccionamiento-de-contratos-3531806",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-12 18:49"
+    },
+    {
+      "id": 354,
+      "titulo": "Concurso de notarios suspendido por irregularidades y falta de transparencia",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-12",
+      "descripcion": "El concurso para ocupar 800 cargos de notarios fue suspendido tras denuncias de irregularidades y alertas sobre falta de transparencia. El Supernotariado ya fijó nueva fecha para que más de 5.800 personas se postulen. Este caso evidencia problemas en procesos de selección de funcionarios públicos que manejan fe pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/en-que-va-el-concurso-de-notarios-suspendido-por-denuncias-de-irregularidades-y-alertas-de-falta-de-transparencia-3531833",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Supernotariado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-12 18:49"
+    },
+    {
+      "id": 353,
+      "titulo": "Carlos Caicedo va a juicio por presunta contratación ilegal en Santa Marta",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-12",
+      "descripcion": "La Fiscalía General acusa al candidato presidencial Carlos Caicedo de presuntos hechos de corrupción relacionados con contratación ilegal durante su época como alcalde de Santa Marta. El caso avanza a juicio, lo que representa un proceso judicial formal contra un aspirante a la Presidencia por actos de corrupción administrativa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/carlos-caicedo-candidato-a-la-presidencia-va-a-juicio-por-presunta-contratacion-ilegal-en-santa-marta-3531849",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo"
+      ],
+      "entidad": "Alcaldía de Santa Marta",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-12 18:49"
+    },
+    {
+      "id": 352,
+      "titulo": "Falta de pago a más de 2.300 contratistas estatales desde diciembre",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-12",
+      "descripcion": "La senadora Angélica Lozano denuncia que más de 2.300 contratistas de entidades del Estado no han recibido pagos desde diciembre de 2025. Entre las entidades señaladas están los Ministerios del Interior y de Ciencia, el DNP, y la UPIT. Esta situación evidencia problemas en la gestión de recursos públicos y el cumplimiento de obligaciones contractuales del Estado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/senadora-angelica-lozano-denuncia-falta-de-pago-a-mas-de-2-300-contratistas-de-entidades-del-estado-desde-diciembre-3531875",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Angélica Lozano"
+      ],
+      "entidad": "Ministerios del Interior y de Ciencia, DNP, UPIT",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-12 18:49"
+    },
+    {
       "id": 351,
       "titulo": "Contraloría confirma contratos por $14 billones antes de Ley de Garantías superando era Duque",
       "categoria": "contratos",
