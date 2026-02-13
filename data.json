@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 358,
+      "titulo": "Gobierno anuncia impuesto excepcional a grandes empresas durante emergencia por lluvias",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-13",
+      "descripcion": "El presidente Petro anunció la implementación de un impuesto al patrimonio dirigido a las grandes empresas más ricas del país como medida excepcional durante la emergencia por lluvias. El mandatario defendió esta medida como un mecanismo no nuevo en Colombia, utilizando el estado de emergencia para implementar nuevos gravámenes. Esta decisión genera cuestionamientos sobre el uso del estado de excepción para medidas fiscales controvertidas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-anuncia-impuesto-a-grandes-empresas-en-medio-de-la-emergencia-por-lluvias-estamos-hablando-de-las-mas-ricas-no-las-endeudadas-3532079",
+          "fecha": "2026-02-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-13 12:37"
+    },
+    {
       "id": 357,
       "titulo": "Fiscalía investigará denuncias de interceptaciones ilegales al vicecontralor general",
       "categoria": "abuso-poder",
