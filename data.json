@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 357,
+      "titulo": "Fiscalía investigará denuncias de interceptaciones ilegales al vicecontralor general",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-12",
+      "descripcion": "La Fiscalía abrió investigación por denuncia del vicecontralor general Carlos Mario Zuluaga sobre interceptaciones ilegales a sus comunicaciones. Zuluaga ha manifestado que se está gestando un complot de testimonios falsos en su contra, lo que sugiere posibles retaliaciones por su trabajo de control fiscal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-investigara-denuncia-del-vicecontralor-general-sobre-interceptaciones-ilegales-a-sus-comunicaciones-este-es-el-equipo-a-cargo-de-la-pesquisa-3532016",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Mario Zuluaga"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-13 01:20"
+    },
+    {
+      "id": 356,
+      "titulo": "Presidencia niega responsabilidad en interceptaciones ilegales a exempleadas de Laura Sarabia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-12",
+      "descripcion": "La Presidencia de la República niega responsabilidad en el caso de interceptaciones ilegales realizadas a Marelbys Meza y Fabiola Perea, quienes fueron exempleadas de Laura Sarabia, jefa de gabinete presidencial. Las dos mujeres afectadas exigen al Estado reparación e indemnización por los hechos de interceptación de sus comunicaciones.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidencia-niega-responsabilidad-en-el-caso-de-las-interceptaciones-a-marelbys-meza-y-fabiola-perea-3531957",
+          "fecha": "2026-02-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia",
+        "Marelbys Meza",
+        "Fabiola Perea"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-13 01:20"
+    },
+    {
       "id": 355,
       "titulo": "Procuraduría no fue notificada sobre archivo de caso contra Ricardo Roa",
       "categoria": "contratos",
