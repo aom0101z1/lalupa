@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 360,
+      "titulo": "Consejo de Estado suspende decreto de salario mínimo por falta de justificación técnica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-13",
+      "descripcion": "El Consejo de Estado suspendió provisionalmente el decreto presidencial que fijó un aumento del salario mínimo del 23% para 2026, tras estudiar unas 30 demandas. El tribunal señaló la falta de implementación de parámetros macroeconómicos y justificación técnica adecuada en la medida, configurando una extralimitación en el procedimiento de fijación del salario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/atencion-consejo-de-estado-suspende-provisionalmente-el-decreto-de-salario-minimo-para-3532123",
+          "fecha": "2026-02-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-13 18:34"
+    },
+    {
+      "id": 359,
+      "titulo": "Tribunal admite demanda contra contrato de pasaportes con Portugal por desabastecimiento",
+      "categoria": "contratos",
+      "fecha": "2026-02-13",
+      "descripcion": "El Tribunal de Cundinamarca confirmó la admisión de demanda contra la Imprenta Nacional y Cancillería por el contrato con Portugal para expedición de pasaportes. La demanda se basa en el desabastecimiento y congestión registrados en septiembre de 2025 que afectaron a miles de ciudadanos, sugiriendo irregularidades en la contratación del servicio.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/tribunal-de-cundinamarca-confirma-la-demanda-contra-la-imprenta-y-la-cancilleria-por-el-contrato-con-portugal-para-la-expedicion-de-pasaportes-3532230",
+          "fecha": "2026-02-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Imprenta Nacional y Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-13 18:34"
+    },
+    {
       "id": 358,
       "titulo": "Gobierno anuncia impuesto excepcional a grandes empresas durante emergencia por lluvias",
       "categoria": "abuso-poder",
