@@ -66,6 +66,31 @@
   ],
   "casos": [
     {
+      "id": 363,
+      "titulo": "Madre de ministra de Cultura también habría firmado contratos estatales por $600 millones",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-14",
+      "descripcion": "Jennifer Pedraza denunció que no solo el hermano de la ministra de Cultura habría firmado contratos con el Estado, sino también su madre por cerca de $600 millones. Esto amplía las sospechas de nepotismo en el entorno familiar de la ministra, quien afirmó ser 'responsable y transparente' tras los señalamientos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/mama-de-ministra-de-cultura-tambien-habria-firmado-contratos-por-cerca-de-600-millones-segun-denuncia-de-jennifer-pedraza-no-solo-el-hermano-3532345",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Ministra de Cultura",
+        "Jennifer Pedraza",
+        "Madre de ministra de Cultura"
+      ],
+      "entidad": "Ministerio de Cultura",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-14 06:33"
+    },
+    {
       "id": 362,
       "titulo": "Candidato de Felipe Harman busca endosar réditos de entrega de tierras de la ANT en campaña electoral",
       "categoria": "conflicto-interes",
