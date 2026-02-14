@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 365,
+      "titulo": "Fiscalía investiga contratos millonarios para supuesto maquillaje y fotos de primera dama",
+      "categoria": "contratos",
+      "fecha": "2026-02-14",
+      "descripcion": "La Fiscalía investiga contratos por $23 mil millones desde RTVC para un famoso fotógrafo y un maquillador que estarían al servicio de la primera dama Verónica Alcocer. Los contratos fueron supuestamente destinados para fotos y maquillaje, generando cuestionamientos sobre el uso de recursos públicos para servicios personales de la primera dama.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/opinion/economia-de-contrapesos/",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-14 18:21"
+    },
+    {
+      "id": 364,
+      "titulo": "Alias Violeta fungía como gestora de paz mientras enfrentaba proceso por atentado al Andino",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-14",
+      "descripcion": "Piden capturar nuevamente a alias Violeta, quien fue dejada en libertad para hacer parte de los acercamientos del Gobierno con grupos armados en el marco de la Paz Total, mientras al mismo tiempo enfrentaba proceso judicial por el atentado terrorista al centro comercial Andino en Bogotá. La situación evidencia inconsistencias en los procesos de paz del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-llama-a-juicio-disciplinario-a-teniente-coronel-senalado-de-acoso-sexual-a-una-companera-en-guaviare-3532429",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias Violeta"
+      ],
+      "entidad": "Alto Comisionado para la Paz",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-14 18:21"
+    },
+    {
       "id": 363,
       "titulo": "Madre de ministra de Cultura también habría firmado contratos estatales por $600 millones",
       "categoria": "nepotismo",
