@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 362,
+      "titulo": "Candidato de Felipe Harman busca endosar réditos de entrega de tierras de la ANT en campaña electoral",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-13",
+      "descripcion": "Una tutela debe definir el futuro del candidato respaldado por Felipe Harman, director de la ANT, quien buscaría utilizar la maquinaria institucional y los réditos políticos de la entrega de tierras para beneficio electoral. El caso evidencia un posible conflicto de interés entre las funciones públicas de Harman en la ANT y sus actividades de apoyo político a candidatos específicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/colombia-arranca-erradicacion-de-cultivos-de-coca-con-drones/",
+          "fecha": "2026-02-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Felipe Harman",
+        "José Manuel Sandoval"
+      ],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-14 01:13"
+    },
+    {
+      "id": 361,
+      "titulo": "Juez compulsa copias para investigar disciplinariamente a miembros de la oficina del Alto Comisionado para la Paz por caso Andino",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-13",
+      "descripcion": "Un juez ordenó compulsar copias para que se investigue disciplinariamente a miembros de la oficina del Alto Comisionado para la Paz en el marco del caso del atentado terrorista al centro comercial Andino de Bogotá. La decisión sugiere posibles irregularidades o faltas disciplinarias por parte de funcionarios de esta entidad gubernamental en el manejo del caso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/juez-reactiva-orden-de-captura-contra-alias-violeta-por-el-atentado-terrorista-al-centro-comercial-andino-de-bogota-3532293",
+          "fecha": "2026-02-13"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Violeta"
+      ],
+      "entidad": "Alto Comisionado para la Paz",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-14 01:13"
+    },
+    {
       "id": 360,
       "titulo": "Consejo de Estado suspende decreto de salario mínimo por falta de justificación técnica",
       "categoria": "abuso-poder",
