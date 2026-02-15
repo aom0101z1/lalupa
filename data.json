@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 370,
+      "titulo": "Empresarios del círculo de Petro reciben contratos petroleros en Venezuela",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-14",
+      "descripcion": "Una empresa fundada por el compadre del presidente Petro obtuvo contratos petroleros en Venezuela otorgados por Delcy Rodríguez. La empresa explota dos campos petroleros que suman más de la mitad de las reservas que tiene toda Colombia, lo que configura un potencial conflicto de intereses dado el vínculo personal con el presidente colombiano.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/niegan-informacion-clave-que-buscaba-defensa-de-sandra-ortiz-en-investigacion-por-el-escandalo-de-la-ungrd-3532433",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Delcy Rodríguez"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-15 12:29"
+    },
+    {
       "id": 369,
       "titulo": "Créditos públicos de Finagro financian ganadería que causa deforestación en Amazonía",
       "categoria": "recursos-publicos",
