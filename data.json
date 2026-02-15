@@ -66,6 +66,92 @@
   ],
   "casos": [
     {
+      "id": 369,
+      "titulo": "Créditos públicos de Finagro financian ganadería que causa deforestación en Amazonía",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-14",
+      "descripcion": "Investigación revela que cuatro de cada diez pesos de Finagro van a ganadería en la Amazonía, actividad que es la principal causa de deforestación en la región. Esto representa un mal uso de recursos públicos que contradicen las políticas ambientales del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/piden-capturar-nuevamente-a-alias-violeta-fue-gestora-de-paz-del-gobierno-mientras-enfrentaba-proceso-por-el-atentado-terrorista-al-andino-en-bogota-3532402",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Finagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-15 06:39"
+    },
+    {
+      "id": 368,
+      "titulo": "Gobierno Petro ha declarado cuatro estados de excepción en menos de tres años",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-14",
+      "descripcion": "Además de la emergencia frenada por la Corte, el Ejecutivo ha usado frecuentemente la figura de estados de excepción. Expertos advierten sobre la tendencia del gobierno a gobernar vía decreto, lo que genera preocupaciones sobre el abuso de estas facultades constitucionales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/los-cuatro-estados-de-excepcion-que-ha-ordenado-el-gobierno-del-presidente-petro-en-menos-de-tres-anos-3532469",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-15 06:39"
+    },
+    {
+      "id": 367,
+      "titulo": "Cascada de contratos públicos antes de la Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-14",
+      "descripcion": "Informe revela una cascada de contratos públicos firmados en la previa a la entrada en vigencia de la Ley de Garantías. Barranquilla, Medellín y Cali lideran el escalafón de entidades territoriales que más acuerdos de contratación directa firmaron en este período.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/informe-en-previa-a-la-ley-de-garantias-hubo-una-cascada-de-contratos-publicos-3532471",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Entidades territoriales (Barranquilla, Medellín, Cali)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-15 06:39"
+    },
+    {
+      "id": 366,
+      "titulo": "Presidencia niega irregularidades en contratos interadministrativos por $23.000 millones",
+      "categoria": "contratos",
+      "fecha": "2026-02-14",
+      "descripcion": "La Presidencia respondió a denuncias sobre contratos interadministrativos por casi 23.000 millones de pesos, negando irregularidades y asegurando que las cifras denunciadas eran inexactas. El caso surge por cuestionamientos a la contratación directa del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidencia-responde-a-denuncia-sobre-contratos-interadministrativos-por-casi-23-000-millones-de-pesos-3532497",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-15 06:39"
+    },
+    {
       "id": 365,
       "titulo": "Fiscalía investiga contratos millonarios para supuesto maquillaje y fotos de primera dama",
       "categoria": "contratos",
