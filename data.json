@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 372,
+      "titulo": "Presunta estafa en operación Torre Barcelona involucra a empresario cercano a Verónica Alcocer",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-15",
+      "descripcion": "Copropietarios señalan al empresario catalán Manuel Grau, cercano a la primera dama Verónica Alcocer, por presuntas fallas en el manejo de recursos e incumplimiento en la rentabilidad prometida en la operación de la Torre Barcelona en Bogotá. El caso genera cuestionamientos sobre posibles conflictos de interés dado el vínculo con la familia presidencial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/concurso-para-45-curadores-urbanos-amplia-plazo-de-inscripcion-requisitos-fechas-y-claves-del-proceso-3532539",
+          "fecha": "2026-02-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Manuel Grau",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-15 18:23"
+    },
+    {
+      "id": 371,
+      "titulo": "Capturan a fiscal antinarcóticos y dos agentes de la Dijín por presunta extorsión",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-15",
+      "descripcion": "Fiscal antinarcóticos y dos agentes de la Dijín fueron capturados por presunta extorsión a un transportista. Al fiscal detenido se le incautaron computadores y documentos que hacen parte del proceso por presunta corrupción, evidenciando posibles irregularidades en el sistema de justicia especializado contra el narcotráfico.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/subastas-de-la-sae-en-2026-a-la-venta-bienes-que-pertenecieron-a-narcos-y-grupos-ilegales-3532556",
+          "fecha": "2026-02-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Fiscal antinarcóticos (sin identificar)",
+        "Dos agentes Dijín"
+      ],
+      "entidad": "Fiscalía General de la Nación y Dijín",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-15 18:23"
+    },
+    {
       "id": 370,
       "titulo": "Empresarios del círculo de Petro reciben contratos petroleros en Venezuela",
       "categoria": "conflicto-interes",
