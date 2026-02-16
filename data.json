@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 378,
+      "titulo": "Condenado Ramiro Suárez busca curul a través de su hija",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-16",
+      "descripcion": "Eimy Suárez González, hija del condenado Ramiro Suárez, figura como cabeza de lista a la Cámara de Representantes en Norte de Santander por Cambio Radical, lo que genera sospechas de que el político condenado buscaría ejercer influencia política a través de su familiar.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/economia-en-colombia-crecio-26-en-2025-dane/",
+          "fecha": "2026-02-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Ramiro Suárez",
+        "Eimy Suárez González"
+      ],
+      "entidad": "Cambio Radical",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-16 18:31"
+    },
+    {
+      "id": 377,
+      "titulo": "Gustavo Bolívar pide investigar a senadora Berenice Bedoya por supuestos cobros de coimas",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-16",
+      "descripcion": "El senador Gustavo Bolívar solicitó investigar a la senadora Berenice Bedoya tras señalamientos de supuestos cobros de coimas a miembros de su UTL. La senadora, candidata por el Partido ASI, también ha sido mencionada en el escándalo de la UNGRD.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-bolivar-pide-investigar-a-senadora-berenice-bedoya-tras-senalamientos-de-supuestos-cobros-de-coimas-a-miembros-de-su-utl-3532692",
+          "fecha": "2026-02-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Berenice Bedoya",
+        "Gustavo Bolívar"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-16 18:31"
+    },
+    {
       "id": 376,
       "titulo": "Contraloría activará grupo especial para vigilar uso de recursos del decreto de Emergencia Económica",
       "categoria": "recursos-publicos",
