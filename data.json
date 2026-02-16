@@ -66,6 +66,56 @@
   ],
   "casos": [
     {
+      "id": 375,
+      "titulo": "Cuentas anónimas gastan más de $800 millones en campaña sucia electoral contra Cepeda",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-15",
+      "descripcion": "Seis cuentas anónimas en Facebook han gastado más de $800 millones en pauta publicitaria coordinada contra el candidato Iván Cepeda y a favor de Sergio Pinzón y Sergio Fajardo. Las cuentas muestran coordinación en su estrategia de campaña sucia. Tanto Fajardo como Pinzón negaron tener vínculos con estas cuentas, pero la operación revela financiación irregular de campañas electorales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-lio-por-presunta-estafa-en-la-operacion-de-la-torre-barcelona-en-bogota-que-involucra-al-catalan-manuel-grau-cercano-a-veronica-alcocer-3532528",
+          "fecha": "2026-02-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Sergio Pinzón",
+        "Sergio Fajardo"
+      ],
+      "entidad": "Sistema electoral",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-16 06:53"
+    },
+    {
+      "id": 374,
+      "titulo": "Ministro de Salud Guillermo Alfonso Jaramillo investigado por irregularidades en pagos de campaña Petro 2022",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-15",
+      "descripcion": "La Fiscalía avanza en investigación contra el ministro de Salud Guillermo Alfonso Jaramillo por supuestas irregularidades en pagos de la campaña presidencial de Gustavo Petro de 2022 realizados a la empresa Sadi. Este caso se desarrolla tras la imputación a Ricardo Roa por el mismo tema de financiación irregular de campaña.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/el-capitulo-guillermo-alfonso-jaramillo-en-la-fiscalia-tras-imputacion-a-ricardo-roa-por-la-campana-petro-3532613",
+          "fecha": "2026-02-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo",
+        "Ricardo Roa",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-16 06:53"
+    },
+    {
       "id": 373,
       "titulo": "Fomag detecta $260 mil millones en pagos irregulares a docentes",
       "categoria": "corrupcion",
