@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 373,
+      "titulo": "Fomag detecta $260 mil millones en pagos irregulares a docentes",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-14",
+      "descripcion": "El Fomag (Fondo de Prestaciones Sociales del Magisterio) detectó $260 mil millones en pagos irregulares realizados a docentes. El caso ya fue remitido a la Fiscalía para su investigación. El presidente Petro abordó el tema en su último consejo de ministros, mostrando preocupación por estas irregularidades en el manejo de recursos públicos destinados al sector educativo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/todos-los-dias-llegan-5-000-tutelas-para-seleccion-paola-meneses-nueva-presidenta-de-la-corte-constitucional-3532478",
+          "fecha": "2026-02-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Fomag",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-16 01:16"
+    },
+    {
       "id": 372,
       "titulo": "Presunta estafa en operación Torre Barcelona involucra a empresario cercano a Verónica Alcocer",
       "categoria": "conflicto-interes",
