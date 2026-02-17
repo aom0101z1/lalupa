@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 387,
+      "titulo": "Procuraduría investiga a expresidente de EPS por uso indebido de recursos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-17",
+      "descripcion": "La Procuraduría abrió investigación contra José Homero Cadena, expresidente de Emssanar EPS, por presunto uso indebido de recursos. Cadena habría utilizado dinero destinado para la seguridad social para pagar una sentencia judicial, desviando fondos que debían usarse para atención en salud de los afiliados.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abrio-investigacion-contra-el-expresidente-de-emssanar-eps-por-presunto-uso-indebido-de-recursos-3533107",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "José Homero Cadena"
+      ],
+      "entidad": "Emssanar EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 18:44"
+    },
+    {
+      "id": 386,
+      "titulo": "Ministro Benedetti ataca orientación sexual de congresista y se retracta",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-17",
+      "descripcion": "El ministro del Interior Armando Benedetti atacó al congresista Miguel Polo Polo por su orientación sexual en redes sociales, tras sugerencias de que desde Estados Unidos estarían esperando al ministro por supuestos delitos. Posteriormente Benedetti se retractó diciendo 'No debí haberlo hecho'. Este comportamiento constituye un abuso de su posición ministerial y discriminación.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/armando-benedetti-ministro-del-interior-ataco-a-miguel-polo-polo-por-su-orientacion-sexual-y-luego-se-retracto-no-debi-haberlo-hecho-3533062",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Miguel Polo Polo"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 18:44"
+    },
+    {
+      "id": 385,
+      "titulo": "Petro solicita ayuda diplomática a favor de congresista que apoyó a Trump",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-17",
+      "descripcion": "El presidente Gustavo Petro pidió a la embajada de Colombia en EE.UU. que ayude en gestiones a la representante Ángela Vergara, cuyo hijo fue detenido por el ICE, después de que la congresista apareciera en redes sociales apoyando a Donald Trump. Esto plantea cuestionamientos sobre el uso de recursos diplomáticos para favorecer a funcionarios que públicamente respaldaron al mandatario estadounidense.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-pide-a-embajada-de-colombia-en-ee-uu-que-ayude-en-gestiones-a-representante-cuyo-hijo-fue-detenido-por-el-ice-3533148",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Ángela Vergara"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-17 18:44"
+    },
+    {
       "id": 384,
       "titulo": "Fiscalía lleva a juicio a tres implicados en corrupción del Valle de Aburrá en era Daniel Quintero",
       "categoria": "corrupcion",
