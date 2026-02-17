@@ -66,6 +66,76 @@
   ],
   "casos": [
     {
+      "id": 381,
+      "titulo": "Alerta por incremento irregular de inscripciones de cédulas en Tumaco rural para elecciones",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-16",
+      "descripcion": "Se reportó un incremento del 909% en inscripciones de cédulas en Tumaco rural, pasando de 1.950 a casi 17.000. Una candidata a la circunscripción de paz denunció ante el Consejo Nacional Electoral por posible trasteo de votos para manipular los resultados electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/alerta-por-inscripcion-de-cedulas-en-tumaco-rural-de-1-950-a-casi-17-mil/",
+          "fecha": "2026-02-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 01:16"
+    },
+    {
+      "id": 380,
+      "titulo": "Alias Boyaco nombrado gestor de paz por Petro está detenido tras ser capturado en caravana de la UNP",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-16",
+      "descripcion": "Alias Boyaco, disidente de 'Calarcá', fue nombrado gestor de paz por el presidente Petro pero actualmente está detenido en una cárcel de Villavicencio tras ser capturado en la caravana de camionetas de la UNP. Insiste por obtener cupo en la JEP pese a su situación judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/jep-colombia/alias-boyaco-el-disidente-de-calarca-detenido-en-la-caravana-de-camionetas-de-la-unp-que-insiste-por-cupo-en-la-jep-3532865",
+          "fecha": "2026-02-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Alias Boyaco"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 01:16"
+    },
+    {
+      "id": 379,
+      "titulo": "Ministro Armando Benedetti lidera recolección de firmas para Asamblea Nacional Constituyente con funcionarios públicos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-16",
+      "descripcion": "El ministro Armando Benedetti confirmó que inició la recolección de firmas para la Asamblea Nacional Constituyente y mostró una planilla donde aparecen su nombre junto con el del ministro de Trabajo Antonio Sanguino y la consejera Luz María Múnera, evidenciando el uso de funcionarios públicos para actividades políticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/ministro-armando-benedetti-confirmo-que-inicio-la-recoleccion-de-firmas-para-la-asamblea-nacional-constituyente-he-firmado-3532935",
+          "fecha": "2026-02-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Antonio Sanguino",
+        "Luz María Múnera"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-17 01:16"
+    },
+    {
       "id": 378,
       "titulo": "Condenado Ramiro Suárez busca curul a través de su hija",
       "categoria": "nepotismo",
