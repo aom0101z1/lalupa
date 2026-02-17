@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 384,
+      "titulo": "Fiscalía lleva a juicio a tres implicados en corrupción del Valle de Aburrá en era Daniel Quintero",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-17",
+      "descripcion": "La Fiscalía General llevará a juicio a tres personas implicadas en presunta corrupción en el Valle de Aburrá durante la administración de Daniel Quintero. Los investigados enfrentan cargos por interés indebido en la celebración de contratos y peculado. Uno de los implicados se encuentra privado de la libertad. El caso evidencia irregularidades en la contratación pública durante la gestión del exalcalde de Medellín.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/quien-responde-por-la-muerte-de-kevin-acosta-el-nino-con-hemofilia-sin-tratamiento-3533005",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "Valle de Aburrá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 12:40"
+    },
+    {
+      "id": 383,
+      "titulo": "Presidente Petro culpa a familia por muerte de menor con hemofilia que esperaba medicamento",
+      "categoria": "mentiras",
+      "fecha": "2026-02-17",
+      "descripcion": "El presidente Gustavo Petro realizó declaraciones controvertidas tras la muerte de Kevin Acosta, un menor con hemofilia que esperaba la entrega de medicamento vital. Petro responsabilizó a la familia del menor, afirmando que 'la familia debe prevenir' y que 'si a un niño hemofílico no se le deja subir a la bicicleta, tiene menos riesgos', generando rechazo generalizado por culpar a los familiares en lugar de reconocer las fallas del sistema de salud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-se-pronuncio-tras-la-muerte-de-kevin-acosta-menor-con-hemofilia-que-esperaba-entrega-de-medicamento-la-familia-debe-prevenir-3532989",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 12:40"
+    },
+    {
       "id": 382,
       "titulo": "Revelan empresas favorecidas en cascada de contratación previa a Ley de Garantías",
       "categoria": "contratos",
