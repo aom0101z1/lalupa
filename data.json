@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 382,
+      "titulo": "Revelan empresas favorecidas en cascada de contratación previa a Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-02-16",
+      "descripcion": "El Tiempo obtuvo acceso al informe completo que detalla las empresas más beneficiadas con la avalancha de contrataciones estatales realizadas justo antes de que entrara en vigor la Ley de Garantías. Entre los beneficiarios se encuentra Pierre Richard Schindler y el banco BBVA con múltiples contratos. Este caso amplía la información sobre la cascada de contrataciones ya documentada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/tras-desmanes-afuera-de-la-agencia-nacional-de-tierras-gobierno-petro-instalo-mesa-de-dialogo-con-comunidades-del-norte-del-cauca-3532966",
+          "fecha": "2026-02-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Pierre Richard Schindler"
+      ],
+      "entidad": "Entidades estatales múltiples",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-17 06:46"
+    },
+    {
       "id": 381,
       "titulo": "Alerta por incremento irregular de inscripciones de cédulas en Tumaco rural para elecciones",
       "categoria": "corrupcion",
