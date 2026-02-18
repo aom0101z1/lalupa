@@ -66,6 +66,104 @@
   ],
   "casos": [
     {
+      "id": 397,
+      "titulo": "Organizaciones de pacientes denuncian al ministro de Salud por presunto fraude",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-18",
+      "descripcion": "Organizaciones de pacientes presentaron denuncias contra el ministro de Salud Guillermo Jaramillo por presunto fraude. Las asociaciones pidieron suspender temporalmente al ministro en las funciones clave sobre la UPC y giro de recursos. Esta denuncia se suma a la investigación previa que enfrenta el funcionario por irregularidades en pagos de la campaña presidencial de Petro en 2022.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/organizaciones-de-pacientes-denuncian-al-minsalud-por-presunto-fraude/",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 18:40"
+    },
+    {
+      "id": 396,
+      "titulo": "Red de Veedurías denuncia irregularidades y politización en el Fomag",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-18",
+      "descripcion": "La Red de Veedurías presentó denuncias sobre supuestas irregularidades y politización en el Fondo de Prestaciones Sociales del Magisterio (Fomag). El veedor Pablo Bustos señaló que Hernán Bayona, como directivo del Fondo, estaría inmerso en un conflicto de intereses. Esta denuncia se suma a los hallazgos previos de $260 mil millones en pagos irregulares a docentes detectados por el mismo Fomag.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/red-de-veedurias-denuncia-supuestas-irregularidades-y-politizacion-en-el-fomag-esto-dice-el-documento-3533262",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Hernán Bayona",
+        "Pablo Bustos"
+      ],
+      "entidad": "Fomag",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-18 18:40"
+    },
+    {
+      "id": 395,
+      "titulo": "Corte Suprema mantiene investigación por 'cuotas' en la Dian contra Roy Barreras y otros congresistas",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-18",
+      "descripcion": "La Corte Suprema de Justicia descartó investigar a más de 20 congresistas por el escándalo de 'cuotas' en la Dian, pero mantiene las investigaciones contra Roy Barreras, Jairo Castellanos, Gloria Arizabaleta, la gobernadora Dilian Francisca Toro Torres y Gilberto Rondón González. El caso involucra presuntas irregularidades en nombramientos y manejo de cuotas burocráticas en la entidad tributaria.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-descarta-investigar-a-mas-de-20-congresistas-por-cuotas-en-la-dian-sigue-contra-roy-barreras-jairo-castellanos-y-gloria-arizabaleta-3533431",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Jairo Castellanos",
+        "Gloria Arizabaleta",
+        "Dilian Francisca Toro Torres",
+        "Gilberto Rondón González"
+      ],
+      "entidad": "Dian",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 18:40"
+    },
+    {
+      "id": 394,
+      "titulo": "Petro pide a jurados electorales desobedecer a la Registraduría sobre formularios E-14",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-18",
+      "descripcion": "El presidente Gustavo Petro desautorizó públicamente al registrador Hernán Penagos y llamó a los jurados electorales a desobedecer las recomendaciones oficiales de la Registraduría sobre el marcado de casillas en blanco en los formularios E-14. Esta acción constituye una interferencia directa del ejecutivo en los procesos electorales y un cuestionamiento a la autoridad de la institución electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-pide-desobedecer-a-la-registraduria-y-llama-a-jurados-electorales-a-que-marquen-espacios-en-blanco-en-formularios-e-3533375",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hernán Penagos"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 18:40"
+    },
+    {
       "id": 393,
       "titulo": "Petro denuncia intento de asesinato y sabotaje con droga por parte de mando policial",
       "categoria": "abuso-poder",
