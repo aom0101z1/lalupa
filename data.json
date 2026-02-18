@@ -66,6 +66,71 @@
   ],
   "casos": [
     {
+      "id": 390,
+      "titulo": "Congresistas acusados por la ANT de ocupar ilegalmente baldíos de la Nación",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-18",
+      "descripcion": "La directora de la ANT, Gerardine Losada, arremetió contra congresistas acusados de ocupar ilegalmente bienes baldíos de la nación. Los parlamentarios estarían utilizando su posición para beneficiarse de tierras públicas, configurando un claro conflicto de interés entre su función legislativa y sus intereses particulares en el acceso a tierras estatales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/cepeda-no-prometio-subir-el-minimo-a-5-millones-de-llegar-a-la-presidencia/",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gerardine Losada"
+      ],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 01:18"
+    },
+    {
+      "id": 389,
+      "titulo": "Contraloría encuentra irregularidades por $17 mil millones en auditoría al Magdalena",
+      "categoria": "contratos",
+      "fecha": "2026-02-17",
+      "descripcion": "La Contraloría General encontró hallazgos fiscales que superan los 17 mil millones de pesos en auditoría al departamento del Magdalena. Entre las irregularidades se identificaron: un colegio a medio hacer, contratos sin cumplir y pagos injustificados a profesores. Los hallazgos evidencian graves fallas en la contratación pública y el manejo de recursos destinados a educación.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/los-enredos-de-berenice-bedoya-de-las-menciones-en-el-saqueo-de-la-ungrd-a-la-denuncia-por-pedir-tajada-a-su-utl-3533221",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 01:18"
+    },
+    {
+      "id": 388,
+      "titulo": "Inscripción atípica de cédulas en Guaviare, Norte de Santander y Guainía para elecciones",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-17",
+      "descripcion": "Guaviare, Norte de Santander y Guainía registran las tasas más altas de inscripción atípica de cédulas para las elecciones según datos de la MOE con corte al 8 de enero. Estos territorios tienen como común denominador la violencia y crisis humanitarias, lo que genera sospechas sobre posible manipulación electoral en zonas donde el Estado tiene menor presencia.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/violencia-y-crisis-humanitarias-el-comun-denominador-en-territorios-bajo-lupa-por-inscripcion-atipica-de-cedulas-para-elecciones-3533194",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 01:18"
+    },
+    {
       "id": 387,
       "titulo": "Procuraduría investiga a expresidente de EPS por uso indebido de recursos",
       "categoria": "recursos-publicos",
