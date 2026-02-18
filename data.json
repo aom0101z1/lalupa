@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 393,
+      "titulo": "Petro denuncia intento de asesinato y sabotaje con droga por parte de mando policial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-17",
+      "descripcion": "El presidente Gustavo Petro denunció que un mando de la Policía intentó colocarle droga en su vehículo para sabotear su visita a Trump, y también reportó un intento de asesinato mediante sabotaje al helicóptero presidencial. Ordenó la salida del general Edwin Urrego de la Policía por su presunta participación en el complot.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/tribunal-ordena-reintegro-de-jose-ismael-pena-a-la-rectoria-de-la-unal/",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Edwin Urrego"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-18 06:51"
+    },
+    {
+      "id": 392,
+      "titulo": "Tribunal ordena reintegro de José Ismael Peña a la rectoría de la Universidad Nacional",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-18",
+      "descripcion": "El Tribunal Superior de Bogotá ordenó el reintegro de José Ismael Peña a la rectoría de la Universidad Nacional en un plazo de 48 horas. Leopoldo Múnera había desistido de continuar en la rectoría hace dos semanas. El caso sugiere irregularidades en el proceso de designación o remoción del rector.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-imagen-del-cinturon-de-hielo-en-sudamerica-fue-creada-con-ia/",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ismael Peña",
+        "Leopoldo Múnera"
+      ],
+      "entidad": "Universidad Nacional de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-18 06:51"
+    },
+    {
+      "id": 391,
+      "titulo": "Juez niega medida de aseguramiento contra exjefe del AMVA en caso de corrupción era Quintero",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-17",
+      "descripcion": "Un juez de Medellín negó la medida de aseguramiento solicitada por la Fiscalía contra el exjefe del Área Metropolitana del Valle de Aburrá (AMVA) durante la administración de Daniel Quintero. El señalamiento que queda sobre la mesa es por obstrucción a la justicia por presuntamente borrar información clave en el caso de corrupción.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-no-cuestiono-el-monto-del-minimo-sino-el-incumplimiento-de-parametros-legales-magistrado-montana-3533192",
+          "fecha": "2026-02-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Exjefe del AMVA",
+        "Daniel Quintero"
+      ],
+      "entidad": "Área Metropolitana del Valle de Aburrá (AMVA)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-18 06:51"
+    },
+    {
       "id": 390,
       "titulo": "Congresistas acusados por la ANT de ocupar ilegalmente baldíos de la Nación",
       "categoria": "conflicto-interes",
