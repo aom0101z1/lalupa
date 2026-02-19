@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 400,
+      "titulo": "Comisión investiga a magistrados que absolvieron a Uribe por posibles inhabilidades",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-18",
+      "descripcion": "La Comisión Nacional de Disciplina Judicial abrió investigación contra magistrados que participaron en la absolución de Álvaro Uribe en el caso de falsos testigos. Se revisará si estos magistrados violaron el régimen de inhabilidades al conocer del proceso, lo que podría configurar conflicto de intereses en sus decisiones judiciales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/comision-investiga-a-magistrados-que-absolvieron-a-uribe/",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Magistrados sin especificar"
+      ],
+      "entidad": "Comisión Nacional de Disciplina Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-19 01:17"
+    },
+    {
+      "id": 399,
+      "titulo": "Hugo Aguilar llamado a juicio por presunto desfalco en contrato de juguetes",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-18",
+      "descripcion": "El exgobernador de Santander Hugo Aguilar fue llamado a juicio por los delitos de peculado por apropiación y contrato sin cumplimiento de requisitos legales en relación con un contrato de juguetes. El caso involucra un presunto desfalco y amenazas a testigos que podrían declarar sobre las irregularidades en la contratación.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/el-testigo-amenazado-y-el-presunto-desfalco-en-el-contrato-de-juguetes-por-el-que-acusan-a-hugo-aguilar-ante-la-corte-3533490",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Hugo Aguilar"
+      ],
+      "entidad": "Gobernación de Santander",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-19 01:17"
+    },
+    {
+      "id": 398,
+      "titulo": "Corte Suprema condena a exmagistrado Carlos Vargas por convertir despacho en oficina de favores judiciales",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-18",
+      "descripcion": "La Corte Suprema emitió sentido de fallo condenatorio contra el exmagistrado Carlos Alberto Vargas Bautista por los delitos de prevaricato y cohecho. El alto tribunal determinó que Vargas convirtió su despacho en una oficina de favores judiciales, abusando de su posición para beneficiar intereses particulares a cambio de dadivas o promesas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-condeno-al-exmagistrado-carlos-vargas-por-convertir-su-despacho-en-una-oficina-de-favores-judiciales-3533602",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Alberto Vargas Bautista"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-19 01:17"
+    },
+    {
       "id": 397,
       "titulo": "Organizaciones de pacientes denuncian al ministro de Salud por presunto fraude",
       "categoria": "corrupcion",
