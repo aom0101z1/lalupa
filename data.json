@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 405,
+      "titulo": "Contraloría advierte que inversión en regalías no se traduce en mejoras sociales proporcionales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-19",
+      "descripcion": "El Contralor Carlos Hernán Rodríguez señaló que la magnitud de la inversión de recursos de regalías no se traduce proporcionalmente en mejoras sociales. La Contraloría lideró un foro para evaluar el uso de estos recursos y elevó preocupaciones por el freno a la exploración petrolera.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/la-magnitud-de-la-inversion-no-se-traduce-proporcionalmente-en-mejoras-sociales-contralor-sobre-el-uso-de-las-regalias-3533802",
+          "fecha": "2026-02-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Hernán Rodríguez"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-19 18:40"
+    },
+    {
+      "id": 404,
+      "titulo": "MOE denuncia altos costos de software del CNE y problemas en auditorías electorales",
+      "categoria": "contratos",
+      "fecha": "2026-02-19",
+      "descripcion": "La Misión de Observación Electoral (MOE) alertó sobre los costos del software del Consejo Nacional Electoral para inscripción de testigos electorales y reportó problemas en las auditorías a sistemas electorales. Las alertas fueron presentadas en informe para la novena comisión nacional de seguimiento a procesos electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/moe-llama-la-atencion-por-costos-de-software-del-cne-para-inscripcion-de-testigos-electorales-y-por-problemas-en-auditorias-a-sistemas-electorales-3533830",
+          "fecha": "2026-02-19"
+        }
+      ],
+      "personas_involucradas": [
+        "CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-19 18:40"
+    },
+    {
       "id": 403,
       "titulo": "Petro se atribuye falsamente reducción de tarifas eléctricas en el Caribe",
       "categoria": "mentiras",
