@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 403,
+      "titulo": "Petro se atribuye falsamente reducción de tarifas eléctricas en el Caribe",
+      "categoria": "mentiras",
+      "fecha": "2026-02-18",
+      "descripcion": "El presidente Petro quiere llevarse el crédito por la reducción del 28% en las tarifas de electricidad en el Caribe desde finales de 2024, cuando en realidad la reducción se debe a movilización social, decisiones judiciales y las lluvias, no a acciones gubernamentales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-constitucional-saca-a-jorge-ibanez-del-debate-de-la-pensional/",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-19 06:49"
+    },
+    {
+      "id": 402,
+      "titulo": "Petro desinforma sobre inflación de enero para defender alza del mínimo",
+      "categoria": "mentiras",
+      "fecha": "2026-02-19",
+      "descripcion": "El presidente Gustavo Petro usó un dato equivocado sobre inflación, exageró la baja 'histórica' de precios y culpó a factores que los datos del Dane y Banrep contradicen, todo para defender el alza del salario mínimo mediante desinformación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/claudia-lopez-se-juega-la-vida-en-la-consulta-yo-con-yo/",
+          "fecha": "2026-02-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-19 06:49"
+    },
+    {
+      "id": 401,
+      "titulo": "Katherine Miranda denuncia parálisis en 19 hospitales pese a millonarios anticipos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-18",
+      "descripcion": "La congresista Katherine Miranda denuncia que el Gobierno nacional comprometió medio billón de pesos en obras de 19 hospitales que presentan 0% de avance físico o retrasos críticos, configurando 'elefantes blancos' en el sector salud pese a los millonarios anticipos entregados.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/alarma-por-elefantes-blancos-en-salud-katherine-miranda-denuncia-paralisis-en-19-hospitales-pese-a-millonarios-anticipos-3533636",
+          "fecha": "2026-02-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Katherine Miranda"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-19 06:49"
+    },
+    {
       "id": 400,
       "titulo": "Comisión investiga a magistrados que absolvieron a Uribe por posibles inhabilidades",
       "categoria": "conflicto-interes",
