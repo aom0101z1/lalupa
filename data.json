@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 411,
+      "titulo": "Gobierno manipula cálculos matemáticos para justificar alza de salario mínimo",
+      "categoria": "mentiras",
+      "fecha": "2026-02-20",
+      "descripcion": "El gobierno creó artificialmente el concepto de 'brecha salarial' para aparentar cumplir con los requisitos legales y las exigencias del Consejo de Estado respecto al aumento del salario mínimo. Los cálculos presentados no son rigurosos técnicamente y constituyen una manipulación de datos para justificar decisiones ya tomadas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/gobierno-amana-matematicas-para-justificar-salario-minimo/",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-20 18:34"
+    },
+    {
+      "id": 410,
+      "titulo": "Ejecución crítica de política de conectividad digital cae a 61% en 2024",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-20",
+      "descripcion": "La Contraloría reportó que la ejecución de la política pública de conectividad digital está en niveles críticos, alcanzando solo el 61% en 2024, comparado con ejecuciones superiores al 90% en 2019 y 2020. Esto representa un mal uso o subejecución significativa de recursos públicos destinados a conectividad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-ejecucion-de-politica-publica-de-conectividad-digital-esta-en-niveles-criticos-en-2024-fue-de-3534079",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-20 18:34"
+    },
+    {
       "id": 409,
       "titulo": "Abogado renuncia a defensa de exministro Ricardo Bonilla en escándalo UNGRD",
       "categoria": "corrupcion",
