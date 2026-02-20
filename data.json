@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 409,
+      "titulo": "Abogado renuncia a defensa de exministro Ricardo Bonilla en escándalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-19",
+      "descripcion": "El penalista Mauricio Pava renunció a la defensa del exministro Ricardo Bonilla en el proceso que adelanta la Fiscalía por el escándalo de corrupción en la UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). La renuncia sugiere complicaciones en la defensa del alto exfuncionario del gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/el-abogado-mauricio-pava-renuncio-a-la-defensa-del-exministro-ricardo-bonilla-por-el-escandalo-de-la-ungrd-3533878",
+          "fecha": "2026-02-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla",
+        "Mauricio Pava"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-20 12:36"
+    },
+    {
+      "id": 408,
+      "titulo": "Interventor de Nueva EPS condenado a prisión por desacato a tutela médica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-20",
+      "descripcion": "Un juez ordenó 48 horas de cárcel para Luis Oscar Galves, interventor de la Nueva EPS, por desacatar una tutela de un paciente con problemas cardíacos que buscaba atención urgente por especialista. El caso evidencia negligencia en el cumplimiento de órdenes judiciales para garantizar derechos fundamentales de salud.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/juez-ordeno-carcelazo-de-48-horas-para-interventor-de-la-nueva-eps-luis-oscar-galves-por-desacato-a-tutela-de-paciente-con-problemas-cardiacos-3533992",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Oscar Galves"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-20 12:36"
+    },
+    {
       "id": 407,
       "titulo": "Pelea del clan Díaz Mateus divide candidaturas al Congreso en Santander",
       "categoria": "nepotismo",
