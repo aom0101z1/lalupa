@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 407,
+      "titulo": "Pelea del clan Díaz Mateus divide candidaturas al Congreso en Santander",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-19",
+      "descripcion": "El gobernador Juvenal Díaz rompió relaciones con su hermano, el exsenador Iván Díaz Mateus, y ambos llevan candidatos propios en las listas a la Cámara de Representantes por Santander. Este caso evidencia cómo las familias políticas tradicionales mantienen control sobre las candidaturas y perpetúan dinastías políticas en el departamento.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/drones-en-la-guerra-en-colombia-el-estado-sigue-cazando-nombres/",
+          "fecha": "2026-02-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Juvenal Díaz",
+        "Iván Díaz Mateus"
+      ],
+      "entidad": "Gobernación de Santander",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-20 06:43"
+    },
+    {
+      "id": 406,
+      "titulo": "Tío de alcaldesa de Aguachica regala agua con publicidad política de candidatos",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-20",
+      "descripcion": "El tío de la alcaldesa de Aguachica, Cesar, está regalando agua con publicidad de los candidatos Lobo y Ape Cuello, lo que constituye un posible uso de recursos familiares para hacer campaña política y potencial conflicto de interés al involucrar a parientes de funcionarios públicos en actividades proselitistas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/en-bogota-petro-firma-nuevo-decreto-para-subir-23-el-salario-minimo/",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcaldesa de Aguachica",
+        "Lobo",
+        "Ape Cuello"
+      ],
+      "entidad": "Alcaldía de Aguachica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-02-20 06:43"
+    },
+    {
       "id": 405,
       "titulo": "Contraloría advierte que inversión en regalías no se traduce en mejoras sociales proporcionales",
       "categoria": "recursos-publicos",
