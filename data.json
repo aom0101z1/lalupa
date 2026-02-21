@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 413,
+      "titulo": "Jennifer Pedraza radica moción de censura contra ministro de Salud por crisis en medicamentos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-20",
+      "descripcion": "La congresista Jennifer Pedraza radicó moción de censura contra el ministro de Salud Guillermo Jaramillo por la crisis en el acceso a medicamentos. La moción se basa en cuatro hechos incluyendo el aumento de tutelas por vulneración al derecho a la salud y demoras en entrega de medicamentos. Esta acción busca retirar del cargo al ministro por su gestión deficiente del sistema de salud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/jennifer-pedraza-radico-mocion-de-censura-para-retirar-de-su-cargo-al-ministro-de-salud-guillermo-jaramillo-tras-crisis-en-acceso-a-medicamentos-3533985",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Jennifer Pedraza",
+        "Guillermo Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-21 06:31"
+    },
+    {
       "id": 412,
       "titulo": "Juzgado abre proceso por desacato contra presidente Petro por no retractarse ante Marta Lucía Ramírez",
       "categoria": "abuso-poder",
