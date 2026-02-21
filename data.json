@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 416,
+      "titulo": "Nombran a hermano de viceministro en cargo directivo de Universidad del Atlántico",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-21",
+      "descripcion": "Jorly Berdugo fue nombrado como director de las sedes regionales de la Universidad del Atlántico. Es hermano de Jaime Berdugo, viceministro del Interior bajo la gestión del ministro Juan Fernando Cristo Benedetti. El nombramiento genera cuestionamientos sobre posible favorecimiento familiar en cargos públicos de alta responsabilidad en la institución educativa.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-de-ee-uu-anula-aranceles-de-trump-a-paises-aliados/",
+          "fecha": "2026-02-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorly Berdugo",
+        "Jaime Berdugo",
+        "Juan Fernando Cristo"
+      ],
+      "entidad": "Universidad del Atlántico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-21 18:22"
+    },
+    {
+      "id": 415,
+      "titulo": "Denuncian uso de recursos de la Alcaldía de Cartagena para favorecer campaña de Lidio García",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-20",
+      "descripcion": "Se denuncia el presunto uso indebido de recursos y estructura de la Alcaldía de Cartagena para beneficiar la campaña del senador Lidio García. El alcalde Dumek Turbay es primo del senador García. Existen chats y una denuncia penal que sustentan las acusaciones sobre el uso irregular de la administración municipal con fines electorales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/denuncian-ante-la-fiscalia-la-quema-del-palo-del-ahorcado-famoso-sitio-de-peregrinacion-en-bogota-3533895",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Dumek Turbay",
+        "Lidio García"
+      ],
+      "entidad": "Alcaldía de Cartagena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-21 18:22"
+    },
+    {
       "id": 414,
       "titulo": "Ministro de Minas se reúne con Delcy Rodríguez pese a sanciones internacionales",
       "categoria": "sanciones",
