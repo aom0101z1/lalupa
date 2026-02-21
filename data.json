@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 414,
+      "titulo": "Ministro de Minas se reúne con Delcy Rodríguez pese a sanciones internacionales",
+      "categoria": "sanciones",
+      "fecha": "2026-02-21",
+      "descripcion": "El ministro de Minas Edwin Palma se reunió en Venezuela con Delcy Rodríguez, vicepresidenta venezolana que está bajo sanciones internacionales de Estados Unidos y otros países. En la reunión conversaron sobre temas como importación de gas y adecuación de infraestructura energética binacional. Esta reunión genera controversia debido al estatus sancionado de Rodríguez por parte de la comunidad internacional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-social/a-petro-le-hizo-falta-un-pacto-historico-para-reformar-la-salud/",
+          "fecha": "2026-02-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Palma",
+        "Delcy Rodríguez"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-21 12:27"
+    },
+    {
       "id": 413,
       "titulo": "Jennifer Pedraza radica moción de censura contra ministro de Salud por crisis en medicamentos",
       "categoria": "abuso-poder",
