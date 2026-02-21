@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 412,
+      "titulo": "Juzgado abre proceso por desacato contra presidente Petro por no retractarse ante Marta Lucía Ramírez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-20",
+      "descripcion": "El Juzgado 66 Administrativo de Bogotá abrió proceso de desacato contra el presidente Gustavo Petro por no cumplir con la orden judicial de retractarse ante la exvicepresidenta Marta Lucía Ramírez. La decisión fue comunicada a la Comisión de Acusaciones de la Cámara de Representantes mediante compulsa de copias, lo que evidencia el incumplimiento de una orden judicial por parte del mandatario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/juzgado-abre-desacato-contra-el-presidente-por-no-retractarse-ante-marta-lucia-ramirez-y-compulsa-copias-3534168",
+          "fecha": "2026-02-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Marta Lucía Ramírez"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-21 01:11"
+    },
+    {
       "id": 411,
       "titulo": "Gobierno manipula cálculos matemáticos para justificar alza de salario mínimo",
       "categoria": "mentiras",
