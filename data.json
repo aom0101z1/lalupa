@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 418,
+      "titulo": "Ape Cuello gestiona obra en Aguachica donde familiares hacen campaña con agua",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-22",
+      "descripcion": "El congresista Ape Cuello gestionó la asignación de 12 mil millones de pesos del Ministerio del Deporte para construir un polideportivo en Aguachica, el mismo municipio donde su tío reparte agua con publicidad política para beneficiar candidatos. Esta gestión plantea un posible conflicto de interés al beneficiar con recursos públicos el territorio donde su familia desarrolla actividades de campaña.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/opinion/el-sistema-jeffrey-epstein-diez-variaciones-sobre-arte-y-fascismo-parte-i/",
+          "fecha": "2026-02-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Ape Cuello"
+      ],
+      "entidad": "Ministerio del Deporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-22 01:16"
+    },
+    {
+      "id": 417,
+      "titulo": "Petro insiste en falsa tesis sobre Thomas Greg & Sons y fraude electoral",
+      "categoria": "mentiras",
+      "fecha": "2026-02-21",
+      "descripcion": "El presidente Gustavo Petro ha publicado casi una decena de trinos con información poco precisa tratando de sembrar la tesis de fraude electoral a través de una supuesta conexión entre la empresa Thomas Greg & Sons y el control de la cedulación en Colombia. Esta información ha sido calificada como falsa por medios de comunicación.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-insiste-en-falsa-tesis-de-que-thomas-greg-sons-controla-la-cedulacion-en-colombia-para-hablar-de-fraude-electoral-3534363",
+          "fecha": "2026-02-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-22 01:16"
+    },
+    {
       "id": 416,
       "titulo": "Nombran a hermano de viceministro en cargo directivo de Universidad del Atlántico",
       "categoria": "nepotismo",
