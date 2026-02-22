@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 420,
+      "titulo": "Candidata Sondra Macollins vinculada a 'contrataderos' y empresas con contratos billonarios",
+      "categoria": "contratos",
+      "fecha": "2026-02-22",
+      "descripcion": "El lanzamiento del partido de la candidata Sondra Macollins coincide con la dirección de una serie de empresas que han obtenido contratos por más de un billón de pesos, generando sombras sobre posibles 'contrataderos' y vínculos con David Murcia.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/sombra-de-contrataderos-y-david-murcia-explosivo-coctel-alrededor-de-la-candidata-sondra-macollins-3534386",
+          "fecha": "2026-02-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Sondra Macollins",
+        "David Murcia"
+      ],
+      "entidad": "Empresas contratistas del Estado",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-22 18:22"
+    },
+    {
+      "id": 419,
+      "titulo": "Petro desacredita sin sustento el sistema electoral colombiano para elecciones 2026",
+      "categoria": "mentiras",
+      "fecha": "2026-02-21",
+      "descripcion": "El presidente Gustavo Petro se ha concentrado en los últimos días en desacreditar sin sustento la realización de las elecciones de 2026, generando narrativas de fraude electoral sin evidencia que pueden fracturar la democracia según expertos y observadores electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-estrategia-detras-y-los-riesgos-que-trae-la-arremetida-del-presidente-gustavo-petro-contra-el-sistema-electoral-colombiano-3534373",
+          "fecha": "2026-02-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-22 18:22"
+    },
+    {
       "id": 418,
       "titulo": "Ape Cuello gestiona obra en Aguachica donde familiares hacen campaña con agua",
       "categoria": "conflicto-interes",
