@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 421,
+      "titulo": "Exmagistrado José Leonidas Bustos condenado a más de 10 años por cohecho",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-22",
+      "descripcion": "La Corte Suprema de Justicia condenó a 123 meses y un día de prisión (10 años y dos meses) al exmagistrado José Leonidas Bustos por los delitos de cohecho propio, en concurso homogéneo y sucesivo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/podcasts/alla-en-tierras-lejanas-colombia-en-la-guerra-de-corea/",
+          "fecha": "2026-02-22"
+        }
+      ],
+      "personas_involucradas": [
+        "José Leonidas Bustos"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-23 01:16"
+    },
+    {
       "id": 420,
       "titulo": "Candidata Sondra Macollins vinculada a 'contrataderos' y empresas con contratos billonarios",
       "categoria": "contratos",
