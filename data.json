@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 423,
+      "titulo": "Fallo judicial ordena a Benedetti rectificar afirmaciones difamatorias contra exministro de Vivienda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-23",
+      "descripcion": "Un fallo judicial ordenó al congresista Armando Benedetti rectificar en las próximas 48 horas las afirmaciones realizadas en su cuenta de X contra el exministro de Vivienda. Entre los señalamientos sin sustento, Benedetti lo llamó 'bandido' e 'íntimo del Ñeñe Hernández', constituyendo un abuso de su posición para realizar ataques difamatorios.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fallo-ordena-a-benedetti-rectificar-afirmaciones-contra-exminvivienda/",
+          "fecha": "2026-02-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-23 18:50"
+    },
+    {
+      "id": 422,
+      "titulo": "Petro mantiene señalamientos contra la Registraduría Nacional previo a elecciones",
+      "categoria": "mentiras",
+      "fecha": "2026-02-23",
+      "descripcion": "El presidente Petro continúa realizando señalamientos contra la Registraduría Nacional a pocos días de las elecciones, insistiendo en que se debe entregar el código fuente del software de escrutinio. Estos cuestionamientos sin sustento buscan desacreditar el sistema electoral colombiano, generando desconfianza en las instituciones democráticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-petro-continua-sus-senalamientos-contra-la-registraduria-a-tan-solo-dias-de-cita-en-las-urnas-que-pide-exactamente-3534711",
+          "fecha": "2026-02-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-23 18:50"
+    },
+    {
       "id": 421,
       "titulo": "Exmagistrado José Leonidas Bustos condenado a más de 10 años por cohecho",
       "categoria": "corrupcion",
