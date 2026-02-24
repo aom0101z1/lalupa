@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 432,
+      "titulo": "Fiscalía investiga carrotanque con publicidad de Ape y Lobo por corrupción electoral",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-24",
+      "descripcion": "La Fiscalía y la Policía abrieron una indagación penal por corrupción al sufragante tras denuncias que muestran a un carrotanque entregando agua con publicidad política de los candidatos Ape y Lobo en Cesar.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/fiscalia-investigara-carrotanque-en-cesar-con-publicidad-de-ape-y-lobo/",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ape Cuello"
+      ],
+      "entidad": "Ministerio del Deporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-24 18:49"
+    },
+    {
+      "id": 431,
+      "titulo": "SAE paga $68 millones por camión abandonado en parqueadero hace cinco años",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-24",
+      "descripcion": "La Contraloría reveló que la Sociedad de Activos Especiales (SAE) ha pagado $68 millones por un camión abandonado en un parqueadero desde hace cinco años. En total, 113 vehículos están acumulando polvo mientras la SAE paga millonarios recursos por parqueadero.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/sae-ha-pagado-68-millones-por-camion-abandonado-en-parqueadero-hace-cinco-anos-no-es-el-unico-caso-revelado-por-la-contraloria-3535081",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-24 18:49"
+    },
+    {
+      "id": 430,
+      "titulo": "Petro usa falsamente el fallo del Mira de 2018 para cuestionar las elecciones",
+      "categoria": "mentiras",
+      "fecha": "2026-02-24",
+      "descripcion": "El presidente Gustavo Petro utiliza como 'caballito de batalla' el fallo del Consejo de Estado que devolvió curules al Mira en 2018 para dudar de las elecciones actuales, cuando según la información, dicho fallo ya se cumplió hace cuatro años, contrario a lo que afirma el mandatario.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-fallo-que-le-devolvio-curules-al-mira-en-2018-y-que-gustavo-petro-usa-como-caballito-de-batalla-para-dudar-de-las-elecciones-3534949",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-24 18:49"
+    },
+    {
       "id": 429,
       "titulo": "Contraloría revela irregularidades en la administración de bienes de la SAE",
       "categoria": "recursos-publicos",
