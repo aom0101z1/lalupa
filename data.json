@@ -66,6 +66,79 @@
   ],
   "casos": [
     {
+      "id": 426,
+      "titulo": "Presidencia contrata por $10 mil millones a abogados de Alex Saab para sacar a Petro de Lista Clinton",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-23",
+      "descripcion": "La Presidencia contrató a los abogados Maryna Pogibko y Daniel Kovalik por $10 mil millones para sacar al presidente Petro de la Lista Clinton. Estos mismos abogados anteriormente defendieron a Alex Saab, el señalado testaferro de Maduro, contra su extradición en 2020, lo que genera un evidente conflicto de intereses.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/delcy-saco-de-su-cargo-en-el-regimen-a-camila-fabri-la-esposa-de-alex-saab/",
+          "fecha": "2026-02-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Maryna Pogibko",
+        "Daniel Kovalik",
+        "Alex Saab"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-24 01:14"
+    },
+    {
+      "id": 425,
+      "titulo": "Caso Urrego desnuda politización en purgas policiales con participación irregular de la DNI",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-23",
+      "descripcion": "Las irregularidades en la salida del general Urrego han revelado el polémico rol de la Dirección Nacional de Inteligencia (DNI) en las purgas de la Policía Nacional impulsadas por el gobierno actual. Un anónimo fue suficiente para activar procesos que evidencian politización en las decisiones sobre personal policial.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/enfrentamiento-entre-ejercito-y-calarca-en-guaviare-dejo-un-soldado-muerto/",
+          "fecha": "2026-02-23"
+        }
+      ],
+      "personas_involucradas": [
+        "General Urrego"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-24 01:14"
+    },
+    {
+      "id": 424,
+      "titulo": "Petro planea encuentro con Delcy Rodríguez con agenda energética avanzada por ministro de Minas",
+      "categoria": "sanciones",
+      "fecha": "2026-02-23",
+      "descripcion": "Se está organizando un encuentro entre el presidente Petro y Delcy Rodríguez, vicepresidenta de Venezuela sancionada internacionalmente. El ministro de Minas ya avanzó en la agenda energética para este encuentro, lo que profundiza las relaciones con funcionarios venezolanos bajo sanciones internacionales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/asi-se-cocina-el-encuentro-entre-gustavo-petro-y-delcy-rodriguez-la-frontera-toma-fuerza-como-sede-del-encuentro-3534741",
+          "fecha": "2026-02-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Delcy Rodríguez"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-24 01:14"
+    },
+    {
       "id": 423,
       "titulo": "Fallo judicial ordena a Benedetti rectificar afirmaciones difamatorias contra exministro de Vivienda",
       "categoria": "abuso-poder",
