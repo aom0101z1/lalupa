@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 427,
+      "titulo": "Procurador confronta a Petro por críticas infundadas al proceso electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-23",
+      "descripcion": "El Procurador Gregorio Eljach confrontó públicamente al presidente Petro por sus constantes críticas al proceso electoral, exigiéndole respeto institucional. El jefe del Ministerio Público anunció reunión con el Registrador y el Contralor para coordinar la organización de los comicios, en respuesta a los continuos cuestionamientos presidenciales sin fundamento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-gregorio-eljach-se-va-contra-el-presidente-petro-por-criticas-al-proceso-electoral-aqui-tiene-que-respetar-3534833",
+          "fecha": "2026-02-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach",
+        "Gustavo Petro"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-24 06:49"
+    },
+    {
       "id": 426,
       "titulo": "Presidencia contrata por $10 mil millones a abogados de Alex Saab para sacar a Petro de Lista Clinton",
       "categoria": "conflicto-interes",
