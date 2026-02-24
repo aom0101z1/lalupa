@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 429,
+      "titulo": "Contraloría revela irregularidades en la administración de bienes de la SAE",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-02-24",
+      "descripcion": "La Contraloría General de la República identificó deficiencias en la administración de bienes por parte de la Sociedad de Activos Especiales (SAE). El órgano de control encontró debilidades en los procesos de comercialización de vehículos y otros procesos administrativos de la entidad encargada de administrar bienes incautados al narcotráfico y otras actividades ilícitas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/estas-son-las-irregularidades-en-la-sae-que-descubrio-la-contraloria-habria-deficiencias-en-la-administracion-de-bienes-3534919",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-24 12:41"
+    },
+    {
+      "id": 428,
+      "titulo": "Familia del ministro Guillermo Alfonso Jaramillo habría recibido más de $3.000 millones del Estado",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-24",
+      "descripcion": "La representante Katherine Miranda denunció que siete familiares del ministro Guillermo Alfonso Jaramillo habrían recibido más de $3.000 millones en contratos y recursos del Estado colombiano. La denuncia señala posibles irregularidades en la adjudicación de recursos públicos a círculos familiares del alto funcionario del gobierno de Gustavo Petro.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/katherine-miranda-denuncio-que-familia-del-ministro-guillermo-alfonso-jaramillo-habria-recibido-mas-de-3-000-millones-del-estado-colombiano-3534932",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Katherine Miranda",
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio correspondiente al ministro Jaramillo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-24 12:41"
+    },
+    {
       "id": 427,
       "titulo": "Procurador confronta a Petro por críticas infundadas al proceso electoral",
       "categoria": "abuso-poder",
