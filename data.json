@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 434,
+      "titulo": "Petro y ministros firman solicitud para Asamblea Nacional Constituyente durante consejo de ministros",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-24",
+      "descripcion": "El presidente Gustavo Petro firmó durante el consejo de ministros la solicitud para convocar a una Asamblea Nacional Constituyente, junto con sus funcionarios. Esta acción representa un uso del aparato gubernamental para impulsar una iniciativa política que requiere millones de firmas ciudadanas. El ministro de Justicia Jorge Iván Cuervo se negó a firmar la solicitud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/silverio-gomez-candidato-al-senado-por-oxigeno-se-requiere-una-renovacion-del-legislativo-3535164",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jorge Iván Cuervo"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-25 06:52"
+    },
+    {
       "id": 433,
       "titulo": "Petro contradice a director de UNGRD sobre ayuda internacional para crisis invernal",
       "categoria": "abuso-poder",
