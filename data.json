@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 433,
+      "titulo": "Petro contradice a director de UNGRD sobre ayuda internacional para crisis invernal",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-24",
+      "descripcion": "El presidente Petro públicamente contradijo las declaraciones oficiales de Carlos Carrillo, director de la UNGRD, quien había comunicado que no se requería ayuda internacional para la crisis invernal. La Cancillería ya había emitido un comunicado oficial en el mismo sentido. Petro declaró que 'sí se necesita ayuda internacional' y que 'no comparte' las palabras de su funcionario, evidenciando descoordinación gubernamental y posible extralimitación al contradecir la posición oficial de sus propias entidades.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-dice-que-si-se-necesita-ayuda-internacional-para-crisis-invernal-y-no-comparte-palabras-de-carlos-carrillo-director-de-la-ungrd-3535168",
+          "fecha": "2026-02-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Carlos Carrillo"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-25 01:19"
+    },
+    {
       "id": 432,
       "titulo": "Fiscalía investiga carrotanque con publicidad de Ape y Lobo por corrupción electoral",
       "categoria": "recursos-publicos",
