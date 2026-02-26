@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 440,
+      "titulo": "Interventora de Asmet Salud designada por gobierno Petro debe responder por corrupción fiscal",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-26",
+      "descripcion": "La Contraloría halló irregularidades en el proceso de intervención de la firma RG Auditores SAS, designada por la Superintendencia de Salud durante el gobierno Petro para intervenir Asmet Salud. La interventora debe responder por un caso de corrupción fiscal según el órgano de control.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/cuales-son-y-como-denunciar-los-delitos-electorales-3535468",
+          "fecha": "2026-02-26"
+        }
+      ],
+      "personas_involucradas": [
+        "RG Auditores SAS"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-26 12:41"
+    },
+    {
       "id": 439,
       "titulo": "Ministro Benedetti insulta a congresista durante proceso electoral",
       "categoria": "abuso-poder",
