@@ -66,6 +66,98 @@
   ],
   "casos": [
     {
+      "id": 439,
+      "titulo": "Ministro Benedetti insulta a congresista durante proceso electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-25",
+      "descripcion": "El ministro Armando Benedetti arremetió contra la congresista Lina María Garrido calificándola como 'bandida'. La situación es particularmente grave considerando que Benedetti es el garante de la seguridad electoral desde el gobierno, mientras afirmaba que el gobierno 'no estaba en campaña'.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/bandida-benedetti-arremete-contra-congresista-lina-maria-garrido/",
+          "fecha": "2026-02-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Lina María Garrido"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-26 01:13"
+    },
+    {
+      "id": 438,
+      "titulo": "Congresista Yénica Acosta llamada a juicio por peculado",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-25",
+      "descripcion": "La Corte Suprema de Justicia llamó a juicio a la representante Yénica Acosta, actual congresista y candidata por Amazonas, por presuntamente cometer el delito de peculado por apropiación. La decisión se produce mientras ella busca la reelección en las próximas elecciones.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/yenica-acosta-congresista-y-candidata-por-amazonas-es-llamada-a-juicio/",
+          "fecha": "2026-02-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Yénica Acosta"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-26 01:13"
+    },
+    {
+      "id": 437,
+      "titulo": "Corte Constitucional tumba artículos sobre contratación directa en Plan de Desarrollo",
+      "categoria": "contratos",
+      "fecha": "2026-02-25",
+      "descripcion": "La Corte Constitucional declaró inconstitucionales los artículos 100 y 101 de la Ley 2294 de 2023 del Plan de Desarrollo que establecían las asociaciones populares como modalidad que permitía al Gobierno contratar de manera directa, sin procesos competitivos regulares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-tumba-dos-articulos-del-plan-de-desarrollo-sobre-contratacion-mediante-asociaciones-populares-3535524",
+          "fecha": "2026-02-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional - Plan de Desarrollo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-26 01:13"
+    },
+    {
+      "id": 436,
+      "titulo": "Funcionario de MinSalud denunciado por violencia intrafamiliar",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-25",
+      "descripcion": "Nelson David Hernández Pinto, funcionario del Ministerio de Salud, fue denunciado por violencia intrafamiliar contra su expareja Verónica Córdoba. En redes sociales se difundió un video que dejó en evidencia las agresiones, generando exigencias de acciones por parte de la ciudadanía contra el funcionario público.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/denuncia-contra-nelson-david-hernandez-pinto-funcionario-de-minsalud-por-violencia-intrafamiliar-contra-su-expareja-exigimos-acciones-3535517",
+          "fecha": "2026-02-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Nelson David Hernández Pinto",
+        "Verónica Córdoba"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-26 01:13"
+    },
+    {
       "id": 435,
       "titulo": "Contraloría halla irregularidades por más de $9 mil millones en subsidios de vivienda rural",
       "categoria": "recursos-publicos",
