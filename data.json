@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 442,
+      "titulo": "Carlos Cuenca lidera tarjetón a Cámara por Guainía pese a condena por compra de votos",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-26",
+      "descripcion": "Carlos Cuenca encabeza el tarjetón para la Cámara de Representantes por Guainía a pesar de tener una condena por compra de votos. Este caso evidencia cómo personas con antecedentes penales por delitos electorales continúan participando en procesos democráticos y liderando candidaturas, lo que compromete la transparencia electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/candidatos-a-la-camara-por-guainia-2026-perfiles-partidos-y-numeros/",
+          "fecha": "2026-02-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Cuenca"
+      ],
+      "entidad": "Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-26 18:39"
+    },
+    {
+      "id": 441,
+      "titulo": "Partido Liberal incluye a María Paz Gaviria, hija del jefe del partido, en lista al Senado",
+      "categoria": "nepotismo",
+      "fecha": "2026-02-26",
+      "descripcion": "El Partido Liberal incluye en su lista al Senado a María Paz Gaviria, quien es hija del jefe del partido. La lista también incluye congresistas cuestionados como Richard Aguilar. El partido busca obtener 15 curules en el Senado utilizando maquinaria política y practicando nepotismo al incluir familiares de dirigentes partidarios en posiciones privilegiadas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/los-liberales-buscan-15-curules-en-senado-con-maquinaria-y-nepotismo/",
+          "fecha": "2026-02-26"
+        }
+      ],
+      "personas_involucradas": [
+        "María Paz Gaviria",
+        "Richard Aguilar"
+      ],
+      "entidad": "Partido Liberal Colombiano",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-26 18:39"
+    },
+    {
       "id": 440,
       "titulo": "Interventora de Asmet Salud designada por gobierno Petro debe responder por corrupción fiscal",
       "categoria": "corrupcion",
