@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 449,
+      "titulo": "Candidato Andrés Velásquez retenido tras denuncias contra Sayco por manejo de derechos de autor",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-27",
+      "descripcion": "El candidato Andrés Velásquez fue retenido y según su testimonio, sus captores le exigieron frenar las denuncias que había presentado contra Sayco (entidad que maneja derechos de autor). El candidato afirma que su retención se debió a estas denuncias. Sayco negó tener relación con el caso. Este hecho representa una posible intimidación a un candidato por denunciar irregularidades en una entidad.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/candidato-andres-velasquez-dice-que-su-retencion-fue-por-denuncias-a-sayco/",
+          "fecha": "2026-02-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Velásquez"
+      ],
+      "entidad": "Sayco",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-27 18:29"
+    },
+    {
+      "id": 448,
+      "titulo": "Juliana Guerrero no comparece a imputación por presuntos títulos falsos para cargo gubernamental",
+      "categoria": "mentiras",
+      "fecha": "2026-02-27",
+      "descripcion": "La Fiscalía señala a Juliana Guerrero de haber presentado dos títulos falsos en su aspiración para ser viceministra del gobierno Petro. La funcionaria no se presentó a la audiencia de imputación programada y le fue reprogramada. Este caso documenta un presunto fraude documental para acceder a un cargo de alto nivel en el gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/juliana-guerrero-no-se-presento-a-imputacion-en-su-contra-y-le-reprogramaron-la-audiencia-esta-es-la-fecha-3536004",
+          "fecha": "2026-02-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Gobierno Nacional - Viceministerio",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-27 18:29"
+    },
+    {
       "id": 447,
       "titulo": "Funcionaria del Inpec capturada portando arma en evento político",
       "categoria": "abuso-poder",
