@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 447,
+      "titulo": "Funcionaria del Inpec capturada portando arma en evento político",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-26",
+      "descripcion": "Mónica Fernanda Joven Urbano, dragoneante del Inpec, fue capturada por portar un arma en un evento político del expresidente Álvaro Uribe en Honda, Tolima. La funcionaria manifestó trabajar en la cárcel de Guaduas y según el Inpec estaba en periodo de vacaciones. Este caso evidencia el uso irregular de armas de dotación oficial en actividades políticas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/elder-jose-arteaga-alias-chipi-es-acusado-de-cinco-delitos-por-el-asesinato-del-precandidato-miguel-uribe-turbay-3535857",
+          "fecha": "2026-02-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Mónica Fernanda Joven Urbano"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-27 12:36"
+    },
+    {
+      "id": 446,
+      "titulo": "Procuraduría investiga uso de instalaciones públicas para campaña electoral de De la Espriella",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-27",
+      "descripcion": "La Procuraduría emitió un requerimiento disciplinario al rector del Conservatorio de Música de Tolima, James Enrique Fernández, por permitir el uso de instalaciones públicas con fines electorales. El caso surge después de que Fico de la Espriella realizara un evento de campaña en las instalaciones de la institución educativa pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-le-exige-al-rector-del-conservatorio-de-musica-de-tolima-no-usar-las-instalaciones-con-fines-electorales-ahi-canto-de-la-espriella-3535951",
+          "fecha": "2026-02-27"
+        }
+      ],
+      "personas_involucradas": [
+        "James Enrique Fernández"
+      ],
+      "entidad": "Conservatorio de Música de Tolima",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-27 12:36"
+    },
+    {
       "id": 445,
       "titulo": "Roy Barreras pide votar por hermano de Eduardo Pulgar, condenado por corrupción",
       "categoria": "conflicto-interes",
