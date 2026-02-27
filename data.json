@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 445,
+      "titulo": "Roy Barreras pide votar por hermano de Eduardo Pulgar, condenado por corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-02-27",
+      "descripcion": "El senador Roy Barreras pidió votar por el candidato liberal Yesid Pulgar al Senado, quien es hermano de Eduardo Pulgar, condenado por corrupción. El clan Pulgar organizó un evento para Roy en Soledad.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/roy-pide-votar-por-hermano-de-eduardo-pulgar-condenado-por-corrupcion/",
+          "fecha": "2026-02-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Yesid Pulgar",
+        "Eduardo Pulgar"
+      ],
+      "entidad": "Partido Liberal Colombiano",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-02-27 01:12"
+    },
+    {
+      "id": 444,
+      "titulo": "Corte Suprema condena a exsenador Efraín Torrado por 'carrusel de la contratación'",
+      "categoria": "corrupcion",
+      "fecha": "2026-02-26",
+      "descripcion": "La Corte Suprema de Justicia condenó al exsenador Efraín Torrado a 8 años de prisión por su participación en el 'carrusel de la contratación'. También le impuso multa de 1.500 salarios mínimos y pago de indemnización por más de 28.000 millones de pesos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-de-justicia-condeno-al-exsenador-efrain-torrado-a-8-anos-de-carcel-por-carrusel-de-la-contratacion-3535815",
+          "fecha": "2026-02-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Efraín Torrado"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-27 01:12"
+    },
+    {
+      "id": 443,
+      "titulo": "Gobierno elimina restricciones de contratación directa en plena ley de garantías mediante decreto de emergencia económica",
+      "categoria": "contratos",
+      "fecha": "2026-02-26",
+      "descripcion": "El decreto 0175 del 2026 eliminó la restricción para contratar directamente sin límites durante la ley de garantías electorales, utilizando la figura de emergencia económica para sortear estas limitaciones legales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/polemica-por-mico-de-contratacion-directa-en-plena-ley-de-garantias-en-decreto-expedido-bajo-emergencia-economica-3535853",
+          "fecha": "2026-02-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gobierno Nacional"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-27 01:12"
+    },
+    {
       "id": 442,
       "titulo": "Carlos Cuenca lidera tarjetón a Cámara por Guainía pese a condena por compra de votos",
       "categoria": "corrupcion",
