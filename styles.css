@@ -815,6 +815,10 @@ body {
     background: linear-gradient(135deg, #991b1b 0%, #b91c1c 100%);
 }
 
+.tema-header.emprendimiento {
+    background: linear-gradient(135deg, #065f46 0%, #059669 100%);
+}
+
 .tema-header.policia {
     background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 100%);
 }
