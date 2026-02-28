@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 450,
+      "titulo": "Procuraduría destituye por 15 años a intendente policial por acoso sexual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-27",
+      "descripcion": "La Procuraduría destituyó por 15 años al intendente de la Policía Julio César Aguirre por acosar sexualmente a una compañera en Bogotá. El funcionario envió mensajes con fines sexuales al celular de la víctima, configurando una conducta de acoso sexual que constituye abuso de su posición de autoridad dentro de la institución policial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-destituyo-por-15-anos-a-intendente-de-la-policia-que-acoso-sexualmente-a-una-companera-en-bogota-3536115",
+          "fecha": "2026-02-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Julio César Aguirre"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-02-28 06:26"
+    },
+    {
       "id": 449,
       "titulo": "Candidato Andrés Velásquez retenido tras denuncias contra Sayco por manejo de derechos de autor",
       "categoria": "abuso-poder",
