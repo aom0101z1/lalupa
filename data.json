@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 452,
+      "titulo": "Equipos Básicos en Salud mantienen clientelas políticas y gastan sin control billonario",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-01",
+      "descripcion": "Los Equipos Básicos en Salud, con un gasto billonario, están siendo utilizados para sostener clientelas políticas, beneficiando especialmente al grupo político de Guillermo Alfonso Jaramillo y el Pacto Histórico. El programa presenta gastos sin control adecuado y resultados inciertos en materia de salud, mientras supuestamente atiende campesinos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/los-equipos-basicos-en-salud-atienden-campesinos-sostienen-clientelas-y-gastan-sin-control/",
+          "fecha": "2026-03-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-01 12:28"
+    },
+    {
       "id": 451,
       "titulo": "Exalcalde de Yopal 'John Calzones' agrede físicamente a periodista",
       "categoria": "abuso-poder",
