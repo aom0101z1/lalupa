@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 451,
+      "titulo": "Exalcalde de Yopal 'John Calzones' agrede físicamente a periodista",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "John Jairo Torres, exalcalde de Yopal conocido como 'John Calzones', agredió físicamente al periodista Martín Mesa. La agresión quedó registrada en video, evidenciando un claro abuso de poder y ataque contra la libertad de prensa por parte del exfuncionario público.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/exalcalde-de-yopal-john-calzones-agrede-periodista/",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "John Jairo Torres",
+        "Martín Mesa"
+      ],
+      "entidad": "Alcaldía de Yopal",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-01 01:22"
+    },
+    {
       "id": 450,
       "titulo": "Procuraduría destituye por 15 años a intendente policial por acoso sexual",
       "categoria": "abuso-poder",
