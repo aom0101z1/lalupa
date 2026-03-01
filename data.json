@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 453,
+      "titulo": "Denuncia por uso de recursos del MinSalud en evento político del Pacto Histórico",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-01",
+      "descripcion": "Paloma Valencia denuncia el presunto uso de tarima y estructura logística pagada por el Ministerio de Salud para un evento político del Pacto Histórico en la Plaza de Bolívar. Se trataría del uso irregular de recursos públicos del sector salud para actividades de campaña electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-denuncia-presunto-uso-de-recursos-de-salud-en-cierre-de-campana-del-pacto-historico-3536403",
+          "fecha": "2026-03-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-01 18:21"
+    },
+    {
       "id": 452,
       "titulo": "Equipos Básicos en Salud mantienen clientelas políticas y gastan sin control billonario",
       "categoria": "recursos-publicos",
