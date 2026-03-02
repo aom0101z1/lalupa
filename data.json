@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 454,
+      "titulo": "DNI suspende a funcionario de inteligencia por presuntos vínculos con disidencias",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "Wílmar Mejía, funcionario de la Dirección Nacional de Inteligencia (DNI), fue suspendido por la Procuraduría tras supuestos favorecimientos al jefe disidente 'Calarcá' a través de correos electrónicos. La DNI solicita claridad sobre la situación legal del funcionario y si su suspensión de tres meses ya venció o fue prorrogada.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/daniel-quintero-se-impondria-en-la-consulta-del-frente-por-la-vida-segun-nueva-encuesta-de-guarumo-y-ecoanalitica-roy-barreras-en-segundo-lugar-3536213",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Wílmar Mejía"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-02 01:14"
+    },
+    {
       "id": 453,
       "titulo": "Denuncia por uso de recursos del MinSalud en evento político del Pacto Histórico",
       "categoria": "recursos-publicos",
