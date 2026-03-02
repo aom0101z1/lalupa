@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 455,
+      "titulo": "Teniente coronel Jorge Mora Cortés pide garantías tras llamado a calificar servicios",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "El teniente coronel Jorge Mora Cortés, exjefe Anticorrupción de la Dijín, fue llamado a calificar servicios tras liderar investigaciones anticorrupción. El oficial solicita garantías de seguridad y revela detalles sobre los temas que investigó junto a su equipo, sugiriendo posibles represalias por su trabajo contra la corrupción.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-maxima-tension-en-oriente-medio-israel-con-apoyo-de-estados-unidos-lanzo-ataque-contra-iran-3536259",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Mora Cortés"
+      ],
+      "entidad": "Policía Nacional - Dijín",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-02 06:44"
+    },
+    {
       "id": 454,
       "titulo": "DNI suspende a funcionario de inteligencia por presuntos vínculos con disidencias",
       "categoria": "abuso-poder",
