@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 456,
+      "titulo": "Procuraduría destituye a jueza militar Heidy Johaana Zuleta Gómez por acoso laboral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "La Procuraduría destituyó e inhabilitó por 10 años a la jueza de la Brigada de la Justicia Penal Militar, Heidy Johaana Zuleta Gómez, por acoso laboral. El Ministerio Público encontró maltrato y persecución contra una subalterna con grado de mayor.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-futuro-de-jose-felix-lafaurie-luego-de-su-llegada-a-salvacion-nacional-y-las-ausencias-en-la-corte-suprema-que-dieron-de-que-hablar-en-secreto-3536268",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Heidy Johaana Zuleta Gómez"
+      ],
+      "entidad": "Justicia Penal Militar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-02 12:36"
+    },
+    {
       "id": 455,
       "titulo": "Teniente coronel Jorge Mora Cortés pide garantías tras llamado a calificar servicios",
       "categoria": "abuso-poder",
