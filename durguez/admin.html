@@ -1308,6 +1308,11 @@
                             <textarea id="configMeetingDescription" class="control-input" rows="2" placeholder="Descripción del evento..." style="resize: vertical;">Únete a la gran reunión virtual con Durguez Espinosa. ¡Tu voto cuenta! Centro Democrático - 101</textarea>
                         </div>
 
+                        <div class="control-group" style="margin-bottom: 15px;">
+                            <label class="control-label">Enlace del Evento (URL de redirección después del registro)</label>
+                            <input type="url" id="configEventUrl" class="control-input" placeholder="https://us02web.zoom.us/j/..." value="">
+                        </div>
+
                         <div class="config-preview" style="margin-bottom: 15px;">
                             <h5>Vista Previa del Cronómetro</h5>
                             <div id="countdownPreview" style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); padding: 20px; border-radius: 10px; text-align: center;">
@@ -1689,6 +1694,7 @@
                 document.getElementById('configMeetingTime').value = meetingConfig.time || '19:00';
                 document.getElementById('configMeetingTitle').value = meetingConfig.title || '';
                 document.getElementById('configMeetingDescription').value = meetingConfig.description || '';
+                document.getElementById('configEventUrl').value = meetingConfig.eventUrl || '';
 
                 updateCountdownPreview();
             } catch (error) {
@@ -1708,6 +1714,7 @@
                     time: document.getElementById('configMeetingTime').value,
                     title: document.getElementById('configMeetingTitle').value,
                     description: document.getElementById('configMeetingDescription').value,
+                    eventUrl: document.getElementById('configEventUrl').value.trim(),
                     updatedAt: serverTimestamp()
                 };
 
