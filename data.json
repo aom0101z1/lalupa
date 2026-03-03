@@ -66,6 +66,238 @@
   ],
   "casos": [
     {
+      "id": 460,
+      "titulo": "MinEducación investiga a Universidad San José por convenios irregulares",
+      "categoria": "contratos",
+      "fecha": "2026-03-02",
+      "descripcion": "El Ministerio de Educación, bajo la dirección del ministro Daniel Rojas, inició investigación contra la Universidad San José por presuntamente promover programas académicos que no tiene permitido ofertar. Los convenios irregulares representan una violación a las normas educativas y posible aprovechamiento indebido de recursos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mineducacion-ahora-investiga-a-la-san-jose-por-convenios-irregulares/",
+          "fecha": "2026-03-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Rojas"
+      ],
+      "entidad": "Ministerio de Educación Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 459,
+      "titulo": "Consejo de Estado confirma violación de moralidad administrativa en elección de Carrillo en ISA",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-03",
+      "descripcion": "El Consejo de Estado determinó que se violó la moralidad administrativa en la elección de Carrillo en ISA. Su salida confirma el deterioro corporativo tanto en ISA como en Ecopetrol, mientras que personas cercanas a Carrillo continúan en posiciones dentro de la empresa, evidenciando posibles redes de influencia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/salida-de-carrillo-confirma-deterioro-corporativo-en-isa-y-ecopetrol/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Carrillo"
+      ],
+      "entidad": "ISA - Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 458,
+      "titulo": "Procuraduría suspende interventores de EPS por falencias en atención",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-02",
+      "descripcion": "La Procuraduría suspendió temporalmente a Carlos Alberto Betancur y William Humberto Salgado, interventores de las EPS Savia Salud y SOS respectivamente, por presuntas falencias en la atención a los usuarios. La medida disciplinaria busca garantizar el adecuado funcionamiento de estas entidades de salud.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-suspende-temporalmente-a-dos-interventores-de-las-eps-savia-salud-y-sos-por-presuntas-falencias-en-la-atencion-3536720",
+          "fecha": "2026-03-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Alberto Betancur",
+        "William Humberto Salgado"
+      ],
+      "entidad": "EPS Savia Salud y SOS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 457,
+      "titulo": "Gerente de campaña del Pacto Histórico pagó $500 millones en efectivo para evento de cierre",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-02",
+      "descripcion": "Giovanny Abadía, militante de Colombia Humana y gerente de campaña del Pacto Histórico en Bogotá, pagó más de $500 millones en efectivo para un evento de cierre de campaña. Abadía ha tenido contratos con el Gobierno y participó en la consulta de octubre, lo que genera interrogantes sobre el origen de los recursos y posibles conflictos de interés.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/este-es-el-gerente-de-campana-del-pacto-historico-bogota-que-pago-mas-de-500-millones-en-efectivo-para-evento-de-cierre-de-campana-3536644",
+          "fecha": "2026-03-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Giovanny Abadía"
+      ],
+      "entidad": "Pacto Histórico - Colombia Humana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 456,
+      "titulo": "Procuraduría destituye a jueza militar Heidy Johaana Zuleta Gómez por acoso laboral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "La Procuraduría destituyó e inhabilitó por 10 años a la jueza de la Brigada de la Justicia Penal Militar, Heidy Johaana Zuleta Gómez, por acoso laboral. El Ministerio Público encontró maltrato y persecución contra una subalterna con grado de mayor.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-futuro-de-jose-felix-lafaurie-luego-de-su-llegada-a-salvacion-nacional-y-las-ausencias-en-la-corte-suprema-que-dieron-de-que-hablar-en-secreto-3536268",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Heidy Johaana Zuleta Gómez"
+      ],
+      "entidad": "Justicia Penal Militar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-02 12:36"
+    },
+    {
+      "id": 455,
+      "titulo": "Teniente coronel Jorge Mora Cortés pide garantías tras llamado a calificar servicios",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "El teniente coronel Jorge Mora Cortés, exjefe Anticorrupción de la Dijín, fue llamado a calificar servicios tras liderar investigaciones anticorrupción. El oficial solicita garantías de seguridad y revela detalles sobre los temas que investigó junto a su equipo, sugiriendo posibles represalias por su trabajo contra la corrupción.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-maxima-tension-en-oriente-medio-israel-con-apoyo-de-estados-unidos-lanzo-ataque-contra-iran-3536259",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Mora Cortés"
+      ],
+      "entidad": "Policía Nacional - Dijín",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-02 06:44"
+    },
+    {
+      "id": 454,
+      "titulo": "DNI suspende a funcionario de inteligencia por presuntos vínculos con disidencias",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "Wílmar Mejía, funcionario de la Dirección Nacional de Inteligencia (DNI), fue suspendido por la Procuraduría tras supuestos favorecimientos al jefe disidente 'Calarcá' a través de correos electrónicos. La DNI solicita claridad sobre la situación legal del funcionario y si su suspensión de tres meses ya venció o fue prorrogada.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/daniel-quintero-se-impondria-en-la-consulta-del-frente-por-la-vida-segun-nueva-encuesta-de-guarumo-y-ecoanalitica-roy-barreras-en-segundo-lugar-3536213",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Wílmar Mejía"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-02 01:14"
+    },
+    {
+      "id": 453,
+      "titulo": "Denuncia por uso de recursos del MinSalud en evento político del Pacto Histórico",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-01",
+      "descripcion": "Paloma Valencia denuncia el presunto uso de tarima y estructura logística pagada por el Ministerio de Salud para un evento político del Pacto Histórico en la Plaza de Bolívar. Se trataría del uso irregular de recursos públicos del sector salud para actividades de campaña electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-denuncia-presunto-uso-de-recursos-de-salud-en-cierre-de-campana-del-pacto-historico-3536403",
+          "fecha": "2026-03-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-01 18:21"
+    },
+    {
+      "id": 452,
+      "titulo": "Equipos Básicos en Salud mantienen clientelas políticas y gastan sin control billonario",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-01",
+      "descripcion": "Los Equipos Básicos en Salud, con un gasto billonario, están siendo utilizados para sostener clientelas políticas, beneficiando especialmente al grupo político de Guillermo Alfonso Jaramillo y el Pacto Histórico. El programa presenta gastos sin control adecuado y resultados inciertos en materia de salud, mientras supuestamente atiende campesinos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/los-equipos-basicos-en-salud-atienden-campesinos-sostienen-clientelas-y-gastan-sin-control/",
+          "fecha": "2026-03-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-01 12:28"
+    },
+    {
+      "id": 451,
+      "titulo": "Exalcalde de Yopal 'John Calzones' agrede físicamente a periodista",
+      "categoria": "abuso-poder",
+      "fecha": "2026-02-28",
+      "descripcion": "John Jairo Torres, exalcalde de Yopal conocido como 'John Calzones', agredió físicamente al periodista Martín Mesa. La agresión quedó registrada en video, evidenciando un claro abuso de poder y ataque contra la libertad de prensa por parte del exfuncionario público.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/exalcalde-de-yopal-john-calzones-agrede-periodista/",
+          "fecha": "2026-02-28"
+        }
+      ],
+      "personas_involucradas": [
+        "John Jairo Torres",
+        "Martín Mesa"
+      ],
+      "entidad": "Alcaldía de Yopal",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-01 01:22"
+    },
+    {
       "id": 450,
       "titulo": "Procuraduría destituye por 15 años a intendente policial por acoso sexual",
       "categoria": "abuso-poder",
