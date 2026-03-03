@@ -66,6 +66,122 @@
   ],
   "casos": [
     {
+      "id": 465,
+      "titulo": "Uso de entidades públicas de Barranquilla para operación electoral de la casa Char",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "La Contratopedia Caribe reveló presunta estrategia de la casa Char para asegurar curules en el Congreso utilizando recursos y funcionarios de la Alcaldía de Barranquilla. La operación incluiría llamadas, listas de votantes y software especializado para movilizar 400 mil votos, configurando uso indebido de recursos públicos municipales para fines electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/con-llamadas-listas-y-software-se-buscan-400-mil-votos-en-barranquilla/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Casa Char"
+      ],
+      "entidad": "Alcaldía de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 464,
+      "titulo": "Audios revelan presunta compra de votos a favor de sobrino de Euclides Mangones",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "\nAudios revelados por La Fm hablan de supuestas promesas en viviendas para Camilo Torres, del Partido Liberal.\nThe post Audios destapan presunta compra de votos a sobrino de Euclides appeared first on La Silla Vacía.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/audios-destapan-presunta-compra-de-votos-a-sobrino-de-euclides-en-cordoba/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Camilo Torres"
+      ],
+      "entidad": "Partido Liberal Colombiano",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 463,
+      "titulo": "Acusación contra contralmirante por presunto amaño en decomiso de cocaína",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "La Corte Suprema formuló acusación contra el contralmirante en retiro José Ricardo Hurtado por presunto amaño en operación antidroga. Se le señala de ordenar la liberación de personas que fueron capturadas en una operación de interdicción marítima donde se incautaron 530 kilos de cocaína, configurando posible obstrucción a la justicia y favorecimiento al narcotráfico.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/acusacion-en-la-corte-suprema-contra-el-contralmirante-r-jose-ricardo-hurtado-por-liberar-a-tres-capturados-con-cocaina-3536874",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ricardo Hurtado"
+      ],
+      "entidad": "Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 462,
+      "titulo": "Contratos por 31 mil millones con presuntos fines políticos durante Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-03-03",
+      "descripcion": "La Contraloría General alertó sobre la firma de contratos por valor de 31 mil millones de pesos con presuntos fines políticos, a pesar de estar vigente la Ley de Garantías que prohíbe este tipo de operaciones durante periodo electoral. El contralor Carlos Hernán Rodríguez entregó estas cifras como parte de las alertas de interés nacional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/a-pesar-de-la-ley-de-garantias-se-firmaron-contratos-por-31-mil-millones-con-presuntos-fines-politicos-en-colombia-advirtio-la-contraloria-3536764",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Hernán Rodríguez"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 461,
+      "titulo": "Escolta de secretario de la Cámara capturado con 145 millones en efectivo y propaganda electoral",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "Un escolta del secretario de la Cámara de Representantes fue capturado portando 145 millones de pesos en efectivo junto con propaganda del candidato conservador Daniel Restrepo. El hecho genera sospechas sobre uso de recursos públicos para financiar campañas políticas y presunta compra de votos. El Partido Conservador anunció investigaciones internas sobre el caso.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/veedor-del-partido-conservador-anuncio-investigaciones-ante-captura-de-escolta-de-secretario-de-la-camara-con-145-millones-de-pesos-en-efectivo-3536948",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Restrepo",
+        "Secretario de la Cámara"
+      ],
+      "entidad": "Congreso de la República - Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
       "id": 460,
       "titulo": "MinEducación investiga a Universidad San José por convenios irregulares",
       "categoria": "contratos",
