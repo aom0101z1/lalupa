@@ -66,6 +66,99 @@
   ],
   "casos": [
     {
+      "id": 460,
+      "titulo": "MinEducación investiga a Universidad San José por convenios irregulares",
+      "categoria": "contratos",
+      "fecha": "2026-03-02",
+      "descripcion": "El Ministerio de Educación, bajo la dirección del ministro Daniel Rojas, inició investigación contra la Universidad San José por presuntamente promover programas académicos que no tiene permitido ofertar. Los convenios irregulares representan una violación a las normas educativas y posible aprovechamiento indebido de recursos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mineducacion-ahora-investiga-a-la-san-jose-por-convenios-irregulares/",
+          "fecha": "2026-03-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Rojas"
+      ],
+      "entidad": "Ministerio de Educación Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 459,
+      "titulo": "Consejo de Estado confirma violación de moralidad administrativa en elección de Carrillo en ISA",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-03",
+      "descripcion": "El Consejo de Estado determinó que se violó la moralidad administrativa en la elección de Carrillo en ISA. Su salida confirma el deterioro corporativo tanto en ISA como en Ecopetrol, mientras que personas cercanas a Carrillo continúan en posiciones dentro de la empresa, evidenciando posibles redes de influencia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/salida-de-carrillo-confirma-deterioro-corporativo-en-isa-y-ecopetrol/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Carrillo"
+      ],
+      "entidad": "ISA - Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 458,
+      "titulo": "Procuraduría suspende interventores de EPS por falencias en atención",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-02",
+      "descripcion": "La Procuraduría suspendió temporalmente a Carlos Alberto Betancur y William Humberto Salgado, interventores de las EPS Savia Salud y SOS respectivamente, por presuntas falencias en la atención a los usuarios. La medida disciplinaria busca garantizar el adecuado funcionamiento de estas entidades de salud.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-suspende-temporalmente-a-dos-interventores-de-las-eps-savia-salud-y-sos-por-presuntas-falencias-en-la-atencion-3536720",
+          "fecha": "2026-03-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Alberto Betancur",
+        "William Humberto Salgado"
+      ],
+      "entidad": "EPS Savia Salud y SOS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
+      "id": 457,
+      "titulo": "Gerente de campaña del Pacto Histórico pagó $500 millones en efectivo para evento de cierre",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-02",
+      "descripcion": "Giovanny Abadía, militante de Colombia Humana y gerente de campaña del Pacto Histórico en Bogotá, pagó más de $500 millones en efectivo para un evento de cierre de campaña. Abadía ha tenido contratos con el Gobierno y participó en la consulta de octubre, lo que genera interrogantes sobre el origen de los recursos y posibles conflictos de interés.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/este-es-el-gerente-de-campana-del-pacto-historico-bogota-que-pago-mas-de-500-millones-en-efectivo-para-evento-de-cierre-de-campana-3536644",
+          "fecha": "2026-03-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Giovanny Abadía"
+      ],
+      "entidad": "Pacto Histórico - Colombia Humana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 01:16"
+    },
+    {
       "id": 456,
       "titulo": "Procuraduría destituye a jueza militar Heidy Johaana Zuleta Gómez por acoso laboral",
       "categoria": "abuso-poder",
