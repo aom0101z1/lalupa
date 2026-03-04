@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 472,
+      "titulo": "Ministro de Salud Guillermo Alfonso Jaramillo enfrenta múltiples procesos judiciales por nepotismo",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-04",
+      "descripcion": "El ministro de Salud Guillermo Alfonso Jaramillo mantiene dos juicios disciplinarios en la Procuraduría y una indagación por conductas en su condición de ministro, siendo señalado específicamente por nepotismo. Adicionalmente, la Fiscalía lo investiga por su participación en la campaña de Petro. Los expedientes judiciales abarcan tanto su gestión ministerial como su participación política previa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/asamblea-constituyente-entre-los-temas-de-la-politica-actual-que-se-debatiran-en-conversatorios-en-el-externado-3537121",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 12:35"
+    },
+    {
+      "id": 471,
+      "titulo": "SIC investiga presunta colusión en contratación pública del ICBF y municipio de La Mesa",
+      "categoria": "contratos",
+      "fecha": "2026-03-04",
+      "descripcion": "La Superintendencia de Industria y Comercio abrió dos investigaciones por presunta colusión en procesos de contratación pública. Una involucra al Instituto Colombiano de Bienestar Familiar (ICBF) y otra se relaciona con una licitación de infraestructura en el municipio de La Mesa, Cundinamarca. La entidad también avanza en casos similares de la UNP, Hospital Militar y la UNGRD, indicando posibles acuerdos irregulares entre oferentes en procesos contractuales públicos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/de-las-filas-conservadoras-y-de-fiestas-vallenatas-esta-es-la-conexion-entre-jaime-lacouture-y-los-congresistas-daniel-restrepo-y-carlos-trujillo-3537039",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 12:35"
+    },
+    {
       "id": 470,
       "titulo": "Petro evaluará comandantes de Policía según capturas por compra de votos",
       "categoria": "abuso-poder",
