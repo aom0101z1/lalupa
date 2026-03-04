@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 470,
+      "titulo": "Petro evaluará comandantes de Policía según capturas por compra de votos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-03",
+      "descripcion": "El presidente Gustavo Petro anunció que evaluará a los comandantes de la Policía según las capturas por compra de votos que realicen, estableciendo una nueva categoría para evaluar el ascenso de oficiales. Esta medida representa una presión política sobre la institución policial en época electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-gustavo-petro-evaluara-a-los-comandantes-de-la-policia-segun-capturas-por-compra-de-votos-3537087",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 06:35"
+    },
+    {
+      "id": 469,
+      "titulo": "Pacto Histórico entre partidos que no han reportado gastos e ingresos de campaña",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "Se alertó sobre el bajo reporte de cuentas de candidatos al Congreso, incluyendo al Pacto Histórico entre los que no han publicado sus gastos e ingresos de campaña. También hay alertas por la baja publicación de gastos de candidatos a consultas, lo que representa una violación a las obligaciones de transparencia electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alertan-bajo-reporte-de-cuentas-de-candidatos-al-congreso-pacto-historico-entre-los-que-no-han-publicado-sus-gastos-e-ingresos-3537070",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Candidatos del Pacto Histórico"
+      ],
+      "entidad": "Pacto Histórico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-04 06:35"
+    },
+    {
       "id": 468,
       "titulo": "Tribunal ordena investigar inscripción irregular de cédulas en Meta y Guaviare",
       "categoria": "corrupcion",
