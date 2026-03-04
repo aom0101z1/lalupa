@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 475,
+      "titulo": "Concejal suspendido capturado con $434 millones en efectivo en Córdoba",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-04",
+      "descripcion": "Misael Villarreal, concejal suspendido en 2025 por el Consejo de Estado por no declarar un conflicto de interés, fue capturado con $434 millones en efectivo en un puesto de control en Córdoba. La Policía detuvo el vehículo en el peaje Purgatorio y encontró el dinero en un bolso.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-invirtio-15-mil-millones-para-pelicula-del-almirante-padilla/",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Misael Villarreal"
+      ],
+      "entidad": "Concejo Municipal de Córdoba",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 18:35"
+    },
+    {
+      "id": 474,
+      "titulo": "Gobierno invierte $15 mil millones en película del almirante Padilla",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-04",
+      "descripcion": "El gobierno de Petro invirtió $15 mil millones de pesos públicos para la producción de una película sobre el almirante Padilla, protagonizada por Cuba Gooding Jr., ganador del Oscar. El presidente promete que será 'una de las mejores producciones del cine colombiano'.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/fallo-avala-que-ciudadanos-pidan-a-empresas-datos-de-trazabilidad-ganadera/",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-04 18:35"
+    },
+    {
+      "id": 473,
+      "titulo": "Jueza niega preclusión a Sandra Ortiz por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-04",
+      "descripcion": "La jueza dejó en firme el proceso contra Sandra Ortiz, exconsejera para las Regiones del gobierno Petro, por el caso UNGRD. La solicitud de preclusión fue negada y Ortiz es acusada de dos delitos en el entramado corrupto de la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estas-son-las-identidades-de-los-tres-soldados-asesinados-en-ataque-de-disidencias-de-mordisco-en-caqueta-iban-para-un-punto-del-plan-democracia-3537260",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 18:35"
+    },
+    {
       "id": 472,
       "titulo": "Ministro de Salud Guillermo Alfonso Jaramillo enfrenta múltiples procesos judiciales por nepotismo",
       "categoria": "nepotismo",
