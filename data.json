@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 468,
+      "titulo": "Tribunal ordena investigar inscripción irregular de cédulas en Meta y Guaviare",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "Un tribunal ordenó al CNE verificar en dos días un proceso por posible trasteo de votantes en Meta y Guaviare, tras un fallo de tutela que evidencia inscripciones irregulares de cédulas. Esta práctica constituye una forma de manipulación electoral que busca alterar artificialmente el censo electoral en determinadas regiones para beneficiar candidaturas específicas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/la-ue-invertira-en-turismo-de-naturaleza-en-colombia/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 01:12"
+    },
+    {
+      "id": 467,
+      "titulo": "Procuraduría investiga 38 casos de participación política indebida de funcionarios públicos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "La Procuraduría confirmó que tiene 38 procesos disciplinarios activos por indebida participación en política de funcionarios públicos. El procurador Gregorio Eljach anunció que en los próximos días se conocerán medidas cautelares contra los involucrados, evidenciando el uso irregular de recursos y cargos públicos para actividades político-electorales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-emitio-directriz-para-reforzar-la-proteccion-de-las-mujeres-que-participan-en-la-arena-politica-3537016",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 01:12"
+    },
+    {
+      "id": 466,
+      "titulo": "Fiscalía acusa formalmente a vicealmirante José Ricardo Hurtado por corrupción en operativo antidrogas",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "La Fiscalía presentó acusación formal contra el vicealmirante en retiro José Ricardo Hurtado por presuntos actos de corrupción relacionados con operativos antidrogas. La audiencia preparatoria de juicio oral se realizará ante la Sala Especial de Primera Instancia de la Corte Suprema de Justicia, indicando la gravedad de las acusaciones contra el alto oficial naval.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/no-habria-ambiente-favorable-para-el-petrismo-en-el-cne-a-horas-de-votarse-la-fusion-del-pacto-historico-para-salvar-sus-candidaturas-3536921",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ricardo Hurtado"
+      ],
+      "entidad": "Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 01:12"
+    },
+    {
       "id": 465,
       "titulo": "Uso de entidades públicas de Barranquilla para operación electoral de la casa Char",
       "categoria": "recursos-publicos",
