@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 477,
+      "titulo": "Productora Valencia lleva 8 años contratando con el Estado por $17 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-03-05",
+      "descripcion": "Valencia Producciones, coproductora de la polémica película del Almirante Padilla ordenada por el presidente Petro, ha contratado con el Estado durante 8 años acumulando contratos por $17 mil millones desde 2012 hasta 2026. Esto genera interrogantes sobre la adjudicación de contratos públicos a la misma empresa de manera recurrente.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/productora-de-pelicula-de-padilla-lleva-8-anos-contratando-con-el-estado/",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Valencia Producciones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-05 19:08"
+    },
+    {
+      "id": 476,
+      "titulo": "Contraloría encuentra detrimento patrimonial de $2.456 millones por abandono del Museo de la Memoria",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-05",
+      "descripcion": "La Contraloría General determinó seis hallazgos fiscales por el abandono del proyecto del Museo de la Memoria en Bogotá, incluyendo un detrimento patrimonial por $2.456 millones de pesos. El proyecto se convirtió en un 'elefante blanco' generando pérdidas millonarias al Estado por su abandono.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-contraloria-encuentra-graves-hallazgos-fiscales-por-abandono-del-proyecto-de-museo-de-la-memoria-en-bogota-3537521",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-05 19:08"
+    },
+    {
       "id": 475,
       "titulo": "Concejal suspendido capturado con $434 millones en efectivo en Córdoba",
       "categoria": "corrupcion",
