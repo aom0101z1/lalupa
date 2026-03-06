@@ -66,6 +66,99 @@
   ],
   "casos": [
     {
+      "id": 481,
+      "titulo": "Garrido difunde información engañosa sobre software electoral de Indra",
+      "categoria": "mentiras",
+      "fecha": "2026-03-06",
+      "descripcion": "El político Garrido difundió información falsa sobre el software electoral de la empresa Indra, afirmando que el Estado español es dueño mayoritario cuando en realidad solo posee el 28% de la compañía. Esta desinformación busca alimentar narrativas de fraude electoral previo a las elecciones del 8 de marzo, poniendo en riesgo la confianza en el proceso democrático.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/garrido-engana-sobre-software-de-indra-y-alimenta-narrativa-de-fraude/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Garrido"
+      ],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 480,
+      "titulo": "Corte Suprema condena a exgobernador del Meta a 19 años por corrupción en 38 contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-05",
+      "descripcion": "La Corte Suprema de Justicia condenó a 19 años de cárcel al exgobernador del Meta Juan Manuel González por los delitos de peculado y contrato sin cumplimiento de requisitos legales. La condena se basa en irregularidades encontradas en 38 contratos durante su gestión como gobernador, representando un caso significativo de corrupción administrativa a nivel territorial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-condena-a-19-anos-de-carcel-al-exgobernador-del-meta-juan-manuel-gonzalez-por-corrupcion-3537683",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Manuel González"
+      ],
+      "entidad": "Gobernación del Meta",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 479,
+      "titulo": "Consejo de Estado confirma nulidad de elección de alcalde de Tunja por inhabilidad contractual",
+      "categoria": "contratos",
+      "fecha": "2026-03-05",
+      "descripcion": "El Consejo de Estado confirmó la nulidad de la elección de Mikhail Krasnov como alcalde de Tunja, determinando que estaba inhabilitado por haber firmado en 2022 un contrato con la UPTC que se ejecutó en Tunja, un año antes de ser elegido alcalde en 2023. Esto constituye una violación a las inhabilidades por contratos con la entidad territorial que luego aspiraba a dirigir.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-confirmo-la-nulidad-de-la-eleccion-de-mikhail-krasnov-como-alcalde-de-tunja-3537711",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Mikhail Krasnov"
+      ],
+      "entidad": "Alcaldía de Tunja",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 478,
+      "titulo": "Gobierno modifica decreto para permitir uso de celulares a funcionarios de Procuraduría en puestos de votación",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-05",
+      "descripcion": "A tres días de las elecciones del 8 de marzo, el Gobierno Nacional expidió un decreto que permite a funcionarios de la Procuraduría usar celulares en puestos de votación, tras solicitud urgente del procurador Gregorio Eljach. Esta modificación de último minuto genera cuestionamientos sobre la transparencia electoral y posibles irregularidades en el proceso de votación.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gobierno-expidio-decreto-que-permite-a-funcionarios-de-la-procuraduria-usar-celulares-en-los-puestos-de-votacion-tras-solicitud-de-gregorio-eljach-3537690",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach",
+        "Gustavo Petro"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
       "id": 477,
       "titulo": "Productora Valencia lleva 8 años contratando con el Estado por $17 mil millones",
       "categoria": "contratos",
