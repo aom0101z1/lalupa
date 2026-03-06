@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 483,
+      "titulo": "Acusación contra cinco congresistas del caso UNGRD queda en empate y va a conjueces",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-05",
+      "descripcion": "La Sala de Instrucción de la Corte Suprema no logró consenso para decidir sobre la acusación contra cinco congresistas involucrados en el caso UNGRD. El empate en la votación obliga a recurrir a conjueces para resolver el proceso. El magistrado Misael Rodríguez presentará nuevamente su ponencia el miércoles para una nueva votación sobre este caso de corrupción que involucra a parlamentarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/tras-cuatro-anos-de-retraso-se-reinician-trabajos-en-museo-de-memoria-de-colombia-el-edificio-debia-entregarse-en-3537719",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Cinco congresistas",
+        "Misael Rodríguez"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 06:36"
+    },
+    {
+      "id": 482,
+      "titulo": "Supuesta fuga de información en la Fiscalía relacionada con asesinatos de informantes por el ELN",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-05",
+      "descripcion": "Investigación sobre presunta filtración de información confidencial en la Fiscalía que habría resultado en el asesinato de informantes por parte del ELN. Los informantes asesinados fueron mencionados en un supuesto complot para atentar contra un exfiscal general, lo que sugiere comprometimiento de la seguridad de fuentes judiciales por fallas internas o corrupción en la institución.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/los-conjuntos-pueden-subir-el-arriendo-segun-el-aumento-del-salario-minimo-3537706",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Informantes asesinados",
+        "Funcionarios Fiscalía"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 06:36"
+    },
+    {
       "id": 481,
       "titulo": "Garrido difunde información engañosa sobre software electoral de Indra",
       "categoria": "mentiras",
