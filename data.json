@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 485,
+      "titulo": "Corte Suprema cita a indagatoria a David Racero por caso fruver",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-06",
+      "descripcion": "La Corte Suprema de Justicia citó a indagatoria al representante David Racero para el lunes en el despacho del magistrado César Reyes, por presuntas irregularidades en el manejo de su fruver. Esto ocurre pese a que el Consejo de Estado falló a su favor manteniéndolo en su curul.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-cita-a-indagatoria-a-david-racero-por-caso-de-su-fruver/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "David Racero"
+      ],
+      "entidad": "Congreso de la República - Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 18:32"
+    },
+    {
+      "id": 484,
+      "titulo": "Alcaldes y gobernadores postulan familiares y allegados al Congreso 2026",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-06",
+      "descripcion": "Mandatarios regionales de los 32 departamentos y Bogotá llevan como candidatos al Congreso a hermanos, primos, hijos, padres, exfuncionarios y aliados de sus estructuras políticas, evidenciando posibles casos de nepotismo y perpetuación de redes clientelares en la participación electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/estos-son-los-candidatos-al-congreso-de-alcaldes-y-gobernadores-en-2026/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcaldes y gobernadores regionales"
+      ],
+      "entidad": "Alcaldías y Gobernaciones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-06 18:32"
+    },
+    {
       "id": 483,
       "titulo": "Acusación contra cinco congresistas del caso UNGRD queda en empate y va a conjueces",
       "categoria": "corrupcion",
