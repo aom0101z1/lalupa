@@ -66,6 +66,27 @@
   ],
   "casos": [
     {
+      "id": 492,
+      "titulo": "Irregularidades en votación en consulados por no entrega de tarjetones y suspensión de ingreso de votantes",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-07",
+      "descripcion": "Se reportan quejas desde consulados de Estados Unidos y España por posibles irregularidades durante las elecciones en el exterior. Las denuncias incluyen que funcionarios consulares no entregan tarjetones de consultas interpartidistas y suspenden el ingreso de votantes, afectando el derecho al voto de colombianos en el exterior.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-el-exterior-denuncian-que-jurados-se-negaron-a-entregar-tarjeton-de-consultas-interpartidistas-3538156",
+          "fecha": "2026-03-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consulados de Colombia en Estados Unidos y España",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-07 18:21"
+    },
+    {
       "id": 491,
       "titulo": "Exmagistrado José Leonidas Bustos condenado a más de 10 años por cohecho",
       "categoria": "corrupcion",
