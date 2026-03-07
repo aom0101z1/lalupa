@@ -66,6 +66,102 @@
   ],
   "casos": [
     {
+      "id": 489,
+      "titulo": "Contratistas distritales de Bogotá buscan votos para candidatos cercanos al alcalde Galán",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-06",
+      "descripcion": "En la localidad Antonio Nariño de Bogotá, contratistas del distrito están amarrando votos para los candidatos María Lucía Villalba y Juan David Aristizábal, quienes son cercanos al alcalde Carlos Fernando Galán, configurando un posible uso indebido de la contratación pública para fines electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mas-contratistas-distritales-les-buscan-votos-a-candidatos-cercanos-a-galan/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "María Lucía Villalba",
+        "Juan David Aristizábal",
+        "Carlos Fernando Galán"
+      ],
+      "entidad": "Alcaldía de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 488,
+      "titulo": "Ministro Benedetti ataca oposición siendo presidente de Comisión de Garantías Electorales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-06",
+      "descripcion": "El ministro Benedetti, quien preside la Comisión de Garantías Electorales, ha sido cuestionado por insultar a candidatos de oposición que lo critican, generando un conflicto de intereses en su rol de garante de la neutralidad electoral. Incluso en la campaña de Cepeda expresan recelos hacia su comportamiento.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/benedetti-el-ministro-de-la-garantias-electorales-que-ataca-a-la-oposicion/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Ministerio del Interior - Comisión de Garantías Electorales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 487,
+      "titulo": "Denuncia de red de compra de votos para candidato Richard Aguilar",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-06",
+      "descripcion": "Candidatos Cristian Avendaño y Carlos Parra del Partido Verde denunciaron una supuesta red de compra de votos a favor del candidato Richard Aguilar. Presentaron chats y videos como evidencia de un entramado para pagar hasta $1 millón por grupos de votantes en las elecciones legislativas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/candidatos-denunciaron-supuesta-red-de-compra-de-votos-para-richard-aguilar/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Richard Aguilar",
+        "Cristian Avendaño",
+        "Carlos Parra"
+      ],
+      "entidad": "Partido Verde",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 486,
+      "titulo": "Justicia ordena arresto contra director de la Agencia Nacional de Tierras por ocultamiento de información",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-06",
+      "descripcion": "La justicia ordenó el arresto por cinco días contra Felipe Harman, director de la Agencia Nacional de Tierras, por presuntamente ocultar información. El funcionario y la entidad niegan las acusaciones afirmando que 'la entidad no oculta información'.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/justicia-ordena-arresto-contra-el-director-de-la-agencia-nacional-de-tierras-felipe-harman-esto-es-lo-que-responde-el-funcionario-publico-3537991",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Felipe Harman"
+      ],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
       "id": 485,
       "titulo": "Corte Suprema cita a indagatoria a David Racero por caso fruver",
       "categoria": "corrupcion",
