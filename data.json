@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 491,
+      "titulo": "Exmagistrado José Leonidas Bustos condenado a más de 10 años por cohecho",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-06",
+      "descripcion": "La Sala de Primera Instancia de la Corte Suprema de Justicia condenó al exmagistrado José Leonidas Bustos a 123 meses y un día de prisión (10 años y 2 meses) por los delitos de cohecho propio, en concurso homogéneo y sucesivo. La condena se relaciona con actos de corrupción durante su ejercicio como magistrado de la Corte Suprema.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/juan-daniel-oviedo-se-cotiza-tras-ataque-de-abelardo/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "José Leonidas Bustos"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 06:28"
+    },
+    {
+      "id": 490,
+      "titulo": "Procuraduría inhabilita a 16 candidatos para elecciones al Congreso 2026",
+      "categoria": "sanciones",
+      "fecha": "2026-03-06",
+      "descripcion": "La Procuraduría General de la Nación inhabilitó a 16 candidatos para las elecciones al Congreso, entre ellos 11 aspirantes a la Cámara de Representantes y 5 al Senado de distintos partidos políticos. La información fue enviada oficialmente al Consejo Nacional Electoral (CNE) para que tome las medidas correspondientes en el proceso electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-16-nombres-de-inhabilitados-por-la-procuraduria-para-las-elecciones-al-congreso-3538008",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "16 candidatos inhabilitados"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 06:28"
+    },
+    {
       "id": 489,
       "titulo": "Contratistas distritales de Bogotá buscan votos para candidatos cercanos al alcalde Galán",
       "categoria": "conflicto-interes",
