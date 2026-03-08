@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 496,
+      "titulo": "Posible orientación irregular del voto detectada en Usaquén, Bogotá",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-08",
+      "descripcion": "Las autoridades detectaron a un hombre que pedía las cédulas a votantes para indicarles los números en los tarjetones de votación. El sujeto admitió que tomaba fotografías del certificado electoral y las enviaba a su grupo político, configurando una posible orientación irregular del voto.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/bogota-autoridades-pillan-posible-orientacion-del-voto-en-usaquen/",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Localidad de Usaquén - Bogotá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 18:21"
+    },
+    {
+      "id": 495,
+      "titulo": "Incautación de dinero y material electoral para candidatos del Partido Verde y Conservador",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "En la vía San Onofre-Cartagena fueron incautados dinero en efectivo, listados y stickers de candidatos. Los materiales serían para apoyar a la congresista Juliana Aray del Partido Conservador y el candidato al Senado Eyder Benavides del Partido Verde, sugiriendo posible compra de votos durante la jornada electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mas-incautaciones-plata-listados-y-stickers-de-candidatos-verdes-y-godos/",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Aray",
+        "Eyder Benavides"
+      ],
+      "entidad": "Partido Conservador y Partido Verde",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 18:21"
+    },
+    {
       "id": 494,
       "titulo": "Candidato Oswaldo Ortiz denunciado por intimidación electoral en Miami",
       "categoria": "abuso-poder",
