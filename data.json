@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 494,
+      "titulo": "Candidato Oswaldo Ortiz denunciado por intimidación electoral en Miami",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-07",
+      "descripcion": "El candidato a curul en el exterior Oswaldo Ortiz fue denunciado en redes sociales por presuntamente intimidar votantes en Miami, en medio de otros inconvenientes registrados en la votación en el exterior. Las denuncias circulan por posibles delitos electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/cambios-de-ultimo-momento-en-puestos-de-votacion-caqueta-y-en-el-exterior/",
+          "fecha": "2026-03-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Oswaldo Ortiz"
+      ],
+      "entidad": "Votación en el Exterior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 01:15"
+    },
+    {
+      "id": 493,
+      "titulo": "Director de Inteligencia denuncia desajustes en sistema de testigos del CNE",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-07",
+      "descripcion": "El Director de Inteligencia Carlos Guarín señaló irregularidades en el sistema del CNE que estaría asignando testigos electorales en sitios geográficos diferentes a donde se inscribieron, lo que podría afectar la transparencia del proceso electoral. El CNE convocó una mesa técnica para abordar la situación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/van-mas-de-3-000-millones-incautados-por-presunta-compra-de-votos/",
+          "fecha": "2026-03-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Guarín"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 01:15"
+    },
+    {
       "id": 492,
       "titulo": "Irregularidades en votación en consulados por no entrega de tarjetones y suspensión de ingreso de votantes",
       "categoria": "abuso-poder",
