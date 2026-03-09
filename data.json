@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 502,
+      "titulo": "Defensora del Pueblo rechaza burlas de ministro Benedetti a políticos opositores",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-09",
+      "descripcion": "El ministro del Interior Juan Fernando Cristo Benedetti publicó un video burlándose con un extintor de los candidatos opositores que no lograron curules en las elecciones legislativas. La Defensora del Pueblo rechazó estas burlas, recordando que el ministro del Interior debe ser garante del proceso electoral y mantener imparcialidad institucional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/defensora-del-pueblo-rechaza-burlas-de-benedetti-a-politicos-quemados/",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Fernando Cristo Benedetti"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-09 18:39"
+    },
+    {
+      "id": 501,
+      "titulo": "Tres congresistas electos salpicados por denuncias de compra de votos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-09",
+      "descripcion": "Tres candidatos que lograron obtener curules en el Congreso para el período 2026-2030 están siendo señalados por presuntas irregularidades relacionadas con compra de votos durante la campaña electoral. Estos congresistas llegaron al Capitolio a pesar de estar rodeados de denuncias sobre prácticas electorales irregulares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/los-tres-congresistas-que-llegaron-al-capitolio-salpicados-por-denuncias-de-compra-de-votos-3538636",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 18:39"
+    },
+    {
+      "id": 500,
+      "titulo": "Cooptación de curules de paz por clanes políticos tradicionales",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-09",
+      "descripcion": "EL TIEMPO identificó que estructuras políticas tradicionales estarían detrás de al menos 8 de las 16 curules especiales para víctimas del conflicto armado. Estos escaños fueron creados específicamente para representar a las víctimas, pero clanes políticos tradicionales habrían cooptado la mitad de las candidaturas electas, desvirtuando el propósito de estas curules de paz.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cooptacion-de-las-curules-de-paz-clanes-politicos-estarian-detras-de-al-menos-la-mitad-de-los-candidatos-elegidos-3538725",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Rodrigo Tovar"
+      ],
+      "entidad": "Curules de Paz - Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 18:39"
+    },
+    {
       "id": 499,
       "titulo": "Empresa de transporte investigada por traslado masivo ilegal de 2.400 personas desde Venezuela en jornada electoral",
       "categoria": "corrupcion",
