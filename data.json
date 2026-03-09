@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 498,
+      "titulo": "Incautación de $3.761 millones durante jornada electoral 2026",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "Durante la jornada electoral del 8 de marzo de 2026, las autoridades reportaron 88 capturas por posibles delitos electorales e incautaron $3.761 millones de pesos. Estos recursos estaban aparentemente destinados a la compra de votos y otras actividades ilícitas relacionadas con el proceso electoral. La magnitud de los recursos incautados sugiere operaciones organizadas de corrupción electoral a gran escala.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-dron-en-meta-intento-de-ingreso-masivo-por-norte-de-santander-y-3-761-millones-incautados-marcaron-la-jornada-electoral-3538483",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 01:15"
+    },
+    {
+      "id": 497,
+      "titulo": "Captura de candidato al Senado por caso 'Papá Pitufo' durante jornada electoral",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "Freddy Camilo Gómez, candidato al Senado por el partido de 'la U', fue capturado por el CTI en Bogotá al salir de un puesto de votación. La detención hace parte de una investigación por una red de contrabando liderada por 'Papá Pitufo'. Junto al candidato fueron capturados cuatro policías retirados, evidenciando una posible red de corrupción que involucra funcionarios públicos y candidatos políticos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/un-candidato-al-senado-y-cuatro-policias-r-estos-son-los-capturados-por-el-caso-papa-pitufo-en-plenas-elecciones-al-congreso-3538505",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Freddy Camilo Gómez",
+        "Papá Pitufo"
+      ],
+      "entidad": "Partido de la U",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 01:15"
+    },
+    {
       "id": 496,
       "titulo": "Posible orientación irregular del voto detectada en Usaquén, Bogotá",
       "categoria": "abuso-poder",
