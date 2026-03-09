@@ -66,6 +66,27 @@
   ],
   "casos": [
     {
+      "id": 499,
+      "titulo": "Empresa de transporte investigada por traslado masivo ilegal de 2.400 personas desde Venezuela en jornada electoral",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "Una empresa de transporte está bajo investigación por el traslado masivo ilegal de al menos 2.400 personas desde Venezuela durante la jornada electoral, pese al cierre oficial de la frontera. El traslado fue detectado por un dron en el paso fronterizo de Norte de Santander. Esta operación podría estar relacionada con alteración del proceso electoral mediante movilización irregular de votantes.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/al-cierre-de-la-jornada-electoral-policia-reporto-88-capturas-y-3-768-millones-de-pesos-incautados-3538469",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Empresa de transporte no identificada",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 06:51"
+    },
+    {
       "id": 498,
       "titulo": "Incautación de $3.761 millones durante jornada electoral 2026",
       "categoria": "corrupcion",
