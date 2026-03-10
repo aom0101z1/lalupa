@@ -66,6 +66,97 @@
   ],
   "casos": [
     {
+      "id": 511,
+      "titulo": "Misión de la Unión Europea desmiente alertas de fraude electoral del Presidente Petro",
+      "categoria": "mentiras",
+      "fecha": "2026-03-10",
+      "descripcion": "La misión de observación electoral de la Unión Europea, con 150 observadores en terreno, contradijo las denuncias del Presidente Petro sobre posible fraude electoral. La UE calificó las elecciones como 'transparentes, precisas y bien organizadas', señalando que las denuncias sobre la fiabilidad del sistema pusieron en riesgo la confianza ciudadana sin fundamento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/elecciones-fueron-transparentes-precisas-y-bien-organizadas-reporte-de-la-union-europea-desmiente-alerta-de-fraude-del-presidente-3539025",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 510,
+      "titulo": "Procuraduría confirma sanción de 10 años contra exdirectora de El Buen Pastor por fuga de Aida Merlano",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-10",
+      "descripcion": "La Procuraduría confirmó la sanción de destitución e inhabilidad por 10 años contra Diana Cecilia Muñoz, exdirectora de El Buen Pastor, y el entonces comandante de custodia por su responsabilidad en la fuga de la excongresista Aida Merlano. Esta decisión ratifica las fallas en el sistema carcelario que permitieron la espectacular fuga.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-confirma-sancion-por-10-anos-contra-exdirectora-de-el-buen-pastor-por-fuga-de-aida-merlano-3539035",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Diana Cecilia Muñoz",
+        "Aida Merlano"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 509,
+      "titulo": "Fiscalía desiste de medida de aseguramiento contra Juliana Guerrero tras nueva inasistencia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "Juliana Guerrero no se presentó por segunda vez a su audiencia de imputación por el escándalo de títulos falsos de la Fundación San José. La Fiscalía desistió de solicitar medida de aseguramiento durante la audiencia. Guerrero había intentado acceder a un viceministerio del gobierno Petro presentando documentos aparentemente irregulares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-desistio-de-solicitar-medida-de-aseguramiento-contra-juliana-guerrero-tras-segunda-inasistencia-a-su-imputacion-por-escandalo-de-titulos-3539038",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 508,
+      "titulo": "Difusión de video falso sobre reparto de dinero del Pacto Histórico en elecciones 2026",
+      "categoria": "mentiras",
+      "fecha": "2026-03-10",
+      "descripcion": "Se viralizó un video que supuestamente mostraba hombres repartiendo billetes con camisetas del Pacto Histórico durante las elecciones legislativas de 2026, pero la verificación de hechos confirmó que la grabación corresponde al cierre de campaña de Gustavo Petro en Barranquilla del 7 de marzo de 2022, no de las elecciones actuales. Esto constituye desinformación electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-video-de-hombres-repartiendo-billetes-con-camisetas-del-pacto-historico-es-de-2022-no-de-las-legislativas-de-3539024",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Pacto Histórico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
       "id": 507,
       "titulo": "Candidato Freddy Camilo Gómez imputado por vínculos con red de contrabando 'Papá Pitufo'",
       "categoria": "corrupcion",
