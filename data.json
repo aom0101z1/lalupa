@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 507,
+      "titulo": "Candidato Freddy Camilo Gómez imputado por vínculos con red de contrabando 'Papá Pitufo'",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-10",
+      "descripcion": "La Fiscalía imputó al candidato Freddy Camilo Gómez junto a cuatro policías retirados por presuntos vínculos con una red de contrabando ligada al caso 'Papá Pitufo'. Gómez se declaró inocente de los cargos. Los policías retirados habrían servido como enlaces en el grupo delincuencial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/fue-jurado-de-votacion-y-ejercio-su-derecho-al-voto-estas-son-las-fechas-limites-de-los-trabajadores-para-solicitar-hasta-dia-y-medio-de-descanso-3538888",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Freddy Camilo Gómez"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 12:38"
+    },
+    {
+      "id": 506,
+      "titulo": "Procuraduría investiga a exsecretario general de UNGRD Michael Oyuela Vargas",
+      "categoria": "contratos",
+      "fecha": "2026-03-09",
+      "descripcion": "La Procuraduría General de la Nación abrió investigación disciplinaria contra Michael Oyuela Vargas, exsecretario general de la UNGRD, por un contrato firmado en 2024. Esta investigación se suma a los múltiples escándalos que han salpicado a la UNGRD durante el gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-efecto-oviedo-acelera-carrera-por-elegir-vices-ivan-cepeda-ya-selecciono-formula-y-abelardo-de-la-espriella-alista-evento-en-cali-3538820",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Michael Oyuela Vargas"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 12:38"
+    },
+    {
       "id": 505,
       "titulo": "Gobierno flexibiliza requisitos para nombrar superintendencias",
       "categoria": "abuso-poder",
