@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 505,
+      "titulo": "Gobierno flexibiliza requisitos para nombrar superintendencias",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-09",
+      "descripcion": "El gobierno nacional modificó los requisitos para nombramientos en superintendencias, reduciendo las exigencias académicas y de experiencia necesarias para estos importantes cargos de control. Esta medida, que el gobierno venía buscando desde el año pasado, facilita el nombramiento de personas con menores calificaciones en posiciones clave de supervisión y control del Estado.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-flexibiliza-requisitos-para-nombrar-superintendencias/",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 06:37"
+    },
+    {
+      "id": 504,
+      "titulo": "Candidato Víctor Hugo Moreno liberado tras captura con $15 millones en efectivo",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-09",
+      "descripcion": "Víctor Hugo Moreno, candidato a la Cámara de Representantes, fue capturado por la Policía en inmediaciones del aeropuerto de Leticia portando $15 millones en efectivo. A pesar de la captura con esta suma considerable de dinero durante época electoral, un juez decidió dejarlo en libertad. El caso genera sospechas sobre posible financiación irregular de campaña electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/juez-dejo-en-libertad-a-victor-hugo-moreno-candidato-a-la-camara-capturado-con-15-millones-en-efectivo-3538782",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Víctor Hugo Moreno"
+      ],
+      "entidad": "Candidatura a Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 06:37"
+    },
+    {
+      "id": 503,
+      "titulo": "Juliana Guerrero reaparece tras no asistir a audiencia por escándalo de títulos falsos",
+      "categoria": "mentiras",
+      "fecha": "2026-03-09",
+      "descripcion": "Juliana Guerrero, quien tiene proceso por escándalo de títulos falsos, no asistió a audiencia de imputación de cargos programada por la Fiscalía. A pesar del proceso judicial pendiente, participó en elección de rector de la Universidad del César. Deberá presentarse el 10 de marzo a nueva audiencia donde se le imputarán cargos por presunto uso de títulos académicos falsos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/juliana-guerrero-reaparece-tras-proceso-en-la-fiscalia-por-escandalo-de-titulos-falsos-participo-en-eleccion-de-rector-de-la-universidad-del-cesar-3538853",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Universidad del César",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 06:37"
+    },
+    {
       "id": 502,
       "titulo": "Defensora del Pueblo rechaza burlas de ministro Benedetti a políticos opositores",
       "categoria": "abuso-poder",
