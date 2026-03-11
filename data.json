@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 516,
+      "titulo": "Irregularidades en sistema de reposición de gastos electorales a candidatos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-11",
+      "descripcion": "Se detectaron inconsistencias en el sistema de reposición electoral donde los candidatos no reciben el valor correspondiente a la reposición de votos como establece la ley, sino que solo se pagan los gastos certificados por el CNE. Esta situación genera confusión sobre el manejo de recursos públicos destinados al financiamiento electoral y podría constituir un uso inadecuado de fondos estatales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-fin-del-partido-de-las-farc-comunes-no-se-tomo-el-poder/",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-11 06:40"
+    },
+    {
+      "id": 515,
+      "titulo": "Daniel Briceño devolverá $1.800 millones de reposición de votos no utilizados",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-10",
+      "descripcion": "El congresista electo más votado de Colombia, Daniel Briceño, anunció que devolverá $1.800 millones de su reposición de votos, indicando que 'solo se pedirá lo gastado'. Esta decisión surge tras obtener más de 262.000 votos en las elecciones del 8 de marzo, lo que genera dudas sobre el manejo de los recursos públicos destinados a la reposición electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/daniel-briceno-congresista-electo-mas-votado-de-colombia-devolvera-1-800-millones-de-su-reposicion-de-votos-solo-se-pedira-lo-gastado-3539194",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Briceño"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-11 06:40"
+    },
+    {
       "id": 514,
       "titulo": "Corte Suprema condena a congresista Modesto Aguilera por acto sexual violento",
       "categoria": "abuso-poder",
