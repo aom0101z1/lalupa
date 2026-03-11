@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 519,
+      "titulo": "Fiscalía imputa a Ricardo Roa por tráfico de influencias en compra de apartamento",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "La Fiscalía imputó cargos al presidente de Ecopetrol, Ricardo Roa, por presunto tráfico de influencias relacionado con la compra de un apartamento. Se alega que benefició a través de Hocol (subsidiaria de Ecopetrol) a un policía retirado que le vendió el inmueble. La fiscal indicó que existen pruebas que permiten inferir que Roa cometió delitos siendo presidente de la petrolera estatal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/quien-es-el-tercer-mencionado-en-caso-por-supuesto-trafico-de-influencias-de-ricardo-roa-para-compra-de-apartamento-3539331",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 18:42"
+    },
+    {
       "id": 518,
       "titulo": "Procuraduría lleva a juicio disciplinario a exsecretaria de UNGRD por sobrecostos",
       "categoria": "contratos",
