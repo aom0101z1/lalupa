@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 518,
+      "titulo": "Procuraduría lleva a juicio disciplinario a exsecretaria de UNGRD por sobrecostos",
+      "categoria": "contratos",
+      "fecha": "2026-03-11",
+      "descripcion": "La Procuraduría formuló cargos disciplinarios contra Ana María Castaño, exsecretaria general de la UNGRD, por presuntos sobrecostos en contratos. Castaño fue nombrada por Olmedo López, actualmente preso por el escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres. El caso forma parte de las investigaciones por el saqueo sistemático a esta entidad estatal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/a-juicio-disciplinario-exsecretaria-general-de-la-ungrd-por-presuntos-sobrecostos-en-contrato-cargos-contra-ana-maria-castano-3539239",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana María Castaño",
+        "Olmedo López"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 12:38"
+    },
+    {
+      "id": 517,
+      "titulo": "Dudas sobre irregularidades electorales en votación de Martha Peralta para Senado indígena",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "Serias dudas sobre los más de 61.000 votos que eligieron a Martha Peralta como senadora por circunscripción indígena, quien está salpicada por el escándalo de la UNGRD. Uribia, municipio catalogado por la MOE en extremo riesgo electoral, pasó de 111 votos para el candidato más votado en 2022 a 11.159 votos en 2026 para Peralta, un aumento desproporcionado que genera sospechas de irregularidades electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/las-dudas-sobre-los-mas-de-61-000-votos-que-eligieron-a-martha-peralta-salpicada-por-el-escandalo-de-la-ungrd-como-senadora-por-los-indigenas-3539090",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta"
+      ],
+      "entidad": "Senado de la República - Circunscripción Indígena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 12:38"
+    },
+    {
       "id": 516,
       "titulo": "Irregularidades en sistema de reposición de gastos electorales a candidatos",
       "categoria": "recursos-publicos",
