@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 514,
+      "titulo": "Corte Suprema condena a congresista Modesto Aguilera por acto sexual violento",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "La Corte Suprema de Justicia condenó al congresista Modesto Aguilera a 8 años y 6 meses de cárcel por acto sexual violento. Adicionalmente, el alto tribunal compulsó copias contra Jonathan Enrique Torregrosa Viana, quien habría invitado a la víctima al lugar donde fue abusada. Aguilera también deberá pagar 100 salarios mínimos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-investigacion-que-destapo-62-fraudes-con-tarjetas-y-llevo-a-la-captura-de-alias-el-ilusionista-en-bogota-3539115",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Modesto Aguilera",
+        "Jonathan Enrique Torregrosa Viana"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 01:10"
+    },
+    {
+      "id": 513,
+      "titulo": "Misión UE denuncia favorecimiento de medios públicos al Pacto Histórico",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "En un reporte preliminar, la Misión de Observación Electoral de la Unión Europea cuestionó el uso de los medios estatales durante la campaña electoral, señalando que 'la radio y la televisión públicas favorecieron al Pacto Histórico y a la consulta Frente por la Vida' durante el proceso electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/primicia-ponencia-en-la-corte-compulsa-copias-contra-dos-congresistas-ya-investigados-por-el-caso-ungrd-y-un-tercero-3539151",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Medios de comunicación públicos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 01:10"
+    },
+    {
+      "id": 512,
+      "titulo": "Denuncia por presunto acoso laboral contra asesora del comisionado Otty Patiño",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "La abogada Claudia Bueno, asesora del comisionado de Paz Otty Patiño, denuncia presunto acoso laboral en la Oficina de Paz. La afectada solicita que la Procuraduría se haga cargo de su caso debido a la difícil situación que atraviesa en su ambiente laboral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-confirma-cita-entre-gustavo-petro-y-delcy-rodriguez-el-13-de-marzo-en-la-frontera-sera-en-el-puente-internacional-atanasio-girardot-3539041",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Otty Patiño",
+        "Claudia Bueno"
+      ],
+      "entidad": "Oficina del Alto Comisionado para la Paz",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-11 01:10"
+    },
+    {
       "id": 511,
       "titulo": "Misión de la Unión Europea desmiente alertas de fraude electoral del Presidente Petro",
       "categoria": "mentiras",
