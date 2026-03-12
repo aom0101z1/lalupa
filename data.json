@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 527,
+      "titulo": "Procuraduría suspende agente interventor de Coosalud EPS por falencias en salud",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-12",
+      "descripcion": "La Procuraduría suspendió por tres meses al agente interventor de Coosalud EPS, Alexander Mesa Romero, y le abrió investigación disciplinaria por falencias en la atención en salud. La medida también incluye a exagentes interventores de la entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-suspende-al-agente-interventor-de-coosalud-eps-y-le-abre-investigacion-por-falencias-en-la-atencion-en-salud-3539586",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Alexander Mesa Romero"
+      ],
+      "entidad": "Coosalud EPS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-12 18:40"
+    },
+    {
+      "id": 526,
+      "titulo": "Presidente Petro minimiza caso UNGRD tras capturas de Manzur y Manrique",
+      "categoria": "mentiras",
+      "fecha": "2026-03-12",
+      "descripcion": "El presidente Gustavo Petro intentó restarle importancia al escándalo de corrupción de la UNGRD tras las capturas de los congresistas Wadith Manzur y Karen Manrique, afirmando que 'si al caso se puede hablar de un intento' y que no se llegó a configurar un acto de corrupción en el entramado, contradiciendo las evidencias judiciales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-trata-de-restarle-importancia-al-caso-ungrd-tras-capturas-de-manzur-y-manrique-si-al-caso-se-puede-hablar-de-un-intento-3539608",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Wadith Manzur",
+        "Karen Manrique"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 18:40"
+    },
+    {
+      "id": 525,
+      "titulo": "Presidente Petro acusa al Partido de la U de compra de jurados electorales",
+      "categoria": "mentiras",
+      "fecha": "2026-03-12",
+      "descripcion": "El presidente Gustavo Petro realizó señalamientos públicos contra el Partido de la U por supuesta compra de jurados electorales, adjuntando videos sin contexto. El partido rechazó las acusaciones y cuestionó al mandatario por difundir denuncias sin fundamento sobre jurados que presuntamente no recibieron pagos para favorecer a una candidata de La U.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/partido-de-la-u-rechaza-senalamientos-del-presidente-gustavo-petro-sobre-supuesta-compra-de-jurados-electorales-de-una-de-sus-candidatas-3539684",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-12 18:40"
+    },
+    {
       "id": 524,
       "titulo": "Ricardo Roa no asiste a imputación por supuesta violación de topes en campaña Petro",
       "categoria": "corrupcion",
