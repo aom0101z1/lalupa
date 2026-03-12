@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 524,
+      "titulo": "Ricardo Roa no asiste a imputación por supuesta violación de topes en campaña Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-12",
+      "descripcion": "El presidente de Ecopetrol, Ricardo Roa, no asistió a audiencia de imputación por supuesta violación de topes en la campaña presidencial de Petro. Ya hay nueva fecha programada para la audiencia. Roa viene de ser imputado previamente por la supuesta compra irregular de un apartamento en Bogotá.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/ricardo-roa-no-asistira-a-imputacion-por-supuesta-violacion-de-topes-en-campana-petro-ya-hay-nueva-fecha-de-audiencia-3539566",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 12:37"
+    },
+    {
       "id": 523,
       "titulo": "Videos comprometen a Manzur y Manrique en reuniones en Ministerio de Hacienda por caso UNGRD",
       "categoria": "corrupcion",
