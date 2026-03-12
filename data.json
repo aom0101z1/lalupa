@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 521,
+      "titulo": "Tribunal confirma condena contra Diego Cadena por caso falsos testigos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "El Tribunal Superior de Bogotá confirmó y aumentó la condena contra Diego Cadena por el caso de falsos testigos, elevando la pena de siete años en primera instancia a ocho años y ocho meses de prisión domiciliaria. El tribunal concluyó que Cadena sí ofreció dádivas (sobornos) y la decisión también incluye a Juan José Salazar. Este caso representa una confirmación judicial de actos de corrupción mediante el ofrecimiento de sobornos para manipular testimonios judiciales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/ungrd-corte-suprema-ordena-captura-de-wadith-manzur-y-karen-manrique/",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Diego Cadena",
+        "Juan José Salazar"
+      ],
+      "entidad": "Poder Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 01:07"
+    },
+    {
+      "id": 520,
+      "titulo": "Corte Suprema envía a prisión a Wadith Manzur y Karen Manrique por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "La Corte Suprema de Justicia ordenó medida de aseguramiento en centro carcelario contra los congresistas Wadith Manzur (Partido Conservador, electo senador) y Karen Manrique (representante reelecta) por su presunta participación en el escándalo de corrupción de la UNGRD. La Corte acusó a cinco congresistas investigados y a un excongresista. Ambos políticos fueron reelegidos en los comicios del 8 de marzo pero ahora enfrentan proceso judicial por presunto tráfico de influencias relacionado con contratos irregulares en la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/atencion-corte-suprema-de-justicia-envia-a-la-carcel-a-wadith-manzur-y-karen-manrique-por-caso-ungrd-3539479",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur",
+        "Karen Manrique"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 01:07"
+    },
+    {
       "id": 519,
       "titulo": "Fiscalía imputa a Ricardo Roa por tráfico de influencias en compra de apartamento",
       "categoria": "corrupcion",
