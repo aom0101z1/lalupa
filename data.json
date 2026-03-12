@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 523,
+      "titulo": "Videos comprometen a Manzur y Manrique en reuniones en Ministerio de Hacienda por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "Registros de seguridad muestran encuentros de Wadith Manzur y Karen Manrique con otros congresistas en oficinas del Ministerio de Hacienda, días antes de una sesión clave de la Comisión de Crédito Público. Estos videos los implican presuntamente en el caso de corrupción de la UNGRD, evidenciando posibles coordinaciones para influir en decisiones públicas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/videos-de-reuniones-de-wadith-manzur-y-karen-manrique-en-la-oficina-del-ministerio-de-hacienda-los-implican-presuntamente-en-el-caso-ungrd-3539522",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur",
+        "Karen Manrique"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 06:42"
+    },
+    {
+      "id": 522,
+      "titulo": "Corte pide investigar a congresista Jhon F. Núñez por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "La Corte Suprema de Justicia solicitó investigar al congresista electo Jhon F. Núñez, quien hace parte de las curules de paz por la Citrep de Caquetá, por su presunta vinculación al escándalo de corrupción en la UNGRD. Núñez, al igual que Karen Astrid Manrique, está salpicado por el saqueo a la entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/primicia-corte-pide-investigar-a-jhon-f-nunez-nuevo-congresista-salpicado-por-el-saqueo-a-la-ungrd-las-pruebas-3539527",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Jhon F. Núñez"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 06:42"
+    },
+    {
       "id": 521,
       "titulo": "Tribunal confirma condena contra Diego Cadena por caso falsos testigos",
       "categoria": "corrupcion",
