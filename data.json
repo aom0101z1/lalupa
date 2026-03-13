@@ -66,6 +66,1610 @@
   ],
   "casos": [
     {
+      "id": 530,
+      "titulo": "Presidente Petro presenta gráfico engañoso sobre niños salvados por modelo preventivo",
+      "categoria": "mentiras",
+      "fecha": "2026-03-13",
+      "descripcion": "El presidente Gustavo Petro difundió un gráfico sobre 'niños salvados' por el modelo preventivo de salud que resulta engañoso. Aunque existe una caída en la mortalidad en menores de 5 años durante su gobierno, las cifras presentadas están infladas debido a un error metodológico en su cálculo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/grafico-de-petro-sobre-ninos-salvados-por-modelo-preventivo-es-enganoso/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-13 01:13"
+    },
+    {
+      "id": 529,
+      "titulo": "General (r) Jorge Arturo Salgado condenado por direccionamiento ilegal de contratos",
+      "categoria": "contratos",
+      "fecha": "2026-03-12",
+      "descripcion": "La Corte Suprema condenó al general retirado Jorge Arturo Salgado por direccionamiento ilegal de contratos. El aforado pactó un preacuerdo con la Fiscalía que fue avalado por la Corte, reduciendo su pena a tres años de cárcel mediante este mecanismo de justicia negociada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/el-direccionamiento-ilegal-de-contratos-por-el-que-la-corte-suprema-condeno-al-general-r-jorge-arturo-salgado-3539746",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Arturo Salgado"
+      ],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-13 01:13"
+    },
+    {
+      "id": 528,
+      "titulo": "CNE habría incurrido en desacato judicial en caso de trashumancia electoral en curul de paz de Guaviare",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-12",
+      "descripcion": "El Consejo Nacional Electoral (CNE) presuntamente incumplió un auto judicial que le daba 48 horas, dos días antes de las elecciones, para investigar y aclarar posible fraude electoral que habría impactado una curul de paz en Guaviare. El desacato habría ocurrido en un caso de posible trashumancia electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/presunto-desacato-del-consejo-nacional-electoral-cne-en-caso-de-posible-trashumancia-electoral-habria-impactado-curul-de-paz-en-guaviare-3539766",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-13 01:13"
+    },
+    {
+      "id": 527,
+      "titulo": "Procuraduría suspende agente interventor de Coosalud EPS por falencias en salud",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-12",
+      "descripcion": "La Procuraduría suspendió por tres meses al agente interventor de Coosalud EPS, Alexander Mesa Romero, y le abrió investigación disciplinaria por falencias en la atención en salud. La medida también incluye a exagentes interventores de la entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-suspende-al-agente-interventor-de-coosalud-eps-y-le-abre-investigacion-por-falencias-en-la-atencion-en-salud-3539586",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Alexander Mesa Romero"
+      ],
+      "entidad": "Coosalud EPS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-12 18:40"
+    },
+    {
+      "id": 526,
+      "titulo": "Presidente Petro minimiza caso UNGRD tras capturas de Manzur y Manrique",
+      "categoria": "mentiras",
+      "fecha": "2026-03-12",
+      "descripcion": "El presidente Gustavo Petro intentó restarle importancia al escándalo de corrupción de la UNGRD tras las capturas de los congresistas Wadith Manzur y Karen Manrique, afirmando que 'si al caso se puede hablar de un intento' y que no se llegó a configurar un acto de corrupción en el entramado, contradiciendo las evidencias judiciales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-trata-de-restarle-importancia-al-caso-ungrd-tras-capturas-de-manzur-y-manrique-si-al-caso-se-puede-hablar-de-un-intento-3539608",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Wadith Manzur",
+        "Karen Manrique"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 18:40"
+    },
+    {
+      "id": 525,
+      "titulo": "Presidente Petro acusa al Partido de la U de compra de jurados electorales",
+      "categoria": "mentiras",
+      "fecha": "2026-03-12",
+      "descripcion": "El presidente Gustavo Petro realizó señalamientos públicos contra el Partido de la U por supuesta compra de jurados electorales, adjuntando videos sin contexto. El partido rechazó las acusaciones y cuestionó al mandatario por difundir denuncias sin fundamento sobre jurados que presuntamente no recibieron pagos para favorecer a una candidata de La U.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/partido-de-la-u-rechaza-senalamientos-del-presidente-gustavo-petro-sobre-supuesta-compra-de-jurados-electorales-de-una-de-sus-candidatas-3539684",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-12 18:40"
+    },
+    {
+      "id": 524,
+      "titulo": "Ricardo Roa no asiste a imputación por supuesta violación de topes en campaña Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-12",
+      "descripcion": "El presidente de Ecopetrol, Ricardo Roa, no asistió a audiencia de imputación por supuesta violación de topes en la campaña presidencial de Petro. Ya hay nueva fecha programada para la audiencia. Roa viene de ser imputado previamente por la supuesta compra irregular de un apartamento en Bogotá.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/ricardo-roa-no-asistira-a-imputacion-por-supuesta-violacion-de-topes-en-campana-petro-ya-hay-nueva-fecha-de-audiencia-3539566",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 12:37"
+    },
+    {
+      "id": 523,
+      "titulo": "Videos comprometen a Manzur y Manrique en reuniones en Ministerio de Hacienda por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "Registros de seguridad muestran encuentros de Wadith Manzur y Karen Manrique con otros congresistas en oficinas del Ministerio de Hacienda, días antes de una sesión clave de la Comisión de Crédito Público. Estos videos los implican presuntamente en el caso de corrupción de la UNGRD, evidenciando posibles coordinaciones para influir en decisiones públicas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/videos-de-reuniones-de-wadith-manzur-y-karen-manrique-en-la-oficina-del-ministerio-de-hacienda-los-implican-presuntamente-en-el-caso-ungrd-3539522",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur",
+        "Karen Manrique"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 06:42"
+    },
+    {
+      "id": 522,
+      "titulo": "Corte pide investigar a congresista Jhon F. Núñez por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "La Corte Suprema de Justicia solicitó investigar al congresista electo Jhon F. Núñez, quien hace parte de las curules de paz por la Citrep de Caquetá, por su presunta vinculación al escándalo de corrupción en la UNGRD. Núñez, al igual que Karen Astrid Manrique, está salpicado por el saqueo a la entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/primicia-corte-pide-investigar-a-jhon-f-nunez-nuevo-congresista-salpicado-por-el-saqueo-a-la-ungrd-las-pruebas-3539527",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Jhon F. Núñez"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 06:42"
+    },
+    {
+      "id": 521,
+      "titulo": "Tribunal confirma condena contra Diego Cadena por caso falsos testigos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "El Tribunal Superior de Bogotá confirmó y aumentó la condena contra Diego Cadena por el caso de falsos testigos, elevando la pena de siete años en primera instancia a ocho años y ocho meses de prisión domiciliaria. El tribunal concluyó que Cadena sí ofreció dádivas (sobornos) y la decisión también incluye a Juan José Salazar. Este caso representa una confirmación judicial de actos de corrupción mediante el ofrecimiento de sobornos para manipular testimonios judiciales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/ungrd-corte-suprema-ordena-captura-de-wadith-manzur-y-karen-manrique/",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Diego Cadena",
+        "Juan José Salazar"
+      ],
+      "entidad": "Poder Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 01:07"
+    },
+    {
+      "id": 520,
+      "titulo": "Corte Suprema envía a prisión a Wadith Manzur y Karen Manrique por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "La Corte Suprema de Justicia ordenó medida de aseguramiento en centro carcelario contra los congresistas Wadith Manzur (Partido Conservador, electo senador) y Karen Manrique (representante reelecta) por su presunta participación en el escándalo de corrupción de la UNGRD. La Corte acusó a cinco congresistas investigados y a un excongresista. Ambos políticos fueron reelegidos en los comicios del 8 de marzo pero ahora enfrentan proceso judicial por presunto tráfico de influencias relacionado con contratos irregulares en la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/atencion-corte-suprema-de-justicia-envia-a-la-carcel-a-wadith-manzur-y-karen-manrique-por-caso-ungrd-3539479",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur",
+        "Karen Manrique"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-12 01:07"
+    },
+    {
+      "id": 519,
+      "titulo": "Fiscalía imputa a Ricardo Roa por tráfico de influencias en compra de apartamento",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "La Fiscalía imputó cargos al presidente de Ecopetrol, Ricardo Roa, por presunto tráfico de influencias relacionado con la compra de un apartamento. Se alega que benefició a través de Hocol (subsidiaria de Ecopetrol) a un policía retirado que le vendió el inmueble. La fiscal indicó que existen pruebas que permiten inferir que Roa cometió delitos siendo presidente de la petrolera estatal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/quien-es-el-tercer-mencionado-en-caso-por-supuesto-trafico-de-influencias-de-ricardo-roa-para-compra-de-apartamento-3539331",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 18:42"
+    },
+    {
+      "id": 518,
+      "titulo": "Procuraduría lleva a juicio disciplinario a exsecretaria de UNGRD por sobrecostos",
+      "categoria": "contratos",
+      "fecha": "2026-03-11",
+      "descripcion": "La Procuraduría formuló cargos disciplinarios contra Ana María Castaño, exsecretaria general de la UNGRD, por presuntos sobrecostos en contratos. Castaño fue nombrada por Olmedo López, actualmente preso por el escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres. El caso forma parte de las investigaciones por el saqueo sistemático a esta entidad estatal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/a-juicio-disciplinario-exsecretaria-general-de-la-ungrd-por-presuntos-sobrecostos-en-contrato-cargos-contra-ana-maria-castano-3539239",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana María Castaño",
+        "Olmedo López"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 12:38"
+    },
+    {
+      "id": 517,
+      "titulo": "Dudas sobre irregularidades electorales en votación de Martha Peralta para Senado indígena",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-11",
+      "descripcion": "Serias dudas sobre los más de 61.000 votos que eligieron a Martha Peralta como senadora por circunscripción indígena, quien está salpicada por el escándalo de la UNGRD. Uribia, municipio catalogado por la MOE en extremo riesgo electoral, pasó de 111 votos para el candidato más votado en 2022 a 11.159 votos en 2026 para Peralta, un aumento desproporcionado que genera sospechas de irregularidades electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/las-dudas-sobre-los-mas-de-61-000-votos-que-eligieron-a-martha-peralta-salpicada-por-el-escandalo-de-la-ungrd-como-senadora-por-los-indigenas-3539090",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta"
+      ],
+      "entidad": "Senado de la República - Circunscripción Indígena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 12:38"
+    },
+    {
+      "id": 516,
+      "titulo": "Irregularidades en sistema de reposición de gastos electorales a candidatos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-11",
+      "descripcion": "Se detectaron inconsistencias en el sistema de reposición electoral donde los candidatos no reciben el valor correspondiente a la reposición de votos como establece la ley, sino que solo se pagan los gastos certificados por el CNE. Esta situación genera confusión sobre el manejo de recursos públicos destinados al financiamiento electoral y podría constituir un uso inadecuado de fondos estatales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-fin-del-partido-de-las-farc-comunes-no-se-tomo-el-poder/",
+          "fecha": "2026-03-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-11 06:40"
+    },
+    {
+      "id": 515,
+      "titulo": "Daniel Briceño devolverá $1.800 millones de reposición de votos no utilizados",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-10",
+      "descripcion": "El congresista electo más votado de Colombia, Daniel Briceño, anunció que devolverá $1.800 millones de su reposición de votos, indicando que 'solo se pedirá lo gastado'. Esta decisión surge tras obtener más de 262.000 votos en las elecciones del 8 de marzo, lo que genera dudas sobre el manejo de los recursos públicos destinados a la reposición electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/daniel-briceno-congresista-electo-mas-votado-de-colombia-devolvera-1-800-millones-de-su-reposicion-de-votos-solo-se-pedira-lo-gastado-3539194",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Briceño"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-11 06:40"
+    },
+    {
+      "id": 514,
+      "titulo": "Corte Suprema condena a congresista Modesto Aguilera por acto sexual violento",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "La Corte Suprema de Justicia condenó al congresista Modesto Aguilera a 8 años y 6 meses de cárcel por acto sexual violento. Adicionalmente, el alto tribunal compulsó copias contra Jonathan Enrique Torregrosa Viana, quien habría invitado a la víctima al lugar donde fue abusada. Aguilera también deberá pagar 100 salarios mínimos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-investigacion-que-destapo-62-fraudes-con-tarjetas-y-llevo-a-la-captura-de-alias-el-ilusionista-en-bogota-3539115",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Modesto Aguilera",
+        "Jonathan Enrique Torregrosa Viana"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 01:10"
+    },
+    {
+      "id": 513,
+      "titulo": "Misión UE denuncia favorecimiento de medios públicos al Pacto Histórico",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "En un reporte preliminar, la Misión de Observación Electoral de la Unión Europea cuestionó el uso de los medios estatales durante la campaña electoral, señalando que 'la radio y la televisión públicas favorecieron al Pacto Histórico y a la consulta Frente por la Vida' durante el proceso electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/primicia-ponencia-en-la-corte-compulsa-copias-contra-dos-congresistas-ya-investigados-por-el-caso-ungrd-y-un-tercero-3539151",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Medios de comunicación públicos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-11 01:10"
+    },
+    {
+      "id": 512,
+      "titulo": "Denuncia por presunto acoso laboral contra asesora del comisionado Otty Patiño",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "La abogada Claudia Bueno, asesora del comisionado de Paz Otty Patiño, denuncia presunto acoso laboral en la Oficina de Paz. La afectada solicita que la Procuraduría se haga cargo de su caso debido a la difícil situación que atraviesa en su ambiente laboral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-confirma-cita-entre-gustavo-petro-y-delcy-rodriguez-el-13-de-marzo-en-la-frontera-sera-en-el-puente-internacional-atanasio-girardot-3539041",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Otty Patiño",
+        "Claudia Bueno"
+      ],
+      "entidad": "Oficina del Alto Comisionado para la Paz",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-11 01:10"
+    },
+    {
+      "id": 511,
+      "titulo": "Misión de la Unión Europea desmiente alertas de fraude electoral del Presidente Petro",
+      "categoria": "mentiras",
+      "fecha": "2026-03-10",
+      "descripcion": "La misión de observación electoral de la Unión Europea, con 150 observadores en terreno, contradijo las denuncias del Presidente Petro sobre posible fraude electoral. La UE calificó las elecciones como 'transparentes, precisas y bien organizadas', señalando que las denuncias sobre la fiabilidad del sistema pusieron en riesgo la confianza ciudadana sin fundamento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/elecciones-fueron-transparentes-precisas-y-bien-organizadas-reporte-de-la-union-europea-desmiente-alerta-de-fraude-del-presidente-3539025",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 510,
+      "titulo": "Procuraduría confirma sanción de 10 años contra exdirectora de El Buen Pastor por fuga de Aida Merlano",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-10",
+      "descripcion": "La Procuraduría confirmó la sanción de destitución e inhabilidad por 10 años contra Diana Cecilia Muñoz, exdirectora de El Buen Pastor, y el entonces comandante de custodia por su responsabilidad en la fuga de la excongresista Aida Merlano. Esta decisión ratifica las fallas en el sistema carcelario que permitieron la espectacular fuga.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-confirma-sancion-por-10-anos-contra-exdirectora-de-el-buen-pastor-por-fuga-de-aida-merlano-3539035",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Diana Cecilia Muñoz",
+        "Aida Merlano"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 509,
+      "titulo": "Fiscalía desiste de medida de aseguramiento contra Juliana Guerrero tras nueva inasistencia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-10",
+      "descripcion": "Juliana Guerrero no se presentó por segunda vez a su audiencia de imputación por el escándalo de títulos falsos de la Fundación San José. La Fiscalía desistió de solicitar medida de aseguramiento durante la audiencia. Guerrero había intentado acceder a un viceministerio del gobierno Petro presentando documentos aparentemente irregulares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-desistio-de-solicitar-medida-de-aseguramiento-contra-juliana-guerrero-tras-segunda-inasistencia-a-su-imputacion-por-escandalo-de-titulos-3539038",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 508,
+      "titulo": "Difusión de video falso sobre reparto de dinero del Pacto Histórico en elecciones 2026",
+      "categoria": "mentiras",
+      "fecha": "2026-03-10",
+      "descripcion": "Se viralizó un video que supuestamente mostraba hombres repartiendo billetes con camisetas del Pacto Histórico durante las elecciones legislativas de 2026, pero la verificación de hechos confirmó que la grabación corresponde al cierre de campaña de Gustavo Petro en Barranquilla del 7 de marzo de 2022, no de las elecciones actuales. Esto constituye desinformación electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-video-de-hombres-repartiendo-billetes-con-camisetas-del-pacto-historico-es-de-2022-no-de-las-legislativas-de-3539024",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Pacto Histórico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 18:36"
+    },
+    {
+      "id": 507,
+      "titulo": "Candidato Freddy Camilo Gómez imputado por vínculos con red de contrabando 'Papá Pitufo'",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-10",
+      "descripcion": "La Fiscalía imputó al candidato Freddy Camilo Gómez junto a cuatro policías retirados por presuntos vínculos con una red de contrabando ligada al caso 'Papá Pitufo'. Gómez se declaró inocente de los cargos. Los policías retirados habrían servido como enlaces en el grupo delincuencial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/fue-jurado-de-votacion-y-ejercio-su-derecho-al-voto-estas-son-las-fechas-limites-de-los-trabajadores-para-solicitar-hasta-dia-y-medio-de-descanso-3538888",
+          "fecha": "2026-03-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Freddy Camilo Gómez"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 12:38"
+    },
+    {
+      "id": 506,
+      "titulo": "Procuraduría investiga a exsecretario general de UNGRD Michael Oyuela Vargas",
+      "categoria": "contratos",
+      "fecha": "2026-03-09",
+      "descripcion": "La Procuraduría General de la Nación abrió investigación disciplinaria contra Michael Oyuela Vargas, exsecretario general de la UNGRD, por un contrato firmado en 2024. Esta investigación se suma a los múltiples escándalos que han salpicado a la UNGRD durante el gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-efecto-oviedo-acelera-carrera-por-elegir-vices-ivan-cepeda-ya-selecciono-formula-y-abelardo-de-la-espriella-alista-evento-en-cali-3538820",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Michael Oyuela Vargas"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 12:38"
+    },
+    {
+      "id": 505,
+      "titulo": "Gobierno flexibiliza requisitos para nombrar superintendencias",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-09",
+      "descripcion": "El gobierno nacional modificó los requisitos para nombramientos en superintendencias, reduciendo las exigencias académicas y de experiencia necesarias para estos importantes cargos de control. Esta medida, que el gobierno venía buscando desde el año pasado, facilita el nombramiento de personas con menores calificaciones en posiciones clave de supervisión y control del Estado.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-flexibiliza-requisitos-para-nombrar-superintendencias/",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-10 06:37"
+    },
+    {
+      "id": 504,
+      "titulo": "Candidato Víctor Hugo Moreno liberado tras captura con $15 millones en efectivo",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-09",
+      "descripcion": "Víctor Hugo Moreno, candidato a la Cámara de Representantes, fue capturado por la Policía en inmediaciones del aeropuerto de Leticia portando $15 millones en efectivo. A pesar de la captura con esta suma considerable de dinero durante época electoral, un juez decidió dejarlo en libertad. El caso genera sospechas sobre posible financiación irregular de campaña electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/juez-dejo-en-libertad-a-victor-hugo-moreno-candidato-a-la-camara-capturado-con-15-millones-en-efectivo-3538782",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Víctor Hugo Moreno"
+      ],
+      "entidad": "Candidatura a Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 06:37"
+    },
+    {
+      "id": 503,
+      "titulo": "Juliana Guerrero reaparece tras no asistir a audiencia por escándalo de títulos falsos",
+      "categoria": "mentiras",
+      "fecha": "2026-03-09",
+      "descripcion": "Juliana Guerrero, quien tiene proceso por escándalo de títulos falsos, no asistió a audiencia de imputación de cargos programada por la Fiscalía. A pesar del proceso judicial pendiente, participó en elección de rector de la Universidad del César. Deberá presentarse el 10 de marzo a nueva audiencia donde se le imputarán cargos por presunto uso de títulos académicos falsos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/juliana-guerrero-reaparece-tras-proceso-en-la-fiscalia-por-escandalo-de-titulos-falsos-participo-en-eleccion-de-rector-de-la-universidad-del-cesar-3538853",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Universidad del César",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-10 06:37"
+    },
+    {
+      "id": 502,
+      "titulo": "Defensora del Pueblo rechaza burlas de ministro Benedetti a políticos opositores",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-09",
+      "descripcion": "El ministro del Interior Juan Fernando Cristo Benedetti publicó un video burlándose con un extintor de los candidatos opositores que no lograron curules en las elecciones legislativas. La Defensora del Pueblo rechazó estas burlas, recordando que el ministro del Interior debe ser garante del proceso electoral y mantener imparcialidad institucional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/defensora-del-pueblo-rechaza-burlas-de-benedetti-a-politicos-quemados/",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Fernando Cristo Benedetti"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-09 18:39"
+    },
+    {
+      "id": 501,
+      "titulo": "Tres congresistas electos salpicados por denuncias de compra de votos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-09",
+      "descripcion": "Tres candidatos que lograron obtener curules en el Congreso para el período 2026-2030 están siendo señalados por presuntas irregularidades relacionadas con compra de votos durante la campaña electoral. Estos congresistas llegaron al Capitolio a pesar de estar rodeados de denuncias sobre prácticas electorales irregulares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/los-tres-congresistas-que-llegaron-al-capitolio-salpicados-por-denuncias-de-compra-de-votos-3538636",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 18:39"
+    },
+    {
+      "id": 500,
+      "titulo": "Cooptación de curules de paz por clanes políticos tradicionales",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-09",
+      "descripcion": "EL TIEMPO identificó que estructuras políticas tradicionales estarían detrás de al menos 8 de las 16 curules especiales para víctimas del conflicto armado. Estos escaños fueron creados específicamente para representar a las víctimas, pero clanes políticos tradicionales habrían cooptado la mitad de las candidaturas electas, desvirtuando el propósito de estas curules de paz.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cooptacion-de-las-curules-de-paz-clanes-politicos-estarian-detras-de-al-menos-la-mitad-de-los-candidatos-elegidos-3538725",
+          "fecha": "2026-03-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Rodrigo Tovar"
+      ],
+      "entidad": "Curules de Paz - Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 18:39"
+    },
+    {
+      "id": 499,
+      "titulo": "Empresa de transporte investigada por traslado masivo ilegal de 2.400 personas desde Venezuela en jornada electoral",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "Una empresa de transporte está bajo investigación por el traslado masivo ilegal de al menos 2.400 personas desde Venezuela durante la jornada electoral, pese al cierre oficial de la frontera. El traslado fue detectado por un dron en el paso fronterizo de Norte de Santander. Esta operación podría estar relacionada con alteración del proceso electoral mediante movilización irregular de votantes.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/al-cierre-de-la-jornada-electoral-policia-reporto-88-capturas-y-3-768-millones-de-pesos-incautados-3538469",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Empresa de transporte no identificada",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 06:51"
+    },
+    {
+      "id": 498,
+      "titulo": "Incautación de $3.761 millones durante jornada electoral 2026",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "Durante la jornada electoral del 8 de marzo de 2026, las autoridades reportaron 88 capturas por posibles delitos electorales e incautaron $3.761 millones de pesos. Estos recursos estaban aparentemente destinados a la compra de votos y otras actividades ilícitas relacionadas con el proceso electoral. La magnitud de los recursos incautados sugiere operaciones organizadas de corrupción electoral a gran escala.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-dron-en-meta-intento-de-ingreso-masivo-por-norte-de-santander-y-3-761-millones-incautados-marcaron-la-jornada-electoral-3538483",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 01:15"
+    },
+    {
+      "id": 497,
+      "titulo": "Captura de candidato al Senado por caso 'Papá Pitufo' durante jornada electoral",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "Freddy Camilo Gómez, candidato al Senado por el partido de 'la U', fue capturado por el CTI en Bogotá al salir de un puesto de votación. La detención hace parte de una investigación por una red de contrabando liderada por 'Papá Pitufo'. Junto al candidato fueron capturados cuatro policías retirados, evidenciando una posible red de corrupción que involucra funcionarios públicos y candidatos políticos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/un-candidato-al-senado-y-cuatro-policias-r-estos-son-los-capturados-por-el-caso-papa-pitufo-en-plenas-elecciones-al-congreso-3538505",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Freddy Camilo Gómez",
+        "Papá Pitufo"
+      ],
+      "entidad": "Partido de la U",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-09 01:15"
+    },
+    {
+      "id": 496,
+      "titulo": "Posible orientación irregular del voto detectada en Usaquén, Bogotá",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-08",
+      "descripcion": "Las autoridades detectaron a un hombre que pedía las cédulas a votantes para indicarles los números en los tarjetones de votación. El sujeto admitió que tomaba fotografías del certificado electoral y las enviaba a su grupo político, configurando una posible orientación irregular del voto.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/bogota-autoridades-pillan-posible-orientacion-del-voto-en-usaquen/",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Localidad de Usaquén - Bogotá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 18:21"
+    },
+    {
+      "id": 495,
+      "titulo": "Incautación de dinero y material electoral para candidatos del Partido Verde y Conservador",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-08",
+      "descripcion": "En la vía San Onofre-Cartagena fueron incautados dinero en efectivo, listados y stickers de candidatos. Los materiales serían para apoyar a la congresista Juliana Aray del Partido Conservador y el candidato al Senado Eyder Benavides del Partido Verde, sugiriendo posible compra de votos durante la jornada electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mas-incautaciones-plata-listados-y-stickers-de-candidatos-verdes-y-godos/",
+          "fecha": "2026-03-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Aray",
+        "Eyder Benavides"
+      ],
+      "entidad": "Partido Conservador y Partido Verde",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 18:21"
+    },
+    {
+      "id": 494,
+      "titulo": "Candidato Oswaldo Ortiz denunciado por intimidación electoral en Miami",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-07",
+      "descripcion": "El candidato a curul en el exterior Oswaldo Ortiz fue denunciado en redes sociales por presuntamente intimidar votantes en Miami, en medio de otros inconvenientes registrados en la votación en el exterior. Las denuncias circulan por posibles delitos electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/cambios-de-ultimo-momento-en-puestos-de-votacion-caqueta-y-en-el-exterior/",
+          "fecha": "2026-03-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Oswaldo Ortiz"
+      ],
+      "entidad": "Votación en el Exterior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 01:15"
+    },
+    {
+      "id": 493,
+      "titulo": "Director de Inteligencia denuncia desajustes en sistema de testigos del CNE",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-07",
+      "descripcion": "El Director de Inteligencia Carlos Guarín señaló irregularidades en el sistema del CNE que estaría asignando testigos electorales en sitios geográficos diferentes a donde se inscribieron, lo que podría afectar la transparencia del proceso electoral. El CNE convocó una mesa técnica para abordar la situación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/van-mas-de-3-000-millones-incautados-por-presunta-compra-de-votos/",
+          "fecha": "2026-03-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Guarín"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-08 01:15"
+    },
+    {
+      "id": 492,
+      "titulo": "Irregularidades en votación en consulados por no entrega de tarjetones y suspensión de ingreso de votantes",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-07",
+      "descripcion": "Se reportan quejas desde consulados de Estados Unidos y España por posibles irregularidades durante las elecciones en el exterior. Las denuncias incluyen que funcionarios consulares no entregan tarjetones de consultas interpartidistas y suspenden el ingreso de votantes, afectando el derecho al voto de colombianos en el exterior.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-el-exterior-denuncian-que-jurados-se-negaron-a-entregar-tarjeton-de-consultas-interpartidistas-3538156",
+          "fecha": "2026-03-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consulados de Colombia en Estados Unidos y España",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-07 18:21"
+    },
+    {
+      "id": 491,
+      "titulo": "Exmagistrado José Leonidas Bustos condenado a más de 10 años por cohecho",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-06",
+      "descripcion": "La Sala de Primera Instancia de la Corte Suprema de Justicia condenó al exmagistrado José Leonidas Bustos a 123 meses y un día de prisión (10 años y 2 meses) por los delitos de cohecho propio, en concurso homogéneo y sucesivo. La condena se relaciona con actos de corrupción durante su ejercicio como magistrado de la Corte Suprema.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/juan-daniel-oviedo-se-cotiza-tras-ataque-de-abelardo/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "José Leonidas Bustos"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 06:28"
+    },
+    {
+      "id": 490,
+      "titulo": "Procuraduría inhabilita a 16 candidatos para elecciones al Congreso 2026",
+      "categoria": "sanciones",
+      "fecha": "2026-03-06",
+      "descripcion": "La Procuraduría General de la Nación inhabilitó a 16 candidatos para las elecciones al Congreso, entre ellos 11 aspirantes a la Cámara de Representantes y 5 al Senado de distintos partidos políticos. La información fue enviada oficialmente al Consejo Nacional Electoral (CNE) para que tome las medidas correspondientes en el proceso electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-estos-son-los-16-nombres-de-inhabilitados-por-la-procuraduria-para-las-elecciones-al-congreso-3538008",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "16 candidatos inhabilitados"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 06:28"
+    },
+    {
+      "id": 489,
+      "titulo": "Contratistas distritales de Bogotá buscan votos para candidatos cercanos al alcalde Galán",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-06",
+      "descripcion": "En la localidad Antonio Nariño de Bogotá, contratistas del distrito están amarrando votos para los candidatos María Lucía Villalba y Juan David Aristizábal, quienes son cercanos al alcalde Carlos Fernando Galán, configurando un posible uso indebido de la contratación pública para fines electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mas-contratistas-distritales-les-buscan-votos-a-candidatos-cercanos-a-galan/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "María Lucía Villalba",
+        "Juan David Aristizábal",
+        "Carlos Fernando Galán"
+      ],
+      "entidad": "Alcaldía de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 488,
+      "titulo": "Ministro Benedetti ataca oposición siendo presidente de Comisión de Garantías Electorales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-06",
+      "descripcion": "El ministro Benedetti, quien preside la Comisión de Garantías Electorales, ha sido cuestionado por insultar a candidatos de oposición que lo critican, generando un conflicto de intereses en su rol de garante de la neutralidad electoral. Incluso en la campaña de Cepeda expresan recelos hacia su comportamiento.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/benedetti-el-ministro-de-la-garantias-electorales-que-ataca-a-la-oposicion/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Ministerio del Interior - Comisión de Garantías Electorales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 487,
+      "titulo": "Denuncia de red de compra de votos para candidato Richard Aguilar",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-06",
+      "descripcion": "Candidatos Cristian Avendaño y Carlos Parra del Partido Verde denunciaron una supuesta red de compra de votos a favor del candidato Richard Aguilar. Presentaron chats y videos como evidencia de un entramado para pagar hasta $1 millón por grupos de votantes en las elecciones legislativas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/candidatos-denunciaron-supuesta-red-de-compra-de-votos-para-richard-aguilar/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Richard Aguilar",
+        "Cristian Avendaño",
+        "Carlos Parra"
+      ],
+      "entidad": "Partido Verde",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 486,
+      "titulo": "Justicia ordena arresto contra director de la Agencia Nacional de Tierras por ocultamiento de información",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-06",
+      "descripcion": "La justicia ordenó el arresto por cinco días contra Felipe Harman, director de la Agencia Nacional de Tierras, por presuntamente ocultar información. El funcionario y la entidad niegan las acusaciones afirmando que 'la entidad no oculta información'.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/justicia-ordena-arresto-contra-el-director-de-la-agencia-nacional-de-tierras-felipe-harman-esto-es-lo-que-responde-el-funcionario-publico-3537991",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Felipe Harman"
+      ],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-07 01:10"
+    },
+    {
+      "id": 485,
+      "titulo": "Corte Suprema cita a indagatoria a David Racero por caso fruver",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-06",
+      "descripcion": "La Corte Suprema de Justicia citó a indagatoria al representante David Racero para el lunes en el despacho del magistrado César Reyes, por presuntas irregularidades en el manejo de su fruver. Esto ocurre pese a que el Consejo de Estado falló a su favor manteniéndolo en su curul.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-cita-a-indagatoria-a-david-racero-por-caso-de-su-fruver/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "David Racero"
+      ],
+      "entidad": "Congreso de la República - Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 18:32"
+    },
+    {
+      "id": 484,
+      "titulo": "Alcaldes y gobernadores postulan familiares y allegados al Congreso 2026",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-06",
+      "descripcion": "Mandatarios regionales de los 32 departamentos y Bogotá llevan como candidatos al Congreso a hermanos, primos, hijos, padres, exfuncionarios y aliados de sus estructuras políticas, evidenciando posibles casos de nepotismo y perpetuación de redes clientelares en la participación electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/estos-son-los-candidatos-al-congreso-de-alcaldes-y-gobernadores-en-2026/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcaldes y gobernadores regionales"
+      ],
+      "entidad": "Alcaldías y Gobernaciones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-06 18:32"
+    },
+    {
+      "id": 483,
+      "titulo": "Acusación contra cinco congresistas del caso UNGRD queda en empate y va a conjueces",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-05",
+      "descripcion": "La Sala de Instrucción de la Corte Suprema no logró consenso para decidir sobre la acusación contra cinco congresistas involucrados en el caso UNGRD. El empate en la votación obliga a recurrir a conjueces para resolver el proceso. El magistrado Misael Rodríguez presentará nuevamente su ponencia el miércoles para una nueva votación sobre este caso de corrupción que involucra a parlamentarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/tras-cuatro-anos-de-retraso-se-reinician-trabajos-en-museo-de-memoria-de-colombia-el-edificio-debia-entregarse-en-3537719",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Cinco congresistas",
+        "Misael Rodríguez"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 06:36"
+    },
+    {
+      "id": 482,
+      "titulo": "Supuesta fuga de información en la Fiscalía relacionada con asesinatos de informantes por el ELN",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-05",
+      "descripcion": "Investigación sobre presunta filtración de información confidencial en la Fiscalía que habría resultado en el asesinato de informantes por parte del ELN. Los informantes asesinados fueron mencionados en un supuesto complot para atentar contra un exfiscal general, lo que sugiere comprometimiento de la seguridad de fuentes judiciales por fallas internas o corrupción en la institución.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/los-conjuntos-pueden-subir-el-arriendo-segun-el-aumento-del-salario-minimo-3537706",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Informantes asesinados",
+        "Funcionarios Fiscalía"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 06:36"
+    },
+    {
+      "id": 481,
+      "titulo": "Garrido difunde información engañosa sobre software electoral de Indra",
+      "categoria": "mentiras",
+      "fecha": "2026-03-06",
+      "descripcion": "El político Garrido difundió información falsa sobre el software electoral de la empresa Indra, afirmando que el Estado español es dueño mayoritario cuando en realidad solo posee el 28% de la compañía. Esta desinformación busca alimentar narrativas de fraude electoral previo a las elecciones del 8 de marzo, poniendo en riesgo la confianza en el proceso democrático.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/garrido-engana-sobre-software-de-indra-y-alimenta-narrativa-de-fraude/",
+          "fecha": "2026-03-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Garrido"
+      ],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 480,
+      "titulo": "Corte Suprema condena a exgobernador del Meta a 19 años por corrupción en 38 contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-05",
+      "descripcion": "La Corte Suprema de Justicia condenó a 19 años de cárcel al exgobernador del Meta Juan Manuel González por los delitos de peculado y contrato sin cumplimiento de requisitos legales. La condena se basa en irregularidades encontradas en 38 contratos durante su gestión como gobernador, representando un caso significativo de corrupción administrativa a nivel territorial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-condena-a-19-anos-de-carcel-al-exgobernador-del-meta-juan-manuel-gonzalez-por-corrupcion-3537683",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Manuel González"
+      ],
+      "entidad": "Gobernación del Meta",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 479,
+      "titulo": "Consejo de Estado confirma nulidad de elección de alcalde de Tunja por inhabilidad contractual",
+      "categoria": "contratos",
+      "fecha": "2026-03-05",
+      "descripcion": "El Consejo de Estado confirmó la nulidad de la elección de Mikhail Krasnov como alcalde de Tunja, determinando que estaba inhabilitado por haber firmado en 2022 un contrato con la UPTC que se ejecutó en Tunja, un año antes de ser elegido alcalde en 2023. Esto constituye una violación a las inhabilidades por contratos con la entidad territorial que luego aspiraba a dirigir.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-confirmo-la-nulidad-de-la-eleccion-de-mikhail-krasnov-como-alcalde-de-tunja-3537711",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Mikhail Krasnov"
+      ],
+      "entidad": "Alcaldía de Tunja",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 478,
+      "titulo": "Gobierno modifica decreto para permitir uso de celulares a funcionarios de Procuraduría en puestos de votación",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-05",
+      "descripcion": "A tres días de las elecciones del 8 de marzo, el Gobierno Nacional expidió un decreto que permite a funcionarios de la Procuraduría usar celulares en puestos de votación, tras solicitud urgente del procurador Gregorio Eljach. Esta modificación de último minuto genera cuestionamientos sobre la transparencia electoral y posibles irregularidades en el proceso de votación.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gobierno-expidio-decreto-que-permite-a-funcionarios-de-la-procuraduria-usar-celulares-en-los-puestos-de-votacion-tras-solicitud-de-gregorio-eljach-3537690",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach",
+        "Gustavo Petro"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-06 01:18"
+    },
+    {
+      "id": 477,
+      "titulo": "Productora Valencia lleva 8 años contratando con el Estado por $17 mil millones",
+      "categoria": "contratos",
+      "fecha": "2026-03-05",
+      "descripcion": "Valencia Producciones, coproductora de la polémica película del Almirante Padilla ordenada por el presidente Petro, ha contratado con el Estado durante 8 años acumulando contratos por $17 mil millones desde 2012 hasta 2026. Esto genera interrogantes sobre la adjudicación de contratos públicos a la misma empresa de manera recurrente.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/productora-de-pelicula-de-padilla-lleva-8-anos-contratando-con-el-estado/",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Valencia Producciones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-05 19:08"
+    },
+    {
+      "id": 476,
+      "titulo": "Contraloría encuentra detrimento patrimonial de $2.456 millones por abandono del Museo de la Memoria",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-05",
+      "descripcion": "La Contraloría General determinó seis hallazgos fiscales por el abandono del proyecto del Museo de la Memoria en Bogotá, incluyendo un detrimento patrimonial por $2.456 millones de pesos. El proyecto se convirtió en un 'elefante blanco' generando pérdidas millonarias al Estado por su abandono.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-contraloria-encuentra-graves-hallazgos-fiscales-por-abandono-del-proyecto-de-museo-de-la-memoria-en-bogota-3537521",
+          "fecha": "2026-03-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-05 19:08"
+    },
+    {
+      "id": 475,
+      "titulo": "Concejal suspendido capturado con $434 millones en efectivo en Córdoba",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-04",
+      "descripcion": "Misael Villarreal, concejal suspendido en 2025 por el Consejo de Estado por no declarar un conflicto de interés, fue capturado con $434 millones en efectivo en un puesto de control en Córdoba. La Policía detuvo el vehículo en el peaje Purgatorio y encontró el dinero en un bolso.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-invirtio-15-mil-millones-para-pelicula-del-almirante-padilla/",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Misael Villarreal"
+      ],
+      "entidad": "Concejo Municipal de Córdoba",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 18:35"
+    },
+    {
+      "id": 474,
+      "titulo": "Gobierno invierte $15 mil millones en película del almirante Padilla",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-04",
+      "descripcion": "El gobierno de Petro invirtió $15 mil millones de pesos públicos para la producción de una película sobre el almirante Padilla, protagonizada por Cuba Gooding Jr., ganador del Oscar. El presidente promete que será 'una de las mejores producciones del cine colombiano'.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/fallo-avala-que-ciudadanos-pidan-a-empresas-datos-de-trazabilidad-ganadera/",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-04 18:35"
+    },
+    {
+      "id": 473,
+      "titulo": "Jueza niega preclusión a Sandra Ortiz por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-04",
+      "descripcion": "La jueza dejó en firme el proceso contra Sandra Ortiz, exconsejera para las Regiones del gobierno Petro, por el caso UNGRD. La solicitud de preclusión fue negada y Ortiz es acusada de dos delitos en el entramado corrupto de la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estas-son-las-identidades-de-los-tres-soldados-asesinados-en-ataque-de-disidencias-de-mordisco-en-caqueta-iban-para-un-punto-del-plan-democracia-3537260",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 18:35"
+    },
+    {
+      "id": 472,
+      "titulo": "Ministro de Salud Guillermo Alfonso Jaramillo enfrenta múltiples procesos judiciales por nepotismo",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-04",
+      "descripcion": "El ministro de Salud Guillermo Alfonso Jaramillo mantiene dos juicios disciplinarios en la Procuraduría y una indagación por conductas en su condición de ministro, siendo señalado específicamente por nepotismo. Adicionalmente, la Fiscalía lo investiga por su participación en la campaña de Petro. Los expedientes judiciales abarcan tanto su gestión ministerial como su participación política previa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/asamblea-constituyente-entre-los-temas-de-la-politica-actual-que-se-debatiran-en-conversatorios-en-el-externado-3537121",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 12:35"
+    },
+    {
+      "id": 471,
+      "titulo": "SIC investiga presunta colusión en contratación pública del ICBF y municipio de La Mesa",
+      "categoria": "contratos",
+      "fecha": "2026-03-04",
+      "descripcion": "La Superintendencia de Industria y Comercio abrió dos investigaciones por presunta colusión en procesos de contratación pública. Una involucra al Instituto Colombiano de Bienestar Familiar (ICBF) y otra se relaciona con una licitación de infraestructura en el municipio de La Mesa, Cundinamarca. La entidad también avanza en casos similares de la UNP, Hospital Militar y la UNGRD, indicando posibles acuerdos irregulares entre oferentes en procesos contractuales públicos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/de-las-filas-conservadoras-y-de-fiestas-vallenatas-esta-es-la-conexion-entre-jaime-lacouture-y-los-congresistas-daniel-restrepo-y-carlos-trujillo-3537039",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 12:35"
+    },
+    {
+      "id": 470,
+      "titulo": "Petro evaluará comandantes de Policía según capturas por compra de votos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-03",
+      "descripcion": "El presidente Gustavo Petro anunció que evaluará a los comandantes de la Policía según las capturas por compra de votos que realicen, estableciendo una nueva categoría para evaluar el ascenso de oficiales. Esta medida representa una presión política sobre la institución policial en época electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-gustavo-petro-evaluara-a-los-comandantes-de-la-policia-segun-capturas-por-compra-de-votos-3537087",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 06:35"
+    },
+    {
+      "id": 469,
+      "titulo": "Pacto Histórico entre partidos que no han reportado gastos e ingresos de campaña",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "Se alertó sobre el bajo reporte de cuentas de candidatos al Congreso, incluyendo al Pacto Histórico entre los que no han publicado sus gastos e ingresos de campaña. También hay alertas por la baja publicación de gastos de candidatos a consultas, lo que representa una violación a las obligaciones de transparencia electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alertan-bajo-reporte-de-cuentas-de-candidatos-al-congreso-pacto-historico-entre-los-que-no-han-publicado-sus-gastos-e-ingresos-3537070",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Candidatos del Pacto Histórico"
+      ],
+      "entidad": "Pacto Histórico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-04 06:35"
+    },
+    {
+      "id": 468,
+      "titulo": "Tribunal ordena investigar inscripción irregular de cédulas en Meta y Guaviare",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "Un tribunal ordenó al CNE verificar en dos días un proceso por posible trasteo de votantes en Meta y Guaviare, tras un fallo de tutela que evidencia inscripciones irregulares de cédulas. Esta práctica constituye una forma de manipulación electoral que busca alterar artificialmente el censo electoral en determinadas regiones para beneficiar candidaturas específicas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/la-ue-invertira-en-turismo-de-naturaleza-en-colombia/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 01:12"
+    },
+    {
+      "id": 467,
+      "titulo": "Procuraduría investiga 38 casos de participación política indebida de funcionarios públicos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "La Procuraduría confirmó que tiene 38 procesos disciplinarios activos por indebida participación en política de funcionarios públicos. El procurador Gregorio Eljach anunció que en los próximos días se conocerán medidas cautelares contra los involucrados, evidenciando el uso irregular de recursos y cargos públicos para actividades político-electorales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-emitio-directriz-para-reforzar-la-proteccion-de-las-mujeres-que-participan-en-la-arena-politica-3537016",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 01:12"
+    },
+    {
+      "id": 466,
+      "titulo": "Fiscalía acusa formalmente a vicealmirante José Ricardo Hurtado por corrupción en operativo antidrogas",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "La Fiscalía presentó acusación formal contra el vicealmirante en retiro José Ricardo Hurtado por presuntos actos de corrupción relacionados con operativos antidrogas. La audiencia preparatoria de juicio oral se realizará ante la Sala Especial de Primera Instancia de la Corte Suprema de Justicia, indicando la gravedad de las acusaciones contra el alto oficial naval.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/no-habria-ambiente-favorable-para-el-petrismo-en-el-cne-a-horas-de-votarse-la-fusion-del-pacto-historico-para-salvar-sus-candidaturas-3536921",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ricardo Hurtado"
+      ],
+      "entidad": "Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-04 01:12"
+    },
+    {
+      "id": 465,
+      "titulo": "Uso de entidades públicas de Barranquilla para operación electoral de la casa Char",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "La Contratopedia Caribe reveló presunta estrategia de la casa Char para asegurar curules en el Congreso utilizando recursos y funcionarios de la Alcaldía de Barranquilla. La operación incluiría llamadas, listas de votantes y software especializado para movilizar 400 mil votos, configurando uso indebido de recursos públicos municipales para fines electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/con-llamadas-listas-y-software-se-buscan-400-mil-votos-en-barranquilla/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Casa Char"
+      ],
+      "entidad": "Alcaldía de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 464,
+      "titulo": "Audios revelan presunta compra de votos a favor de sobrino de Euclides Mangones",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "\nAudios revelados por La Fm hablan de supuestas promesas en viviendas para Camilo Torres, del Partido Liberal.\nThe post Audios destapan presunta compra de votos a sobrino de Euclides appeared first on La Silla Vacía.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/audios-destapan-presunta-compra-de-votos-a-sobrino-de-euclides-en-cordoba/",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Camilo Torres"
+      ],
+      "entidad": "Partido Liberal Colombiano",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 463,
+      "titulo": "Acusación contra contralmirante por presunto amaño en decomiso de cocaína",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-03",
+      "descripcion": "La Corte Suprema formuló acusación contra el contralmirante en retiro José Ricardo Hurtado por presunto amaño en operación antidroga. Se le señala de ordenar la liberación de personas que fueron capturadas en una operación de interdicción marítima donde se incautaron 530 kilos de cocaína, configurando posible obstrucción a la justicia y favorecimiento al narcotráfico.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/acusacion-en-la-corte-suprema-contra-el-contralmirante-r-jose-ricardo-hurtado-por-liberar-a-tres-capturados-con-cocaina-3536874",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ricardo Hurtado"
+      ],
+      "entidad": "Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 462,
+      "titulo": "Contratos por 31 mil millones con presuntos fines políticos durante Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-03-03",
+      "descripcion": "La Contraloría General alertó sobre la firma de contratos por valor de 31 mil millones de pesos con presuntos fines políticos, a pesar de estar vigente la Ley de Garantías que prohíbe este tipo de operaciones durante periodo electoral. El contralor Carlos Hernán Rodríguez entregó estas cifras como parte de las alertas de interés nacional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/a-pesar-de-la-ley-de-garantias-se-firmaron-contratos-por-31-mil-millones-con-presuntos-fines-politicos-en-colombia-advirtio-la-contraloria-3536764",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Hernán Rodríguez"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
+      "id": 461,
+      "titulo": "Escolta de secretario de la Cámara capturado con 145 millones en efectivo y propaganda electoral",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-03",
+      "descripcion": "Un escolta del secretario de la Cámara de Representantes fue capturado portando 145 millones de pesos en efectivo junto con propaganda del candidato conservador Daniel Restrepo. El hecho genera sospechas sobre uso de recursos públicos para financiar campañas políticas y presunta compra de votos. El Partido Conservador anunció investigaciones internas sobre el caso.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/veedor-del-partido-conservador-anuncio-investigaciones-ante-captura-de-escolta-de-secretario-de-la-camara-con-145-millones-de-pesos-en-efectivo-3536948",
+          "fecha": "2026-03-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Restrepo",
+        "Secretario de la Cámara"
+      ],
+      "entidad": "Congreso de la República - Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-03 18:36"
+    },
+    {
       "id": 460,
       "titulo": "MinEducación investiga a Universidad San José por convenios irregulares",
       "categoria": "contratos",
