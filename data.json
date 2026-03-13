@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 530,
+      "titulo": "Presidente Petro presenta gráfico engañoso sobre niños salvados por modelo preventivo",
+      "categoria": "mentiras",
+      "fecha": "2026-03-13",
+      "descripcion": "El presidente Gustavo Petro difundió un gráfico sobre 'niños salvados' por el modelo preventivo de salud que resulta engañoso. Aunque existe una caída en la mortalidad en menores de 5 años durante su gobierno, las cifras presentadas están infladas debido a un error metodológico en su cálculo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/grafico-de-petro-sobre-ninos-salvados-por-modelo-preventivo-es-enganoso/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-13 01:13"
+    },
+    {
+      "id": 529,
+      "titulo": "General (r) Jorge Arturo Salgado condenado por direccionamiento ilegal de contratos",
+      "categoria": "contratos",
+      "fecha": "2026-03-12",
+      "descripcion": "La Corte Suprema condenó al general retirado Jorge Arturo Salgado por direccionamiento ilegal de contratos. El aforado pactó un preacuerdo con la Fiscalía que fue avalado por la Corte, reduciendo su pena a tres años de cárcel mediante este mecanismo de justicia negociada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/el-direccionamiento-ilegal-de-contratos-por-el-que-la-corte-suprema-condeno-al-general-r-jorge-arturo-salgado-3539746",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Arturo Salgado"
+      ],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-13 01:13"
+    },
+    {
+      "id": 528,
+      "titulo": "CNE habría incurrido en desacato judicial en caso de trashumancia electoral en curul de paz de Guaviare",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-12",
+      "descripcion": "El Consejo Nacional Electoral (CNE) presuntamente incumplió un auto judicial que le daba 48 horas, dos días antes de las elecciones, para investigar y aclarar posible fraude electoral que habría impactado una curul de paz en Guaviare. El desacato habría ocurrido en un caso de posible trashumancia electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/presunto-desacato-del-consejo-nacional-electoral-cne-en-caso-de-posible-trashumancia-electoral-habria-impactado-curul-de-paz-en-guaviare-3539766",
+          "fecha": "2026-03-12"
+        }
+      ],
+      "personas_involucradas": [
+        "CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-13 01:13"
+    },
+    {
       "id": 527,
       "titulo": "Procuraduría suspende agente interventor de Coosalud EPS por falencias en salud",
       "categoria": "abuso-poder",
