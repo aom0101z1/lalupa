@@ -16,6 +16,7 @@
             flex-direction: column;
             position: relative;
             overflow: hidden;
+            padding-top: 56px;
         }
 
         .hero::before {
@@ -299,10 +300,12 @@
             background: var(--background);
         }
 
-        /* Sticky nav when scrolled */
+        /* Fixed nav - always visible at top */
         .sticky-nav {
-            position: sticky;
+            position: fixed;
             top: 0;
+            left: 0;
+            right: 0;
             background: rgba(26, 31, 54, 0.95);
             backdrop-filter: blur(20px);
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
@@ -540,15 +543,6 @@
                     </div>
                     <h1>La Lupa</h1>
                 </div>
-                <nav class="hero-nav">
-                    <a href="#casos" class="hero-nav-link"><i class="fas fa-folder-open"></i> <span>Casos</span></a>
-                    <a href="#estadísticas" class="hero-nav-link"><i class="fas fa-chart-pie"></i> <span>Estadísticas</span></a>
-                    <a href="#temas-interes" class="hero-nav-link"><i class="fas fa-pen-fancy"></i> <span>Opinión</span></a>
-                    <a href="#" class="hero-nav-link" id="btn-medios-hero"><i class="fas fa-newspaper"></i> <span>Medios</span></a>
-                    <a href="#" class="hero-nav-link" id="btn-violencia-hero"><i class="fas fa-chart-bar"></i> <span>Violencia</span></a>
-                    <a href="sugerir.html" class="hero-nav-link btn-action"><i class="fas fa-plus"></i> Sugerir</a>
-                    <a href="#" class="hero-nav-link btn-auth" id="auth-button-hero"><i class="fas fa-sign-in-alt"></i> <span>Iniciar Sesión</span></a>
-                </nav>
             </div>
         </header>
 
