@@ -66,6 +66,79 @@
   ],
   "casos": [
     {
+      "id": 535,
+      "titulo": "Presidente Petro hace comentario homófobo contra Juan Daniel Oviedo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-13",
+      "descripcion": "Durante el evento de inscripción de la candidatura de Paloma Valencia, el presidente Petro realizó un comentario homófobo dirigido a Juan Daniel Oviedo, fórmula vicepresidencial de Valencia. El incidente ocurrió en el contexto de comentarios políticos sobre la orientación sexual del candidato a vicepresidente.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/uribe-dice-no-discriminar-y-petro-hace-comentario-homofobo-a-oviedo/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Juan Daniel Oviedo"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-13 18:29"
+    },
+    {
+      "id": 534,
+      "titulo": "Petro contradice comunicado oficial de Presidencia sobre disculpas de Trump",
+      "categoria": "mentiras",
+      "fecha": "2026-03-13",
+      "descripcion": "El presidente Petro desmintió el comunicado oficial de su propia Presidencia que afirmaba que Trump se había disculpado con él. Petro declaró que Trump no se disculpó y que hablaron sobre la guerra de Estados Unidos con Irán, contradiciéndose con la versión oficial previamente difundida.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-desmiente-a-su-propia-presidencia-dice-que-trump-no-se-disculpo/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-13 18:29"
+    },
+    {
+      "id": 533,
+      "titulo": "Fiscalía imputará a exviceministro de Defensa por contrato irregular de helicópteros MI-17",
+      "categoria": "contratos",
+      "fecha": "2026-03-13",
+      "descripcion": "La Fiscalía imputará cargos al exviceministro de Defensa Luis Edmundo Suárez, al exfuncionario Herbert Buitrago y a los contratistas Carlos Martín Uribe y James Lester por irregularidades en el contrato para el mantenimiento de helicópteros MI-17 del Ministerio de Defensa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-imputara-a-un-exviceministro-de-defensa-y-otras-tres-personas-por-contrato-para-el-mantenimiento-de-los-helicopteros-mi-3539979",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Edmundo Suárez",
+        "Herbert Buitrago",
+        "Carlos Martín Uribe",
+        "James Lester"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-13 18:29"
+    },
+    {
       "id": 532,
       "titulo": "Difusión de imagen falsa de Iván Cepeda en liberación de Santrich",
       "categoria": "mentiras",
