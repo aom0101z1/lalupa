@@ -1244,14 +1244,30 @@ async function loadAllUsers() {
 
 // Load all comments (admin)
 async function loadAllComments() {
-    const snapshot = await db.collection('comments')
-        .where('isHidden', '==', false)
-        .orderBy('createdAt', 'desc')
-        .limit(50)
-        .get();
-    const comments = [];
-    snapshot.forEach(doc => comments.push({ id: doc.id, ...doc.data() }));
-    return comments;
+    try {
+        const snapshot = await db.collection('comments')
+            .where('isHidden', '==', false)
+            .orderBy('createdAt', 'desc')
+            .limit(50)
+            .get();
+        const comments = [];
+        snapshot.forEach(doc => comments.push({ id: doc.id, ...doc.data() }));
+        return comments;
+    } catch (indexError) {
+        console.warn('Compound query failed (missing index?), falling back to simple query:', indexError);
+        const snapshot = await db.collection('comments')
+            .orderBy('createdAt', 'desc')
+            .limit(50)
+            .get();
+        const comments = [];
+        snapshot.forEach(doc => {
+            const data = doc.data();
+            if (!data.isHidden) {
+                comments.push({ id: doc.id, ...data });
+            }
+        });
+        return comments;
+    }
 }
 
 // Load blocked users
