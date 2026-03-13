@@ -5,6 +5,8 @@ let data = {
     estadisticas: {}
 };
 let filteredCasos = [];
+let currentPage = 1;
+const CASES_PER_PAGE = 24;
 
 // Elementos del DOM
 const statsGrid = document.getElementById('stats-grid');
@@ -229,6 +231,7 @@ function renderStats() {
 
 // Filtrar y renderizar casos
 function filterAndRenderCasos() {
+    currentPage = 1;
     const searchTerm = searchInput.value.toLowerCase();
     const categoriaFilter = filterCategoria.value;
     const medioFilter = filterMedio.value;
@@ -315,17 +318,27 @@ function filterAndRenderCasos() {
 
 // Renderizar casos
 function renderCasos() {
+    const paginationContainer = document.getElementById('pagination');
+
     if (filteredCasos.length === 0) {
         casosGrid.innerHTML = '';
         noResults.style.display = 'block';
         casosCount.textContent = '0 casos';
+        if (paginationContainer) paginationContainer.innerHTML = '';
         return;
     }
 
     noResults.style.display = 'none';
     casosCount.textContent = `${filteredCasos.length} caso${filteredCasos.length !== 1 ? 's' : ''}`;
 
-    const html = filteredCasos.map(caso => {
+    // Paginate
+    const totalPages = Math.ceil(filteredCasos.length / CASES_PER_PAGE);
+    if (currentPage > totalPages) currentPage = totalPages;
+    const startIdx = (currentPage - 1) * CASES_PER_PAGE;
+    const endIdx = startIdx + CASES_PER_PAGE;
+    const pageCasos = filteredCasos.slice(startIdx, endIdx);
+
+    const html = pageCasos.map(caso => {
         const categoria = data.categorias.find(c => c.id === caso.categoria) || {
             nombre: caso.categoria,
             color: '#95a5a6',
@@ -379,6 +392,71 @@ function renderCasos() {
             openModal(id);
         });
     });
+
+    // Render pagination
+    renderPagination(totalPages, startIdx, endIdx);
+}
+
+// Renderizar controles de paginación
+function renderPagination(totalPages, startIdx, endIdx) {
+    const paginationContainer = document.getElementById('pagination');
+    if (!paginationContainer) return;
+
+    if (totalPages <= 1) {
+        paginationContainer.innerHTML = '';
+        return;
+    }
+
+    const actualEnd = Math.min(endIdx, filteredCasos.length);
+    let pagesHtml = '';
+
+    // Determine visible page numbers (max 5 + ellipsis)
+    const pages = [];
+    if (totalPages <= 7) {
+        for (let i = 1; i <= totalPages; i++) pages.push(i);
+    } else {
+        pages.push(1);
+        if (currentPage > 3) pages.push('...');
+        const start = Math.max(2, currentPage - 1);
+        const end = Math.min(totalPages - 1, currentPage + 1);
+        for (let i = start; i <= end; i++) pages.push(i);
+        if (currentPage < totalPages - 2) pages.push('...');
+        pages.push(totalPages);
+    }
+
+    pages.forEach(p => {
+        if (p === '...') {
+            pagesHtml += `<span class="pagination-ellipsis">...</span>`;
+        } else {
+            pagesHtml += `<button class="pagination-btn${p === currentPage ? ' active' : ''}" onclick="goToPage(${p})">${p}</button>`;
+        }
+    });
+
+    paginationContainer.innerHTML = `
+        <div class="pagination-info">Mostrando ${startIdx + 1}-${actualEnd} de ${filteredCasos.length} casos</div>
+        <div class="pagination-controls">
+            <button class="pagination-btn pagination-nav" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            ${pagesHtml}
+            <button class="pagination-btn pagination-nav" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+    `;
+}
+
+// Ir a página específica
+function goToPage(page) {
+    const totalPages = Math.ceil(filteredCasos.length / CASES_PER_PAGE);
+    if (page < 1 || page > totalPages) return;
+    currentPage = page;
+    renderCasos();
+    // Scroll suave al inicio de la sección de casos
+    const casosSection = document.getElementById('casos');
+    if (casosSection) {
+        casosSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
 }
 
 // Abrir modal con detalle del caso
