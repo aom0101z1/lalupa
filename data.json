@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 532,
+      "titulo": "Difusión de imagen falsa de Iván Cepeda en liberación de Santrich",
+      "categoria": "mentiras",
+      "fecha": "2026-03-13",
+      "descripcion": "Circula una imagen manipulada que muestra falsamente a Iván Cepeda presente durante la liberación de Jesús Santrich el 17 de mayo de 2019. Se trata de un fotomontaje, ya que en los registros originales Cepeda no estuvo presente en la salida de la cárcel. La imagen falsa busca vincular al candidato presidencial con el controvertido episodio.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/la-izquierda-crece-en-antioquia-menos-que-el-optimismo-de-sus-lideres/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Jesús Santrich"
+      ],
+      "entidad": "Pacto Histórico",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-13 12:36"
+    },
+    {
+      "id": 531,
+      "titulo": "Difusión de información falsa sobre 'bono mujer' de $850.000 suplantando al gobierno",
+      "categoria": "mentiras",
+      "fecha": "2026-03-13",
+      "descripcion": "Se están difundiendo falsas convocatorias que suplantan al gobierno de Colombia prometiendo un 'bono mujer' de $850.000, posiblemente con fines de estafa. Esta información falsa se atribuye incorrectamente al gobierno de Petro para engañar a la ciudadanía.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-maquinaria-como-la-materia-no-se-acaba-se-transforma/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-13 12:36"
+    },
+    {
       "id": 530,
       "titulo": "Presidente Petro presenta gráfico engañoso sobre niños salvados por modelo preventivo",
       "categoria": "mentiras",
