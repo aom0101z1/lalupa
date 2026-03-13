@@ -1699,6 +1699,7 @@ body {
 .violencia-stat-card.extorsion { border-left: 4px solid #7c3aed; }
 .violencia-stat-card.coca { border-left: 4px solid #16a34a; }
 .violencia-stat-card.confinamiento { border-left: 4px solid #0891b2; }
+.violencia-stat-card.desaparecidos { border-left: 4px solid #78716c; }
 
 .violencia-stat-card .stat-icon {
     width: 56px;
@@ -1721,6 +1722,7 @@ body {
 .violencia-stat-card.extorsion .stat-icon { background: linear-gradient(135deg, #7c3aed, #6d28d9); }
 .violencia-stat-card.coca .stat-icon { background: linear-gradient(135deg, #16a34a, #15803d); }
 .violencia-stat-card.confinamiento .stat-icon { background: linear-gradient(135deg, #0891b2, #0e7490); }
+.violencia-stat-card.desaparecidos .stat-icon { background: linear-gradient(135deg, #78716c, #57534e); }
 
 .violencia-stat-card .stat-info {
     margin-bottom: 16px;
