@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 538,
+      "titulo": "Consejo de Estado confirma irregularidades en elección de Jorge Carrillo en ISA",
+      "categoria": "contratos",
+      "fecha": "2026-03-13",
+      "descripcion": "El Consejo de Estado ratificó la salida de Jorge Carrillo de ISA tras resolver una solicitud de aclaración. El tribunal confirmó que hubo un vicio en el proceso para favorecer su elección, dejando firme la decisión que evidencia irregularidades en el nombramiento.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/los-dias-mateus-de-santander-se-van-con-paloma-valencia/",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Carrillo"
+      ],
+      "entidad": "ISA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-14 01:12"
+    },
+    {
+      "id": 537,
+      "titulo": "Exministro Diego Guevara involucrado en saqueo a UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-13",
+      "descripcion": "Diego Guevara, exministro del gobierno Petro, aparece mencionado en la investigación de la Corte Suprema por el saqueo a la UNGRD. Según la investigación, Guevara habría conocido y participado de la 'negociación criminal' de contratos corruptos con parlamentarios. Es otro funcionario del actual gobierno salpicado en este escándalo de corrupción.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/los-otros-6-nombres-que-aparecen-en-la-acusacion-de-la-corte-por-saqueo-a-la-ungrd-como-ha-avanzado-la-fiscalia-3539991",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Diego Guevara"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-14 01:12"
+    },
+    {
+      "id": 536,
+      "titulo": "Corte Constitucional tumba norma del Plan de Desarrollo que favorecía a ISA",
+      "categoria": "contratos",
+      "fecha": "2026-03-13",
+      "descripcion": "La Corte Constitucional declaró inexequible una norma del Plan de Desarrollo que abría el mercado eléctrico a ISA, concluyendo que el cambio se introdujo sin la deliberación suficiente en el Congreso. Esta decisión evidencia irregularidades en el proceso legislativo para favorecer a una empresa específica.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-tumba-norma-del-plan-de-desarrollo-que-abria-el-mercado-electrico-a-isa-3540047",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ISA",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-14 01:12"
+    },
+    {
       "id": 535,
       "titulo": "Presidente Petro hace comentario homófobo contra Juan Daniel Oviedo",
       "categoria": "abuso-poder",
