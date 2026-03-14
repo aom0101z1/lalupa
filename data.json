@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 539,
+      "titulo": "Expertos advierten riesgos en decretos de emergencia económica por reencauche de medidas suspendidas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-13",
+      "descripcion": "Expertos y asociaciones alertan sobre riesgos en el nuevo paquete de decretos de emergencia económica, señalando que es un 'precedente peligroso' porque el gobierno insiste en medidas que fueron previamente suspendidas por la Corte Constitucional, incluyendo impuestos rechazados.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/citan-al-ministro-benedetti-para-que-de-su-version-tras-demanda-que-pide-al-presidente-petro-abstenerse-de-hablar-sin-pruebas-de-fraude-electoral-3540007",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-14 06:34"
+    },
+    {
       "id": 538,
       "titulo": "Consejo de Estado confirma irregularidades en elección de Jorge Carrillo en ISA",
       "categoria": "contratos",
