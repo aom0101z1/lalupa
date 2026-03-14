@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 541,
+      "titulo": "Imputación contra Juliana Guerrero por supuestos títulos falsos",
+      "categoria": "mentiras",
+      "fecha": "2026-03-13",
+      "descripcion": "La Fiscalía programó nueva fecha para la imputación contra Juliana Guerrero por presuntos títulos falsos de la Fundación San José. Guerrero aspiraba a ser Viceministra de las Juventudes del Gobierno y ha faltado a dos audiencias programadas, la última durante esta semana. El caso involucra supuesta falsificación de documentos académicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/imputacion-contra-juliana-guerrero-por-supuestos-titulos-falsos-de-la-fundacion-san-jose-tiene-nueva-fecha-cual-es-3540064",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Ministerio de Juventudes",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-14 12:30"
+    },
+    {
+      "id": 540,
+      "titulo": "Corte Suprema condena a Iván Moreno por carrusel de contratación en Bogotá",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-13",
+      "descripcion": "La Corte Suprema de Justicia condenó al exsenador Iván Moreno a más de cuatro años de prisión por su participación en el carrusel de la contratación en Bogotá. Moreno aceptó su responsabilidad por delitos ocurridos entre 2009 y 2010, relacionados con esquemas de corrupción en contratos públicos en la capital del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-condena-a-mas-de-cuatro-anos-de-prision-al-exsenador-ivan-moreno-por-el-carrusel-de-la-contratacion-en-bogota-3540125",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Moreno"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-14 12:30"
+    },
+    {
       "id": 539,
       "titulo": "Expertos advierten riesgos en decretos de emergencia económica por reencauche de medidas suspendidas",
       "categoria": "abuso-poder",
