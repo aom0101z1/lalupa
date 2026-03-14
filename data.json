@@ -66,6 +66,27 @@
   ],
   "casos": [
     {
+      "id": 542,
+      "titulo": "Procuraduría investiga uso político de medios públicos tras alerta de Misión Electoral UE",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-14",
+      "descripcion": "La Procuraduría inició investigación sobre posible uso político de medios públicos tras alerta de la Misión Electoral de la Unión Europea. El Ministerio Público solicitó información a RTVC, MinTIC y el Consejo Nacional Electoral para determinar si hubo favorecimiento político en medios estatales durante el proceso electoral.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-indaga-posible-uso-politico-de-medios-publicos-tras-alerta-de-la-mision-electoral-de-la-union-europea-3540183",
+          "fecha": "2026-03-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-14 18:24"
+    },
+    {
       "id": 541,
       "titulo": "Imputación contra Juliana Guerrero por supuestos títulos falsos",
       "categoria": "mentiras",
