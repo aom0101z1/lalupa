@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 544,
+      "titulo": "Ataques de figuras y aliados del gobierno contra Galán por respaldo a Paloma Valencia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-14",
+      "descripcion": "Diferentes políticos de la oposición han denunciado ataques por parte de figuras y aliados del gobierno hacia Carlos Fernando Galán por su respaldo a Paloma Valencia. Los políticos de oposición han pedido mayores garantías por parte del gobierno en época electoral, sugiriendo un posible uso del poder estatal para atacar opositores políticos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/opinion/paloma-valencia-gano-la-foto-pero-la-pelicula-sigue-abierta/",
+          "fecha": "2026-03-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Fernando Galán",
+        "Paloma Valencia"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-15 01:24"
+    },
+    {
+      "id": 543,
+      "titulo": "Hurto de computadores con material electoral de la Registraduría en Bogotá",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-13",
+      "descripcion": "La Registraduría Nacional denunció el hurto de tres computadores en Bogotá donde se realizan los escrutinios de las elecciones legislativas de 2026. Dos de los equipos eran de uso personal de los jueces y uno pertenecía a la Registraduría. El hecho compromete la seguridad del proceso electoral y representa pérdida de bienes públicos destinados a una función esencial del Estado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/bogota/registraduria-denuncio-hurto-de-computadores-con-material-electoral-en-bogota-ocurrio-donde-se-realizan-escrutinios-de-elecciones-legislativas-3540090",
+          "fecha": "2026-03-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-15 01:24"
+    },
+    {
       "id": 542,
       "titulo": "Procuraduría investiga uso político de medios públicos tras alerta de Misión Electoral UE",
       "categoria": "abuso-poder",
