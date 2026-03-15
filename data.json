@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 546,
+      "titulo": "Nueva revelación sobre negociación criminal en Comisión de Crédito Público con recursos de UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-15",
+      "descripcion": "La acusación de la Corte Suprema contra seis congresistas revela nuevos nombres del entramado criminal y cómo se facilitaron recursos de la UNGRD para contratos amañados. La investigación muestra cómo una sesión de la Comisión de Crédito Público fue utilizada para facilitar la negociación criminal con dineros públicos, ampliando el escándalo de corrupción en la UNGRD.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/la-sesion-mas-eficiente-del-ano-que-delato-la-negociacion-criminal-con-platas-de-la-ungrd-3540223",
+          "fecha": "2026-03-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-15 18:26"
+    },
+    {
+      "id": 545,
+      "titulo": "Procuraduría alerta por fallas de mantenimiento en aeropuerto de Arauca tras denuncia de Satena",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-15",
+      "descripcion": "La Procuraduría emitió una alerta por fallas de mantenimiento en el aeropuerto de Arauca tras recibir denuncia de Satena. El Ministerio Público indicó que estos problemas de mantenimiento podrían afectar la prestación del servicio a los usuarios, evidenciando posible mal uso o negligencia en el manejo de recursos públicos destinados a infraestructura aeroportuaria.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-alerta-por-fallas-de-mantenimiento-en-el-aeropuerto-de-arauca-tras-denuncia-de-satena-3540307",
+          "fecha": "2026-03-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aeropuerto de Arauca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-15 18:26"
+    },
+    {
       "id": 544,
       "titulo": "Ataques de figuras y aliados del gobierno contra Galán por respaldo a Paloma Valencia",
       "categoria": "abuso-poder",
