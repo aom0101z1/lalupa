@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 549,
+      "titulo": "Proceso de pérdida de investidura contra Roy Barreras por tráfico de influencias en la DIAN",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-16",
+      "descripcion": "El Consejo de Estado citó a Luis Carlos Reyes y Gloria Arizabaleta en el proceso de pérdida de investidura contra el senador Roy Barreras. El proceso está relacionado con supuesto tráfico de influencias en la solicitud de cuotas burocráticas en la DIAN, lo que configuraría un posible abuso de su posición para obtener beneficios en nombramientos dentro de la entidad tributaria.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-cito-a-luis-c-reyes-y-a-gloria-arizabaleta-en-proceso-de-perdida-de-investidura-de-roy-barreras-3540426",
+          "fecha": "2026-03-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Roy Barreras",
+        "Luis Carlos Reyes",
+        "Gloria Arizabaleta"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-16 12:49"
+    },
+    {
+      "id": 548,
+      "titulo": "Demandas judiciales contra convenio de pasaportes con Portugal",
+      "categoria": "contratos",
+      "fecha": "2026-03-16",
+      "descripcion": "El Fondo Rotatorio de la Cancillería enfrenta dos procesos judiciales como demandado relacionados con el convenio para la implementación del nuevo modelo de pasaportes con Portugal. Los procesos incluyen una demanda promovida por la Procuraduría y otra acción presentada por Nicolás Dupont, sugiriendo irregularidades en la contratación de este convenio internacional.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-asegura-que-implementacion-del-nuevo-modelo-de-pasaportes-avanza-pese-a-demandas-contra-convenio-con-portugal-3540413",
+          "fecha": "2026-03-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Dupont"
+      ],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-16 12:49"
+    },
+    {
       "id": 547,
       "titulo": "Captura de exfuncionaria condenada por corrupción en Bucaramanga",
       "categoria": "corrupcion",
