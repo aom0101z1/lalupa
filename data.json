@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 547,
+      "titulo": "Captura de exfuncionaria condenada por corrupción en Bucaramanga",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-16",
+      "descripcion": "El CTI capturó a Marisol Adarme Valenzuela, exfuncionaria condenada por corrupción en Bucaramanga, quien debe cumplir una condena de 9 años y 6 meses de prisión. La captura se realizó en operativo este jueves para hacer efectiva la sentencia por actos de corrupción cometidos durante su ejercicio como funcionaria pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/asi-fue-el-operativo-en-el-que-el-cti-capturo-a-exfuncionaria-condenada-por-corrupcion-en-bucaramanga-3540027",
+          "fecha": "2026-03-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Marisol Adarme Valenzuela"
+      ],
+      "entidad": "Alcaldía de Bucaramanga",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-16 07:06"
+    },
+    {
       "id": 546,
       "titulo": "Nueva revelación sobre negociación criminal en Comisión de Crédito Público con recursos de UNGRD",
       "categoria": "corrupcion",
