@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 556,
+      "titulo": "Procuraduría concluye que muerte de niño hemofílico fue por negligencia de Nueva EPS",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-17",
+      "descripcion": "La Procuraduría determinó que Kevin Acosta, niño que padecía hemofilia, murió por negligencia de la Nueva EPS al omitir la entrega oportuna de medicamentos. La EPS está bajo intervención del gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/informe-de-la-procuraduria-concluye-que-kevin-acosta-nino-que-padecia-hemofilia-murio-por-negligencia-de-la-nueva-eps-3540874",
+          "fecha": "2026-03-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Kevin Acosta"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 18:49"
+    },
+    {
+      "id": 555,
+      "titulo": "Corte Suprema ratifica condena por espionaje en caso de filtración de información de la Fuerza Aérea",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-17",
+      "descripcion": "La Corte Suprema confirmó la condena a seis años de cárcel contra un procesado por filtración de información clasificada de la Fuerza Aérea. La Sala Penal ratificó la decisión del Tribunal de Bogotá por el delito de espionaje.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/curioso-caso-de-filtracion-de-informacion-de-la-fuerza-aerea-por-el-que-la-corte-ratifico-condena-por-espionaje-3540901",
+          "fecha": "2026-03-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Aérea Colombiana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 18:49"
+    },
+    {
+      "id": 554,
+      "titulo": "Colpensiones prepara contrato de publicidad por más de 15.000 millones para 2026",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-17",
+      "descripcion": "Paloma Valencia denunció que Colpensiones está preparando un contrato de publicidad por más de 15.000 millones de pesos para el año 2026, lo que constituiría un gasto desmedido en publicidad con recursos públicos en año electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-denuncio-que-colpensiones-prepara-un-contrato-de-publicidad-por-mas-de-15-000-millones-para-3540885",
+          "fecha": "2026-03-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 18:49"
+    },
+    {
       "id": 553,
       "titulo": "Karen Manrique y desnaturalización de curules de víctimas para politiquería",
       "categoria": "corrupcion",
