@@ -66,6 +66,27 @@
   ],
   "casos": [
     {
+      "id": 550,
+      "titulo": "Procuraduría investiga fallas en contrato de cámaras de seguridad por $14.300 millones en Bogotá",
+      "categoria": "contratos",
+      "fecha": "2026-03-16",
+      "descripcion": "La Procuraduría abrió investigación por presuntas fallas en un contrato de cámaras de seguridad valorado en $14.300 millones en Bogotá. Las irregularidades habrían generado retrasos, suspensiones y prórrogas contractuales que podrían afectar la eficiencia del proyecto de seguridad ciudadana.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abre-investigacion-por-presuntas-fallas-en-contrato-de-camaras-de-seguridad-por-14-300-millones-en-bogota-3540619",
+          "fecha": "2026-03-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 01:15"
+    },
+    {
       "id": 549,
       "titulo": "Proceso de pérdida de investidura contra Roy Barreras por tráfico de influencias en la DIAN",
       "categoria": "conflicto-interes",
