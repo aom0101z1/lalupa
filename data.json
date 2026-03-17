@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 551,
+      "titulo": "Nueva purga en el Ejército: retiran tres generales en medio de investigaciones internas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-16",
+      "descripcion": "Tres generales del Ejército fueron retirados del servicio en medio de investigaciones internas. Los oficiales ocupaban mandos en la Cuarta y Sexta División y en la Décima Brigada. Con estos retiros ya suman 79 los oficiales retirados de la Fuerza Pública desde 2022, evidenciando una purga sistemática en las fuerzas armadas por presuntas irregularidades o abusos de poder en sus funciones.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nueva-purga-en-el-ejercito-salen-tres-generales-del-servicio-en-medio-de-investigaciones-internas-3540698",
+          "fecha": "2026-03-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Tres generales del Ejército (nombres no especificados)"
+      ],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 06:53"
+    },
+    {
       "id": 550,
       "titulo": "Procuraduría investiga fallas en contrato de cámaras de seguridad por $14.300 millones en Bogotá",
       "categoria": "contratos",
