@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 553,
+      "titulo": "Karen Manrique y desnaturalización de curules de víctimas para politiquería",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-17",
+      "descripcion": "La captura de la representante electa Karen Manrique por el escándalo de la UNGRD evidencia que las curules de víctimas, concebidas para pueblos golpeados por la violencia, fueron utilizadas para politiquería y quedaron en manos de maquinarias políticas cuestionadas, desvirtuando su propósito original de representación de víctimas del conflicto.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-en-antioquia-y-la-pelea-por-el-voto-paisa/",
+          "fecha": "2026-03-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Karen Manrique"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 12:46"
+    },
+    {
+      "id": 552,
+      "titulo": "Petro denuncia bombardeos desde Ecuador sin confirmación oficial",
+      "categoria": "mentiras",
+      "fecha": "2026-03-17",
+      "descripcion": "El presidente Gustavo Petro denunció que Colombia está siendo bombardeada desde Ecuador, afirmación que fue inmediatamente desmentida por el presidente de Ecuador, Daniel Noboa. Petro señaló que hay grabaciones sobre este hecho que serán publicadas, pero no presentó evidencia inmediata de sus acusaciones.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-denuncio-que-colombia-esta-siendo-bombardeada-desde-ecuador-se-va-a-investigar-bien-los-modos-3540724",
+          "fecha": "2026-03-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Daniel Noboa"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-17 12:46"
+    },
+    {
       "id": 551,
       "titulo": "Nueva purga en el Ejército: retiran tres generales en medio de investigaciones internas",
       "categoria": "abuso-poder",
