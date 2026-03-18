@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 557,
+      "titulo": "Estado a punto de perder custodia de casi 20 mil predios incautados a la mafia por fallas administrativas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-17",
+      "descripcion": "La presidenta de la SAE, Amelia Pérez, alertó al presidente Gustavo Petro que el Estado está a punto de perder la custodia de casi 20 mil predios que fueron incautados a organizaciones criminales debido a razones jurídicas y administrativas. Esta situación representa un grave riesgo para el patrimonio público y podría significar que bienes recuperados del crimen organizado regresen a manos privadas por negligencia estatal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/sae-alerta-que-el-estado-esta-a-punto-de-perder-la-custodia-de-casi-20-mil-predios-incautados-a-la-mafia-esto-es-lo-que-se-sabe-3541027",
+          "fecha": "2026-03-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Amelia Pérez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-18 06:52"
+    },
+    {
       "id": 556,
       "titulo": "Procuraduría concluye que muerte de niño hemofílico fue por negligencia de Nueva EPS",
       "categoria": "recursos-publicos",
