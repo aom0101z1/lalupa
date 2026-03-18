@@ -66,6 +66,98 @@
   ],
   "casos": [
     {
+      "id": 561,
+      "titulo": "Procuraduría sanciona funcionarios de SIC por excesos en visita a Registraduría",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-18",
+      "descripcion": "16 funcionarios de la Superintendencia de Industria y Comercio fueron sancionados en primera instancia por la Procuraduría por una polémica visita al organismo electoral. La SIC respalda a los sancionados, pero ya hay decisión disciplinaria por los excesos cometidos durante la diligencia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/sic-respalda-a-sancionados-por-excesos-en-visita-a-registraduria/",
+          "fecha": "2026-03-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Industria y Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-18 18:46"
+    },
+    {
+      "id": 560,
+      "titulo": "Juzgado abre incidente de desacato contra ministro Benedetti por no rectificar",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-18",
+      "descripcion": "Un juzgado abrió incidente de desacato contra el ministro del Interior Armando Benedetti por no rectificar plenamente contra Luis Felipe Henao. El despacho concluyó que el ministro no cumplió de forma integral el fallo de tutela que le ordenaba rectificar en su cuenta de X.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/juzgado-abre-incidente-de-desacato-contra-el-miniarmando-benedetti-por-no-rectificar-plenamente-contra-luis-felipe-henao-3541149",
+          "fecha": "2026-03-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-18 18:46"
+    },
+    {
+      "id": 559,
+      "titulo": "Testigo entrega pruebas de remodelación millonaria de apartamento del presidente de Ecopetrol",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-18",
+      "descripcion": "Johny Giraldo, el hombre que remodeló el apartamento de Ricardo Roa, presidente de Ecopetrol, entregó a la Fiscalía pruebas de la multimillonaria obra. El testigo aseguró que el ente de imputación e investigación tiene en su poder su declaración sobre los trabajos realizados.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/hablo-johny-giraldo-hombre-que-remodelo-apartamento-de-ricardo-roa-presidente-de-ecopetrol-entrego-a-la-fiscalia-pruebas-de-la-multimillonaria-obra-3541184",
+          "fecha": "2026-03-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Johny Giraldo"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-18 18:46"
+    },
+    {
+      "id": 558,
+      "titulo": "Moción de censura contra ministro de Salud por crisis del sistema",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-18",
+      "descripcion": "Un total de 23 representantes radicaron moción de censura contra el ministro de Salud Guillermo Alfonso Jaramillo por la crisis del sistema de salud. La moción fue solicitada al presidente de la Cámara para ser agendada en debate, exponiendo hechos específicos relacionados con la gestión del ministro.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/radican-mocion-de-censura-contra-el-ministro-de-salud-guillermo-alfonso-jaramillo-por-la-crisis-del-sistema-3541155",
+          "fecha": "2026-03-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-18 18:46"
+    },
+    {
       "id": 557,
       "titulo": "Estado a punto de perder custodia de casi 20 mil predios incautados a la mafia por fallas administrativas",
       "categoria": "recursos-publicos",
