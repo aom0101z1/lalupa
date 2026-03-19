@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 567,
+      "titulo": "Investigación por supuestos pagos para campaña digital contra brigada del Ejército en Arauca",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-19",
+      "descripcion": "Los investigadores siguen pistas de chats y supuestos pagos para establecer si existieron coordinaciones para posicionar mensajes contra el mando militar en Arauca. Revisan publicaciones y testimonios para determinar si hubo una campaña digital coordinada y financiada contra la brigada del Ejército en el departamento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/chats-y-supuestos-pagos-las-pistas-que-siguen-los-investigadores-por-campana-digital-contra-brigada-del-ejercito-en-arauca-3541494",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-19 18:43"
+    },
+    {
+      "id": 566,
+      "titulo": "Fiscalía confirma indagación contra Ramírez Cobo por caso UNGRD sin imputación formal",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-19",
+      "descripcion": "La Fiscalía confirmó que mantiene indagación contra Ramírez Cobo en el marco del caso UNGRD, aunque no tiene imputación formal ni restricciones. Varios de los mencionados en la acusación de la Corte Suprema contra cinco congresistas tampoco tienen imputación formal, evidenciando procesos empantanados en este escándalo de corrupción.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/procesos-empantanados-por-caso-ungrd-fiscalia-confirma-indagacion-contra-ramirez-cobo-sin-imputacion-ni-restricciones-3541498",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Ramírez Cobo"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-19 18:43"
+    },
+    {
       "id": 565,
       "titulo": "Petro estigmatiza carrera diplomática con declaraciones discriminatorias",
       "categoria": "abuso-poder",
