@@ -66,6 +66,102 @@
   ],
   "casos": [
     {
+      "id": 565,
+      "titulo": "Petro estigmatiza carrera diplomática con declaraciones discriminatorias",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-19",
+      "descripcion": "El presidente Gustavo Petro realizó declaraciones estigmatizantes contra la carrera diplomática, calificándola como 'goda' y 'arrodillada'. El sindicato Unidiplo rechazó estas afirmaciones por considerarlas discriminatorias hacia los funcionarios del servicio exterior, evidenciando un uso inadecuado del poder presidencial para atacar a servidores públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/sindicato-rechaza-declaraciones-de-petro-sobre-carrera-diplomatica/",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-19 12:40"
+    },
+    {
+      "id": 564,
+      "titulo": "Junta de Ecopetrol mantiene a Ricardo Roa pese a imputación penal por corrupción",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-19",
+      "descripcion": "La Junta Directiva de Ecopetrol, encabezada por Ángela María Robledo, mantiene en el cargo al presidente Ricardo Roa a pesar de enfrentar una imputación penal por corrupción. Esta situación compromete la governance corporativa de la empresa estatal más importante del país y genera cuestionamientos sobre los criterios de permanencia en cargos directivos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/omision-inexplicable-ruidos-sobre-roa-comprometen-a-la-junta-de-ecopetrol/",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Ángela María Robledo"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-19 12:40"
+    },
+    {
+      "id": 563,
+      "titulo": "Fiscalía acusa a empresario Julio Gerlein de ofrecer dádivas a Aida Merlano",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-19",
+      "descripcion": "La Fiscalía acusó al empresario Julio Gerlein junto a dos abogados de ofrecer presuntas dádivas a la excongresista Aida Merlano a través de emisarios y 'propuestas'. En el escrito de acusación se mencionan también a los hermanos Char, sugiriendo una red más amplia de intentos de corrupción para influir en el testimonio de Merlano.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/emisarios-y-propuestas-a-aida-merlano-los-detalles-de-la-acusacion-de-la-fiscalia-contra-el-empresario-julio-gerlein-3541365",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Julio Gerlein",
+        "Aida Merlano",
+        "hermanos Char"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-19 12:40"
+    },
+    {
+      "id": 562,
+      "titulo": "Ministro Benedetti se retracta por orden judicial tras calumniar a Luis Felipe Henao",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-19",
+      "descripcion": "El ministro del Interior Armando Benedetti fue obligado por orden judicial a retractarse públicamente tras realizar términos despectivos y graves acusaciones de corrupción contra Luis Felipe Henao. La retractación reconoce que 'estas afirmaciones son erróneas', evidenciando un abuso de su posición para hacer calumnias sin sustento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/armando-benedetti-ministro-del-interior-se-retracta-tras-orden-judicial-por-calumnias-contra-luis-felipe-henao-erroneas-3541407",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-19 12:40"
+    },
+    {
       "id": 561,
       "titulo": "Procuraduría sanciona funcionarios de SIC por excesos en visita a Registraduría",
       "categoria": "abuso-poder",
