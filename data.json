@@ -66,6 +66,97 @@
   ],
   "casos": [
     {
+      "id": 574,
+      "titulo": "Disputa entre gobierno y BanRep por legalidad de traslado de ahorros pensionales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-19",
+      "descripcion": "El Banco de la República alertó que el traslado de ahorros de fondos privados a Colpensiones no estaría autorizado por ley y sería ilegal. El gobierno respondió que Colpensiones asumió pensiones de afiliados con ahorros en fondos privados, generando un conflicto sobre la legalidad del manejo de recursos pensionales públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/feria-en-bogota-busca-fortalecer-la-bioeconomia-en-la-amazonia/",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 06:42"
+    },
+    {
+      "id": 573,
+      "titulo": "Investigación por supuestos privilegios de 'Epa Colombia' en centro penitenciario",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-19",
+      "descripcion": "El director del Inpec confirmó investigaciones sobre supuestos lujos y privilegios de la influencer 'Epa Colombia' en la cárcel. Entre los elementos hallados se encontraron celulares y hasta un carro dentro del centro penitenciario, evidenciando posible corrupción del personal carcelario para otorgar beneficios indebidos a internos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/traslado-de-karen-manrique-saldra-de-el-buen-pastor-en-bogota-y-sera-recluida-en-guarnicion-militar-en-malambo-atlantico-3541675",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Epa Colombia",
+        "Director del Inpec"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-20 06:42"
+    },
+    {
+      "id": 572,
+      "titulo": "Benedetti obtiene cuatro meses de sueldo mediante tutelas tras inclusión en lista Clinton",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-19",
+      "descripcion": "El ministro Iván Benedetti logró que le giraran cuatro meses de sueldo acumulados desde noviembre mediante dos acciones de tutela, después de haber sido incluido en la lista Clinton. Los fallos ordenaron al Ministerio de Hacienda, Ministerio del Interior y una entidad bancaria desembolsar el monto correspondiente, pese a las sanciones internacionales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/exclusivo-con-dos-tutelas-benedetti-logro-que-le-giraran-cuatro-meses-de-sueldo-tras-ser-incluido-en-la-lista-clinton-3541676",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Benedetti"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 06:42"
+    },
+    {
+      "id": 571,
+      "titulo": "Partido Liberal denuncia irregularidades en escrutinio electoral en Nariño por intervención de delegado del CNE",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-19",
+      "descripcion": "El Partido Liberal denunció presuntas irregularidades en el proceso de escrutinio en Nariño, alegando la supuesta intervención de un delegado del Consejo Nacional Electoral (CNE) que sería cercano al Pacto Histórico. La denuncia sugiere manipulación del proceso electoral por parte de funcionarios con vínculos políticos específicos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/partido-liberal-denuncia-presuntas-irregularidades-en-escrutinio-en-narino-3541658",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Delegado del CNE"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 06:42"
+    },
+    {
       "id": 570,
       "titulo": "MinJusticia rechaza uso político de entidad adscrita tras adhesión de sindicato del Inpec",
       "categoria": "abuso-poder",
