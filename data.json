@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 570,
+      "titulo": "MinJusticia rechaza uso político de entidad adscrita tras adhesión de sindicato del Inpec",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-20",
+      "descripcion": "El Ministerio de Justicia tuvo que aclarar públicamente que la adhesión de un sindicato del Inpec a la campaña de Iván Cepeda no representa la posición oficial de la entidad. Esto evidencia el uso indebido de instituciones públicas con fines electorales por parte del sindicato.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/minjusticia-rechaza-adhesion-de-sindicato-del-inpec-a-ivan-cepeda/",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-20 01:15"
+    },
+    {
+      "id": 569,
+      "titulo": "Conflicto de interés en defensa jurídica de director de RTVC por contratos con la entidad",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-19",
+      "descripcion": "La abogada que representa a Hollman Morris, director de RTVC, en el juicio por injuria tiene contratos por más de 305 millones de pesos con la misma entidad que él dirige. Esto genera un evidente conflicto de interés al recibir pagos de la institución mientras defiende legalmente a su director.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/contratos-de-abogada-en-rtvc-y-otras-sombras-sobre-el-juicio-por-injuria-contra-mujer-que-acuso-a-hollman-morris-de-acoso-3541613",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Hollman Morris"
+      ],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-20 01:15"
+    },
+    {
+      "id": 568,
+      "titulo": "Consejo de Estado tumba nombramiento de superintendente de Industria y Comercio por irregularidades",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-19",
+      "descripcion": "El Consejo de Estado anuló el nombramiento de Cielo Rusinque como superintendente de Industria y Comercio debido a supuestas irregularidades en su selección y falta de capacidades técnicas requeridas para el cargo. Esta decisión judicial evidencia fallas en el proceso de nombramiento realizado por el gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/atencion-consejo-de-estado-tumbo-el-nombramiento-de-la-superintendente-de-industria-y-comercio-cielo-rusinque-3541678",
+          "fecha": "2026-03-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Cielo Rusinque"
+      ],
+      "entidad": "Superintendencia de Industria y Comercio",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 01:15"
+    },
+    {
       "id": 567,
       "titulo": "Investigación por supuestos pagos para campaña digital contra brigada del Ejército en Arauca",
       "categoria": "corrupcion",
