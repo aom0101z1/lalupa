@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 575,
+      "titulo": "Petro denuncia debilitamiento del gobierno tras anulación de nombramiento de Cielo Rusinque por Consejo de Estado",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-20",
+      "descripcion": "El presidente Gustavo Petro se pronunció tras la decisión del Consejo de Estado de tumbar el nombramiento de Cielo Rusinque como superintendente de Industria y Comercio, acusando al tribunal de 'tratar de debilitar su gobierno'. El Consejo de Estado dejó sin efectos el Decreto 0098 del 2 de febrero de 2024 que la había nombrado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-tras-decision-del-consejo-de-estado-de-tumbar-nombramiento-de-cielo-rusinque-trata-de-debilitar-mi-gobierno-3541725",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Cielo Rusinque"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-20 12:37"
+    },
+    {
       "id": 574,
       "titulo": "Disputa entre gobierno y BanRep por legalidad de traslado de ahorros pensionales",
       "categoria": "recursos-publicos",
