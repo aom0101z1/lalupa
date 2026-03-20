@@ -66,6 +66,100 @@
   ],
   "casos": [
     {
+      "id": 579,
+      "titulo": "Fiscalía de EE.UU. investiga nexos de Petro con narcotráfico",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-20",
+      "descripcion": "Según el New York Times, fiscales estadounidenses investigan al presidente Gustavo Petro para determinar si tiene nexos con grupos narco y si estos dieron dinero a su campaña. Las investigaciones buscan establecer conexiones entre el mandatario y organizaciones criminales dedicadas al narcotráfico.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/cepeda-en-el-pais-constituyente-alianzas-y-su-pulso-con-uribe/",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 18:35"
+    },
+    {
+      "id": 578,
+      "titulo": "MinSalud paga $1.036 millones por tarima que usó campaña del Pacto Histórico",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-20",
+      "descripcion": "El Ministerio de Salud pagó $1.036 millones por una tarima en un evento de Equipos Básicos de Salud. Al día siguiente, en ese mismo escenario, Iván Cepeda cerró con su discurso la campaña al Congreso del Pacto Histórico en Bogotá, lo que sugiere uso de recursos públicos para beneficio político.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/asista-a-esta-conversacion-abierta-con-sergio-fajardo/",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 18:35"
+    },
+    {
+      "id": 577,
+      "titulo": "Red de tráfico de personas en Migración Colombia",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-20",
+      "descripcion": "Captura de oficiales de Migración Colombia señalados de pertenecer a una red transnacional de tráfico de extranjeros. Las autoridades documentaron el uso reiterado de pasaportes suplantados y registros migratorios sin verificación para mover personas hacia otros países, configurando una red criminal dentro de la entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-militar-a-centro-de-explosivos-del-clan-del-golfo-en-el-sur-de-bolivar-deja-tres-muertos-y-tres-capturados-en-medio-de-combates-3541814",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Oficiales de Migración (sin identificar)"
+      ],
+      "entidad": "Migración Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-20 18:35"
+    },
+    {
+      "id": 576,
+      "titulo": "Irregularidades en título universitario de senadora Sandra Ramírez",
+      "categoria": "mentiras",
+      "fecha": "2026-03-20",
+      "descripcion": "La representante Jennifer Pedraza advierte sobre posibles irregularidades en el título de Sandra Ramírez obtenido en la Fundación San José, señalando que la fundación no tendría aval para impartir el programa que en realidad ofertan otras instituciones. Solicita intervención del MinEducación para verificar la situación.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/jennifer-pedraza-advierte-posibles-irregularidades-en-titulo-de-la-senadora-sandra-ramirez-quien-dice-cumpli-requisitos-de-la-fundacion-san-jose-3541786",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ramírez",
+        "Jennifer Pedraza"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-20 18:35"
+    },
+    {
       "id": 575,
       "titulo": "Petro denuncia debilitamiento del gobierno tras anulación de nombramiento de Cielo Rusinque por Consejo de Estado",
       "categoria": "abuso-poder",
