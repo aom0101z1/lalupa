@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 581,
+      "titulo": "Guardianes del Inpec hacen campaña política por Iván Cepeda con uniformes institucionales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-20",
+      "descripcion": "Funcionarios guardianes del Instituto Nacional Penitenciario y Carcelario (Inpec) fueron denunciados por hacer campaña política invitando a votar por el candidato presidencial Iván Cepeda, utilizando uniformes e insignias institucionales. El Inpec respondió que está prohibido el uso del uniforme e insignias institucionales para actividades políticas, confirmando la violación de normas sobre neutralidad política de servidores públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-avalo-sesion-del-senado-en-la-que-se-tumbo-la-consulta-popular-del-presidente-gustavo-petro-3541961",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-21 01:10"
+    },
+    {
+      "id": 580,
+      "titulo": "Cancillería suscribe 785 contratos por más de 77 mil millones antes de ley de garantías",
+      "categoria": "contratos",
+      "fecha": "2026-03-20",
+      "descripcion": "La Asociación Diplomática y Consular solicitó a la Procuraduría revisar 785 contratos suscritos por la Cancillería en enero por un valor superior a los 77 mil millones de pesos, presuntamente firmados antes de la vigencia de la ley de garantías electorales. La solicitud sugiere posibles irregularidades en la contratación pública del Ministerio de Relaciones Exteriores.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/piden-a-la-procuraduria-revisar-millonarios-contratos-suscritos-por-la-cancilleria-antes-de-ley-de-garantias-3541935",
+          "fecha": "2026-03-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-21 01:10"
+    },
+    {
       "id": 579,
       "titulo": "Fiscalía de EE.UU. investiga nexos de Petro con narcotráfico",
       "categoria": "corrupcion",
