@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 583,
+      "titulo": "Petro genera crisis diplomática por impuntualidad en cumbre Celac-África",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-21",
+      "descripcion": "El presidente Gustavo Petro llegó tarde a la plenaria del foro Celac-África en Bogotá, generando molestias en las delegaciones internacionales. También retrasó la reunión bilateral con el presidente Lula da Silva. Esta falta de protocolo en su rol como anfitrión afectó las relaciones diplomáticas y el prestigio del país en el evento internacional.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-llego-tarde-a-plenaria-del-foro-celac-africa-en-bogota-y-habria-generado-molestias-en-delegaciones-3542073",
+          "fecha": "2026-03-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-22 06:39"
+    },
+    {
+      "id": 582,
+      "titulo": "Petro utiliza recursos públicos para hacer campaña electoral estando constitucionalmente prohibido",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-21",
+      "descripcion": "El presidente Gustavo Petro está utilizando sus redes sociales oficiales y actos públicos institucionales para promover su proyecto político y atacar opositores durante época electoral, violando la prohibición constitucional que impide a los presidentes participar en campañas políticas. Esta conducta constituye un abuso de poder al usar recursos del Estado para fines electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/las-alertas-y-denuncias-por-un-presidente-en-campana-electoral-asi-se-mueve-gustavo-petro-para-promover-su-proyecto-politico-3542105",
+          "fecha": "2026-03-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-22 06:39"
+    },
+    {
       "id": 581,
       "titulo": "Guardianes del Inpec hacen campaña política por Iván Cepeda con uniformes institucionales",
       "categoria": "abuso-poder",
