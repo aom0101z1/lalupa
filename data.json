@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 585,
+      "titulo": "Petro niega relación con narcotraficantes tras investigación de Estados Unidos",
+      "categoria": "sanciones",
+      "fecha": "2026-03-22",
+      "descripcion": "El presidente Gustavo Petro reaccionó públicamente rechazando señalamientos sobre presunta indagatoria en su contra por parte del gobierno de Estados Unidos relacionada con narcotraficantes. Petro afirmó que 'En Colombia no existe una sola investigación sobre relación mía con narcotraficantes', en respuesta a los señalamientos estadounidenses.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/inscribase-a-nuestro-primer-microfono-abierto-con-candidatos/",
+          "fecha": "2026-03-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-23 01:19"
+    },
+    {
       "id": 584,
       "titulo": "Contraloría alerta sobre riesgo e inviabilidad jurídica del traslado del ahorro pensional",
       "categoria": "recursos-publicos",
