@@ -906,6 +906,10 @@ body {
     background: linear-gradient(135deg, #065f46 0%, #059669 100%);
 }
 
+.tema-header.trampa-pobreza {
+    background: linear-gradient(135deg, #701a1a 0%, #b91c1c 100%);
+}
+
 .tema-header.ungrd {
     background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
 }
