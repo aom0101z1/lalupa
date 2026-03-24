@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 587,
+      "titulo": "Petro acusado de minar confianza electoral al anunciar fraude sin pruebas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-24",
+      "descripcion": "Una demanda judicial busca que el presidente Petro se abstenga de hablar de fraude electoral sin pruebas. Según el exrelator de la CIDH Ignacio Álvarez, que un Presidente anuncie que habrá fraude en elecciones mina la confianza del electorado e incluso puede generar violencia. El caso está en audiencia judicial por estas declaraciones presidenciales sin sustento probatorio.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/que-un-presidente-anuncie-que-habra-fraude-en-elecciones-mina-la-confianza-del-electorado-e-incluso-puede-generar-violencia-exrelator-de-la-cidh-3542488",
+          "fecha": "2026-03-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-24 18:50"
+    },
+    {
+      "id": 586,
+      "titulo": "Cambio de posición de Fiscalía en caso contra denunciante de Hollman Morris por acoso sexual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-24",
+      "descripcion": "La Fiscalía cambió su posición en el caso de Lina Castillo, quien está en juicio penal después de denunciar públicamente por acoso sexual a Hollman Morris, gerente de RTVC. A pesar de que Castillo alertó sobre actos no consentidos de Morris, fue ella quien terminó siendo denunciada y procesada judicialmente. El caso ahora tendrá enfoque de género tras el cambio de fiscal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/por-que-la-fiscalia-cambio-su-posicion-en-el-caso-lina-castillo-mujer-en-juicio-que-denuncio-publicamente-a-hollman-morris-por-acoso-3542539",
+          "fecha": "2026-03-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Hollman Morris",
+        "Lina Castillo"
+      ],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-24 18:50"
+    },
+    {
       "id": 585,
       "titulo": "Petro niega relación con narcotraficantes tras investigación de Estados Unidos",
       "categoria": "sanciones",
