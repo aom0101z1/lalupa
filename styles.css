@@ -922,6 +922,10 @@ body {
     background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
 }
 
+.tema-header.emergencia-economica {
+    background: linear-gradient(135deg, #92400e 0%, #b45309 100%);
+}
+
 .tema-header.policia {
     background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 100%);
 }
