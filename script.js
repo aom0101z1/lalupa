@@ -1,3 +1,14 @@
+// Prevent browser's native hash scroll for #tema- links (we handle it manually after loading)
+if (window.location.hash && window.location.hash.startsWith('#tema-')) {
+    // Temporarily remove hash to prevent native scroll, restore it after
+    const savedHash = window.location.hash;
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+    // Restore hash after page load without triggering scroll
+    window.addEventListener('load', function() {
+        history.replaceState(null, '', window.location.pathname + window.location.search + savedHash);
+    }, { once: true });
+}
+
 // Estado de la aplicacion
 let data = {
     categorias: [],
@@ -2121,21 +2132,26 @@ function openArticleFromHash() {
         const isHidden = article.style.display === 'none';
         if (isHidden) return;
 
-        // Small delay to ensure DOM is fully ready
-        setTimeout(() => {
-            // Use toggleTemaContent to expand the article
-            const content = article.querySelector('.tema-content');
-            if (content && content.classList.contains('tema-content-collapsed')) {
-                toggleTemaContent(article);
-            }
+        // Expand the article first
+        const content = article.querySelector('.tema-content');
+        if (content && content.classList.contains('tema-content-collapsed')) {
+            toggleTemaContent(article);
+        }
 
-            // Scroll to the article with offset for sticky header
-            setTimeout(() => {
-                const headerOffset = 80;
-                const elementPosition = article.getBoundingClientRect().top + window.pageYOffset;
-                window.scrollTo({ top: elementPosition - headerOffset, behavior: 'smooth' });
-            }, 150);
-        }, 200);
+        // Scroll with enough delay for layout to settle after expansion
+        // Use multiple attempts to ensure scroll lands correctly
+        function scrollToArticle() {
+            const headerOffset = 90;
+            const elementPosition = article.getBoundingClientRect().top + window.pageYOffset;
+            window.scrollTo({ top: elementPosition - headerOffset, behavior: 'smooth' });
+        }
+
+        // First scroll attempt after expansion animation
+        setTimeout(scrollToArticle, 300);
+        // Second scroll attempt to correct if layout shifted
+        setTimeout(scrollToArticle, 800);
+        // Final scroll attempt as safety net
+        setTimeout(scrollToArticle, 1500);
     }
 }
 
