@@ -2099,11 +2099,13 @@ function initTemas() {
     // Load saved order and article statuses if Firebase is ready
     if (typeof db !== 'undefined') {
         loadTemasOrderFromFirestore();
-        loadArticleStatuses();
+        loadArticleStatuses().then(() => {
+            // Open article from URL hash AFTER statuses are loaded and visibility applied
+            openArticleFromHash();
+        });
+    } else {
+        openArticleFromHash();
     }
-
-    // Open article from URL hash AFTER accordion is initialized
-    openArticleFromHash();
 }
 
 // Open article from URL hash - handles direct links to articles
@@ -2113,21 +2115,27 @@ function openArticleFromHash() {
         const articleId = hash.substring(1); // Remove the #
         const article = document.getElementById(articleId);
 
-        if (article && article.style.display !== 'none') {
-            // Small delay to ensure DOM is ready
-            setTimeout(() => {
-                // Use toggleTemaContent to expand the article
-                const content = article.querySelector('.tema-content');
-                if (content && content.classList.contains('tema-content-collapsed')) {
-                    toggleTemaContent(article);
-                }
+        if (!article) return;
 
-                // Scroll to the article with offset for header
-                setTimeout(() => {
-                    article.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }, 100);
-            }, 100);
-        }
+        // Check if article is visible (published or admin viewing draft)
+        const isHidden = article.style.display === 'none';
+        if (isHidden) return;
+
+        // Small delay to ensure DOM is fully ready
+        setTimeout(() => {
+            // Use toggleTemaContent to expand the article
+            const content = article.querySelector('.tema-content');
+            if (content && content.classList.contains('tema-content-collapsed')) {
+                toggleTemaContent(article);
+            }
+
+            // Scroll to the article with offset for sticky header
+            setTimeout(() => {
+                const headerOffset = 80;
+                const elementPosition = article.getBoundingClientRect().top + window.pageYOffset;
+                window.scrollTo({ top: elementPosition - headerOffset, behavior: 'smooth' });
+            }, 150);
+        }, 200);
     }
 }
 
@@ -2145,6 +2153,8 @@ if (typeof auth !== 'undefined') {
             loadTemasOrderFromFirestore();
             loadArticleStatuses().then(() => {
                 addArticleAdminControls();
+                // Re-check hash in case it points to a draft article now visible to admin
+                openArticleFromHash();
             });
             loadCaseApprovals().then(() => {
                 filterAndRenderCasos();
