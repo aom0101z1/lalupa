@@ -926,6 +926,10 @@ body {
     background: linear-gradient(135deg, #92400e 0%, #b45309 100%);
 }
 
+.tema-header.por-que-lo-siguen {
+    background: linear-gradient(135deg, #312e81 0%, #4338ca 100%);
+}
+
 .tema-header.policia {
     background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 100%);
 }
