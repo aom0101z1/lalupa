@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 590,
+      "titulo": "Colpensiones compra camioneta de $404 millones pese a contrato vigente con UNP",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-25",
+      "descripcion": "Colpensiones adquirió una camioneta por $404 millones para su presidente, a pesar de que existe un contrato vigente con la Unidad Nacional de Protección (UNP) que ya contempla el suministro de un vehículo blindado. La senadora Paloma Valencia solicitó investigar esta compra por posible duplicidad en el gasto público.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/paloma-valencia-solicito-investigar-compra-de-camioneta-para-presidente-de-colpensiones-pese-a-contrato-con-la-unp-3542780",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-25 18:43"
+    },
+    {
       "id": 589,
       "titulo": "Baja ejecución presupuestal en inversión del Ministerio de Defensa durante 2025",
       "categoria": "recursos-publicos",
