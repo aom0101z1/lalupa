@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 589,
+      "titulo": "Baja ejecución presupuestal en inversión del Ministerio de Defensa durante 2025",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-24",
+      "descripcion": "El Ministerio de Defensa ejecutó solo 928.055 millones de pesos de los 2,5 billones destinados para inversión en 2025, evidenciando problemas en la gestión de recursos públicos. La rigidez del gasto absorbe el 80% del presupuesto, limitando la capacidad de inversión efectiva en defensa y seguridad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-ejecuto-defensa-los-recursos-de-inversion-en-2025-la-rigidez-del-gasto-absorbe-el-80-del-presupuesto-3542690",
+          "fecha": "2026-03-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-25 06:52"
+    },
+    {
+      "id": 588,
+      "titulo": "Demora en reactivación de orden de captura contra 'Zarco Aldinever' tras asesinato de Miguel Uribe",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-24",
+      "descripcion": "Armando Novoa, negociador del Gobierno con la Coordinadora Nacional, admite que hubo demora en el trámite para reactivar la orden de captura contra 'Zarco Aldinever' tras el asesinato de Miguel Uribe Turbay, aunque niega negligencia dolosa. El caso revela posibles fallas en los protocolos de seguridad del proceso de paz total del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/hubo-demora-en-el-tramite-pero-no-negligencia-dolosa-armando-novoa-sobre-tardanza-en-reactivacion-de-orden-de-captura-contra-zarco-aldinever-3542633",
+          "fecha": "2026-03-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Novoa",
+        "Zarco Aldinever",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-25 06:52"
+    },
+    {
       "id": 587,
       "titulo": "Petro acusado de minar confianza electoral al anunciar fraude sin pruebas",
       "categoria": "abuso-poder",
