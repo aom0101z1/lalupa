@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 592,
+      "titulo": "Investigación fiscal por presuntas irregularidades en compra de apartamento del presidente de Ecopetrol",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-25",
+      "descripcion": "La Fiscalía adelanta investigación por presuntas irregularidades en la compra del apartamento de Ricardo Roa, presidente de Ecopetrol. El constructor Jhony Giraldo, quien remodeló el inmueble, es considerado testigo en el caso y ha contratado al abogado Gustavo Moreno para su defensa, lo que sugiere la gravedad de las investigaciones en curso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/el-abogado-gustavo-moreno-asumira-la-defensa-de-jhony-giraldo-quien-remodelo-el-apartamento-de-ricardo-roa-presidente-de-ecopetrol-3543027",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Jhony Giraldo"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 01:23"
+    },
+    {
+      "id": 591,
+      "titulo": "Debate de control político al MinDefensa por accidente de avión Hércules con 69 víctimas fatales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-25",
+      "descripcion": "Congresistas radicaron debate de control político contra el ministro de Defensa Pedro Sánchez por el accidente del avión Hércules que dejó 69 víctimas. La proposición también cita a la cúpula de las Fuerzas Militares y de Policía para que respondan sobre el mantenimiento de la flota aérea, sugiriendo posibles fallas en los protocolos de seguridad y mantenimiento.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/congresistas-radican-debate-de-control-politico-contra-el-ministro-de-defensa-pedro-sanchez-por-accidente-de-avion-hercules-que-dejo-69-victimas-3542932",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Sánchez"
+      ],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 01:23"
+    },
+    {
       "id": 590,
       "titulo": "Colpensiones compra camioneta de $404 millones pese a contrato vigente con UNP",
       "categoria": "recursos-publicos",
