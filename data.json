@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 596,
+      "titulo": "Contraloría encuentra vacíos graves en decretos de emergencia económica",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-26",
+      "descripcion": "La Contraloría General identificó graves vacíos en los 18 decretos de emergencia económica del gobierno Petro y exigió soportes a varias entidades para que expliquen la necesidad de recaudar hasta $8,68 billones de pesos. El órgano de control cuestiona la justificación técnica y legal de estas medidas extraordinarias.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/atencion-estos-son-los-graves-vacios-que-hallo-la-contraloria-en-los-18-decretos-de-emergencia-economica-del-gobierno-petro-3542995",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 12:53"
+    },
+    {
+      "id": 595,
+      "titulo": "Supuestas irregularidades en Minciencias afectan convocatorias millonarias",
+      "categoria": "contratos",
+      "fecha": "2026-03-26",
+      "descripcion": "Gremios y asociaciones denuncian supuestas irregularidades en el Ministerio de Ciencias que afectarían millonarias convocatorias en tecnología e innovación. Las denuncias señalan improvisación y mala interpretación de conceptos del DNP que tienen en vilo varios proyectos de inversión pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/alertan-supuestas-irregularidades-en-minciencias-que-afectarian-millonarias-convocatorias-en-tecnologia-e-innovacion-3543006",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ciencia, Tecnología e Innovación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-26 12:53"
+    },
+    {
       "id": 594,
       "titulo": "Canje de deuda genera beneficios de $84 billones para bancos",
       "categoria": "recursos-publicos",
