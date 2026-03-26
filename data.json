@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 594,
+      "titulo": "Canje de deuda genera beneficios de $84 billones para bancos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-25",
+      "descripcion": "La estrategia del Ministerio de Hacienda para aplazar pagos de deuda y mantener un gasto alto en año electoral terminó enriqueciendo al sector financiero con $84 billones de pesos. Esta decisión representa un costo oculto para el Estado mientras beneficia desproporcionalmente a los bancos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-rechazo-tutela-con-la-que-bernardo-moreno-buscaba-anular-su-condena-3542984",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 06:57"
+    },
+    {
+      "id": 593,
+      "titulo": "Gobierno Petro usa $31 billones en contratos directos con juntas comunales y organizaciones",
+      "categoria": "contratos",
+      "fecha": "2026-03-25",
+      "descripcion": "Un derecho de petición contestado por Colombia Compra Eficiente reveló que el gobierno de Petro utilizó $31 billones de pesos en contratos a dedo (contratación directa) con juntas comunales, cabildos y resguardos. La cifra también evidenció rezagos en compromisos contractuales del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/pareja-de-epa-colombia-se-pronuncio-tras-quejas-de-supuestos-lujos-que-estaria-recibiendo-en-centro-de-reclusion-en-bogota-llamado-a-la-conciencia-3543063",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Colombia Compra Eficiente",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 06:57"
+    },
+    {
       "id": 592,
       "titulo": "Investigación fiscal por presuntas irregularidades en compra de apartamento del presidente de Ecopetrol",
       "categoria": "corrupcion",
