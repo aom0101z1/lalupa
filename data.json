@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 597,
+      "titulo": "Denuncia de acoso sexual contra viceministro Axcan Duque en Ministerio de la Igualdad",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-26",
+      "descripcion": "La senadora Paloma Valencia denunció públicamente un presunto caso de acoso sexual que involucraría al viceministro Axcan Duque del Ministerio de la Igualdad. Duque también lidera la Oficina Jurídica de la cartera ministerial. Se solicita investigación urgente sobre estos hechos que comprometen la integridad de funcionarios de alto nivel en una entidad destinada a promover la igualdad.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/denuncian-presunto-caso-de-acoso-sexual-en-el-ministerio-de-la-igualdad-que-involucraria-a-viceministro-axcan-duque-piden-investigacion-urgente-3543188",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Axcan Duque",
+        "Paloma Valencia"
+      ],
+      "entidad": "Ministerio de la Igualdad",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 18:53"
+    },
+    {
       "id": 596,
       "titulo": "Contraloría encuentra vacíos graves en decretos de emergencia económica",
       "categoria": "recursos-publicos",
