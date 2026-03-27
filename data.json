@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 598,
+      "titulo": "Procuraduría investiga a ministra de Ambiente por emergencia de Urrá",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-26",
+      "descripcion": "La Procuraduría investiga a la ministra de Ambiente Irene Vélez por su actuación como directora de la ANLA durante el desbordamiento de la hidroeléctrica de Urrá que dejó más de 200 mil damnificados en Córdoba y Sucre. El Ministerio Público indaga posibles irregularidades en las decisiones que llevaron a la emergencia que afectó masivamente a la población de estas regiones.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/video-joven-intento-evadir-captura-refugiandose-en-casa-de-su-tio-pero-fue-entregado-en-medio-de-escena-viral-en-redes-esto-se-sabe-3543199",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Irene Vélez"
+      ],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-27 01:23"
+    },
+    {
       "id": 597,
       "titulo": "Denuncia de acoso sexual contra viceministro Axcan Duque en Ministerio de la Igualdad",
       "categoria": "abuso-poder",
