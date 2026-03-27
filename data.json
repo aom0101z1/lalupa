@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 600,
+      "titulo": "Información falsa sobre mantenimiento del avión Hércules accidentado",
+      "categoria": "mentiras",
+      "fecha": "2026-03-27",
+      "descripcion": "Se difundió información incorrecta indicando que Israel realizaba el mantenimiento del avión Hércules accidentado. En realidad, el mantenimiento estaba a cargo de la Industria Aeronáutica Colombiana (Ciac), una empresa de mayoría estatal. Esta desinformación desvía la atención de las verdaderas responsabilidades en el mantenimiento de la aeronave.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/tragedia-del-hercules-desnuda-una-crisis-de-capacidades-militares-de-colombia/",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-27 06:57"
+    },
+    {
+      "id": 599,
+      "titulo": "Petro hace afirmaciones falsas sobre responsabilidad en accidente del Hércules",
+      "categoria": "mentiras",
+      "fecha": "2026-03-26",
+      "descripcion": "El presidente Petro afirma falsamente que el accidente del avión Hércules de la FAC es culpa del propio avión, mientras los datos militares revelan problemas estructurales más profundos en el sector Defensa. Esta información errónea contradice los hechos técnicos del siniestro que dejó 69 víctimas fatales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/ministerio-de-justicia-abre-oficina-juridica-para-mujeres-privadas-de-la-libertad-en-cucuta-3543273",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-27 06:57"
+    },
+    {
       "id": 598,
       "titulo": "Procuraduría investiga a ministra de Ambiente por emergencia de Urrá",
       "categoria": "abuso-poder",
