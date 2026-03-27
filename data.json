@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 602,
+      "titulo": "Fallas del gobierno en intervención a Cajas de Compensación Familiar según Contraloría",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-27",
+      "descripcion": "La Contraloría alertó sobre fallas del gobierno en la sostenida intervención a las Cajas de Compensación Familiar. La Superintendencia de Subsidio Familiar mantiene bajo medidas cautelares a 13 cajas de compensación familiar del país, evidenciando problemas en el manejo y supervisión de estas entidades que manejan recursos públicos y de los trabajadores.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estas-son-las-fallas-del-gobierno-en-la-sostenida-intervencion-a-las-cajas-de-compensacion-familiar-alerta-de-la-contraloria-3543464",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Subsidio Familiar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-27 18:43"
+    },
+    {
+      "id": 601,
+      "titulo": "Nombramiento cuestionado de Alejandra María Puentes como subdirectora del Dapre",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-27",
+      "descripcion": "Alejandra María Puentes, cercana al exalcalde Jorge Iván Ospina, fue nombrada nueva subdirectora del Departamento Administrativo de la Presidencia (Dapre). Su nombramiento genera cuestionamientos por su forma de manejar la contratación cuando trabajó en Cali, donde la Procuraduría emitió una alerta por la concentración de contratos a dedo en la administración de Ospina.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/alejandra-maria-puentes-cercana-a-exalcalde-jorge-ivan-ospina-nueva-subdirectora-del-dapre-cuestionan-forma-en-que-llevo-contratacion-en-cali-3543501",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandra María Puentes",
+        "Jorge Iván Ospina"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-27 18:43"
+    },
+    {
       "id": 600,
       "titulo": "Información falsa sobre mantenimiento del avión Hércules accidentado",
       "categoria": "mentiras",
