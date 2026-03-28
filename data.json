@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 605,
+      "titulo": "Presidencia intenta renombrar a Cielo Rusinque como superintendente de la SIC tras anulación del Consejo de Estado",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-28",
+      "descripcion": "La Presidencia publica nuevamente la hoja de vida de Cielo Rusinque para ocupar el cargo de superintendente de Industria y Comercio, después de que el Consejo de Estado anulara su nombramiento anterior. Esta acción evidencia un posible desacato a la decisión judicial y un intento de mantener a la funcionaria en el cargo a pesar de la decisión adversa del tribunal administrativo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidencia-publica-hoja-de-vida-de-cielo-rusinque-para-ocupar-nuevamente-cargo-de-superintendente-de-industria-y-comercio-3543683",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Cielo Rusinque"
+      ],
+      "entidad": "Superintendencia de Industria y Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-28 18:27"
+    },
+    {
       "id": 604,
       "titulo": "Colombia Compra Eficiente presenta nueva versión sobre contratos con asociaciones público-populares",
       "categoria": "contratos",
