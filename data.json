@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 604,
+      "titulo": "Colombia Compra Eficiente presenta nueva versión sobre contratos con asociaciones público-populares",
+      "categoria": "contratos",
+      "fecha": "2026-03-27",
+      "descripcion": "Colombia Compra Eficiente emitió una nueva versión oficial tras la revelación de contratos directos por $31 billones con asociaciones público-populares. La entidad respondió a un derecho de petición modificando su versión inicial sobre estos contratos millonarios, lo que genera dudas sobre la transparencia de la información inicialmente proporcionada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-gafas-y-los-otros-elementos-encontrados-en-el-campamento-bombardeado-de-ivan-mordisco-3543602",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colombia Compra Eficiente",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-28 01:17"
+    },
+    {
+      "id": 603,
+      "titulo": "Paloma Valencia denuncia contrato irregular de Colpensiones con Fundación Universitaria San José",
+      "categoria": "contratos",
+      "fecha": "2026-03-27",
+      "descripcion": "La candidata presidencial Paloma Valencia denunció a Colpensiones por un presunto contrato irregular de $404 millones otorgado a la Fundación Universitaria San José en 2023. Esta denuncia se suma a otras irregularidades ya documentadas en Colpensiones, pero involucra una nueva entidad beneficiaria del contrato cuestionado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/exviceministro-de-la-igualdad-del-gobierno-de-gustavo-petro-acxan-duque-se-pronuncio-tras-denuncia-de-acoso-sexual-y-la-salida-de-su-cargo-3543456",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-28 01:17"
+    },
+    {
       "id": 602,
       "titulo": "Fallas del gobierno en intervención a Cajas de Compensación Familiar según Contraloría",
       "categoria": "recursos-publicos",
