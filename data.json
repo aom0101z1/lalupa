@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 606,
+      "titulo": "Nombramiento de la hija del presidente Petro como madrina de patrullera naval genera polémica",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-28",
+      "descripcion": "La hija del presidente Gustavo Petro fue nombrada madrina de la Patrullera Oceánica Colombiana ARC '24 de Julio' en una ceremonia en Cartagena, lo que generó controversia sobre el uso de figuras familiares del mandatario en actos oficiales militares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/llamado-nacional-para-apoyar-a-hijos-de-las-victimas-del-accidente-aereo-en-putumayo-3543764",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hija de Gustavo Petro"
+      ],
+      "entidad": "Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-29 01:26"
+    },
+    {
       "id": 605,
       "titulo": "Presidencia intenta renombrar a Cielo Rusinque como superintendente de la SIC tras anulación del Consejo de Estado",
       "categoria": "abuso-poder",
