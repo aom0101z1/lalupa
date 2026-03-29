@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 608,
+      "titulo": "Gobierno aprueba Conpes de 13 billones para modernizar fuerza pública",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-28",
+      "descripcion": "El Gobierno aprobó un Conpes por 13 billones de pesos en vigencias futuras destinado a modernizar la fuerza pública. Esta decisión busca frenar el deterioro de las capacidades militares tras los recientes cuestionamientos sobre el estado de las Fuerzas Militares y equipos obsoletos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/no-vengo-a-retractarme-cepeda-en-nuevo-discurso-en-medellin/",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-29 12:34"
+    },
+    {
+      "id": 607,
+      "titulo": "Imprenta Nacional enfrenta demandas por nuevo esquema de pasaportes con Portugal",
+      "categoria": "contratos",
+      "fecha": "2026-03-28",
+      "descripcion": "La Imprenta Nacional implementará a partir del 1 de abril un nuevo modelo de pasaportes en asociación con Portugal, pero el proyecto enfrenta demandas legales que amenazan su continuidad. El cambio de esquema y los cuestionamientos legales ponen en riesgo la credibilidad de la entidad estatal.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/hora-cero-para-el-nuevo-esquema-de-pasaportes-la-imprenta-se-juega-su-credibilidad-con-portugal-que-papel-jugara-francia-3543706",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Imprenta Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-29 12:34"
+    },
+    {
       "id": 606,
       "titulo": "Nombramiento de la hija del presidente Petro como madrina de patrullera naval genera polémica",
       "categoria": "nepotismo",
