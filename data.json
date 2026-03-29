@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 609,
+      "titulo": "Ricardo Roa niega tráfico de influencias en Ecopetrol y se niega a renunciar",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-29",
+      "descripcion": "El presidente de Ecopetrol, Ricardo Roa, negó acusaciones de tráfico de influencias y declaró que no hubo pagos en 'cajas de cartón' ni autorizó contratos a empresa regasificadora. A pesar de las controversias, Roa se niega a renunciar a su cargo en la petrolera estatal, generando cuestionamientos sobre su permanencia en el puesto.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/lea-estas-columnas-de-opinion-para-que-se-informe-antes-del-partido/",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-29 18:28"
+    },
+    {
       "id": 608,
       "titulo": "Gobierno aprueba Conpes de 13 billones para modernizar fuerza pública",
       "categoria": "recursos-publicos",
