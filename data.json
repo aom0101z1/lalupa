@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 615,
+      "titulo": "Wadith Manzur busca posesionarse en el Senado desde prisión",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-30",
+      "descripcion": "El senador electo Wadith Manzur, quien se encuentra privado de la libertad, busca posesionarse en el Senado para el próximo 20 de julio. La mesa directiva del Senado deberá definir si puede ejercer sus funciones legislativas desde la cárcel, lo que plantea interrogantes sobre el ejercicio del poder público desde prisión.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/aun-preso-wadith-manzur-busca-posesionarse-en-el-senado/",
+          "fecha": "2026-03-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-30 18:46"
+    },
+    {
+      "id": 614,
+      "titulo": "Condena a exdirectivo de corporación Yapurutú por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-30",
+      "descripcion": "Francisco Javier Estupiñán Bravo, exdirectivo de la corporación Yapurutú, fue condenado a 16 años de cárcel por su participación en el caso UNGRD. El funcionario negoció un preacuerdo con la Fiscalía por dos delitos relacionados con corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/condenan-a-16-anos-de-carcel-a-exdirectivo-de-la-corporacion-yapurutu-por-su-participacion-en-el-caso-ungrd-3544085",
+          "fecha": "2026-03-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Francisco Javier Estupiñán Bravo"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 18:46"
+    },
+    {
       "id": 613,
       "titulo": "Inspector de Policía de Soacha acusado de agresión sexual contra guardias de seguridad",
       "categoria": "abuso-poder",
