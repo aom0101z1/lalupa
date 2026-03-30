@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 611,
+      "titulo": "Senador Alirio Barrera señalado de acoso sexual contra exfuncionaria",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-29",
+      "descripcion": "Una mujer señala al senador y exgobernador de Casanare Alirio Barrera de acoso sexual, acusándolo de besarla a la fuerza en 2016 cuando ella trabajaba en la Gobernación de Casanare. El caso se suma a la ola de denuncias del movimiento MeToo en Colombia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-postula-a-carolina-olarte-para-la-corte-penal-internacional/",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Alirio Barrera"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 01:27"
+    },
+    {
+      "id": 610,
+      "titulo": "Uribe acusa a Petro de mentir sobre cifras de educación en entrevista con Westcol",
+      "categoria": "mentiras",
+      "fecha": "2026-03-29",
+      "descripcion": "El expresidente Álvaro Uribe criticó las cifras de educación que el presidente Gustavo Petro dio en una entrevista con Westcol, calificándolas como 'mentiras' y publicando lo que denominó 'los números reales' de la gestión en educación superior del gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/alvaro-uribe-critico-cifras-de-educacion-que-el-presidente-gustavo-petro-le-dio-a-westcol-en-la-reciente-entrevista-las-mentiras-3543827",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Álvaro Uribe"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-30 01:27"
+    },
+    {
       "id": 609,
       "titulo": "Ricardo Roa niega tráfico de influencias en Ecopetrol y se niega a renunciar",
       "categoria": "conflicto-interes",
