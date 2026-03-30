@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 613,
+      "titulo": "Inspector de Policía de Soacha acusado de agresión sexual contra guardias de seguridad",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-29",
+      "descripcion": "Un inspector de Policía de Soacha fue judicializado por agredir sexualmente a tres guardias de seguridad. El funcionario ya había sido suspendido de su cargo el 3 de diciembre de 2025 por estos mismos hechos, evidenciando un patrón de abuso de autoridad y violencia sexual en el ejercicio de sus funciones públicas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/fiscalia-de-luz-adriana-camargo-prepara-reforma-a-codigo-de-extincion-de-dominio-3543895",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Inspector de Policía de Soacha"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 07:16"
+    },
+    {
+      "id": 612,
+      "titulo": "Desplome en cifras de extinción de dominio bajo la Fiscalía de Luz Adriana Camargo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-29",
+      "descripcion": "En dos años de gestión de la Fiscalía actual, las cifras de extinción de dominio se han desplomado dramáticamente, afectando solo bienes por $2.6 billones, en comparación con los $15 billones que afectó la Fiscalía anterior en el mismo período. Esta reducción significativa en la lucha contra los bienes de las mafias representa una preocupante disminución en la efectividad de este frente clave contra el crimen organizado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-escenarios-de-las-elecciones-presidenciales-tras-encuesta-de-guarumo-y-ecoanalitica-que-lidera-cepeda-y-le-siguen-de-la-espriella-y-valencia-3543783",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo",
+        "Juan Felipe Cárdenas"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 07:16"
+    },
+    {
       "id": 611,
       "titulo": "Senador Alirio Barrera señalado de acoso sexual contra exfuncionaria",
       "categoria": "abuso-poder",
