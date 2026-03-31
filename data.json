@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 616,
+      "titulo": "Capturan escolta de secretario de la Cámara con dinero en efectivo antes de elecciones",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-30",
+      "descripcion": "Jaime Lacouture, secretario de la Cámara de Representantes desde 2022, enfrenta polémica por la captura de su escolta con dinero en efectivo en circunstancias sospechosas antes de elecciones. Lacouture busca su reelección para el 20 de julio en uno de los cargos con salario más alto del Congreso. El incidente genera dudas sobre posibles irregularidades electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/busca-su-reeleccion-jaime-lacouture-el-polemico-secretario-de-la-camara-al-que-le-capturaron-su-escolta-con-dinero-en-efectivo-antes-de-elecciones-3544203",
+          "fecha": "2026-03-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Lacouture"
+      ],
+      "entidad": "Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-31 01:24"
+    },
+    {
       "id": 615,
       "titulo": "Wadith Manzur busca posesionarse en el Senado desde prisión",
       "categoria": "abuso-poder",
