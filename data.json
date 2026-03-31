@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 617,
+      "titulo": "Ministro de Hacienda abandona reunión de la junta directiva del Banco de la República",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-31",
+      "descripcion": "El Ministro de Hacienda abandonó la reunión de la junta del Banco de la República y convocó una rueda de prensa aparte, divergiendo de la posición oficial del Banco. La subida de tasas de interés fue el punto de quiebre que llevó al ministro a esta decisión, lo que podría representar una extralimitación en sus funciones al intentar presionar la política monetaria independiente del banco central.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/pulso-por-apoyos-divide-al-uribismo-y-al-equipo-de-abelardo/",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Ministro de Hacienda"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-31 18:47"
+    },
+    {
       "id": 616,
       "titulo": "Capturan escolta de secretario de la Cámara con dinero en efectivo antes de elecciones",
       "categoria": "corrupcion",
