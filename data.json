@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 618,
+      "titulo": "Fiscalía levanta órdenes de captura a 23 capos que participaron en 'tarimazo' de Medellín",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-31",
+      "descripcion": "La Fiscalía General de la Nación, bajo la dirección de Luz Adriana Camargo, levantó las órdenes de captura contra 23 capos criminales de Medellín que participaron en el 'tarimazo' con el presidente Petro en La Alpujarra. La medida se tomó en el marco de la política de 'paz total' y generó controversia entre mandatarios regionales y políticos por considerar que beneficia a criminales sin garantías claras para la sociedad.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/las-reacciones-politicas-a-decision-de-la-fiscalia-de-levantar-ordenes-de-captura-a-23-capos-en-medellin-que-participaron-en-tarimazo-3544395",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 01:45"
+    },
+    {
       "id": 617,
       "titulo": "Ministro de Hacienda abandona reunión de la junta directiva del Banco de la República",
       "categoria": "abuso-poder",
