@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 622,
+      "titulo": "Entramado de corrupción en contratos del ICBF en La Guajira para atención de menores",
+      "categoria": "contratos",
+      "fecha": "2026-03-31",
+      "descripcion": "La Fiscalía imputó cargos a siete personas, incluidos tres exfuncionarios del Instituto Colombiano de Bienestar Familiar, por un esquema ilegal de contratación destinado a la atención de menores y madres gestantes en La Guajira. El caso revela irregularidades en la adjudicación y manejo de contratos públicos para programas sociales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-arremete-nuevamente-contra-el-banco-de-la-republica-tras-romper-relaciones-sigue-en-su-actitud-de-matar-la-economia-colombiana-3544461",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Tres exfuncionarios de Bienestar Familiar",
+        "Cuatro personas adicionales"
+      ],
+      "entidad": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 12:56"
+    },
+    {
       "id": 621,
       "titulo": "Crisis fiscal afecta el Fondo para el medioambiente por falta de recursos",
       "categoria": "recursos-publicos",
