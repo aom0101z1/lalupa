@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 621,
+      "titulo": "Crisis fiscal afecta el Fondo para el medioambiente por falta de recursos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-01",
+      "descripcion": "El gobierno no está girando recursos del presupuesto al Fondo para el medioambiente, le quitó su naturaleza plurianual y no ha hecho ajustes en su gobernanza. Esta situación compromete la financiación de proyectos ambientales por la crisis fiscal del gobierno.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/la-crisis-fiscal-del-gobierno-desinfla-el-fondo-para-el-medioambiente/",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-01 07:09"
+    },
+    {
+      "id": 620,
+      "titulo": "Senador Alirio Barrera investigado por acumulación masiva de baldíos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-31",
+      "descripcion": "El senador Alirio Barrera, exgobernador del Casanare, tiene abierto un expediente en la Agencia Nacional de Tierras por acumulación masiva de bienes de origen baldío que comprende centenares de hectáreas, en posible violación a las normas sobre baldíos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-expediente-por-acumulacion-masiva-de-bienes-de-origen-baldio-que-enreda-al-senador-alirio-barrera-son-centenares-de-hectareas-3544489",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Alirio Barrera"
+      ],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 07:09"
+    },
+    {
+      "id": 619,
+      "titulo": "Sergio Fajardo solicita vigilancia sobre posible uso electoral de recursos del estado de emergencia",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-31",
+      "descripcion": "El candidato presidencial Sergio Fajardo envió una carta al contralor Carlos Hernán Rodríguez pidiendo vigilar la ejecución de los 8.6 billones del estado de emergencia para evitar su uso político y electoral, advirtiendo que 'La Presidencia no se compra con recursos públicos'.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-le-pidio-a-la-contraloria-vigilar-la-ejecucion-de-los-8-6-billones-del-estado-de-emergencia-para-evitar-uso-politico-y-electoral-3544541",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Sergio Fajardo",
+        "Carlos Hernán Rodríguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 07:09"
+    },
+    {
       "id": 618,
       "titulo": "Fiscalía levanta órdenes de captura a 23 capos que participaron en 'tarimazo' de Medellín",
       "categoria": "abuso-poder",
