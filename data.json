@@ -66,6 +66,76 @@
   ],
   "casos": [
     {
+      "id": 625,
+      "titulo": "Pasaportes inician con ajuste exprés por falta de aseguradora en contrato con Portugal",
+      "categoria": "contratos",
+      "fecha": "2026-04-01",
+      "descripcion": "A pocas horas de la presentación oficial del nuevo esquema de pasaportes resultado del contrato de $1.3 billones con Portugal, la Imprenta Nacional aún no había conseguido una aseguradora que asumiera el riesgo del contrato. Esto obligó a realizar ajustes de última hora en el acuerdo, evidenciando problemas en la planeación y estructuración del convenio internacional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/hagale-una-pregunta-a-los-candidatos-con-la-silla-vacia/",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Viviana León"
+      ],
+      "entidad": "Imprenta Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-01 18:47"
+    },
+    {
+      "id": 624,
+      "titulo": "Fiscalía destapa presunto desvío de recursos en la Alcaldía de Bahía Solano",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-01",
+      "descripcion": "La Fiscalía General de la Nación imputó cargos a dos mujeres por presunto desvío de recursos públicos en la Alcaldía de Bahía Solano, Chocó. Este caso se suma a otras judicializaciones que ya habían involucrado al jefe de presupuesto de la alcaldía y otros funcionarios municipales por el mismo esquema de malversación de fondos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-operativos-en-popayan-cauca-dejan-capturas-armas-incautadas-y-droga-decomisada-3544678",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Dos funcionarias de Bahía Solano",
+        "Jefe de presupuesto de la alcaldía"
+      ],
+      "entidad": "Alcaldía de Bahía Solano",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 18:47"
+    },
+    {
+      "id": 623,
+      "titulo": "Procuraduría investiga al director de Cardique por contratación irregular de herramientas tecnológicas",
+      "categoria": "contratos",
+      "fecha": "2026-04-01",
+      "descripcion": "La Procuraduría General de la Nación abrió investigación disciplinaria contra el director de la Corporación Autónoma Regional del Canal del Dique (Cardique) por presunta contratación irregular de herramientas tecnológicas. La investigación se encuentra en etapa inicial y busca determinar si hubo irregularidades en el proceso contractual adelantado por esta entidad ambiental regional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-radiografia-de-las-operaciones-militares-durante-el-primer-trimestre-de-2026-estas-son-las-cifras-3544702",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Director de Cardique"
+      ],
+      "entidad": "Corporación Autónoma Regional del Canal del Dique (Cardique)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-01 18:47"
+    },
+    {
       "id": 622,
       "titulo": "Entramado de corrupción en contratos del ICBF en La Guajira para atención de menores",
       "categoria": "contratos",
