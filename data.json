@@ -66,6 +66,923 @@
   ],
   "casos": [
     {
+      "id": 629,
+      "titulo": "Exalcalde de Montebello llamado a juicio disciplinario por irregularidades en el PAE",
+      "categoria": "contratos",
+      "fecha": "2026-04-02",
+      "descripcion": "Virgilio Antonio Garzón, exalcalde de Montebello, Antioquia, fue llamado a juicio disciplinario por presuntas irregularidades en el Programa de Alimentación Escolar (PAE) durante el año 2023. El proceso disciplinario busca determinar responsabilidades en el manejo de los contratos del programa alimentario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/llaman-a-juicio-disciplinario-a-exalcalde-de-montebello-antioquia-por-presuntas-irregularidades-en-el-pae-3544795",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Virgilio Antonio Garzón"
+      ],
+      "entidad": "Alcaldía de Montebello",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-02 18:42"
+    },
+    {
+      "id": 628,
+      "titulo": "Corte Suprema confirma condena contra exjuez por desvío de recursos mediante tutelas irregulares",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-02",
+      "descripcion": "La Corte Suprema dejó en firme la condena contra un exjuez que emitió fallos irregulares mediante tutelas que permitieron a terceros apropiarse de cerca de $1.800 millones de recursos del Estado. El togado utilizó su posición judicial para facilitar el desvío de recursos públicos a través de decisiones judiciales fraudulentas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-deja-en-firme-condena-contra-exjuez-que-desvio-recursos-publicos-mediante-tutelas-3544940",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Exjuez condenado"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-02 18:42"
+    },
+    {
+      "id": 627,
+      "titulo": "Renuncia de Wilmar Mejía a la DNI",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-01",
+      "descripcion": "Wilmar Mejía presentó su renuncia a la Dirección Nacional de Inteligencia (DNI) en medio del contexto de ruptura del gobierno con el Banco de la República y tensiones institucionales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/abren-investigacion-contra-exgerente-de-importante-hospital-del-valle-del-cauca-por-supuesto-incumplimiento-judicial-3544681",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Wilmar Mejía"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-02 01:21"
+    },
+    {
+      "id": 626,
+      "titulo": "Sistema de defensa pierde capacidad mientras presupuesto crece tras accidente Hércules",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-01",
+      "descripcion": "El accidente del Hércules FAC-1016 evidenció el mal uso de recursos en el sistema de defensa que lleva una década perdiendo capacidad operativa a pesar del crecimiento del presupuesto destinado al sector.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/procuraduria-investiga-al-director-de-cardique-por-presunta-contratacion-irregular-de-herramientas-tecnologicas-3544679",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-02 01:21"
+    },
+    {
+      "id": 625,
+      "titulo": "Pasaportes inician con ajuste exprés por falta de aseguradora en contrato con Portugal",
+      "categoria": "contratos",
+      "fecha": "2026-04-01",
+      "descripcion": "A pocas horas de la presentación oficial del nuevo esquema de pasaportes resultado del contrato de $1.3 billones con Portugal, la Imprenta Nacional aún no había conseguido una aseguradora que asumiera el riesgo del contrato. Esto obligó a realizar ajustes de última hora en el acuerdo, evidenciando problemas en la planeación y estructuración del convenio internacional.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/hagale-una-pregunta-a-los-candidatos-con-la-silla-vacia/",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Viviana León"
+      ],
+      "entidad": "Imprenta Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-01 18:47"
+    },
+    {
+      "id": 624,
+      "titulo": "Fiscalía destapa presunto desvío de recursos en la Alcaldía de Bahía Solano",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-01",
+      "descripcion": "La Fiscalía General de la Nación imputó cargos a dos mujeres por presunto desvío de recursos públicos en la Alcaldía de Bahía Solano, Chocó. Este caso se suma a otras judicializaciones que ya habían involucrado al jefe de presupuesto de la alcaldía y otros funcionarios municipales por el mismo esquema de malversación de fondos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-operativos-en-popayan-cauca-dejan-capturas-armas-incautadas-y-droga-decomisada-3544678",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Dos funcionarias de Bahía Solano",
+        "Jefe de presupuesto de la alcaldía"
+      ],
+      "entidad": "Alcaldía de Bahía Solano",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 18:47"
+    },
+    {
+      "id": 623,
+      "titulo": "Procuraduría investiga al director de Cardique por contratación irregular de herramientas tecnológicas",
+      "categoria": "contratos",
+      "fecha": "2026-04-01",
+      "descripcion": "La Procuraduría General de la Nación abrió investigación disciplinaria contra el director de la Corporación Autónoma Regional del Canal del Dique (Cardique) por presunta contratación irregular de herramientas tecnológicas. La investigación se encuentra en etapa inicial y busca determinar si hubo irregularidades en el proceso contractual adelantado por esta entidad ambiental regional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-radiografia-de-las-operaciones-militares-durante-el-primer-trimestre-de-2026-estas-son-las-cifras-3544702",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Director de Cardique"
+      ],
+      "entidad": "Corporación Autónoma Regional del Canal del Dique (Cardique)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-01 18:47"
+    },
+    {
+      "id": 622,
+      "titulo": "Entramado de corrupción en contratos del ICBF en La Guajira para atención de menores",
+      "categoria": "contratos",
+      "fecha": "2026-03-31",
+      "descripcion": "La Fiscalía imputó cargos a siete personas, incluidos tres exfuncionarios del Instituto Colombiano de Bienestar Familiar, por un esquema ilegal de contratación destinado a la atención de menores y madres gestantes en La Guajira. El caso revela irregularidades en la adjudicación y manejo de contratos públicos para programas sociales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-arremete-nuevamente-contra-el-banco-de-la-republica-tras-romper-relaciones-sigue-en-su-actitud-de-matar-la-economia-colombiana-3544461",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Tres exfuncionarios de Bienestar Familiar",
+        "Cuatro personas adicionales"
+      ],
+      "entidad": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 12:56"
+    },
+    {
+      "id": 621,
+      "titulo": "Crisis fiscal afecta el Fondo para el medioambiente por falta de recursos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-01",
+      "descripcion": "El gobierno no está girando recursos del presupuesto al Fondo para el medioambiente, le quitó su naturaleza plurianual y no ha hecho ajustes en su gobernanza. Esta situación compromete la financiación de proyectos ambientales por la crisis fiscal del gobierno.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-amazonia/la-crisis-fiscal-del-gobierno-desinfla-el-fondo-para-el-medioambiente/",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-01 07:09"
+    },
+    {
+      "id": 620,
+      "titulo": "Senador Alirio Barrera investigado por acumulación masiva de baldíos",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-31",
+      "descripcion": "El senador Alirio Barrera, exgobernador del Casanare, tiene abierto un expediente en la Agencia Nacional de Tierras por acumulación masiva de bienes de origen baldío que comprende centenares de hectáreas, en posible violación a las normas sobre baldíos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-expediente-por-acumulacion-masiva-de-bienes-de-origen-baldio-que-enreda-al-senador-alirio-barrera-son-centenares-de-hectareas-3544489",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Alirio Barrera"
+      ],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 07:09"
+    },
+    {
+      "id": 619,
+      "titulo": "Sergio Fajardo solicita vigilancia sobre posible uso electoral de recursos del estado de emergencia",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-31",
+      "descripcion": "El candidato presidencial Sergio Fajardo envió una carta al contralor Carlos Hernán Rodríguez pidiendo vigilar la ejecución de los 8.6 billones del estado de emergencia para evitar su uso político y electoral, advirtiendo que 'La Presidencia no se compra con recursos públicos'.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-le-pidio-a-la-contraloria-vigilar-la-ejecucion-de-los-8-6-billones-del-estado-de-emergencia-para-evitar-uso-politico-y-electoral-3544541",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Sergio Fajardo",
+        "Carlos Hernán Rodríguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 07:09"
+    },
+    {
+      "id": 618,
+      "titulo": "Fiscalía levanta órdenes de captura a 23 capos que participaron en 'tarimazo' de Medellín",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-31",
+      "descripcion": "La Fiscalía General de la Nación, bajo la dirección de Luz Adriana Camargo, levantó las órdenes de captura contra 23 capos criminales de Medellín que participaron en el 'tarimazo' con el presidente Petro en La Alpujarra. La medida se tomó en el marco de la política de 'paz total' y generó controversia entre mandatarios regionales y políticos por considerar que beneficia a criminales sin garantías claras para la sociedad.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/las-reacciones-politicas-a-decision-de-la-fiscalia-de-levantar-ordenes-de-captura-a-23-capos-en-medellin-que-participaron-en-tarimazo-3544395",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-01 01:45"
+    },
+    {
+      "id": 617,
+      "titulo": "Ministro de Hacienda abandona reunión de la junta directiva del Banco de la República",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-31",
+      "descripcion": "El Ministro de Hacienda abandonó la reunión de la junta del Banco de la República y convocó una rueda de prensa aparte, divergiendo de la posición oficial del Banco. La subida de tasas de interés fue el punto de quiebre que llevó al ministro a esta decisión, lo que podría representar una extralimitación en sus funciones al intentar presionar la política monetaria independiente del banco central.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/pulso-por-apoyos-divide-al-uribismo-y-al-equipo-de-abelardo/",
+          "fecha": "2026-03-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Ministro de Hacienda"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-31 18:47"
+    },
+    {
+      "id": 616,
+      "titulo": "Capturan escolta de secretario de la Cámara con dinero en efectivo antes de elecciones",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-30",
+      "descripcion": "Jaime Lacouture, secretario de la Cámara de Representantes desde 2022, enfrenta polémica por la captura de su escolta con dinero en efectivo en circunstancias sospechosas antes de elecciones. Lacouture busca su reelección para el 20 de julio en uno de los cargos con salario más alto del Congreso. El incidente genera dudas sobre posibles irregularidades electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/busca-su-reeleccion-jaime-lacouture-el-polemico-secretario-de-la-camara-al-que-le-capturaron-su-escolta-con-dinero-en-efectivo-antes-de-elecciones-3544203",
+          "fecha": "2026-03-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Lacouture"
+      ],
+      "entidad": "Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-31 01:24"
+    },
+    {
+      "id": 615,
+      "titulo": "Wadith Manzur busca posesionarse en el Senado desde prisión",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-30",
+      "descripcion": "El senador electo Wadith Manzur, quien se encuentra privado de la libertad, busca posesionarse en el Senado para el próximo 20 de julio. La mesa directiva del Senado deberá definir si puede ejercer sus funciones legislativas desde la cárcel, lo que plantea interrogantes sobre el ejercicio del poder público desde prisión.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/aun-preso-wadith-manzur-busca-posesionarse-en-el-senado/",
+          "fecha": "2026-03-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-30 18:46"
+    },
+    {
+      "id": 614,
+      "titulo": "Condena a exdirectivo de corporación Yapurutú por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-30",
+      "descripcion": "Francisco Javier Estupiñán Bravo, exdirectivo de la corporación Yapurutú, fue condenado a 16 años de cárcel por su participación en el caso UNGRD. El funcionario negoció un preacuerdo con la Fiscalía por dos delitos relacionados con corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/condenan-a-16-anos-de-carcel-a-exdirectivo-de-la-corporacion-yapurutu-por-su-participacion-en-el-caso-ungrd-3544085",
+          "fecha": "2026-03-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Francisco Javier Estupiñán Bravo"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 18:46"
+    },
+    {
+      "id": 613,
+      "titulo": "Inspector de Policía de Soacha acusado de agresión sexual contra guardias de seguridad",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-29",
+      "descripcion": "Un inspector de Policía de Soacha fue judicializado por agredir sexualmente a tres guardias de seguridad. El funcionario ya había sido suspendido de su cargo el 3 de diciembre de 2025 por estos mismos hechos, evidenciando un patrón de abuso de autoridad y violencia sexual en el ejercicio de sus funciones públicas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/fiscalia-de-luz-adriana-camargo-prepara-reforma-a-codigo-de-extincion-de-dominio-3543895",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Inspector de Policía de Soacha"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 07:16"
+    },
+    {
+      "id": 612,
+      "titulo": "Desplome en cifras de extinción de dominio bajo la Fiscalía de Luz Adriana Camargo",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-29",
+      "descripcion": "En dos años de gestión de la Fiscalía actual, las cifras de extinción de dominio se han desplomado dramáticamente, afectando solo bienes por $2.6 billones, en comparación con los $15 billones que afectó la Fiscalía anterior en el mismo período. Esta reducción significativa en la lucha contra los bienes de las mafias representa una preocupante disminución en la efectividad de este frente clave contra el crimen organizado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-escenarios-de-las-elecciones-presidenciales-tras-encuesta-de-guarumo-y-ecoanalitica-que-lidera-cepeda-y-le-siguen-de-la-espriella-y-valencia-3543783",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo",
+        "Juan Felipe Cárdenas"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 07:16"
+    },
+    {
+      "id": 611,
+      "titulo": "Senador Alirio Barrera señalado de acoso sexual contra exfuncionaria",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-29",
+      "descripcion": "Una mujer señala al senador y exgobernador de Casanare Alirio Barrera de acoso sexual, acusándolo de besarla a la fuerza en 2016 cuando ella trabajaba en la Gobernación de Casanare. El caso se suma a la ola de denuncias del movimiento MeToo en Colombia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-postula-a-carolina-olarte-para-la-corte-penal-internacional/",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Alirio Barrera"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-30 01:27"
+    },
+    {
+      "id": 610,
+      "titulo": "Uribe acusa a Petro de mentir sobre cifras de educación en entrevista con Westcol",
+      "categoria": "mentiras",
+      "fecha": "2026-03-29",
+      "descripcion": "El expresidente Álvaro Uribe criticó las cifras de educación que el presidente Gustavo Petro dio en una entrevista con Westcol, calificándolas como 'mentiras' y publicando lo que denominó 'los números reales' de la gestión en educación superior del gobierno actual.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/alvaro-uribe-critico-cifras-de-educacion-que-el-presidente-gustavo-petro-le-dio-a-westcol-en-la-reciente-entrevista-las-mentiras-3543827",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Álvaro Uribe"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-30 01:27"
+    },
+    {
+      "id": 609,
+      "titulo": "Ricardo Roa niega tráfico de influencias en Ecopetrol y se niega a renunciar",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-03-29",
+      "descripcion": "El presidente de Ecopetrol, Ricardo Roa, negó acusaciones de tráfico de influencias y declaró que no hubo pagos en 'cajas de cartón' ni autorizó contratos a empresa regasificadora. A pesar de las controversias, Roa se niega a renunciar a su cargo en la petrolera estatal, generando cuestionamientos sobre su permanencia en el puesto.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/lea-estas-columnas-de-opinion-para-que-se-informe-antes-del-partido/",
+          "fecha": "2026-03-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-29 18:28"
+    },
+    {
+      "id": 608,
+      "titulo": "Gobierno aprueba Conpes de 13 billones para modernizar fuerza pública",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-28",
+      "descripcion": "El Gobierno aprobó un Conpes por 13 billones de pesos en vigencias futuras destinado a modernizar la fuerza pública. Esta decisión busca frenar el deterioro de las capacidades militares tras los recientes cuestionamientos sobre el estado de las Fuerzas Militares y equipos obsoletos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/no-vengo-a-retractarme-cepeda-en-nuevo-discurso-en-medellin/",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-29 12:34"
+    },
+    {
+      "id": 607,
+      "titulo": "Imprenta Nacional enfrenta demandas por nuevo esquema de pasaportes con Portugal",
+      "categoria": "contratos",
+      "fecha": "2026-03-28",
+      "descripcion": "La Imprenta Nacional implementará a partir del 1 de abril un nuevo modelo de pasaportes en asociación con Portugal, pero el proyecto enfrenta demandas legales que amenazan su continuidad. El cambio de esquema y los cuestionamientos legales ponen en riesgo la credibilidad de la entidad estatal.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/hora-cero-para-el-nuevo-esquema-de-pasaportes-la-imprenta-se-juega-su-credibilidad-con-portugal-que-papel-jugara-francia-3543706",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Imprenta Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-29 12:34"
+    },
+    {
+      "id": 606,
+      "titulo": "Nombramiento de la hija del presidente Petro como madrina de patrullera naval genera polémica",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-28",
+      "descripcion": "La hija del presidente Gustavo Petro fue nombrada madrina de la Patrullera Oceánica Colombiana ARC '24 de Julio' en una ceremonia en Cartagena, lo que generó controversia sobre el uso de figuras familiares del mandatario en actos oficiales militares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/servicios/llamado-nacional-para-apoyar-a-hijos-de-las-victimas-del-accidente-aereo-en-putumayo-3543764",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hija de Gustavo Petro"
+      ],
+      "entidad": "Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-29 01:26"
+    },
+    {
+      "id": 605,
+      "titulo": "Presidencia intenta renombrar a Cielo Rusinque como superintendente de la SIC tras anulación del Consejo de Estado",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-28",
+      "descripcion": "La Presidencia publica nuevamente la hoja de vida de Cielo Rusinque para ocupar el cargo de superintendente de Industria y Comercio, después de que el Consejo de Estado anulara su nombramiento anterior. Esta acción evidencia un posible desacato a la decisión judicial y un intento de mantener a la funcionaria en el cargo a pesar de la decisión adversa del tribunal administrativo.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidencia-publica-hoja-de-vida-de-cielo-rusinque-para-ocupar-nuevamente-cargo-de-superintendente-de-industria-y-comercio-3543683",
+          "fecha": "2026-03-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Cielo Rusinque"
+      ],
+      "entidad": "Superintendencia de Industria y Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-28 18:27"
+    },
+    {
+      "id": 604,
+      "titulo": "Colombia Compra Eficiente presenta nueva versión sobre contratos con asociaciones público-populares",
+      "categoria": "contratos",
+      "fecha": "2026-03-27",
+      "descripcion": "Colombia Compra Eficiente emitió una nueva versión oficial tras la revelación de contratos directos por $31 billones con asociaciones público-populares. La entidad respondió a un derecho de petición modificando su versión inicial sobre estos contratos millonarios, lo que genera dudas sobre la transparencia de la información inicialmente proporcionada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-gafas-y-los-otros-elementos-encontrados-en-el-campamento-bombardeado-de-ivan-mordisco-3543602",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colombia Compra Eficiente",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-28 01:17"
+    },
+    {
+      "id": 603,
+      "titulo": "Paloma Valencia denuncia contrato irregular de Colpensiones con Fundación Universitaria San José",
+      "categoria": "contratos",
+      "fecha": "2026-03-27",
+      "descripcion": "La candidata presidencial Paloma Valencia denunció a Colpensiones por un presunto contrato irregular de $404 millones otorgado a la Fundación Universitaria San José en 2023. Esta denuncia se suma a otras irregularidades ya documentadas en Colpensiones, pero involucra una nueva entidad beneficiaria del contrato cuestionado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/exviceministro-de-la-igualdad-del-gobierno-de-gustavo-petro-acxan-duque-se-pronuncio-tras-denuncia-de-acoso-sexual-y-la-salida-de-su-cargo-3543456",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-28 01:17"
+    },
+    {
+      "id": 602,
+      "titulo": "Fallas del gobierno en intervención a Cajas de Compensación Familiar según Contraloría",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-27",
+      "descripcion": "La Contraloría alertó sobre fallas del gobierno en la sostenida intervención a las Cajas de Compensación Familiar. La Superintendencia de Subsidio Familiar mantiene bajo medidas cautelares a 13 cajas de compensación familiar del país, evidenciando problemas en el manejo y supervisión de estas entidades que manejan recursos públicos y de los trabajadores.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estas-son-las-fallas-del-gobierno-en-la-sostenida-intervencion-a-las-cajas-de-compensacion-familiar-alerta-de-la-contraloria-3543464",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Subsidio Familiar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-27 18:43"
+    },
+    {
+      "id": 601,
+      "titulo": "Nombramiento cuestionado de Alejandra María Puentes como subdirectora del Dapre",
+      "categoria": "nepotismo",
+      "fecha": "2026-03-27",
+      "descripcion": "Alejandra María Puentes, cercana al exalcalde Jorge Iván Ospina, fue nombrada nueva subdirectora del Departamento Administrativo de la Presidencia (Dapre). Su nombramiento genera cuestionamientos por su forma de manejar la contratación cuando trabajó en Cali, donde la Procuraduría emitió una alerta por la concentración de contratos a dedo en la administración de Ospina.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/alejandra-maria-puentes-cercana-a-exalcalde-jorge-ivan-ospina-nueva-subdirectora-del-dapre-cuestionan-forma-en-que-llevo-contratacion-en-cali-3543501",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandra María Puentes",
+        "Jorge Iván Ospina"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-27 18:43"
+    },
+    {
+      "id": 600,
+      "titulo": "Información falsa sobre mantenimiento del avión Hércules accidentado",
+      "categoria": "mentiras",
+      "fecha": "2026-03-27",
+      "descripcion": "Se difundió información incorrecta indicando que Israel realizaba el mantenimiento del avión Hércules accidentado. En realidad, el mantenimiento estaba a cargo de la Industria Aeronáutica Colombiana (Ciac), una empresa de mayoría estatal. Esta desinformación desvía la atención de las verdaderas responsabilidades en el mantenimiento de la aeronave.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/tragedia-del-hercules-desnuda-una-crisis-de-capacidades-militares-de-colombia/",
+          "fecha": "2026-03-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-27 06:57"
+    },
+    {
+      "id": 599,
+      "titulo": "Petro hace afirmaciones falsas sobre responsabilidad en accidente del Hércules",
+      "categoria": "mentiras",
+      "fecha": "2026-03-26",
+      "descripcion": "El presidente Petro afirma falsamente que el accidente del avión Hércules de la FAC es culpa del propio avión, mientras los datos militares revelan problemas estructurales más profundos en el sector Defensa. Esta información errónea contradice los hechos técnicos del siniestro que dejó 69 víctimas fatales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/ministerio-de-justicia-abre-oficina-juridica-para-mujeres-privadas-de-la-libertad-en-cucuta-3543273",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-27 06:57"
+    },
+    {
+      "id": 598,
+      "titulo": "Procuraduría investiga a ministra de Ambiente por emergencia de Urrá",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-26",
+      "descripcion": "La Procuraduría investiga a la ministra de Ambiente Irene Vélez por su actuación como directora de la ANLA durante el desbordamiento de la hidroeléctrica de Urrá que dejó más de 200 mil damnificados en Córdoba y Sucre. El Ministerio Público indaga posibles irregularidades en las decisiones que llevaron a la emergencia que afectó masivamente a la población de estas regiones.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/video-joven-intento-evadir-captura-refugiandose-en-casa-de-su-tio-pero-fue-entregado-en-medio-de-escena-viral-en-redes-esto-se-sabe-3543199",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Irene Vélez"
+      ],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-27 01:23"
+    },
+    {
+      "id": 597,
+      "titulo": "Denuncia de acoso sexual contra viceministro Axcan Duque en Ministerio de la Igualdad",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-26",
+      "descripcion": "La senadora Paloma Valencia denunció públicamente un presunto caso de acoso sexual que involucraría al viceministro Axcan Duque del Ministerio de la Igualdad. Duque también lidera la Oficina Jurídica de la cartera ministerial. Se solicita investigación urgente sobre estos hechos que comprometen la integridad de funcionarios de alto nivel en una entidad destinada a promover la igualdad.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/denuncian-presunto-caso-de-acoso-sexual-en-el-ministerio-de-la-igualdad-que-involucraria-a-viceministro-axcan-duque-piden-investigacion-urgente-3543188",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Axcan Duque",
+        "Paloma Valencia"
+      ],
+      "entidad": "Ministerio de la Igualdad",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 18:53"
+    },
+    {
+      "id": 596,
+      "titulo": "Contraloría encuentra vacíos graves en decretos de emergencia económica",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-26",
+      "descripcion": "La Contraloría General identificó graves vacíos en los 18 decretos de emergencia económica del gobierno Petro y exigió soportes a varias entidades para que expliquen la necesidad de recaudar hasta $8,68 billones de pesos. El órgano de control cuestiona la justificación técnica y legal de estas medidas extraordinarias.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/atencion-estos-son-los-graves-vacios-que-hallo-la-contraloria-en-los-18-decretos-de-emergencia-economica-del-gobierno-petro-3542995",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 12:53"
+    },
+    {
+      "id": 595,
+      "titulo": "Supuestas irregularidades en Minciencias afectan convocatorias millonarias",
+      "categoria": "contratos",
+      "fecha": "2026-03-26",
+      "descripcion": "Gremios y asociaciones denuncian supuestas irregularidades en el Ministerio de Ciencias que afectarían millonarias convocatorias en tecnología e innovación. Las denuncias señalan improvisación y mala interpretación de conceptos del DNP que tienen en vilo varios proyectos de inversión pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/alertan-supuestas-irregularidades-en-minciencias-que-afectarian-millonarias-convocatorias-en-tecnologia-e-innovacion-3543006",
+          "fecha": "2026-03-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ciencia, Tecnología e Innovación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-26 12:53"
+    },
+    {
+      "id": 594,
+      "titulo": "Canje de deuda genera beneficios de $84 billones para bancos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-25",
+      "descripcion": "La estrategia del Ministerio de Hacienda para aplazar pagos de deuda y mantener un gasto alto en año electoral terminó enriqueciendo al sector financiero con $84 billones de pesos. Esta decisión representa un costo oculto para el Estado mientras beneficia desproporcionalmente a los bancos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-rechazo-tutela-con-la-que-bernardo-moreno-buscaba-anular-su-condena-3542984",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 06:57"
+    },
+    {
+      "id": 593,
+      "titulo": "Gobierno Petro usa $31 billones en contratos directos con juntas comunales y organizaciones",
+      "categoria": "contratos",
+      "fecha": "2026-03-25",
+      "descripcion": "Un derecho de petición contestado por Colombia Compra Eficiente reveló que el gobierno de Petro utilizó $31 billones de pesos en contratos a dedo (contratación directa) con juntas comunales, cabildos y resguardos. La cifra también evidenció rezagos en compromisos contractuales del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/pareja-de-epa-colombia-se-pronuncio-tras-quejas-de-supuestos-lujos-que-estaria-recibiendo-en-centro-de-reclusion-en-bogota-llamado-a-la-conciencia-3543063",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Colombia Compra Eficiente",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 06:57"
+    },
+    {
+      "id": 592,
+      "titulo": "Investigación fiscal por presuntas irregularidades en compra de apartamento del presidente de Ecopetrol",
+      "categoria": "corrupcion",
+      "fecha": "2026-03-25",
+      "descripcion": "La Fiscalía adelanta investigación por presuntas irregularidades en la compra del apartamento de Ricardo Roa, presidente de Ecopetrol. El constructor Jhony Giraldo, quien remodeló el inmueble, es considerado testigo en el caso y ha contratado al abogado Gustavo Moreno para su defensa, lo que sugiere la gravedad de las investigaciones en curso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/el-abogado-gustavo-moreno-asumira-la-defensa-de-jhony-giraldo-quien-remodelo-el-apartamento-de-ricardo-roa-presidente-de-ecopetrol-3543027",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Jhony Giraldo"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 01:23"
+    },
+    {
+      "id": 591,
+      "titulo": "Debate de control político al MinDefensa por accidente de avión Hércules con 69 víctimas fatales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-03-25",
+      "descripcion": "Congresistas radicaron debate de control político contra el ministro de Defensa Pedro Sánchez por el accidente del avión Hércules que dejó 69 víctimas. La proposición también cita a la cúpula de las Fuerzas Militares y de Policía para que respondan sobre el mantenimiento de la flota aérea, sugiriendo posibles fallas en los protocolos de seguridad y mantenimiento.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/congresistas-radican-debate-de-control-politico-contra-el-ministro-de-defensa-pedro-sanchez-por-accidente-de-avion-hercules-que-dejo-69-victimas-3542932",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Sánchez"
+      ],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-03-26 01:23"
+    },
+    {
+      "id": 590,
+      "titulo": "Colpensiones compra camioneta de $404 millones pese a contrato vigente con UNP",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-03-25",
+      "descripcion": "Colpensiones adquirió una camioneta por $404 millones para su presidente, a pesar de que existe un contrato vigente con la Unidad Nacional de Protección (UNP) que ya contempla el suministro de un vehículo blindado. La senadora Paloma Valencia solicitó investigar esta compra por posible duplicidad en el gasto público.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/paloma-valencia-solicito-investigar-compra-de-camioneta-para-presidente-de-colpensiones-pese-a-contrato-con-la-unp-3542780",
+          "fecha": "2026-03-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-03-25 18:43"
+    },
+    {
       "id": 589,
       "titulo": "Baja ejecución presupuestal en inversión del Ministerio de Defensa durante 2025",
       "categoria": "recursos-publicos",
