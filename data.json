@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 627,
+      "titulo": "Renuncia de Wilmar Mejía a la DNI",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-01",
+      "descripcion": "Wilmar Mejía presentó su renuncia a la Dirección Nacional de Inteligencia (DNI) en medio del contexto de ruptura del gobierno con el Banco de la República y tensiones institucionales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/abren-investigacion-contra-exgerente-de-importante-hospital-del-valle-del-cauca-por-supuesto-incumplimiento-judicial-3544681",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Wilmar Mejía"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-02 01:21"
+    },
+    {
+      "id": 626,
+      "titulo": "Sistema de defensa pierde capacidad mientras presupuesto crece tras accidente Hércules",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-01",
+      "descripcion": "El accidente del Hércules FAC-1016 evidenció el mal uso de recursos en el sistema de defensa que lleva una década perdiendo capacidad operativa a pesar del crecimiento del presupuesto destinado al sector.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/procuraduria-investiga-al-director-de-cardique-por-presunta-contratacion-irregular-de-herramientas-tecnologicas-3544679",
+          "fecha": "2026-04-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-02 01:21"
+    },
+    {
       "id": 625,
       "titulo": "Pasaportes inician con ajuste exprés por falta de aseguradora en contrato con Portugal",
       "categoria": "contratos",
