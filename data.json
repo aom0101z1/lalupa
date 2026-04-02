@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 629,
+      "titulo": "Exalcalde de Montebello llamado a juicio disciplinario por irregularidades en el PAE",
+      "categoria": "contratos",
+      "fecha": "2026-04-02",
+      "descripcion": "Virgilio Antonio Garzón, exalcalde de Montebello, Antioquia, fue llamado a juicio disciplinario por presuntas irregularidades en el Programa de Alimentación Escolar (PAE) durante el año 2023. El proceso disciplinario busca determinar responsabilidades en el manejo de los contratos del programa alimentario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/llaman-a-juicio-disciplinario-a-exalcalde-de-montebello-antioquia-por-presuntas-irregularidades-en-el-pae-3544795",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Virgilio Antonio Garzón"
+      ],
+      "entidad": "Alcaldía de Montebello",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-02 18:42"
+    },
+    {
+      "id": 628,
+      "titulo": "Corte Suprema confirma condena contra exjuez por desvío de recursos mediante tutelas irregulares",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-02",
+      "descripcion": "La Corte Suprema dejó en firme la condena contra un exjuez que emitió fallos irregulares mediante tutelas que permitieron a terceros apropiarse de cerca de $1.800 millones de recursos del Estado. El togado utilizó su posición judicial para facilitar el desvío de recursos públicos a través de decisiones judiciales fraudulentas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-deja-en-firme-condena-contra-exjuez-que-desvio-recursos-publicos-mediante-tutelas-3544940",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Exjuez condenado"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-02 18:42"
+    },
+    {
       "id": 627,
       "titulo": "Renuncia de Wilmar Mejía a la DNI",
       "categoria": "abuso-poder",
