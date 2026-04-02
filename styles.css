@@ -918,6 +918,10 @@ body {
     background: linear-gradient(135deg, #881337 0%, #9f1239 100%);
 }
 
+.tema-header.banco-republica {
+    background: linear-gradient(135deg, #134e4a 0%, #0f766e 100%);
+}
+
 .tema-header.ungrd {
     background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
 }
