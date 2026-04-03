@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 631,
+      "titulo": "Jorge Lemus salta de la Uiaf a la Unidad de Regulación Financiera",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-02",
+      "descripcion": "Jorge Lemus, quien anteriormente encabezó la DNI y después la Uiaf, ahora será nombrado como asesor en la Unidad de Regulación Financiera según información de Presidencia. Su reemplazo en la Uiaf sería Wilmar Mejía, quien renunció recientemente a la DNI.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/en-allanamientos-contra-la-ciberdelincuencia-la-policia-capturo-en-flagrancia-a-un-hombre-en-el-municipio-de-el-colegio-3544929",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Lemus",
+        "Wilmar Mejía"
+      ],
+      "entidad": "Unidad de Información y Análisis Financiero (Uiaf)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-03 01:23"
+    },
+    {
+      "id": 630,
+      "titulo": "Petro arremete contra su exministro José Antonio Ocampo tras ruptura con Banco de la República",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-02",
+      "descripcion": "El presidente Gustavo Petro retomó críticas públicas contra su exministro de Hacienda José Antonio Ocampo, cuestionando su gestión y expresando arrepentimiento por haberle confiado las finanzas del país, en medio de la crisis institucional con el Banco de la República.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-retoma-criticas-contra-su-exministro-de-hacienda-jose-antonio-ocampo-en-medio-de-la-ruptura-con-el-banco-de-la-republica-3544938",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "José Antonio Ocampo"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-03 01:23"
+    },
+    {
       "id": 629,
       "titulo": "Exalcalde de Montebello llamado a juicio disciplinario por irregularidades en el PAE",
       "categoria": "contratos",
