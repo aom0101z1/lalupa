@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 633,
+      "titulo": "Centro de Pensamiento Vida acusado de ser fachada de contratistas del gobierno",
+      "categoria": "contratos",
+      "fecha": "2026-04-03",
+      "descripcion": "El representante a la Cámara electo Daniel Briceño denuncia que el Centro de Pensamiento Vida es 'una reunión de contratistas' del gobierno Petro que 'se disfrazan de académicos'. Según Briceño, el director de este centro es contratista del Ministerio de Educación, lo que genera dudas sobre conflictos de interés en la contratación pública.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/daniel-briceno-denuncia-que-el-centro-de-pensamiento-vida-es-una-reunion-de-contratistas-del-gobierno-petro-se-disfrazan-de-academicos-3545073",
+          "fecha": "2026-04-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Briceño"
+      ],
+      "entidad": "Ministerio de Educación Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-03 18:34"
+    },
+    {
       "id": 632,
       "titulo": "Gobierno Petro cambia nombre de RTVC y restaura Inravisión en medio de polémica por Morris",
       "categoria": "abuso-poder",
