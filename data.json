@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 632,
+      "titulo": "Gobierno Petro cambia nombre de RTVC y restaura Inravisión en medio de polémica por Morris",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-02",
+      "descripcion": "El gobierno de Petro anuncia el cambio de nombre de RTVC para regresar a Inravisión tras más de dos décadas, como parte de una reconfiguración del modelo de medios públicos, en medio de la controversia por la gerencia de Hollman Morris y las divisiones en el Pacto Histórico sobre su permanencia.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-las-versiones-sobre-los-supuestos-acercamientos-entre-roy-barreras-y-paloma-valencia-uribismo-dice-que-se-le-puso-linea-roja-3544916",
+          "fecha": "2026-04-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hollman Morris"
+      ],
+      "entidad": "Radio Televisión Nacional de Colombia (RTVC)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-03 06:57"
+    },
+    {
       "id": 631,
       "titulo": "Jorge Lemus salta de la Uiaf a la Unidad de Regulación Financiera",
       "categoria": "abuso-poder",
