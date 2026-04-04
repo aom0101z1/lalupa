@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 634,
+      "titulo": "Militares advierten filtración de información de inteligencia a alias Calarcá",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-03",
+      "descripcion": "Militares en retiro advierten crisis estructural en la seguridad tras hallazgos de la Fiscalía que revelan el traspaso de información de inteligencia y operaciones militares a alias Calarcá, un disidente. Este hecho representa una grave vulneración de la seguridad nacional y sugiere filtración de información clasificada desde las Fuerzas Militares hacia grupos armados ilegales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/el-camino-en-el-consejo-de-estado-para-frenar-la-resolucion-que-levanto-capturas-a-23-capos-de-medellin-3545081",
+          "fecha": "2026-04-03"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Calarcá"
+      ],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-04 01:18"
+    },
+    {
       "id": 633,
       "titulo": "Centro de Pensamiento Vida acusado de ser fachada de contratistas del gobierno",
       "categoria": "contratos",
