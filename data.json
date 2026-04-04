@@ -66,6 +66,27 @@
   ],
   "casos": [
     {
+      "id": 635,
+      "titulo": "Deforestación en la Amazonía aumentó 6% en 2025 bajo gestión gubernamental",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-03",
+      "descripcion": "El IDEAM reportó un aumento del 6% en la deforestación de la Amazonía durante 2025, pasando de 68.000 hectáreas en 2024 a 72.409 hectáreas. Este incremento evidencia deficiencias en las políticas de protección ambiental y conservación de recursos naturales bajo la actual administración.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/bancada-uribista-respalda-a-paloma-con-defensa-de-la-familia-entre-sus-ejes/",
+          "fecha": "2026-04-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-04 18:28"
+    },
+    {
       "id": 634,
       "titulo": "Militares advierten filtración de información de inteligencia a alias Calarcá",
       "categoria": "abuso-poder",
