@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 640,
+      "titulo": "Petro admite uso de informes de inteligencia sobre conversaciones de candidato presidencial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-04",
+      "descripcion": "El presidente Petro mencionó públicamente tener 'informes hechos desde inteligencia de conversaciones' entre los dueños de Thomas Greg & Sons y el candidato presidencial Abelardo de la Espriella. Esto genera críticas por el posible uso indebido de aparatos de inteligencia del Estado para seguimiento a opositores políticos y candidatos presidenciales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-definiria-la-legalidad-de-la-suspension-de-capturas-a-23-cabecillas-de-bandas-de-medellin-3545251",
+          "fecha": "2026-04-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-05 12:36"
+    },
+    {
+      "id": 639,
+      "titulo": "Petro acusa a la Fuerza Pública de filtrar información a alias Iván Mordisco",
+      "categoria": "mentiras",
+      "fecha": "2026-04-04",
+      "descripcion": "El presidente Gustavo Petro sorprendió al asegurar que el criminal alias Iván Mordisco siempre escapa porque 'compra' a la Fuerza Pública y 'le avisan antes de cada bombardeo'. Estas declaraciones públicas del mandatario generan polémica por acusar sin pruebas a las fuerzas armadas de colaborar con criminales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-rechaza-grupos-que-interrumpieron-misa-de-viernes-santo-en-bogota-nada-justifica-ridiculizar-o-provocar-desde-cualquier-creencia-3545256",
+          "fecha": "2026-04-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-05 12:36"
+    },
+    {
       "id": 638,
       "titulo": "Gobierno prepara decreto para dar beneficios de desmovilizados a bandas criminales",
       "categoria": "recursos-publicos",
