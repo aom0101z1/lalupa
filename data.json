@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 638,
+      "titulo": "Gobierno prepara decreto para dar beneficios de desmovilizados a bandas criminales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-04",
+      "descripcion": "El gobierno Petro está preparando un decreto para otorgar beneficios administrativos como subsidios de vivienda y becas educativas a integrantes de bandas criminales que negocien sometimiento, equiparándolos con desmovilizados de grupos armados organizados. Esta medida implica el uso de recursos públicos para beneficiar a criminales comunes sin el marco legal adecuado, en el contexto de la controvertida política de 'paz total'.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/gabela-a-los-capos-del-tarimazo-en-medellin-la-nueva-polemica-en-la-paz-total-del-presidente-petro-3545281",
+          "fecha": "2026-04-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-05 06:55"
+    },
+    {
+      "id": 637,
+      "titulo": "Amigos de Petro y Verónica hicieron negocios petroleros con régimen de Maduro",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-04",
+      "descripcion": "Fotografías obtenidas por medios de investigación prueban que Danilo Romero y Manel Grau, personas cercanas al presidente Petro y su esposa Verónica, realizaron negocios petroleros en Venezuela con el régimen de Maduro apenas Petro llegó al poder. Esto configura un potencial conflicto de interés al involucrar relaciones personales del presidente con negocios en un país con el que Colombia mantiene relaciones diplomáticas complejas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/detienen-en-el-aeropuerto-el-dorado-a-britanico-senalado-de-ser-el-cabecilla-de-red-piramidal-que-estafa-en-belgica-3545240",
+          "fecha": "2026-04-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Verónica Alcocer",
+        "Danilo Romero",
+        "Manel Grau"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-05 06:55"
+    },
+    {
       "id": 636,
       "titulo": "Gobierno Petro insiste en mantener a Cielo Rusinque como superintendente de Comercio pese a fallo judicial que la removió",
       "categoria": "abuso-poder",
