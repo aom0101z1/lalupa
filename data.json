@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 636,
+      "titulo": "Gobierno Petro insiste en mantener a Cielo Rusinque como superintendente de Comercio pese a fallo judicial que la removió",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-04",
+      "descripcion": "El Gobierno Petro emitió oficialmente un decreto para mantener a Cielo Rusinque como superintendente de Comercio, desafiando una decisión judicial que la había removido del cargo. El decreto fue firmado por la ministra de Comercio Diana Marcela Morales. Este caso representa un posible desacato a decisiones judiciales y abuso de poder ejecutivo al intentar revertir fallos judiciales mediante decretos administrativos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-petro-emite-oficialmente-el-decreto-con-el-que-insiste-en-cielo-rusinque-como-superintendente-de-comercio-a-pesar-de-fallo-que-la-saco-3545259",
+          "fecha": "2026-04-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Cielo Rusinque",
+        "Diana Marcela Morales"
+      ],
+      "entidad": "Superintendencia de Industria y Comercio (SIC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-05 01:27"
+    },
+    {
       "id": 635,
       "titulo": "Deforestación en la Amazonía aumentó 6% en 2025 bajo gestión gubernamental",
       "categoria": "recursos-publicos",
