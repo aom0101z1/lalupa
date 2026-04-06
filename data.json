@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 642,
+      "titulo": "Involucrados en corrupción de alcaldía de Daniel Quintero buscan colaborar con Fiscalía",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-06",
+      "descripcion": "Dos personas investigadas en el caso de corrupción en la alcaldía de Daniel Quintero están buscando llegar a acuerdos con la Fiscalía para declarar en distintos procesos y convertirse en testigos del ente acusador. Esta situación sugiere la posibilidad de revelación de información adicional sobre esquemas de corrupción en la administración municipal de Medellín, lo que podría ampliar el alcance de las investigaciones y revelar nuevos casos de malversación de recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-dos-involucrados-en-caso-de-corrupcion-en-la-alcaldia-de-daniel-quintero-buscan-prender-el-ventilador-en-fiscalia-3545454",
+          "fecha": "2026-04-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "Alcaldía de Medellín",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-06 12:48"
+    },
+    {
+      "id": 641,
+      "titulo": "Gobierno Petro reconoce contactos de inteligencia con abogado de 'Papá Pitufo' y denuncia pedido de dinero por agentes",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-06",
+      "descripcion": "El presidente Gustavo Petro admitió contactos de inteligencia con el abogado del contrabandista Diego Marín alias 'Papá Pitufo', y aseguró que agentes habrían pedido dinero durante los acercamientos. Jorge Lemus, quien saltó de la Uiaf a la Unidad de Regulación Financiera, estuvo involucrado en las reuniones. Los audios revelan negociaciones de beneficios sin participación de la Fiscalía, lo que plantea cuestionamientos sobre el manejo de procesos de inteligencia y posibles irregularidades en las negociaciones.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-petro-reconoce-reuniones-con-abogado-de-papa-pitufo-audios-revelan-negociaciones-sin-la-fiscalia-3545490",
+          "fecha": "2026-04-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jorge Lemus",
+        "Luis Felipe Ramírez",
+        "Diego Marín"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-06 12:48"
+    },
+    {
       "id": 640,
       "titulo": "Petro admite uso de informes de inteligencia sobre conversaciones de candidato presidencial",
       "categoria": "abuso-poder",
