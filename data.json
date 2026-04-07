@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 647,
+      "titulo": "Funcionarios de DNI pidieron dinero por codicia en diálogos con 'Papá Pitufo' autorizados por Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-06",
+      "descripcion": "El presidente Petro reconoce que autorizó diálogos entre funcionarios de la DNI y 'Papá Pitufo', pero acusa a los emisarios de pedir dinero por codicia y hacer falsas promesas tanto al señalado de contrabando como al gobierno. Este caso amplía las irregularidades ya documentadas sobre los contactos de inteligencia con el abogado de 'Papá Pitufo'.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-reconoce-permisos-para-dialogos-de-funcionarios-de-dni-con-papa-pitufo-pero-dice-que-emisarios-pedian-dinero-por-codicia-3545763",
+          "fecha": "2026-04-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Papá Pitufo"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-07 07:05"
+    },
+    {
       "id": 646,
       "titulo": "Contraloría nombra nuevo vicecontralor tras salida de Carlos Mario Zuluaga",
       "categoria": "recursos-publicos",
