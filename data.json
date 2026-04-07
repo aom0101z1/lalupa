@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 646,
+      "titulo": "Contraloría nombra nuevo vicecontralor tras salida de Carlos Mario Zuluaga",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-06",
+      "descripcion": "La Contraloría General de la República nombró a Carlos Silgado como nuevo vicecontralor tras la salida de Carlos Mario Zuluaga. Su llegada se da en medio de los retos de vigilancia del gasto público y fortalecimiento del control fiscal. El cambio se produce en un momento crucial para la supervisión de recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/tras-salida-de-carlos-mario-zuluaga-contraloria-nombra-a-carlos-silgado-como-nuevo-vicecontralor-3545728",
+          "fecha": "2026-04-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Silgado",
+        "Carlos Mario Zuluaga"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-07 01:25"
+    },
+    {
+      "id": 645,
+      "titulo": "Procuraduría investiga cinco funcionarios de la Unidad de Víctimas por irregularidades contractuales",
+      "categoria": "contratos",
+      "fecha": "2026-04-06",
+      "descripcion": "La Procuraduría abrió investigación disciplinaria a cinco funcionarios de la Unidad de Víctimas por presuntas irregularidades en la ejecución de dos contratos. El ente de control busca esclarecer el giro de recursos aparentemente sin justificación en contratos destinados a la atención de víctimas del conflicto armado.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/procuraduria-abrio-investigacion-a-cinco-funcionarios-de-la-unidad-de-victimas-por-presuntas-irregularidades-en-ejecucion-de-dos-contratos-3545639",
+          "fecha": "2026-04-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad para la Atención y Reparación Integral a las Víctimas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-07 01:25"
+    },
+    {
       "id": 644,
       "titulo": "Auditoría General detecta más de 262.000 contratos directos antes de Ley de Garantías con uso irregular de recursos",
       "categoria": "contratos",
