@@ -66,6 +66,120 @@
   ],
   "casos": [
     {
+      "id": 652,
+      "titulo": "Cabos sueltos en financiación irregular de campaña Petro 2022",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-07",
+      "descripcion": "Se documentan nombres de personas que han asegurado o han sido señaladas de aportar dinero no acreditado a la campaña presidencial de Petro 2022, evidenciando posibles irregularidades en la financiación electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/el-partido-debe-hacer-un-respaldo-a-paloma-liberal-electo-hector-espinosa/",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-07 18:50"
+    },
+    {
+      "id": 651,
+      "titulo": "Fiscalía reactiva órdenes de captura contra 16 capos de bandas de Medellín",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-07",
+      "descripcion": "La Fiscalía revocó mediante resolución 0-0079 el beneficio concedido a 23 cabecillas de bandas criminales de Medellín, reactivando órdenes de captura contra 16 de ellos, incluidos los que participaron en el polémico 'tarimazo' en La Alpujarra.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-4-cuatro-investigaciones-contra-calarca-que-la-fiscal-camargo-expuso-en-una-carta-al-presidente-petro-para-reactivar-la-orden-de-captura-3545886",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-07 18:50"
+    },
+    {
+      "id": 650,
+      "titulo": "Acolgen pide tumbar emergencia económica decretada por Petro por frente frío",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-07",
+      "descripcion": "La Asociación Colombiana de Generadores de Energía Eléctrica pidió a la Corte Constitucional suspender y tumbar la emergencia económica decretada por el presidente Petro debido al frente frío. El expediente está en etapa probatoria en el alto tribunal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/fiscalia-acusa-ante-la-corte-suprema-a-los-exministros-ricardo-bonilla-y-luis-fernando-velasco-por-el-caso-ungrd-3545942",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-07 18:50"
+    },
+    {
+      "id": 649,
+      "titulo": "Fiscalía acusa a exministros Ricardo Bonilla y Luis Fernando Velasco por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-07",
+      "descripcion": "La Fiscalía radicó ante la Corte Suprema el escrito de acusación contra los exministros Ricardo Bonilla y Luis Fernando Velasco por su participación en el escándalo de corrupción de la UNGRD. La Sala de Primera Instancia será encargada del juicio.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/atencion-retiran-orden-de-captura-de-interpol-contra-carlos-ramon-gonzalez-por-el-escandalo-de-la-ungrd-3545948",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla",
+        "Luis Fernando Velasco"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-07 18:50"
+    },
+    {
+      "id": 648,
+      "titulo": "Retiran orden de captura de Interpol contra Carlos Ramón González por escándalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-06",
+      "descripcion": "Se retiró la orden internacional de captura contra Carlos Ramón González, exfuncionario cercano al presidente Petro y prófugo por el escándalo de corrupción en la UNGRD. González se encuentra refugiado en Nicaragua y la Fiscalía solicitó reactivar su búsqueda.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/implementaremos-inteligencia-artificial-para-mejorar-la-movilidad-y-la-seguridad-pedro-de-la-torre-formula-vicepresidencial-de-mauricio-lizcano-3545734",
+          "fecha": "2026-04-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón González"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-07 18:50"
+    },
+    {
       "id": 647,
       "titulo": "Funcionarios de DNI pidieron dinero por codicia en diálogos con 'Papá Pitufo' autorizados por Petro",
       "categoria": "corrupcion",
