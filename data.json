@@ -66,6 +66,31 @@
   ],
   "casos": [
     {
+      "id": 657,
+      "titulo": "Day Vásquez amenaza con revelar información sobre el caso Nicolás Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-08",
+      "descripcion": "Daysuris Vásquez, expareja de Nicolás Petro, advirtió que cuando 'decida abrir la boca, vuelan cabezas' y señaló que esa fecha 'se está acercando'. Este cruce de mensajes con el abogado Alejandro Carranza evidenció un nuevo episodio de tensión en medio del proceso judicial contra el hijo del presidente, sugiriendo que podría tener información adicional sobre casos de corrupción no revelada.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/day-vasquez-expareja-de-nicolas-petro-advierte-que-el-dia-que-decida-abrir-la-boca-vuelan-cabezas-y-senala-que-esa-fecha-se-esta-acercando-3546111",
+          "fecha": "2026-04-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Daysuris Vásquez",
+        "Nicolás Petro",
+        "Alejandro Carranza"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-08 12:59"
+    },
+    {
       "id": 656,
       "titulo": "Tribunal ordena libertad de exministro Ricardo Bonilla por vencimiento de términos en caso UNGRD",
       "categoria": "corrupcion",
