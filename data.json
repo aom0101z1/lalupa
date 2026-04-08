@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 656,
+      "titulo": "Tribunal ordena libertad de exministro Ricardo Bonilla por vencimiento de términos en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-07",
+      "descripcion": "El Tribunal de Bogotá ordenó la libertad del exministro Ricardo Bonilla por vencimiento de términos procesales en el caso UNGRD, donde es investigado como uno de los presuntos cerebros del entramado corrupto. La decisión se dio pese a que enfrenta acusaciones por corrupción en contratos millonarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-imputara-a-conductor-por-accidente-en-la-avenida-mutis-de-bogota-que-dejo-dos-muertos-en-halloween-3545988",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-08 07:07"
+    },
+    {
+      "id": 655,
+      "titulo": "Procuraduría suspende a interventora de Capresoca EPS por deterioro en servicios de salud",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-07",
+      "descripcion": "La Procuraduría suspendió por tres meses a Betty Cecilia Anaya, interventora de Capresoca EPS, por presuntas conductas irregulares que llevaron al deterioro en los servicios de salud. La medida se adoptó mientras se investigan las irregularidades en su gestión.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/procuraduria-suspende-a-la-interventora-de-capresoca-eps-por-el-deterioro-en-los-servicios-de-salud-3546084",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Betty Cecilia Anaya"
+      ],
+      "entidad": "Capresoca EPS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-08 07:07"
+    },
+    {
       "id": 654,
       "titulo": "Congresista Orlando Rayo demandado por presunta inhabilidad electoral por contrato con el Estado",
       "categoria": "conflicto-interes",
