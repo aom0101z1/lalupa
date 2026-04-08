@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 654,
+      "titulo": "Congresista Orlando Rayo demandado por presunta inhabilidad electoral por contrato con el Estado",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-07",
+      "descripcion": "El representante de Amazonas Orlando Rayo enfrenta demanda por su elección debido a que presuntamente estaría inhabilitado por haber estado involucrado en un contrato con el Estado pocos meses antes de las elecciones, lo que constituiría un conflicto de interés electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/aliada-de-dilian-pedira-a-la-u-apoyar-a-paloma-valencia/",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Orlando Rayo"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-08 01:26"
+    },
+    {
+      "id": 653,
+      "titulo": "Petro confronta a general y acusa a oficiales de vínculos con redes ilegales en evento público",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-07",
+      "descripcion": "En un evento en Cali, el presidente Petro tuvo un momento tensionante con un general al que le dijo 'usted me tiene que escuchar'. El mandatario aseguró que existen oficiales relacionados con redes ilegales, lo que constituye una acusación pública sin debido proceso contra miembros de la Fuerza Pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/usted-me-tiene-que-escuchar-el-tensionante-momento-en-el-que-el-presidente-petro-le-hablo-a-un-general-en-un-evento-en-cali-quien-es-el-oficial-3546036",
+          "fecha": "2026-04-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-08 01:26"
+    },
+    {
       "id": 652,
       "titulo": "Cabos sueltos en financiación irregular de campaña Petro 2022",
       "categoria": "corrupcion",
