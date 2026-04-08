@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 659,
+      "titulo": "Ricardo Roa no asiste por segunda vez a audiencia por violación de topes de campaña",
+      "categoria": "contratos",
+      "fecha": "2026-04-08",
+      "descripcion": "El presidente de Ecopetrol, Ricardo Roa, no asistió por segunda vez a su audiencia de imputación por violación de topes en la campaña presidencial de Petro 2022. Roa salió temporalmente de Ecopetrol con vacaciones y licencia no remunerada tras el proceso judicial. La Fiscalía deberá aplazar nuevamente la diligencia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/roa-no-asistio-a-su-segunda-audiencia-por-violacion-de-topes-de-campana/",
+          "fecha": "2026-04-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-08 19:03"
+    },
+    {
+      "id": 658,
+      "titulo": "Ecuador llama a consultas a embajador tras defensa de Petro a exvicepresidente Glas",
+      "categoria": "diplomaticos",
+      "fecha": "2026-04-08",
+      "descripcion": "Ecuador llamó a consultas a su embajador y envió nota de protesta a Colombia después de que el presidente Petro defendiera al exvicepresidente ecuatoriano Jorge Glas, a quien calificó como 'preso político'. Esta situación genera tensión diplomática entre los dos países.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/ecuador-llama-a-consultas-a-su-embajador-tras-defensa-de-petro-a-glas/",
+          "fecha": "2026-04-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jorge Glas"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-08 19:03"
+    },
+    {
       "id": 657,
       "titulo": "Day Vásquez amenaza con revelar información sobre el caso Nicolás Petro",
       "categoria": "corrupcion",
