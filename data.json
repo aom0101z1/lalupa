@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 661,
+      "titulo": "S&P rebaja calificación crediticia de Colombia a nivel histórico más bajo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-08",
+      "descripcion": "La calificadora Standard & Poor's rebajó la calificación crediticia de Colombia al peor nivel histórico, pasando de BB a BB- en deuda extranjera y de BB+ a BB en deuda local. Esta medida refleja el deterioro de la capacidad de pago del país y podría encarecer el financiamiento del Estado, afectando el manejo de recursos públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/sp-baja-la-calificacion-crediticia-de-colombia-de-bb-a-bb/",
+          "fecha": "2026-04-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-09 01:17"
+    },
+    {
+      "id": 660,
+      "titulo": "Cancillería suspende servicio de pasaportes por fallas técnicas masivas en plataforma SITAC",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-08",
+      "descripcion": "La Cancillería suspendió parcialmente el servicio de expedición de pasaportes debido a fallas técnicas generalizadas en la plataforma SITAC, afectando trámites consulares en diferentes partes del mundo. Posteriormente se identificó una 'amenaza cibernética' como causa del problema, evidenciando vulnerabilidades en sistemas críticos del Estado que impactan servicios esenciales para ciudadanos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/caos-por-falla-en-sistema-que-expide-pasaportes-cancilleria-suspendio-servicio-parcialmente-y-revisa-problemas-tecnicos-en-plataforma-sitac-3546238",
+          "fecha": "2026-04-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-09 01:17"
+    },
+    {
       "id": 659,
       "titulo": "Ricardo Roa no asiste por segunda vez a audiencia por violación de topes de campaña",
       "categoria": "contratos",
