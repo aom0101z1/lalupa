@@ -66,6 +66,71 @@
   ],
   "casos": [
     {
+      "id": 667,
+      "titulo": "Avión Hércules C-130 accidentado operaba sin seguro por déficit en la FAC",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-09",
+      "descripcion": "Se reveló que el avión Hércules C-130 de la Fuerza Aérea Colombiana que se accidentó en Putumayo no contaba con póliza de seguro. La FAC habría reportado un millonario déficit en su flota, lo que explica la falta de cobertura de seguros en sus aeronaves, exponiendo recursos públicos a pérdidas significativas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-el-montanero-cuatro-capturas-y-una-condena-de-26-anos-en-el-historial-del-poderoso-hombre-de-la-banda-el-mesa-3546488",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Aérea Colombiana (FAC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-09 18:51"
+    },
+    {
+      "id": 666,
+      "titulo": "Contraloría inspecciona Nueva EPS y Superintendencia de Salud por crisis financiera",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-09",
+      "descripcion": "La Contraloría General realiza inspección con Policía Judicial a la Nueva EPS y la Superintendencia de Salud debido a que la EPS presenta deudas por 21 billones de pesos. La intervención gubernamental no habría corregido el rumbo de la crisis financiera de esta entidad del sistema de salud.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/ejercito-gradua-a-105-operadores-de-drones-para-frenar-el-aumento-de-ataques-con-estos-dispositivos-3546507",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-09 18:51"
+    },
+    {
+      "id": 665,
+      "titulo": "Chef de embajador Alfredo Saade causa accidente con vehículo oficial en Brasil",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-09",
+      "descripcion": "El chef personal del embajador colombiano en Brasil, Alfredo Saade, utilizó sin autorización un vehículo oficial de la embajada y causó un accidente que dejó el automóvil en pérdida total. El incidente genera interrogantes sobre el uso de recursos públicos y la supervisión de bienes del Estado en las misiones diplomáticas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/esto-dijo-el-embajador-alfredo-saade-sobre-accidente-automovilistico-por-parte-de-su-chef-en-brasilia-la-irresponsabilidad-3546508",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Alfredo Saade"
+      ],
+      "entidad": "Embajada de Colombia en Brasil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-09 18:51"
+    },
+    {
       "id": 664,
       "titulo": "Procuraduría investiga presuntas interceptaciones ilegales a candidato presidencial",
       "categoria": "abuso-poder",
