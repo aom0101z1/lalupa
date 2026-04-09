@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 664,
+      "titulo": "Procuraduría investiga presuntas interceptaciones ilegales a candidato presidencial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-09",
+      "descripcion": "La Procuraduría abrió indagación en la DNI por alerta de presuntas interceptaciones ilegales al candidato presidencial Abelardo de la Espriella. La investigación se basa en información divulgada por medios de comunicación sobre posibles actividades de espionaje político desde la dirección de inteligencia estatal contra un aspirante a la presidencia.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abre-indagacion-en-la-dni-por-alerta-de-presuntas-interceptaciones-ilegales-al-candidato-abelardo-de-la-espriella-3546436",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-09 13:01"
+    },
+    {
+      "id": 663,
+      "titulo": "Procuraduría investiga a Jorge Lemus por ofrecer beneficios judiciales a 'Papá Pitufo'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-09",
+      "descripcion": "La Procuraduría abrió investigación disciplinaria contra Jorge Lemus, exdirector de la DNI, por presunto abuso de funciones al ofrecer beneficios judiciales a 'Papá Pitufo' (el 'zar del contrabando'). Lemus había justificado su reunión con el abogado del investigado como de 'carácter institucional', pero la Procuraduría considera que hubo extralimitación en sus funciones al ofrecer estos beneficios.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/procuraduria-anuncia-investigacion-disciplinaria-contra-jorge-lemus-exdirector-de-la-dni-por-ofrecer-beneficios-judiciales-a-papa-pitufo-abuso-3546433",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Lemus",
+        "Papá Pitufo"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-09 13:01"
+    },
+    {
       "id": 662,
       "titulo": "Cancillería identifica amenaza cibernética tras suspensión de expedición de pasaportes",
       "categoria": "recursos-publicos",
