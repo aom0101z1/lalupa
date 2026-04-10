@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 675,
+      "titulo": "Defensor del Pueblo Carlos Camargo nombró hijos de magistrados que revisan demandas en su contra",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-10",
+      "descripcion": "El defensor del Pueblo Carlos Camargo nombró a la hija de un magistrado en la Oficina de Asuntos Internacionales y al hijo de otro magistrado en la Oficina de Comunicaciones, mientras estos magistrados revisan demandas presentadas contra él. Los nombramientos generan conflicto de interés evidente.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/camargo-nombro-a-hijos-de-magistrados-que-revisan-demandas-en-su-contra/",
+          "fecha": "2026-04-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Camargo"
+      ],
+      "entidad": "Defensoría del Pueblo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 18:39"
+    },
+    {
+      "id": 674,
+      "titulo": "Procuraduría evidencia graves incumplimientos en Cancillería por crisis de pasaportes",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-10",
+      "descripcion": "La Procuraduría realizó inspección a la Cancillería tras el colapso del Sistema Integral de Trámites al Ciudadano (SITAC) y evidenció graves incumplimientos que afectaron masivamente el servicio de expedición de pasaportes. La inspección reveló falencias administrativas y operativas en el manejo del sistema.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/balance-de-la-procuraduria-tras-inspeccion-a-la-cancilleria-por-caos-en-citas-del-pasaporte-se-evidenciaron-graves-incumplimientos-3546861",
+          "fecha": "2026-04-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 18:39"
+    },
+    {
+      "id": 673,
+      "titulo": "Suspensión de proceso de paz total por fiesta de capos en cárcel de Itagüí",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-10",
+      "descripcion": "El Gobierno suspendió uno de los espacios sociojurídicos de la 'paz total' tras escándalo por fiesta de capos en cárcel de Itagüí donde se encontró alcohol, drogas y armas. El incidente comprometió la credibilidad del proceso de paz y obligó al Ejecutivo a tomar medidas disciplinarias en el sistema penitenciario.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/asi-estan-los-procesos-de-una-paz-total-nuevamente-en-entredicho-por-fiesta-de-capos-en-carcel-de-itaguei-3546890",
+          "fecha": "2026-04-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Nelson Velásquez"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 18:39"
+    },
+    {
       "id": 672,
       "titulo": "Candidato a contralor Pedro Alonso Sanabria señalado por acoso sexual y laboral",
       "categoria": "abuso-poder",
