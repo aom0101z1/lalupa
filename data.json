@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 671,
+      "titulo": "Deterioro institucional y politización en la Cancillería durante gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-09",
+      "descripcion": "Informe revela el grave deterioro de la Cancillería bajo el gobierno Petro: cuatro cancilleres en el periodo, politización institucional, pérdida de experticia, falta de estrategia diplomática clara y una diplomacia que depende de las declaraciones en redes sociales del presidente. Se evidencia falta de planificación y recursos, afectando la política exterior del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cuantas-hectareas-de-tierra-ha-entregado-a-victimas-el-gobierno-petro-estas-son-las-estadisticas-oficiales-3546586",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 07:15"
+    },
+    {
+      "id": 670,
+      "titulo": "Juzgado ordena pago de salarios a Benedetti tras inclusión en lista Clinton",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-09",
+      "descripcion": "Un juzgado ratifica que al exministro del Interior Armando Benedetti deben pagarle dos cheques por su labor ministerial, pese a haber sido incluido en la lista Clinton de Estados Unidos por presuntos vínculos con narcotráfico. Benedetti alegó vulneración de derechos como el acceso a un mínimo vital. La decisión genera debate sobre el uso de recursos públicos para funcionarios sancionados internacionalmente.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/se-oficializa-el-nombramiento-de-wilmar-mejia-como-director-de-la-unidad-de-investigacion-y-analisis-financiero-3546668",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-10 07:15"
+    },
+    {
       "id": 669,
       "titulo": "Nombramiento irregular de Wílmar Mejía como director de la UIAF tras escándalo en DNI",
       "categoria": "nepotismo",
