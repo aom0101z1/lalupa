@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 672,
+      "titulo": "Candidato a contralor Pedro Alonso Sanabria señalado por acoso sexual y laboral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-10",
+      "descripcion": "Pedro Alonso Sanabria, exmagistrado que figura en la lista de elegibles para contralor general de la República, fue señalado por acoso sexual y laboral. Su trabajo durante años fue vigilar la conducta de funcionarios de la Rama Judicial, lo que genera cuestionamientos sobre la idoneidad de su candidatura para un cargo de control fiscal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/candidato-a-contralor-general-de-la-republica-fue-senalado-por-acoso-sexual-y-laboral-el-delicado-caso-de-pedro-alonso-sanabria-3546777",
+          "fecha": "2026-04-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Alonso Sanabria"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 12:47"
+    },
+    {
       "id": 671,
       "titulo": "Deterioro institucional y politización en la Cancillería durante gobierno Petro",
       "categoria": "recursos-publicos",
