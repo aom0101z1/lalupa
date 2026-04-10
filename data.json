@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 669,
+      "titulo": "Nombramiento irregular de Wílmar Mejía como director de la UIAF tras escándalo en DNI",
+      "categoria": "nepotismo",
+      "fecha": "2026-04-09",
+      "descripcion": "Wílmar Mejía, licenciado en educación física, tuvo un ascenso 'meteórico e inexplicable' hasta convertirse en alto funcionario de inteligencia. A pesar del escándalo de los archivos de 'Calarcá' en la DNI, donde se desempeñaba como director de Inteligencia, fue nombrado director de la Unidad de Investigación y Análisis Financiero (UIAF), cuestionando los criterios de mérito y idoneidad en el nombramiento.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-meteorico-e-inexplicable-ascenso-de-wilmar-mejia-ahora-jefe-de-la-uiaf/",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Wílmar Mejía"
+      ],
+      "entidad": "Unidad de Investigación y Análisis Financiero (UIAF)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 01:27"
+    },
+    {
+      "id": 668,
+      "titulo": "Demanda por irregularidades en millonario contrato de pasaportes con Portugal",
+      "categoria": "contratos",
+      "fecha": "2026-04-09",
+      "descripcion": "El convenio con Portugal para el nuevo modelo de pasaportes fue demandado en el Tribunal Administrativo de Cundinamarca por supuestas irregularidades. Se solicita a la Procuraduría realizar trámite clave para obtener respuesta de Portugal sobre la demanda al millonario contrato, lo que evidencia posibles fallas en la adjudicación o ejecución del convenio.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/pasaportes-piden-a-la-procuraduria-tramite-clave-para-obtener-respuesta-de-portugal-por-demanda-al-millonario-contrato-3546689",
+          "fecha": "2026-04-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-10 01:27"
+    },
+    {
       "id": 667,
       "titulo": "Avión Hércules C-130 accidentado operaba sin seguro por déficit en la FAC",
       "categoria": "recursos-publicos",
