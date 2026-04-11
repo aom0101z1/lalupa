@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 679,
+      "titulo": "Procuraduría abre indagación por fiesta vallenata en cárcel de Itagüí con Nelson Velásquez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-11",
+      "descripcion": "El Ministerio Público inició una indagación para identificar a los funcionarios del Inpec que autorizaron la parranda vallenata en el pabellón de máxima seguridad de la cárcel de Itagüí. La investigación busca establecer las responsabilidades disciplinarias por permitir estas irregularidades que comprometen la seguridad del sistema penitenciario y el proceso de paz.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/procuraduria-abre-indagacion-por-fiesta-vallenata-en-la-carcel-de-itaguei-con-nelson-velasquez-3547104",
+          "fecha": "2026-04-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Nelson Velásquez"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (INPEC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-11 18:30"
+    },
+    {
       "id": 678,
       "titulo": "Direccionamiento de contratos por $17.656 millones en Medellín durante pasada administración",
       "categoria": "contratos",
