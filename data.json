@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 677,
+      "titulo": "Corte abre investigación contra Alirio Barrera por acoso sexual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-10",
+      "descripcion": "La Corte Suprema de Justicia abrió investigación contra Alirio Barrera, exgobernador de Casanare, por acto sexual violento. Una mujer aseguró que el exgobernador la acosó sexualmente en 2016 cuando trabajaba en la gobernación departamental.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/artemis-ii-no-fue-la-primera-mision-en-captar-el-lado-oculto-de-la-luna/",
+          "fecha": "2026-04-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Alirio Barrera"
+      ],
+      "entidad": "Gobernación de Casanare",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-11 01:21"
+    },
+    {
+      "id": 676,
+      "titulo": "Tribunal ordena a Petro rectificar afirmaciones falsas sobre fraude electoral",
+      "categoria": "mentiras",
+      "fecha": "2026-04-10",
+      "descripcion": "El Tribunal Administrativo de Cundinamarca ordenó al presidente Petro rectificar en su cuenta de X sus afirmaciones sobre fraude electoral por falta de veracidad al informar sobre la sentencia de 2018 del Consejo de Estado en el caso MIRA. El tribunal estableció límites al uso de redes sociales frente a la confianza en la Organización Electoral y le dio tres días para corregir sus afirmaciones sin pruebas sobre las elecciones de 2014, 2022 y los recientes comicios.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-vuelve-a-rechazar-decision-de-la-corte-constitucional-de-tumbar-la-emergencia-economica-de-diciembre-e-insiste-en-reforma-tributaria-3546850",
+          "fecha": "2026-04-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-11 01:21"
+    },
+    {
       "id": 675,
       "titulo": "Defensor del Pueblo Carlos Camargo nombró hijos de magistrados que revisan demandas en su contra",
       "categoria": "conflicto-interes",
