@@ -66,6 +66,78 @@
   ],
   "casos": [
     {
+      "id": 684,
+      "titulo": "Petro convoca embajadora tras crisis diplomática con Ecuador por aranceles",
+      "categoria": "diplomaticos",
+      "fecha": "2026-04-11",
+      "descripcion": "El presidente Petro ordenó el inmediato regreso de la embajadora colombiana en Ecuador tras el aumento del 100% de aranceles por parte del gobierno de Daniel Noboa. Petro calificó la medida como 'monstruosidad' y amenazó con una posible salida de la Comunidad Andina de Naciones. La crisis se agravó por la defensa previa de Petro al exvicepresidente ecuatoriano Jorge Glas, generando tensiones diplomáticas regionales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-derecha-de-de-la-espriella-modero-a-la-de-valencia/",
+          "fecha": "2026-04-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Daniel Noboa"
+      ],
+      "entidad": "Embajada de Colombia en Ecuador",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-12 07:03"
+    },
+    {
+      "id": 683,
+      "titulo": "Politización de la inteligencia nacional al servicio del presidente Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-11",
+      "descripcion": "Investigación revela cómo la inteligencia del país (UIAF y DNI) terminó convertida en el servicio secreto personal del presidente Gustavo Petro. Estas dos entidades clave en la lucha contra el crimen organizado quedaron en el centro de la polémica por su uso político, desvirtuando su función institucional de seguridad nacional para servir intereses particulares del mandatario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/el-largo-expediente-de-los-crimenes-de-alias-calarca-y-su-banda-en-plena-paz-total-3547140",
+          "fecha": "2026-04-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-12 07:03"
+    },
+    {
+      "id": 682,
+      "titulo": "Ministro de Justicia sugiere coordinación entre Fiscalía y Gobierno para órdenes de captura",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-11",
+      "descripcion": "El Ministro de Justicia declaró que las órdenes de captura 'deben acordarse entre Fiscalía y Gobierno', refiriéndose específicamente a las reuniones entre la fiscal Camargo y Otty Patiño para definir si se levanta la orden de captura contra 'Calarcá'. Esta declaración sugiere una interferencia del ejecutivo en decisiones que corresponden exclusivamente al poder judicial, violando el principio de separación de poderes.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/de-mi-no-esperen-declaraciones-contra-la-paz-en-el-pais-ivan-cepeda-sobre-parranda-vallenata-de-nelson-velasquez-en-carcel-de-itaguei-3547024",
+          "fecha": "2026-04-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ministro de Justicia",
+        "Fiscal Camargo",
+        "Otty Patiño"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-12 07:03"
+    },
+    {
       "id": 681,
       "titulo": "Nombramiento de Jorge Iván Ospina como interventor de Nueva EPS tras fallido nombramiento diplomático",
       "categoria": "nepotismo",
