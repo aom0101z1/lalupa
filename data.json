@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 681,
+      "titulo": "Nombramiento de Jorge Iván Ospina como interventor de Nueva EPS tras fallido nombramiento diplomático",
+      "categoria": "nepotismo",
+      "fecha": "2026-04-11",
+      "descripcion": "Jorge Iván Ospina, exalcalde de Cali, será nombrado como nuevo agente interventor de Nueva EPS después de que fallara su nombramiento como embajador. El nombramiento genera polémica en Cali por posibles conflictos de interés.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/opinion/9-de-abril-violencia-y-victimas/",
+          "fecha": "2026-04-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Iván Ospina"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-12 01:44"
+    },
+    {
+      "id": 680,
+      "titulo": "Denuncia de toma irregular de Nueva EPS por parte del Gobierno",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-11",
+      "descripcion": "El parlamentario Andrés Forero denuncia movimientos administrativos irregulares que permitieron al Estado aumentar su control de la Nueva EPS, la entidad de salud más grande del país, mediante una presunta toma de su mayoría accionaria.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/andres-forero-denuncia-presunta-toma-irregular-de-la-nueva-eps-y-su-mayoria-accionaria-por-parte-del-gobierno-3547131",
+          "fecha": "2026-04-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Forero"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-12 01:44"
+    },
+    {
       "id": 679,
       "titulo": "Procuraduría abre indagación por fiesta vallenata en cárcel de Itagüí con Nelson Velásquez",
       "categoria": "abuso-poder",
