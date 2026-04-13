@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 690,
+      "titulo": "Decreto 369 de 2026 limita inversión pensional en el exterior aumentando riesgos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-13",
+      "descripcion": "El Decreto 369 de 2026 emitido por el gobierno Petro limita la inversión de fondos pensionales en el exterior, lo que según expertos empeora la relación riesgo-retorno pensional, reduce la diversificación efectiva de los fondos y expone el ahorro pensional de los colombianos a mayores riesgos locales, afectando negativamente los recursos pensionales de los ciudadanos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/limitar-la-inversion-en-el-exterior-reduce-retornos-y-aumenta-riesgo-pensional/",
+          "fecha": "2026-04-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-13 19:02"
+    },
+    {
+      "id": 689,
+      "titulo": "Condenan a exalcalde de Leticia por direccionamiento de contrato de $12.600 millones",
+      "categoria": "contratos",
+      "fecha": "2026-04-13",
+      "descripcion": "José Araujo Nieto, exalcalde de Leticia, fue condenado por corrupción tras aceptar que direccionó un contrato suscrito en 2018 para construir un muelle fluvial, que ascendió a 12.600 millones de pesos. El exmandatario reconoció su responsabilidad en el direccionamiento irregular de esta obra pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/condenan-a-jose-araujo-nieto-exalcalce-de-leticia-por-corrupcion-en-obra-para-construir-un-muelle-fluvial-3547466",
+          "fecha": "2026-04-13"
+        }
+      ],
+      "personas_involucradas": [
+        "José Araujo Nieto"
+      ],
+      "entidad": "Alcaldía de Leticia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-13 19:02"
+    },
+    {
       "id": 688,
       "titulo": "Petro reduce precio de gasolina en período electoral tras llamarlo 'populismo barato'",
       "categoria": "abuso-poder",
