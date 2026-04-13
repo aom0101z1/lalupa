@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 685,
+      "titulo": "Gobierno Petro se niega a reparar asesinato de joven en protestas ante la CIDH",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-12",
+      "descripcion": "La Fiscalía, Policía y Gobierno Petro se negaron a reparar ante la CIDH el asesinato de Nicolás Neira durante las protestas. La Comisión Interamericana retomó el caso que cumplirá 21 años y podría escalar hasta la Corte IDH con miras a una eventual condena contra el Estado colombiano por la falta de reparación a las víctimas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/fiscalia-policia-y-gobierno-petro-se-negaron-a-reparar-ante-la-cidh-el-asesinato-de-joven-en-protesta-caso-nicolas-neira-3547271",
+          "fecha": "2026-04-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-13 07:48"
+    },
+    {
       "id": 684,
       "titulo": "Petro convoca embajadora tras crisis diplomática con Ecuador por aranceles",
       "categoria": "diplomaticos",
