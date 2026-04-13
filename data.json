@@ -66,6 +66,74 @@
   ],
   "casos": [
     {
+      "id": 688,
+      "titulo": "Petro reduce precio de gasolina en período electoral tras llamarlo 'populismo barato'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-13",
+      "descripcion": "El presidente Petro ordenó reducir $1.000 el precio de la gasolina en pleno período electoral para beneficiar al Pacto Histórico, contradiciendo sus declaraciones previas donde calificaba estas medidas como 'populismo barato'. La decisión evidencia el uso de recursos públicos y políticas de Estado con fines electorales partidistas.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-social/mas-de-11-millones-de-vidas-a-la-deriva-la-jugada-en-la-nueva-eps/",
+          "fecha": "2026-04-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-13 13:03"
+    },
+    {
+      "id": 687,
+      "titulo": "Magistrado no se aparta de demanda contra Camargo pese a conflicto de interés familiar",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-13",
+      "descripcion": "El magistrado Luis Alberto Álvarez del Consejo de Estado decidió no apartarse de la demanda contra el Defensor del Pueblo Carlos Camargo, a pesar de tener vínculos familiares con contratos en la Defensoría del Pueblo. Esta situación genera un evidente conflicto de intereses en un proceso judicial donde debería existir total imparcialidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/las-razones-del-magistrado-que-no-se-aparto-de-la-demanda-contra-camargo-pese-a-vinculo-familiar-con-la-defensoria-3547331",
+          "fecha": "2026-04-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Alberto Álvarez",
+        "Carlos Camargo"
+      ],
+      "entidad": "Consejo de Estado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-13 13:03"
+    },
+    {
+      "id": 686,
+      "titulo": "Solo 19% de aeronaves de la Fuerza Aeroespacial cuenta con seguro según Contraloría",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-13",
+      "descripcion": "La Contraloría General alertó que únicamente el 19% de las aeronaves de la Fuerza Aeroespacial cuenta con pólizas de seguro, evidenciando graves irregularidades en la gestión de recursos públicos y exposición a riesgos financieros por parte del Estado. Esta situación se suma al caso anterior del avión Hércules C-130 que operaba sin seguro cuando sufrió el accidente.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/atencion-solo-el-19-de-las-aeronaves-de-la-fuerza-aeroespacial-cuenta-con-seguro-alerta-la-contraloria-3547321",
+          "fecha": "2026-04-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Aeroespacial Colombiana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-13 13:03"
+    },
+    {
       "id": 685,
       "titulo": "Gobierno Petro se niega a reparar asesinato de joven en protestas ante la CIDH",
       "categoria": "abuso-poder",
