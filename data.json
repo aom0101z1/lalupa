@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 691,
+      "titulo": "Petro amenaza con destituir alcaldes que no ofrezcan salidas para levantar paro por aumento predial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-13",
+      "descripcion": "El presidente Gustavo Petro amenazó con destituir a los alcaldes que no ofrezcan soluciones para levantar los paros por aumento predial que se concentran principalmente en Santander y llevan cinco días de duración. Esta amenaza representa una posible extralimitación de funciones presidenciales sobre autoridades locales electas democráticamente.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/la-amenaza-del-presidente-gustavo-petro-a-los-alcaldes-advierte-que-destituiria-a-quienes-no-ofrezcan-salidas-para-levantar-paro-por-aumento-predial-3547571",
+          "fecha": "2026-04-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-14 01:45"
+    },
+    {
       "id": 690,
       "titulo": "Decreto 369 de 2026 limita inversión pensional en el exterior aumentando riesgos",
       "categoria": "recursos-publicos",
