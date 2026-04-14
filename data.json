@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 692,
+      "titulo": "Exministra Ángela María Buitrago denuncia amenazas de senadora Isabel Zuleta por hacer cumplir normas en cárceles",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-14",
+      "descripcion": "La exministra de Justicia Ángela María Buitrago reveló que recibió amenazas de la senadora Isabel Zuleta por hacer cumplir las normas en las cárceles. La senadora la acusaba de ser 'enemiga de la paz' cuando implementaba medidas de control en el sistema penitenciario. Las amenazas se dieron en el contexto de su gestión para mantener el orden en los centros carcelarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/exministra-de-justicia-angela-maria-buitrago-revelo-amenazas-de-senadora-por-hacer-cumplir-normas-en-carceles-decia-que-yo-era-enemiga-de-la-paz-3547650",
+          "fecha": "2026-04-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Ángela María Buitrago",
+        "Isabel Zuleta"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-14 13:03"
+    },
+    {
       "id": 691,
       "titulo": "Petro amenaza con destituir alcaldes que no ofrezcan salidas para levantar paro por aumento predial",
       "categoria": "abuso-poder",
