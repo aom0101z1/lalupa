@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 696,
+      "titulo": "Corte Constitucional ordena devolución de recursos de primera emergencia económica",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-15",
+      "descripcion": "La Corte Constitucional ordenó devolver los recursos recaudados durante la primera emergencia económica declarada por el gobierno Petro, que había sido tumbada previamente. Hasta enero se había recaudado cerca del 10% de los 16 billones proyectados según el Ministerio de Hacienda, recursos que ahora deben ser devueltos por haber sido declarados ilegales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-ordena-devolver-lo-recaudado-en-primera-emergencia-economica/",
+          "fecha": "2026-04-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-15 19:01"
+    },
+    {
+      "id": 695,
+      "titulo": "Ministro de Salud Guillermo Alfonso Jaramillo participa presuntamente en campaña política",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-15",
+      "descripcion": "Video del Ministerio de Salud muestra al ministro Guillermo Alfonso Jaramillo en presunta participación política durante período electoral, pidiendo 'continuar un proceso de cambio' y declarando que la 'transformación es posible con la ayuda de todos los colombianos', lo que constituiría uso indebido de recursos públicos para hacer campaña política.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/video-del-minsalud-muestra-a-guillermo-alfonso-jaramillo-en-otro-episodio-de-presunta-participacion-politica-pide-continuar-un-proceso-de-cambio-3548020",
+          "fecha": "2026-04-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-15 19:01"
+    },
+    {
       "id": 694,
       "titulo": "Renuncia forzada del Superintendente de Salud Bernardo Camacho tras desacuerdos con Petro",
       "categoria": "abuso-poder",
