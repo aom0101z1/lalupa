@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 694,
+      "titulo": "Renuncia forzada del Superintendente de Salud Bernardo Camacho tras desacuerdos con Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-14",
+      "descripcion": "Bernardo Camacho presentó su renuncia a la Superintendencia de Salud alegando motivos personales. Sin embargo, según reportes de Caracol Radio, el presidente Petro le pidió la renuncia tras desacuerdos sobre la liquidación de EPS, evidenciando posible presión política para tomar decisiones contrarias al criterio técnico del superintendente.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/bernardo-camacho-envio-a-petro-su-carta-de-renuncia-a-la-supersalud/",
+          "fecha": "2026-04-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Bernardo Camacho",
+        "Gustavo Petro"
+      ],
+      "entidad": "Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-15 13:01"
+    },
+    {
+      "id": 693,
+      "titulo": "Juez multa a Petro por incumplir tutela sobre rectificación de acusaciones contra gerente de Coosalud",
+      "categoria": "mentiras",
+      "fecha": "2026-04-15",
+      "descripcion": "El Juzgado 24 Administrativo del Circuito de Bogotá impuso una multa de 15 salarios mínimos al presidente Petro por incumplir deliberadamente una tutela que le ordenaba rectificar acusaciones sin pruebas de corrupción contra el gerente de Coosalud. El juez determinó que el mandatario optó por evadir la obligación de retractarse de las falsas acusaciones.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-es-sancionado-por-incumplir-tutela-que-le-ordenaba-rectificar-acusaciones-contra-dueno-de-coosalud-3547985",
+          "fecha": "2026-04-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-15 13:01"
+    },
+    {
       "id": 692,
       "titulo": "Exministra Ángela María Buitrago denuncia amenazas de senadora Isabel Zuleta por hacer cumplir normas en cárceles",
       "categoria": "abuso-poder",
