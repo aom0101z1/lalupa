@@ -66,6 +66,77 @@
   ],
   "casos": [
     {
+      "id": 699,
+      "titulo": "Capturados 9 funcionarios por corrupción en Aremca con desvío de regalías por $3.200 millones",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-15",
+      "descripcion": "La Fiscalía capturó a 9 personas por un megacaso de corrupción en la Asociación Regional de Municipios del Catatumbo (Aremca), donde se creó un esquema asociativo para direccionar ilegalmente contratos financiados con recursos de regalías. Los sobrecostos llegaron hasta $3.200 millones, afectando recursos destinados al desarrollo regional en una zona estratégica del país.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/quienes-son-los-9-capturados-por-el-megacaso-de-corrupcion-en-aremca-con-el-que-robaron-dineros-de-regalias-3548196",
+          "fecha": "2026-04-15"
+        }
+      ],
+      "personas_involucradas": [
+        "9 funcionarios capturados"
+      ],
+      "entidad": "Asociación Regional de Municipios del Catatumbo (Aremca)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-16 01:48"
+    },
+    {
+      "id": 698,
+      "titulo": "Contraloría alerta por desbordamiento de la deuda pública en el gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-15",
+      "descripcion": "La Contraloría General envió una carta al Ministerio de Hacienda alertando por el desbordamiento de la deuda pública, que pasó de 100,4 billones de pesos en 2026 a 149,9 billones en 2027, representando un aumento del 49,3%. Este incremento desproporcionado podría llevar a citación a control político del ministro de Hacienda por el manejo inadecuado de las finanzas públicas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/la-carta-de-la-contraloria-a-minhacienda-que-alerta-por-desbordamiento-de-la-deuda-seria-citado-a-control-politico-3548229",
+          "fecha": "2026-04-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Ministro de Hacienda"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-16 01:48"
+    },
+    {
+      "id": 697,
+      "titulo": "Nombramiento de Daniel Quintero como Superintendente de Salud pese a investigaciones por corrupción",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-15",
+      "descripcion": "El expresidente Petro nombró a Daniel Quintero, exalcalde de Medellín, como superintendente de Salud, cinco días después del nombramiento de Jorge Iván Ospina como interventor de Nueva EPS. Ambos exalcaldes enfrentan investigaciones y casos de corrupción en sus respectivas administraciones municipales, generando cuestionamientos sobre los criterios de selección del gobierno para cargos estratégicos en el sector salud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/daniel-quintero-y-jorge-ivan-ospina-la-sombra-de-casos-de-corrupcion-detras-de-los-exalcaldes-que-reencaucha-el-gobierno-en-el-sector-salud-3548216",
+          "fecha": "2026-04-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Jorge Iván Ospina",
+        "Gustavo Petro"
+      ],
+      "entidad": "Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-16 01:48"
+    },
+    {
       "id": 696,
       "titulo": "Corte Constitucional ordena devolución de recursos de primera emergencia económica",
       "categoria": "recursos-publicos",
