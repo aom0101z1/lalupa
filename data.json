@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 701,
+      "titulo": "SuperSalud advierte irregularidades en prórroga de intervención de Nueva EPS",
+      "categoria": "contratos",
+      "fecha": "2026-04-16",
+      "descripcion": "La Superintendencia Nacional de Salud advierte sobre irregularidades en la prórroga de la intervención de Nueva EPS. Se habrían omitido controles internos, el interventor no cumpliría con los requisitos necesarios y se habrían distorsionado decisiones del Comité responsable del proceso.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/supersalud-advierte-irregularidades-en-prorroga-a-intervencion-de-nueva-eps/",
+          "fecha": "2026-04-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-16 18:59"
+    },
+    {
+      "id": 700,
+      "titulo": "Denuncia de gastos excesivos en viajes internacionales de Petro por más de $9.000 millones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-16",
+      "descripcion": "El representante Julio César Triana denuncia que el presidente Gustavo Petro ha gastado más de $9.000 millones en viajes internacionales durante su mandato, habiendo estado fuera del país por 276 días en total. La denuncia señala un posible uso excesivo de recursos públicos en gastos de viajes presidenciales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/denuncian-que-el-presidente-gustavo-petro-ha-gastado-mas-de-9-000-millones-de-pesos-en-viajes-internacionales-3548403",
+          "fecha": "2026-04-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Julio César Triana"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-16 18:59"
+    },
+    {
       "id": 699,
       "titulo": "Capturados 9 funcionarios por corrupción en Aremca con desvío de regalías por $3.200 millones",
       "categoria": "corrupcion",
