@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 703,
+      "titulo": "Consejo de Estado restringe uso de alocuciones presidenciales de Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-16",
+      "descripcion": "El Consejo de Estado falló en segunda instancia restringiendo el uso de las alocuciones presidenciales, estableciendo que 'la facultad del Presidente para usar alocuciones no es absoluta'. Esta decisión judicial limita el poder del presidente Gustavo Petro para utilizar este mecanismo de comunicación oficial, sugiriendo que había un uso excesivo o inadecuado del mismo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/jep-colombia/el-excongresista-luis-almario-rojas-enfrenta-juicio-en-la-jep-por-presuntos-nexos-con-las-farc-3548394",
+          "fecha": "2026-04-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-17 01:44"
+    },
+    {
+      "id": 702,
+      "titulo": "Fiscalía radica acusación contra Olmedo López por corrupción en carrotanques de La Guajira",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-16",
+      "descripcion": "La Fiscalía formalizó cargos contra Olmedo López, exdirector de la UNGRD, por presuntas irregularidades en procesos de contratación de carrotanques en La Guajira. El exfuncionario fue pieza clave en la compra de 40 carrotanques con sobrecostos y manifestó que aceptará los cargos. El caso avanza a juicio como parte del escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/transparencia-por-colombia-rechazo-el-nombramiento-de-daniel-quintero-como-superintendente-de-salud-premia-a-una-persona-imputada-por-corrupcion-3548370",
+          "fecha": "2026-04-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Olmedo López"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-17 01:44"
+    },
+    {
       "id": 701,
       "titulo": "SuperSalud advierte irregularidades en prórroga de intervención de Nueva EPS",
       "categoria": "contratos",
