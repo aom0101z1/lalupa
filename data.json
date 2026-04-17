@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 705,
+      "titulo": "Candidato Santiago Botero rifa dinero en eventos de campaña y promete más si gana",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-17",
+      "descripcion": "El candidato presidencial Santiago Botero rifó $25 millones en un evento de campaña, entregando $5 millones a cinco asistentes. Además, en volantes promocionales ofrece $10 millones a emprendedores si llega a la Presidencia, lo que podría constituir compra de votos y promesas electorales ilegales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/en-evento-de-campana-candidato-santiago-botero-rifo-25-millones/",
+          "fecha": "2026-04-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Santiago Botero"
+      ],
+      "entidad": "Campaña presidencial Santiago Botero",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-17 18:44"
+    },
+    {
+      "id": 704,
+      "titulo": "Viceministro de TIC coordina apoyo digital gubernamental a campaña de Cepeda por orden de Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-17",
+      "descripcion": "El viceministro de TIC Andrés López envió mensajes coordinando influenciadores del petrismo para apoyar la campaña presidencial de Iván Cepeda, afirmando que el presidente Petro había ordenado poner la 'tropa digital' del gobierno a favor del candidato. Esto constituye uso de recursos y estructura del Estado para fines electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/viceministro-dijo-que-petro-ordeno-poner-a-su-tropa-digital-a-favor-de-cepeda/",
+          "fecha": "2026-04-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés López",
+        "Gustavo Petro",
+        "Iván Cepeda"
+      ],
+      "entidad": "Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-17 18:44"
+    },
+    {
       "id": 703,
       "titulo": "Consejo de Estado restringe uso de alocuciones presidenciales de Petro",
       "categoria": "abuso-poder",
