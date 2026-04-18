@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 709,
+      "titulo": "Coljuegos confirma que rifa de Santiago Botero no tenía autorización oficial",
+      "categoria": "contratos",
+      "fecha": "2026-04-17",
+      "descripcion": "Coljuegos aclaró que no autorizó la rifa de $25 millones realizada por el candidato presidencial Santiago Botero, quien entregó $5 millones a cinco asistentes en un evento y prometió $10 millones a emprendedores si llega a la Presidencia. La actividad se realizó sin los permisos legales correspondientes.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/uribe-senala-al-eln-por-supuesto-plan-para-atentar-contra-paloma-valencia/",
+          "fecha": "2026-04-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Santiago Botero"
+      ],
+      "entidad": "Coljuegos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-18 06:56"
+    },
+    {
+      "id": 708,
+      "titulo": "Fallas estructurales y improvisación en modelo de salud del magisterio prometido como piloto nacional",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-18",
+      "descripcion": "El modelo de salud del magisterio, prometido por el gobierno como un 'piloto' para el resto del país, presenta fallas estructurales graves, improvisación en su implementación y roces entre el gobierno y Fecode. El sistema que debía ser ejemplo para la transformación del sistema de salud nacional evidencia problemas de gestión y planificación.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-modelo-de-salud-del-magisterio-el-piloto-que-se-quedo-sin-piloto/",
+          "fecha": "2026-04-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-18 06:56"
+    },
+    {
       "id": 707,
       "titulo": "Petro acusa falsamente a medio de comunicación de sesgo electoral",
       "categoria": "mentiras",
