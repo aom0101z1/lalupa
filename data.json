@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 707,
+      "titulo": "Petro acusa falsamente a medio de comunicación de sesgo electoral",
+      "categoria": "mentiras",
+      "fecha": "2026-04-17",
+      "descripcion": "El presidente Gustavo Petro escribió en X (antes Twitter): 'Dado que La Silla Vacía se ha metido a la campaña de Paloma, este medio miente'. El medio de comunicación rechazó esta afirmación calificándola como falsa y como un irrespeto. Esta acusación sin fundamento constituye una declaración falsa del presidente contra un medio de comunicación independiente.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/opinion/de-la-direccion/rechazamos-el-irrespeto-del-presidente-petro-a-la-silla-vacia/",
+          "fecha": "2026-04-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-18 01:24"
+    },
+    {
+      "id": 706,
+      "titulo": "Petro agradece mención inexistente en revista Time",
+      "categoria": "mentiras",
+      "fecha": "2026-04-17",
+      "descripcion": "El presidente Gustavo Petro agradeció públicamente una supuesta mención en la revista Time como uno de los líderes más influyentes, cuando en realidad no aparece en la lista actual. La única presidenta latinoamericana incluida es la mexicana. Petro sí apareció en la lista en 2023, pero no en la edición reciente que salió a comienzos de semana.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-agradece-mencion-en-revista-time-pero-no-aparece-en-la-lista/",
+          "fecha": "2026-04-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-04-18 01:24"
+    },
+    {
       "id": 705,
       "titulo": "Candidato Santiago Botero rifa dinero en eventos de campaña y promete más si gana",
       "categoria": "recursos-publicos",
