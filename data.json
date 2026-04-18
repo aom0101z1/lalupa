@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 710,
+      "titulo": "Procuraduría reabre investigación por parranda vallenata en cárcel de Itagüí con 12 funcionarios implicados",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-18",
+      "descripcion": "La Procuraduría reinició la investigación por la fiesta vallenata realizada en la cárcel de Itagüí, vinculando al director encargado del penal por presunta falsedad en documento público. Son 12 funcionarios del Inpec investigados por este caso que involucra irregularidades en el manejo del centro penitenciario.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-un-video-creado-con-ia-usa-la-imagen-de-arturo-calle-para-estafar/",
+          "fecha": "2026-04-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Director encargado cárcel Itagüí"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (INPEC)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-18 12:39"
+    },
+    {
       "id": 709,
       "titulo": "Coljuegos confirma que rifa de Santiago Botero no tenía autorización oficial",
       "categoria": "contratos",
