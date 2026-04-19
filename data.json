@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 711,
+      "titulo": "Petro afirma falsamente estar en lista Time de personas más influyentes 2026",
+      "categoria": "mentiras",
+      "fecha": "2026-04-17",
+      "descripcion": "El presidente Gustavo Petro aseguró públicamente que estaba incluido en el listado de la revista Time de 'las 100 personas más influyentes de 2026', sin embargo, al verificar la publicación oficial, su nombre no aparece en la lista. Esta es la segunda vez documentada que Petro hace afirmaciones falsas sobre menciones en la revista Time.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-aseguro-que-estaba-en-el-listado-de-la-revista-time-de-las-100-personas-mas-influyentes-de-2026-pero-su-nombre-no-aparece-3548832",
+          "fecha": "2026-04-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-19 01:48"
+    },
+    {
       "id": 710,
       "titulo": "Procuraduría reabre investigación por parranda vallenata en cárcel de Itagüí con 12 funcionarios implicados",
       "categoria": "corrupcion",
