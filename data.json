@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 713,
+      "titulo": "Ministro de Defensa confirma que Petro mintió sobre información de la CIA",
+      "categoria": "mentiras",
+      "fecha": "2026-04-19",
+      "descripcion": "El Ministro de Defensa Pedro Sánchez confirmó que la CIA no tiene información sobre un supuesto plan para atentar contra Iván Cepeda, contradiciendo declaraciones previas del presidente Petro quien había afirmado tener esta información de inteligencia.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/ministro-de-defensa-pedro-sanchez-confirma-que-la-cia-no-tiene-informacion-sobre-plan-para-atentar-contra-ivan-cepeda-3549045",
+          "fecha": "2026-04-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Sánchez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-19 12:39"
+    },
+    {
       "id": 712,
       "titulo": "Nombramiento de Jorge Iván Ospina con problemas judiciales en el gobierno de Petro",
       "categoria": "abuso-poder",
