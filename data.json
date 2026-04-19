@@ -66,6 +66,31 @@
   ],
   "casos": [
     {
+      "id": 714,
+      "titulo": "Petro nombra a funcionarios con procesos judiciales en dependencias clave de salud",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-19",
+      "descripcion": "El presidente Petro designó a Jorge Iván Ospina y Daniel Quintero, ambos llamados a juicio, en dependencias clave del sector salud durante la recta final de su gobierno. El artículo documenta los líos judiciales de varios colaboradores del mandatario, incluyendo tres acusados y dos imputados en diferentes procesos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fuerte-golpe-a-alias-ivan-mordisco-policia-incauta-3-7-toneladas-de-cocaina-en-operacion-binacional-con-costa-rica-3549047",
+          "fecha": "2026-04-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jorge Iván Ospina",
+        "Daniel Quintero"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-19 18:35"
+    },
+    {
       "id": 713,
       "titulo": "Ministro de Defensa confirma que Petro mintió sobre información de la CIA",
       "categoria": "mentiras",
