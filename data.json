@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 712,
+      "titulo": "Nombramiento de Jorge Iván Ospina con problemas judiciales en el gobierno de Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-18",
+      "descripcion": "El presidente Gustavo Petro designó a Jorge Iván Ospina en una entidad clave del Ejecutivo, pese a tener problemas judiciales. Este nombramiento se suma a otros funcionarios con casos de corrupción e investigaciones pendientes que han sido designados en entidades importantes del gobierno, generando debate sobre los perfiles cuestionados en altos cargos públicos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/la-llegada-al-ejecutivo-de-jorge-ivan-ospina-y-daniel-quintero-abre-debate-sobre-los-perfiles-cuestionados-e-imputados-en-el-gobierno-de-gustavo-petro-3548995",
+          "fecha": "2026-04-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jorge Iván Ospina"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-19 07:07"
+    },
+    {
       "id": 711,
       "titulo": "Petro afirma falsamente estar en lista Time de personas más influyentes 2026",
       "categoria": "mentiras",
