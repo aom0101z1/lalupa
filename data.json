@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 720,
+      "titulo": "General Luis Emilio Cardozo reencauchado por Petro pese a casos de falsos positivos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-20",
+      "descripcion": "El general Luis Emilio Cardozo, quien fue reubicado por el Gobierno Petro en la comandancia del Ejército en 2024, enfrenta investigación por 9 casos de 'falsos positivos' en Santander. La JEP lo citará para evaluar su sometimiento al sistema de justicia transicional, cuestionando la decisión gubernamental de mantenerlo en cargo de alto nivel militar.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/jep-colombia/el-expediente-que-enreda-al-general-luis-emilio-cardozo-excomandante-del-ejercito-con-9-casos-de-falsos-positivos-en-santander-3549354",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Emilio Cardozo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-20 18:52"
+    },
+    {
+      "id": 719,
+      "titulo": "Crisis en el Fomag genera fallas en servicios médicos y desata paro del magisterio",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-20",
+      "descripcion": "Docentes en Colombia reportan graves problemas en la entrega de medicamentos y continuidad de servicios tras cambios en el sistema administrado por el Fomag. Las fallas estructurales en el modelo de salud del magisterio han desatado malestar generalizado y paro del sector educativo, evidenciando improvisación en un sistema que fue prometido como piloto nacional.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/crisis-en-el-fomag-fallas-en-medicamentos-y-servicios-desatan-malestar-y-paro-del-magisterio-3549339",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fomag",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-20 18:52"
+    },
+    {
       "id": 718,
       "titulo": "Funcionarios públicos participan en estrategia digital de campaña de Cepeda",
       "categoria": "abuso-poder",
