@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 718,
+      "titulo": "Funcionarios públicos participan en estrategia digital de campaña de Cepeda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-20",
+      "descripcion": "Se documenta el uso de funcionarios públicos en la estrategia digital de la campaña de Iván Cepeda, lo que constituye un uso indebido de recursos estatales para fines electorales. El caso se relaciona con la 'tropa digital de Petro al servicio de Iván Cepeda', evidenciando el uso del aparato estatal para apoyar una candidatura específica.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-20-de-abril-de-2026/",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-20 13:07"
+    },
+    {
+      "id": 717,
+      "titulo": "Nueva controversia sobre información de CIA tras declaraciones de senador estadounidense",
+      "categoria": "mentiras",
+      "fecha": "2026-04-19",
+      "descripcion": "El senador republicano Bernie Moreno declaró que los funcionarios de EE.UU. 'no tienen conocimiento' de amenazas contra el candidato Iván Cepeda, generando una nueva controversia sobre la información que habría recibido la CIA. Esto se suma a las anteriores desmentidas sobre declaraciones relacionadas con información de inteligencia estadounidense.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-terrorista-a-caravana-de-policia-en-saravena-deja-una-profesora-y-8-uniformados-heridos-tras-salir-de-un-colegio-3549185",
+          "fecha": "2026-04-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Bernie Moreno",
+        "Iván Cepeda"
+      ],
+      "entidad": "CIA/Servicios de inteligencia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-20 13:07"
+    },
+    {
       "id": 716,
       "titulo": "Revelación de reunión secreta entre Petro y abogado del contrabandista 'Pitufo'",
       "categoria": "conflicto-interes",
