@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 716,
+      "titulo": "Revelación de reunión secreta entre Petro y abogado del contrabandista 'Pitufo'",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-19",
+      "descripcion": "Se revela una supuesta reunión entre el presidente Petro y uno de los abogados de Diego Marín alias 'Pitufo', conocido contrabandista. Este encuentro habría habilitado un canal de diálogo entre el gobierno y el círculo del contrabandista, generando interrogantes sobre conflictos de interés en las relaciones del mandatario.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/canal-con-pitufo-habria-comenzado-en-reunion-entre-su-abogado-y-petro/",
+          "fecha": "2026-04-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Diego Marín"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-20 01:50"
+    },
+    {
+      "id": 715,
+      "titulo": "Petro se ratifica en mentira sobre información de CIA tras desmentido de MinDefensa",
+      "categoria": "mentiras",
+      "fecha": "2026-04-19",
+      "descripcion": "El presidente Gustavo Petro insiste en que existe información de la CIA sobre un supuesto atentado contra Iván Cepeda, pese a que el ministro de Defensa confirmó públicamente que no hay tal información de dicha agencia. Petro mantiene la versión falsa contradiciendo a su propio ministro.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-ratifica-en-alerta-de-supuesto-atentado-contra-ivan-cepeda-tras-controversia-con-la-cia-3549078",
+          "fecha": "2026-04-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Pedro Sánchez"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-20 01:50"
+    },
+    {
       "id": 714,
       "titulo": "Petro nombra a funcionarios con procesos judiciales en dependencias clave de salud",
       "categoria": "abuso-poder",
