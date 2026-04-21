@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 726,
+      "titulo": "Desfalco por 'becas fantasma' en Chocó y Magdalena detectado por Contraloría",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-21",
+      "descripcion": "La Contraloría descubrió un multimillonario desfalco por 'becas fantasma' en los departamentos de Chocó y Magdalena. La investigación reveló que no existen constancias de estudio, listados de beneficiarios, ni soportes de los giros realizados en estos ambiciosos proyectos educativos, configurando un esquema de corrupción con recursos destinados a educación.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/en-libertad-day-vasquez-tiene-dos-pendientes-con-la-justicia-por-el-caso-nicolas-petro-cuales-son-3549437",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernaciones de Chocó y Magdalena",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-21 13:01"
+    },
+    {
+      "id": 725,
+      "titulo": "Conflicto contractual en actualización del sistema SITAC con denuncia cruzada de Aldesarrollo",
+      "categoria": "contratos",
+      "fecha": "2026-04-21",
+      "descripcion": "Aldesarrollo reporta 73% de ejecución contractual en actualización del sistema SITAC y radica denuncia ante la Fiscalía contra William Fernando Albarracín, supervisor de Cancillería, además de solicitar acompañamiento de la Procuraduría. El caso evidencia problemas en la supervisión contractual entre entidades del Estado.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/aldesarrollo-responde-por-actualizacion-del-sistema-sitac-dice-que-alcanzo-73-de-ejecucion-contractual-y-denuncia-a-supervisor-de-cancilleria-3549531",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [
+        "William Fernando Albarracín"
+      ],
+      "entidad": "Aldesarrollo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-21 13:01"
+    },
+    {
       "id": 724,
       "titulo": "Juez da dos días al Gobierno para justificar eutanasia de hipopótamos",
       "categoria": "abuso-poder",
