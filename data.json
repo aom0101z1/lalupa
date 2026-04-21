@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 722,
+      "titulo": "Congresista Jhoany Palacios enfrenta cuatro procesos por irregularidades en recursos públicos del Chocó",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-20",
+      "descripcion": "El congresista y exgobernador del Chocó Jhoany Palacios enfrenta cuatro procesos en la Corte Suprema por irregularidades en recursos públicos, incluido peculado por apropiación en favor de terceros. Aunque la Corte no lo envió a la cárcel, los procesos continúan por mal manejo de dineros del departamento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-ve-ee-uu-clima-de-inversion-en-colombia-alertas-por-paz-total-impuestos-por-decreto-y-desaceleracion-economica-3549360",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Jhoany Palacios"
+      ],
+      "entidad": "Gobernación del Chocó",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-21 01:44"
+    },
+    {
+      "id": 721,
+      "titulo": "Alertas sobre irregularidades en proyecto de alcantarillado del Valle del Cauca por $140.000 millones",
+      "categoria": "contratos",
+      "fecha": "2026-04-20",
+      "descripcion": "El Presidente de la Cámara emite alertas sobre el proyecto de alcantarillado en el Valle del Cauca valorado en 140.000 millones de pesos. Findeter y la comunidad exigen respuestas a Vallecaucana de Aguas antes de que la obra pierda su financiación, sugiriendo irregularidades en la ejecución del proyecto de infraestructura.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/las-alertas-del-presidente-de-la-camara-sobre-el-proyecto-de-alcantarillado-en-el-valle-del-cauca-3549396",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Presidente de la Cámara"
+      ],
+      "entidad": "Vallecaucana de Aguas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-21 01:44"
+    },
+    {
       "id": 720,
       "titulo": "General Luis Emilio Cardozo reencauchado por Petro pese a casos de falsos positivos",
       "categoria": "abuso-poder",
