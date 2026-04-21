@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 728,
+      "titulo": "Presunto espionaje de DNI contra candidato presidencial Abelardo de la Espriella",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-21",
+      "descripcion": "Se anuncia una inspección a la Dirección Nacional de Inteligencia (DNI) por presunto espionaje contra el candidato presidencial Abelardo de la Espriella. Este caso sugiere un posible uso indebido de los servicios de inteligencia del Estado para vigilar candidatos de oposición durante el proceso electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-cepeda-y-empresarios-dni-e-impresion-del-tarjeton/",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-21 18:58"
+    },
+    {
+      "id": 727,
+      "titulo": "Petro difunde video falso manipulado con IA contra presidente de Ecuador",
+      "categoria": "mentiras",
+      "fecha": "2026-04-21",
+      "descripcion": "El presidente Gustavo Petro compartió un video manipulado con inteligencia artificial que contenía falsas acusaciones de narcotráfico contra el presidente de Ecuador, Daniel Noboa. Telemundo desmintió oficialmente el contenido del video, confirmando que se trataba de información falsa difundida por el mandatario colombiano.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/telemundo-desmiente-video-que-compartio-presidente-gustavo-petro-sobre-falsa-acusacion-por-narcotrafico-contra-su-homologo-en-ecuador-daniel-noboa-3549552",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Daniel Noboa"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-21 18:58"
+    },
+    {
       "id": 726,
       "titulo": "Desfalco por 'becas fantasma' en Chocó y Magdalena detectado por Contraloría",
       "categoria": "corrupcion",
