@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 724,
+      "titulo": "Juez da dos días al Gobierno para justificar eutanasia de hipopótamos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-20",
+      "descripcion": "Un juez ordenó al Gobierno justificar en dos días la decisión de realizar eutanasia a hipopótamos, en el marco de una acción de tutela contra el Minambiente, la Anla y otras entidades, donde se alega vulneración al debido proceso y otros derechos fundamentales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/es-viable-una-licencia-de-maternidad-de-6-meses-demanda-ante-la-corte-constitucional-pide-ampliarla-3549495",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-04-21 07:22"
+    },
+    {
+      "id": 723,
+      "titulo": "Sindicato toma el despacho del Ministerio de la Igualdad en crisis institucional",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-20",
+      "descripcion": "El sindicato del Ministerio de la Igualdad tomó el despacho de la cartera en medio de una crisis institucional. Esta situación se presenta a dos meses de que venza el plazo fijado por la Corte Constitucional para que el Congreso defina la continuidad o liquidación de la entidad ministerial.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/toma-del-despacho-del-ministerio-de-la-igualdad-por-parte-del-sindicato-de-la-cartera-agudiza-crisis-a-dos-meses-de-definir-continuidad-de-la-entidad-3549467",
+          "fecha": "2026-04-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de la Igualdad",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-21 07:22"
+    },
+    {
       "id": 722,
       "titulo": "Congresista Jhoany Palacios enfrenta cuatro procesos por irregularidades en recursos públicos del Chocó",
       "categoria": "corrupcion",
