@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 733,
+      "titulo": "Fiscalía reactiva investigación contra Hollman Morris por presunto acoso sexual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-22",
+      "descripcion": "La Fiscalía desarchivó el caso contra el jefe de RTVC Hollman Morris por supuesta violencia sexual contra la columnista María Antonia García. La fiscal Marcela Abadía tomó la decisión de reactivar la indagación por presunto acoso sexual.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/radiografia-del-grupo-de-las-disidencias-que-llevo-al-limite-el-proceso-de-paz-con-el-gobierno-3549822",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Hollman Morris",
+        "María Antonia García"
+      ],
+      "entidad": "Radio Televisión Nacional de Colombia (RTVC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-22 13:02"
+    },
+    {
       "id": 732,
       "titulo": "Alcalde de Medellín censura presentación de libro sobre M19 en biblioteca pública",
       "categoria": "abuso-poder",
