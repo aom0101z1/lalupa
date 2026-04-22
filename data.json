@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 732,
+      "titulo": "Alcalde de Medellín censura presentación de libro sobre M19 en biblioteca pública",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-22",
+      "descripcion": "El alcalde de Medellín ordenó cancelar la presentación del libro 'El M19, de la guerra a la política' en una biblioteca pública, constituyendo un acto de censura. A pesar de la orden oficial, el evento se llevó a cabo de todas formas. La medida representa un uso indebido de la autoridad municipal para restringir actividades culturales y académicas en espacios públicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/jaime-bermudez-ratifica-que-la-silla-vacia-no-ha-hecho-parte-de-jupiter/",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de Medellín"
+      ],
+      "entidad": "Alcaldía de Medellín",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-22 07:20"
+    },
+    {
+      "id": 731,
+      "titulo": "Angie Rodríguez denuncia presiones de Juliana Guerrero y reconoce títulos universitarios irregulares en el Fondo de Adaptación",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-21",
+      "descripcion": "La gerente en propiedad del Fondo de Adaptación, Angie Rodríguez, denunció presiones de Juliana Guerrero en el Gobierno Petro y reconoció públicamente que tenía títulos universitarios irregulares, admitiendo que sabía que 'no pasaría los filtros cuando le pidieron publicar su hoja de vida'. El caso revela tanto presiones internas en el gobierno como irregularidades en credenciales académicas de funcionarios públicos de alto nivel.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-denuncio-presiones-de-juliana-guerrero-en-el-gobierno-y-hablo-de-sus-titulos-universitarios-irregulares-gane-mi-peor-enemiga-3549846",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Fondo de Adaptación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-22 07:20"
+    },
+    {
       "id": 730,
       "titulo": "Salida irregular de sargento que denunció irregularidades en el Ejército",
       "categoria": "abuso-poder",
