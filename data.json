@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 735,
+      "titulo": "Petro amenaza con subir salario mínimo en represalia contra Banco de la República",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-22",
+      "descripcion": "El presidente Petro amenazó con aumentar el salario mínimo si el Banco de la República sube las tasas de interés, pese a que la ley no contempla subidas adicionales del salario en un mismo año fiscal. Esta amenaza constituye una presión indebida sobre la autonomía del banco central y un posible abuso de poder presidencial.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-amenaza-con-subir-el-minimo-si-banrep-sube-las-tasas-de-interes/",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-22 18:59"
+    },
+    {
+      "id": 734,
+      "titulo": "Procuraduría investiga irregularidades en contrato del aeropuerto de Cartagena por un billón de pesos",
+      "categoria": "contratos",
+      "fecha": "2026-04-22",
+      "descripcion": "La Procuraduría abrió indagación disciplinaria contra funcionarios de la ANI por supuestas falencias en el contrato para remodelar el aeropuerto de Cartagena, valorado en cerca de un billón de pesos. El ente de control determinará cuáles funcionarios incurrieron en irregularidades en este convenio millonario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abre-indagacion-en-la-ani-por-supuestas-falencias-en-contrato-para-remodelar-el-aeropuerto-de-cartagena-3549950",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios ANI (sin especificar)"
+      ],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-22 18:59"
+    },
+    {
       "id": 733,
       "titulo": "Fiscalía reactiva investigación contra Hollman Morris por presunto acoso sexual",
       "categoria": "abuso-poder",
