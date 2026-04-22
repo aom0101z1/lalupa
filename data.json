@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 730,
+      "titulo": "Salida irregular de sargento que denunció irregularidades en el Ejército",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-21",
+      "descripcion": "Un sargento del Ejército que denunció irregularidades dentro de la institución fue dado de baja. El suboficial afirma que destapó 'cochinadas' en la fuerza militar pero no instauró denuncias formales. Su salida genera cuestionamientos sobre represalias contra quienes denuncian irregularidades en las fuerzas militares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/lo-que-hay-detras-de-la-salida-de-un-sargento-del-ejercito-que-denuncio-irregularidades-dentro-de-la-institucion-3549696",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Sargento del Ejército (nombre no especificado)"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-22 01:29"
+    },
+    {
+      "id": 729,
+      "titulo": "Petro acusa de corrupción al poder judicial por liberación de Carlos Mattos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-21",
+      "descripcion": "El presidente Gustavo Petro calificó como 'corrupción del poder judicial' la decisión de la jueza Carmen Luisa Terán Suárez de otorgar libertad condicional al empresario Carlos Mattos, condenado por el escándalo de corrupción Hyundai. Esta declaración constituye una injerencia indebida del poder ejecutivo sobre las decisiones judiciales independientes.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-califica-como-corrupcion-del-poder-judicial-la-medida-de-libertad-del-empresario-carlos-mattos-3549752",
+          "fecha": "2026-04-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Carmen Luisa Terán Suárez",
+        "Carlos Mattos"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-22 01:29"
+    },
+    {
       "id": 728,
       "titulo": "Presunto espionaje de DNI contra candidato presidencial Abelardo de la Espriella",
       "categoria": "abuso-poder",
