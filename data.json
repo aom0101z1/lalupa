@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 741,
+      "titulo": "Gobierno desatiende alertas de Contraloría sobre traslado de $25 billones a Colpensiones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-23",
+      "descripcion": "La Contraloría General había alertado que los dineros de los fondos privados de pensiones, que son ahorros de los trabajadores, podrían utilizarse como 'gastos corrientes' una vez trasladados a Colpensiones. El gobierno Petro desatendió estas delicadas alertas al ordenar el traslado exprés de $25 billones mediante decreto.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/las-delicadas-alertas-que-desatendio-el-gobierno-petro-al-ordenar-el-traslado-de-25-billones-de-los-fondos-privados-a-colpensiones-3550277",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-23 18:56"
+    },
+    {
+      "id": 740,
+      "titulo": "Contraloría encuentra sobrecostos y fallas en megaproyecto deportivo de Tierralta por $21.709 millones",
+      "categoria": "contratos",
+      "fecha": "2026-04-23",
+      "descripcion": "La Contraloría determinó hallazgos fiscales por hasta $21.709 millones en la unidad recreo deportiva de Tierralta (Córdoba). Se encontraron sobrecostos, fallas estructurales y riesgos para los niños en este megaproyecto deportivo, evidenciando irregularidades en su ejecución y supervisión.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/sobrecostos-fallas-estructurales-y-riesgo-para-los-ninos-los-hallazgos-de-la-contraloria-en-megaproyecto-deportivo-de-tierralta-3550329",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Tierralta",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-23 18:56"
+    },
+    {
       "id": 739,
       "titulo": "Corte ratifica competencia del Congreso para investigar a Petro por violación de topes electorales",
       "categoria": "recursos-publicos",
