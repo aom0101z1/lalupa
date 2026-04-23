@@ -66,6 +66,79 @@
   ],
   "casos": [
     {
+      "id": 739,
+      "titulo": "Corte ratifica competencia del Congreso para investigar a Petro por violación de topes electorales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-22",
+      "descripcion": "La Corte Suprema confirmó que la Comisión de Acusaciones del Congreso es la única competente para investigar al presidente Petro por presunta violación de topes electorales. El CNE solo puede actuar sobre la campaña, que ya fue sancionada previamente. Esta decisión judicial consolida el proceso investigativo contra el mandatario en el legislativo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-ratifica-competencia-del-congreso-para-investigar-a-petro-por-topes/",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-23 07:22"
+    },
+    {
+      "id": 738,
+      "titulo": "Congreso cita a debate de control político por denuncias de irregularidades contra funcionarios del gobierno",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-22",
+      "descripcion": "La Comisión VI de la Cámara radicó un debate de control político para citar a Carlos Carrillo (director UNGRD) y Daniel Rojas (ministro de Educación) tras las graves denuncias de irregularidades realizadas por la exdirectora del Dapre Angie Rodríguez. El debate también incluirá el análisis del rol de Juliana Guerrero en las supuestas irregularidades denunciadas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/citan-a-debate-de-control-politico-a-carlos-carrillo-y-al-mineducacion-daniel-rojas-por-denuncias-de-irregularidades-y-rol-de-juliana-guerrero-3550026",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Carrillo",
+        "Daniel Rojas",
+        "Juliana Guerrero",
+        "Angie Rodríguez"
+      ],
+      "entidad": "UNGRD, Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-23 07:22"
+    },
+    {
+      "id": 737,
+      "titulo": "Angie Rodríguez denuncia amenazas de Juliana Guerrero relacionadas con el ELN",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-22",
+      "descripcion": "La exdirectora del Dapre Angie Rodríguez acusó a Juliana Guerrero de amedrentar diciendo que es amiga del ELN, lo cual habría ocurrido en presencia de testigos. Rodríguez mencionó que estas situaciones la dejaron en 'estado de pánico' durante 'misiones secretas'. Esta denuncia forma parte de un conjunto más amplio de acusaciones contra funcionarios del gobierno de Petro.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-exdapre-revelo-una-lucha-de-poder-en-el-gobierno-petro-y-aseguro-que-juliana-guerrero-amedrenta-diciendo-que-es-amiga-del-eln-3550052",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-23 07:22"
+    },
+    {
       "id": 736,
       "titulo": "Contrato irregular de $33 mil millones entregado por exfuncionarias de Gustavo Bolívar",
       "categoria": "contratos",
