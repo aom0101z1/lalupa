@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 736,
+      "titulo": "Contrato irregular de $33 mil millones entregado por exfuncionarias de Gustavo Bolívar",
+      "categoria": "contratos",
+      "fecha": "2026-04-22",
+      "descripcion": "Exfuncionarias del DPS firmaron en tiempo récord un convenio de $33 mil millones con Aremca, entidad investigada por la Fiscalía por ser un presunto 'contratadero'. El contrato de alimentación se firmó tras la renuncia de Gustavo Bolívar del ministerio.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/exfuncionarias-de-gustavo-bolivar-corrieron-para-entregar-33-mil-millones-a-un-contratadero/",
+          "fecha": "2026-04-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Bolívar"
+      ],
+      "entidad": "Departamento de Prosperidad Social (DPS)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-23 01:48"
+    },
+    {
       "id": 735,
       "titulo": "Petro amenaza con subir salario mínimo en represalia contra Banco de la República",
       "categoria": "abuso-poder",
