@@ -66,6 +66,100 @@
   ],
   "casos": [
     {
+      "id": 745,
+      "titulo": "Fiscalía acusa formalmente al excanciller Álvaro Leyva por caso pasaportes",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-23",
+      "descripcion": "La Fiscalía acusó formalmente ante la Corte Suprema al excanciller Álvaro Leyva por el caso pasaportes. Se le acusa de declarar desierta la licitación y terminar el contrato con Thomas Greg & Sons pese a advertencias técnicas. La Cancillería fue reconocida como víctima, señalando que la actuación de Leyva mancilló su imagen institucional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/fiscalia-acuso-formalmente-ante-la-corte-suprema-al-excanciller-alvaro-leyva-por-caso-pasaportes-3550382",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Álvaro Leyva"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-24 01:48"
+    },
+    {
+      "id": 744,
+      "titulo": "Informe desmiente declaraciones de Petro sobre avión Hércules obsoleto",
+      "categoria": "mentiras",
+      "fecha": "2026-04-23",
+      "descripcion": "El informe preliminar de la Fuerza Aeroespacial sobre la tragedia del Hércules en Puerto Leguízamo indica que fue causada por falla humana y descarta fallas previas de mantenimiento, desmintiendo las declaraciones del presidente Petro quien afirmó que el avión estaba obsoleto. La investigación apunta a que el impacto causó pérdida de potencia en dos motores.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/falla-humana-habria-causado-la-tragedia-del-hercules-en-puerto-leguizamo-el-informe-desmiente-al-presidente-petro-sobre-avion-obsoleto-3550411",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-24 01:48"
+    },
+    {
+      "id": 743,
+      "titulo": "Procuraduría investiga señalamientos de corrupción en el Fondo de Adaptación",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-23",
+      "descripcion": "La Procuraduría abrió indagación por señalamientos de Carlos Carrillo sobre supuesta corrupción en el Fondo de Adaptación. El director de la UNGRD denunció ante la Fiscalía que se habría presentado una 'coima' en el Fondo administrado por Angie Rodríguez. La denuncia incluye señalamientos contra una funcionaria del Fondo con chats y documentos como soporte.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abre-indagacion-por-senalamientos-de-carlos-carrillo-sobre-supuesta-corrupcion-en-el-fondo-de-adaptacion-3550446",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Carrillo",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Fondo de Adaptación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-24 01:48"
+    },
+    {
+      "id": 742,
+      "titulo": "Posible nombramiento de pareja del ministro Germán Ávila como gerente de Caja Honor",
+      "categoria": "nepotismo",
+      "fecha": "2026-04-23",
+      "descripcion": "María Eugenia Garzón, pareja del ministro de Hacienda Germán Ávila, aparece como aspirante en la página de la Presidencia para ser nombrada gerente de Caja Honor, entidad que administra billones de pesos en planes de vivienda para militares y policías. Su hoja de vida ya fue publicada como paso previo al nombramiento.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/maria-eugenia-garzon-pareja-del-ministro-german-avila-seria-nombrada-gerente-de-caja-honor-entidad-que-administra-billones-de-pesos-3550342",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [
+        "María Eugenia Garzón",
+        "Germán Ávila"
+      ],
+      "entidad": "Caja Honor",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-24 01:48"
+    },
+    {
       "id": 741,
       "titulo": "Gobierno desatiende alertas de Contraloría sobre traslado de $25 billones a Colpensiones",
       "categoria": "recursos-publicos",
