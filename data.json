@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 748,
+      "titulo": "Esposa del MinHacienda llegaría a gerencia de Caja Honor",
+      "categoria": "nepotismo",
+      "fecha": "2026-04-24",
+      "descripcion": "La hoja de vida de la esposa del Ministro de Hacienda Ricardo Bonilla ya fue publicada en la página de aspirantes de la Presidencia para ocupar un cargo en Caja Honor, entidad que maneja billones de pesos en el sector Defensa. Esto representa un claro caso de nepotismo al nombrar a la pareja de un funcionario de alto nivel.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-lupa-a-las-propuestas-de-los-candidatos/",
+          "fecha": "2026-04-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla"
+      ],
+      "entidad": "Caja Honor",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-24 13:00"
+    },
+    {
+      "id": 747,
+      "titulo": "CIDH advierte sobre parcialidad en medios públicos y RTVC",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-24",
+      "descripcion": "La Comisión Interamericana de Derechos Humanos advierte sobre falta de independencia editorial en los medios públicos colombianos, incluyendo RTVC, y señala fuertes ataques de funcionarios públicos contra periodistas. Este informe documenta problemas de parcialidad y uso indebido de medios estatales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/cidh-advierte-sobre-falta-de-independencia-editorial-en-los-medios-publicos-en-informe-de-libertad-de-prensa-sobre-colombia-3550526",
+          "fecha": "2026-04-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Radio Televisión Nacional de Colombia (RTVC)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-24 13:00"
+    },
+    {
       "id": 746,
       "titulo": "Esquema de seguridad irregular para Juliana Guerrero sin ser funcionaria pública",
       "categoria": "abuso-poder",
