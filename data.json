@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 746,
+      "titulo": "Esquema de seguridad irregular para Juliana Guerrero sin ser funcionaria pública",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-23",
+      "descripcion": "Augusto Rodríguez, director de la UNP, debe explicar el esquema de seguridad que tendría Juliana Guerrero pese a no ser funcionaria pública. Este caso genera controversia sobre el uso de recursos públicos para protección de personas sin cargo oficial, especialmente considerando las denuncias previas contra Guerrero por otros temas de corrupción.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/director-de-la-unp-augusto-rodriguez-explica-esquema-de-seguridad-de-juliana-guerrero-pese-a-no-ser-funcionaria-3550485",
+          "fecha": "2026-04-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero",
+        "Augusto Rodríguez"
+      ],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-24 07:48"
+    },
+    {
       "id": 745,
       "titulo": "Fiscalía acusa formalmente al excanciller Álvaro Leyva por caso pasaportes",
       "categoria": "corrupcion",
