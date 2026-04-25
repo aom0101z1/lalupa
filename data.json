@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 750,
+      "titulo": "Nueva purga militar: llaman a retiro a 17 oficiales del Ejército",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-24",
+      "descripcion": "El gobierno ordenó 'calificar servicios' a 17 oficiales del Ejército (5 coroneles y 12 tenientes coroneles), en lo que se describe como una nueva 'barrida' en la institución. Estos oficiales se suman a los 79 generales que han salido de la Fuerza Pública durante el actual gobierno. El patrón sistemático de remociones plantea interrogantes sobre los criterios utilizados y posible politización de las fuerzas militares.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/angie-rodriguez-amplio-en-la-fiscalia-su-denuncia-por-extorsion-dijo-que-la-grababan-en-reuniones-y-la-llamaban-a-intimidar-3550649",
+          "fecha": "2026-04-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-25 01:27"
+    },
+    {
+      "id": 749,
+      "titulo": "Petro ordena campaña publicitaria urgente para destacar logros gubernamentales en plena veda electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-24",
+      "descripcion": "El presidente Gustavo Petro ordenó una estrategia publicitaria 'exprés y urgente' para destacar los logros de su gobierno en los últimos cuatro años, haciendo uso incluso de espacios cívicos de la Comisión de Regulación de Comunicaciones (CRC). Esta orden se da en pleno período preelectoral, lo que podría constituir uso indebido de recursos públicos para fines de campaña política.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-ordena-estrategia-publicitaria-expres-y-urgente-para-destacar-logros-de-su-gobierno-en-los-ultimos-cuatro-anos-3550639",
+          "fecha": "2026-04-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-25 01:27"
+    },
+    {
       "id": 748,
       "titulo": "Esposa del MinHacienda llegaría a gerencia de Caja Honor",
       "categoria": "nepotismo",
