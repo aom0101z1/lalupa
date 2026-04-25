@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 753,
+      "titulo": "Retiro del general Olveiro Pérez por maltrato a soldados y uso indebido de escoltas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-25",
+      "descripcion": "El Ministerio de Defensa solicitó el retiro del general Olveiro Pérez tras denuncias de maltrato a soldados. El alto oficial habría ordenado a sus escoltas realizar tareas domésticas y otras actividades no relacionadas con su labor de seguridad, constituyendo un abuso de autoridad y uso indebido de recursos públicos destinados a la protección.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/juez-avala-eutanasia-de-hipopotamos-en-colombia-y-concluye-que-otras-alternativas-no-frenan-su-expansion-ni-el-impacto-ambiental-3550851",
+          "fecha": "2026-04-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Olveiro Pérez"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-25 18:37"
+    },
+    {
       "id": 752,
       "titulo": "Comité de Protección de Periodistas condena campaña gubernamental de desprestigio contra medios",
       "categoria": "abuso-poder",
