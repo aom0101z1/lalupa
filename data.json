@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 752,
+      "titulo": "Comité de Protección de Periodistas condena campaña gubernamental de desprestigio contra medios",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-24",
+      "descripcion": "El Comité de Protección de Periodistas condenó la campaña de desprestigio contra La Silla Vacía y otros medios críticos del gobierno. La organización cuestionó los ataques sistemáticos contra medios de comunicación que han sido críticos de quienes tienen poder y exhortó específicamente al gobierno de Petro a poner fin a esta retórica intimidatoria que afecta la libertad de prensa.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/exfarc-del-bloque-caribe-reconocieron-secuestros-y-asesinato-de-la-cacica/",
+          "fecha": "2026-04-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-25 07:03"
+    },
+    {
+      "id": 751,
+      "titulo": "Daniel Quintero oficializado como superintendente de Salud mediante decreto presidencial",
+      "categoria": "nepotismo",
+      "fecha": "2026-04-24",
+      "descripcion": "El presidente Gustavo Petro oficializó mediante decreto 0433 del 23 de abril el nombramiento del exalcalde de Medellín Daniel Quintero como nuevo superintendente de Salud, una de las superintendencias clave del país. Este nombramiento genera cuestionamientos sobre criterios de selección y posibles favoritismos políticos en cargos técnicos de alta responsabilidad en el sector salud.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/este-es-el-decreto-que-oficializa-el-nombramiento-de-daniel-quintero-como-nuevo-superintendente-de-salud-3550663",
+          "fecha": "2026-04-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Gustavo Petro"
+      ],
+      "entidad": "Supersalud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-25 07:03"
+    },
+    {
       "id": 750,
       "titulo": "Nueva purga militar: llaman a retiro a 17 oficiales del Ejército",
       "categoria": "abuso-poder",
