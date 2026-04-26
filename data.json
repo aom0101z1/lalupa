@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 754,
+      "titulo": "Investigación por mina ilegal extendida a base militar del Ejército",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-26",
+      "descripcion": "El MinDefensa ordenó investigaciones tras reportaje del Times que documentó cómo una mina ilegal avanzó hacia un Batallón del Ejército. El ministro prometió actuar con 'todo el peso de la ley' de existir vínculos entre personal militar y la actividad minera ilegal que se extendió hasta las instalaciones de la base militar.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mindefensa-ordeno-investigaciones-por-mina-ilegal-extendida-a-base-del-ejercito/",
+          "fecha": "2026-04-26"
+        }
+      ],
+      "personas_involucradas": [
+        "MinDefensa"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-26 18:37"
+    },
+    {
       "id": 753,
       "titulo": "Retiro del general Olveiro Pérez por maltrato a soldados y uso indebido de escoltas",
       "categoria": "abuso-poder",
