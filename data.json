@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 760,
+      "titulo": "Petro habría tenido agenda privada no informada en viaje oficial a Ecuador con posibles reuniones con delegados de alias Fito",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-27",
+      "descripcion": "Medio ecuatoriano revela que aunque el presidente Petro viajó oficialmente a Manta para una ceremonia, su verdadero objetivo habría sido una agenda privada no informada públicamente, que incluiría fiestas y reuniones con delegados del líder criminal alias Fito. Esto constituiría un uso irregular de recursos públicos para actividades no oficiales y falta de transparencia en agenda presidencial.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/medio-ecuatoriano-revela-detalles-del-viaje-del-presidente-gustavo-petro-a-manta-hablan-de-fiestas-y-reuniones-con-delegados-de-alias-fito-3551186",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-27 19:04"
+    },
+    {
       "id": 759,
       "titulo": "Privilegios irregulares para privados de la libertad en guarniciones militares",
       "categoria": "abuso-poder",
