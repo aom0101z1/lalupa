@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 757,
+      "titulo": "Politización de Ecopetrol con contrataciones irregulares en Cenit",
+      "categoria": "nepotismo",
+      "fecha": "2026-04-26",
+      "descripcion": "Jorge Dilson Murcia, excongresista de Cambio Radical y amigo del presidente de Ecopetrol Ricardo Roa, llegó como vicepresidente jurídico de Cenit y ha contratado a 'amigos', según él mismo admite. Esto evidencia un proceso de politización de Ecopetrol con nombramientos por amistad política en lugar de mérito técnico.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estas-son-las-identidades-de-12-de-las-19-victimas-del-atentado-en-cajibio-entre-ellas-una-lideresa-social-3550969",
+          "fecha": "2026-04-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Jorge Dilson Murcia"
+      ],
+      "entidad": "Ecopetrol - Cenit",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-27 08:05"
+    },
+    {
       "id": 756,
       "titulo": "Cuatro policías señalados de tortura para obtener información de caleta",
       "categoria": "abuso-poder",
