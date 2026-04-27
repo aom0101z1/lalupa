@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 759,
+      "titulo": "Privilegios irregulares para privados de la libertad en guarniciones militares",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-27",
+      "descripcion": "Se revelan denuncias sobre un portafolio de privilegios irregulares en la Escuela de Carabineros de Bogotá para privados de la libertad, incluyendo domicilios, mascotas, visitas sin control y hasta cobros por estos servicios especiales. Los privilegios representan un abuso del sistema penitenciario militar.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/domicilios-y-hasta-mascotas-asi-son-los-privilegios-y-los-cupos-a-la-carta-para-privados-de-la-libertad-en-guarniciones-militares-3551061",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Escuela de Carabineros de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-27 13:18"
+    },
+    {
+      "id": 758,
+      "titulo": "Abogado del alcalde de Villavicencio cobró más de $70 millones sin trabajar",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-27",
+      "descripcion": "Saul Villar Jiménez, contratista y asesor jurídico directo del alcalde Alexander Baquero Sanabria de Villavicencio, habría cobrado más de $70 millones de pesos sin realizar trabajo alguno, según expediente inédito en la Contraloría. El caso documenta posible malversación de recursos públicos municipales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/abogado-del-alcalde-de-villavicencio-habria-cobrado-mas-de-70-millones-sin-trabajar-inedito-expediente-en-la-contraloria-3551079",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Saul Villar Jiménez",
+        "Alexander Baquero Sanabria"
+      ],
+      "entidad": "Alcaldía de Villavicencio",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-27 13:18"
+    },
+    {
       "id": 757,
       "titulo": "Politización de Ecopetrol con contrataciones irregulares en Cenit",
       "categoria": "nepotismo",
