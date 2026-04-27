@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 756,
+      "titulo": "Cuatro policías señalados de tortura para obtener información de caleta",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-26",
+      "descripcion": "Cuatro uniformados de la Policía son señalados de torturar a un preso para obligarlo a revelar la ubicación de una caleta en Antioquia. Los policías habrían trasladado al hombre desde San Vicente Ferrer hasta una zona rural de La Ceja para que les mostrara el punto exacto donde se encontraba escondido material ilícito.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/senalan-a-cuatro-policias-de-torturar-a-un-preso-con-el-fin-de-que-entregara-ubicacion-de-una-caleta-en-antioquia-3551014",
+          "fecha": "2026-04-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-27 01:53"
+    },
+    {
+      "id": 755,
+      "titulo": "Fundación solicita recusación de Petro por caso Angie Rodríguez",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-04-26",
+      "descripcion": "La Fundación Dilo Colombia radicó un derecho de petición ante la Comisión Nacional de Moralización exigiendo la recusación del presidente Gustavo Petro tras las denuncias de presunta corrupción realizadas por Angie Rodríguez. La solicitud busca garantías de imparcialidad en las investigaciones dado el involucramiento directo del mandatario en las acusaciones.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/caso-angie-rodriguez-piden-recusar-al-presidente-gustavo-petro-tras-denuncias-de-presunta-corrupcion-3550973",
+          "fecha": "2026-04-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-27 01:53"
+    },
+    {
       "id": 754,
       "titulo": "Investigación por mina ilegal extendida a base militar del Ejército",
       "categoria": "corrupcion",
