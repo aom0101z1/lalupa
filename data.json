@@ -66,6 +66,97 @@
   ],
   "casos": [
     {
+      "id": 769,
+      "titulo": "Crisis presupuestal en sistema judicial por falta de recursos para defensores públicos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-27",
+      "descripcion": "El sistema judicial está en alerta por la falta de recursos para pagar a defensores públicos del país. La Corte Suprema está mediando ante el Ministerio de Hacienda para garantizar recursos que mantengan el número de abogados para quienes no pueden pagar abogados privados.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/informe-sistema-judicial-en-alerta-por-la-falta-de-recursos-para-pagar-a-defensores-publicos-del-pais-3551395",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-28 13:29"
+    },
+    {
+      "id": 768,
+      "titulo": "Expertos señalan vacíos en explicaciones de Petro sobre atentados",
+      "categoria": "mentiras",
+      "fecha": "2026-04-28",
+      "descripcion": "Expertos cuestionan las tesis del presidente Petro sobre las razones del atentado de 'Iván Mordisco' que mató a 20 campesinos en Cauca. El mandatario atribuye los hechos al tráfico de explosivos desde Ecuador, pero especialistas señalan que es un fenómeno histórico que su gobierno no ha logrado frenar.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-vacios-de-las-tesis-del-presidente-petro-sobre-las-razones-del-atentado-de-ivan-mordisco-que-mato-a-20-campesinos-en-cauca-3551447",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 13:29"
+    },
+    {
+      "id": 767,
+      "titulo": "Petro desafía orden judicial y dice no estar censurado tras sanción",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-27",
+      "descripcion": "El presidente Gustavo Petro se pronunció desafiando una orden judicial que lo sancionó y le ordenó retractarse por señalamientos contra Jaime Miguel González, exgerente de Coosalud, declarando que 'no está censurado' a pesar del fallo judicial en su contra.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-hablo-de-juez-que-lo-sanciono-tras-senalamientos-contra-jaime-miguel-gonzalez-exgerente-de-coosalud-no-estoy-censurado-3551418",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Jaime Miguel González"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-28 13:29"
+    },
+    {
+      "id": 766,
+      "titulo": "Fact checking revela afirmaciones falsas de Petro en alocución presidencial",
+      "categoria": "mentiras",
+      "fecha": "2026-04-28",
+      "descripcion": "Análisis de fact checking identifica múltiples afirmaciones polémicas y potencialmente falsas del presidente Gustavo Petro durante su alocución, incluyendo declaraciones sobre una supuesta 'Junta del Narcotráfico' detrás de atentados para favorecer a la extrema derecha y promesas sobre retiro de licencias a EPS.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/fact-checking-las-cinco-frases-mas-polemicas-del-presidente-gustavo-petro-en-alocucion-que-tan-ciertas-son-3551451",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 13:29"
+    },
+    {
       "id": 765,
       "titulo": "Petro ordena centralizar en él toda la vocería del gobierno mediante directiva",
       "categoria": "abuso-poder",
