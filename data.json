@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 771,
+      "titulo": "Medicina Legal contradice versión del presidente Petro sobre caso Kevin Acosta",
+      "categoria": "mentiras",
+      "fecha": "2026-04-28",
+      "descripcion": "Medicina Legal desmintió las declaraciones del presidente Petro sobre el caso del menor Kevin Acosta, quien murió por falta de medicamentos de Nueva EPS. El MinSalud incluso intentó mediante tutela obligar la entrega de la necropsia del niño, contradiciendo la versión oficial presidencial sobre los hechos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/otra-vez-cuidando-a-los-ricos-benedetti-sobre-freno-a-traslado-pensional/",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 19:20"
+    },
+    {
+      "id": 770,
+      "titulo": "Ministro de Educación omite actuar ante títulos irregulares de funcionario de Universidad San José",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-28",
+      "descripcion": "El Ministerio de Educación conocía errores en el nombramiento de Francisco Pareja, cofundador de la Universidad San José, quien habría recibido dos títulos irregulares 'exprés'. A pesar de conocer la situación, el ministro Daniel Rojas no habría tomado medidas correctivas, lo que ha llevado a que la congresista Jennifer Pedraza anuncie denuncias por omisión contra el ministro.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/congreso/por-titulos-expres-jennifer-pedraza-denunciara-a-cofundador-de-la-san-jose-y-por-omision-al-ministro-de-educacion-daniel-rojas-este-es-el-caso-3551529",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Rojas",
+        "Francisco Pareja",
+        "Jennifer Pedraza"
+      ],
+      "entidad": "Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 19:20"
+    },
+    {
       "id": 769,
       "titulo": "Crisis presupuestal en sistema judicial por falta de recursos para defensores públicos",
       "categoria": "recursos-publicos",
