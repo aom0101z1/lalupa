@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 765,
+      "titulo": "Petro ordena centralizar en él toda la vocería del gobierno mediante directiva",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-28",
+      "descripcion": "El presidente Petro emitió una directiva ordenando centralizar en él toda la vocería del gobierno. Los ministros y otros directivos del gobierno solo podrán dar declaraciones a medios de comunicación con su autorización previa. Esta medida se suma a la orden previa de aumentar la pauta publicitaria para promocionar los logros del mandato, generando cuestionamientos sobre control de la información gubernamental.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-27-de-abril-de-2026/",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-28 08:07"
+    },
+    {
+      "id": 764,
+      "titulo": "Dos funcionarios de la UNP destituidos e inhabilitados por acoso laboral en Santander",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-27",
+      "descripcion": "La Procuraduría sancionó con destitución e inhabilitación por 12 años a dos funcionarios de la Unidad Nacional de Protección (UNP) en Santander por acoso laboral. Los funcionarios crearon un ambiente hostil que constituyó violencia basada en género hacia una funcionaria de la misma entidad, configurando abuso de autoridad en el ejercicio de sus funciones.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/por-acoso-laboral-dos-funcionarios-de-la-unp-fueron-inhabilitados-y-destituidos-por-12-anos-en-santander-3551354",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 08:07"
+    },
+    {
+      "id": 763,
+      "titulo": "Procuraduría reitera alertas sobre riesgos del decreto de traslado de $25 billones a Colpensiones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-27",
+      "descripcion": "La Procuraduría insiste en señalar los riesgos del decreto del gobierno Petro que ordena el traslado de $25 billones desde fondos privados hacia Colpensiones. El organismo de control advierte que los recursos tienen protección reforzada y su movilidad debe priorizar el bienestar del usuario sobre la sostenibilidad del sistema, reiterando las alertas previamente emitidas sobre esta decisión gubernamental.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-reitera-los-riesgos-del-decreto-de-gobierno-petro-para-el-traslado-de-25-billones-de-los-fondos-privados-a-colpensiones-3551367",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-28 08:07"
+    },
+    {
       "id": 762,
       "titulo": "Consejo de Estado ordena transparencia en nombramientos del MinInterior",
       "categoria": "recursos-publicos",
