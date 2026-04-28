@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 762,
+      "titulo": "Consejo de Estado ordena transparencia en nombramientos del MinInterior",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-27",
+      "descripcion": "El Consejo de Estado ordenó al Ministerio del Interior de Armando Benedetti publicar todos sus actos de nombramiento en un plazo de seis meses. Durante el trámite se evidenció que en la página web del ministerio solo estaban disponibles algunos actos de 2025, incumpliendo con los principios de transparencia y acceso a la información pública sobre las designaciones oficiales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/consejo-de-estado-ordena-al-mininterior-de-armando-benedetti-publicar-todos-sus-actos-de-nombramiento-en-seis-meses-3551331",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 02:01"
+    },
+    {
+      "id": 761,
+      "titulo": "Petro centraliza comunicaciones del gobierno tras escándalos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-27",
+      "descripcion": "El presidente Gustavo Petro emitió una directiva centralizando las comunicaciones gubernamentales, ordenando que ministros y directivos solo puedan hablar a medios con su permiso previo. Esta medida se implementó tras el escándalo del caso Angie Rodríguez y otros episodios polémicos, restringiendo la libertad de expresión de funcionarios públicos y concentrando el control informativo en la Presidencia.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-centraliza-las-comunicaciones-de-su-gobierno-ministros-solo-podran-salir-a-medios-a-hablar-con-su-permiso-3551310",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-28 02:01"
+    },
+    {
       "id": 760,
       "titulo": "Petro habría tenido agenda privada no informada en viaje oficial a Ecuador con posibles reuniones con delegados de alias Fito",
       "categoria": "abuso-poder",
