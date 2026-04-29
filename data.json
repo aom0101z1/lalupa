@@ -66,6 +66,48 @@
   ],
   "casos": [
     {
+      "id": 773,
+      "titulo": "Unidad para las Víctimas incumple entrega de información sobre protección a víctimas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-28",
+      "descripcion": "Un Tribunal falló a favor de la Defensoría del Pueblo en tutela contra la Unidad para las Víctimas, ordenando entregar información sobre el plan administrativo y contractual para garantizar la entrega oportuna y continua de ayudas humanitarias en 2026. El caso evidencia fallas en la transparencia y gestión de recursos destinados a víctimas del conflicto armado.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/tribunal-falla-a-favor-de-la-defensoria-en-tutela-contra-la-unidad-para-las-victimas-y-ordena-entregar-informacion-sobre-proteccion-a-victimas-3551619",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad para las Víctimas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-29 02:02"
+    },
+    {
+      "id": 772,
+      "titulo": "ANLA obligada a publicar actas de nombramiento de funcionarios por orden judicial",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-28",
+      "descripcion": "El Tribunal de Cundinamarca ordenó a la Autoridad Nacional de Licencias Ambientales (ANLA) publicar las actas de nombramiento de sus funcionarios tras petición de la Fundación para el Estado de Derecho en el marco de la transparencia institucional. La decisión busca garantizar transparencia en los procesos de contratación y nombramientos en esta entidad del sector ambiental.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/por-orden-del-tribunal-de-cundinamarca-la-anla-tendra-que-publicar-las-actas-de-nombramiento-de-sus-funcionarios-3551683",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Autoridad Nacional de Licencias Ambientales (ANLA)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-29 02:02"
+    },
+    {
       "id": 771,
       "titulo": "Medicina Legal contradice versión del presidente Petro sobre caso Kevin Acosta",
       "categoria": "mentiras",
