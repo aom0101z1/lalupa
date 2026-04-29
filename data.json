@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 777,
+      "titulo": "Corte ratifica condena contra exmagistrado por recibir sobornos de $25.000 millones",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-28",
+      "descripcion": "La Corte dejó en firme la condena contra el exmagistrado Carlos Alberto Vargas Bautista por prevaricato por omisión y cohecho propio. El funcionario judicial favoreció una demanda por $25.000 millones de pesos a cambio de recibir sobornos, configurando un grave caso de corrupción en el sistema judicial.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/choque-entre-ivan-cepeda-y-paloma-valencia-por-la-paz-total-y-la-cifra-de-falsos-positivos-elevada-a-7-837-casos-3551629",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Alberto Vargas Bautista"
+      ],
+      "entidad": "Poder Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-29 13:23"
+    },
+    {
       "id": 776,
       "titulo": "Fiscalía solicita arresto de Nicolás Petro por desacato judicial",
       "categoria": "abuso-poder",
