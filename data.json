@@ -66,6 +66,72 @@
   ],
   "casos": [
     {
+      "id": 780,
+      "titulo": "Fallas en ayudas a población desplazada por parte de Unidad de Víctimas y MinHacienda",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-29",
+      "descripcion": "La Corte Constitucional llamó a rendir cuentas a la Unidad de Víctimas y al Ministerio de Hacienda por fallas en los giros de atención humanitaria a población desplazada. La Sala de Seguimiento pidió informes urgentes por problemas en la entrega de estas ayudas en 2026, evidenciando mal manejo de recursos destinados a víctimas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-llama-a-cuentas-a-la-unidad-de-victimas-y-minhacienda-por-fallas-en-ayudas-a-poblacion-desplazada-3551912",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad para las Víctimas",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-29 19:09"
+    },
+    {
+      "id": 779,
+      "titulo": "Contradicciones del gobierno sobre amenazas contra Paloma Valencia",
+      "categoria": "mentiras",
+      "fecha": "2026-04-29",
+      "descripcion": "El gobierno de Gustavo Petro presenta contradicciones sobre las supuestas amenazas contra la candidata presidencial Paloma Valencia. La candidata denunció un plan en su contra que habría sido alertado por el propio gobierno, pero el Ejecutivo posteriormente rechazó dichas versiones, generando inconsistencias en las versiones oficiales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-contradicciones-del-gobierno-de-gustavo-petro-sobre-las-amenazas-contra-paloma-valencia-que-responde-el-ministerio-de-defensa-3551749",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Paloma Valencia"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-29 19:09"
+    },
+    {
+      "id": 778,
+      "titulo": "Interrogantes sobre cadena de custodia y participación de IN Groupe en nuevo modelo de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-04-29",
+      "descripcion": "La Cancillería respondió a un derecho de petición sobre el nuevo modelo de pasaportes dejando varios interrogantes sin resolver sobre la cadena de custodia y la participación real de IN Groupe en el convenio. Tampoco habría plan alternativo si se tumba el convenio, generando dudas sobre la transparencia del proceso contractual.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/las-preguntas-sin-respuesta-alrededor-del-nuevo-modelo-de-pasaportes-que-se-sabe-de-la-cadena-de-custodia-y-la-participacion-real-de-in-groupe-3551789",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-29 19:09"
+    },
+    {
       "id": 777,
       "titulo": "Corte ratifica condena contra exmagistrado por recibir sobornos de $25.000 millones",
       "categoria": "corrupcion",
