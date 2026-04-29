@@ -66,6 +66,76 @@
   ],
   "casos": [
     {
+      "id": 776,
+      "titulo": "Fiscalía solicita arresto de Nicolás Petro por desacato judicial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-28",
+      "descripcion": "La Fiscalía General de la Nación solicitó una medida de arresto de hasta cinco días contra Nicolás Petro Burgos, hijo del presidente, por desacato judicial al no asistir de manera presencial a audiencias en el proceso de corrupción que se adelanta en su contra.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/sandra-ramirez-no-se-unio-a-campana-de-paloma-valencia-imagen-es-un-montaje/",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Petro Burgos",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-29 08:01"
+    },
+    {
+      "id": 775,
+      "titulo": "Petro ataca nuevamente a medio de comunicación por entrevista sobre matriz energética",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-29",
+      "descripcion": "El presidente Petro calificó como 'mentira' una entrevista publicada por La Silla Vacía sobre energías limpias, renovables y energía eléctrica realizada a un experto. Este constituye otro ataque presidencial contra medios de comunicación independientes.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-clave-de-este-28-de-abril-de-2026/",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-29 08:01"
+    },
+    {
+      "id": 774,
+      "titulo": "Petro niega reunión con 'Fito' y califica como 'estúpida' versión de inteligencia ecuatoriana",
+      "categoria": "mentiras",
+      "fecha": "2026-04-28",
+      "descripcion": "El presidente Gustavo Petro vuelve a negar haberse reunido con el criminal ecuatoriano 'Fito' durante su visita oficial a Manta, Ecuador. Califica como 'versión estúpida de la inteligencia ecuatoriana' las informaciones sobre esta supuesta reunión que ya había sido cuestionada anteriormente.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-niega-nuevamente-haberse-reunido-con-fito-version-estupida-de-la-inteligencia-ecuatoriana-3551663",
+          "fecha": "2026-04-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-29 08:01"
+    },
+    {
       "id": 773,
       "titulo": "Unidad para las Víctimas incumple entrega de información sobre protección a víctimas",
       "categoria": "recursos-publicos",
