@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 785,
+      "titulo": "Tribunal confirma prisión de exministro Luis Fernando Velasco por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-30",
+      "descripcion": "El Tribunal Superior de Bogotá confirmó la medida de aseguramiento en centro carcelario contra el exministro Luis Fernando Velasco por su vinculación al escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). La decisión ratifica la medida tomada el pasado 18 de diciembre contra el exfuncionario del gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/tribunal-superior-de-bogota-confirmo-la-media-de-aseguramiento-contra-el-exministro-luis-fernando-velasco-por-el-caso-de-la-ungrd-3552245",
+          "fecha": "2026-04-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Fernando Velasco"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-30 19:05"
+    },
+    {
       "id": 784,
       "titulo": "MinSalud desautoriza al INC tras suspensión irregular de servicios oncológicos",
       "categoria": "recursos-publicos",
