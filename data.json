@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 782,
+      "titulo": "Corte suspende impuesto al patrimonio de segunda emergencia económica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-29",
+      "descripcion": "La Corte Constitucional frenó el impuesto al patrimonio a entidades sin ánimo de lucro establecido en la segunda emergencia económica del gobierno Petro, marcando el primer revés judicial a esta medida. Las universidades quedaron cobijadas por esta suspensión provisional.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/primer-reves-al-gobierno-en-segunda-emergencia-corte-frena-impuesto-al-patrimonio-a-entidades-sin-animo-de-lucro-3552037",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-04-30 02:02"
+    },
+    {
+      "id": 781,
+      "titulo": "Petro rechaza sanción del CNE por violación de topes de campaña",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-29",
+      "descripcion": "El presidente Petro se pronunció contra la sanción impuesta por el CNE por violación de topes en su campaña presidencial de 2022, calificando los juicios administrativos como 'anticonstitucionales hechos por la oposición'. Esta respuesta evidencia un desafío a las decisiones del órgano electoral competente.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-se-pronuncia-por-sancion-a-su-campana-en-el-cne-no-aceptamos-juicios-administrativos-anticonstitucionales-hechos-por-la-oposicion-3551950",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-30 02:02"
+    },
+    {
       "id": 780,
       "titulo": "Fallas en ayudas a población desplazada por parte de Unidad de Víctimas y MinHacienda",
       "categoria": "recursos-publicos",
