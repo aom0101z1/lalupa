@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 784,
+      "titulo": "MinSalud desautoriza al INC tras suspensión irregular de servicios oncológicos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-04-29",
+      "descripcion": "El Ministerio de Salud desautorizó al Instituto Nacional de Cancerología (INC) tras la suspensión de servicios oncológicos críticos para pacientes. La cartera amenazó con presentar denuncia penal y queja disciplinaria contra los responsables de esta decisión que afecta directamente la atención en salud de pacientes con cáncer. El caso evidencia posible mal manejo administrativo en una institución clave del sistema de salud público.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/corporacion-excelencia-en-la-justicia-le-pide-cordura-institucional-al-presidente-petro-tras-caida-de-decreto-de-traslado-pensional-3551990",
+          "fecha": "2026-04-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Instituto Nacional de Cancerología (INC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-30 13:21"
+    },
+    {
+      "id": 783,
+      "titulo": "Polémica entre Petro y Barbosa por beneficio otorgado a 'Marlon', disidente responsable de ataque terrorista",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-30",
+      "descripcion": "Se reveló una polémica de 2023 entre el presidente Petro y el fiscal Barbosa por un beneficio otorgado a Iván Idrobo alias 'Marlon', cabecilla de la estructura 'Jaime Martínez'. Este disidente está ahora al mando del grupo responsable del ataque terrorista en Cajibío, Cauca, donde murieron 20 personas. El caso evidencia posibles fallas en la estrategia de paz total y beneficios otorgados a criminales que siguieron delinquiendo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-polemica-que-se-desato-en-2023-entre-petro-y-barbosa-por-beneficio-a-marlon-disidente-detras-de-oleada-violenta-en-el-cauca-3551703",
+          "fecha": "2026-04-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Francisco Barbosa",
+        "Iván Idrobo alias 'Marlon'"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-04-30 13:21"
+    },
+    {
       "id": 782,
       "titulo": "Corte suspende impuesto al patrimonio de segunda emergencia económica",
       "categoria": "abuso-poder",
