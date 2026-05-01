@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 789,
+      "titulo": "Fiscalía acusa oficialmente a exministros Bonilla y Velasco ante la Corte Suprema por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-04-30",
+      "descripcion": "La Fiscalía presentó acusación formal ante la Corte Suprema contra los exministros Bonilla y Luis Fernando Velasco por el escándalo de corrupción en la UNGRD. El Tribunal de Bogotá rechazó la apelación a la medida de aseguramiento contra Velasco, confirmando que continuará en prisión. Este caso forma parte del mayor escándalo de corrupción que ha salpicado al gobierno actual, involucrando el desvío de recursos destinados a la atención de emergencias.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/la-razon-por-la-que-la-actriz-yeimi-paola-vargas-gomez-habria-falsificado-documento-que-la-acreditaba-como-tecnica-laboral-en-actuacion-y-teatro-3552322",
+          "fecha": "2026-04-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Fernando Velasco",
+        "Iván Velásquez Gómez"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-01 08:02"
+    },
+    {
+      "id": 788,
+      "titulo": "Petro confirma reunión con abogado de 'Papá Pitufo' tras haberlo negado inicialmente",
+      "categoria": "mentiras",
+      "fecha": "2026-04-30",
+      "descripcion": "El abogado Gonzalo Boye confirmó que se reunió con el presidente Gustavo Petro en Bogotá para tratar el caso de Diego Marín Buitrago alias 'Papá Pitufo'. Inicialmente, el presidente había negado tener tratos con el abogado del llamado 'zar del contrabando', pero posteriormente confirmó el encuentro. Esta contradicción evidencia una falta de transparencia en las declaraciones presidenciales sobre reuniones relacionadas con casos judiciales de alto perfil.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/abogado-de-papa-pitufo-en-espana-confirma-que-si-se-reunio-con-el-presidente-gustavo-petro-fue-en-bogota-y-del-resto-no-puedo-hablar-3552371",
+          "fecha": "2026-04-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Gonzalo Boye",
+        "Diego Marín Buitrago"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-01 08:02"
+    },
+    {
       "id": 787,
       "titulo": "Interventor de Nueva EPS arrestado por desacato a tutela",
       "categoria": "abuso-poder",
