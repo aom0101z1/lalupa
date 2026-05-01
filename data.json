@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 787,
+      "titulo": "Interventor de Nueva EPS arrestado por desacato a tutela",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-30",
+      "descripcion": "Jorge Iván Ospina, interventor de la Nueva EPS, fue condenado a cinco días de arresto por desacato a tutela según orden del Juzgado 25 Penal con Funciones de Conocimiento de Bogotá. Adicionalmente, la Procuraduría investiga las circunstancias de su nombramiento. Este caso evidencia posibles irregularidades en el cumplimiento de órdenes judiciales por parte de un funcionario público de alto nivel en el sector salud.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/ordenan-cinco-dias-de-arresto-contra-jorge-ivan-ospina-interventor-de-la-nueva-eps-por-desacato-a-tutela-3552369",
+          "fecha": "2026-04-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Iván Ospina"
+      ],
+      "entidad": "Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-01 02:06"
+    },
+    {
+      "id": 786,
+      "titulo": "Petro pide donaciones para asamblea constituyente en plena época electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-04-30",
+      "descripcion": "El presidente Gustavo Petro realizó un llamado público a donar recursos para la campaña de recolección de firmas de la asamblea constituyente, lo cual ha generado polémica por darse en plena época electoral. Este llamado ha sido cuestionado y asumido como una campaña política alterna que podría constituir un uso indebido del poder presidencial para promover iniciativas políticas específicas durante el período electoral.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/polemica-por-el-llamado-del-presidente-gustavo-petro-a-donar-recursos-para-la-campana-de-recoleccion-de-firmas-de-la-asamblea-constituyente-3552233",
+          "fecha": "2026-04-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-01 02:06"
+    },
+    {
       "id": 785,
       "titulo": "Tribunal confirma prisión de exministro Luis Fernando Velasco por caso UNGRD",
       "categoria": "corrupcion",
