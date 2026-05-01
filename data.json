@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 790,
+      "titulo": "CNE abre indagación preliminar a campaña presidencial de Iván Cepeda por irregularidades de financiación",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-01",
+      "descripcion": "El Consejo Nacional Electoral (CNE) abrió una indagación preliminar contra la campaña del candidato presidencial Iván Cepeda por presuntas irregularidades en la financiación de su campaña en octubre de 2025. La solicitud fue presentada por el exconcejal Juan Martín Bravo y actualmente se encuentra en proceso de investigación.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-abrio-investigacion-preliminar-a-campana-del-candidato-presidencial-ivan-cepeda-por-presuntas-irregularidades-de-financiacion-en-octubre-de-3552400",
+          "fecha": "2026-05-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Juan Martín Bravo"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-01 12:56"
+    },
+    {
       "id": 789,
       "titulo": "Fiscalía acusa oficialmente a exministros Bonilla y Velasco ante la Corte Suprema por caso UNGRD",
       "categoria": "corrupcion",
