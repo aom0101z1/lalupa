@@ -66,6 +66,55 @@
   ],
   "casos": [
     {
+      "id": 792,
+      "titulo": "Mininterior Benedetti solicita pérdida de investidura de congresistas ausentes",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-02",
+      "descripcion": "El ministro del Interior Armando Benedetti solicitó tramitar listados de congresistas ausentes para evaluar posibles pérdidas de investidura. Esta iniciativa, respaldada por el presidente Petro, busca aplicar sanciones que van desde descuentos salariales hasta la pérdida de curul por falta de quorum en sesiones del Congreso. La medida surge ante la imposibilidad de sesionar por ausencia de congresistas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/mininterior-armando-benedetti-solicita-tramitar-listados-de-congresistas-ausentes-para-evaluar-posibles-perdidas-de-investidura-3552502",
+          "fecha": "2026-05-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-02 18:43"
+    },
+    {
+      "id": 791,
+      "titulo": "Petro ordena investigación del Fomag por presunto desvío de recursos en salud de profesores",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-02",
+      "descripcion": "El presidente Gustavo Petro ordenó al superintendente Daniel Quintero investigar el desvío de recursos en el Fondo Nacional de Prestaciones Sociales del Magisterio (Fomag), sistema de salud de los profesores. La orden fue dirigida a Liliana Gracia, directora de Inspección y Vigilancia para Entidades de Aseguramiento en Salud, para investigar presuntas irregularidades en el manejo de recursos públicos destinados a la salud docente.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/rodee-a-los-suyos-no-a-los-oportunistas-carlos-carrillo-le-responde-al-presidente-petro-ante-orden-a-daniel-quintero-de-investigar-el-fomag-3552600",
+          "fecha": "2026-05-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Daniel Quintero",
+        "Liliana Gracia"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-02 18:43"
+    },
+    {
       "id": 790,
       "titulo": "CNE abre indagación preliminar a campaña presidencial de Iván Cepeda por irregularidades de financiación",
       "categoria": "corrupcion",
