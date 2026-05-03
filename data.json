@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 794,
+      "titulo": "Alcaldía de Medellín presenta recusación contra Daniel Quintero por conflicto de intereses",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-05-02",
+      "descripcion": "La Alcaldía de Medellín presentó recusación contra Daniel Quintero, actual superintendente de Salud, argumentando que su paso como alcalde de Medellín entre 2020 y 2023 compromete su imparcialidad para tomar decisiones que afecten a la ciudad. Esto plantea serios cuestionamientos sobre conflictos de interés en su actual cargo.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/opinion/segun-las-encuestas-asi-va-la-carrera-presidencial/",
+          "fecha": "2026-05-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-03 01:56"
+    },
+    {
+      "id": 793,
+      "titulo": "Más de 200 figuras públicas rechazan uso de canales públicos para atacar medios de comunicación",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-02",
+      "descripcion": "Más de 200 académicos, periodistas y políticos firman carta rechazando el uso de canales públicos para atacar medios de comunicación, específicamente cuestionando los ataques hechos a La Silla Vacía y llamando la atención sobre el manejo inadecuado de los canales públicos por parte del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/mas-de-200-academicos-periodistas-y-politicos-firman-carta-en-la-que-rechazan-uso-de-canales-publicos-para-atacar-a-medios-de-comunicacion-3552614",
+          "fecha": "2026-05-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-03 01:56"
+    },
+    {
       "id": 792,
       "titulo": "Mininterior Benedetti solicita pérdida de investidura de congresistas ausentes",
       "categoria": "abuso-poder",
