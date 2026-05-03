@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 795,
+      "titulo": "Contratación directa millonaria con el CRIC bajo gobierno de Petro",
+      "categoria": "contratos",
+      "fecha": "2026-05-02",
+      "descripcion": "El Consejo Regional Indígena del Cauca (CRIC) ha recibido 300 mil millones de pesos en contratación directa durante el gobierno de Petro para implementar sistemas propios de Educación y Salud. La inversión más visible ha sido la masiva contratación de personal, lo que genera interrogantes sobre los procesos de selección y la transparencia en el uso de estos recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/pelotones-de-caballeria-liviana-y-vehiculos-tacticos-entre-la-nueva-ofensiva-de-seguridad-en-la-orinoquia-3552595",
+          "fecha": "2026-05-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Consejo Regional Indígena del Cauca (CRIC)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-03 07:48"
+    },
+    {
       "id": 794,
       "titulo": "Alcaldía de Medellín presenta recusación contra Daniel Quintero por conflicto de intereses",
       "categoria": "conflicto-interes",
