@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 797,
+      "titulo": "Plan presidencial de compra estatal de oro en duda por empresas del gobierno en quiebra",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-03",
+      "descripcion": "Las empresas exportadoras que están en custodia del SAE y pasaron al Minminas no tienen capacidad financiera para cumplir la instrucción presidencial de comprar oro extraído por barequeros. Las empresas estatales destinadas a ejecutar este plan están al borde de la quiebra, poniendo en duda la viabilidad de la política pública y el uso eficiente de recursos públicos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/asesinan-a-guillermo-perez-lider-comunal-recien-elegido-en-puerto-wilches-ya-son-52-lideres-sociales-asesinados-en-colombia-en-3552669",
+          "fecha": "2026-05-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-03 12:47"
+    },
+    {
+      "id": 796,
+      "titulo": "Director de UNGRD protagoniza choque con jefe de Comunicaciones por no obedecer directivas presidenciales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-03",
+      "descripcion": "Carlos Carrillo, director de la UNGRD, fue cuestionado por Andrés Hernández, jefe de Comunicaciones Estratégicas del presidente, por no obedecer la directiva presidencial sobre lineamientos de vocerías en el caso Daniel Quintero. Este incidente evidencia problemas de coordinación y acatamiento de órdenes dentro del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/carlos-carrillo-director-de-la-ungrd-protagoniza-nuevo-choque-con-jefe-de-comunicaciones-estrategicas-del-presidente-por-caso-daniel-quintero-3552671",
+          "fecha": "2026-05-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Carrillo",
+        "Andrés Hernández"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-03 12:47"
+    },
+    {
       "id": 795,
       "titulo": "Contratación directa millonaria con el CRIC bajo gobierno de Petro",
       "categoria": "contratos",
