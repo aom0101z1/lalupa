@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 802,
+      "titulo": "Consejo de Estado ratifica nombramiento de Armando Benedetti como ministro del Interior",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-04",
+      "descripcion": "El Consejo de Estado dejó en firme el nombramiento de Armando Benedetti como ministro del Interior, rechazando una demanda de nulidad. El alto tribunal determinó que los argumentos de la demanda no cumplían con las causales legales necesarias para anular el nombramiento. Este fallo cierra las controversias legales sobre la designación de Benedetti en el cargo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-dejo-en-firme-el-nombramiento-de-armando-benedetti-como-ministro-del-interior-3552882",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-05-04 19:14"
+    },
+    {
+      "id": 801,
+      "titulo": "Centro Democrático demanda nulidad del nombramiento de Daniel Quintero como Superintendente de Salud",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-04",
+      "descripcion": "El congresista del Centro Democrático Andrés Forero presentó una demanda de nulidad contra el nombramiento de Daniel Quintero como Superintendente de Salud, argumentando que no cumple con los requisitos legales para el cargo. Este caso se suma a las controversias previas sobre el nombramiento de Quintero y los conflictos de interés señalados por la Alcaldía de Medellín.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/buscan-anular-el-nombramiento-de-daniel-quintero-como-superintendente-de-salud-no-cumpliria-requisitos-3552860",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero",
+        "Andrés Forero"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-04 19:14"
+    },
+    {
       "id": 800,
       "titulo": "Cuestionable retiro masivo de 49 oficiales del Ejército en tres meses",
       "categoria": "abuso-poder",
