@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 798,
+      "titulo": "Petro vincula contrato de pasaportes con garantías electorales de 2026",
+      "categoria": "contratos",
+      "fecha": "2026-05-03",
+      "descripcion": "El presidente Gustavo Petro vinculó el controvertido contrato de pasaportes por $1,3 billones con las garantías para las elecciones de 2026. El contrato presenta dudas sobre la cadena de custodia y el origen de los documentos, generando interrogantes sobre la transparencia del proceso de adjudicación y su posible uso con fines electorales.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/el-presidente-gustavo-petro-vincula-contrato-de-pasaportes-con-garantias-para-las-elecciones-de-3552713",
+          "fecha": "2026-05-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-04 01:57"
+    },
+    {
       "id": 797,
       "titulo": "Plan presidencial de compra estatal de oro en duda por empresas del gobierno en quiebra",
       "categoria": "recursos-publicos",
