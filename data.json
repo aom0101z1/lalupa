@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 800,
+      "titulo": "Cuestionable retiro masivo de 49 oficiales del Ejército en tres meses",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-04",
+      "descripcion": "El Ejército Nacional retiró 49 oficiales en menos de tres meses mediante cinco resoluciones que generan interrogantes sobre las fechas, juntas asesoras y trámites utilizados. La 'barrida' masiva de oficiales plantea dudas sobre los procedimientos seguidos y las verdaderas razones detrás de estos retiros acelerados.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/atencion-investigacion-por-parranda-vallenata-de-nelson-velasquez-en-la-carcel-de-itaguei-ahora-apunta-al-director-edgar-ivan-perez-3552832",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-04 13:22"
+    },
+    {
+      "id": 799,
+      "titulo": "Procuraduría llama a juicio a exfuncionarios de UNGRD por contrato irregular con Alfredo Saade",
+      "categoria": "contratos",
+      "fecha": "2026-05-04",
+      "descripcion": "La Procuraduría General llamó a juicio disciplinario a altos exfuncionarios de la UNGRD por supuestas irregularidades en un contrato otorgado al pastor Alfredo Saade. La medida incluye a un exdirectivo mencionado en el entramado corrupto revelado por Olmedo López. Se desconoce si el pastor también es investigado en este proceso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/capturan-en-bogota-a-alias-alex-enlace-del-cartel-de-sinaloa-pedido-en-extradicion-por-ee-uu-3552845",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Alfredo Saade",
+        "Olmedo López"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-04 13:22"
+    },
+    {
       "id": 798,
       "titulo": "Petro vincula contrato de pasaportes con garantías electorales de 2026",
       "categoria": "contratos",
