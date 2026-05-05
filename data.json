@@ -66,6 +66,72 @@
   ],
   "casos": [
     {
+      "id": 807,
+      "titulo": "Procuraduría solicita investigación a Aeronáutica Civil por inconsistencias en equipos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-04",
+      "descripcion": "La Procuraduría solicitó investigación a la Aeronáutica Civil tras revelar informe detallado que señala inconsistencias en el estado de los equipos. La alarma se encendió después de que un avión de Latam abortara el despegue por cruce de un helicóptero de la Fuerza Aérea en el Aeropuerto El Dorado, evidenciando fallas en los protocolos de seguridad aérea.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-revelo-informe-detallado-de-las-acciones-de-la-aerocivil-en-sus-operaciones-aereas-pidio-investigar-la-entidad-3553097",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aeronáutica Civil",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 07:54"
+    },
+    {
+      "id": 806,
+      "titulo": "Denuncia ante CIDH contra Petro y Jaramillo por muerte de menor con hemofilia",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-04",
+      "descripcion": "Se presentó denuncia ante la Comisión Interamericana de Derechos Humanos contra el presidente Petro y el ministro Jaramillo por la muerte de Kevin Acosta, quien no recibió medicamentos ni tratamientos para hemofilia. El documento sostiene que las decisiones del gobierno en el sistema de salud han provocado un grave deterioro en la atención médica.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/denuncian-ante-cidh-al-presidente-petro-y-al-ministro-jaramillo-por-muerte-de-kevin-acosta-tras-no-recibir-medicamentos-ni-tratamientos-para-hemofilia-3553013",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Guillermo Alfonso Jaramillo"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 07:54"
+    },
+    {
+      "id": 805,
+      "titulo": "Thomas Greg & Sons continúa personalizando pasaportes tras vencimiento de contrato",
+      "categoria": "contratos",
+      "fecha": "2026-05-04",
+      "descripcion": "Pese a que el contrato con Thomas Greg & Sons venció el 30 de abril de 2026, la empresa continuará personalizando libretas de pasaportes en stock según un acuerdo alcanzado durante la liquidación del contrato. Esta situación genera interrogantes sobre la continuidad operativa y los términos de la transición hacia el nuevo modelo de pasaportes con IN Groupe.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/pasaportes-por-que-thomas-greg-personalizara-libretas-en-stock-pese-a-que-termino-el-contrato-3553027",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-05 07:54"
+    },
+    {
       "id": 804,
       "titulo": "Martha Peralta señalada como articuladora del entramado de cupos indicativos en UNGRD",
       "categoria": "corrupcion",
