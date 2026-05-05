@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 804,
+      "titulo": "Martha Peralta señalada como articuladora del entramado de cupos indicativos en UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-04",
+      "descripcion": "Los señalamientos de la Fiscalía ubican a la senadora Martha Peralta del Mais como articuladora del entramado de cupos indicativos en la UNGRD. Peralta fue la candidata más votada de la circunscripción indígena al Senado en las recientes elecciones, obteniendo 61.098 votos, lo que añade relevancia política al caso.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/los-senalamientos-de-la-fiscalia-en-el-expediente-contra-martha-peralta-la-ubican-como-articuladora-del-entramado-de-cupos-indicativos-en-la-ungrd-3553004",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta"
+      ],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 01:58"
+    },
+    {
+      "id": 803,
+      "titulo": "Corte condena a Wilmer Carrillo por contrato irregular como secretario de Norte de Santander",
+      "categoria": "contratos",
+      "fecha": "2026-05-04",
+      "descripcion": "La Corte condenó al cacique político Wilmer Carrillo a más de 8 años de cárcel por firmar un convenio de obra sin cumplir los requisitos legales cuando se desempeñaba como secretario en Norte de Santander. Fue absuelto por el delito de peculado, pero la condena evidencia irregularidades en la contratación pública.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-condena-al-cacique-politico-wilmer-carrillo-por-contrato-irregular-cuando-fue-secretario-de-norte-de-santander-3553087",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Wilmer Carrillo"
+      ],
+      "entidad": "Secretaría de Norte de Santander",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 01:58"
+    },
+    {
       "id": 802,
       "titulo": "Consejo de Estado ratifica nombramiento de Armando Benedetti como ministro del Interior",
       "categoria": "abuso-poder",
