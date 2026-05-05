@@ -66,6 +66,114 @@
   ],
   "casos": [
     {
+      "id": 815,
+      "titulo": "GAD3 suspende publicación de encuestas por ley 'mordaza'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-05",
+      "descripcion": "La encuestadora española GAD3 suspendió la publicación de encuestas en Colombia por la interpretación que hace la Comisión Técnica del CNE a la nueva normativa de encuestas, calificándola como 'ley mordaza' que hace inviable seguir publicando mediciones. Esto afecta la transparencia electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/por-deudas-liga-contra-el-cancer-y-medical-suspenden-servicios-en-bogota/",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-05 19:05"
+    },
+    {
+      "id": 814,
+      "titulo": "Liga Contra el Cáncer y Medical suspenden servicios por deudas millonarias",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-05",
+      "descripcion": "La Liga Contra el Cáncer suspendió servicios en Bogotá por deudas de Famisanar y Sanitas de 4 mil millones. Medical cerró cuatro sedes por deudas de unos 300 mil millones. Esta crisis evidencia el colapso del sistema de salud por falta de pagos oportunos de las EPS.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/sigue-silencio-de-cepeda-sobre-nombramiento-de-quintero-en-supersalud/",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sistema de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 19:05"
+    },
+    {
+      "id": 813,
+      "titulo": "Gobierno envía súplica por suspensión de traslado de ahorro pensional",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-05",
+      "descripcion": "El gobierno envió una súplica al Consejo de Estado argumentando que suspendió el traslado de ahorro pensional sin escuchar a las entidades. La situación es crítica pues ya se están pagando pensiones mientras los recursos siguen en fondos privados, evidenciando un manejo irregular de los recursos pensionales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/quien-enuncia-el-poder-de-las-mujeres-negras/",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 19:05"
+    },
+    {
+      "id": 812,
+      "titulo": "Renuncia del fiscal Mario Burgos que investigó caso Nicolás Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-05",
+      "descripcion": "El fiscal Mario Burgos, quien adelantó casos como el de Nicolás Petro, Jhonier Leal y Marcelo Pecci, renunció de manera irrevocable a la Fiscalía. En su carta a la fiscal general Luz Adriana Camargo pidió medidas que garanticen su integridad, sugiriendo posibles presiones o amenazas relacionadas con su trabajo investigativo.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/detalles-del-fallo-que-obliga-a-la-ani-a-pagar-3-billones-a-ruta-al-mar-por-incumplimientos-en-concesion-de-500-km-3553156",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Mario Burgos",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 19:05"
+    },
+    {
+      "id": 811,
+      "titulo": "ANI condenada a pagar 3 billones a Ruta al Mar por incumplimientos",
+      "categoria": "contratos",
+      "fecha": "2026-05-05",
+      "descripcion": "Un tribunal arbitral condenó a la Agencia Nacional de Infraestructura (ANI) a pagar 3 billones de pesos a Ruta al Mar por incumplimientos contractuales, incluyendo el congelamiento de peajes. Esta suma representa una de las más altas en este tipo de litigios contractuales, evidenciando graves fallas en el manejo de la concesión vial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-perfil-criminal-de-alias-mono-el-hombre-capturado-y-senalado-de-financiar-las-disidencias-de-ivan-mordisco-en-cauca-3553250",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-05 19:05"
+    },
+    {
       "id": 810,
       "titulo": "Anulación de elección de Jorge Carrillo como presidente de ISA por decisión del Consejo de Estado",
       "categoria": "contratos",
