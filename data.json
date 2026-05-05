@@ -66,6 +66,74 @@
   ],
   "casos": [
     {
+      "id": 810,
+      "titulo": "Anulación de elección de Jorge Carrillo como presidente de ISA por decisión del Consejo de Estado",
+      "categoria": "contratos",
+      "fecha": "2026-05-04",
+      "descripcion": "El Consejo de Estado anuló la elección de Jorge Carrillo como presidente de Interconexión Eléctrica S.A. (ISA), empresa estatal del sector energético. Como consecuencia de esta decisión judicial, Olga Castaño asumió la presidencia encargada de la compañía. La anulación sugiere irregularidades en el proceso de nombramiento.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/barrida-de-49-oficiales-del-ejercito-en-menos-de-3-meses-prende-alertas-que-hay-detras-3553074",
+          "fecha": "2026-05-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Carrillo",
+        "Olga Castaño"
+      ],
+      "entidad": "Interconexión Eléctrica S.A. (ISA)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-05 13:14"
+    },
+    {
+      "id": 809,
+      "titulo": "Contraloría emite advertencia especial contra MinAgricultura por irregularidades en Zonas de Protección Alimentaria",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-05",
+      "descripcion": "La Contraloría General de la República emitió una advertencia especial contra el Ministerio de Agricultura relacionada con las Zonas de Protección para la Producción de Alimentos y otros mecanismos. Esta advertencia indica posibles irregularidades en el manejo de recursos públicos destinados a programas alimentarios y de protección agrícola.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/contraloria-emite-una-advertencia-especial-contra-el-ministerio-de-agricultura-estos-son-los-detalles-3553124",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura y Desarrollo Rural",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-05 13:14"
+    },
+    {
+      "id": 808,
+      "titulo": "Petro exagera cifras de colombianos en guerra de Ucrania contradiciendo informes oficiales",
+      "categoria": "mentiras",
+      "fecha": "2026-05-05",
+      "descripcion": "El presidente Gustavo Petro afirmó que 7.000 colombianos estarían involucrados en la guerra de Ucrania, pero los informes oficiales hablan de entre 2.000 y 3.000 combatientes, mientras la Cancillería reporta únicamente 438 desaparecidos. Esta discrepancia entre las cifras presidenciales y los datos oficiales constituye información incorrecta proporcionada por el mandatario.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-senala-que-son-7-000-los-colombianos-que-estarian-involucrados-en-guerra-de-ucrania-3553098",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-05 13:14"
+    },
+    {
       "id": 807,
       "titulo": "Procuraduría solicita investigación a Aeronáutica Civil por inconsistencias en equipos",
       "categoria": "recursos-publicos",
