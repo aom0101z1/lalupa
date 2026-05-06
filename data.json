@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 819,
+      "titulo": "Corte ordena a Petro retractarse por llamar 'muñecas de la mafia' a periodistas sin cumplir orden judicial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-06",
+      "descripcion": "La Corte Constitucional dio a conocer una sentencia de octubre pasado que ordena al presidente Gustavo Petro retractarse por llamar 'muñecas de la mafia' a periodistas. A pesar de que han transcurrido seis meses desde el fallo, el presidente no ha cumplido con la orden judicial de retractación.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/las-consideraciones-mas-contundentes-de-la-corte-constitucional-para-ordenarle-a-petro-a-retractarse-por-llamar-munecas-de-la-mafia-a-periodistas-3553454",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-06 13:29"
+    },
+    {
       "id": 818,
       "titulo": "Procuraduría investiga a ministro Benedetti por insultos contra magistrada Lombana",
       "categoria": "abuso-poder",
