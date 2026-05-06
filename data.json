@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 818,
+      "titulo": "Procuraduría investiga a ministro Benedetti por insultos contra magistrada Lombana",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-05",
+      "descripcion": "La Procuraduría inició investigación contra el ministro del Interior Armando Benedetti tras una compulsa de copias del Consejo de Estado por insultos contra la magistrada Cristina Lombana, a quien llamó 'loca y delincuente'. El Ministerio Público citará a la magistrada para escuchar su versión de los hechos. Este caso representa un posible abuso de poder y falta de respeto institucional por parte del funcionario hacia una autoridad judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-escuchara-a-magistrada-cristina-lombana-por-caso-de-insultos-del-ministro-armando-benedetti-3553408",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Cristina Lombana"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-06 08:08"
+    },
+    {
       "id": 817,
       "titulo": "Red de fraude a subsidios estatales mediante suplantación de identidad en Pereira",
       "categoria": "recursos-publicos",
