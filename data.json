@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 817,
+      "titulo": "Red de fraude a subsidios estatales mediante suplantación de identidad en Pereira",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-05",
+      "descripcion": "La Policía capturó en flagrancia a una mujer que utilizaba nueve identidades falsas para suplantar beneficiarios de subsidios estatales y reclamar hasta 500.000 pesos por cada identidad falsa. El esquema fraudulento permitía el robo sistemático de recursos públicos destinados a programas sociales mediante la suplantación de múltiples beneficiarios.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nueve-identidades-falsas-y-un-mismo-rostro-asi-delinquia-presunta-red-de-fraude-a-subsidios-en-pereira-3553280",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Mujer capturada (nombre no revelado)"
+      ],
+      "entidad": "Programas de subsidios estatales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-06 01:57"
+    },
+    {
+      "id": 816,
+      "titulo": "Red de policías colombianos negociaba con Clan del Golfo para tráfico de drogas según investigación de DEA",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-05",
+      "descripcion": "La DEA habría descubierto una red de oficiales de la Policía Nacional que realizaban negociaciones con el Clan del Golfo para traficar drogas. Las investigaciones incluyen grabaciones de conversaciones y documentos judiciales que involucran a varios uniformados de la institución en actividades de narcotráfico junto con esta estructura criminal.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-dea-habria-descubierto-red-de-policias-colombianos-que-hacian-negociaciones-con-el-clan-del-golfo-para-traficar-droga-detalles-de-investigacion-3553362",
+          "fecha": "2026-05-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Oficiales de Policía (nombres no revelados)"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-06 01:57"
+    },
+    {
       "id": 815,
       "titulo": "GAD3 suspende publicación de encuestas por ley 'mordaza'",
       "categoria": "abuso-poder",
