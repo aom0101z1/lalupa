@@ -66,6 +66,75 @@
   ],
   "casos": [
     {
+      "id": 822,
+      "titulo": "Renuncia de subgerente del Fondo de Adaptación por roces con Angie Rodríguez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-06",
+      "descripcion": "El subgerente del Fondo de Adaptación renunció alegando 'dificultades ajenas' a su cargo, tras roces con Angie Rodríguez, quien cambió la estructura de la entidad dejándolo con pocas funciones. El caso sugiere posible uso indebido del poder administrativo para marginalizar funcionarios y reestructurar entidades sin justificación técnica clara.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/por-roces-con-angie-rodriguez-se-va-subgerente-del-fondo-de-adaptacion/",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez"
+      ],
+      "entidad": "Fondo de Adaptación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-06 19:23"
+    },
+    {
+      "id": 821,
+      "titulo": "Sandra Ortiz denuncia presiones de la Fiscalía para declarar contra ministros en caso UNGRD",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-06",
+      "descripcion": "La exconsejera para las Regiones Sandra Ortiz, procesada por lavado de activos y tráfico de influencias en el escándalo de corrupción de la UNGRD, denunció que la Fiscalía la presionó para que declarara contra ministros del gobierno Petro. Esta acusación sugiere posibles irregularidades en el proceso investigativo y presiones indebidas en el sistema judicial.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/sandra-ortiz-aseguro-que-la-fiscalia-la-presiono-para-que-declarara-contra-ministros-del-gobierno-petro-en-el-escandalo-de-corrupcion-de-la-ungrd-3553536",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-06 19:23"
+    },
+    {
+      "id": 820,
+      "titulo": "Corte Constitucional tumba decreto del aporte solidario de energía de primera emergencia económica",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-06",
+      "descripcion": "La Corte Constitucional declaró por unanimidad (8-0) la inconstitucionalidad del decreto del 'aporte solidario de energía' expedido durante la primera emergencia económica del gobierno Petro. La decisión unánime sugiere graves irregularidades jurídicas en la formulación del decreto, evidenciando posible extralimitación de funciones en el uso de las facultades de emergencia económica.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-tumba-decreto-del-aporte-solidario-de-energia-expedido-en-la-primera-emergencia-economica-3553606",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-06 19:23"
+    },
+    {
       "id": 819,
       "titulo": "Corte ordena a Petro retractarse por llamar 'muñecas de la mafia' a periodistas sin cumplir orden judicial",
       "categoria": "abuso-poder",
