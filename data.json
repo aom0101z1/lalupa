@@ -66,6 +66,100 @@
   ],
   "casos": [
     {
+      "id": 831,
+      "titulo": "Paloma Valencia difunde información engañosa sobre posición de Abelardo de la Espriella",
+      "categoria": "mentiras",
+      "fecha": "2026-05-07",
+      "descripcion": "La candidata presidencial Paloma Valencia difundió información falsa sobre el apoyo de Abelardo de la Espriella al plebiscito por la paz. Según La Silla Vacía, Valencia afirmó que De la Espriella votó por el 'Sí', cuando en realidad votó por el 'No'. Se utilizó un video editado para manipular la información y engañar al electorado.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/rechazada-segunda-demanda-contra-recoleccion-de-firmas-para-constituyente/",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Campaña presidencial",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-07 19:26"
+    },
+    {
+      "id": 830,
+      "titulo": "Denuncia por cobro de coimas del 10% en contratos del Fondo de Adaptación",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-07",
+      "descripcion": "Carlos Carrillo ratificó ante la Procuraduría una denuncia por presunto cobro de coimas del 10% sobre la ejecución de contratos en el Fondo de Adaptación. La denuncia específicamente se refiere a un contrato por $13.597 millones para obras hidráulicas del río Cauca en La Mojana. Este caso amplía las denuncias de corrupción ya conocidas en esta entidad.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/jueza-absuelve-al-exembajador-fernando-sanclemente-en-el-caso-de-la-narcofinca-3553839",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Carrillo"
+      ],
+      "entidad": "Fondo de Adaptación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-07 19:26"
+    },
+    {
+      "id": 829,
+      "titulo": "Captura del alcalde de Villa de Leyva por delitos no especificados",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-07",
+      "descripcion": "Víctor Gamboa, alcalde de Villa de Leyva, fue capturado por agentes del CTI de la Fiscalía cuando llegaba a su despacho. Fue abordado al bajarse de su camioneta y trasladado al búnker en Bogotá. El artículo menciona que existe un delito específico pero no lo detalla completamente.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/nueva-polemica-en-la-jurisdiccion-agraria-tiene-frenado-el-proyecto-y-pone-en-riesgo-el-ultimatum-de-la-corte-3553890",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Víctor Gamboa"
+      ],
+      "entidad": "Alcaldía de Villa de Leyva",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-07 19:26"
+    },
+    {
+      "id": 828,
+      "titulo": "Contralor denuncia uso político de recursos públicos por parte del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-07",
+      "descripcion": "El Contralor Carlos H. Rodríguez cuestionó al gobierno de Gustavo Petro por hacer uso político de recursos públicos, advirtiendo sobre una 'doble moral' del ejecutivo que ahora hace lo mismo que criticaba cuando estaba en la oposición. La denuncia se presenta en vísperas de las elecciones presidenciales de 2026.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-impacto-tiene-en-el-cne-la-decision-de-la-corte-constitucional-de-tumbar-los-articulos-del-pnd-que-le-daban-autonomia-presupuestal-3553739",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos H. Rodríguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-07 19:26"
+    },
+    {
       "id": 827,
       "titulo": "Paloma Valencia denuncia hackeo de su celular y conversaciones con ministro Benedetti",
       "categoria": "abuso-poder",
