@@ -66,6 +66,50 @@
   ],
   "casos": [
     {
+      "id": 824,
+      "titulo": "Corte Constitucional tumba autonomía presupuestal del CNE por normas inconstitucionales",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-06",
+      "descripcion": "La Corte Constitucional declaró inconstitucionales normas del Plan de Desarrollo que otorgaban autonomía presupuestal y facultades de contratación al CNE, determinando que dichas normas no tenían relación con el plan de desarrollo y el organismo perderá el manejo propio de recursos desde 2027.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-tumba-autonomia-presupuestal-del-cne-perdera-manejo-propio-de-recursos-desde-3553659",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-07 02:00"
+    },
+    {
+      "id": 823,
+      "titulo": "Banco de la República cede a presiones políticas de Petro en decisión de tasas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-06",
+      "descripcion": "En junta del Banco de la República hubo diferencias internas antes de llegar a consenso para mantener estables las tasas de interés, cediendo a presiones políticas del presidente Petro para evitar conflictos políticos, comprometiendo la autonomía técnica de la institución.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/cne-pierde-autonomia-presupuestal-y-queda-bajo-la-sombra-de-registraduria/",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Banco de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-07 02:00"
+    },
+    {
       "id": 822,
       "titulo": "Renuncia de subgerente del Fondo de Adaptación por roces con Angie Rodríguez",
       "categoria": "abuso-poder",
