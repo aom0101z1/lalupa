@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 826,
+      "titulo": "Daniel Quintero difunde información engañosa sobre responsabilidad de farmacéutica en demora de medicamento",
+      "categoria": "mentiras",
+      "fecha": "2026-05-07",
+      "descripcion": "El Superintendente de Salud Daniel Quintero señaló falsamente a la empresa farmacéutica Offimédicas como responsable de la no entrega de un medicamento en un caso mediático de una niña. Según el análisis del 'Detector de Mentiras', Quintero engañó al hacer esta acusación sin fundamento, utilizando su posición oficial para difundir información incorrecta que puede afectar la reputación de una empresa privada y desinformar sobre las verdaderas causas de la demora en el suministro del medicamento.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/asi-es-la-constituyente-que-quiere-petro-para-hacer-politica-mas-alla-del-2026/",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-07 08:15"
+    },
+    {
+      "id": 825,
+      "titulo": "Procurador revela investigaciones disciplinarias contra varios ministros del gobierno Petro por participación política indebida",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-06",
+      "descripcion": "El Procurador Gregorio Eljach reveló en entrevista con Caracol Radio que 'varios' ministros del gobierno de Gustavo Petro tienen investigaciones abiertas por presunta participación política indebida, actividad que está prohibida para servidores públicos. Detalló que existen 89 procesos abiertos contra servidores públicos por esta causa. La participación política indebida constituye una falta disciplinaria grave que puede conllevar sanciones como destitución e inhabilidad para ejercer funciones públicas.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/procurador-destapo-que-varios-ministros-del-gobierno-de-gustavo-petro-tienen-investigaciones-por-presunta-participacion-politica-esta-prohibido-3553740",
+          "fecha": "2026-05-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach"
+      ],
+      "entidad": "Ministerios del gobierno nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-07 08:15"
+    },
+    {
       "id": 824,
       "titulo": "Corte Constitucional tumba autonomía presupuestal del CNE por normas inconstitucionales",
       "categoria": "recursos-publicos",
