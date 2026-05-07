@@ -66,6 +66,31 @@
   ],
   "casos": [
     {
+      "id": 827,
+      "titulo": "Paloma Valencia denuncia hackeo de su celular y conversaciones con ministro Benedetti",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-07",
+      "descripcion": "La congresista y candidata presidencial Paloma Valencia denunció el hackeo de su celular y chats de WhatsApp. Reveló que ha mantenido conversaciones con el ministro del Interior Armando Benedetti sobre el tema. Su abogado Jaime Lombana llevará el caso ante la justicia. El hackeo de comunicaciones de una candidata presidencial plantea serias preocupaciones sobre interferencia electoral y posible abuso de poder estatal.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/paloma-valencia-candidata-presidencial-denuncia-hackeo-de-su-celular-y-chats-de-whatsapp-abogado-jaime-lombana-llevara-el-caso-ante-la-justicia-3553774",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia",
+        "Armando Benedetti",
+        "Jaime Lombana"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-07 13:28"
+    },
+    {
       "id": 826,
       "titulo": "Daniel Quintero difunde información engañosa sobre responsabilidad de farmacéutica en demora de medicamento",
       "categoria": "mentiras",
