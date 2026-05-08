@@ -66,6 +66,53 @@
   ],
   "casos": [
     {
+      "id": 833,
+      "titulo": "Corte Suprema condena a exgobernador de Putumayo por corrupción en contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-07",
+      "descripcion": "La Corte Suprema condenó y ordenó la captura del exgobernador de Putumayo Felipe Alfonso Guzmán por irregularidades en dos contratos relacionados con herramientas lúdicas para niños y niñas vulnerables. La condena evidencia un caso de corrupción en la contratación pública durante su administración departamental.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-condeno-y-ordeno-la-captura-del-exgobernador-de-putumayo-felipe-alfonso-guzman-por-corrupcion-3553993",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Felipe Alfonso Guzmán"
+      ],
+      "entidad": "Gobernación de Putumayo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-08 02:06"
+    },
+    {
+      "id": 832,
+      "titulo": "Consejo de Estado suspende nombramiento irregular de rector en Universidad Popular del Cesar",
+      "categoria": "nepotismo",
+      "fecha": "2026-05-07",
+      "descripcion": "El Consejo de Estado suspendió provisionalmente el nombramiento de Guillermo Echavarría Gil como rector de la Universidad Popular del Cesar, quien fue propuesto por Juliana Guerrero. Echavarría no habría acreditado los cinco años de experiencia en educación superior exigidos por los estatutos de la institución, lo que constituye un nombramiento irregular que no cumple con los requisitos mínimos establecidos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-suspende-provisionalmente-el-nombramiento-de-guillermo-echavarria-gil-como-rector-de-la-universidad-popular-del-cesar-3553985",
+          "fecha": "2026-05-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Echavarría Gil",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Universidad Popular del Cesar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-08 02:06"
+    },
+    {
       "id": 831,
       "titulo": "Paloma Valencia difunde información engañosa sobre posición de Abelardo de la Espriella",
       "categoria": "mentiras",
