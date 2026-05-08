@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 835,
+      "titulo": "Uso irregular de imagen de Petro en vallas electorales de Cepeda-Quilcué en Caquetá",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-08",
+      "descripcion": "En Caquetá aparecieron vallas políticas pidiendo votar por Cepeda y Quilcué con la imagen del presidente Petro. Esta práctica viola el principio de neutralidad electoral, ya que un presidente en ejercicio no puede aparecer en vallas políticas de candidatos durante procesos electorales, lo que constituye uso indebido de recursos y posición oficial para favorecer candidatos específicos.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/en-caqueta-piden-votar-por-cepeda-y-quilcue-con-la-imagen-de-petro/",
+          "fecha": "2026-05-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Iván Cepeda",
+        "Aída Quilcué"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-08 19:04"
+    },
+    {
+      "id": 834,
+      "titulo": "Consejo de Estado suspende decreto de retefuente de Petro por falta de soportes técnicos",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-08",
+      "descripcion": "El Consejo de Estado suspendió provisionalmente los artículos 2 al 8 del Decreto 572 de 2025, con el que el Gobierno modificó tarifas y bases de retención en la fuente. La decisión se basó en que aunque el decreto contenía una motivación formal, no tenía los soportes técnicos, económicos y jurídicos suficientes para justificar las medidas implementadas.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/las-razones-por-las-que-el-consejo-de-estado-freno-el-decreto-de-retefuente-de-petro-no-explico-las-cifras-3554210",
+          "fecha": "2026-05-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-08 19:04"
+    },
+    {
       "id": 833,
       "titulo": "Corte Suprema condena a exgobernador de Putumayo por corrupción en contratos",
       "categoria": "corrupcion",
