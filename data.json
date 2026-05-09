@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 836,
+      "titulo": "Fiscalía imputa a Ricardo Roa por violación de topes electorales en campaña Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-08",
+      "descripcion": "La Fiscalía imputó cargos a Ricardo Roa por permitir gastos electorales que violaron los topes de la campaña Petro Presidente. Se documentó que no se reportaron 1.388 millones de pesos en primera vuelta y 276 millones en segunda vuelta. La audiencia de imputación ya comenzó con acusaciones específicas sobre ejecución irregular de gastos de campaña.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/empezo-la-imputacion-contra-ricardo-roa-por-supuesta-violacion-de-topes-electorales-en-la-campana-petro-presidente-3554229",
+          "fecha": "2026-05-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Gustavo Petro"
+      ],
+      "entidad": "Campaña presidencial Petro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-09 02:00"
+    },
+    {
       "id": 835,
       "titulo": "Uso irregular de imagen de Petro en vallas electorales de Cepeda-Quilcué en Caquetá",
       "categoria": "recursos-publicos",
