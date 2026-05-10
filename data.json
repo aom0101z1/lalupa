@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 838,
+      "titulo": "Gobierno otorga nuevas gabelas a 'Chiquito Malo' y capos del 'Clan del Golfo' en plena campaña electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-09",
+      "descripcion": "El gobierno de Petro habría entregado nuevas gabelas a líderes del Clan del Golfo, incluyendo la intención de frenar órdenes de captura y establecer zonas de ubicación temporal, decisiones que generan cuestionamientos por ocurrir durante la campaña electoral. Estas acciones podrían constituir un uso político del poder estatal en beneficio de grupos criminales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-entrega-nueva-gabela-a-chiquito-malo-y-a-capos-del-clan-del-golfo-en-plena-campana-electoral-3554454",
+          "fecha": "2026-05-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Chiquito Malo"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-10 07:57"
+    },
+    {
       "id": 837,
       "titulo": "Corte Suprema ratifica condena contra senador Luis Alberto Gil Castillo por frenar extradición de Jesús Santrich",
       "categoria": "corrupcion",
