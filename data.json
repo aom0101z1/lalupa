@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 837,
+      "titulo": "Corte Suprema ratifica condena contra senador Luis Alberto Gil Castillo por frenar extradición de Jesús Santrich",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-09",
+      "descripcion": "La Sala de Casación Penal de la Corte Suprema dejó en firme la sentencia de 54 meses de prisión contra el senador Luis Alberto Gil Castillo tras comprobarse su participación en un entramado de corrupción para frenar la extradición de alias Jesús Santrich. La decisión ratifica la condena por su rol en este esquema corrupto.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/corte-suprema-ratifica-condena-por-frenar-extradicion-de-alias-jesus-santrich-contra-senador-luis-alberto-gil-castillo-3554399",
+          "fecha": "2026-05-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Alberto Gil Castillo"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-10 01:59"
+    },
+    {
       "id": 836,
       "titulo": "Fiscalía imputa a Ricardo Roa por violación de topes electorales en campaña Petro",
       "categoria": "recursos-publicos",
