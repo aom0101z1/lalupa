@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 839,
+      "titulo": "Gobierno extiende contrato millonario con consultora británica que asesora a Petro sobre sanciones de EEUU",
+      "categoria": "contratos",
+      "fecha": "2026-05-10",
+      "descripcion": "La Presidencia prorrogó el contrato por $10.000 millones con Amadeus Consultancy, firma británica que asesora a Gustavo Petro por las sanciones de Estados Unidos. La Procuraduría mantiene una indagación sobre el proceso contractual, lo que sugiere posibles irregularidades en la contratación de servicios de asesoría internacional.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-extiende-contrato-por-10-000-millones-con-firma-britanica-que-asesora-a-gustavo-petro-por-sanciones-de-estados-unidos-3554594",
+          "fecha": "2026-05-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-10 18:46"
+    },
+    {
       "id": 838,
       "titulo": "Gobierno otorga nuevas gabelas a 'Chiquito Malo' y capos del 'Clan del Golfo' en plena campaña electoral",
       "categoria": "abuso-poder",
