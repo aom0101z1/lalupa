@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 842,
+      "titulo": "CNE debe suspender operación irregular de AtlasIntel por metodología incorrecta",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-11",
+      "descripcion": "Dos auditorías independientes concluyeron que la metodología de AtlasIntel corresponde a un sondeo de opinión y no a una encuesta electoral válida, pidiendo al Consejo Nacional Electoral suspender sus operaciones en Colombia. La firma ya está bajo investigación del CNE por posibles irregularidades en sus procedimientos durante el proceso electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-politica-fiscal-debe-disenarse-con-una-vision-de-largo-plazo/",
+          "fecha": "2026-05-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Directivos AtlasIntel"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-11 14:27"
+    },
+    {
+      "id": 841,
+      "titulo": "Contraloría advierte a Superintendencia de Salud por mal manejo de EPS intervenidas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-11",
+      "descripcion": "La Contraloría General de la República emitió una advertencia a la Superintendencia de Salud del gobierno Petro por el mal manejo de siete EPS intervenidas (Coosalud, Famisanar, Capresoca, Savia Salud, Asmet Salud, Emssanar y SOS) que presentan incumplimientos en los indicadores financieros. Esto genera afectación a los usuarios del sistema de salud con 5.648 peticiones, quejas y reclamos diarios contra las EPS.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/asi-cayo-una-red-que-distribuia-billetes-de-loteria-adulterados-en-bogota-medellin-y-cali-3554688",
+          "fecha": "2026-05-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Superintendente de Salud"
+      ],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-11 14:27"
+    },
+    {
       "id": 840,
       "titulo": "Comisión Interamericana de Derechos Humanos advierte a Petro sobre uso de medios públicos para difamar",
       "categoria": "abuso-poder",
