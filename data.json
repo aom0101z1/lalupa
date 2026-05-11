@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 840,
+      "titulo": "Comisión Interamericana de Derechos Humanos advierte a Petro sobre uso de medios públicos para difamar",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-10",
+      "descripcion": "La Comisión Interamericana de Derechos Humanos envió un llamado directo al presidente Petro para que no use los medios públicos para difamar. José Luis Caballero Ochoa, en diálogo con EL TIEMPO, le envió este mensaje específico al mandatario, lo que sugiere un patrón de comportamiento problemático en el uso de medios estatales para ataques personales.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/tarea-nacional-pendiente-delinquir-debe-salir-caro-y-mucho-3554639",
+          "fecha": "2026-05-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "José Luis Caballero Ochoa"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-11 08:58"
+    },
+    {
       "id": 839,
       "titulo": "Gobierno extiende contrato millonario con consultora británica que asesora a Petro sobre sanciones de EEUU",
       "categoria": "contratos",
