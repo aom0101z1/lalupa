@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 843,
+      "titulo": "Sandra Ortiz queda en libertad por vencimiento de términos en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-11",
+      "descripcion": "Sandra Ortiz, acusada de llevar 3 mil millones de pesos a Iván Name a cambio de aprobar proyectos del gobierno en el Congreso, quedó en libertad por vencimiento de términos. Sin embargo, seguirá vinculada a su juicio por tráfico de influencias en el escándalo de corrupción de la UNGRD.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/ungrd-queda-en-libertad-sandra-ortiz-por-vencimiento-de-terminos/",
+          "fecha": "2026-05-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz",
+        "Iván Name"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-11 19:27"
+    },
+    {
       "id": 842,
       "titulo": "CNE debe suspender operación irregular de AtlasIntel por metodología incorrecta",
       "categoria": "abuso-poder",
