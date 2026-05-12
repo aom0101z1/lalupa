@@ -66,6 +66,29 @@
   ],
   "casos": [
     {
+      "id": 844,
+      "titulo": "Corte Suprema confirma condena contra exmagistrados de Villavicencio por sobornos y fallos amañados",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-11",
+      "descripcion": "La Corte Suprema dejó en firme la condena contra tres exmagistrados de Villavicencio señalados de recibir sobornos, amaña fallos judiciales y participar en fiestas con trabajadoras sexuales. Los magistrados favorecían a procesados con decisiones ilegales a cambio de dinero y otros beneficios, comprometiendo gravemente la administración de justicia en la región.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/cortes/sobornos-fallos-amanados-y-fiestas-con-trabajadoras-sexuales-la-trama-que-destapo-fallo-de-la-corte-contra-exmagistrados-de-villavicencio-3554977",
+          "fecha": "2026-05-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Tres exmagistrados de Villavicencio"
+      ],
+      "entidad": "Tribunal Superior de Villavicencio",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-12 02:05"
+    },
+    {
       "id": 843,
       "titulo": "Sandra Ortiz queda en libertad por vencimiento de términos en caso UNGRD",
       "categoria": "corrupcion",
