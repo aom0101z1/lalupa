@@ -66,6 +66,51 @@
   ],
   "casos": [
     {
+      "id": 846,
+      "titulo": "Senado mexicano reparte propaganda electoral de Iván Cepeda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-12",
+      "descripcion": "En el Senado de México repartieron propaganda electoral a favor del candidato presidencial colombiano Iván Cepeda durante un evento de senadores de Morena, el partido de gobierno. La presidenta Claudia Sheinbaum negó injerencia oficial y dijo que fue una 'opinión' de los congresistas, pero el hecho evidencia uso de espacios oficiales extranjeros para campaña electoral colombiana.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/mexico-en-senado-repartieron-propaganda-de-cepeda-presidenta-niega-injerencia/",
+          "fecha": "2026-05-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Claudia Sheinbaum"
+      ],
+      "entidad": "Senado de México",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-12 19:28"
+    },
+    {
+      "id": 845,
+      "titulo": "CTI inspecciona sede del Inpec por corrupción en oficina de traslados",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-12",
+      "descripcion": "El CTI de la Fiscalía realizó inspección en la sede del Inpec en Bogotá por supuesta corrupción en su oficina de traslados. La investigación se adelanta desde la dirección anticorrupción de la Fiscalía, indicando posibles irregularidades en los procesos de traslado de internos.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/cti-de-la-fiscalia-inspecciona-sede-del-inpec-en-bogota-por-supuesta-corrupcion-en-su-oficina-de-traslados-3555126",
+          "fecha": "2026-05-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-12 19:28"
+    },
+    {
       "id": 844,
       "titulo": "Corte Suprema confirma condena contra exmagistrados de Villavicencio por sobornos y fallos amañados",
       "categoria": "corrupcion",
