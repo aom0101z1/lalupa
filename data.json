@@ -66,6 +66,101 @@
   ],
   "casos": [
     {
+      "id": 851,
+      "titulo": "Esposa de gobernador de Antioquia participa en acto de campaña de Oviedo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-05-13",
+      "descripcion": "Susana Ochoa, esposa del gobernador de Antioquia, participó en un recorrido de campaña con el candidato Oviedo. Aunque no ocupa ningún cargo oficial en la Gobernación, su presencia en el acto de campaña sugiere un posible uso indebido de la posición del gobernador para apoyar una candidatura específica, lo que podría constituir uso político de recursos o influencia gubernamental en periodo electoral.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/esposa-de-gobernador-de-antioquia-estuvo-en-recorrido-con-oviedo/",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Susana Ochoa",
+        "Gobernador de Antioquia",
+        "Candidato Oviedo"
+      ],
+      "entidad": "Gobernación de Antioquia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-13 19:40"
+    },
+    {
+      "id": 850,
+      "titulo": "Red fraudulenta usaba nombres de habitantes de calle para justificar toneladas de reciclaje en Boyacá",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-13",
+      "descripcion": "La Fiscalía desarticuló una red que habría incluido nombres de habitantes de calle para justificar falsamente toneladas de material reciclable en Boyacá. Hay tres capturados por maniobras que habrían permitido obtener miles de millones de pesos por remuneración tarifaria de forma fraudulenta. El esquema defraudatorio utilizaba la identidad de personas vulnerables para simular operaciones de reciclaje inexistentes.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/golpe-a-red-que-habria-incluido-nombres-de-habitantes-de-calle-para-justificar-toneladas-de-reciclaje-en-boyaca-3555417",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Tres capturados (nombres no especificados)"
+      ],
+      "entidad": "Sistema de reciclaje de Boyacá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-13 19:40"
+    },
+    {
+      "id": 849,
+      "titulo": "ANI condenada a pagar 3 billones por Ruta al Mar sin recurrir a defensa jurídica del Estado",
+      "categoria": "contratos",
+      "fecha": "2026-05-13",
+      "descripcion": "Un tribunal arbitral condenó a la ANI a pagar 3 billones de pesos a inversionistas del proyecto Ruta al Mar. La entidad nunca acudió a la Defensa Jurídica del Estado, la única entidad especializada que podía brindar asesoría legal para evitar esta millonaria condena. Este caso evidencia negligencia en la defensa de los recursos públicos y posible mala gestión contractual que resultó en un impacto fiscal multimillonario.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/los-secretos-del-fallo-que-condeno-a-la-ani-a-pagar-3-billones-por-ruta-al-mar-por-que-no-acudio-a-la-defensa-juridica-del-estado-3555449",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios ANI"
+      ],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-13 19:40"
+    },
+    {
+      "id": 848,
+      "titulo": "Embajadora en Haití hace proselitismo a favor de Iván Cepeda durante entrevista oficial",
+      "categoria": "diplomaticos",
+      "fecha": "2026-05-13",
+      "descripcion": "La embajadora de Colombia en Haití habría incurrido en indebida participación en política durante una entrevista, haciendo proselitismo a favor de la campaña de Iván Cepeda. El candidato pidió investigación disciplinaria contra la representante oficial por usar su posición diplomática para hacer campaña electoral, lo que constituye una violación del código disciplinario de los funcionarios públicos.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-entrevista-embajadora-de-colombia-en-haiti-hizo-proselitismo-a-favor-de-ivan-cepeda-candidato-pidio-investigacion-disciplinaria-3555381",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda",
+        "Embajadora de Colombia en Haití"
+      ],
+      "entidad": "Embajada de Colombia en Haití",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-13 19:40"
+    },
+    {
       "id": 847,
       "titulo": "Petro niega autorizar lista para suspender capturas de extraditables mientras comisionado de paz defiende procedimiento",
       "categoria": "abuso-poder",
