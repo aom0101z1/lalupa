@@ -66,6 +66,30 @@
   ],
   "casos": [
     {
+      "id": 847,
+      "titulo": "Petro niega autorizar lista para suspender capturas de extraditables mientras comisionado de paz defiende procedimiento",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-12",
+      "descripcion": "El presidente Petro negó haber autorizado la lista entregada por la Oficina del Comisionado de Paz Otty Patiño a la Fiscalía para suspender órdenes de captura de extraditables del 'Clan del Golfo', mientras que el comisionado defiende el procedimiento de su oficina pese a la desautorización presidencial, generando un aparente cortocircuito institucional en la política de paz total.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/fiscalia-niega-suspension-de-ordenes-de-captura-de-extraditables-del-clan-y-petro-dice-que-no-autorizo-la-lista-cortocircuito-en-la-paz-total-3555197",
+          "fecha": "2026-05-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Otty Patiño"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-13 02:11"
+    },
+    {
       "id": 846,
       "titulo": "Senado mexicano reparte propaganda electoral de Iván Cepeda",
       "categoria": "abuso-poder",
