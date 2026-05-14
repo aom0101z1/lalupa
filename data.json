@@ -66,6 +66,97 @@
   ],
   "casos": [
     {
+      "id": 862,
+      "titulo": "Disidencias de 'Calarcá' piden respaldar a Iván Cepeda y cobran por carnetización de tierras",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-05-14",
+      "descripcion": "En audios revelados, las disidencias del grupo 'Calarcá' piden respaldar la campaña del candidato presidencial Iván Cepeda. Además, en las grabaciones también exigirían hasta $200 mil pesos a campesinos para carnetizar sus tierras en Guaviare, Caquetá y Meta, evidenciando vínculos entre grupos armados ilegales y actividades electorales.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-falsa-frontera-entre-economizar-y-administrar-un-estado/",
+          "fecha": "2026-05-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cepeda"
+      ],
+      "entidad": "Campaña presidencial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-14 19:28"
+    },
+    {
+      "id": 861,
+      "titulo": "SAE solicita suspender millonario contrato por incumplimientos en custodia de ganado de narcos",
+      "categoria": "contratos",
+      "fecha": "2026-05-14",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) pide suspender un millonario contrato relacionado con la custodia de ganado incautado a narcotraficantes por presuntos incumplimientos del contratista. La SAE devuelve la responsabilidad al contratista quien supuestamente no remitió la documentación exigida, generando problemas en el manejo de estos bienes de extinción de dominio.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/no-le-hicieron-caso-a-petro-por-que-siguen-en-la-carcel-de-itaguei-los-lideres-criminales-vinculados-con-la-rumba-de-nelson-velasquez-3555757",
+          "fecha": "2026-05-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-14 19:28"
+    },
+    {
+      "id": 860,
+      "titulo": "Líderes criminales permanecen en cárcel de Itagüí pese a orden presidencial de traslado",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-14",
+      "descripcion": "Ha pasado un mes desde que el presidente Petro ordenó el traslado de líderes criminales vinculados con la rumba de Nelson Velásquez desde la cárcel de Itagüí, pero la orden no ha sido acatada completamente. Solo han trasladado a alias 'Pocho', mientras otros internos permanecen en el centro penitenciario, evidenciando el incumplimiento de una orden presidencial directa.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-le-entrego-a-la-sae-el-manejo-de-lili-pink-el-inventario-de-bienes-asciende-a-medio-billon-de-pesos-3555749",
+          "fecha": "2026-05-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Nelson Velásquez"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-14 19:28"
+    },
+    {
+      "id": 859,
+      "titulo": "Corte Suprema abre investigación formal contra Martha Peralta por saqueo a la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-05-13",
+      "descripcion": "La Corte Suprema de Justicia abrió investigación formal contra la senadora del Pacto Histórico Martha Peralta por su presunta participación en el saqueo a la UNGRD. Será investigada por los delitos de tráfico de influencia y cohecho impropio en el marco del escándalo de corrupción que ha afectado a esta entidad del gobierno.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/camacol-distingue-al-embajador-de-suiza-por-su-papel-en-la-regulacion-de-edificios-sostenibles-en-colombia-3555491",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta"
+      ],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-14 19:28"
+    },
+    {
       "id": 858,
       "titulo": "Campaña de Abelardo denuncia presencia de falso escolta realizando inteligencia",
       "categoria": "abuso-poder",
