@@ -66,6 +66,52 @@
   ],
   "casos": [
     {
+      "id": 856,
+      "titulo": "Director de UIAF exhibe daga militar recibida como obsequio generando críticas",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-05-13",
+      "descripcion": "Wilmar Mejía, director de la UIAF, exhibió en redes sociales una daga militar que recibió como obsequio, lo cual generó críticas de oficiales en retiro. El funcionario tuvo que explicar las razones por las que aceptó el objeto militar, planteando dudas sobre la idoneidad de recibir tales regalos en su posición.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/la-historia-detras-de-la-daga-que-exhibio-en-redes-sociales-wilmar-mejia-actual-director-de-la-uiaf-quien-se-la-entrego-3555599",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Wilmar Mejía"
+      ],
+      "entidad": "Unidad de Información y Análisis Financiero (UIAF)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-14 08:27"
+    },
+    {
+      "id": 855,
+      "titulo": "Petro anuncia nuevos decretos para contravenir fallo judicial sobre traslado de fondos privados a Colpensiones",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-13",
+      "descripcion": "El presidente Petro anunció nuevos decretos tras la decisión del Consejo de Estado de frenar el traslado de $5 billones de fondos privados a Colpensiones. Esta nueva movida iría en contravía de fallos judiciales, configurando un posible desacato a decisiones de la justicia.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-anuncia-nuevos-decretos-tras-decision-del-consejo-de-estado-de-frenar-traslado-de-5-billones-de-fondos-privados-a-colpensiones-3555582",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-14 08:27"
+    },
+    {
       "id": 854,
       "titulo": "CNE investiga a Invamer por irregularidades metodológicas en encuesta de 2025",
       "categoria": "contratos",
