@@ -66,6 +66,73 @@
   ],
   "casos": [
     {
+      "id": 854,
+      "titulo": "CNE investiga a Invamer por irregularidades metodológicas en encuesta de 2025",
+      "categoria": "contratos",
+      "fecha": "2026-05-13",
+      "descripcion": "El Consejo Nacional Electoral abrió investigación contra la firma encuestadora Invamer por presuntas inconsistencias metodológicas en la aplicación de una encuesta sobre democracia realizada en 2025, lo que podría constituir incumplimiento contractual o fraude en servicios públicos de medición de opinión.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/en-fallo-corte-suprema-senala-que-prostitucion-es-explotacion-sexual/",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-14 02:13"
+    },
+    {
+      "id": 853,
+      "titulo": "Petro conocía desde 2025 irregularidades de la 'paz total' en cárceles según reporte oficial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-13",
+      "descripcion": "EL TIEMPO conoció el documento que fue remitido a Palacio, en el que se exponen concesiones a presos de alta peligrosidad que estaban en negociación.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/presidente-petro-sabia-desde-2025-de-irregularidades-de-la-paz-total-en-carceles-este-fue-el-reporte-que-le-entregaron-3555514",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-14 02:13"
+    },
+    {
+      "id": 852,
+      "titulo": "Procuraduría suspende a embajadora de Haití por participación indebida en política",
+      "categoria": "diplomaticos",
+      "fecha": "2026-05-13",
+      "descripcion": "La Procuraduría General suspendió a la embajadora de Colombia en Haití y abrió una investigación formal contra la diplomática por presunta participación indebida en actividades políticas, lo que constituye una violación a las normas que rigen el ejercicio de la función diplomática.",
+      "evidencia": "Reportado por El Tiempo - Justicia",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Justicia",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-suspende-a-embajadora-de-haiti-por-presunta-participacion-indebida-en-politica-3555581",
+          "fecha": "2026-05-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Embajadora de Colombia en Haití"
+      ],
+      "entidad": "Embajada de Colombia en Haití",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-05-14 02:13"
+    },
+    {
       "id": 851,
       "titulo": "Esposa de gobernador de Antioquia participa en acto de campaña de Oviedo",
       "categoria": "recursos-publicos",
