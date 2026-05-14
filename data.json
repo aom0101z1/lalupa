@@ -66,6 +66,54 @@
   ],
   "casos": [
     {
+      "id": 858,
+      "titulo": "Campaña de Abelardo denuncia presencia de falso escolta realizando inteligencia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-14",
+      "descripcion": "La campaña de Abelardo de la Espriella denunció la presencia de un presunto falso escolta que habría realizado labores de inteligencia durante un evento en Envigado. El individuo portaba una pistola traumática y material de campaña, generando sospechas sobre posibles actividades irregulares de seguimiento al candidato.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/en-vivo/en-plazas-y-pabellon-cepeda-y-abelardo-cierran-campanas-a-la-presidencia/",
+          "fecha": "2026-05-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Campaña presidencial",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-14 13:45"
+    },
+    {
+      "id": 857,
+      "titulo": "CNE investiga a Julio César González por violencia de género contra candidata",
+      "categoria": "abuso-poder",
+      "fecha": "2026-05-14",
+      "descripcion": "El Consejo Nacional Electoral alista investigación y pliego de cargos contra Julio César González, alias 'Matador', por actos de violencia de género contra la candidata presidencial Paloma Valencia. La Sala Plena del CNE votará la ponencia del magistrado Álvaro Hernán Prada para formalizar el proceso disciplinario.",
+      "evidencia": "Reportado por El Tiempo - Política",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo - Política",
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-salidas-en-falso-de-los-candidatos-a-tres-semanas-de-las-elecciones-que-tanto-influira-en-las-urnas-3555479",
+          "fecha": "2026-05-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Julio César González",
+        "Paloma Valencia",
+        "Álvaro Hernán Prada"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-05-14 13:45"
+    },
+    {
       "id": 856,
       "titulo": "Director de UIAF exhibe daga militar recibida como obsequio generando críticas",
       "categoria": "conflicto-interes",
