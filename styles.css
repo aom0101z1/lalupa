@@ -906,8 +906,32 @@ body {
     background: linear-gradient(135deg, #065f46 0%, #059669 100%);
 }
 
+.tema-header.trampa-pobreza {
+    background: linear-gradient(135deg, #701a1a 0%, #b91c1c 100%);
+}
+
+.tema-header.yo-no-sabia {
+    background: linear-gradient(135deg, #92400e 0%, #c2410c 100%);
+}
+
+.tema-header.hollman-morris {
+    background: linear-gradient(135deg, #881337 0%, #9f1239 100%);
+}
+
+.tema-header.banco-republica {
+    background: linear-gradient(135deg, #134e4a 0%, #0f766e 100%);
+}
+
 .tema-header.ungrd {
     background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
+}
+
+.tema-header.emergencia-economica {
+    background: linear-gradient(135deg, #92400e 0%, #b45309 100%);
+}
+
+.tema-header.por-que-lo-siguen {
+    background: linear-gradient(135deg, #312e81 0%, #4338ca 100%);
 }
 
 .tema-header.policia {
