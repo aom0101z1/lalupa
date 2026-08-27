@@ -513,7 +513,7 @@ Responde SOLO con el JSON, sin explicaciones adicionales."""
 
     try:
         response = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-5",
             max_tokens=4000,
             messages=[{"role": "user", "content": prompt}]
         )
@@ -538,10 +538,16 @@ Responde SOLO con el JSON, sin explicaciones adicionales."""
         print(f"  Error analyzing with Claude: {e}")
         # Fallar en rojo si no hay creditos: antes el workflow quedaba "en verde"
         # y el pipeline moria en silencio durante meses (ver sesion 8-ago-2026)
-        if "credit balance" in str(e).lower():
+        err = str(e).lower()
+        if "credit balance" in err:
             print()
             print("ERROR FATAL: La API key de Anthropic no tiene creditos.")
             print("   Recargar en https://console.anthropic.com -> Plans & Billing")
+            raise SystemExit(1)
+        if "not_found_error" in err and "model" in err:
+            print()
+            print("ERROR FATAL: El modelo de Claude ya no existe en la API.")
+            print("   Actualizar el parametro 'model' en scripts/news_updater.py")
             raise SystemExit(1)
 
     return []
