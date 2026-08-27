@@ -518,8 +518,12 @@ Responde SOLO con el JSON, sin explicaciones adicionales."""
             messages=[{"role": "user", "content": prompt}]
         )
 
-        # Extract JSON from response
-        response_text = response.content[0].text
+        # Extract JSON from response (los modelos actuales pueden devolver
+        # bloques de razonamiento antes del texto: tomar solo los bloques de texto)
+        response_text = "".join(
+            block.text for block in response.content
+            if getattr(block, "type", "") == "text"
+        )
 
         # Try to parse JSON
         json_match = re.search(r'\{[\s\S]*\}', response_text)
