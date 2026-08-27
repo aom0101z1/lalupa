@@ -152,16 +152,42 @@ CATEGORIES = {
     }
 }
 
-# Colombian news RSS feeds
+# Categorías de la sección "Gestión Nuevo Gobierno" (gobierno De la Espriella, 2026-2030)
+GESTION_CATEGORIES = [
+    "gestion-emergencia",  # Manejo del terremoto del 10 ago 2026 y otras emergencias
+    "seguridad",           # Seguridad y lucha contra grupos armados
+    "economia",            # Medidas económicas y fiscales
+    "transparencia",       # Transparencia, austeridad, anticorrupción
+    "gabinete",            # Conformación del equipo de gobierno
+    "empalme",             # Hallazgos del empalme con el gobierno saliente
+    "internacional",       # Relaciones exteriores
+    "obras",               # Infraestructura, reconstrucción, agenda territorial
+]
+
+# Dominios con paywall: si la misma noticia existe en otro medio, se prefiere el otro medio
+PAYWALLED_DOMAINS = ["eltiempo.com"]
+
+# Colombian news RSS feeds (verificados agosto 2026; varios feeds antiguos ya no existen)
 RSS_FEEDS = [
-    {"name": "El Tiempo - Política", "url": "https://www.eltiempo.com/rss/politica.xml"},
-    {"name": "El Tiempo - Justicia", "url": "https://www.eltiempo.com/rss/justicia.xml"},
-    {"name": "Semana - Nación", "url": "https://www.semana.com/rss/nacion.xml"},
-    {"name": "El Espectador - Política", "url": "https://www.elespectador.com/arc/outboundfeeds/rss/?outputType=xml&_website=el-espectador"},
-    {"name": "La Silla Vacía", "url": "https://www.lasillavacia.com/feed/"},
-    {"name": "Infobae Colombia", "url": "https://www.infobae.com/feeds/rss/colombia/"},
-    {"name": "Blu Radio", "url": "https://www.bluradio.com/rss/nacion.xml"},
-    {"name": "Caracol Radio", "url": "https://caracol.com.co/rss/politica.xml"},
+    {"name": "El Tiempo", "url": "https://www.eltiempo.com/rss/politica.xml"},
+    {"name": "El Tiempo", "url": "https://www.eltiempo.com/rss/justicia.xml"},
+    {"name": "La Silla Vacia", "url": "https://www.lasillavacia.com/feed/"},
+    {"name": "El Colombiano", "url": "https://www.elcolombiano.com/rss/Colombia.xml"},
+    {"name": "Colombiacheck", "url": "https://colombiacheck.com/rss.xml"},
+    {"name": "Infobae", "url": "https://www.infobae.com/arc/outboundfeeds/rss/", "link_filter": "/colombia/"},
+    {"name": "France 24", "url": "https://www.france24.com/es/am%C3%A9rica-latina/rss", "keyword_filter": "colombia"},
+    {"name": "DW", "url": "https://rss.dw.com/rdf/rss-sp-all", "keyword_filter": "colombia"},
+]
+
+# Búsquedas en Google News RSS: agrega medios cuyos feeds directos están rotos
+# (Semana, Blu Radio, Caracol Radio, RCN, La FM, W Radio, El Espectador, etc.)
+GOOGLE_NEWS_QUERIES = [
+    "corrupción Colombia investigación",
+    "Petro juicio OR investigación Fiscalía",
+    "UNGRD OR pasaportes OR \"Nicolás Petro\" proceso",
+    "gobierno \"De la Espriella\" medidas",
+    "terremoto Colombia reconstrucción gobierno",
+    "empalme gobierno Colombia hallazgos denuncias",
 ]
 
 # Keywords to search for (related to government corruption and scandals)
@@ -170,7 +196,8 @@ SEARCH_KEYWORDS = [
     "UNGRD", "nepotismo", "contrato irregular", "conflicto interés",
     "abuso poder", "ministro investigado", "embajador polémica",
     "Fiscalía investiga", "Procuraduría", "Contraloría",
-    "sanción internacional", "recursos públicos"
+    "sanción internacional", "recursos públicos",
+    "De la Espriella", "terremoto", "reconstrucción", "empalme"
 ]
 
 
@@ -195,6 +222,11 @@ def generate_case_hash(title: str, url: str) -> str:
     return hashlib.md5(content).hexdigest()[:12]
 
 
+def is_paywalled(url: str) -> bool:
+    """Check if a URL belongs to a paywalled outlet"""
+    return any(domain in (url or "") for domain in PAYWALLED_DOMAINS)
+
+
 def fetch_rss_feeds() -> list:
     """Fetch articles from Colombian RSS feeds"""
     articles = []
@@ -205,6 +237,17 @@ def fetch_rss_feeds() -> list:
             feed = feedparser.parse(feed_info["url"])
 
             for entry in feed.entries[:20]:  # Get latest 20 from each feed
+                link = entry.get("link", "")
+                title = entry.get("title", "")
+
+                # Feeds generales (Infobae, France24, DW): filtrar solo noticias de Colombia
+                if feed_info.get("link_filter") and feed_info["link_filter"] not in link:
+                    continue
+                if feed_info.get("keyword_filter"):
+                    text = (title + " " + entry.get("summary", "")).lower()
+                    if feed_info["keyword_filter"] not in text:
+                        continue
+
                 # Parse date
                 pub_date = None
                 if hasattr(entry, 'published'):
@@ -218,11 +261,12 @@ def fetch_rss_feeds() -> list:
                     continue
 
                 article = {
-                    "title": entry.get("title", ""),
-                    "url": entry.get("link", ""),
+                    "title": title,
+                    "url": link,
                     "summary": entry.get("summary", entry.get("description", "")),
                     "source": feed_info["name"],
-                    "date": pub_date.strftime("%Y-%m-%d") if pub_date else datetime.now().strftime("%Y-%m-%d")
+                    "date": pub_date.strftime("%Y-%m-%d") if pub_date else datetime.now().strftime("%Y-%m-%d"),
+                    "paywall": is_paywalled(link)
                 }
 
                 # Clean HTML from summary
@@ -234,6 +278,83 @@ def fetch_rss_feeds() -> list:
             print(f"  Error fetching {feed_info['name']}: {e}")
 
     return articles
+
+
+def fetch_google_news() -> list:
+    """Fetch articles from Google News RSS (aggregates outlets whose direct feeds are broken)"""
+    from urllib.parse import quote
+    articles = []
+
+    for query in GOOGLE_NEWS_QUERIES:
+        try:
+            url = f"https://news.google.com/rss/search?q={quote(query)}&hl=es-419&gl=CO&ceid=CO:es-419"
+            print(f"  Google News: {query}...")
+            feed = feedparser.parse(url)
+
+            for entry in feed.entries[:15]:
+                # El nombre del medio real viene en la etiqueta <source>
+                source_name = "Google News"
+                if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
+                    source_name = entry.source.title
+
+                # El título viene como "Titular - Medio": limpiar el sufijo
+                title = entry.get("title", "")
+                if title.endswith(f" - {source_name}"):
+                    title = title[:-(len(source_name) + 3)]
+
+                pub_date = None
+                if hasattr(entry, 'published'):
+                    try:
+                        pub_date = date_parser.parse(entry.published)
+                    except:
+                        pub_date = datetime.now()
+
+                # Only get articles from last 48 hours
+                if pub_date and (datetime.now() - pub_date.replace(tzinfo=None)) > timedelta(hours=48):
+                    continue
+
+                link = entry.get("link", "")
+                summary = re.sub(r'<[^>]+>', '', entry.get("summary", ""))[:500]
+
+                articles.append({
+                    "title": title,
+                    "url": link,
+                    "summary": summary,
+                    "source": source_name,
+                    "date": pub_date.strftime("%Y-%m-%d") if pub_date else datetime.now().strftime("%Y-%m-%d"),
+                    "paywall": is_paywalled(link) or is_paywalled(source_name.lower().replace(" ", ""))
+                             or source_name.strip().lower() == "el tiempo"
+                })
+
+        except Exception as e:
+            print(f"  Error fetching Google News for '{query}': {e}")
+
+    return articles
+
+
+def prefer_free_sources(articles: list) -> list:
+    """
+    Si la misma noticia aparece en un medio con paywall (ej: El Tiempo) y en otro medio
+    sin paywall, conservar solo la versión sin paywall.
+    """
+    free = [a for a in articles if not a.get("paywall")]
+    paywalled = [a for a in articles if a.get("paywall")]
+
+    result = list(free)
+    dropped = 0
+    for pw_article in paywalled:
+        has_free_version = any(
+            text_similarity(pw_article["title"], f["title"]) >= 0.55
+            for f in free
+        )
+        if has_free_version:
+            dropped += 1
+        else:
+            result.append(pw_article)
+
+    if dropped:
+        print(f"  [Paywall] {dropped} articulo(s) de medios con paywall descartados por existir version libre")
+    return result
 
 
 def fetch_news_api(api_key: str) -> list:
@@ -330,10 +451,9 @@ def analyze_with_claude(client: anthropic.Anthropic, articles: list, existing_ha
 
     prompt = f"""Eres un analista de noticias politicas colombianas para el sitio "La Lupa", un observatorio ciudadano de transparencia.
 
-CASOS YA DOCUMENTADOS (ultimos 7 dias) - NO DUPLICAR:
-{existing_cases_text}
+CONTEXTO: El 7 de agosto de 2026 termino el gobierno de Gustavo Petro (2022-2026) y comenzo el gobierno de Abelardo de la Espriella (2026-2030). El sitio tiene DOS secciones:
 
-Analiza los siguientes articulos y determina cuales son relevantes para documentar casos de:
+SECCION A - "archivo": Casos de corrupcion e irregularidades del gobierno Petro y su gente, incluyendo el SEGUIMIENTO de procesos judiciales y disciplinarios en curso (UNGRD, Nicolas Petro, pasaportes, exministros investigados, etc.). Categorias:
 - corrupcion: Casos de corrupcion, sobornos, malversacion
 - mentiras: Afirmaciones falsas o enganos por parte de funcionarios
 - nepotismo: Nombramientos a familiares o allegados sin merito
@@ -344,14 +464,28 @@ Analiza los siguientes articulos y determina cuales son relevantes para document
 - sanciones: Sanciones internacionales a funcionarios
 - abuso-poder: Abuso de autoridad, extralimitacion de funciones
 
-Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opiniones), responde en formato JSON:
+SECCION B - "nuevo-gobierno": Hechos concretos de GESTION del gobierno De la Espriella (medidas, decretos, resultados, manejo de la emergencia del terremoto del 10 de agosto de 2026). Tono descriptivo y objetivo, con cifras. Categorias:
+- gestion-emergencia: Manejo del terremoto y otras emergencias
+- seguridad: Medidas de seguridad, lucha contra grupos armados
+- economia: Medidas economicas y fiscales
+- transparencia: Medidas de transparencia, austeridad, anticorrupcion
+- gabinete: Conformacion del equipo de gobierno y nombramientos
+- empalme: Hallazgos y denuncias del empalme sobre el gobierno saliente
+- internacional: Relaciones exteriores y cooperacion
+- obras: Infraestructura, reconstruccion, agenda territorial
+
+CASOS YA DOCUMENTADOS (ultimos 7 dias) - NO DUPLICAR:
+{existing_cases_text}
+
+Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opiniones ni columnas), responde en formato JSON:
 
 {{
   "casos_relevantes": [
     {{
       "articulo_numero": 1,
+      "seccion": "archivo" o "nuevo-gobierno",
       "titulo_caso": "Titulo descriptivo del caso",
-      "categoria": "categoria_id",
+      "categoria": "categoria_id (de la seccion correspondiente)",
       "descripcion": "Descripcion breve y objetiva del caso (maximo 200 palabras)",
       "gravedad": "alta|media|baja",
       "personas_involucradas": ["Nombre 1", "Nombre 2"],
@@ -364,11 +498,11 @@ Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opini
 
 IMPORTANTE:
 - NO INCLUIR articulos que sean sobre el MISMO CASO que los ya documentados arriba
-- Si varios articulos hablan del mismo caso (ej: misma persona, misma entidad, mismo hecho), incluir SOLO UNO
+- Si varios articulos hablan del mismo caso, incluir SOLO UNO; si hay version con paywall (El Tiempo) y sin paywall, elegir el articulo del medio SIN paywall
 - Solo incluye articulos que documenten HECHOS CONCRETOS, no opiniones
 - relevancia_score de 1-10 (solo incluir si >= 6)
 - Evita articulos que sean solo especulacion o rumores
-- Relacionados con el gobierno actual de Colombia (Petro)
+- En "gravedad" para la seccion "nuevo-gobierno" usa la importancia del hecho (alta = decision de gran impacto nacional)
 - NUNCA incluir casos negativos sobre las siguientes personas (EXCLUIDAS): Abelardo de la Espriella, Fico de la Espriella
 - Si ningun articulo es relevante o todos son duplicados, devuelve {{"casos_relevantes": []}}
 
@@ -391,20 +525,44 @@ Responde SOLO con el JSON, sin explicaciones adicionales."""
         json_match = re.search(r'\{[\s\S]*\}', response_text)
         if json_match:
             result = json.loads(json_match.group())
-            return result.get("casos_relevantes", [])
+            casos = result.get("casos_relevantes", [])
+            # Asociar cada caso a su articulo original aqui mismo: la numeracion de Claude
+            # corresponde a new_articles (lista filtrada), no a la lista completa de main()
+            for caso in casos:
+                idx = caso.get("articulo_numero", 0) - 1
+                if 0 <= idx < len(new_articles):
+                    caso["_article"] = new_articles[idx]
+            return [c for c in casos if "_article" in c]
 
     except Exception as e:
         print(f"  Error analyzing with Claude: {e}")
+        # Fallar en rojo si no hay creditos: antes el workflow quedaba "en verde"
+        # y el pipeline moria en silencio durante meses (ver sesion 8-ago-2026)
+        if "credit balance" in str(e).lower():
+            print()
+            print("ERROR FATAL: La API key de Anthropic no tiene creditos.")
+            print("   Recargar en https://console.anthropic.com -> Plans & Billing")
+            raise SystemExit(1)
 
     return []
 
 
 def create_case_entry(analyzed: dict, article: dict, next_id: int) -> dict:
     """Create a properly formatted case entry"""
-    return {
+    seccion = analyzed.get("seccion", "archivo")
+    # Validar coherencia seccion/categoria
+    categoria = analyzed.get("categoria", "corrupcion")
+    if categoria in GESTION_CATEGORIES:
+        seccion = "nuevo-gobierno"
+    elif seccion == "nuevo-gobierno":
+        # Categoria no reconocida para gestion: usar generica
+        if categoria not in GESTION_CATEGORIES:
+            categoria = "gestion-emergencia" if "terremoto" in analyzed.get("titulo_caso", "").lower() else "gabinete"
+
+    entry = {
         "id": next_id,
         "titulo": analyzed.get("titulo_caso", article["title"]),
-        "categoria": analyzed.get("categoria", "corrupcion"),
+        "categoria": categoria,
         "fecha": article["date"],
         "descripcion": analyzed.get("descripcion", article["summary"]),
         "evidencia": f"Reportado por {article['source']}",
@@ -420,6 +578,11 @@ def create_case_entry(analyzed: dict, article: dict, next_id: int) -> dict:
         "auto_generated": True,
         "added_date": datetime.now().strftime("%Y-%m-%d %H:%M")
     }
+
+    if seccion == "nuevo-gobierno":
+        entry["seccion"] = "nuevo-gobierno"
+
+    return entry
 
 
 def main():
@@ -466,11 +629,20 @@ def main():
     all_articles.extend(rss_articles)
     print(f"   -> {len(rss_articles)} articulos de RSS")
 
+    # Google News (agrega medios sin feed directo: Semana, Blu Radio, Caracol, RCN, La FM, etc.)
+    print("  [Google News]")
+    gn_articles = fetch_google_news()
+    all_articles.extend(gn_articles)
+    print(f"   -> {len(gn_articles)} articulos de Google News")
+
     # NewsAPI
     print("  [NewsAPI]")
     news_api_articles = fetch_news_api(news_api_key)
     all_articles.extend(news_api_articles)
     print(f"   -> {len(news_api_articles)} articulos de NewsAPI")
+
+    # Preferir medios sin paywall cuando la misma noticia existe en varios
+    all_articles = prefer_free_sources(all_articles)
 
     print(f"\n   Total articulos encontrados: {len(all_articles)}")
     print()
@@ -499,10 +671,9 @@ def main():
     skipped_duplicates = 0
 
     for analyzed in analyzed_cases:
-        # Find the original article
-        article_idx = analyzed.get("articulo_numero", 1) - 1
-        if 0 <= article_idx < len(all_articles):
-            article = all_articles[article_idx]
+        # El articulo original viene asociado desde analyze_with_claude
+        article = analyzed.get("_article")
+        if article:
 
             # Check if relevance score is high enough
             if analyzed.get("relevancia_score", 0) >= 6:

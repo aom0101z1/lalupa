@@ -3973,3 +3973,205 @@ body {
 .admin-tabs {
     flex-wrap: wrap;
 }
+
+/* ================================
+   GESTIÓN NUEVO GOBIERNO (2026-2030)
+   ================================ */
+.gestion-section {
+    margin: 60px 0;
+    padding: 40px 32px;
+    background: linear-gradient(180deg, #f0fdf4 0%, var(--background) 100%);
+    border: 1px solid #bbf7d0;
+    border-radius: var(--radius-lg);
+}
+
+.gestion-header {
+    margin-bottom: 28px;
+}
+
+.gestion-title-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+}
+
+.gestion-title-row h2 {
+    font-size: 1.9rem;
+    color: var(--primary);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.gestion-title-row h2 i {
+    color: #059669;
+}
+
+.gestion-badge {
+    background: var(--gradient-success);
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding: 6px 14px;
+    border-radius: 999px;
+    letter-spacing: 0.5px;
+}
+
+.gestion-intro {
+    margin-top: 14px;
+    max-width: 900px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
+
+/* Franja comparativa saliente vs entrante */
+.gestion-compare {
+    display: flex;
+    align-items: stretch;
+    gap: 18px;
+    margin-top: 26px;
+    flex-wrap: wrap;
+}
+
+.compare-card {
+    flex: 1;
+    min-width: 260px;
+    background: var(--card-bg);
+    border-radius: var(--radius);
+    padding: 22px 24px;
+    box-shadow: var(--shadow-card);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-top: 4px solid var(--border);
+}
+
+.compare-saliente {
+    border-top-color: var(--danger);
+}
+
+.compare-entrante {
+    border-top-color: var(--success);
+}
+
+.compare-label {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted);
+    font-weight: 600;
+}
+
+.compare-nombre {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--text);
+}
+
+.compare-numero {
+    font-size: 2.4rem;
+    font-weight: 800;
+    line-height: 1.1;
+}
+
+.compare-saliente .compare-numero {
+    color: var(--danger);
+}
+
+.compare-entrante .compare-numero {
+    color: var(--success);
+}
+
+.compare-desc {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+.compare-vs {
+    align-self: center;
+    font-weight: 800;
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    background: var(--card-bg);
+    border: 2px solid var(--border);
+    border-radius: 50%;
+    width: 52px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+/* Chips de filtro por categoría */
+.gestion-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 24px 0;
+}
+
+.gestion-chip {
+    --chip-color: #059669;
+    background: var(--card-bg);
+    border: 1.5px solid var(--border);
+    color: var(--text-secondary);
+    padding: 8px 16px;
+    border-radius: 999px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.gestion-chip i {
+    color: var(--chip-color);
+}
+
+.gestion-chip:hover {
+    border-color: var(--chip-color);
+    color: var(--text);
+}
+
+.gestion-chip.active {
+    background: var(--chip-color);
+    border-color: var(--chip-color);
+    color: #fff;
+}
+
+.gestion-chip.active i {
+    color: #fff;
+}
+
+.gestion-section .casos-header h3 {
+    font-size: 1.25rem;
+    color: var(--primary);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.gestion-section .casos-header h3 i {
+    color: #059669;
+}
+
+@media (max-width: 768px) {
+    .gestion-section {
+        padding: 28px 16px;
+        margin: 40px 0;
+    }
+
+    .gestion-compare {
+        flex-direction: column;
+    }
+
+    .compare-vs {
+        align-self: center;
+        margin: -6px 0;
+    }
+}

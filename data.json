@@ -64,7 +64,760 @@
       "color": "#34495e"
     }
   ],
+  "categorias_gestion": [
+    {
+      "id": "gestion-emergencia",
+      "nombre": "Gestión de Emergencias",
+      "descripcion": "Manejo del terremoto del 10 de agosto de 2026 y otras emergencias",
+      "icono": "fa-house-damage",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": "seguridad",
+      "nombre": "Seguridad y Orden",
+      "descripcion": "Medidas de seguridad y lucha contra grupos armados ilegales",
+      "icono": "fa-shield-alt",
+      "color": "#059669"
+    },
+    {
+      "id": "economia",
+      "nombre": "Economía y Finanzas",
+      "descripcion": "Medidas económicas, fiscales y de reactivación",
+      "icono": "fa-chart-line",
+      "color": "#16a34a"
+    },
+    {
+      "id": "transparencia",
+      "nombre": "Transparencia",
+      "descripcion": "Medidas de transparencia, austeridad y anticorrupción",
+      "icono": "fa-eye",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "gabinete",
+      "nombre": "Gabinete y Nombramientos",
+      "descripcion": "Conformación del equipo de gobierno y criterios de nombramiento",
+      "icono": "fa-user-tie",
+      "color": "#0d9488"
+    },
+    {
+      "id": "empalme",
+      "nombre": "Empalme y Hallazgos",
+      "descripcion": "Estado en que se recibieron las entidades del gobierno saliente",
+      "icono": "fa-exchange-alt",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "internacional",
+      "nombre": "Relaciones Internacionales",
+      "descripcion": "Relaciones exteriores y cooperación internacional",
+      "icono": "fa-globe-americas",
+      "color": "#2563eb"
+    },
+    {
+      "id": "obras",
+      "nombre": "Obras y Territorio",
+      "descripcion": "Infraestructura, reconstrucción y agenda territorial",
+      "icono": "fa-hard-hat",
+      "color": "#d97706"
+    },
+    {
+      "id": "opinion-publica",
+      "nombre": "Opinión Pública",
+      "descripcion": "Encuestas y mediciones de aprobación del gobierno",
+      "icono": "fa-poll",
+      "color": "#6366f1"
+    }
+  ],
   "casos": [
+    {
+      "id": 897,
+      "titulo": "De la Espriella anuncia el desmonte de la Paz Total y firma extradiciones de negociadores de grupos armados",
+      "categoria": "seguridad",
+      "fecha": "2026-08-26",
+      "descripcion": "Desde el Palacio de San Carlos, el presidente De la Espriella anunció el 26 de agosto el desmonte definitivo de la Paz Total, la política de negociación del gobierno Petro, argumentando que permitió a estructuras delictivas obtener beneficios sin resultados verificables. Acompañado por el ministro de Justicia, Iván Cancino, firmó las resoluciones de extradición a Estados Unidos de tres exnegociadores: alias 'Mocho Olmedo' (Frente 33 de las disidencias de las Farc), alias 'Muñeca' (Los Pachenca) y alias 'Araña' (Comandos de Frontera), requeridos por narcotráfico, concierto para delinquir, lavado de activos y narcoterrorismo. Quedaron pendientes las órdenes contra alias 'H.H.' (Comuneros del Sur) y alias 'Pinocho' (Autodefensas Conquistadores de la Sierra Nevada), prófugos. La medida concretó el cierre de diálogos con grupos armados anunciado desde la posesión del 7 de agosto.",
+      "evidencia": "Reportado por Infobae, Diario del Huila",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/27/de-la-espriella-anuncio-el-desmonte-de-la-paz-total-de-petro-y-firmo-extradiciones-de-negociadores-de-las-disidencias-de-las-farc-los-pachenca-y-el-eln/",
+          "fecha": "2026-08-27"
+        },
+        {
+          "nombre": "Diario del Huila",
+          "url": "https://diariodelhuila.com/de-la-espriella-desmonta-la-paz-total-y-reactiva-extradiciones-de-negociadores/",
+          "fecha": "2026-08-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Iván Cancino"
+      ],
+      "entidad": "Presidencia / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 898,
+      "titulo": "Nueva cúpula militar y policial se posesiona en la Escuela Militar de Cadetes",
+      "categoria": "seguridad",
+      "fecha": "2026-08-26",
+      "descripcion": "El 20 de agosto el presidente De la Espriella anunció la nueva cúpula de las Fuerzas Militares y de Policía, y el 26 de agosto presidió la ceremonia de transmisión de mando en la Escuela Militar de Cadetes General José María Córdova, en Bogotá. La nueva cúpula quedó conformada por el mayor general Erick Rodríguez Aparicio como comandante general de las Fuerzas Militares; el mayor general Carlos Carrasquilla Gómez como jefe de Estado Mayor Conjunto; el mayor general José Bertulfo Soto Sánchez como comandante del Ejército; el vicealmirante Javier Alfonso Jaimes Pinilla como comandante de la Armada; el mayor general Juan Martínez Ossa como comandante de la Fuerza Aérea; y el mayor general Jesús Alejandro Barrera como director de la Policía Nacional. El acto reforzó el mensaje de que la seguridad será pilar central del gobierno.",
+      "evidencia": "Reportado por El Espectador, Pulzo, Vanguardia",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://www.elespectador.com/judicial/abelardo-de-la-espriella-posesiono-a-la-nueva-cupula-de-las-fuerzas-militares-y-policia/",
+          "fecha": "2026-08-26"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/nueva-cupula-militar-y-policial-de-colombia-2026-lista-de-ministros-y-comandantes-reconocidos-en-bogota-PP5285322A",
+          "fecha": "2026-08-26"
+        },
+        {
+          "nombre": "Vanguardia",
+          "url": "https://www.vanguardia.com/colombia/2026/08/27/esta-es-la-nueva-cupula-militar-y-policial-los-anuncios-de-seguridad-de-de-la-espriella/",
+          "fecha": "2026-08-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Erick Rodríguez Aparicio",
+        "Jesús Alejandro Barrera"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 899,
+      "titulo": "Gobierno inicia la fase de reconstrucción en Quibdó con subsidios de arriendo y entrega de materiales",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-24",
+      "descripcion": "El 24 de agosto, desde Quibdó (Chocó), el presidente De la Espriella anunció el inicio de la fase de reconstrucción tras el terremoto. Las familias cuyas viviendas quedaron destruidas o inhabitables recibirán un subsidio mensual de $875.452 durante tres meses (unos $2,6 millones por hogar), con pagos desde el 26 de agosto, financiados a través del Fondo Milagro. Se anunció además la entrega de las primeras 4.480 toneladas de materiales de construcción bajo un esquema de autorreparación y autorreconstrucción asistidas con acompañamiento profesional. En el sector privado, el Grupo Argos comprometió inicialmente 300 viviendas de construcción rápida y luego amplió la cifra a 1.000, de las cuales 600 se destinarán al Chocó. Ese mismo día vencía el plazo para que los municipios cargaran información en el Registro Único de Damnificados, herramienta para la distribución de ayudas.",
+      "evidencia": "Reportado por El Financiero, Pulzo",
+      "fuentes": [
+        {
+          "nombre": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/08/24/de-la-espriella-inicia-reconstruccion-tras-terremoto-en-colombia-daran-hasta-800-mil-pesos-a-familias/",
+          "fecha": "2026-08-24"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/terremoto-en-colombia-balance-oficial-de-rescatistas-victimas-y-ayuda-humanitaria-ungrd-PP5280214A",
+          "fecha": "2026-08-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jaime Uribe"
+      ],
+      "entidad": "Presidencia / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 900,
+      "titulo": "Aerocivil autoriza la reanudación de vuelos comerciales en el aeropuerto Matecaña de Pereira",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-22",
+      "descripcion": "El 22 de agosto, tras 11 días de cierre por los daños estructurales del terremoto (fisuras en la pista y afectaciones en la torre de control), la Aeronáutica Civil autorizó la reanudación de vuelos comerciales en el Aeropuerto Internacional Matecaña de Pereira, una de las ciudades más golpeadas por el sismo. La reapertura fue parcial y con capacidad reducida: de 60 vuelos diarios antes de la emergencia se pasó a 14, tras evaluaciones que verificaron condiciones de seguridad para pasajeros, trabajadores y tripulaciones. El 25 de agosto, Avianca anunció que reanudaría operaciones hacia Pereira desde el 26 de agosto, con dos vuelos diarios desde Bogotá y uno desde Medellín, e implementó topes tarifarios temporales de $228.000 por trayecto para proteger la accesibilidad de los usuarios durante la reactivación del servicio.",
+      "evidencia": "Reportado por El Heraldo, Infobae, Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "El Heraldo",
+          "url": "https://www.elheraldo.co/colombia/2026/08/22/aerocivil-autoriza-la-reanudacion-de-vuelos-comerciales-en-el-aeropuerto-de-pereira-tras-terremoto/",
+          "fecha": "2026-08-22"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/25/avianca-anuncio-que-reanudara-sus-vuelos-a-pereira-estas-son-las-facilidades-para-pasajeros-afectados-tras-el-terremoto/",
+          "fecha": "2026-08-25"
+        },
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/aeropuerto-de-pereira-retoma-operaciones-tras-terremoto-importante-aerolinea-presenta-hoja-de-ruta-para-sus-vuelos/",
+          "fecha": "2026-08-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aeronáutica Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 901,
+      "titulo": "Balance oficial a los 10 días del terremoto: 1.849 rescatistas, 349 personas rescatadas y más de 270 toneladas de ayuda internacional",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-21",
+      "descripcion": "El 21 de agosto, el Gobierno y la UNGRD presentaron el balance de los primeros diez días de atención de la emergencia. Se desplegaron 1.849 rescatistas oficiales en 54 grupos de búsqueda y rescate (16 equipos USAR acreditados), que en más de 216 horas de operaciones continuas rescataron a 349 personas, recuperaron 213 cuerpos y atendieron 1.044 animales. Se activaron Puestos de Mando Unificado a nivel nacional, departamental y municipal, se habilitaron albergues y hospitales de campaña, y se movilizaron 2.640 toneladas de ayuda desde Bogotá, además de más de 270 toneladas de ayuda internacional de El Salvador, México, Perú, Chile, Israel, China e India. El balance reportó 321 fallecidos, 4.595 heridos, 257 desaparecidos, 153.336 familias afectadas, 163.884 viviendas dañadas y 31.461 destruidas. El ministro de Vivienda, Jaime Andrés Beltrán, quedó al frente de la coordinación del Plan Milagro de Reconstrucción. Se usaron 16 drones y 250 imágenes satelitales del Chárter Internacional y la NASA para evaluar daños.",
+      "evidencia": "Reportado por Infobae, Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/21/mas-de-1800-rescatistas-atendieron-los-puntos-mas-afectados-por-el-terremoto-durante-los-primeros-diez-dias-este-es-el-balance/",
+          "fecha": "2026-08-21"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/21/gobierno-de-abelardo-de-la-espriella-hizo-balance-de-la-atencion-de-la-emergencia-luego-por-el-terremoto-de-74/",
+          "fecha": "2026-08-21"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/terremoto-en-colombia-balance-oficial-de-rescatistas-victimas-y-ayuda-humanitaria-ungrd-PP5280214A",
+          "fecha": "2026-08-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jaime Andrés Beltrán"
+      ],
+      "entidad": "UNGRD / Presidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 902,
+      "titulo": "ONU lanza adenda al plan de respuesta humanitaria: 1,2 millones de personas necesitan ayuda tras el terremoto",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-20",
+      "descripcion": "El 20 de agosto, Naciones Unidas informó que aproximadamente 1,2 millones de personas requieren asistencia humanitaria tras el sismo y presentó una adenda al Plan de Respuesta Humanitaria 2026 para Colombia, con una solicitud de US$148,1 millones para asistir a 671.000 personas, principalmente en Risaralda, Valle del Cauca, Chocó y Caldas. La OIM solicitó US$30 millones, el PMA US$23 millones y se asignaron US$5 millones del fondo CERF. Según OCHA, a esa fecha se reportaban más de 300 fallecidos, 426 desaparecidos, 4.500 heridos, unas 30.000 viviendas destruidas, 134.000 dañadas y 450.000 estudiantes afectados. OCHA documentó que el impacto abarcó 15 departamentos y más de 470 municipios, y que los socios humanitarios desplegaron equipos en coordinación con el Ministerio de Salud y otras instituciones colombianas, aunque persistían vacíos de información en municipios rurales y de difícil acceso.",
+      "evidencia": "Reportado por Noticias ONU, OCHA, ReliefWeb",
+      "fuentes": [
+        {
+          "nombre": "Noticias ONU",
+          "url": "https://news.un.org/es/story/2026/08/1541828",
+          "fecha": "2026-08-20"
+        },
+        {
+          "nombre": "OCHA",
+          "url": "https://www.unocha.org/publications/report/colombia/colombia-addendum-humanitarian-response-plan-earthquake-august-2026",
+          "fecha": "2026-08-18"
+        },
+        {
+          "nombre": "ReliefWeb",
+          "url": "https://reliefweb.int/report/colombia/colombia-earthquake-rapid-situation-overview-13-august-2026",
+          "fecha": "2026-08-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ONU / OCHA",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 903,
+      "titulo": "Decreto 1261 declara el Estado de Emergencia Económica, Social y Ecológica en 15 departamentos",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-19",
+      "descripcion": "Mediante el Decreto 1261 del 19 de agosto de 2026, el presidente De la Espriella, con la firma de todos sus ministros y con base en el artículo 215 de la Constitución, declaró el Estado de Emergencia Económica, Social y Ecológica por 30 días en 15 departamentos: Antioquia, Caldas, Cauca, Chocó, Quindío, Cundinamarca, Risaralda, Huila, Valle del Cauca, Tolima, Putumayo, Norte de Santander, Bolívar, Nariño y Sucre. El decreto habilita al Ejecutivo a expedir normas con fuerza de ley para movilizar recursos, crear un fondo de emergencia para la reconstrucción, adoptar medidas tributarias y de colaboración con empresas públicas y privadas, flexibilizar temporalmente competencias judiciales, garantizar la continuidad de notarías, Casas de Justicia y Comisarías de Familia, y proteger a personas privadas de la libertad ante daños en infraestructura carcelaria. El 21 de agosto, la Corte Constitucional asumió la revisión automática del decreto, con el magistrado Juan Carlos Cortés como ponente.",
+      "evidencia": "Reportado por Pulzo, Actualícese, El Heraldo, Infobae",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/terremoto-en-colombia-decreto-1261-de-2026-declara-emergencia-y-medidas-judiciales-extraordinarias-PP5279634A",
+          "fecha": "2026-08-20"
+        },
+        {
+          "nombre": "Actualícese",
+          "url": "https://actualicese.com/el-gobierno-declara-la-emergencia-economica-en-15-departamentos-por-el-terremoto-mediante-el-decreto-1261/",
+          "fecha": "2026-08-20"
+        },
+        {
+          "nombre": "El Heraldo",
+          "url": "https://www.elheraldo.co/colombia/2026/08/21/las-medidas-clave-del-decreto-de-emergencia-de-adle-por-el-sismo/",
+          "fecha": "2026-08-21"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/21/corte-constitucional-revisara-decreto-de-emergencia-por-terremoto-juan-carlos-cortes-sera-ponente/",
+          "fecha": "2026-08-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Juan Carlos Cortés"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 904,
+      "titulo": "Gobierno prepara reforma tributaria para septiembre con déficit fiscal estimado en 7,8% del PIB",
+      "categoria": "economia",
+      "fecha": "2026-08-18",
+      "descripcion": "El ministro de Hacienda, Miguel Gómez Martínez, confirmó que el gobierno radicará en septiembre de 2026 una reforma tributaria estructural, y estimó el déficit fiscal en 7,8% del PIB, cifra superior al 5,5% calculado por el gobierno saliente. Según lo divulgado el 18 de agosto, la reforma no aumentaría las tarifas empresariales: buscaría un recaudo de entre $25 y $32 billones en 2027 (1,2%-1,5% del PIB) mediante la ampliación de la base gravable, la revisión de beneficios tributarios —que pasaron de $68 a $136 billones entre 2019 y 2023— y la reducción de la evasión, estimada en 35% en IVA y 40% en renta. El déficit del Presupuesto General de la Nación 2027 se calcula en $30,2 billones. La reforma incluiría la eliminación del impuesto al patrimonio anunciada en la posesión, en una hoja de ruta que contempla también la recuperación de Ecopetrol.",
+      "evidencia": "Reportado por Infobae, El Colombiano, Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/18/nueva-reforma-de-de-la-espriella-no-tocaria-las-tarifas-de-las-empresas-pero-si-acabaria-con-beneficios-y-haria-que-mas-colombianos-declaren/",
+          "fecha": "2026-08-18"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/negocios/reforma-tributaria-de-la-espriella-impuesto-patrimonio-fracking-PI39758520",
+          "fecha": "2026-08-08"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncia-reforma-tributaria-recuperacion-de-ecopetrol-y-un-plan-para-reactivar-la-economia-499945",
+          "fecha": "2026-08-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gómez Martínez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 905,
+      "titulo": "Gobierno entrega a la Fiscalía el 'Libro de la Verdad' con más de 80 denuncias del empalme sobre el gobierno Petro",
+      "categoria": "empalme",
+      "fecha": "2026-08-18",
+      "descripcion": "El 18 de agosto, el presidente De la Espriella entregó a la fiscal general Luz Adriana Camargo el llamado 'Libro de la Verdad', con más de 80 denuncias por presuntas irregularidades detectadas durante el empalme con el gobierno Petro, en un acto en la Fiscalía al que asistieron el defensor del Pueblo, Gregorio Eljach, y el contralor Jorge Eliécer Laverde. Según el vicepresidente José Manuel Restrepo, los casos cubren distintas entidades del Estado e identifican nueve conductas repetidas. El documento incluye una denuncia sobre una presunta nómina paralela de 900.000 contratos de prestación de servicios que según el presidente representaron más de 5 billones de pesos. El proceso se suma a las denuncias radicadas a comienzos de agosto por el Grupo Élite del Empalme Anticorrupción por irregularidades superiores a $370.000 millones en el Ministerio de Defensa (sistemas antidrones con sobrecostos de hasta 85%), la UNP (contratación directa por $24.800 millones pese a orden judicial de suspensión) y Cenit, filial de Ecopetrol (contrato cercano a $23.000 millones).",
+      "evidencia": "Reportado por Vanguardia, El Universal, Semana, El Pais",
+      "fuentes": [
+        {
+          "nombre": "Vanguardia",
+          "url": "https://www.vanguardia.com/colombia/2026/08/18/abelardo-entrega-a-la-fiscalia-el-libro-blanco-80-denuncias-que-ponen-bajo-la-lupa-al-gobierno-petro/",
+          "fecha": "2026-08-18"
+        },
+        {
+          "nombre": "El Universal",
+          "url": "https://www.eluniversal.com.co/colombia/2026/08/18/de-la-espriella-entrega-el-libro-de-la-verdad-contiene-80-denuncias-contra-el-gobierno-petro/",
+          "fecha": "2026-08-18"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-entrego-a-la-fiscalia-el-libro-de-la-verdad-con-80-casos-de-corrupcion-en-el-gobierno-petro/202637/",
+          "fecha": "2026-08-18"
+        },
+        {
+          "nombre": "El Pais",
+          "url": "https://www.elpais.com.co/politica/de-la-espriella-denuncia-irregularidades-en-el-gobierno-petro-por-mas-de-370000-millones-0508.html",
+          "fecha": "2026-08-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Luz Adriana Camargo",
+        "José Manuel Restrepo",
+        "Germán Calderón España"
+      ],
+      "entidad": "Fiscalía General de la Nación / Presidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 906,
+      "titulo": "De la Espriella anuncia que la reconstrucción costará 30 billones de pesos y crea el Fondo Milagro",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-17",
+      "descripcion": "El 17 de agosto, el presidente De la Espriella afirmó que la reconstrucción de las zonas afectadas por el terremoto costará al menos 30 billones de pesos (más de US$9.500 millones). La reconstrucción será coordinada por un fondo denominado 'Fondo Milagro', cuya gerencia fue encargada al empresario Jaime Uribe, con el Forec (fondo creado tras el terremoto de Armenia de 1999) como modelo de referencia. El esquema busca que la reconstrucción no dependa exclusivamente del presupuesto público, movilizando capital privado y capacidad empresarial; el Gobierno propuso además ampliar el mecanismo de 'Reconstrucción por Impuestos' en municipios afectados de Antioquia y Valle del Cauca. El vicepresidente José Manuel Restrepo explicó que se usarían créditos contingentes de rápido acceso del BID y recursos de la CAF. El presidente reconoció que el país tendría que endeudarse, aunque el Gobierno descartó aumentos tributarios inmediatos.",
+      "evidencia": "Reportado por CNN en Español, Pulzo, El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/08/17/colombia/espriella-reconstruccion-terremoto-orix",
+          "fecha": "2026-08-17"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/como-financiara-reconstruccion-tras-terremoto-colombia-gobierno-revelo-PP5278997A",
+          "fecha": "2026-08-17"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/negocios/colombia-necesita-30-billones-para-reconstruccion-tras-terremoto-FH40212124",
+          "fecha": "2026-08-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jaime Uribe",
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Presidencia / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 907,
+      "titulo": "Primer consejo de ministros del cuatrienio se programa en La Guajira como inicio de la agenda territorial",
+      "categoria": "gabinete",
+      "fecha": "2026-08-13",
+      "descripcion": "El gobierno anunció el 8 de agosto que el primer consejo de ministros del cuatrienio se realizaría el jueves 13 de agosto en La Guajira, según confirmó el ministro de Comercio, Industria y Turismo, Mauricio Gómez Amín, en desarrollo de la promesa de campaña de gobernar desde las regiones y descentralizar las decisiones de la Casa de Nariño. La agenda priorizó educación, salud, seguridad, oportunidades económicas y conectividad vial del departamento. Como preparación, la ministra de Transporte, Elsa Noguera, se reunió con el gobernador Jairo Aguilar para coordinar proyectos viales: la vía de la Alta Guajira, la conclusión de la ruta Francisco el Hombre y el mejoramiento de vías terciarias para los campesinos de la región. Fue la primera sesión de trabajo conjunto de los 18 ministros posesionados tras la investidura del 7 de agosto en Cali.",
+      "evidencia": "Reportado por La FM, El Universal, Semana",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://www.lafm.com.co/politica/primer-consejo-ministros-de-la-espriella-fecha-lugar-confirmados-407249",
+          "fecha": "2026-08-08"
+        },
+        {
+          "nombre": "El Universal",
+          "url": "https://www.eluniversal.com.co/colombia/2026/08/08/gobierno-de-la-espriella-anuncia-su-primer-consejo-de-ministros-donde-y-cuando-se-hara/",
+          "fecha": "2026-08-08"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/vehiculos/articulo/la-guajira-en-la-mira-las-prioridades-del-gobierno-de-la-espriella-para-mejorar-la-infraestructura-vial/202627/",
+          "fecha": "2026-08-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Mauricio Gómez Amín",
+        "Elsa Noguera",
+        "Jairo Aguilar"
+      ],
+      "entidad": "Consejo de Ministros",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 908,
+      "titulo": "Llegada de brigadas internacionales de rescate a las zonas afectadas por el terremoto",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-13",
+      "descripcion": "Entre el 12 y el 13 de agosto comenzaron a llegar a Colombia equipos internacionales de búsqueda y rescate para reforzar las labores en los puntos más golpeados por el sismo. El 13 de agosto arribó una brigada de rescatistas estadounidenses, cuyo despliegue fue ordenado por el presidente Donald Trump como parte de la ayuda internacional. También se sumaron los Topos Azteca de México, uno de los equipos de búsqueda y rescate con mayor experiencia mundial, junto con brigadistas de Panamá y Venezuela, además de contingentes de Ecuador e Israel. Según el balance oficial posterior de la UNGRD, en total se coordinaron 54 grupos de búsqueda y rescate, incluidos 16 equipos USAR acreditados, con participación de brigadas internacionales de Estados Unidos, Ecuador, México e Israel.",
+      "evidencia": "Reportado por Infobae, CNN en Español",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/13/tras-el-terremoto-de-74-en-colombia-llego-brigada-de-rescatistas-estadounidenses-salvar-vidas/",
+          "fecha": "2026-08-13"
+        },
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/08/12/colombia/terremoto-ayuda-internacional-rescatistas-orix",
+          "fecha": "2026-08-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Donald Trump"
+      ],
+      "entidad": "UNGRD / Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 909,
+      "titulo": "Colombia ingresa a la coalición antidrogas A3C y autoriza operativos conjuntos con Estados Unidos",
+      "categoria": "internacional",
+      "fecha": "2026-08-12",
+      "descripcion": "El 12 de agosto, en una reunión en Panamá, el ministro de Defensa Jorge Eduardo Mora firmó la adhesión de Colombia a la Coalición contra los Carteles de las Américas (A3C), iniciativa impulsada por el gobierno de Donald Trump, convirtiéndose en su miembro número 19. En el mismo encuentro, el secretario de Defensa de Estados Unidos, Pete Hegseth, anunció que el gobierno De la Espriella solicitó al Departamento de Defensa acompañamiento en su lucha contra el narcoterrorismo y autorizó operaciones militares conjuntas en territorio colombiano contra redes consideradas terroristas. La decisión marcó un giro en la relación bilateral tras la descertificación de Colombia en la lucha antidrogas decidida por Washington en septiembre de 2025, la primera en casi tres décadas. El anuncio generó controversia política interna por la presencia militar estadounidense en suelo colombiano.",
+      "evidencia": "Reportado por CNN en Español, Infobae, Diario Las Américas",
+      "fuentes": [
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/08/13/colombia/paises-permiten-presencia-militar-eeuu-orix",
+          "fecha": "2026-08-13"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/13/secretario-de-guerra-de-estados-unidos-dio-mas-detalles-sobre-la-decision-de-operativos-conjuntos-con-colombia-no-querras-meterte-con-nosotros/",
+          "fecha": "2026-08-13"
+        },
+        {
+          "nombre": "Diario Las Américas",
+          "url": "https://www.diariolasamericas.com/america-latina/eeuu-anuncia-operaciones-militares-conjuntas-colombia-contra-grupos-narcoterroristas-n5400482",
+          "fecha": "2026-08-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eduardo Mora López",
+        "Pete Hegseth",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Defensa / Cancillería",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 910,
+      "titulo": "Gobierno reporta ofertas de ayuda internacional por US$1.300 millones y crea puesto de mando de cooperación",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-12",
+      "descripcion": "El 12 de agosto, el vicepresidente José Manuel Restrepo anunció que el país había recibido ofertas de cooperación internacional, financiera y técnica, por más de US$1.300 millones de gobiernos y organismos multilaterales tras el terremoto. Entre las contribuciones reportadas: el Grupo BID ofreció US$300 millones en financiamiento rápido, la CAF US$500.000 para necesidades humanitarias y el Banco Mundial un donativo no reembolsable de US$200.000; Estados Unidos aportó entre US$15 y 16 millones iniciales para respuesta inmediata. Ecuador envió 47 rescatistas con equipos, El Salvador dos aviones con 100 toneladas de suministros y Perú un avión con 12,5 toneladas y 62 rescatistas; también se sumaron México, Brasil, Suecia, Turquía, Japón y Suiza, entre más de 25 países y organismos. Para coordinar los ofrecimientos, la Cancillería estableció un puesto de mando de cooperación internacional liderado por el canciller Omar Bula.",
+      "evidencia": "Reportado por Infobae, Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/12/gobierno-nacional-anuncio-que-le-han-recibido-ofertas-de-ayuda-internacional-por-us1300-millones-tras-el-terremoto-en-colombia-en-que-consiste/",
+          "fecha": "2026-08-12"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/mundo/ayuda-internacional-a-colombia-tras-el-terremoto-de-2026-paises-donantes-y-recursos-clave-PP5278605A",
+          "fecha": "2026-08-12"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo",
+        "Omar Bula Escobar"
+      ],
+      "entidad": "Vicepresidencia / Cancillería",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 911,
+      "titulo": "Primera medición de imagen: 52,4% de aprobación, cuarto lugar en ranking latinoamericano",
+      "categoria": "opinion-publica",
+      "fecha": "2026-08-11",
+      "descripcion": "A menos de una semana de su posesión, De la Espriella apareció en el cuarto lugar del ranking de favorabilidad de presidentes latinoamericanos de la firma CB Global Data correspondiente a agosto de 2026, publicado el 11 de agosto, con 52,4% de imagen positiva y 42,2% de imagen negativa. Solo lo superaron Nayib Bukele (El Salvador, 68,7%), Claudia Sheinbaum (México, 66,5%) y Keiko Fujimori (Perú, 55,0%). La medición comparó la imagen positiva y negativa de los mandatarios de la región y ubicó al nuevo presidente colombiano entre los de mayor aceptación en América Latina al inicio de su mandato. Se trata de la primera medición de opinión pública disponible sobre el nuevo gobierno; a la fecha no se conocían encuestas nacionales de aprobación de gestión (Invamer, Datexco u otras) publicadas después de la posesión.",
+      "evidencia": "Reportado por Infobae, Semana, Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/12/abelardo-de-la-espriella-es-uno-de-los-presidentes-con-mayor-aceptacion-en-latinoamerica-a-menos-de-una-semana-de-su-posesion/",
+          "fecha": "2026-08-12"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mundo/articulo/abelardo-de-la-espriella-esta-en-los-primeros-lugares-del-ranking-de-favorabilidad-de-presidentes-asi-le-fue-al-nuevo-mandatario/202657/",
+          "fecha": "2026-08-11"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/aprobacion-abelardo-espriella-cierre-mandato-gustavo-petro-PP5273846",
+          "fecha": "2026-08-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "CB Global Data",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 912,
+      "titulo": "Aerocivil ordena la reapertura gradual de aeropuertos al día siguiente del sismo",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-08-11",
+      "descripcion": "El 11 de agosto, un día después del terremoto de magnitud 7,4, la Aeronáutica Civil anunció la reapertura gradual y con restricciones de los aeropuertos afectados. Reabrieron seis terminales: Cali (Alfonso Bonilla Aragón, sin daños y con operación total), Quibdó (El Caraño), Armenia (El Edén, con restricción temporal como alterno), Buenaventura (Gerardo Tovar López), Manizales (La Nubia, con reparaciones en su torre de control por fisuras) y Cartago (Santa Ana, exclusivo para aeronaves de Estado y emergencias). El aeropuerto Matecaña de Pereira permaneció cerrado a vuelos comerciales por fisuras en la pista y daños en la torre de control, y solo recibió vuelos de Estado y misiones médicas y humanitarias. La ministra de Transporte, Elsa Noguera, destacó la recuperación de la operación en Buenaventura. Las evaluaciones fueron realizadas por equipos de infraestructura, seguridad operacional, servicios a la navegación aérea y Bomberos Aeronáuticos.",
+      "evidencia": "Reportado por Infobae, Volavi",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/11/aeronautica-civil-anuncio-la-reapertura-gradual-con-restricciones-de-los-aeropuertos-en-colombia-tras-el-terremoto-de-magnitud-74/",
+          "fecha": "2026-08-11"
+        },
+        {
+          "nombre": "Volavi",
+          "url": "https://volavi.co/aviacion/noticias/aeropuertos-colombia-abiertos-cerrados-terremoto-11-agosto-2026",
+          "fecha": "2026-08-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Elsa Noguera"
+      ],
+      "entidad": "Aeronáutica Civil / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 913,
+      "titulo": "Anuncio del decreto de congelamiento del gasto público como primera medida económica",
+      "categoria": "economia",
+      "fecha": "2026-08-07",
+      "descripcion": "En su discurso de posesión, De la Espriella anunció que firmaría en las próximas horas un decreto de congelamiento del gasto público como primera acción de gobierno para poner la casa en orden y recuperar la confianza en la economía. Afirmó que el gobierno saliente impulsó un crecimiento desmedido del gasto con base en un endeudamiento que debilitó las finanzas nacionales, y prometió que la austeridad no recaerá sobre quienes más necesitan la protección del Estado. El ministro de Hacienda designado, Miguel Gómez Martínez, explicó que el decreto frenaría partidas presupuestales no ejecutadas y revisaría rubros antes de que se conviertan en obligaciones del Estado, señalando que entre enero y abril el Estado gastó unos 40 billones de pesos mensuales frente a un recaudo cercano a 28 billones. El paquete inicial incluyó además el anuncio de eliminación del impuesto al patrimonio.",
+      "evidencia": "Reportado por Semana, El Colombiano, Bloomberg Línea",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/abelardo-de-la-espriella-anuncia-que-firmara-un-decreto-de-congelamiento-del-gasto-publico-tenemos-que-poner-la-casa-en-orden/202647/",
+          "fecha": "2026-08-07"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cambios-decretos-abelardo-de-la-espriella-posesion-cali-JP39723857",
+          "fecha": "2026-08-07"
+        },
+        {
+          "nombre": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/de-la-espriella-anuncia-reforma-tributaria-y-congelara-el-gasto-publico/",
+          "fecha": "2026-08-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Miguel Gómez Martínez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 914,
+      "titulo": "Anuncio de construcción de megacárceles de máxima seguridad",
+      "categoria": "seguridad",
+      "fecha": "2026-08-07",
+      "descripcion": "En su primer discurso como presidente, De la Espriella anunció que en su gobierno se construirán megacárceles destinadas a recluir a quienes representan la mayor amenaza para la seguridad del pueblo, dentro de una política de mano dura contra las organizaciones criminales que también incluye la reanudación de fumigaciones contra cultivos ilícitos. Según los planes divulgados posteriormente por medios, la propuesta contempla siete centros penitenciarios de máxima seguridad durante el cuatrienio 2026-2030, diseñados para impedir comunicaciones ilegales de los internos y desarrollados mediante esquemas de asociación con empresas privadas, con controles estrictos sobre cabecillas de organizaciones criminales. En agosto el presidente ratificó la decisión y dio instrucciones al director del Inpec sobre el control de los reclusos de mayor peligrosidad. La cifra exacta de cárceles, presupuesto y cronograma no fue detallada en el discurso inaugural.",
+      "evidencia": "Reportado por Noticias Caracol, Pulzo, Semana",
+      "fuentes": [
+        {
+          "nombre": "Noticias Caracol",
+          "url": "https://www.noticiascaracol.com/politica/se-construiran-megacarceles-el-anuncio-de-abelardo-de-la-espriella-es-su-primer-discurso-rg10",
+          "fecha": "2026-08-07"
+        },
+        {
+          "nombre": "Pulzo",
+          "url": "https://www.pulzo.com/nacion/abelardo-espriella-dio-anuncio-sobre-megacarceles-primer-discurso-PP5268738A",
+          "fecha": "2026-08-07"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/presidente-de-la-espriella-revelo-decision-final-sobre-la-construccion-de-megacarceles-y-dio-instruccion-al-director-del-inpec/202612/",
+          "fecha": "2026-08-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Justicia / Inpec",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 915,
+      "titulo": "Posesión de los 18 ministros del gabinete mediante Decreto 1136, con paridad de género",
+      "categoria": "gabinete",
+      "fecha": "2026-08-07",
+      "descripcion": "Mediante el Decreto 1136 del 7 de agosto de 2026, el presidente De la Espriella oficializó el nombramiento de sus 18 ministros, posesionados en un acto en el Batallón Pichincha de Cali. El gabinete quedó integrado por nueve mujeres y nueve hombres, en cumplimiento de la ley de cuotas de género. Entre los principales nombramientos: Rodrigo Lara Restrepo (Interior), Jorge Eduardo Mora López (Defensa), Omar Bula Escobar (Relaciones Exteriores), Miguel Gómez Martínez (Hacienda), Iván Cancino (Justicia), Ana María Vesga (Salud), Viviane Morales (Educación), Mauricio Gómez Amín (Comercio), Elsa Noguera (Transporte), Paola Holguín (Culturas) y Alexandra Falla Zerrate (TIC). También se posesionaron el director del Dapre y la consejera presidencial para las regiones, Valerie Lafaurie; Andrés Barreto fue designado secretario jurídico de la Presidencia. El vicepresidente José Manuel Restrepo presentó al equipo como el 'gabinete de la Patria Milagro'.",
+      "evidencia": "Reportado por Infobae, El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/08/abelardo-de-la-espriella-posesiono-18-ministros-de-su-gabinete-fue-en-un-acto-privado-en-el-batallon-pichincha-de-cali/",
+          "fecha": "2026-08-08"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/posesion-ministros-abelardo-de-la-espriella-gabinete-MP39728343",
+          "fecha": "2026-08-08"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/03/asi-esta-conformado-el-gabinete-de-abelardo-de-la-espriella-quienes-son-los-18-ministros-y-sus-perfiles/",
+          "fecha": "2026-08-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "José Manuel Restrepo",
+        "Rodrigo Lara Restrepo",
+        "Miguel Gómez Martínez",
+        "Iván Cancino",
+        "Viviane Morales"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 916,
+      "titulo": "Abelardo de la Espriella se posesiona como presidente en Cali, primera investidura fuera de Bogotá",
+      "categoria": "gabinete",
+      "fecha": "2026-08-07",
+      "descripcion": "Abelardo de la Espriella tomó posesión como presidente de Colombia para el periodo 2026-2030 en la Arena de la Universidad Santiago de Cali, en la primera investidura presidencial celebrada fuera de Bogotá. La ceremonia cerró la transición iniciada tras su victoria en segunda vuelta del 21 de junio de 2026 sobre el candidato del Pacto Histórico, Iván Cepeda. En su primer discurso anunció los ejes de su gobierno: prioridad a la seguridad, combate a los grupos armados ilegales, suspensión de las negociaciones de paz abiertas por su antecesor, austeridad fiscal y una agenda de gobierno desde las regiones. Estados Unidos envió una delegación de alto nivel encabezada por el fiscal general interino Todd Blanche, con predominio de funcionarios de justicia, seguridad y lucha antidrogas.",
+      "evidencia": "Reportado por Infobae, CNN en Español, Cambio Colombia",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
+          "fecha": "2026-08-07"
+        },
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/08/07/colombia/live-news/abelardo-espriella-posesion-investidura-presidencial-orix",
+          "fecha": "2026-08-07"
+        },
+        {
+          "nombre": "Cambio Colombia",
+          "url": "https://cambiocolombia.com/poder/articulo/2026/8/asi-es-la-delegacion-de-estados-unidos-para-la-posesion-de-abelardo-de-la-espriella-nueve-delegados-casi-todos-de-seguridad-y-antinarcoticos",
+          "fecha": "2026-08-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Iván Cepeda",
+        "Todd Blanche"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-08-27 12:00",
+      "seccion": "nuevo-gobierno"
+    },
     {
       "id": 896,
       "titulo": "La FM publica el balance de los diez mayores escándalos políticos del gobierno Petro al cierre del mandato",

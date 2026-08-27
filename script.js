@@ -19,6 +19,10 @@ let filteredCasos = [];
 let currentPage = 1;
 const CASES_PER_PAGE = 24;
 
+// Sección Gestión Nuevo Gobierno (2026-2030)
+let filteredGestion = [];
+let gestionCategoriaActiva = '';
+
 // Elementos del DOM
 const statsGrid = document.getElementById('stats-grid');
 const casosGrid = document.getElementById('casos-grid');
@@ -200,7 +204,9 @@ function populateMediosFilter() {
 
 // Renderizar estadisticas
 function renderStats() {
-    const totalCasos = data.casos.length;
+    // Las estadísticas cubren el archivo del gobierno saliente; la gestión del nuevo gobierno tiene su propia sección
+    const casosArchivo = data.casos.filter(c => c.seccion !== 'nuevo-gobierno');
+    const totalCasos = casosArchivo.length;
 
     // Calcular estadisticas dinamicamente
     const statsPorCategoria = {};
@@ -208,7 +214,7 @@ function renderStats() {
         statsPorCategoria[cat.id] = 0;
     });
 
-    data.casos.forEach(caso => {
+    casosArchivo.forEach(caso => {
         if (statsPorCategoria[caso.categoria] !== undefined) {
             statsPorCategoria[caso.categoria]++;
         }
@@ -253,18 +259,13 @@ function filterAndRenderCasos() {
     // Filtrar
     filteredCasos = data.casos.filter(caso => {
         // Filtro de aprobación: ocultar casos auto-generados no aprobados para usuarios públicos
-        if (caso.auto_generated) {
-            const status = caseApprovals[caso.id];
-            // Casos con estado explícito en Firestore: respetar el estado
-            if (status === 'rejected') return false;
-            if (status === 'approved') { /* continuar con otros filtros */ }
-            // Casos sin estado: pendientes si fueron creados desde el 5 de feb 2026
-            else if (!status) {
-                const caseDate = caso.added_date || caso.fecha;
-                if (caseDate && caseDate >= '2026-02-05' && !(typeof isAdmin !== 'undefined' && isAdmin)) {
-                    return false;
-                }
-            }
+        if (!isCasoAprobado(caso)) {
+            return false;
+        }
+
+        // Los hechos del nuevo gobierno tienen su propia sección
+        if (caso.seccion === 'nuevo-gobierno') {
+            return false;
         }
 
         // Busqueda
@@ -325,6 +326,175 @@ function filterAndRenderCasos() {
     });
 
     renderCasos();
+
+    // Mantener sincronizada la sección Gestión Nuevo Gobierno (aprobaciones, login admin, etc.)
+    renderGestionSection();
+}
+
+// Visibilidad por aprobación: casos auto-generados requieren aprobación del admin
+function isCasoAprobado(caso) {
+    if (!caso.auto_generated) return true;
+    const status = caseApprovals[caso.id];
+    // Casos con estado explícito en Firestore: respetar el estado
+    if (status === 'rejected') return false;
+    if (status === 'approved') return true;
+    // Casos sin estado: pendientes (ocultos al público) si fueron creados desde el 5 de feb 2026
+    const caseDate = caso.added_date || caso.fecha;
+    if (caseDate && caseDate >= '2026-02-05' && !(typeof isAdmin !== 'undefined' && isAdmin)) {
+        return false;
+    }
+    return true;
+}
+
+// Buscar info de categoría en categorías principales o de gestión
+function findCategoriaInfo(id) {
+    return data.categorias.find(c => c.id === id)
+        || (data.categorias_gestion || []).find(c => c.id === id)
+        || { nombre: id, color: '#95a5a6', icono: 'fa-circle' };
+}
+
+// HTML de una tarjeta de caso (compartido entre Casos y Gestión Nuevo Gobierno)
+function casoCardHTML(caso) {
+    const categoria = findCategoriaInfo(caso.categoria);
+
+    return `
+        <div class="caso-card" data-id="${caso.id}">
+            <div class="caso-card-header">
+                <span class="caso-categoria" style="background: ${categoria.color}">
+                    <i class="fas ${categoria.icono}"></i>
+                    ${categoria.nombre}
+                </span>
+                <span class="caso-fecha">
+                    <i class="far fa-calendar"></i>
+                    ${formatDate(caso.fecha)}
+                </span>
+            </div>
+            <div class="caso-card-body">
+                <h3 class="caso-titulo">${escapeHtml(caso.titulo)}</h3>
+                <p class="caso-descripcion">${escapeHtml(caso.descripcion)}</p>
+                <div class="caso-meta">
+                    ${caso.entidad ? `
+                        <span class="caso-meta-item">
+                            <i class="fas fa-building"></i>
+                            ${escapeHtml(caso.entidad)}
+                        </span>
+                    ` : ''}
+                    ${caso.gravedad ? `
+                        <span class="caso-gravedad ${caso.gravedad}">${caso.gravedad}</span>
+                    ` : ''}
+                    ${caso.estado ? `
+                        <span class="caso-estado ${caso.estado.toLowerCase().replace(/ /g, '')}">${escapeHtml(caso.estado)}</span>
+                    ` : ''}
+                    <span class="caso-meta-item">
+                        <i class="fas fa-link"></i>
+                        ${caso.fuentes ? caso.fuentes.length : 0} fuente${caso.fuentes && caso.fuentes.length !== 1 ? 's' : ''}
+                    </span>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
+// ============================================================
+// SECCIÓN: GESTIÓN NUEVO GOBIERNO (2026-2030)
+// ============================================================
+
+// Hechos de gestión del nuevo gobierno (visibles según aprobación)
+function getGestionCasos() {
+    return data.casos.filter(c => c.seccion === 'nuevo-gobierno' && isCasoAprobado(c));
+}
+
+function renderGestionSection() {
+    if (!document.getElementById('gestion-grid')) return;
+    renderGestionCompare();
+    renderGestionFilters();
+    renderGestionCasos();
+}
+
+// Franja comparativa: gobierno saliente vs entrante
+function renderGestionCompare() {
+    const container = document.getElementById('gestion-compare');
+    if (!container) return;
+
+    const casosSaliente = data.casos.filter(c => c.seccion !== 'nuevo-gobierno' && isCasoAprobado(c)).length;
+    const hechosNuevo = getGestionCasos().length;
+
+    container.innerHTML = `
+        <div class="compare-card compare-saliente">
+            <span class="compare-label">Gobierno saliente · 2022-2026</span>
+            <span class="compare-nombre">Gustavo Petro</span>
+            <span class="compare-numero">${casosSaliente}</span>
+            <span class="compare-desc">casos de corrupción e irregularidades documentados con fuentes</span>
+        </div>
+        <div class="compare-vs">VS</div>
+        <div class="compare-card compare-entrante">
+            <span class="compare-label">Gobierno entrante · 2026-2030</span>
+            <span class="compare-nombre">Abelardo de la Espriella</span>
+            <span class="compare-numero">${hechosNuevo}</span>
+            <span class="compare-desc">hechos de gestión documentados con fuentes desde el 7 de agosto</span>
+        </div>
+    `;
+}
+
+// Chips de filtro por categoría de gestión
+function renderGestionFilters() {
+    const container = document.getElementById('gestion-filters');
+    if (!container) return;
+
+    const casos = getGestionCasos();
+    const counts = {};
+    casos.forEach(c => { counts[c.categoria] = (counts[c.categoria] || 0) + 1; });
+
+    // Si la categoría activa ya no tiene casos, volver a "Todos"
+    if (gestionCategoriaActiva && !counts[gestionCategoriaActiva]) {
+        gestionCategoriaActiva = '';
+    }
+
+    let html = `<button class="gestion-chip${gestionCategoriaActiva === '' ? ' active' : ''}" data-cat="">
+        <i class="fas fa-layer-group"></i> Todos (${casos.length})
+    </button>`;
+
+    (data.categorias_gestion || []).forEach(cat => {
+        const n = counts[cat.id] || 0;
+        if (n === 0) return;
+        html += `<button class="gestion-chip${gestionCategoriaActiva === cat.id ? ' active' : ''}" data-cat="${cat.id}" style="--chip-color: ${cat.color}">
+            <i class="fas ${cat.icono}"></i> ${cat.nombre} (${n})
+        </button>`;
+    });
+
+    container.innerHTML = html;
+    container.querySelectorAll('.gestion-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+            gestionCategoriaActiva = btn.dataset.cat;
+            renderGestionFilters();
+            renderGestionCasos();
+        });
+    });
+}
+
+function renderGestionCasos() {
+    const grid = document.getElementById('gestion-grid');
+    const count = document.getElementById('gestion-count');
+    const noRes = document.getElementById('gestion-no-results');
+    if (!grid) return;
+
+    filteredGestion = getGestionCasos()
+        .filter(c => !gestionCategoriaActiva || c.categoria === gestionCategoriaActiva)
+        .sort((a, b) => (b.fecha || '').localeCompare(a.fecha || ''));
+
+    if (count) count.textContent = `${filteredGestion.length} hecho${filteredGestion.length !== 1 ? 's' : ''}`;
+
+    if (filteredGestion.length === 0) {
+        grid.innerHTML = '';
+        if (noRes) noRes.style.display = 'block';
+        return;
+    }
+    if (noRes) noRes.style.display = 'none';
+
+    grid.innerHTML = filteredGestion.map(caso => casoCardHTML(caso)).join('');
+    grid.querySelectorAll('.caso-card').forEach(card => {
+        card.addEventListener('click', () => openModal(parseInt(card.dataset.id)));
+    });
 }
 
 // Renderizar casos
@@ -349,55 +519,12 @@ function renderCasos() {
     const endIdx = startIdx + CASES_PER_PAGE;
     const pageCasos = filteredCasos.slice(startIdx, endIdx);
 
-    const html = pageCasos.map(caso => {
-        const categoria = data.categorias.find(c => c.id === caso.categoria) || {
-            nombre: caso.categoria,
-            color: '#95a5a6',
-            icono: 'fa-circle'
-        };
-
-        return `
-            <div class="caso-card" data-id="${caso.id}">
-                <div class="caso-card-header">
-                    <span class="caso-categoria" style="background: ${categoria.color}">
-                        <i class="fas ${categoria.icono}"></i>
-                        ${categoria.nombre}
-                    </span>
-                    <span class="caso-fecha">
-                        <i class="far fa-calendar"></i>
-                        ${formatDate(caso.fecha)}
-                    </span>
-                </div>
-                <div class="caso-card-body">
-                    <h3 class="caso-titulo">${escapeHtml(caso.titulo)}</h3>
-                    <p class="caso-descripcion">${escapeHtml(caso.descripcion)}</p>
-                    <div class="caso-meta">
-                        ${caso.entidad ? `
-                            <span class="caso-meta-item">
-                                <i class="fas fa-building"></i>
-                                ${escapeHtml(caso.entidad)}
-                            </span>
-                        ` : ''}
-                        ${caso.gravedad ? `
-                            <span class="caso-gravedad ${caso.gravedad}">${caso.gravedad}</span>
-                        ` : ''}
-                        ${caso.estado ? `
-                            <span class="caso-estado ${caso.estado.toLowerCase().replace(/ /g, '')}">${escapeHtml(caso.estado)}</span>
-                        ` : ''}
-                        <span class="caso-meta-item">
-                            <i class="fas fa-link"></i>
-                            ${caso.fuentes ? caso.fuentes.length : 0} fuente${caso.fuentes && caso.fuentes.length !== 1 ? 's' : ''}
-                        </span>
-                    </div>
-                </div>
-            </div>
-        `;
-    }).join('');
+    const html = pageCasos.map(caso => casoCardHTML(caso)).join('');
 
     casosGrid.innerHTML = html;
 
     // Agregar event listeners a las cards
-    document.querySelectorAll('.caso-card').forEach(card => {
+    casosGrid.querySelectorAll('.caso-card').forEach(card => {
         card.addEventListener('click', () => {
             const id = parseInt(card.dataset.id);
             openModal(id);
@@ -475,11 +602,7 @@ function openModal(id) {
     const caso = data.casos.find(c => c.id === id);
     if (!caso) return;
 
-    const categoria = data.categorias.find(c => c.id === caso.categoria) || {
-        nombre: caso.categoria,
-        color: '#95a5a6',
-        icono: 'fa-circle'
-    };
+    const categoria = findCategoriaInfo(caso.categoria);
 
     modalBody.innerHTML = `
         <div class="modal-header">
@@ -2506,8 +2629,9 @@ function renderCasesAdminTable(cases, currentStatus) {
             <tbody>`;
 
     cases.forEach(caso => {
-        const categoria = data.categorias.find(c => c.id === caso.categoria);
+        const categoria = findCategoriaInfo(caso.categoria);
         const catName = categoria ? categoria.nombre : caso.categoria;
+        const seccionTag = caso.seccion === 'nuevo-gobierno' ? ' <small style="color: #34d399;">[Nuevo Gobierno]</small>' : '';
 
         html += `
                 <tr>
@@ -2516,7 +2640,7 @@ function renderCasesAdminTable(cases, currentStatus) {
                         <br><small style="color: var(--text-muted);">${escapeHtml(caso.descripcion).substring(0, 120)}...</small>
                         ${caso.personas_involucradas ? `<br><small style="color: #a5b4fc;"><i class="fas fa-users"></i> ${caso.personas_involucradas.join(', ')}</small>` : ''}
                     </td>
-                    <td><small>${catName}</small></td>
+                    <td><small>${catName}${seccionTag}</small></td>
                     <td><small>${caso.fecha}</small></td>
                     <td>
                         <div class="admin-article-actions">
