@@ -938,6 +938,10 @@ body {
     background: linear-gradient(135deg, #0c4a6e 0%, #0369a1 100%);
 }
 
+.tema-header.china {
+    background: linear-gradient(135deg, #7c2d12 0%, #ea580c 100%);
+}
+
 .tema-header.policia {
     background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 100%);
 }
