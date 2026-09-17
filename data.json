@@ -221,6 +221,595 @@
   ],
   "casos": [
     {
+      "id": 1044,
+      "titulo": "Marco Rubio inicia gira latinoamericana con visita a Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-09-08",
+      "descripcion": "El secretario de Estado de EE.UU., Marco Rubio, inicia su gira por América del Sur con Colombia como primera parada, en el marco de la estrategia de la 'doctrina Donroe' para reforzar la influencia estadounidense en la region. Se reune con el presidente Abelardo de la Espriella antes de continuar su recorrido por Ecuador y Peru.",
+      "evidencia": "Reportado por Nacion.com",
+      "fuentes": [
+        {
+          "nombre": "Nacion.com",
+          "url": "https://www.nacion.com/el-mundo/marco-rubio-inicia-en-colombia-una-gira/WDXORQM5JVAWXBNQ4VLRSSHLVI/story/",
+          "fecha": "2026-09-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Marco Rubio",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Departamento de Estado de Estados Unidos / Presidencia de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1043,
+      "titulo": "Rubio no descarta base militar de EE.UU. en Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-09-09",
+      "descripcion": "El secretario de Estado de EE.UU., Marco Rubio, no descartó la instalación de una base militar estadounidense en Colombia como parte del 'Escudo de las Américas', en el marco de una gira regional que incluyó también a Ecuador y Perú, destacando el retorno de Colombia a la órbita de cooperación con Washington.",
+      "evidencia": "Reportado por Elperiodico.com",
+      "fuentes": [
+        {
+          "nombre": "Elperiodico.com",
+          "url": "https://www.elperiodico.com/es/internacional/20260909/marco-rubio-descarta-instalacion-base-134089564",
+          "fecha": "2026-09-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Marco Rubio"
+      ],
+      "entidad": "Departamento de Estado de Estados Unidos / Presidencia de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1042,
+      "titulo": "Gobierno evalúa convertir barcos de la Armada en prisiones flotantes",
+      "categoria": "seguridad",
+      "fecha": "2026-09-05",
+      "descripcion": "El gobierno de De la Espriella plantea reconvertir barcos de la Armada colombiana en prisiones para aislar en alta mar a narcotraficantes considerados peligrosos, retomando un modelo histórico usado en otros países.",
+      "evidencia": "Reportado por Www.abc.es",
+      "fuentes": [
+        {
+          "nombre": "Www.abc.es",
+          "url": "https://www.abc.es/internacional/espriella-quiere-recurrir-barcos-prision-aislar-narcos-20260828013838-nt.html",
+          "fecha": "2026-09-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Armada Nacional / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1041,
+      "titulo": "Costo del terremoto se eleva a 14.000 millones de dólares",
+      "categoria": "dineros",
+      "fecha": "2026-09-17",
+      "descripcion": "Nuevas estimaciones elevan a 14.000 millones de dólares el costo total del terremoto de magnitud 7,4 que golpeó a Colombia el 10 de agosto, más de un mes después de la tragedia que afectó a 16 departamentos.",
+      "evidencia": "Reportado por La Silla Rota",
+      "fuentes": [
+        {
+          "nombre": "La Silla Rota",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXpPREVJN2wwOVlTUTJmaTlycm5MNkwzSjd5YngzTTZ2MjJvNmJzdDJmZTN3SVgwRGNGUzlQZnlPOXkwUVN4S2FZQ1QzT093dmVsSjVfU3hMRnByVHhvREcwOTZ3WjNGLXhjX01HVDlYQ2M4TDE4d05ZYTVQSVV3UU5PZlNzZTVNZFJSM0hwc1dhNjB3UkhBTVhUTGJIaWdXUU16RGRxZXhTQms?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1040,
+      "titulo": "De la Espriella anuncia inversiones para La Guajira",
+      "categoria": "obras",
+      "fecha": "2026-09-17",
+      "descripcion": "El presidente De la Espriella anunció recursos y proyectos de vivienda, energía, salud y vías para el departamento de La Guajira, dentro de su agenda de gestión territorial.",
+      "evidencia": "Reportado por Diario del Norte",
+      "fuentes": [
+        {
+          "nombre": "Diario del Norte",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEhTbUx0QXFyeC0td1g5VHJseDdkcjVZYUoxVUN1R09ndXJxMFBiLVJVdVdGbUpSLVh4MW5ud2NnVDdDem5rdXBXMVQxcFdXaWRWQkJuSUstWG1xWTFCdDZ1SlJNTmJLWXFMR0U0RTR0LTVUdGxsZDYwVkIxY0M2c1NPNVRDLWUxZmRjRjR3V1o3Nnc4dDZyYW05NUoxbDBPNkxPVnAzMnNMY2JsWHdCUzgxbHJOb3ZDajlpMmM3YkxsRkUtOGhacg?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1039,
+      "titulo": "Víctimas de chuzadas a Marelbys Meza piden vincular a Laura Sarabia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-16",
+      "descripcion": "Víctimas de las interceptaciones ilegales (chuzadas) a la exniñera Marelbys Meza solicitaron a la Fiscalía vincular a la exjefa de gabinete y exembajadora Laura Sarabia a la investigación por las escuchas realizadas en su contra.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeTMzZUFWa2Z6S0RDMnIwUjNGdHJ5b0VNam5qNHJaSEVZbUFOa1h6UnRnQkZacmN5SEJoRWctU0NIcEZ5Y2VTTTRqMnZHX3NJaHl6cmJISXpvZXVpckhNdkY3M1FRZE5KOUZjbEJiVXBUaTNabU1DTnNsdlBrcFpxaGMxSXloTDZzcDVNVkZic2p2dDJHaEpPeVZEeEU2OEhIMjJuX2FWTHpueWpKTXVYLVVHelc1WTZjYWhNdjVlTnh5ZU15bU1ON2xVMTRWWm9MSC15YndCZjd0TEtwMWJUTzhuOE9hcFY1NE0tUlZtT3ZNRUxpeUZIbFdvSk5DSlVCLWJPUFZDTkpxQ3NUcnhTZkROdi1ERXlB0gGYAkFVX3lxTFB5MzNlQVZrZnpLREMycjBSM0Z0cnlvRU1qbmo0clpIRVltQU5rWHpSdGdCRlpyY3lIQmhFZy1TQ0hwRnljZVNNNGoydkdfc0loeXpyYkhJem9ldWlySE12RjczUVFkTko5RmNsQmJVcFRpM1ptTUNOc2x2UGtwWnFoYzFJeWhMNnNwNU1WRmJzanZ0MkdoSk95VkR4RTY4SEgyMm5fYVZMem55akpNdVgtVUd6VzVZNmNhaE12NWVOeHllTXltTU43bFUxNFZab0xILXlid0JmN3RMS3AxYlRPOG44T2FwVjU0TS1SVm1Pdk1FTGl5RkhsV29KTkNKVUItYk9QVkNOSnFDc1RyeFNmRE52LURFeUE?oc=5",
+          "fecha": "2026-09-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia",
+        "Marelbys Meza"
+      ],
+      "entidad": "Fiscalía General de la Nación / Dapre",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53"
+    },
+    {
+      "id": 1038,
+      "titulo": "Captura de alias Julián o 'Pato', cabecilla del Clan del Golfo en Bolívar y Sucre",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Fue capturado alias Julián o 'Pato', cabecilla del Clan del Golfo señalado de dirigir una comisión armada de la subestructura 'Nicolás Antonio Urango Reyes' y coordinar crímenes en los Montes de María, considerado uno de los más buscados en Bolívar y Sucre.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-julian-o-pato-cabecilla-del-clan-del-golfo-y-uno-de-los-mas-buscados-en-bolivar-y-sucre-3586804",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Julián",
+        "alias Pato"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1037,
+      "titulo": "Gobierno prepara pruebas para reactivar aspersión aérea con glufosinato",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "El gobierno de De la Espriella, a través de cinco entidades, preparó un escrito de respuesta con pruebas para tumbar la prohibición judicial que mantiene frenada la aspersión aérea de cultivos ilícitos con glufosinato, en respuesta a tutelas vigentes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/exclusivo-las-pruebas-del-gobierno-de-la-espriella-para-tumbar-la-prohibicion-de-aspersion-aerea-con-glufosinato-3586833",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia / Policía Antinarcóticos / ANLA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1036,
+      "titulo": "Captura de alias Gallo, integrante del ELN en zona fronteriza Bogotá-Arauca-Casanare",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Autoridades capturaron a alias Gallo, señalado integrante del ELN que se movía entre Bogotá, Arauca y Casanare, presuntamente parte de las redes de apoyo al frente Adonay Ardilla Pinilla de ese grupo armado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-alias-gallo-senalado-integrante-del-eln-que-se-movia-entre-bogota-arauca-y-casanare-3586896",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Gallo"
+      ],
+      "entidad": "Policía Nacional / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1035,
+      "titulo": "Senadora Isabel Zuleta es indagada por operativo con 'Pipe Tuluá'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-17",
+      "descripcion": "La senadora del Pacto Histórico Isabel Zuleta rindió indagatoria ante la Corte Suprema de Justicia por su presunta participación en un operativo irregular que involucró a Andrés Felipe Marín Silva, alias 'Pipe Tuluá', extraditado líder de la banda criminal 'La Inmaculada'. La Corte investiga si Zuleta incurrió en abuso de función pública al extralimitarse en sus competencias.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/isabel-zuleta-indagatoria-corte-suprema-explicara-participacion-operativo-pipe-tulua-JN41191778",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Isabel Zuleta",
+        "Andrés Felipe Marín Silva"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53"
+    },
+    {
+      "id": 1034,
+      "titulo": "Tribunal mantiene suspensión del convenio para nuevos pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-09-17",
+      "descripcion": "El Tribunal Administrativo de Cundinamarca negó la solicitud de aclaración presentada por la Cancillería, la Imprenta Nacional y la Casa de la Moneda de Portugal, y mantuvo vigente la medida cautelar que suspendió provisionalmente los convenios que sustentan el nuevo modelo de producción y expedición de pasaportes, adoptada mediante auto del 16 de septiembre de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/pasaportes-colombia-tribunal-mantiene-en-firme-suspension-de-nuevo-modelo-EH41207311",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Tribunal Administrativo de Cundinamarca / Cancillería / Imprenta Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53"
+    },
+    {
+      "id": 1033,
+      "titulo": "Juez de Mocoa libera a cuatro capturados señalados de pertenecer a Comandos de Frontera",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Un juez de Mocoa ordenó la libertad de cuatro personas capturadas por el Gaula Militar en el marco de la operación Samuel contra la estructura móvil del Amazonas de los Comandos de Frontera, vinculada a alias Araña. La decisión judicial generó controversia en Putumayo sobre la efectividad de las capturas realizadas por la fuerza pública.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juez-mocoa-libero-cuatro-capturados-senalados-comandos-frontera-FG41210467",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gaula Militar / Rama Judicial (Juzgado de Mocoa)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1032,
+      "titulo": "Captura en España de presunto autor intelectual de masacre de siete personas en 2024",
+      "categoria": "seguridad",
+      "fecha": "2026-09-02",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la detención en Tarragona, España, de Jhonatan Alexander Castrillón Arango, alias 'Pirry', señalado como autor intelectual de la masacre de siete trabajadores en una finca en Riofrío en 2024. La captura se dio en cooperación con autoridades españolas.",
+      "evidencia": "Reportado por Europapress.es",
+      "fuentes": [
+        {
+          "nombre": "Europapress.es",
+          "url": "https://www.europapress.es/internacional/noticia-espriella-anuncia-captura-espana-cerebro-masacre-siete-personas-2024-colombia-20260902062311.html",
+          "fecha": "2026-09-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jhonatan Alexander Castrillón Arango"
+      ],
+      "entidad": "Presidencia de la República / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1031,
+      "titulo": "Fuerzas colombianas abaten a cabecilla armado alias 'Bendito Menor'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-05",
+      "descripcion": "Las fuerzas de seguridad colombianas abatieron a alias 'Bendito Menor', señalado cabecilla de un grupo armado, sobre quien pesaba una recompensa de 159.000 dólares por información que permitiera su captura o neutralización. El hecho se suma a los resultados operativos reportados por el Gobierno de De la Espriella en su ofensiva contra grupos armados.",
+      "evidencia": "Reportado por RT",
+      "fuentes": [
+        {
+          "nombre": "RT",
+          "url": "https://actualidad.rt.com/actualidad/626021-colombia-abaten-peligroso-cabecilla-grupo-armado-cadaver",
+          "fecha": "2026-09-05"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'Bendito Menor'"
+      ],
+      "entidad": "Fuerzas Militares de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1030,
+      "titulo": "Balance sobre el gasto de recursos para la reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-16",
+      "descripcion": "Reporte periodístico hace seguimiento a los recursos destinados a la reconstrucción tras el terremoto del 10 de agosto, revisando en qué se han invertido los fondos asignados por el Gobierno Nacional a través del Fondo Milagro y otras entidades, en el marco de la emergencia en el occidente del país.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOem9RQmFJZFFVcS1OeXhuQjFIdmVkVkp2VVJmc0s5aUFqTG5wa1l2ZFoxOUtVbXc2M29JSnJJNzJJUzRJdDlua1kxTThOOWkzT0xxOUkzQm5SbjJEeWpJa2NkYXZjN2oxTkJqTEJCN1lvOXhabGJyNkJteVJXMjVDcm9rdGdVMWc5RFEzX19Fdk5COF9l?oc=5",
+          "fecha": "2026-09-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1029,
+      "titulo": "Capturan a dos presuntos integrantes de disidencias de 'Calarcá' en Caquetá",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Autoridades capturaron a dos presuntos integrantes de las disidencias de las Farc lideradas por alias 'Calarcá' en Caquetá, incautando un fusil M16, un fusil AK-47 y seis proveedores de munición.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/caen-dos-presuntos-integrantes-de-las-disidencias-de-calarca-en-caqueta-3586825",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1028,
+      "titulo": "Capturan a 15 personas por presunta ruta de cilindros de gas hacia el ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Un operativo policial dejó 15 capturados tras seis allanamientos en Medellín, Bucaramanga, Cartagena y Bosconia, por su presunta participación en una red que habría desviado 557 cilindros de gas hacia el ELN, vinculada a 10 hurtos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-ruta-de-557-cilindros-de-gas-que-segun-la-policia-terminarian-en-manos-del-eln-3586830",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1027,
+      "titulo": "De la Espriella rechaza canje de policías secuestrados por el ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Tras un video del ELN que muestra con vida a tres policías secuestrados hace un mes en la vía Ocaña-Cúcuta (mayor Fredy Alexis Russi González y los patrulleros Erika Tatiana Monroy Hurtado y Edinson Yesid Medina Traslaviña), el presidente Abelardo De la Espriella rechazó cualquier 'canje' como condición de liberación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/policias-secuestrados-eln-dijin-canje-abelardo-de-la-espriella-CH41206884",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Fredy Alexis Russi González",
+        "Erika Tatiana Monroy Hurtado",
+        "Edinson Yesid Medina Traslaviña"
+      ],
+      "entidad": "Presidencia de la República / Policía Nacional (Dijín)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1026,
+      "titulo": "Gobierno pide renuncia a los diez miembros de la Comisión Asesora de Política Criminal",
+      "categoria": "gabinete",
+      "fecha": "2026-09-17",
+      "descripcion": "El Ministerio de Justicia solicitó la renuncia de los diez integrantes de la Comisión Asesora para la Política Criminal, nombrados durante el gobierno de Gustavo Petro, en el marco del relevo institucional del nuevo gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-renuncia-comision-asesora-politica-criminal-justicia-IH41202208",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1025,
+      "titulo": "Gobierno recorta presupuesto asignado para el Tolima",
+      "categoria": "economia",
+      "fecha": "2026-09-17",
+      "descripcion": "El Gobierno de Abelardo De la Espriella realizó un recorte significativo en el presupuesto destinado al departamento del Tolima, en el marco del ajuste fiscal del Presupuesto 2027.",
+      "evidencia": "Reportado por elnuevodia.com.co",
+      "fuentes": [
+        {
+          "nombre": "elnuevodia.com.co",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3BIS3NWdzJISXRTdVQxbDBrRGt2QVRSUGFHSk1vTnpwTnlKRC1QRGRxUWoteFFyMlpQT1pzcEFIQzkxZElyRnBaSWFMRVllVkVVYVRONmg5cl9LWHZBSHh4ZlRacDNrUkpHSUZxaXZtR0xqYWJ0VDl4Y1R3WmpxM0drYnJGc3BIYmlpeDlrbTAybVpPRk9xMmg4MV9TZkJmTW1yLWliVUJXQzlkcUROWFIxekljbndHQm13?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1024,
+      "titulo": "Jueza restringe venta de bienes de Laura Sarabia tras imputación",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-16",
+      "descripcion": "Una jueza ordenó a Laura Sarabia no vender bienes registrables durante seis meses, como medida cautelar tras la imputación de cargos por parte de la Fiscalía en el caso del polígrafo a Marelbys Meza.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa2R1YkVmNnM5UzZ5dFkxNmg2Qnc0V241MzRYWVk0WlhlWEM5NUIzcU5SVEJrY0dMekZKUGdNbTYyM0Etb3E4aWVUNnc0RUljbnI0V3UxdERxU1d5NmlzWUtlNTlGZlVqM1FEMm9qSDJDZEsyNlB5X2h0UGlKSGVMQTM3VjI0RWplV0FVUmppdk1ZVWxTOXVuTE9VMDU4RmxfYVRDNlBMVmVFUnEzWm9ZM2N1dlJULVc4cDI2TFRKVjEybTBfdWhJdE1BQlUzYm92VUNiZ2pjV212dmtOUjhCczRkcFl3UVN0cEtTTENsZ21BODVFdVMyOGFB0gGUAkFVX3lxTE1samRhQ0FDTXpnRzRLSU1yM1ZobV9iNXlSS1FHZVdzQUdHYzhObFA2SUxNRHg2dGdnTloyUnY1UDlSNUo2SnpVc3ZSeTZPMnFERnRHSWQzYlA0cmxXdElOT2ZPZlNidGR1NjByTFgzTEt2Y0c2eE5YT3VqeVpQb3FBZG1ubUJBUjJla1hOQUtEZW5MLU9fVDhGcFBsMFBZYzNoemFkdnNkVFEyREhJVEZXOXpQT1BVUi1TV1BaM0VRWl9Rb185ZEgyNHdwbGJrQXk1LUN4ZTRKYUh4VDhVbjktcFhRS0pMUW5wY0NDOGtkR3pnZkNUREtxamItaUszdTFoRGYyY3ptSlItV3g4SWp0bS1qdg?oc=5",
+          "fecha": "2026-09-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia"
+      ],
+      "entidad": "Fiscalía General de la Nación / Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53"
+    },
+    {
+      "id": 1023,
+      "titulo": "Gobierno estudiaría renegociar el contrato de los aviones Gripen",
+      "categoria": "contratos",
+      "fecha": "2026-09-16",
+      "descripcion": "Medios reportan que el gobierno estaría contemplando renegociar el billonario contrato de compra de los aviones de combate Gripen, adquisición realizada durante el gobierno Petro y cuestionada por su costo.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkRqMFpxd0pRSDI4UUR0QmtTcWVEaDUyOUdpdFYtdmFnLVlCN1Nlb0lLdkliLWRQSnI1dGpOTjBkbXNHM1JqZWFMSzU0WTR4dmhGZGhuZWY2dlBkMC1hUUJOWDNHZWFkN2NRVnFQaU5uTDJfTGMxVi03OVZOUzByaF9aZnNSTDhhb214cXlqNnJxbkJ0YktCNlRTZUhZSmxtMjRwMHRXMU_SAagBQVVfeXFMTjJEajBacXdKUUgyOFFEdEJrU3FlRGg1MjlHaXRWLXZhZy1ZQjdTZW9JS3ZJYi1kUEpyNXRqTk4wZG1zRzNSamVhTEs1NFk0eHZoRmRobmVmNnZQZDAtYVFCTlgzR2VhZDdjUVZxUGlObkwyX0xjMVYtNzlWTlMwcmhfWmZzUkw4YW9teHF5ajZycW5CdGJLQjZUU2VIWUpsbTI0cDB0VzFP?oc=5",
+          "fecha": "2026-09-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53"
+    },
+    {
+      "id": 1022,
+      "titulo": "Capturan a presunto testaferro del ELN por lavado de activos",
+      "categoria": "seguridad",
+      "fecha": "2026-09-17",
+      "descripcion": "Gildardo Quinchía Giraldo, señalado de lavar dinero para el ELN durante décadas mediante ganadería y propiedades de lujo, fue capturado el 15 de septiembre de 2026. El presidente Abelardo De la Espriella confirmó la captura, vinculada a una investigación por lavado de activos y enriquecimiento ilícito.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/captura-gildardo-quinchia-giraldo-lavado-dinero-eln-asi-era-vida-de-lujo-OM41187292",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gildardo Quinchía Giraldo",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1021,
+      "titulo": "Presidente entrega primera vivienda de reconstrucción en Buenaventura",
+      "categoria": "avances",
+      "fecha": "2026-09-17",
+      "descripcion": "El presidente Abelardo De la Espriella entregó en Buenaventura la primera vivienda construida tras el terremoto, en el marco de la estrategia 'Patria Milagro', alianza entre el Gobierno Nacional y el sector empresarial para la reconstrucción de zonas afectadas.",
+      "evidencia": "Reportado por facebook.com",
+      "fuentes": [
+        {
+          "nombre": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV0hOb0tYUGlfUU1Od3VEbHVTWmtGbXVhNmprd0ppVld3UlpBcUNPNWRyS09vLWtsU3N1Ump1X3FJWEpTNGszSTlMcWdXMWE0Z0ZrZzd4Z0kyVlYycWQ5dW56MjZYRTBnWURRdDdVNkxyUExaZmJsLWxfLXVhdUNuSnlLUEpSNmt1ZERldVdqWGx0NnlfQ3JMdldFSnJNdEdtUzZVNmpyQjNURWN0MlJuNmJELW9OckVJd3VuaFkwdGFydzhKd2pZWTJhU1J6MVhuS1hyaVNUQlZvR0ctQVpoWWdR?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 1020,
+      "titulo": "Directora de la ANT denuncia corrupción en la reforma agraria del gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-17",
+      "descripcion": "Lina María Garrido, directora encargada de la Agencia Nacional de Tierras, denunció al Pacto Histórico por obligar a suspender un debate en el Congreso y calificó la gestión de la administración anterior en la reforma agraria como 'peor' que el escándalo de la UNGRD.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/directora-de-la-agencia-nacional-de-tierras-denuncia-al-pacto-historico-por-obligar-a-suspender-debate-y-destapa-corrupcion-en-la-reforma-agraria-3586907",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Lina María Garrido"
+      ],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:53"
+    },
+    {
       "id": 1019,
       "titulo": "Recorte presupuestal de 2027 pone en riesgo la búsqueda de 137.000 personas desaparecidas",
       "categoria": "economia",
@@ -23478,7 +24067,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-17",
-    "total_casos": 930,
+    "total_casos": 955,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
