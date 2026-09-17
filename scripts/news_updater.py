@@ -556,6 +556,52 @@ ARTICULOS A ANALIZAR:
 Responde SOLO con el JSON, sin explicaciones adicionales."""
 
 
+# Esquema de salida para structured outputs (JSON garantizado por la API)
+OUTPUT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "casos_relevantes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "articulo_numero": {"type": "integer"},
+                    "seccion": {"type": "string", "enum": ["archivo", "nuevo-gobierno", "terremoto"]},
+                    "titulo_caso": {"type": "string"},
+                    "categoria": {"type": "string"},
+                    "region": {"type": "string", "description": "Solo para terremoto: pereira|cali|choco|nacional|otras; vacio en otras secciones"},
+                    "signo": {"type": "string", "description": "Solo para terremoto: positivo|negativo|neutro; vacio en otras secciones"},
+                    "descripcion": {"type": "string"},
+                    "gravedad": {"type": "string", "enum": ["alta", "media", "baja"]},
+                    "personas_involucradas": {"type": "array", "items": {"type": "string"}},
+                    "entidad": {"type": "string"},
+                    "relevancia_score": {"type": "integer"},
+                },
+                "required": ["articulo_numero", "seccion", "titulo_caso", "categoria", "region", "signo",
+                             "descripcion", "gravedad", "personas_involucradas", "entidad", "relevancia_score"],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["casos_relevantes"],
+    "additionalProperties": False,
+}
+
+
+def salvage_cases(text: str) -> list:
+    """Si el JSON completo no parsea, extraer los objetos de caso que si esten bien formados."""
+    salvaged = []
+    for m in re.finditer(r'\{\s*"articulo_numero"[\s\S]*?\n\s*\}', text):
+        try:
+            obj = json.loads(m.group())
+            if isinstance(obj, dict) and "titulo_caso" in obj:
+                salvaged.append(obj)
+        except json.JSONDecodeError:
+            continue
+    print(f"    -> {len(salvaged)} caso(s) rescatado(s)")
+    return salvaged
+
+
 def analyze_batch(client: anthropic.Anthropic, batch: list, existing_cases_text: str) -> list:
     """Envía un lote de artículos a Claude y devuelve los casos con su artículo asociado."""
     articles_text = "\n\n".join([
@@ -565,10 +611,13 @@ def analyze_batch(client: anthropic.Anthropic, batch: list, existing_cases_text:
     prompt = build_prompt(articles_text, existing_cases_text)
 
     try:
+        # output_config.format (structured outputs) garantiza JSON valido: en la corrida del
+        # 17-sep-2026 3 de 5 lotes se perdieron por comillas sin escapar en las descripciones
         response = client.messages.create(
             model="claude-sonnet-5",
-            max_tokens=6000,
-            messages=[{"role": "user", "content": prompt}]
+            max_tokens=16000,
+            messages=[{"role": "user", "content": prompt}],
+            output_config={"format": {"type": "json_schema", "schema": OUTPUT_SCHEMA}},
         )
 
         # Los modelos actuales pueden devolver bloques de razonamiento antes del texto:
@@ -583,7 +632,12 @@ def analyze_batch(client: anthropic.Anthropic, batch: list, existing_cases_text:
             print(f"  [WARN] Claude no devolvio JSON. Respuesta: {response_text[:200]!r}")
             return []
 
-        result = json.loads(json_match.group())
+        try:
+            result = json.loads(json_match.group())
+        except json.JSONDecodeError as e:
+            # Ultimo recurso: rescatar los objetos completos uno por uno
+            print(f"  [WARN] JSON invalido ({e}); rescatando casos individuales...")
+            result = {"casos_relevantes": salvage_cases(json_match.group())}
         casos = result.get("casos_relevantes", [])
         # La numeracion de Claude corresponde a este lote
         for caso in casos:
