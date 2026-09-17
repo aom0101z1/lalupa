@@ -221,6 +221,121 @@
   ],
   "casos": [
     {
+      "id": 1019,
+      "titulo": "Recorte presupuestal de 2027 pone en riesgo la búsqueda de 137.000 personas desaparecidas",
+      "categoria": "economia",
+      "fecha": "2026-09-17",
+      "descripcion": "La Unidad de Búsqueda de Personas dadas por Desaparecidas (UBPD) advirtió que el presupuesto aprobado para 2027 sufrió una reducción de $16.636,5 millones frente a lo solicitado, lo que generaría dificultades en investigaciones, laboratorios e intervenciones forenses. La entidad señala que esto afectaría la búsqueda de 137.000 personas desaparecidas en el país, en el marco de la discusión del Presupuesto General 2027 tramitado por el actual Gobierno y el Congreso.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/17/ubpd-esta-en-alerta-por-reduccion-de-la-inversion-para-2027-que-arriesgaria-la-busqueda-de-137000-personas-desaparecidas/",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad de Búsqueda de Personas dadas por Desaparecidas (UBPD)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1018,
+      "titulo": "De la Espriella nombra a Juan Gonzalo Ospina como embajador ante la Unión Europea",
+      "categoria": "gabinete",
+      "fecha": "2026-09-17",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el nombramiento de Juan Gonzalo Ospina, abogado que coordinó su campaña presidencial en España, como embajador de Colombia ante la Unión Europea. Ospina es además cercano al activista de derecha Javier Negre. El anuncio se hizo a través de redes sociales del propio designado.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/juan-gonzalo-ospina-sera-embajador-de-abelardo-en-la-union-europea/",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Gonzalo Ospina",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1017,
+      "titulo": "Juliana Guerrero enfrenta riesgo de cárcel efectiva y aumento de condena por títulos falsos",
+      "categoria": "mentiras",
+      "fecha": "2026-09-17",
+      "descripcion": "Tras ser condenada a tres años de prisión suspendida por falsificar títulos académicos para ser viceministra, surgen nuevos elementos judiciales que podrían derivar en un aumento de la sentencia de Juliana Guerrero y la pérdida del beneficio de suspensión de la pena, lo que implicaría su reclusión efectiva.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWdIM1Z0WnA1X0poUF9xQ0w5VHlsb1BHNnQ3WWVmYWFTTDhEckdKa2JiZzVJSXF6QUxJRTVEc0hSaTd3U3RkbXpUM1lmQzA4azZZdWFOWUV0NnZWeEZCbk9BcG15MFZwZVZkTVhzLTcxRm9zckJQcHZfdE81RS11V3RUVHlFc3JXM3ZQNXkyWkxQT3BYQkZRM2lyTWhGc3FwbFhoSQ?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Ministerio de la Igualdad / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:47"
+    },
+    {
+      "id": 1016,
+      "titulo": "Gobierno de De la Espriella retira a Colombia de coalición internacional por derechos LGBTI",
+      "categoria": "internacional",
+      "fecha": "2026-09-17",
+      "descripcion": "La Cancillería colombiana comunicó al Comité Ejecutivo de la coalición internacional por los derechos de personas LGBTI y al Gobierno de España la decisión de retirar a Colombia del mecanismo, en una medida de política exterior del gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/gobierno-retira-a-colombia-de-coalicion-internacional-por-los-derechos-de-personas-lgbti-que-implica-3586869",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1015,
+      "titulo": "Embajadora en Haití, declarada insubsistente, responde a cuestionamientos sobre manejo de la misión",
+      "categoria": "diplomaticos",
+      "fecha": "2026-09-17",
+      "descripcion": "La embajadora de Colombia en Haití, Vilma Rocío Velásquez, fue declarada insubsistente y dejará el cargo el 18 de octubre tras cuestionamientos sobre el manejo de la misión diplomática. Velásquez respondió que enfrentó trabas para operar y que existen investigaciones internas de la Cancillería sobre su gestión.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/embajadora-en-haiti-da-su-version-sobre-lo-que-habria-detras-de-cuestionamientos-a-los-manejos-de-la-mision-denuncia-que-enfrento-trabas-para-operar-3586775",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Vilma Rocío Velásquez"
+      ],
+      "entidad": "Embajada de Colombia en Haití / Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-17 22:47"
+    },
+    {
       "id": 1010,
       "titulo": "Contraloría declara de impacto nacional pagos sin soporte por $4,4 billones del Fomag en el cierre del Gobierno Petro",
       "categoria": "recursos-publicos",
@@ -23363,7 +23478,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-17",
-    "total_casos": 925,
+    "total_casos": 930,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
