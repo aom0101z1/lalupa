@@ -23,3 +23,7 @@ desktop.ini
 # Herramientas locales (no subir al servidor)
 actualizador.html
 herramientas/
+
+# Harness de Claude Code (documentacion viva local, no se sube)
+harness/
+CLAUDE.md
