@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Lupa - Donde la Verdad Sale a la Luz</title>
     <meta name="description" content="El observatorio ciudadano que desenmascara la corrupción y las mentiras del poder. Información verificada con fuentes reales.">
-    <link rel="stylesheet" href="styles.css?v=20260313">
+    <link rel="stylesheet" href="styles.css?v=20260917">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         /* HERO SECTION - IMPACTFUL */
@@ -641,6 +641,7 @@
                 <div class="sticky-links">
                     <a href="#casos" class="sticky-link active">Casos</a>
                     <a href="#nuevo-gobierno" class="sticky-link">Nuevo Gobierno</a>
+                    <a href="#terremoto" class="sticky-link sticky-link-terremoto"><i class="fas fa-house-damage"></i> Terremoto</a>
                     <a href="#estadísticas" class="sticky-link">Estadísticas</a>
                     <a href="#temas-interes" class="sticky-link">Opinión</a>
                     <a href="#" class="sticky-link" id="btn-medios">
@@ -783,6 +784,46 @@
                     <div class="no-results" id="gestion-no-results" style="display: none;">
                         <i class="fas fa-hourglass-half"></i>
                         <p>Aún no hay hechos publicados en esta categoría</p>
+                    </div>
+                </section>
+
+                <!-- Lupa al Terremoto (10 de agosto de 2026) -->
+                <section id="terremoto" class="gestion-section terremoto-section">
+                    <div class="gestion-header">
+                        <div class="gestion-title-row">
+                            <h2><i class="fas fa-house-damage"></i> Lupa al Terremoto</h2>
+                            <span class="gestion-badge terremoto-badge">10 de agosto de 2026 · M 7,4</span>
+                        </div>
+                        <p class="gestion-intro">
+                            El terremoto del 10 de agosto de 2026 dejó más de 300 muertos y 15 departamentos
+                            afectados. Detrás vienen billones de pesos en ayudas, subsidios, contratos y
+                            reconstrucción, y ahí es donde históricamente se pierde la plata. En esta sección
+                            le ponemos la lupa al manejo de esos dineros: cuánto se asignó, quién lo administra,
+                            cómo se está contratando, qué está llegando a los damnificados y qué denuncias
+                            existen. Cubrimos al gobierno nacional y a los gobiernos locales, con especial
+                            atención a <strong>Pereira y Risaralda</strong>, y también a Cali y Chocó.
+                            Documentamos con el mismo estándar lo que funciona y lo que no.
+                        </p>
+                        <div class="terremoto-resumen" id="terremoto-resumen">
+                            <!-- Se llena con JavaScript -->
+                        </div>
+                    </div>
+                    <div class="gestion-filters terremoto-filter-row" id="terremoto-regiones">
+                        <!-- Chips de región - se llenan con JavaScript -->
+                    </div>
+                    <div class="gestion-filters terremoto-filter-row" id="terremoto-filters">
+                        <!-- Chips de tema - se llenan con JavaScript -->
+                    </div>
+                    <div class="casos-header">
+                        <h3><i class="fas fa-search-dollar"></i> Seguimiento documentado</h3>
+                        <span class="casos-count" id="terremoto-count">0 hechos</span>
+                    </div>
+                    <div class="casos-grid" id="terremoto-grid">
+                        <!-- Se llena con JavaScript -->
+                    </div>
+                    <div class="no-results" id="terremoto-no-results" style="display: none;">
+                        <i class="fas fa-hourglass-half"></i>
+                        <p>Aún no hay hechos publicados con estos filtros</p>
                     </div>
                 </section>
 
@@ -7358,7 +7399,7 @@
                         <i class="fas fa-newspaper"></i> Nuevos Opinión
                     </button>
                     <button class="admin-tab" onclick="showAdminTab('cases')">
-                        <i class="fas fa-folder-open"></i> Nuevos Casos
+                        <i class="fas fa-folder-open"></i> Casos Publicados
                     </button>
                 </div>
 
@@ -7380,7 +7421,7 @@
     <!-- Firebase Configuration -->
     <script src="firebase-config.js"></script>
 
-    <script src="script.js?v=20260313"></script>
+    <script src="script.js?v=20260917"></script>
     <script>
         // Hero stats animation
         function animateValue(element, start, end, duration) {
@@ -7402,7 +7443,8 @@
             setTimeout(() => {
                 const totalCasosEl = document.getElementById('hero-total-casos');
                 if (totalCasosEl && typeof data !== 'undefined' && data.casos) {
-                    animateValue(totalCasosEl, 0, data.casos.length, 2000);
+                    const visibles = data.casos.filter(c => typeof isCasoAprobado !== 'function' || isCasoAprobado(c)).length;
+                    animateValue(totalCasosEl, 0, visibles, 2000);
                 } else if (totalCasosEl) {
                     animateValue(totalCasosEl, 0, 135, 2000); // Fallback
                 }

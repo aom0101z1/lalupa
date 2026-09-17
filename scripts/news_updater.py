@@ -58,7 +58,7 @@ def extract_key_terms(text: str) -> Set[str]:
 
 
 def is_duplicate_case(new_title: str, new_url: str, new_entity: str,
-                      existing_cases: List[dict], days_lookback: int = 7,
+                      existing_cases: List[dict], days_lookback: int = 14,
                       similarity_threshold: float = 0.65) -> bool:
     """
     Check if a case is a duplicate of an existing one.
@@ -99,10 +99,12 @@ def is_duplicate_case(new_title: str, new_url: str, new_entity: str,
         existing_entity_norm = normalize_text(case.get("entidad", ""))
 
         # If same entity and significant key terms overlap
+        # (umbral subido de 3 a 5 términos: con 3, entidades genéricas como "Contraloría"
+        # marcaban como duplicados hechos distintos - detectado 17-sep-2026)
         if new_entity_norm and existing_entity_norm:
             if text_similarity(new_entity_norm, existing_entity_norm) >= 0.7:
                 term_overlap = len(new_key_terms & existing_key_terms)
-                if term_overlap >= 3:
+                if term_overlap >= 5:
                     return True
 
     return False
@@ -162,7 +164,25 @@ GESTION_CATEGORIES = [
     "empalme",             # Hallazgos del empalme con el gobierno saliente
     "internacional",       # Relaciones exteriores
     "obras",               # Infraestructura, reconstrucción, agenda territorial
+    "opinion-publica",     # Encuestas y mediciones de aprobación
 ]
+
+# Categorías de la sección "Lupa al Terremoto" (terremoto del 10 ago 2026: manejo de dineros y gestión)
+TERREMOTO_CATEGORIES = [
+    "dineros",           # Recursos asignados, Fondo Milagro, donaciones, créditos, ejecución
+    "denuncias",         # Denuncias de corrupción, desvíos, sobrecostos, ayudas que no llegan
+    "contratacion",      # Contratos de emergencia y reconstrucción
+    "gestion-local",     # Alcaldías y gobernaciones
+    "gestion-nacional",  # Presidencia, UNGRD, ministerios, Fondo Milagro
+    "avances",           # Resultados verificables: viviendas, subsidios, vías
+    "damnificados",      # Albergues, censos, ayudas humanitarias
+    "control",           # Contraloría, Procuraduría, Fiscalía, veedurías
+]
+TERREMOTO_REGIONS = ["pereira", "cali", "choco", "nacional", "otras"]
+
+# Cuántos artículos se envían a Claude por llamada y cuántos como máximo por corrida
+BATCH_SIZE = 30
+MAX_ARTICLES_PER_RUN = 150
 
 # Dominios con paywall: si la misma noticia existe en otro medio, se prefiere el otro medio
 PAYWALLED_DOMAINS = ["eltiempo.com"]
@@ -182,12 +202,35 @@ RSS_FEEDS = [
 # Búsquedas en Google News RSS: agrega medios cuyos feeds directos están rotos
 # (Semana, Blu Radio, Caracol Radio, RCN, La FM, W Radio, El Espectador, etc.)
 GOOGLE_NEWS_QUERIES = [
+    # --- Archivo: corrupción del gobierno Petro y seguimiento judicial ---
     "corrupción Colombia investigación",
     "Petro juicio OR investigación Fiscalía",
     "UNGRD OR pasaportes OR \"Nicolás Petro\" proceso",
-    "gobierno \"De la Espriella\" medidas",
-    "terremoto Colombia reconstrucción gobierno",
+    "UNGRD Olmedo López OR Sneyder Pinilla OR \"Carlos Ramón González\"",
+    "Ecopetrol Ricardo Roa investigación OR contratos OR Fiscalía",
+    "aviones Gripen Colombia contrato OR investigación OR sobrecosto",
+    "\"Verónica Alcocer\" viajes OR investigación OR gastos",
+    "\"títulos falsos\" OR \"título falso\" funcionario Colombia",
+    "\"Juliana Guerrero\" OR \"Laura Sarabia\" OR \"Armando Benedetti\" investigación",
+    "\"Paz Total\" beneficios OR gestores de paz OR disidencias investigación",
+    "nombramientos gobierno Petro contratos prestación de servicios denuncia",
     "empalme gobierno Colombia hallazgos denuncias",
+    "Contraloría OR Procuraduría hallazgo gobierno Petro",
+    # --- Nuevo gobierno: resultados y medidas ---
+    "gobierno \"De la Espriella\" medidas",
+    "capturas OR capturado cabecilla Colombia Policía Ejército",
+    "operativo Ejército Colombia disidencias OR ELN OR \"Clan del Golfo\" abatido OR neutralizado",
+    "Ministerio de Defensa balance capturas incautaciones",
+    "gobierno De la Espriella resultados OR balance OR cifras",
+    # --- Lupa al terremoto: dineros y gestión ---
+    "terremoto Colombia reconstrucción gobierno",
+    "\"Fondo Milagro\" terremoto recursos OR ejecución OR contratos",
+    "terremoto Pereira alcaldía OR gobernación Risaralda ayudas OR recursos OR denuncia",
+    "terremoto Pereira damnificados subsidios OR albergues OR contratos",
+    "terremoto Cali reconstrucción recursos OR denuncia OR contratos",
+    "terremoto Chocó Quibdó reconstrucción recursos OR denuncia",
+    "terremoto Contraloría OR Procuraduría OR Fiscalía recursos damnificados",
+    "terremoto UNGRD contratos OR ayudas OR denuncia corrupción",
 ]
 
 # Keywords to search for (related to government corruption and scandals)
@@ -200,6 +243,27 @@ SEARCH_KEYWORDS = [
     "De la Espriella", "terremoto", "reconstrucción", "empalme"
 ]
 
+# Palabras clave para PRIORIZAR artículos (los que las contienen se analizan primero).
+# Los feeds RSS generales traen mucha noticia irrelevante; antes solo se analizaban
+# los primeros 30 artículos y las noticias relevantes nunca llegaban a Claude.
+PRIORITY_KEYWORDS = [
+    "corrupci", "petro", "ungrd", "ecopetrol", "roa", "gripen", "alcocer", "sarabia", "benedetti",
+    "nicolás petro", "nicolas petro", "pasaporte", "fiscal", "procuradur", "contralor", "imputa",
+    "captura", "capturad", "abatid", "neutraliza", "cabecilla", "extradi", "incauta", "eln",
+    "disidencia", "clan del golfo", "paz total", "gestor de paz", "título", "titulos falsos",
+    "nepotismo", "contrato", "contrataci", "prestación de servicios", "nombramiento",
+    "terremoto", "sismo", "damnificad", "reconstrucci", "fondo milagro", "subsidio", "albergue",
+    "pereira", "risaralda", "cali", "valle del cauca", "chocó", "choco", "quibdó", "quibdo",
+    "de la espriella", "gobierno", "ministerio", "ministra", "ministro", "decreto", "denuncia",
+    "sobrecosto", "irregular", "desv", "empalme", "hallazgo", "veedur", "transparencia",
+]
+
+
+def priority_score(article: dict) -> int:
+    """Puntaje simple por palabras clave para ordenar los artículos antes de analizarlos."""
+    text = (article.get("title", "") + " " + article.get("summary", "")).lower()
+    return sum(1 for kw in PRIORITY_KEYWORDS if kw in text)
+
 
 def load_existing_data():
     """Load existing cases from data.json"""
@@ -211,7 +275,10 @@ def load_existing_data():
 
 
 def save_data(data):
-    """Save updated data to data.json"""
+    """Save updated data to data.json (y actualizar la fecha de última actualización)"""
+    stats = data.setdefault("estadisticas", {})
+    stats["ultima_actualizacion"] = datetime.now().strftime("%Y-%m-%d")
+    stats["total_casos"] = len(data.get("casos", []))
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -372,7 +439,9 @@ def fetch_news_api(api_key: str) -> list:
         "Petro corrupción",
         "gobierno Colombia escándalo",
         "Colombia nepotismo",
-        "ministro Colombia investigación"
+        "ministro Colombia investigación",
+        "terremoto Colombia reconstrucción",
+        "Colombia captura cabecilla",
     ]
 
     for query in queries:
@@ -406,54 +475,13 @@ def fetch_news_api(api_key: str) -> list:
     return articles
 
 
-def analyze_with_claude(client: anthropic.Anthropic, articles: list, existing_hashes: set, existing_cases: list) -> list:
-    """Use Claude to analyze and categorize relevant articles"""
+def build_prompt(articles_text: str, existing_cases_text: str) -> str:
+    """Prompt de análisis: tres secciones (archivo, nuevo-gobierno, terremoto)."""
+    return f"""Eres un analista de noticias politicas colombianas para el sitio "La Lupa", un observatorio ciudadano de transparencia.
 
-    if not articles:
-        return []
+CONTEXTO: El 7 de agosto de 2026 termino el gobierno de Gustavo Petro (2022-2026) y comenzo el gobierno de Abelardo de la Espriella (2026-2030). El 10 de agosto de 2026 un terremoto de magnitud 7,4 golpeo el occidente del pais (300+ muertos, 15 departamentos). El sitio tiene TRES secciones:
 
-    # Filter out already processed articles by URL
-    new_articles = []
-    existing_urls = set()
-    for case in existing_cases:
-        for fuente in case.get("fuentes", []):
-            existing_urls.add(fuente.get("url", ""))
-
-    for article in articles:
-        article_hash = generate_case_hash(article["title"], article["url"])
-        if article_hash not in existing_hashes and article["url"] not in existing_urls:
-            new_articles.append(article)
-
-    if not new_articles:
-        print("  No new articles to analyze")
-        return []
-
-    print(f"  Analyzing {len(new_articles)} new articles with Claude AI...")
-
-    # Prepare articles for Claude
-    articles_text = "\n\n".join([
-        f"ARTICULO {i+1}:\nTitulo: {a['title']}\nResumen: {a['summary']}\nFuente: {a['source']}\nFecha: {a['date']}\nURL: {a['url']}"
-        for i, a in enumerate(new_articles[:30])  # Limit to 30 articles per batch
-    ])
-
-    # Prepare recent existing cases for duplicate detection (last 7 days)
-    cutoff = datetime.now() - timedelta(days=7)
-    recent_cases = []
-    for case in existing_cases[:50]:  # Check last 50 cases
-        try:
-            case_date = datetime.strptime(case.get("fecha", ""), "%Y-%m-%d")
-            if case_date >= cutoff:
-                recent_cases.append(f"- {case.get('titulo', '')} ({case.get('entidad', '')})")
-        except:
-            recent_cases.append(f"- {case.get('titulo', '')} ({case.get('entidad', '')})")
-
-    existing_cases_text = "\n".join(recent_cases[:30]) if recent_cases else "Ninguno"
-
-    prompt = f"""Eres un analista de noticias politicas colombianas para el sitio "La Lupa", un observatorio ciudadano de transparencia.
-
-CONTEXTO: El 7 de agosto de 2026 termino el gobierno de Gustavo Petro (2022-2026) y comenzo el gobierno de Abelardo de la Espriella (2026-2030). El sitio tiene DOS secciones:
-
-SECCION A - "archivo": Casos de corrupcion e irregularidades del gobierno Petro y su gente, incluyendo el SEGUIMIENTO de procesos judiciales y disciplinarios en curso (UNGRD, Nicolas Petro, pasaportes, exministros investigados, etc.). Categorias:
+SECCION A - "archivo": Casos de corrupcion e irregularidades del gobierno Petro y su gente, incluyendo el SEGUIMIENTO de procesos judiciales y disciplinarios en curso. Temas prioritarios: UNGRD (Olmedo Lopez, Sneyder Pinilla, sobornos a congresistas), Ecopetrol (Ricardo Roa), nepotismo y contratos a dedo o nombramientos para ganar votos, apoyos o beneficios a guerrillas y grupos armados (Paz Total, gestores de paz), titulos academicos falsos y funcionarios sin titulo, viajes al exterior con despilfarro o corrupcion, compra de aviones Gripen, Veronica Alcocer, Nicolas Petro, pasaportes, Laura Sarabia, Armando Benedetti, hallazgos de Contraloria/Procuraduria/Fiscalia/empalme. Categorias:
 - corrupcion: Casos de corrupcion, sobornos, malversacion
 - mentiras: Afirmaciones falsas o enganos por parte de funcionarios
 - nepotismo: Nombramientos a familiares o allegados sin merito
@@ -464,17 +492,31 @@ SECCION A - "archivo": Casos de corrupcion e irregularidades del gobierno Petro 
 - sanciones: Sanciones internacionales a funcionarios
 - abuso-poder: Abuso de autoridad, extralimitacion de funciones
 
-SECCION B - "nuevo-gobierno": Hechos concretos de GESTION del gobierno De la Espriella (medidas, decretos, resultados, manejo de la emergencia del terremoto del 10 de agosto de 2026). Tono descriptivo y objetivo, con cifras. Categorias:
-- gestion-emergencia: Manejo del terremoto y otras emergencias
-- seguridad: Medidas de seguridad, lucha contra grupos armados
+SECCION B - "nuevo-gobierno": Hechos concretos de GESTION y RESULTADOS del gobierno De la Espriella: cifras de capturas, cabecillas abatidos o neutralizados, incautaciones, extradiciones, medidas economicas, decretos, resultados en salud/educacion/obras, encuestas. Tono descriptivo y objetivo, con cifras. Categorias:
+- seguridad: Capturas, bajas, operativos, lucha contra grupos armados
 - economia: Medidas economicas y fiscales
 - transparencia: Medidas de transparencia, austeridad, anticorrupcion
 - gabinete: Conformacion del equipo de gobierno y nombramientos
 - empalme: Hallazgos y denuncias del empalme sobre el gobierno saliente
 - internacional: Relaciones exteriores y cooperacion
-- obras: Infraestructura, reconstruccion, agenda territorial
+- obras: Infraestructura y agenda territorial (NO el terremoto)
+- gestion-emergencia: Otras emergencias distintas al terremoto
+- opinion-publica: Encuestas y mediciones de aprobacion
 
-CASOS YA DOCUMENTADOS (ultimos 7 dias) - NO DUPLICAR:
+SECCION C - "terremoto": Seguimiento al MANEJO DE LOS DINEROS y la gestion de la emergencia del terremoto del 10 de agosto de 2026, por el gobierno nacional (Presidencia, UNGRD, Fondo Milagro, ministerios) y los gobiernos locales (alcaldias y gobernaciones), con enfasis en PEREIRA/RISARALDA, CALI/VALLE y CHOCO. Aqui SI se documentan hechos negativos y positivos por igual: cuanto se asigno, quien administra la plata, como se contrata, que llega a los damnificados, denuncias de corrupcion, sobrecostos, censos inflados, ayudas que no llegan, actuaciones de Contraloria/Procuraduria/Fiscalia/veedurias, y tambien entregas efectivas y avances. Categorias:
+- dineros: Recursos asignados, Fondo Milagro, donaciones, creditos, ejecucion presupuestal
+- denuncias: Denuncias de corrupcion, desvios, sobrecostos, ayudas que no llegan
+- contratacion: Contratos de emergencia y reconstruccion (quien, a quien, por cuanto)
+- gestion-local: Manejo por alcaldias y gobernaciones
+- gestion-nacional: Manejo por el gobierno nacional
+- avances: Resultados verificables (viviendas, subsidios, vias, servicios)
+- damnificados: Albergues, censos, ayudas humanitarias, situacion de la poblacion
+- control: Actuaciones de Contraloria, Procuraduria, Fiscalia, veedurias
+Para esta seccion agrega tambien:
+- "region": pereira | cali | choco | nacional | otras
+- "signo": positivo (avance/resultado) | negativo (denuncia/irregularidad) | neutro (seguimiento)
+
+CASOS YA DOCUMENTADOS (ultimos 14 dias) - NO DUPLICAR:
 {existing_cases_text}
 
 Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opiniones ni columnas), responde en formato JSON:
@@ -483,10 +525,12 @@ Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opini
   "casos_relevantes": [
     {{
       "articulo_numero": 1,
-      "seccion": "archivo" o "nuevo-gobierno",
+      "seccion": "archivo" o "nuevo-gobierno" o "terremoto",
       "titulo_caso": "Titulo descriptivo del caso",
       "categoria": "categoria_id (de la seccion correspondiente)",
-      "descripcion": "Descripcion breve y objetiva del caso (maximo 200 palabras)",
+      "region": "solo para terremoto",
+      "signo": "solo para terremoto",
+      "descripcion": "Descripcion breve y objetiva del caso con cifras, fechas y nombres (maximo 200 palabras)",
       "gravedad": "alta|media|baja",
       "personas_involucradas": ["Nombre 1", "Nombre 2"],
       "entidad": "Nombre de la entidad involucrada",
@@ -499,11 +543,11 @@ Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opini
 IMPORTANTE:
 - NO INCLUIR articulos que sean sobre el MISMO CASO que los ya documentados arriba
 - Si varios articulos hablan del mismo caso, incluir SOLO UNO; si hay version con paywall (El Tiempo) y sin paywall, elegir el articulo del medio SIN paywall
-- Solo incluye articulos que documenten HECHOS CONCRETOS, no opiniones
-- relevancia_score de 1-10 (solo incluir si >= 6)
-- Evita articulos que sean solo especulacion o rumores
-- En "gravedad" para la seccion "nuevo-gobierno" usa la importancia del hecho (alta = decision de gran impacto nacional)
-- NUNCA incluir casos negativos sobre las siguientes personas (EXCLUIDAS): Abelardo de la Espriella, Fico de la Espriella
+- Solo incluye articulos que documenten HECHOS CONCRETOS, no opiniones, columnas, ni verificaciones de videos virales
+- relevancia_score de 1-10 (solo incluir si >= 6). Se generoso con hechos concretos de los temas prioritarios: un avance judicial, una captura con cifras o una denuncia con nombre y entidad SI son relevantes
+- Evita articulos que sean solo especulacion o rumores; si es una denuncia sin confirmar, describela como denuncia y di quien la hace
+- En "gravedad" para la seccion "nuevo-gobierno" usa la importancia del hecho (alta = decision o resultado de gran impacto nacional)
+- La seccion "nuevo-gobierno" es para RESULTADOS y MEDIDAS del gobierno De la Espriella; NO incluir ahi criticas ni casos negativos sobre Abelardo de la Espriella ni Fico de la Espriella. En la seccion "terremoto" si se documentan irregularidades de entidades y funcionarios de cualquier nivel, siempre con fuente
 - Si ningun articulo es relevante o todos son duplicados, devuelve {{"casos_relevantes": []}}
 
 ARTICULOS A ANALIZAR:
@@ -511,33 +555,46 @@ ARTICULOS A ANALIZAR:
 
 Responde SOLO con el JSON, sin explicaciones adicionales."""
 
+
+def analyze_batch(client: anthropic.Anthropic, batch: list, existing_cases_text: str) -> list:
+    """Envía un lote de artículos a Claude y devuelve los casos con su artículo asociado."""
+    articles_text = "\n\n".join([
+        f"ARTICULO {i+1}:\nTitulo: {a['title']}\nResumen: {a['summary']}\nFuente: {a['source']}\nFecha: {a['date']}\nURL: {a['url']}"
+        for i, a in enumerate(batch)
+    ])
+    prompt = build_prompt(articles_text, existing_cases_text)
+
     try:
         response = client.messages.create(
             model="claude-sonnet-5",
-            max_tokens=4000,
+            max_tokens=6000,
             messages=[{"role": "user", "content": prompt}]
         )
 
-        # Extract JSON from response (los modelos actuales pueden devolver
-        # bloques de razonamiento antes del texto: tomar solo los bloques de texto)
+        # Los modelos actuales pueden devolver bloques de razonamiento antes del texto:
+        # tomar solo los bloques de texto
         response_text = "".join(
             block.text for block in response.content
             if getattr(block, "type", "") == "text"
         )
 
-        # Try to parse JSON
         json_match = re.search(r'\{[\s\S]*\}', response_text)
-        if json_match:
-            result = json.loads(json_match.group())
-            casos = result.get("casos_relevantes", [])
-            # Asociar cada caso a su articulo original aqui mismo: la numeracion de Claude
-            # corresponde a new_articles (lista filtrada), no a la lista completa de main()
-            for caso in casos:
-                idx = caso.get("articulo_numero", 0) - 1
-                if 0 <= idx < len(new_articles):
-                    caso["_article"] = new_articles[idx]
-            return [c for c in casos if "_article" in c]
+        if not json_match:
+            print(f"  [WARN] Claude no devolvio JSON. Respuesta: {response_text[:200]!r}")
+            return []
 
+        result = json.loads(json_match.group())
+        casos = result.get("casos_relevantes", [])
+        # La numeracion de Claude corresponde a este lote
+        for caso in casos:
+            idx = caso.get("articulo_numero", 0) - 1
+            if 0 <= idx < len(batch):
+                caso["_article"] = batch[idx]
+        return [c for c in casos if "_article" in c]
+
+    except json.JSONDecodeError as e:
+        print(f"  [WARN] JSON invalido en la respuesta de Claude: {e}")
+        return []
     except Exception as e:
         print(f"  Error analyzing with Claude: {e}")
         # Fallar en rojo si no hay creditos: antes el workflow quedaba "en verde"
@@ -553,21 +610,87 @@ Responde SOLO con el JSON, sin explicaciones adicionales."""
             print("ERROR FATAL: El modelo de Claude ya no existe en la API.")
             print("   Actualizar el parametro 'model' en scripts/news_updater.py")
             raise SystemExit(1)
+        return []
 
-    return []
+
+def analyze_with_claude(client: anthropic.Anthropic, articles: list, existing_hashes: set, existing_cases: list) -> list:
+    """Use Claude to analyze and categorize relevant articles (en lotes: TODOS los articulos nuevos se analizan)"""
+
+    if not articles:
+        return []
+
+    # Filter out already processed articles by URL
+    new_articles = []
+    existing_urls = set()
+    for case in existing_cases:
+        for fuente in case.get("fuentes", []):
+            existing_urls.add(fuente.get("url", ""))
+
+    seen_urls = set()
+    for article in articles:
+        article_hash = generate_case_hash(article["title"], article["url"])
+        if article_hash in existing_hashes or article["url"] in existing_urls:
+            continue
+        if article["url"] in seen_urls:
+            continue
+        seen_urls.add(article["url"])
+        new_articles.append(article)
+
+    if not new_articles:
+        print("  No new articles to analyze")
+        return []
+
+    # Priorizar por palabras clave (orden estable: a igual puntaje se conserva el orden de llegada)
+    new_articles.sort(key=priority_score, reverse=True)
+    if len(new_articles) > MAX_ARTICLES_PER_RUN:
+        print(f"  {len(new_articles)} articulos nuevos; se analizan los {MAX_ARTICLES_PER_RUN} mas relevantes")
+        new_articles = new_articles[:MAX_ARTICLES_PER_RUN]
+
+    # Casos recientes para deteccion de duplicados (ultimos 14 dias)
+    cutoff = datetime.now() - timedelta(days=14)
+    recent_cases = []
+    for case in existing_cases[:120]:
+        try:
+            case_date = datetime.strptime(case.get("fecha", ""), "%Y-%m-%d")
+            if case_date >= cutoff:
+                recent_cases.append(f"- {case.get('titulo', '')} ({case.get('entidad', '')})")
+        except Exception:
+            recent_cases.append(f"- {case.get('titulo', '')} ({case.get('entidad', '')})")
+    existing_cases_text = "\n".join(recent_cases[:60]) if recent_cases else "Ninguno"
+
+    batches = [new_articles[i:i + BATCH_SIZE] for i in range(0, len(new_articles), BATCH_SIZE)]
+    print(f"  Analyzing {len(new_articles)} new articles with Claude AI ({len(batches)} lote(s) de hasta {BATCH_SIZE})...")
+
+    all_cases = []
+    for n, batch in enumerate(batches, 1):
+        found = analyze_batch(client, batch, existing_cases_text)
+        print(f"    Lote {n}/{len(batches)}: {len(batch)} articulos -> {len(found)} caso(s) relevante(s)")
+        all_cases.extend(found)
+        # Los casos encontrados en este lote cuentan como "ya documentados" para los siguientes
+        for c in found:
+            existing_cases_text += f"\n- {c.get('titulo_caso', '')} ({c.get('entidad', '')})"
+
+    return all_cases
 
 
 def create_case_entry(analyzed: dict, article: dict, next_id: int) -> dict:
     """Create a properly formatted case entry"""
     seccion = analyzed.get("seccion", "archivo")
-    # Validar coherencia seccion/categoria
     categoria = analyzed.get("categoria", "corrupcion")
-    if categoria in GESTION_CATEGORIES:
+
+    # Validar coherencia seccion/categoria
+    if seccion == "terremoto" and categoria in TERREMOTO_CATEGORIES:
+        pass
+    elif categoria in GESTION_CATEGORIES:
         seccion = "nuevo-gobierno"
+    elif seccion == "terremoto":
+        categoria = "gestion-nacional"
     elif seccion == "nuevo-gobierno":
-        # Categoria no reconocida para gestion: usar generica
-        if categoria not in GESTION_CATEGORIES:
-            categoria = "gestion-emergencia" if "terremoto" in analyzed.get("titulo_caso", "").lower() else "gabinete"
+        categoria = "gestion-emergencia" if "terremoto" in analyzed.get("titulo_caso", "").lower() else "gabinete"
+    else:
+        seccion = "archivo"
+        if categoria not in CATEGORIES:
+            categoria = "corrupcion"
 
     entry = {
         "id": next_id,
@@ -591,6 +714,12 @@ def create_case_entry(analyzed: dict, article: dict, next_id: int) -> dict:
 
     if seccion == "nuevo-gobierno":
         entry["seccion"] = "nuevo-gobierno"
+    elif seccion == "terremoto":
+        entry["seccion"] = "terremoto"
+        region = analyzed.get("region", "otras")
+        entry["region"] = region if region in TERREMOTO_REGIONS else "otras"
+        signo = analyzed.get("signo", "neutro")
+        entry["signo"] = signo if signo in ("positivo", "negativo", "neutro") else "neutro"
 
     return entry
 
@@ -633,13 +762,8 @@ def main():
     print("Buscando noticias...")
     all_articles = []
 
-    # RSS Feeds
-    print("  [RSS Feeds]")
-    rss_articles = fetch_rss_feeds()
-    all_articles.extend(rss_articles)
-    print(f"   -> {len(rss_articles)} articulos de RSS")
-
-    # Google News (agrega medios sin feed directo: Semana, Blu Radio, Caracol, RCN, La FM, etc.)
+    # Google News primero: son busquedas dirigidas a los temas del sitio
+    # (agrega medios sin feed directo: Semana, Blu Radio, Caracol, RCN, La FM, medios de Pereira, etc.)
     print("  [Google News]")
     gn_articles = fetch_google_news()
     all_articles.extend(gn_articles)
@@ -650,6 +774,12 @@ def main():
     news_api_articles = fetch_news_api(news_api_key)
     all_articles.extend(news_api_articles)
     print(f"   -> {len(news_api_articles)} articulos de NewsAPI")
+
+    # RSS Feeds generales
+    print("  [RSS Feeds]")
+    rss_articles = fetch_rss_feeds()
+    all_articles.extend(rss_articles)
+    print(f"   -> {len(rss_articles)} articulos de RSS")
 
     # Preferir medios sin paywall cuando la misma noticia existe en varios
     all_articles = prefer_free_sources(all_articles)
@@ -698,7 +828,7 @@ def main():
 
                 new_case = create_case_entry(analyzed, article, next_id)
                 existing_cases.insert(0, new_case)  # Add at the beginning
-                print(f"   [ADD] Agregado: {new_case['titulo'][:60]}...")
+                print(f"   [ADD] [{new_case.get('seccion', 'archivo')}] {new_case['titulo'][:70]}...")
                 next_id += 1
                 new_cases_added += 1
 

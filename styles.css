@@ -4183,3 +4183,171 @@ body {
         margin: -6px 0;
     }
 }
+
+/* ============================================================
+   SECCIÓN: LUPA AL TERREMOTO (10 de agosto de 2026)
+   ============================================================ */
+.terremoto-section {
+    background: linear-gradient(180deg, #fff7ed 0%, var(--background) 100%);
+    border-color: #fed7aa;
+}
+
+.terremoto-section .gestion-title-row h2 i,
+.terremoto-section .casos-header h3 i {
+    color: #ea580c;
+}
+
+.terremoto-badge {
+    background: linear-gradient(135deg, #ea580c 0%, #c2410c 100%);
+}
+
+.sticky-link-terremoto i {
+    color: #ea580c;
+    margin-right: 4px;
+}
+
+/* Franja resumen */
+.terremoto-resumen {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 14px;
+    margin-top: 24px;
+}
+
+.terremoto-stat {
+    background: var(--card-bg);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    box-shadow: var(--shadow-card);
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto;
+    column-gap: 12px;
+    align-items: center;
+    border-left: 4px solid var(--border);
+}
+
+.terremoto-stat i {
+    grid-row: 1 / span 2;
+    font-size: 1.5rem;
+}
+
+.terremoto-stat-num {
+    font-size: 1.8rem;
+    font-weight: 800;
+    line-height: 1.1;
+}
+
+.terremoto-stat-label {
+    font-size: 0.78rem;
+    color: var(--text-secondary);
+    line-height: 1.3;
+}
+
+.terremoto-stat-neg { border-left-color: #dc2626; }
+.terremoto-stat-neg i, .terremoto-stat-neg .terremoto-stat-num { color: #dc2626; }
+.terremoto-stat-pos { border-left-color: #16a34a; }
+.terremoto-stat-pos i, .terremoto-stat-pos .terremoto-stat-num { color: #16a34a; }
+.terremoto-stat-neu { border-left-color: #64748b; }
+.terremoto-stat-neu i, .terremoto-stat-neu .terremoto-stat-num { color: #64748b; }
+.terremoto-stat-region { border-left-color: #ea580c; }
+.terremoto-stat-region i, .terremoto-stat-region .terremoto-stat-num { color: #ea580c; }
+
+/* Filtros: dos filas (región y tema) */
+.terremoto-filter-row {
+    margin: 12px 0;
+    align-items: center;
+}
+
+.terremoto-filter-row + .terremoto-filter-row {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.terremoto-filter-label {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    margin-right: 4px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.terremoto-chip {
+    --chip-color: #ea580c;
+    padding: 6px 13px;
+    font-size: 0.83rem;
+}
+
+/* Etiquetas de región y signo en las tarjetas */
+.caso-terremoto-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 8px;
+}
+
+.caso-region {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: #9a3412;
+    background: #ffedd5;
+    padding: 3px 9px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.caso-signo {
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 999px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+
+.caso-signo.positivo { background: #dcfce7; color: #166534; }
+.caso-signo.negativo { background: #fee2e2; color: #991b1b; }
+.caso-signo.neutro { background: #f1f5f9; color: #334155; }
+
+@media (max-width: 768px) {
+    .terremoto-resumen {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Botón "Ver más" de las secciones Nuevo Gobierno y Terremoto */
+.ver-mas-wrap {
+    text-align: center;
+    margin: 18px 0 4px;
+}
+
+.ver-mas-wrap:empty {
+    display: none;
+}
+
+.btn-ver-mas {
+    background: var(--card-bg);
+    border: 1.5px solid var(--border);
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 0.92rem;
+    padding: 12px 26px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: var(--shadow-card);
+}
+
+.btn-ver-mas:hover {
+    border-color: var(--primary);
+    transform: translateY(-1px);
+}

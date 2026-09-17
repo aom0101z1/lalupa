@@ -23,6 +23,11 @@ const CASES_PER_PAGE = 24;
 let filteredGestion = [];
 let gestionCategoriaActiva = '';
 
+// Sección Lupa al Terremoto (10 de agosto de 2026)
+let filteredTerremoto = [];
+let terremotoCategoriaActiva = '';
+let terremotoRegionActiva = '';
+
 // Elementos del DOM
 const statsGrid = document.getElementById('stats-grid');
 const casosGrid = document.getElementById('casos-grid');
@@ -156,8 +161,14 @@ async function init() {
         renderStats();
         filterAndRenderCasos();
 
-        if (data.estadisticas && data.estadisticas.ultima_actualizacion && ultimaActualizacion) {
-            ultimaActualizacion.textContent = formatDate(data.estadisticas.ultima_actualizacion);
+        // Fecha de última actualización: la más reciente entre estadisticas y los casos publicados
+        if (ultimaActualizacion) {
+            let ultima = (data.estadisticas && data.estadisticas.ultima_actualizacion) || '';
+            data.casos.forEach(c => {
+                const f = (c.added_date || c.fecha || '').substring(0, 10);
+                if (f > ultima) ultima = f;
+            });
+            if (ultima) ultimaActualizacion.textContent = formatDate(ultima);
         }
 
         console.log('La Lupa: Inicializacion completada. Casos mostrados:', filteredCasos.length);
@@ -205,7 +216,7 @@ function populateMediosFilter() {
 // Renderizar estadisticas
 function renderStats() {
     // Las estadísticas cubren el archivo del gobierno saliente; la gestión del nuevo gobierno tiene su propia sección
-    const casosArchivo = data.casos.filter(c => c.seccion !== 'nuevo-gobierno');
+    const casosArchivo = data.casos.filter(c => esCasoArchivo(c) && isCasoAprobado(c));
     const totalCasos = casosArchivo.length;
 
     // Calcular estadisticas dinamicamente
@@ -263,8 +274,8 @@ function filterAndRenderCasos() {
             return false;
         }
 
-        // Los hechos del nuevo gobierno tienen su propia sección
-        if (caso.seccion === 'nuevo-gobierno') {
+        // Los hechos del nuevo gobierno y del terremoto tienen su propia sección
+        if (!esCasoArchivo(caso)) {
             return false;
         }
 
@@ -327,30 +338,40 @@ function filterAndRenderCasos() {
 
     renderCasos();
 
-    // Mantener sincronizada la sección Gestión Nuevo Gobierno (aprobaciones, login admin, etc.)
+    // Mantener sincronizadas las secciones Gestión Nuevo Gobierno y Lupa al Terremoto
     renderGestionSection();
+    renderTerremotoSection();
+    renderStats();
 }
 
-// Visibilidad por aprobación: casos auto-generados requieren aprobación del admin
+// Visibilidad: PUBLICACIÓN AUTOMÁTICA (desde 17-sep-2026).
+// Todos los casos son visibles al público salvo que el admin los desactive
+// ('rejected') o los ponga en revisión ('pending') desde el Panel Admin > Casos.
+// Antes los casos auto-generados nacían ocultos y el sitio parecía no actualizarse.
 function isCasoAprobado(caso) {
     if (!caso.auto_generated) return true;
     const status = caseApprovals[caso.id];
-    // Casos con estado explícito en Firestore: respetar el estado
     if (status === 'rejected') return false;
-    if (status === 'approved') return true;
-    // Casos sin estado: pendientes (ocultos al público) si fueron creados desde el 5 de feb 2026
-    const caseDate = caso.added_date || caso.fecha;
-    if (caseDate && caseDate >= '2026-02-05' && !(typeof isAdmin !== 'undefined' && isAdmin)) {
-        return false;
-    }
+    if (status === 'pending') return !!(typeof isAdmin !== 'undefined' && isAdmin);
     return true;
 }
 
-// Buscar info de categoría en categorías principales o de gestión
+// Un caso pertenece al archivo del gobierno saliente si no tiene sección especial
+function esCasoArchivo(caso) {
+    return !caso.seccion;
+}
+
+// Buscar info de categoría en categorías principales, de gestión o del terremoto
 function findCategoriaInfo(id) {
     return data.categorias.find(c => c.id === id)
         || (data.categorias_gestion || []).find(c => c.id === id)
+        || (data.categorias_terremoto || []).find(c => c.id === id)
         || { nombre: id, color: '#95a5a6', icono: 'fa-circle' };
+}
+
+function findRegionInfo(id) {
+    return (data.regiones_terremoto || []).find(r => r.id === id)
+        || { nombre: id || 'Sin región', icono: 'fa-map-marker-alt', color: '#64748b' };
 }
 
 // HTML de una tarjeta de caso (compartido entre Casos y Gestión Nuevo Gobierno)
@@ -370,6 +391,12 @@ function casoCardHTML(caso) {
                 </span>
             </div>
             <div class="caso-card-body">
+                ${caso.seccion === 'terremoto' ? `
+                    <div class="caso-terremoto-tags">
+                        <span class="caso-region"><i class="fas ${findRegionInfo(caso.region).icono}"></i> ${escapeHtml(findRegionInfo(caso.region).nombre)}</span>
+                        ${caso.signo ? `<span class="caso-signo ${caso.signo}">${caso.signo === 'positivo' ? 'Avance' : caso.signo === 'negativo' ? 'Denuncia / irregularidad' : 'Seguimiento'}</span>` : ''}
+                    </div>
+                ` : ''}
                 <h3 class="caso-titulo">${escapeHtml(caso.titulo)}</h3>
                 <p class="caso-descripcion">${escapeHtml(caso.descripcion)}</p>
                 <div class="caso-meta">
@@ -416,7 +443,7 @@ function renderGestionCompare() {
     const container = document.getElementById('gestion-compare');
     if (!container) return;
 
-    const casosSaliente = data.casos.filter(c => c.seccion !== 'nuevo-gobierno' && isCasoAprobado(c)).length;
+    const casosSaliente = data.casos.filter(c => esCasoArchivo(c) && isCasoAprobado(c)).length;
     const hechosNuevo = getGestionCasos().length;
 
     container.innerHTML = `
@@ -491,10 +518,170 @@ function renderGestionCasos() {
     }
     if (noRes) noRes.style.display = 'none';
 
-    grid.innerHTML = filteredGestion.map(caso => casoCardHTML(caso)).join('');
+    renderGridConVerMas(grid, filteredGestion, 'gestion');
+}
+
+// ============================================================
+// SECCIÓN: LUPA AL TERREMOTO (10 de agosto de 2026)
+// Manejo de los dineros y la gestión de la emergencia, nacional y local
+// ============================================================
+
+function getTerremotoCasos() {
+    return data.casos.filter(c => c.seccion === 'terremoto' && isCasoAprobado(c));
+}
+
+function renderTerremotoSection() {
+    if (!document.getElementById('terremoto-grid')) return;
+    renderTerremotoResumen();
+    renderTerremotoFilters();
+    renderTerremotoCasos();
+}
+
+// Franja resumen: hechos positivos, denuncias/irregularidades y seguimiento
+function renderTerremotoResumen() {
+    const container = document.getElementById('terremoto-resumen');
+    if (!container) return;
+
+    const casos = getTerremotoCasos();
+    const positivos = casos.filter(c => c.signo === 'positivo').length;
+    const negativos = casos.filter(c => c.signo === 'negativo').length;
+    const neutros = casos.length - positivos - negativos;
+    const porRegion = {};
+    casos.forEach(c => { porRegion[c.region || 'otras'] = (porRegion[c.region || 'otras'] || 0) + 1; });
+
+    container.innerHTML = `
+        <div class="terremoto-stat terremoto-stat-neg">
+            <i class="fas fa-exclamation-triangle"></i>
+            <span class="terremoto-stat-num">${negativos}</span>
+            <span class="terremoto-stat-label">denuncias e irregularidades</span>
+        </div>
+        <div class="terremoto-stat terremoto-stat-pos">
+            <i class="fas fa-check-circle"></i>
+            <span class="terremoto-stat-num">${positivos}</span>
+            <span class="terremoto-stat-label">avances y resultados</span>
+        </div>
+        <div class="terremoto-stat terremoto-stat-neu">
+            <i class="fas fa-balance-scale"></i>
+            <span class="terremoto-stat-num">${neutros}</span>
+            <span class="terremoto-stat-label">hechos de seguimiento</span>
+        </div>
+        <div class="terremoto-stat terremoto-stat-region">
+            <i class="fas fa-map-marked-alt"></i>
+            <span class="terremoto-stat-num">${porRegion['pereira'] || 0}</span>
+            <span class="terremoto-stat-label">hechos sobre Pereira / Risaralda</span>
+        </div>
+    `;
+}
+
+function renderTerremotoFilters() {
+    const catContainer = document.getElementById('terremoto-filters');
+    const regContainer = document.getElementById('terremoto-regiones');
+    if (!catContainer || !regContainer) return;
+
+    const casos = getTerremotoCasos();
+    const countsCat = {};
+    const countsReg = {};
+    casos.forEach(c => {
+        countsCat[c.categoria] = (countsCat[c.categoria] || 0) + 1;
+        const r = c.region || 'otras';
+        countsReg[r] = (countsReg[r] || 0) + 1;
+    });
+
+    if (terremotoCategoriaActiva && !countsCat[terremotoCategoriaActiva]) terremotoCategoriaActiva = '';
+    if (terremotoRegionActiva && !countsReg[terremotoRegionActiva]) terremotoRegionActiva = '';
+
+    // Chips por región (Pereira primero: es el foco de la sección)
+    let regHtml = `<span class="terremoto-filter-label"><i class="fas fa-map-marker-alt"></i> Región:</span>
+        <button class="gestion-chip terremoto-chip${terremotoRegionActiva === '' ? ' active' : ''}" data-reg="">
+        Todas (${casos.length})</button>`;
+    (data.regiones_terremoto || []).forEach(reg => {
+        const n = countsReg[reg.id] || 0;
+        if (n === 0) return;
+        regHtml += `<button class="gestion-chip terremoto-chip${terremotoRegionActiva === reg.id ? ' active' : ''}" data-reg="${reg.id}" style="--chip-color: ${reg.color}">
+            <i class="fas ${reg.icono}"></i> ${reg.nombre} (${n})
+        </button>`;
+    });
+    regContainer.innerHTML = regHtml;
+    regContainer.querySelectorAll('.terremoto-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+            terremotoRegionActiva = btn.dataset.reg;
+            renderTerremotoFilters();
+            renderTerremotoCasos();
+        });
+    });
+
+    // Chips por tema
+    let catHtml = `<span class="terremoto-filter-label"><i class="fas fa-tags"></i> Tema:</span>
+        <button class="gestion-chip terremoto-chip${terremotoCategoriaActiva === '' ? ' active' : ''}" data-cat="">
+        Todos</button>`;
+    (data.categorias_terremoto || []).forEach(cat => {
+        const n = countsCat[cat.id] || 0;
+        if (n === 0) return;
+        catHtml += `<button class="gestion-chip terremoto-chip${terremotoCategoriaActiva === cat.id ? ' active' : ''}" data-cat="${cat.id}" style="--chip-color: ${cat.color}">
+            <i class="fas ${cat.icono}"></i> ${cat.nombre} (${n})
+        </button>`;
+    });
+    catContainer.innerHTML = catHtml;
+    catContainer.querySelectorAll('.terremoto-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+            terremotoCategoriaActiva = btn.dataset.cat;
+            renderTerremotoFilters();
+            renderTerremotoCasos();
+        });
+    });
+}
+
+function renderTerremotoCasos() {
+    const grid = document.getElementById('terremoto-grid');
+    const count = document.getElementById('terremoto-count');
+    const noRes = document.getElementById('terremoto-no-results');
+    if (!grid) return;
+
+    filteredTerremoto = getTerremotoCasos()
+        .filter(c => !terremotoCategoriaActiva || c.categoria === terremotoCategoriaActiva)
+        .filter(c => !terremotoRegionActiva || (c.region || 'otras') === terremotoRegionActiva)
+        .sort((a, b) => (b.fecha || '').localeCompare(a.fecha || ''));
+
+    if (count) count.textContent = `${filteredTerremoto.length} hecho${filteredTerremoto.length !== 1 ? 's' : ''}`;
+
+    if (filteredTerremoto.length === 0) {
+        grid.innerHTML = '';
+        if (noRes) noRes.style.display = 'block';
+        return;
+    }
+    if (noRes) noRes.style.display = 'none';
+
+    renderGridConVerMas(grid, filteredTerremoto, 'terremoto');
+}
+
+// Grid con botón "Ver más": muestra SECCION_PAGE tarjetas y va agregando de a SECCION_PAGE
+const SECCION_PAGE = 12;
+const seccionVisibles = {};
+function renderGridConVerMas(grid, casos, key) {
+    if (!seccionVisibles[key]) seccionVisibles[key] = SECCION_PAGE;
+    const visibles = casos.slice(0, seccionVisibles[key]);
+
+    grid.innerHTML = visibles.map(caso => casoCardHTML(caso)).join('');
     grid.querySelectorAll('.caso-card').forEach(card => {
         card.addEventListener('click', () => openModal(parseInt(card.dataset.id)));
     });
+
+    let wrap = grid.nextElementSibling;
+    if (!wrap || !wrap.classList.contains('ver-mas-wrap')) {
+        wrap = document.createElement('div');
+        wrap.className = 'ver-mas-wrap';
+        grid.insertAdjacentElement('afterend', wrap);
+    }
+    const restantes = casos.length - visibles.length;
+    if (restantes > 0) {
+        wrap.innerHTML = `<button class="btn-ver-mas"><i class="fas fa-chevron-down"></i> Ver más hechos (${restantes} restantes)</button>`;
+        wrap.querySelector('button').addEventListener('click', () => {
+            seccionVisibles[key] += SECCION_PAGE;
+            renderGridConVerMas(grid, casos, key);
+        });
+    } else {
+        wrap.innerHTML = '';
+    }
 }
 
 // Renderizar casos
@@ -613,6 +800,8 @@ function openModal(id) {
             <h2>${escapeHtml(caso.titulo)}</h2>
             <div class="meta-row">
                 <span><i class="far fa-calendar"></i> ${formatDate(caso.fecha)}</span>
+                ${caso.seccion === 'terremoto' ? `<span><i class="fas ${findRegionInfo(caso.region).icono}"></i> ${escapeHtml(findRegionInfo(caso.region).nombre)}</span>` : ''}
+                ${caso.seccion === 'terremoto' && caso.signo ? `<span class="caso-signo ${caso.signo}">${caso.signo === 'positivo' ? 'Avance' : caso.signo === 'negativo' ? 'Denuncia / irregularidad' : 'Seguimiento'}</span>` : ''}
                 ${caso.entidad ? `<span><i class="fas fa-building"></i> ${escapeHtml(caso.entidad)}</span>` : ''}
                 ${caso.gravedad ? `<span class="caso-gravedad ${caso.gravedad}">${caso.gravedad}</span>` : ''}
                 ${caso.estado ? `<span class="caso-estado ${caso.estado.toLowerCase().replace(/ /g, '')}">${escapeHtml(caso.estado)}</span>` : ''}
@@ -2549,9 +2738,9 @@ async function setCaseStatus(caseId, status) {
         filterAndRenderCasos();
 
         const msgs = {
-            'approved': '¡Caso aprobado y publicado!',
-            'rejected': 'Caso rechazado',
-            'pending': 'Caso marcado como pendiente'
+            'approved': 'Caso publicado y marcado como revisado',
+            'rejected': 'Caso desactivado (ya no se muestra en el sitio)',
+            'pending': 'Caso oculto temporalmente (solo lo ves tú como admin)'
         };
         alert(msgs[status] || 'Estado actualizado');
     } catch (error) {
@@ -2573,42 +2762,50 @@ function renderPendingCasesTable() {
         return '<div class="admin-empty"><i class="fas fa-check-circle"></i><p>No hay casos auto-generados</p></div>';
     }
 
-    // Separate by status
-    const pendingCases = autoGeneratedCases.filter(c => {
-        const status = caseApprovals[c.id];
-        if (status === 'pending') return true;
-        if (!status) {
-            const caseDate = c.added_date || c.fecha;
-            return caseDate && caseDate >= '2026-02-05';
-        }
-        return false;
-    });
-    const approvedCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'approved');
-    const rejectedCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'rejected');
+    // Publicación automática: los casos sin estado ya están PUBLICADOS.
+    // El admin solo interviene para desactivar ('rejected'), ocultar temporalmente ('pending')
+    // o marcar como revisado ('approved'). Los más recientes primero, máximo 150 sin revisar.
+    const byDate = (a, b) => ((b.added_date || b.fecha || '')).localeCompare(a.added_date || a.fecha || '');
+    const unreviewed = autoGeneratedCases.filter(c => !caseApprovals[c.id]).sort(byDate);
+    const hiddenCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'pending').sort(byDate);
+    const approvedCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'approved').sort(byDate);
+    const rejectedCases = autoGeneratedCases.filter(c => caseApprovals[c.id] === 'rejected').sort(byDate);
 
     let html = `
         <div class="admin-cases-summary">
-            <span class="cases-stat pending-stat"><i class="fas fa-clock"></i> ${pendingCases.length} pendientes</span>
-            <span class="cases-stat approved-stat"><i class="fas fa-check"></i> ${approvedCases.length} aprobados</span>
-            <span class="cases-stat rejected-stat"><i class="fas fa-times"></i> ${rejectedCases.length} rechazados</span>
-        </div>`;
+            <span class="cases-stat pending-stat"><i class="fas fa-bolt"></i> ${unreviewed.length} publicados sin revisar</span>
+            <span class="cases-stat approved-stat"><i class="fas fa-check"></i> ${approvedCases.length} revisados</span>
+            <span class="cases-stat rejected-stat"><i class="fas fa-eye-slash"></i> ${rejectedCases.length + hiddenCases.length} desactivados / ocultos</span>
+        </div>
+        <p style="font-size:0.8rem; color: var(--text-muted); margin: 8px 0 0;">
+            <i class="fas fa-info-circle"></i> Los casos nuevos se publican automáticamente. Si alguno no te gusta, usa
+            <strong>Desactivar</strong> (desaparece del sitio). <strong>Revisado</strong> solo lo saca de esta lista.
+        </p>`;
 
-    if (pendingCases.length > 0) {
-        html += `<div style="display:flex; justify-content:space-between; align-items:center; margin: 15px 0 10px;">
-            <h4 style="color: #fbbf24; margin: 0;"><i class="fas fa-clock"></i> Pendientes de Aprobación (${pendingCases.length})</h4>
-            <button class="btn-unblock" onclick="approveAllPendingCases()" style="font-size:0.75rem;"><i class="fas fa-check-double"></i> Aprobar Todos</button>
+    if (unreviewed.length > 0) {
+        html += `<div style="display:flex; justify-content:space-between; align-items:center; margin: 15px 0 10px; flex-wrap: wrap; gap: 8px;">
+            <h4 style="color: #fbbf24; margin: 0;"><i class="fas fa-bolt"></i> Publicados sin revisar (${unreviewed.length})</h4>
+            <button class="btn-unblock" onclick="approveAllPendingCases()" style="font-size:0.75rem;"><i class="fas fa-check-double"></i> Marcar todos como revisados</button>
         </div>`;
-        html += renderCasesAdminTable(pendingCases, 'pending');
+        html += renderCasesAdminTable(unreviewed.slice(0, 150), 'unreviewed');
+        if (unreviewed.length > 150) {
+            html += `<p style="font-size:0.8rem; color: var(--text-muted);">Mostrando los 150 más recientes de ${unreviewed.length}.</p>`;
+        }
     }
 
-    if (approvedCases.length > 0) {
-        html += `<h4 style="margin: 20px 0 10px; color: #22c55e;"><i class="fas fa-check-circle"></i> Casos Aprobados</h4>`;
-        html += renderCasesAdminTable(approvedCases, 'approved');
+    if (hiddenCases.length > 0) {
+        html += `<h4 style="margin: 20px 0 10px; color: #f59e0b;"><i class="fas fa-eye-slash"></i> Ocultos temporalmente (en revisión)</h4>`;
+        html += renderCasesAdminTable(hiddenCases, 'pending');
     }
 
     if (rejectedCases.length > 0) {
-        html += `<h4 style="margin: 20px 0 10px; color: #ef4444;"><i class="fas fa-times-circle"></i> Casos Rechazados</h4>`;
+        html += `<h4 style="margin: 20px 0 10px; color: #ef4444;"><i class="fas fa-times-circle"></i> Desactivados</h4>`;
         html += renderCasesAdminTable(rejectedCases, 'rejected');
+    }
+
+    if (approvedCases.length > 0) {
+        html += `<h4 style="margin: 20px 0 10px; color: #22c55e;"><i class="fas fa-check-circle"></i> Revisados</h4>`;
+        html += renderCasesAdminTable(approvedCases.slice(0, 100), 'approved');
     }
 
     return html;
@@ -2631,7 +2828,8 @@ function renderCasesAdminTable(cases, currentStatus) {
     cases.forEach(caso => {
         const categoria = findCategoriaInfo(caso.categoria);
         const catName = categoria ? categoria.nombre : caso.categoria;
-        const seccionTag = caso.seccion === 'nuevo-gobierno' ? ' <small style="color: #34d399;">[Nuevo Gobierno]</small>' : '';
+        const seccionTag = caso.seccion === 'nuevo-gobierno' ? ' <small style="color: #34d399;">[Nuevo Gobierno]</small>'
+            : caso.seccion === 'terremoto' ? ` <small style="color: #fb923c;">[Terremoto · ${escapeHtml(findRegionInfo(caso.region).nombre)}]</small>` : '';
 
         html += `
                 <tr>
@@ -2644,9 +2842,10 @@ function renderCasesAdminTable(cases, currentStatus) {
                     <td><small>${caso.fecha}</small></td>
                     <td>
                         <div class="admin-article-actions">
-                            ${currentStatus !== 'approved' ? `<button class="btn-unblock" onclick="setCaseStatus(${caso.id}, 'approved')"><i class="fas fa-check"></i> Aprobar</button>` : ''}
-                            ${currentStatus !== 'rejected' ? `<button class="btn-block" onclick="setCaseStatus(${caso.id}, 'rejected')"><i class="fas fa-times"></i> Rechazar</button>` : ''}
-                            ${currentStatus !== 'pending' ? `<button class="btn-block" style="background:rgba(245,158,11,0.2);color:#fbbf24;" onclick="setCaseStatus(${caso.id}, 'pending')"><i class="fas fa-clock"></i> Pendiente</button>` : ''}
+                            ${currentStatus !== 'rejected' ? `<button class="btn-block" onclick="setCaseStatus(${caso.id}, 'rejected')"><i class="fas fa-eye-slash"></i> Desactivar</button>` : ''}
+                            ${currentStatus === 'rejected' || currentStatus === 'pending' ? `<button class="btn-unblock" onclick="setCaseStatus(${caso.id}, 'approved')"><i class="fas fa-eye"></i> Publicar</button>` : ''}
+                            ${currentStatus === 'unreviewed' ? `<button class="btn-unblock" onclick="setCaseStatus(${caso.id}, 'approved')"><i class="fas fa-check"></i> Revisado</button>` : ''}
+                            ${currentStatus === 'unreviewed' || currentStatus === 'approved' ? `<button class="btn-block" style="background:rgba(245,158,11,0.2);color:#fbbf24;" onclick="setCaseStatus(${caso.id}, 'pending')"><i class="fas fa-clock"></i> Ocultar</button>` : ''}
                         </div>
                     </td>
                 </tr>`;
@@ -2663,18 +2862,10 @@ function renderCasesAdminTable(cases, currentStatus) {
 async function approveAllPendingCases() {
     if (typeof isAdmin === 'undefined' || !isAdmin || typeof db === 'undefined') return;
     const autoGeneratedCases = data.casos.filter(c => c.auto_generated);
-    const pendingCases = autoGeneratedCases.filter(c => {
-        const status = caseApprovals[c.id];
-        if (status === 'pending') return true;
-        if (!status) {
-            const caseDate = c.added_date || c.fecha;
-            return caseDate && caseDate >= '2026-02-05';
-        }
-        return false;
-    });
+    const pendingCases = autoGeneratedCases.filter(c => !caseApprovals[c.id]);
 
     if (pendingCases.length === 0) return;
-    if (!confirm(`¿Aprobar los ${pendingCases.length} casos pendientes?`)) return;
+    if (!confirm(`¿Marcar los ${pendingCases.length} casos como revisados? (ya están publicados; solo salen de la lista)`)) return;
 
     const docRef = db.collection('settings').doc('caseApproval');
     const doc = await docRef.get();
@@ -2692,5 +2883,5 @@ async function approveAllPendingCases() {
     const content = document.getElementById('admin-content');
     if (content) content.innerHTML = renderPendingCasesTable();
     filterAndRenderCasos();
-    alert('¡Todos los casos pendientes han sido aprobados!');
+    alert('Todos los casos quedaron marcados como revisados');
 }
