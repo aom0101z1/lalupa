@@ -221,6 +221,127 @@
   ],
   "casos": [
     {
+      "id": 1063,
+      "titulo": "Fuerza Pública identifica mapa actualizado de disidencias de las Farc con 10.574 integrantes y 14 cabecillas",
+      "categoria": "seguridad",
+      "fecha": "2026-09-18",
+      "descripcion": "Un conteo conocido por El Tiempo identifica a 10.574 integrantes de las disidencias de las Farc y a 14 cabecillas de bloques y comandos regionales bajo los cuatro principales jefes, actualmente bajo seguimiento de la Fuerza Pública como parte de la estrategia de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-nuevo-mapa-de-las-disidencias-de-las-farc-10-574-integrantes-y-14-cabecillas-bajo-la-lupa-de-la-fuerza-publica-3587045",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 15:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1062,
+      "titulo": "Abogada clave en chats entre Olmedo López y magistrado de la Corte Constitucional sale del país",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-18",
+      "descripcion": "Irma Solangel Torres, abogada mencionada en chats sobre una presunta entrega de dinero al magistrado de la Corte Constitucional Vladimir Fernández en el marco del caso UNGRD, salió del país hacia España, donde el gobierno Petro nombró como cónsul a su esposo. Torres mantiene desde hace años una estrecha relación con el magistrado, según La Silla Vacía.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/solangel-torres-abogada-clave-en-supuesta-entrega-de-plata-de-olmedo-a-magistrado-fernandez/",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Irma Solangel Torres",
+        "Olmedo López",
+        "Vladimir Fernández"
+      ],
+      "entidad": "Corte Constitucional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 15:50"
+    },
+    {
+      "id": 1061,
+      "titulo": "Gobierno cambia reglas de subsidios, vivienda y arriendos para acelerar reconstrucción tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-09-18",
+      "descripcion": "El Gobierno Nacional modificó las reglas de acceso a subsidios de vivienda y arriendo para los damnificados del terremoto del 10 de agosto, con el objetivo de acelerar los procesos de reconstrucción en las zonas afectadas por el sismo, según reportó El Espectador.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd2xTNjIwNkxRa1JoaUdnUHZWVERRUUFOc29CRGtScTYyM0xwR0RYNy1IUl9rLTBRY1lUWUtVV3F1S2psUmhRMlFHWnZBdVhhWmhoODI4U0R3RG1IQTRZU2xGTWVZeFhGYURHMENmcFRPVUVxTmJnaFhabW5LZ0t5d1VXY181ekJNazlaN3pwZXZaSnZmN3BQQWRfb1JnazNveS1DZ3dMRmZ1ODFvbHlyckU2MFNUZUdzYzZqSS1hdFVJTVlRdmVNaHN6MmtxVWg4R2VqeDkyVzlkQdIB2gFBVV95cUxPd2xTNjIwNkxRa1JoaUdnUHZWVERRUUFOc29CRGtScTYyM0xwR0RYNy1IUl9rLTBRY1lUWUtVV3F1S2psUmhRMlFHWnZBdVhhWmhoODI4U0R3RG1IQTRZU2xGTWVZeFhGYURHMENmcFRPVUVxTmJnaFhabW5LZ0t5d1VXY181ekJNazlaN3pwZXZaSnZmN3BQQWRfb1JnazNveS1DZ3dMRmZ1ODFvbHlyckU2MFNUZUdzYzZqSS1hdFVJTVlRdmVNaHN6MmtxVWg4R2VqeDkyVzlkQQ?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 15:50",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1060,
+      "titulo": "Cancillería declara urgencia manifiesta para garantizar expedición de pasaportes",
+      "categoria": "transparencia",
+      "fecha": "2026-09-18",
+      "descripcion": "El gobierno de De la Espriella declaró urgencia manifiesta para garantizar la expedición de pasaportes en Colombia, luego de que el Tribunal Administrativo de Cundinamarca mantuviera la suspensión del convenio para el nuevo modelo de pasaportes heredado del gobierno anterior, buscando así resolver la crisis en la expedición del documento.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVpVSFoxQU9hVW5MM3BHSldUOFA4T1lHRU16UDJVeHJaZ0JlZW5HbVZRRjZrRnB3U1JCcXpBMmE0WDl2cDJPS1ZGb1JDUXJpMzFnYmRKSTk2ZmtZR0QzdHZ6ZU1XZ2dhZWE5MlZ3NFdNNXZEai1Ba05pQnlXSFl3RGdQcDhWdjVuR1E2YXhuTE5RTWQybXpScGJIWjJwbkM2S1ZsbEFDcjlRWjA3WXFwWDAwVERwZUN5RFhHNE93WUQyWGxrNjk00gHbAUFVX3lxTE5SbmRPSmF0SjIwWm0xRjlxWmE5aDdjQVNTQUV4VGlGdjQyY3BQQWN0NEVjZ1d3YWp2X256Vm8zSS1UcWJsajFNTUtfeXJTQzdJZEFhbEhxOVJ4eEFieVE1aFhid1FQeTZyZ1czNmd3WWJ2a18yV3RaeFdFRmU3d002Ml9OS0tPcE1DeThpZmowZTI1emxiSXRoOHkwS3NSeXYzMWYxaGtMOWtVSW9wUngxb2xhbkRPYTVOdXVXWUhGc04taGtQWnNJN2JENGxsbkhMeDBGM0l5Sk05Zw?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 15:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1059,
+      "titulo": "Gobierno expide 15 decretos para atender emergencia del terremoto del 10 de agosto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-09-18",
+      "descripcion": "El presidente Abelardo de la Espriella expidió 15 decretos para atender la emergencia causada por el terremoto del 10 de agosto de 2026, que incluyen medidas en salud, transporte, vivienda, impuestos y empleo para las zonas afectadas por el sismo de magnitud 7,4.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQdi1QUDhoOXM5U1V1aUsydnVuU2EwcVRJc0NUNjdSUENzczF0UlhxNEg0bE45NVlJY0JScEdfeUZKNHgta2JEVXlOMzhhVG1jZUF3UFZ3TjlYODV6SkVUa2RuR2lzSy02SVlPMTB1NURDVVFLazdyNk1zX2Q4bTI1WmlVYmJGdzdmRXZKeFNiVXFUWmNpOG1acUNxSjhGOVN2Y3JjdloyaW8xQVczMHcxcTI4cWI0ZWtIYl91QkJDN01BaktsS1Jtb2EtRjdLbTdQZEJobVV2QXIzQWxjcGRUdE5nZ2NIQTVnUWVxd1dkQTZaNF9jOEZxbS02YjJMOHU2aUpFSTFwNkNQenpxZHVtYjl0NVNzeVp6eHdBM0ZkY0FSbW4tUUFCUHlnZGJhVERabE44TWJkMFJ1RDhMQ21NOHljNXFIUzhGcTBxWXBLdzNkZ9IB7AJBVV95cUxNcFdUbUFJaFotMTktNXliTm5OTTEtX2ZRaWkzcU5YOGN3UFMzWVVBZ1B4MXdXcVI0RVVHWHFoS1cyR2dJV3Jjd0hSdG5lMXEwMHlGa1NpSGFON3UwRTh5Q0FnekZpcy1EZjgta2tyUklTejVIVHE4d3daaS0tZXlTRkFkX19kbF9Yam1EWTNrb1g3YktPUkVRQmpKSW4wOTFEaEJ0X2ZQb0YwdnFtUjQyWUhCUWlLTXFCOHo3VlJwMXNIQS1yeVBBRXE5VFdLWGo1aDBfM1RReEdJeWhUMU1zRUNqUXVMNDR6UVBsN2oyWjhIMlFsTl9BR3c1TGtxYU9oclV5cTM1T04wR21PeU02ckNmVUZFNEhBZDdtalZfRE9aenBsSzJiaXRsNWZLU3JfcGx3VUFRbG5kQWZudXFtaGZnUkk0V1pNYml3UE5vOWw5dlRpR3ZuM2NONGp4Z0VxUG1KeWg0NWMyX2NS?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 15:50",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1058,
       "titulo": "Anuncian variante vial de Riohacha financiada con regalías",
       "categoria": "obras",
@@ -24401,7 +24522,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-18",
-    "total_casos": 969,
+    "total_casos": 974,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
