@@ -221,6 +221,270 @@
   ],
   "casos": [
     {
+      "id": 1074,
+      "titulo": "Trump mantiene la descertificación antidrogas contra Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-09-16",
+      "descripcion": "El presidente de Estados Unidos, Donald Trump, mantuvo la descertificación antidrogas contra Colombia, calificado como su 'principal socio' suramericano en la lucha antinarcóticos, aunque señaló que podría cambiar de decisión si se cumplen ciertos requisitos exigidos a su gobierno.",
+      "evidencia": "Reportado por RT",
+      "fuentes": [
+        {
+          "nombre": "RT",
+          "url": "https://actualidad.rt.com/actualidad/627963-trump-mantener-descertificacion-colombia-requisitos",
+          "fecha": "2026-09-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Donald Trump"
+      ],
+      "entidad": "Gobierno de Estados Unidos / Presidencia de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1073,
+      "titulo": "MinAmbiente destina madera decomisada a zonas afectadas por el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-09-18",
+      "descripcion": "El ministro de Ambiente, Fabio Arjona, anunció que los productos forestales decomisados por la entidad serán utilizados para la recuperación de los territorios afectados por el terremoto del 10 de agosto, como parte de las medidas de reconstrucción del Gobierno Nacional.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/minambiente-madera-decomisada-ira-para-zonas-afectadas-por-terremoto/",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Fabio Arjona"
+      ],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1072,
+      "titulo": "De la Espriella designa a presidente de Nubank como asesor ad honorem en IA",
+      "categoria": "gabinete",
+      "fecha": "2026-09-18",
+      "descripcion": "El presidente Abelardo de la Espriella nombró a David Vélez, presidente de Nubank y donante para la emergencia del terremoto, como asesor 'ad honorem' en inteligencia artificial. El anuncio se hizo en una reunión a la que asistió el jefe de gabinete Joaquín Gutiérrez.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-a-presidente-de-nubank-como-asesor-ad-honorem-en-ia/",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "David Vélez",
+        "Abelardo de la Espriella",
+        "Joaquín Gutiérrez"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1071,
+      "titulo": "Fracasa conciliación entre Eva Ferrer y Verónica Alcocer por pago de asesorías",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-09-18",
+      "descripcion": "Eva Ferrer y Verónica Alcocer, esposa del expresidente Gustavo Petro, no lograron llegar a un acuerdo en la audiencia de conciliación relacionada con el pago de asesorías prestadas, dejando abierta la disputa legal sobre los honorarios reclamados.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDVuS21paUhLNkgtdXVZMnJPb0RtT3E0eGl4dzZKMTFBdjBWOGprTGdzUndKYXYzR2pidXE2LWNLM1dKSlFOWkRROHM0TWtzX3J2Vm95b2hDQW41T1JGUW5VTlp2cDQ4ODl6THNHNFVXWjV3T2ZZb2pSSEkyX2xVUC1UWFhFZEQzQmEtQmdLdGdNT0dDYTI0S1o1MDFfdXFFd1dZQk92UDk1cGhCLW10UtIBsAFBVV95cUxOSENqZDgySHlZcy01WHVjMTJBdDd6VHRUWFdJZmxhNUxKdzFPd19ZS1JRZjdiRGlaOFY0ZVVTMkxONDNYMTNtVkdDTC1lQnJSekxIVzZQNEN1ZWIwNGJjOHphY21jVDhIVTREZmtFd0l6NjhTM1BRRE5fV2c4dkFiZ1c3Rktfc20tNU5WbmZ5OWVHdTBjcUVtV3FaTzg2QmIxWTBMUTl1WVQ2VlZRQkNYaA?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Verónica Alcocer / Eva Ferrer",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26"
+    },
+    {
+      "id": 1070,
+      "titulo": "Piden renuncia protocolaria a funcionarios recién nombrados en la DNI",
+      "categoria": "gabinete",
+      "fecha": "2026-09-18",
+      "descripcion": "El gobierno de Abelardo De la Espriella adelanta una reorganización en la Dirección Nacional de Inteligencia (DNI), donde habría solicitado la renuncia protocolaria a varios funcionarios recién nombrados, entre ellos el director general, general (r) Jorge Andrés Zuluaga López, señalado como cerebro de la Operación Jaque.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/piden-renuncia-protocolaria-funcionarios-recien-nombrados-dni-por-que-LD41245068",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Andrés Zuluaga López"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1069,
+      "titulo": "Alcalde de Cali lidera acciones de reconstrucción en el barrio Chiminangos",
+      "categoria": "gestion-local",
+      "fecha": "2026-09-18",
+      "descripcion": "El alcalde de Cali, Alejandro Eder, lideró acciones de reconstrucción y apoyo a las familias afectadas por el sismo en el sector de Chiminangos, como parte de la gestión local para atender a los damnificados del terremoto.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMUZVcmc5ZHdfVmEwcVF1WWxTOGgwMmp1ektyeXlyenF0UDNnUnZ3OGVaellXeGxmdlhYeDZIWG40T1puMy10NUxXUHlUdmgzU1U1RmZMTUZfMnFDMF9NdVpMLVNjWHZHb045Ni1ZQ1otS3oxbGRmV0g1TmpQcmZYVTZHNHhKbDJoeU5qckFCZmdiYlRpN0h5RUMxYXgzMnVsVFVQcThMS0J6bEtzWk8wTGczNVZXYlhXMERZVHhjbEVBWndEcW41WmpKUDF3QjFU?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Eder"
+      ],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 1068,
+      "titulo": "Gobierno aprueba beneficio de vivienda sin cuota inicial ni hipoteca bancaria",
+      "categoria": "economia",
+      "fecha": "2026-09-18",
+      "descripcion": "El Gobierno de Abelardo de la Espriella aprobó un nuevo beneficio de vivienda que elimina la exigencia de cuota inicial y de hipoteca bancaria para acceder a vivienda propia en Colombia, como parte de su política de vivienda.",
+      "evidencia": "Reportado por redmas.com.co",
+      "fuentes": [
+        {
+          "nombre": "redmas.com.co",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOTF0TWZXQkVHSFZ2Ulc3aVJxNk5UZ3pWOWpVYU1yWEdXbDYyRmFtYUZDR1hfUkVuc0JaZHV3eTEyRVVsQjRvVFVaTGRVQ21MVVItZ01Qb0lDRWthUG9Td0hGd2ozcGt3aUxNMjJFN256RTk5OGU4QzMtUkpoMUxkU2VOOFVTV3RVaXR0YzQwQUZlOU9JNmxHdDZiTkNnb29GZTVfenVWek52OTdpZUZYNFptTzVRSDVSTzYyUlRIZjBTUXFmRTB0STVBUHJDN1pNdUU2YnhNVTJKejBkbUJXVk9sZkltMTRGcGZQbDB3WDBhSW9SbUpaYndGR3IzdEN3UEozN0pyczVXcGs?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1067,
+      "titulo": "Gobierno crea subsidio de $700.362 por trabajador para empresas afectadas por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-18",
+      "descripcion": "El Gobierno de Abelardo de la Espriella creó un subsidio de $700.362 por trabajador dirigido a empresas afectadas por el terremoto del 10 de agosto, como medida de apoyo económico a la reactivación laboral en las zonas golpeadas por el sismo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOG5EbV9SZ012UWxkeXUyNVVFUG5sWDR1bXF3TzNuRFlWdjVGSlViRVdmM0U0MzNYa0cteGtLLUFSVW96a1hJRWlLTV9EajZmay1fQ1ZVVmIwQUkwWGJwLUwwQzk2Vjd3UnNPUXVyandQUGEyQk05dnVnWXFudFdESUg0ZTFSY0lET0NLamZqMzFBUDRiSWRXaHI5OXRCYll5Nl9UZk52R0hpc3cxNjBzSdIBtgFBVV95cUxQZDVHSXVCRk5yZXhrTDZnODdwQmx0T3JLcnR3RlJpY1drYmFSQ3dKN3dHZGNfYmpackZTTjNmdml5WmcybmZMbDNfUnlnYWV0ZnVFNThhRXg0ZGp5TXFUM2NtbzN5LW5KN05pS2pOV2FweUF3eXpOMGdqLVgxRFppQ3JuNW9KOU1HbVNZb2dBUTZ3dEFuZ2xjczZpSjlySExzdG11SlpNT0tLZk5ISnFRQ0dtMC03Zw?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1066,
+      "titulo": "Aplazan audiencia de acusación contra Nicolás Petro por corrupción en contratos con la Gobernación del Atlántico",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-18",
+      "descripcion": "Ante el Juzgado 16 Penal del Circuito de Barranquilla se instaló la audiencia de formulación de acusación contra Nicolás Petro, imputado por cinco delitos relacionados con la Fundación Conciencia Social, presuntamente usada como fachada para contratos irregulares con la Gobernación del Atlántico. La diligencia fue aplazada tras tres años del proceso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fiscalia-llama-a-juicio-a-nicolas-petro-por-corrupcion-en-atlantico-HC41255020",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación / Juzgado 16 Penal del Circuito de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26"
+    },
+    {
+      "id": 1065,
+      "titulo": "Gobierno Nacional administra subsidio de arrendamiento para damnificados en Pereira",
+      "categoria": "dineros",
+      "fecha": "2026-09-17",
+      "descripcion": "Se precisó que el subsidio de arrendamiento destinado a los damnificados del terremoto en Pereira está a cargo y bajo administración del Gobierno Nacional, no de la Alcaldía local, aclarando la responsabilidad sobre el manejo de estos recursos.",
+      "evidencia": "Reportado por Risaraldahoy.com",
+      "fuentes": [
+        {
+          "nombre": "Risaraldahoy.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUtVWndJNWo4NGZlTlFLYUtfdDJ2TEpwRWQ5U203Tmo4VzQxcmpjTXhuY1BoYmo2QTRSWkVCY2ZfbUZPY1gyZ3FibURZMVh2dzhqaUZxM09uZ3dtWlZud0ZRYVl6OGI2SExkTTBEVTZ5ck5Ydmtzb0Z3YzZhbUNEOHRIZjJyRjRRc2kweTRJYzVpYW5SNjEzQ0FXa1dHRERocHRpU3pSazRhakR0dzRURlFEbHhxbmJSM1BFSVdabUNuZXNrWGxmZA?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Alcaldía de Pereira",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 1064,
+      "titulo": "Contraloría revela irregularidades en contratación en la recta final del Gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-09-18",
+      "descripcion": "La Contraloría General de la República identificó hallazgos de irregularidades en procesos de contratación realizados en los últimos meses del Gobierno de Gustavo Petro, en el marco de las revisiones de cierre de administración.",
+      "evidencia": "Reportado por ecospoliticos.com",
+      "fuentes": [
+        {
+          "nombre": "ecospoliticos.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnlqRkU3N2NCN2RGcmkwSlhlRlRZUXVFNnZEMG81Tk52bnM0WlFPclJ3Rm5lS1JQNmNGeHZhNjViZUw3YmVJbzBqQ1VUaVNPcW93NC1ldUg0eVRWUUhxTE9MNVdmYU15a3hlTmFWNlEtbGZjTGx5QTI2dzFDQ09jTlJfc1ZBa2NJVEp2YUoyYl9ua3REQkdOQXpXT2hVUGcwbGJJSHRfenJ0TkhFaDhuaXY1b05RTjRBU3c2anpNUlJWNDVOQXVuVDdTMnRkNXZ2VjhlQnJWbVc2c09IREZGNlpudG9xbnpGaURxdUdGUDI?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 20:26"
+    },
+    {
       "id": 1063,
       "titulo": "Fuerza Pública identifica mapa actualizado de disidencias de las Farc con 10.574 integrantes y 14 cabecillas",
       "categoria": "seguridad",
@@ -24522,7 +24786,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-18",
-    "total_casos": 974,
+    "total_casos": 985,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
