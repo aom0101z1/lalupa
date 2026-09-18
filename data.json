@@ -221,6 +221,102 @@
   ],
   "casos": [
     {
+      "id": 1058,
+      "titulo": "Anuncian variante vial de Riohacha financiada con regalías",
+      "categoria": "obras",
+      "fecha": "2026-09-18",
+      "descripcion": "Se anuncia la construcción de una nueva variante vial en Riohacha, La Guajira, financiada con recursos de regalías, con el objetivo de optimizar la logística y los tiempos de desplazamiento regionales, como parte de la agenda de infraestructura territorial del gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/18/esta-es-la-moderna-variante-vial-de-riohacha-que-sera-construida-con-recursos-de-regalias/",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de La Guajira / Agencia Nacional de Regalías",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-18 10:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1057,
+      "titulo": "Wadith Manzur es trasladado a la cárcel La Picota tras captura por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-17",
+      "descripcion": "El excongresista Wadith Manzur, capturado en marzo de 2026 dentro del proceso judicial relacionado con el escandalo de la UNGRD, fue trasladado desde la Escuela de Carabineros en Bogota hacia la carcel La Picota, segun registro del Inpec que documento su primera fotografia en el nuevo centro de reclusion.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/primera-foto-de-wadith-manzur-en-la-carcel-la-picota-el-registro-del-inpec-tras-su-traslado-desde-la-escuela-de-carabineros-en-bogota-3587006",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Inpec / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 10:37"
+    },
+    {
+      "id": 1056,
+      "titulo": "Amigo del presidente De la Espriella nominado a la presidencia de Ecopetrol ya tuvo reunión previa en la empresa",
+      "categoria": "gabinete",
+      "fecha": "2026-09-17",
+      "descripcion": "Joaquín Gutiérrez, amigo cercano del presidente Abelardo de la Espriella y con su respaldo para dirigir Ecopetrol, sostuvo una reunión en la petrolera antes de que se formalizara el proceso de seleccion para la presidencia de la compañia, lo que genera cuestionamientos sobre la transparencia del proceso.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/amigo-de-abelardo-nominado-para-ecopetrol-ya-tuvo-reunion-en-la-empresa/",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Joaquín Gutiérrez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ecopetrol / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 10:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1055,
+      "titulo": "Enjambres sísmicos mantienen en alerta y temor a comunidades del Chocó",
+      "categoria": "damnificados",
+      "fecha": "2026-09-17",
+      "descripcion": "Un mes despues del terremoto del 10 de agosto, habitantes de municipios como Istmina (Choco) reportan enjambres sismicos recurrentes que mantienen a las familias en estado de alerta y miedo constante, a diferencia de otras zonas afectadas como Antioquia donde los sismos no se repiten con la misma frecuencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/como-viven-sismos-choco-enjambres-sismicos-istmina-terremoto-miedo-IN41190686",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Erick David Guevara Ortiz"
+      ],
+      "entidad": "Comunidades de Choco",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 10:37",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "neutro"
+    },
+    {
       "id": 1054,
       "titulo": "Senador Bernie Moreno se reúne con embajadora Araújo tras descertificación de Colombia",
       "categoria": "internacional",
@@ -24305,7 +24401,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-18",
-    "total_casos": 965,
+    "total_casos": 969,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
