@@ -221,6 +221,149 @@
   ],
   "casos": [
     {
+      "id": 1054,
+      "titulo": "Senador Bernie Moreno se reúne con embajadora Araújo tras descertificación de Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-09-18",
+      "descripcion": "La embajadora de Colombia en Washington, María Consuelo Araújo, se reunió con el senador republicano Bernie Moreno, cercano al presidente Trump, en la residencia de la Embajada de Colombia en EE.UU. Ambos enviaron un mensaje conjunto señalando que la relación bilateral 'va a estar mejor que nunca', en medio del nuevo tono diplomático tras la descertificación antidrogas de Colombia por parte de Washington.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/bernie-moreno-maria-consuelo-araujo-relacion-colombia-estados-unidos-KF41229355",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Bernie Moreno",
+        "María Consuelo Araújo"
+      ],
+      "entidad": "Embajada de Colombia en Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 03:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1053,
+      "titulo": "De la Espriella respalda traslado de $100.000 millones del presupuesto de la JEP a la Rama Judicial",
+      "categoria": "economia",
+      "fecha": "2026-09-17",
+      "descripcion": "El senador Enrique Gómez propuso trasladar $100.000 millones del presupuesto asignado a la JEP hacia la Rama Judicial. El presidente Abelardo de la Espriella respondió públicamente en su cuenta de X con un mensaje de respaldo ('cúmplase'), respaldando la iniciativa que reduciría fondos a la justicia transicional en favor de la justicia ordinaria.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/senador-enrique-gomez-propone-trasladar-100-000-millones-de-presupuesto-de-la-jep-a-la-rama-judicial-presidente-de-la-espriella-dice-cumplase-3586952",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Enrique Gómez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Congreso de la República / JEP",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 03:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1052,
+      "titulo": "Exministro Luis Carlos Reyes denuncia amenazas tras revelar presiones por puestos en la Dian durante gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-17",
+      "descripcion": "El exdirector de la Dian y exministro de Comercio, Luis Carlos Reyes, conocido como 'Mr. Taxes', denunció que un láser fue dirigido hacia él y sus hijos en su propia casa. La amenaza se produce más de un año después de que declarara ante la Corte Suprema de Justicia, donde ratificó haber recibido presiones para otorgar puestos dentro de la Dian durante su gestión en el gobierno Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/luis-carlos-reyes-amenaza-laser-familia-dian-GG41218187",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Reyes"
+      ],
+      "entidad": "Dian / Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 03:09"
+    },
+    {
+      "id": 1051,
+      "titulo": "Captura de alias 'Niche', cabecilla del ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-09-16",
+      "descripcion": "Las autoridades capturaron a alias 'Niche', señalado como cabecilla dentro de la estructura del ELN, en el marco de los operativos de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por Colombia.com",
+      "fuentes": [
+        {
+          "nombre": "Colombia.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3M2NU01bHlTWUtqQ3NPc1JxRUp2Vnd3SGpnOWtYelRVZjVUdWhHdjAwcGQxSklpTDFOalBUMFZESFpmS2R0SlN3cjdFM093YmlHY2JOTTJEem5nckZaVzNiZFEzOTJrYWIwUkJxMGI1V3dlUDhlb0NCTXZ6OUhwSW1pVkdYSHZfWHdmcEdtSHN1NkFGNzRvUVB2clhaeGxuSXNQMlR3aWRqdFRJcU1ITQ?oc=5",
+          "fecha": "2026-09-16"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'Niche'"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-18 03:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1050,
+      "titulo": "Gobierno anuncia fecha para presentar proyecto de ley que modifica impuestos",
+      "categoria": "economia",
+      "fecha": "2026-09-17",
+      "descripcion": "El gobierno de De la Espriella confirmó la fecha en que presentará ante el Congreso un proyecto de ley que modifica importantes tributos, como parte de su agenda económica.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMXZKRVhGTkxzaEdBNThhcDNKUklYWDhnQ2o3R2pqcENfajFUSkdwbS0wMkhuZFZORWpmdXdiVDFrTzdRR3I3bnUzbUxiWGRYZC1IRVNvTVpFdW80Y3NJZW1HRGlXMlRjX0ptdFJTRGtETlRTUl9CSzBjSDROQmxKdU4zQmJQck1faDdpRHpBQ0J6cEIyTFpjQXF0aGtxWUZ0SGJ5TzFyUXBrcmlpdm42d0VlRzRERGNleWZ0U3J3VXdoY2NwQ3Y5cHk0UHpWcF810gHWAUFVX3lxTE1DT0FOYWpucGM3WmNmZ2Y2UHU1ZS1rQU5rclhHeEhiR21qUWZGYXRqdVZEN1dhbU5DVWdpbFNQM2FLS0FkUjNiM2JEendsdkFMdnJUMEdrd0gyX3pBRnpGclZmWk0xSEZ4STJEdEU4Wl9BSkFUWm1OWlEySE1qYVNlcHlqb3hoQnAxT2RnMXBwTTVlNGdyMHVST2oxV2ViNHRGMU8xYVdLdWxHdDhOTG81V2ZvRG1kMFNOSHRyZFNXME9wNTgxOVZIWTd5YWZBUUVrNmdlWVE?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 03:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1049,
+      "titulo": "Gobierno expide medidas para garantizar clases de estudiantes afectados por el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-09-17",
+      "descripcion": "El gobierno de Abelardo de la Espriella expidió medidas para garantizar la continuidad de las clases de miles de estudiantes afectados por el terremoto del 10 de agosto, que impactó la infraestructura educativa en varios departamentos.",
+      "evidencia": "Reportado por infobae.com",
+      "fuentes": [
+        {
+          "nombre": "infobae.com",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxObDgxTlZnSnBlaWJJa2tHV21qSkJ5ZGtNcVBWNXB0VVlHWjdJSG1McGpCUG45WWNLZnFacjRHZU1KXzlRemstVmpUWWJ3SDZvM1FyNEx4akpURUh6MThiaHRRX3RYVXlnR1BtWGRpbDZ4bHhwSTYydHllSWR1MlBtNV9nTHpONmlsa0hxNWhxOFJrVURCZUgtaEdBRXE4clJqNTlKVjc1RnJhbEhJU1llUnpZTzF5N3NiTXdWQkVrMkVPVUJKVlpOdTQ3MmNLbGxfTHlEN0dKdVc5ZkxHZnFPUUl2dV9ZWk5rWUFxNF9BSGJBa1pwbG5nYm03MjJxLXJmb0RzODBrY1NYa0V0Q0FqZUM0ak9wNHJ4SW5oatIBtwJBVV95cUxNMWc5N0JiaDJZRDlqMVVLb3JXM240U1p1blNTeDVaY1JnWV9LbmtYODY1UHcxU3hpT0JWcFpieGdWMXk1TUk5ZWh2eExCc2Q4c2plYWtESWlNUmdIcW5BaGUyaDVYaUtfclpsUEFMckZxSzd0X3VEaldsX1Y4aXF0Z19QdzJ6LVJKRGlQUU9JUVhGaFcxNlE0cjVwRXQwT1lnQjA1TlhlRGR0VVNGTmZHYXprOUZzeXphWU1FMHNJTmFLYm12RmxNX0I4QWdMa0d5MXF1YUUydjF3U0xsS1lVYkFDMDdCckJYTkY0dl8yaS1xem1SRU8ybmJzSTRCZzBCQld2TVZVTEctMHk2ODBqZ0p3dncwRnpuT0xGQ09iV2Nyc3hLTWo0bThMYjVaNFl0azNEdVhuYw?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educación / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-18 03:09",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1048,
       "titulo": "De la Espriella pide investigar al rector de la Universidad de La Guajira",
       "categoria": "transparencia",
@@ -24161,8 +24304,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-17",
-    "total_casos": 959,
+    "ultima_actualizacion": "2026-09-18",
+    "total_casos": 965,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
