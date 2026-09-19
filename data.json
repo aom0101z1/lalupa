@@ -221,6 +221,175 @@
   ],
   "casos": [
     {
+      "id": 1099,
+      "titulo": "Colombia se retira de la demanda de Sudáfrica contra Israel ante la Corte Internacional de Justicia",
+      "categoria": "internacional",
+      "fecha": "2026-09-19",
+      "descripcion": "Israel confirmó que el gobierno de Abelardo De la Espriella retiró la intervención de Colombia en la demanda promovida por Sudáfrica contra Israel ante la Corte Internacional de Justicia en La Haya, que había sido presentada en abril de 2024 durante el gobierno de Gustavo Petro, marcando un giro en la política exterior colombiana hacia Israel.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/israel-confirma-el-retiro-de-colombia-de-la-demanda-promovida-por-sudafrica-ante-la-corte-internacional-de-justicia-3587272",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1098,
+      "titulo": "GPS de camionetas ubicaría a Sandra Ortiz en edificio de Iván Name durante presuntas entregas de dinero de la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-19",
+      "descripcion": "La Policía Judicial reconstruyó trayectorias de camionetas de la exconsejera Sandra Ortiz y datos de antenas celulares para ubicarla en dos visitas, en octubre de 2023, al edificio donde reside el exsenador Iván Name, coincidiendo con presuntos pagos por 3.000 millones de pesos relacionados con el saqueo de recursos de la UNGRD.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/19/gps-de-camionetas-de-sandra-ortiz-ubicaria-a-la-exconsejera-en-el-edificio-de-ivan-name-durante-supuestas-entregas-de-dinero/",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz",
+        "Iván Name"
+      ],
+      "entidad": "Fiscalía General de la Nación / Policía Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22"
+    },
+    {
+      "id": 1097,
+      "titulo": "De la Espriella advierte a grupos criminales por aumento del abigeato en La Guajira",
+      "categoria": "seguridad",
+      "fecha": "2026-09-19",
+      "descripcion": "El presidente Abelardo de la Espriella advirtió a grupos criminales tras un aumento del abigeato (robo de ganado) en el departamento de La Guajira, anunciando medidas de seguridad para contrarrestar este delito en la región.",
+      "evidencia": "Reportado por Crónica del Quindio",
+      "fuentes": [
+        {
+          "nombre": "Crónica del Quindio",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2pENGtmNjRLaVVUWld2ZWdZU3E1VHdzdGt5ZDhoc3lOUmNVN05IMWNLR3MwSHM2Q3pFUVVFTWw0blFxeWtILTNsWnpET0NzbjJzNFgyT3ZLU2loVnNLb1lpUWY1NDl2NjhlQWNhbHI5bXdrNE40OHdsZXZmcUlnWl92V3o1UUNrS2FudXVuYU14REN2a0pSQWlQVmJRYzdUdlV3bURDQQ?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1096,
+      "titulo": "Petro atribuye déficit de Colpensiones a bancos y fondos privados",
+      "categoria": "mentiras",
+      "fecha": "2026-09-19",
+      "descripcion": "El expresidente Gustavo Petro señaló a bancos y fondos privados de pensiones como responsables del déficit en Colpensiones, afirmando que el desfase se debe a que 150.000 personas trasladaron sus ahorros desde administradoras privadas a la entidad pública para acceder a una pensión. La afirmación busca desviar responsabilidad sobre el manejo fiscal de Colpensiones durante su gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/19/petro-senala-a-bancos-y-fondos-privados-por-el-deficit-en-colpensiones-es-la-causa-del-desfase/",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22"
+    },
+    {
+      "id": 1095,
+      "titulo": "De la Espriella advierte a cabecillas armados en Bolívar: 'Se entregan o los doy de baja'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-19",
+      "descripcion": "El presidente Abelardo de la Espriella lanzó una advertencia directa a cabecillas de grupos armados que operan en el departamento de Bolívar, instándolos a entregarse o enfrentar operaciones militares que buscan neutralizarlos. La declaración se enmarca en la estrategia de seguridad del nuevo gobierno para la región Caribe, en medio del refuerzo de la Fuerza Pública tras el terremoto.",
+      "evidencia": "Reportado por Vanguardia",
+      "fuentes": [
+        {
+          "nombre": "Vanguardia",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmhjejJXM0dybzZzemItVGxjNnBJT0hDczlxcHZvSEljOTU2OFV3TTNsZ1hQb0JKRGlURkRxay1HMmt3a0JUNnR0VjBOMDJDYlBOV0kxY0d1TlhMNFU2SWstaUpYWjRMMTIwT0tNUjJiRnlWaVZNQ25rMzBjLUVEVTlhQndSOGVvZ0hxN3diTTVVbjdvUE5BNGFqbTJjeVFhOTVyZ1MxbHFxb3FrbnB4NUFwY20tekkwaFBHUHZCcDhzXzhBakZOZ2JQZEE4dHR3?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1094,
+      "titulo": "Se abren caminos jurídicos en Ecopetrol tras anuncio de auditoría forense",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-19",
+      "descripcion": "Tras el anuncio de una auditoría forense a Ecopetrol, que busca esclarecer presuntas irregularidades ocurridas durante la administración de Ricardo Roa en el gobierno Petro, se perfilan distintos caminos jurídicos y procesales para la petrolera estatal. La medida se da en el marco de la revisión de la gestión anterior de la compañía por parte de la nueva junta directiva bajo el gobierno De la Espriella.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXdOV3Q1ZFgyLWpaMDI4OTNnRVpJcHZwMDQtRVp2a3drQmVOeEdIOFhFeGc3bHg2WGZ6ejNBczhzTmk3ZFFLNUxBMVhNQVFRdElWSU00YnpwZHVFVUtvaGxtel9Tc2V6WXZZZjU2RFFhUldaSnhMQ3dqWnQ3YjFVQms3NVZLMU5feGFGdTVrZWppcEpiWVFOV1hPUmlLWHpXWU1xR2kybVJ0eFJ5Mmp2SXpsdWwxQnlQbDU4MTh1ZzJib2hsdG5MWmJuYWItZUVqaW05MUM3bmlPQzVpSGxnYU45Z1UtZzRKN3Z5RTFHSdIB9AFBVV95cUxPcnpjUGNpOUd1VlhvamZiajVkZkVOZjVXQ0FrS2pWbHBBbktVbWVmeHhYbHJ3N19zMEFxR2JvV01yVEJsc2JVZm5PckRkQ3hUbkxTNFJJYzM5aFplYklOcy1DcnFvMEF3MU1BU1JjMFV0REtYVWl1OEpIUE1Ia3NHcnJzVEtScURlSGZDTUZBY0JETTZSTlhVbFNSNEs3SFc0YzNXQkltRWtFcW5WZmM1Skl4cUFpazNjMHRiRlUxZWlqY0ZzU2dpTVFLczlISDhydERWWmhlNnU0X01VZnY1RUhZWmtMOVpYZEF3cV9mdDZlZ2RM?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22"
+    },
+    {
+      "id": 1093,
+      "titulo": "Chats de Eva Ferrer revelan nuevos señalamientos de corrupción contra Agmeth Escaf y Mario Fernández Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-19",
+      "descripcion": "Se conocieron chats en los que Eva Ferrer, exasesora cercana a Verónica Alcocer que obtuvo contratos con el Estado gracias a esa cercanía, alertó al entonces presidente Gustavo Petro sobre presuntos actos de corrupción de Agmeth Escaf y Mario Fernández Alcocer, calificándolos de 'corruptos por todos lados'. Ferrer rompió su relación con Alcocer tras un desacuerdo posterior. Las conversaciones amplían el mapa de señalamientos sobre el círculo cercano a la expareja presidencial y contratos estatales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/revelan-chats-eva-ferrer-petro-senalamientos-escaf-mario-fernandez-veronica-alcocer-AA41277205",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer",
+        "Gustavo Petro",
+        "Agmeth Escaf",
+        "Mario Fernández Alcocer"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 15:22"
+    },
+    {
       "id": 1092,
       "titulo": "Gobierno investiga posible infiltración de grupos armados en universidades",
       "categoria": "seguridad",
@@ -25209,7 +25378,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-19",
-    "total_casos": 1003,
+    "total_casos": 1010,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
