@@ -221,6 +221,245 @@
   ],
   "casos": [
     {
+      "id": 1084,
+      "titulo": "Testimonios señalan a la senadora Sandra Ramírez, exguerrillera y beneficiaria de Paz Total, de reclutamiento y abuso de niñas en las Farc",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-18",
+      "descripcion": "Testimonios revelan que Sandra Ramírez, hoy senadora del partido Comunes tras los acuerdos de paz, habría obligado a niñas reclutadas, como Deisy Guanaro (reclutada a los 11 años), a ser entregadas a combatientes para ser abusadas sexualmente. El relato surge en el marco de procesos judiciales que investigan crímenes de la excúpula de las Farc, cuestionando el pasado de figuras que hoy ocupan curules gracias al proceso de paz.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/testimonios-contra-sandra-ramirez-farc-BD41241451",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ramírez",
+        "Deisy Guanaro"
+      ],
+      "entidad": "Congreso de la República / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07"
+    },
+    {
+      "id": 1083,
+      "titulo": "Seguimiento a ayudas y proceso de recuperación tras el terremoto en Risaralda",
+      "categoria": "damnificados",
+      "fecha": "2026-09-17",
+      "descripcion": "Un informe de seguimiento revisa el estado de las ayudas entregadas y el proceso de recuperación en el departamento de Risaralda tras el terremoto del 10 de agosto de 2026, evaluando el avance de la atención a los damnificados en la región.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmZ2SHhIR1VMeG1iWndCRGZIRmxDNVoycllibjZwQnJmbnlfajRVYjAxbF8zY3pqRUZTamZFQnlDQmprRVYydUJpSDE0RWtCUW5hNlpndmx6Z3dTZ2N1VU8xSmUwZ0VuZ2hWMUlfV2hFaXRKSW5NMXFod04xODlZOUNlaGdlQWpPMnBMN19EQmxEZHRDaDlucUtn?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 1082,
+      "titulo": "De la Espriella refuerza seguridad y descentralización en Bolívar tras terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-09-18",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el refuerzo de la seguridad y medidas de descentralización administrativa en el departamento de Bolívar, como parte de la respuesta gubernamental tras el terremoto del 10 de agosto que afectó a 15 departamentos del país.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTBVa3NjTmQ4TEN2ek1PYzE5YWFMVHAxZ3ppNE91OEsyVFAwTTg5VEdtZlFoeVJkTzEzb1dsd3pPM2RLRUtRcFpVQlZDS0UwNjZwWDVVR09EZzU2Ry16WEpKSElTeHc4MUhSX0ptajhZS29KbWdnMzZROTB1eUstS3M2ZkJwWWE4OVFkREU3VU1fN2lEY0pWZGJzdlNEaFUzUmk4WklQOEZoRk1Zbm5MZTBUSWtJcDVqUHFBdktMMXVPbE9WaDFCeA?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 1081,
+      "titulo": "Transparencia por Colombia advierte riesgos de opacidad en contratación de reconstrucción",
+      "categoria": "control",
+      "fecha": "2026-09-18",
+      "descripcion": "La organización Transparencia por Colombia advirtió sobre riesgos de opacidad en los procesos de contratación destinados a la reconstrucción tras el terremoto del 10 de agosto, en momentos en que el Gobierno ha habilitado mecanismos de contratación directa y decretos de emergencia para acelerar la respuesta.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWkNrTWtndGxuM19JRjdHZFFiQkFkU2M4ODhGc1M1bXJNVUluWko5ai0zYW4tRUs5VlRhbDJLNG13bjU0WUVTWUZOdTJBd3RPSDdZbjRONzUzZERTeTJZTmpnWFBJQXRJWldtNTBoeWlERHRIYmhvMlJNT2pIeEczQ21Wb3lBcHBDVTBUQjdDS0EtcmFzUzJZQmFURmY0aUF5cUo5VGZYRVd0eWZGaURjbnNmMDRzOFNZblVNN2JtSmpNbDl6OGV6Z3VqOWc2SDNyWXZYb3VyWU9MdmgwSmY2aNIB5gFBVV95cUxQRzJYQkN0V0wyUkVMdFpCekpXTlBoNU1aX3duaDh0MDRFdk5tM2lYZklrVDdBSUlKbVBnUk5DbnFzMEpRcktRQlFYcjIyakVadFNuWVdoLXVlNWlCU2JMREJ1SEhETndxZ1lmbkREUG5iY09GQTlWTTRzalN4V3dEclZicDZRbUFpSGMxdjdMYnlqZkFNbW1xOGduWXhIQXZqSU1MbzJsdFN6ZUFLS3h3bmhadFB5aUE2RERjUHBEd1dibXpJQThfclVtR0tUQUpQUzZPc2Q2NGRzZTMzdGd5OUV0UXBTQQ?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Transparencia por Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1080,
+      "titulo": "Gobierno decreta contratación directa para atender víctimas del terremoto",
+      "categoria": "contratacion",
+      "fecha": "2026-09-18",
+      "descripcion": "El Gobierno Nacional expidió un nuevo decreto que habilita medidas de contratación directa para agilizar la atención a las víctimas del terremoto del 10 de agosto, lo que facilita la adjudicación rápida de bienes y servicios para la emergencia, pero también abre interrogantes sobre controles y transparencia en dichos procesos.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd09LUDFLNHN1NGlTSzNSdm95SUR2Mk5Yc1Q4SzNVektJQ1FkbU4yUUg5UGE1TkhJY052NlNXY1dFeDh2X0xXRUkyMlFsOFROeWJPTmZIYjBKQ0E2cWVQWXdKYnhQLXFmX2N1MnUwMHc4OUVCQVBsdjVuOVd0UnZ3OUU2MnJfS25oYmlneUVOLTlGcWlzUWhVY09zbDZhaVdrUDRWN3Q4R1BMdmYxWk5rUXJfbzNDQmRjZGl1RlZlSmFxdGN4Q0pKLXJVdnlSQXdQRHZ2SnlMQnFqMUZTVXVYdU1ITklQaXFOLWcxUlhTN3pCMGhQQmpRQnZR0gGOAkFVX3lxTE1pNmx3SU5BSklENGZYR2NCSnVyeTNOMmxTNWJWTzZHQXd0TDd6Zzc4SUl6ZU1uR1pHNWhYdTdyN3M2MVd4RmppUTcxRm1GZUFjUEN5ZVVtN1A1QW9GQlowOFMyVTI5TlFBOFhCYmFhdjYwODZXc1QyLXZSbmhLRTl3bzJlRE44bXdmUm42VnZSYm1rZjI2cFB5LURpYll1LWJhOXJBZE1Pa3hSZVd6dXdjT1d2blhkLWctOW9VWk1nR2c4MmlRM1YzZTd3RW40Y0trRVh2Wk9rRTVuQ2VKMkNwQzU1dXJNUUVwdDMwMDlSSkN6d2NUc1NhZTVmOGQ3ZXFsZUU4LVN0akFJUFJyQQ?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1079,
+      "titulo": "Gobierno adopta medidas ambientales para acelerar reconstrucción",
+      "categoria": "avances",
+      "fecha": "2026-09-18",
+      "descripcion": "El Ministerio de Ambiente adoptó nuevas medidas ambientales orientadas a agilizar los procesos de reconstrucción en las zonas afectadas por el terremoto del 10 de agosto, buscando destrabar trámites que podrían retrasar obras de recuperación.",
+      "evidencia": "Reportado por minambiente.gov.co",
+      "fuentes": [
+        {
+          "nombre": "minambiente.gov.co",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSzBZcmcxcllNVkFJLTFUX3RsbUFZRkU0U2oxTWxWNWhPaU45MFN2TXprRmg1VXI5WXZlSGdBcWE0TklUcE5BY1Z5YlFvamVFZnJaVDhKYlMzeUpTRG4weHIwMnBOc1RBX3pad3FiSnA2eVNMR29WLWo4S002cEpOdWxoVzlid21YX3JkWnJDWlFtbmdnbmlDbDdRMlpnTDZjdmp3NWg2SjlYa3ZpZVIzOUdiMXlnek9j?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1078,
+      "titulo": "De la Espriella logra mayorías en junta directiva y presidencia de Ecopetrol",
+      "categoria": "gabinete",
+      "fecha": "2026-09-18",
+      "descripcion": "La junta directiva de Ecopetrol quedará conformada por seis candidatos propuestos por el Ministerio de Hacienda, lo que le otorga al Gobierno de Abelardo de la Espriella mayorías cercanas en el control de la petrolera estatal y en la definición de su nueva presidencia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/lo-que-busca-el-presidente-abelardo-de-la-espriella-al-lograr-mayorias-cercanas-en-la-junta-directiva-y-la-presidencia-de-ecopetrol-3587172",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1077,
+      "titulo": "Centro Democrático radica proyecto de ley para eliminar o fusionar ministerios",
+      "categoria": "gabinete",
+      "fecha": "2026-09-18",
+      "descripcion": "Senadores del Centro Democrático, Julia Correa Nuttin y Juan Caicedo, promueven un proyecto de ley que daría facultades al Gobierno Nacional para eliminar, fusionar o modificar ministerios y entidades, en línea con la promesa de campaña de Abelardo de la Espriella de reducir el tamaño del Estado en un 40%, aunque aún no hay claridad sobre su ejecución.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/proyecto-ley-centro-democratico-facultades-eliminar-fusionar-ministerios-GC41250574",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Julia Correa Nuttin",
+        "Juan Caicedo"
+      ],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1076,
+      "titulo": "Minsalud exime de copagos por 12 meses a damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-09-19",
+      "descripcion": "El Ministerio de Salud expidió el Decreto 1415 de 2026 con medidas para garantizar continuidad de servicios de salud en zonas afectadas por el terremoto del 10 de agosto. La norma exime a las personas damnificadas identificadas de pagar cuotas moderadoras y copagos durante 12 meses, y busca apoyar la recuperación de infraestructura sanitaria en los territorios golpeados.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/paquete-medidas-minsalud-atencion-personas-afectadas-terremoto-FA41270948",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1075,
+      "titulo": "Decreto cambia requisitos para cobrar subsidios en Colombia",
+      "categoria": "economia",
+      "fecha": "2026-09-18",
+      "descripcion": "El Gobierno de Abelardo de la Espriella expidió un decreto que modifica los requisitos exigidos para acceder y cobrar subsidios estatales en el país, medida enmarcada en la reorganización de programas sociales del nuevo gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXg1UWZoQjVwNlIzYlFBVDBUQml0TGM1aEFqUklqXzNkUmJ0b01zUVQ4TXJjaC0wSXpZUHhRcDN6RGNXRW5IakN0UW5BMkN5LWFPRXpSRjROTGtjemdHT3phZHpJOGJLUXZjYkVlWUlkalBmNWEtWUZJYUliQVdWNDdCeXNvVEFrYnpxeWNJV2hVNDZMdlA5MUgyNHRVTlFFQVBXQ0dveER2R1NKWV9xdG92NWhLRmRPMF92U1BMTUFrdmPSAcgBQVVfeXFMTnJyZVA2OVNhUngzMnVKVnQtWjlBNkNFQmF3bzdIS0pFV09DWUZxM0pISGlrakhXanBuYVppb09lTC1JUUcwSkRJdVpJa0Q2V1VXSzdWdHg2TkdTQ2ZfVFhxSGlBaFN3MndGMTEtMkdmSWd2Y1ZMSE9JZ05ob2ZYdUZfSnV0bWNYcC1oMDFDc1p6b3VybGJVME9OdzN1UkVwV0FzbGRna3RrWkpKRjNRWVhWNHBDOW9ZSnBUNkNwLXpQYTQtWnk4T2o?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 03:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1074,
       "titulo": "Trump mantiene la descertificación antidrogas contra Colombia",
       "categoria": "internacional",
@@ -24785,8 +25024,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-18",
-    "total_casos": 985,
+    "ultima_actualizacion": "2026-09-19",
+    "total_casos": 995,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
