@@ -221,6 +221,190 @@
   ],
   "casos": [
     {
+      "id": 1092,
+      "titulo": "Gobierno investiga posible infiltración de grupos armados en universidades",
+      "categoria": "seguridad",
+      "fecha": "2026-09-18",
+      "descripcion": "Las autoridades adelantan un rastreo para determinar la presencia de grupos armados ilegales en campus universitarios del país. El Gobierno Nacional anunció un nuevo protocolo para intervenir las universidades ante estas alertas de infiltración.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-rastreo-a-la-posible-infiltracion-de-los-grupos-armados-en-las-universidades-que-se-sabe-3587235",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1091,
+      "titulo": "Inteligencia militar revela 65 estructuras del ELN y ubicación de 7.204 integrantes",
+      "categoria": "seguridad",
+      "fecha": "2026-09-18",
+      "descripcion": "La Fuerza Pública reveló un informe de inteligencia que identifica 65 estructuras del ELN y la ubicación de sus 7.204 integrantes, con operaciones concentradas en Arauca, sur del Cesar y las conexiones del Catatumbo con Venezuela. El documento detalla la composición actual de la guerrilla como parte de la estrategia de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-informacion-de-inteligencia-que-revela-las-65-estructuras-del-eln-y-la-ubicacion-de-sus-7-204-integrantes-3587239",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1090,
+      "titulo": "Ministro de Justicia revela detalles de la ley de sometimiento para criminales",
+      "categoria": "seguridad",
+      "fecha": "2026-09-19",
+      "descripcion": "El ministro de Justicia, Iván Cancino, dio a conocer en entrevista exclusiva los detalles de la nueva ley de sometimiento, que establece los términos bajo los cuales grupos criminales podrán entregarse a la justicia, bajo la consigna 'se someten o vamos por ellos', como parte de la política de seguridad del Gobierno De la Espriella.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPekR6dEhKYk03MGJRZkQtR0xPZHJ1THBQN25LVzhpRFV1eDJabnNhckl6TmZaSlBvTHdwckRvOWFwLVo3VG5RRHB2OHJ0TVhRM2piVnBjMTJ5UkNRMnBTQ0s1ZU84UXdRdzNPS1M2QW5yaWFRajRxUWJ6MVBsVEhwYlVfRnNsbE1wUnQ4c294NUFMUlNWWlBRZFpXS0l4Z1N4eXp3NGFvTDRLYjVldTRHQjRWLUZSOWFnVm9hQUNXNzhkMkNGNDNpOTk5Nkx5Mmk3d3pMVFJWcl9JbjhQVXNuY1NDQTc5cWpDOU1scnU2NUU5VjZxM2RKMUg0Rm5Eb2pzOWp4TWtKemtRV05QUnNqekJfbVpKbkthaEI0cVJrQUQyZVN1eXfSAasCQVVfeXFMTmZaOXAxeXpyTHphemdMazFwUVVpMHdDOU1Jbk9GSldXMkxES2dRQkRPd3ozYllEbEdiNF9qWHkyeVNkOXFtb0lIQ056bllZY1c2dDNDZUxOVDhGenFHVllPWTJwZk96dXNtRG9JS2Y5cVJScUI2cWFueFdtd0FNSWtBc3d0bkoxYnhSVWFCQVNxdTFfcVNUem9HQ1dsUGdNV2VXT2NpYmtQejFfZHNRUWZJSW8yaF96YkV1U25lLW5SLWJBR0dkVlEzMERnUm81TDJEV2I4amJmVkVZQWtHUm5RLWJfMUlHZThqaXAtZHBGTVFzSER4UUVOV2NpdUgyeWIwQzRRYWFDd0R1OU5vVzFmVXFEeXBzNkhabDJpNDV2c3ZFOUJMUU9WODQ?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cancino"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1089,
+      "titulo": "Ministro del Interior presenta balance de consejos de seguridad en el Caribe",
+      "categoria": "seguridad",
+      "fecha": "2026-09-19",
+      "descripcion": "El ministro del Interior, Rodrigo Lara, presentó un balance de los consejos de seguridad realizados por el Gobierno en Riohacha, San Juan del Cesar, Barranquilla y Cartagena, enmarcados en una estrategia de 'recuperación de los territorios' en la región Caribe.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-dio-balance-de-consejos-de-seguridad-del-gobierno-en-varias-ciudades-caribenas-recuperacion-de-los-territorios-3587262",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1088,
+      "titulo": "Fiscalía pide investigar a Petro por caso Kevin Acosta",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-17",
+      "descripcion": "La Fiscalía General de la Nación compulsó copias a la Cámara de Representantes para que se investigue al expresidente Gustavo Petro en relación con el caso de Kevin Acosta, abriendo un nuevo frente judicial sobre presuntas irregularidades durante su gobierno.",
+      "evidencia": "Reportado por elpais.com.co",
+      "fuentes": [
+        {
+          "nombre": "elpais.com.co",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdTN4N1otdVBQVDZLQVpwS3A3d1lGcmtzSzdUNjRndUNJNzZCMDlIMWtTd2UtRU45OFV2cDhPbzdialBrZXhYRU11eFVla0ZBVmhNR0x6RFROdEQwNElraG9CZUJvN1oxcVVsX2R4ajJzU2hQczVUak1kdC1Uc245cG1rUE9OUHZjTEVIQW5uYWFDbXVEMlc0LUdlNUpuekxDNmpJc1ctV0RiWjRGcTkwNmlHN3NsNXpaOWZfbVVMZ0N6WXR5anU1SXV6SHRSbkHSAdQBQVVfeXFMUExUOVpBb1NhYkZqbWRoeDhGMUNBU1lQbFA3RUZaeFU2TnBJZ2RFZmdEaG1leFRsOXlQd3hJbk5RWFdXWnNYWktqVkZfU1pwTUR4YkFXLWk2R2xwTnhRalhaeUxYTjJtRXE3M253eWtqVFdhOW14LU9jYU5LR00yTGpjazQ5VW1WNHlrMmg2SGUxb2V3aWFvbDVUcDBPMklwWUExeTBZR2h3dVRFc1dvSWtrUnV2OWZEQmp1MWJEOG51Rmx0YkZHTGpZcmJNalhpTTRDamU?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20"
+    },
+    {
+      "id": 1087,
+      "titulo": "Gobierno suspende temporalmente controles de requisitos para mantener subsidios a afectados",
+      "categoria": "damnificados",
+      "fecha": "2026-09-19",
+      "descripcion": "Prosperidad Social anunció que podrá suspender temporalmente la verificación de corresponsabilidades en programas como Renta Ciudadana, IVA, Colombia Mayor y Renta Joven, para garantizar que los subsidios sigan llegando a los afectados por el terremoto aunque no se puedan comprobar los requisitos exigidos, lo que genera dudas sobre control posterior de estos recursos.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/19/gobierno-mantendra-subsidios-a-afectados-por-terremoto-aunque-no-pueda-verificar-requisitos/",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Prosperidad Social",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1086,
+      "titulo": "Gobierno expide nuevo paquete de decretos con $624.000 millones para damnificados",
+      "categoria": "dineros",
+      "fecha": "2026-09-19",
+      "descripcion": "El Gobierno Nacional expidió 15 nuevos decretos y destinó $624.000 millones adicionales para atender a los damnificados del terremoto del 10 de agosto, en el marco del cierre del estado de emergencia económica y social declarado tras el sismo.",
+      "evidencia": "Reportado por Canal 1 En vivo",
+      "fuentes": [
+        {
+          "nombre": "Canal 1 En vivo",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0dQM3hQNEgxbTR5QmpZbE1qRjZUd3F5RHI2TEpwWXNOVUx5Y3ZYSEF2QkwyNmhTM2c0aFplYjdZTnBpZVA3c1pxd1NJOWdnWlRndUw3ZDUxb0drTGoydnEzY1lxbEVVcTlmSl9qUkFVNlkxNWtSU3JsQ21hSklVdkF4QWQ3THRGSnNYQ1V0R2xScVZUT1pvbjRLcUw4dEVKWlRsZFdUbzRqeWVYckNaMzZhT1VqaERBSlMtadIBwgFBVV95cUxOSjRjSDJEeHFzMFJyRS1tWUp4LVNTQ2tLSlo0R3JDSldxbkxrWS1sVVlnaFN5Qm4yVVdFckNEaGpnd2ZuSkF3dDRvd09id0dJYVE0cVNidXdVUDVKSmNLSExabDI1MTZVRWRENnd5UEZxOUcyMWVqRHN6THAyeUFlVVZnTC1aQWJmWENJOUoxenpiMWMyWm9DczdGLVNxR3g2SWZSb3l0TkVvSHZPd2xxbzJjQU5yTHlIajZHd3RBdTBXdw?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1085,
+      "titulo": "Contraloría investiga pagos del Fomag por $4,4 billones sin soportes",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-17",
+      "descripcion": "La Contraloría General de la República abrió investigación por pagos del Fondo Nacional de Prestaciones Sociales del Magisterio (Fomag) por $4,4 billones realizados sin los soportes documentales requeridos durante el gobierno de Gustavo Petro. El hallazgo se suma a otros procesos de irregularidades en contratación detectados en la recta final de la administración saliente.",
+      "evidencia": "Reportado por ELHERALDO.CO",
+      "fuentes": [
+        {
+          "nombre": "ELHERALDO.CO",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT0QxUDFWLWZCeVJpaE13ck83eHlJN2MySVhMcEVnU3ZxUjJLNkwwYTNNU2VMT09oX0dmeFlrSEtrS1dNSXZEd3FnYVdsbDkzZnZCRzkxY182bDYyVUNWVUZRblQxOF9mZFZES3VzUkhYeVRCQ3ItbjRmdVlReUhTYktXZGJLckVscVBvUFdTSzdZaDN5M0xjV2RlVWY1T1ZGMVdvVHpsbHV0dUhrS3lHb0p6SXMwRlBSeXM4OFFFaUNLRmc3aEVNV2RvN0lHeW9K0gHrAUFVX3lxTE1oeENqZ2NzaVk5SklMUWhEbHdpa0ZRcXRfSnlUbUZCdzVRdUplQlNJY2tmOEo3ZzhuWXg1WnI2N3JJQUZZQ2Zkd3M0X3hIZWt5OG1tWTVDenM2QUJPY2ZQYmpOQ3MzNmQ3ZDdNcGwtY3Z6U1ZsQWFMWVdfZG5uRjdXa3FNTERoOVBGU2pTTGFIOTRia2wzdlM2WXF4OE5zZXdGSmtLU3h1VkZpNFpENDhUT1dILVVydHpsOUIwWU1NVUNZMjFwajhPSEtUODBmNjNFRGxBS1BwWTJGb3JRblMxUy1MeXl4REo3M2M?oc=5",
+          "fecha": "2026-09-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-19 10:20"
+    },
+    {
       "id": 1084,
       "titulo": "Testimonios señalan a la senadora Sandra Ramírez, exguerrillera y beneficiaria de Paz Total, de reclutamiento y abuso de niñas en las Farc",
       "categoria": "abuso-poder",
@@ -25025,7 +25209,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-19",
-    "total_casos": 995,
+    "total_casos": 1003,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
