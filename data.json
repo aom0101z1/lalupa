@@ -221,6 +221,172 @@
   ],
   "casos": [
     {
+      "id": 1132,
+      "titulo": "Gobierno propone recortar presupuesto de la JEP en $100.000 millones",
+      "categoria": "economia",
+      "fecha": "2026-09-19",
+      "descripcion": "El excomandante de las Farc Rodrigo Londoño (Timochenko) alertó sobre una propuesta del Gobierno De la Espriella para trasladar $100.000 millones del presupuesto de la Jurisdicción Especial para la Paz (JEP) hacia el Consejo Superior de la Judicatura, calificándolo como un 'ataque' al Acuerdo de Paz.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/rodrigo-londono-alerto-sobre-ataque-al-acuerdo-de-paz-por-propuesta-de-recortar-presupuesto-a-la-jep-por-parte-del-gobierno-3587336",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Londoño"
+      ],
+      "entidad": "Jurisdicción Especial de Paz (JEP) / Consejo Superior de la Judicatura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1131,
+      "titulo": "Abogada que prestó su apartamento para entrega de dinero de la UNGRD sale del país",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-18",
+      "descripcion": "Una abogada vinculada al caso UNGRD, señalada de haber prestado su apartamento para una presunta entrega de dinero relacionada con sobornos a congresistas, salió del país en medio de la investigación de la Fiscalía sobre el escándalo de corrupción en la entidad, que ya involucra a Sandra Ortiz y otros exfuncionarios.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXdrUGhwSzNkQ2c3VUgxVEIxYTNZVmZTTjNqLTVYQjFFelNLQXlDenU2X2pyb0VHWmRVSERORTRlRlhKMHRmZkhoTFFld0FTTkN1NDFHSEJVcElQZWJCak1qbDlsckhSNnliQmJiQS03dmU3b0N5MDVpVW11cUpIQm9hUnBkS29ob3Q5Qmsyb0FyOFBHRW5waDVmTWNfSm5hQ0ZCcTdZbWxReV810gGyAUFVX3lxTE9GU2FVd2xia2swQ2dDbHdBRUpBN1dTd0toMS1wQXhUdFpGUUQyWFA4SDdmV1pqeHR0Zk1EdUxSRHo2UGd3ZDdMWXlMLXB5M0szNHlHa3lfeHgyWHA4aXZwcll4V3hpckxkTTUzX053eFo5Yi1fbUs5VGhSazZNUWtQR2t0MWFYRHp4VnBJYVUzY2tiZHVQZWtrSGdGN251dUY5cG1RM3BEM0txMUcxOHE4Nnc?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26"
+    },
+    {
+      "id": 1130,
+      "titulo": "Armada incauta más de 40 toneladas de droga bajo el gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-09-20",
+      "descripcion": "El presidente Abelardo de la Espriella entregó un balance en el que la Armada Nacional reporta la incautación de más de 40 toneladas de droga como parte de la ofensiva de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnFiUWJ1T3d1X0RWWUl4WjRqaVRqVG5fZXJWZmJvNGdHQlNtelJoWmJwRGlZcjJBaW1BSTh2YTFiYlNrWC0tT1JZUm5FVFQtTV9OUll4Y0NoSEZ5aWlUMmx3LWNEUTRqQ2pJVENBRjdmSVZaN21LMGxpbDU0d2xNeTlFQUcyemtBaFY5ekxYazAwelpseWNNb1JWVWtzSTFyOXdPVXlwZ21jOGZzNUZ0ZtIBsAFBVV95cUxQQi05Sk9HdWVLOGtld0RLVVFWa0EwVUI2eFlaU3pKcGplaEtJRVFuM3VJN2VUX0k4OFUyT1ZBM0liU2pvUjU3UEJUN25BZjVKUWVyRmRoNW9QdEhsNE9uNnRmTGJnMzI0TVBHSlMwbFdMSlNDVEhNbVNBX19UVXhJd2xxOUJNVUJZdWhnYnQ0aU5PVTNhTUt6ZlFndGF4WnBiSHB2cnlyOUNWaGNXczBxUQ?oc=5",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Armada Nacional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1129,
+      "titulo": "Gobierno anuncia medidas para controlar emergencia forestal en Villa de Leyva",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-20",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció medidas para atender una emergencia forestal en Villa de Leyva, en el marco de la respuesta a incendios que afectan la región, distinta de la emergencia derivada del terremoto de agosto.",
+      "evidencia": "Reportado por Noticias Caracol",
+      "fuentes": [
+        {
+          "nombre": "Noticias Caracol",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenBaVmxZTFZpaEpEVklpeWNHalY3amRuYTlzdjE1OTlIQmU2WkZSQUMzQi0tbG5YNW56a0dnZ0pqVUFQRnBTaEYtZkRnYWZLR0JhQTA4YVdiZG9ZREVZSnpKbWlDRXpXR2gtMVV6MlNsaVVyN0ZpekRoV1pxVEZHWnRfclFfZ3M0MlpsTTZJS01TQTVVb0taUVFyNldQX2pqR21oVnZQX3RhYkRkVHNGaloxZG9lVTk4WkxfVmpZNUg3NENtbG1vQ2tjRllzeTBDejJURGVn?oc=5",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1128,
+      "titulo": "Balance de seguridad: más de 22.000 capturados y rescate de secuestrados",
+      "categoria": "seguridad",
+      "fecha": "2026-09-20",
+      "descripcion": "El presidente Abelardo de la Espriella presentó un nuevo balance de seguridad tras los últimos operativos: más de 22.000 delincuentes capturados en lo corrido del gobierno, el rescate de 4 personas secuestradas, la liberación de 4 menores reclutados por el terrorismo y la captura de 27 criminales en las últimas horas.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeENzSlREUEhZZmJ3OEJmR1FZT21fdGhBNlloak95OHdrV1FIcXlDdVBhdDlWWEtaa3M0ZXVQcHNBaHVUWEJNaTl5X0dobm43Zmd5a3o0RHVKZVFMT01LVXdkakw4bmJDOVlCU1lYYXpKZnFValIxcExhVTM2MXduWVpkeGkyMHAwU0hPMDU5WGI2VElCOXdJTm1yMkhUUzBXQmhlX3liVG9BM29mWHlUZkpyMnNvR3NwR2dZMi1RSjBXUEt6ZmVka3R2Z3dZYnA2SGNpQWpubFJqX1BEVWJtbndoMHl0S25BWDBOVVhWNEpFVFV3cGswT2lTQdIBgAJBVV95cUxPa0d6WTkzYlhpZjBHTjRibWp0ak1Yd3QweXZpSzgtaFlLa0E0MnlONFJUeUVSbXU1M0s2eVlUeWlyTjRYRWJYWnh6ZFZZXzhQNk5jRVdTZ3NUMU9KMXNHUUN1Z3FGLXV6VG9aQ1dQR1lrNFNibWtqd1pENEtoa19TUGx2VVAxSEhtbnNacFlCbWhXa3AyZ24tLTU5UWdFc0JmR0NxVjdyVGNtOWNoMnFEWkpOUE90cGQtam1mWW9PbFVIWkJhWGczN3Z4MkhBMVBhQWd3WEVKYmQ2U1o1enRRVGhmai1JQWtsVEdXdmFnQ2xOZDZ5YzRwczBvbmFieEZv?oc=5",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1127,
+      "titulo": "Traslado del exgobernador Juan Carlos Abadía a cárcel de Villahermosa",
+      "categoria": "seguridad",
+      "fecha": "2026-09-20",
+      "descripcion": "Por orden del presidente Abelardo de la Espriella, el exgobernador del Valle del Cauca Juan Carlos Abadía, condenado por corrupción, fue trasladado desde la Escuela de Carabineros de la Policía a la cárcel de Villahermosa, dentro de una revisión de casos de políticos procesados que permanecían en instalaciones policiales o militares con condiciones más favorables.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/traslado-juan-carlos-abadia-carcel-exgobernador-valle-del-cauca-LO41295385",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Juan Carlos Abadía"
+      ],
+      "entidad": "Inpec / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1126,
+      "titulo": "Empalme revela aumento de 595% en contratos durante gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-09-20",
+      "descripcion": "El gobierno de Abelardo de la Espriella encontró en el empalme registros que muestran un incremento del 595% en contratos suscritos durante la administración de Gustavo Petro, un hallazgo que se suma a denuncias de entes de control, oposición y medios sobre derroche e irregularidades en el Ejecutivo saliente, desde Ecopetrol hasta entidades descentralizadas menores.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/caja-negra-derroche-encontro-abelardo-palacio-petro-CP41289874",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 15:26"
+    },
+    {
       "id": 1125,
       "titulo": "JEP sanciona a Timochenko, Catatumbo y otros exjefes de las Farc por secuestros",
       "categoria": "sanciones",
@@ -25998,7 +26164,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-20",
-    "total_casos": 1036,
+    "total_casos": 1043,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
