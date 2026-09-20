@@ -221,6 +221,148 @@
   ],
   "casos": [
     {
+      "id": 1125,
+      "titulo": "JEP sanciona a Timochenko, Catatumbo y otros exjefes de las Farc por secuestros",
+      "categoria": "sanciones",
+      "fecha": "2026-09-19",
+      "descripcion": "Tras nueve años de instalada, la JEP impuso sanciones al antiguo secretariado de las Farc por toma de rehenes en el Caso 01. Rodrigo Londoño ('Timochenko') y Pablo Catatumbo recibieron 8 años de sanción; Milton de Jesús Toncel ('Joaquín Gómez'), 7 años 8 meses y 25 días; Jaime Alberto Parra ('el Médico'), sanción similar. La senadora Sandra Ramírez, exguerrillera y beneficiaria de Paz Total, también figura entre los sancionados por este caso de secuestro, distinto a las denuncias previas de reclutamiento y abuso de menores en su contra.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/jep-por-que-tardo-9-anos-sancion-jefes-secretariado-farc-timochenko-sandra-ramirez-CA41276466",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Londoño",
+        "Pablo Catatumbo",
+        "Milton de Jesús Toncel",
+        "Jaime Alberto Parra",
+        "Sandra Ramírez"
+      ],
+      "entidad": "Jurisdicción Especial de Paz (JEP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-20 10:37"
+    },
+    {
+      "id": 1124,
+      "titulo": "Detonan explosivo oculto en carroza fúnebre en vía del Caquetá",
+      "categoria": "seguridad",
+      "fecha": "2026-09-19",
+      "descripcion": "Un artefacto explosivo escondido en una carroza fúnebre fue activado de forma remota en la vía El Paujíl–Cartagena del Chairá (Caquetá) mientras un técnico antiexplosivos de la Policía Nacional adelantaba labores de neutralización. El hecho se atribuye a grupos armados que operan en la zona y evidencia la persistencia de amenazas contra la Fuerza Pública en el marco de la ofensiva de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/activan-de-forma-remota-un-explosivo-oculto-en-una-carroza-funebre-en-una-via-del-caqueta-3587353",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-20 10:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1123,
+      "titulo": "Condenado por caso Centros Poblados detrás de contratos de paneles solares del gobierno Petro en La Guajira",
+      "categoria": "contratos",
+      "fecha": "2026-09-20",
+      "descripcion": "Empresas ligadas a Ottomar Lascarro, condenado en el caso Centros Poblados y antiguo socio de Emilio Tapia, resultaron ganadoras de contratos por $150 mil millones del Ministerio de Energía para proyectos de paneles solares en La Guajira durante el gobierno Petro, los cuales ya presentan retrasos en su ejecución.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/condenado-por-centros-poblados-esta-detras-de-millonarios-contratos-de-paneles-solares-de-gobierno-petro/",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ottomar Lascarro",
+        "Emilio Tapia"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 10:37"
+    },
+    {
+      "id": 1122,
+      "titulo": "Agentes de la Dijín habrían sido usados para 'chuzar' a niñera de Laura Sarabia y sacar del camino a investigadores",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-19",
+      "descripcion": "Fuentes confidenciales revelan que, en medio del escándalo de interceptaciones a la niñera Marelbys Meza vinculado a Laura Sarabia, habría existido una presunta conspiración para usar el incidente y apartar a investigadores de la Policía que indagaban nexos entre el Clan del Golfo y la campaña de Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/revelan-detalles-ineditos-interceptaciones-policia-escandalo-sarabia-DP41286335",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia",
+        "Marelbys Meza"
+      ],
+      "entidad": "Dijín / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 10:37"
+    },
+    {
+      "id": 1121,
+      "titulo": "Auditoría forense en Ecopetrol destapa 32 casos con contratos por $10 billones",
+      "categoria": "contratos",
+      "fecha": "2026-09-20",
+      "descripcion": "La auditoría forense abierta en Ecopetrol identificó 32 casos bajo revisión que involucran contratos por un valor cercano a $10 billones, con presuntos sobornos y nombramientos irregulares durante la administración anterior de la petrolera estatal.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGRDWVkzanJwRmVpdjVTV2xDYXktMF9WaV9SUzl5QmJBYlNQX0tINXFqZjVSSFc3U0VBdU1LU2VyV1R4eFFoNDJxVGxCbEgtT3A3VjEtaWRCYW15dnREMWtkbWktcllzeVlITFBRVkYxTmgtUGxyWERtUTRGZEtTVUdkVUIzcVI1WU5kZ0xPY0JZZFJXVVdHNXdzZzdBSzBtR3B4YUhyY25IQ3VHcW5lWW9DcGt2MkZDWUM0NkZlRHIwWE9ONXNtNlRKOE5vMkt0dERaSUtuU1A0Q3lZY3dJclAtQTRDdWVURFpnbTRDUdIBigJBVV95cUxPRkh2c3Nmem9POFg2eGFNMC1mNTVLSEItYlVvWTlhY3lzbmk5Nmsya0V0bzFkMElzbWFmMk5RdHRwc25TdG8wSVU1ck40SFRJR0VnVW5CZkR3b3ozLWIwV1pqQ2ZBTHUwS0YyZDBYWUNOcGgtQW5yRjdrZC1QMjQ2RzVzNFpXNG83eUJxeklxQ3RacWhnd3RuWVgwTjFZMGg4QzQtWTIyamloX1FNWjlidWk4U05BQU85LXgySjRDY0Vxd3I4ZDM4UnZlTFlTV2MzYUdXTms2a2JIRUdnNVJjQTdfS3MtQ2ItbThENWtsYXBpVWRNaHZyY01RTnQzVVN0NEkySklYUVQ4dw?oc=5",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-20 10:37"
+    },
+    {
+      "id": 1120,
+      "titulo": "Gobierno expide 15 nuevos decretos para damnificados antes de terminar emergencia económica",
+      "categoria": "dineros",
+      "fecha": "2026-09-18",
+      "descripcion": "Un día antes de finalizar la declaratoria de emergencia económica y social por el terremoto, el Gobierno de De la Espriella emitió 15 nuevos decretos orientados a atender a los damnificados, ampliando el marco de medidas ya adoptadas en semanas anteriores.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRXBLb3JRNFRQZ29VeWl3U2g5cFgyc0FEbEhsWjFEM3NfNERJUjVKVm12cktfNHI1Y2FDajZKUW9CdF9ISGo1eC1sWDZ1NjlpcFRwVVh2U1ZZT2pRUDFRZUhrcjludWJTX3hOLUpIbGR0NS16TlpNODd5eVBjaUNXbE5xMVJBWVRERWxPVGJ5S0Jyd2NRLXpBZ2c5YjlUaUx5Wmk2QjYwZDBJQS1tWW5HcmVMUU11azRFdUllMmxQYUFEaW56bjhGSG9fN1ZqNjJRa2dBTnd5Zy1zTHhhTXFKbXFueGc2dnJxNElpZlhMNTEweHlScVJtd091X2szekRrTlJzVVNoTUpNeDlzOWVCWHBodTg3UmxvYU9RM1NiVFVxMHprajRLMzllcFRraTFBdUlDdkJWQ0nSAb4CQVVfeXFMTUc4OTZrQ1NxSnFoakdrdno0ZjFYMHRKYmM2eE1iejNDaU9YZGJHaUp5RFhTWFNhbmV6QWE4QlE2c0J3UjNMN2JISXAtak53MXRXSzJ3eVJnbF90UDVtNTd4V1hGVUh2RTBMR3J4cUdSanpKd0Z1bWVrWFcybVBVbUNJM05yeUNUZXFJVlk1S3Y3blVRWkRWOXU2YzQ0bmdjeENoWGU4bEs4OTI0Tl9FUTE0b3VoVjBlODBlOE0xajJfcFpXeHYwNWFwNC1ianB3dXZrbUhlblloUlJad3pta3A3eURDTzFpM1U2LWtkaUhNWlg5ZVh6Nm55cEZuMHZDbmx6al9QaG1mRmctLVhjMTY0c0RPWDFWVm5GYmhEOWtZRDNnWWE5dEpNM2JYUFd0SGxURW56c3ZrMjVOQnJB?oc=5",
+          "fecha": "2026-09-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-20 10:37",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1119,
       "titulo": "Marco Rubio promete relación 'más fuerte' con Colombia en visita a De la Espriella",
       "categoria": "internacional",
@@ -25856,7 +25998,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-20",
-    "total_casos": 1030,
+    "total_casos": 1036,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
