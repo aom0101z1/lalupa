@@ -221,6 +221,52 @@
   ],
   "casos": [
     {
+      "id": 1146,
+      "titulo": "Operativo militar captura a alias 'Bendito Menor', cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada",
+      "categoria": "seguridad",
+      "fecha": "2026-09-20",
+      "descripcion": "Fuerzas especiales del comando 'Los Lobos' realizaron un operativo para capturar a alias 'Bendito Menor', cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada. Para llegar a su escondite, los comandos usaron la vivienda del contratista Jorge David Martelo Yépez, evacuando a dos menores y cruzando por el techo hacia la casa contigua donde se ocultaba el cabecilla.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/detalles-operativo-comandos-techo-casa-bendito-menor-KG41304934",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge David Martelo Yépez",
+        "alias 'Bendito Menor'"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 11:59",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1145,
+      "titulo": "Acción popular busca frenar contrato de compra de 17 aviones Gripen",
+      "categoria": "contratos",
+      "fecha": "2026-09-21",
+      "descripcion": "Ciudadanos presentaron una acción popular ante la justicia para suspender provisionalmente la ejecución del contrato de compra de 17 aviones de combate Gripen y detener los desembolsos, exigiendo al Gobierno revelar el mecanismo de financiación y otros parámetros del negocio antes de continuar con la operación.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb0tod0pUdUtmQVZ1WlpDQXVvME9pLVFKMXdTRjhkNXVqSndDSlNaZExGZnNKS2Q4b0xBbDFycVktSXktbGo1RmxRVjNNSWt5OTA1Zk81UHNEOTd3eXNfZ284M0Npa3NTS1UxMC1LV1NCODFScHRteVhEWXB2eGtvTy1acTA2TksyS2k1OHhVY2t0aV90NV9nU3NOOWNMOFpFY1ZTQzVhLXJBZHF5Nl9ldUlsZHdKcG5LWkMtN25qYWVOYkZCckFjVEhRaWk5RElxRE41OEZabXlJcTVlb2JaSnRmVG5OZ9IBgAJBVV95cUxOSG44eUJtVnR2bjB1bFBkNVI1UTJpZkNXWWg4N1V4NW43RGJ3azRhbmpKV1lqTHJWcTJRX3F5REhJbHlJNGJfS2ZvZjFZSkVmN1VPQWRKSmkxX3plY01WMWNKcnBUa1dEUGJRR1l0bmNpRXNyNzhMMU1Oek9SS3lQRkstSzlBTlpxWkloVGNGWnJWN19MZVNZNV9BVUpKN1hsajNPTktQZVYzS2dEak9KOFVHcUdoU1ZZb0tvN3pJS3hGUmRLZ24ydUd0ZFZrcXBjQm5aemdJNU5uMmJMTDVlYThlRXJIbjMybzJBU3lvcHdMRGtBVFlRSk5TRDJUZ2h4?oc=5",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Fuerza Aeroespacial Colombiana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 11:59"
+    },
+    {
       "id": 1144,
       "titulo": "Ataque con drones y fusiles contra la Fuerza Pública en El Carmen, Norte de Santander",
       "categoria": "seguridad",
@@ -26441,7 +26487,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-21",
-    "total_casos": 1055,
+    "total_casos": 1057,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
