@@ -221,6 +221,170 @@
   ],
   "casos": [
     {
+      "id": 1144,
+      "titulo": "Ataque con drones y fusiles contra la Fuerza Pública en El Carmen, Norte de Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-09-20",
+      "descripcion": "Un ataque simultáneo con drones explosivos y ráfagas de fusil golpeó a la Fuerza Pública en el municipio de El Carmen, Norte de Santander. Uno de los artefactos fue activado cerca de la estación de Policía del municipio, en medio de la ofensiva de seguridad del gobierno De la Espriella contra grupos armados en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-simultaneo-con-drones-y-rafagas-de-fusil-contra-la-fuerza-publica-en-el-carmen-norte-de-santander-3587537",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Pública / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1143,
+      "titulo": "Vicepresidente viaja en clase económica a la Asamblea de la ONU",
+      "categoria": "transparencia",
+      "fecha": "2026-09-21",
+      "descripcion": "El vicepresidente José Manuel Restrepo viajó el domingo 21 de septiembre de 2026 en un vuelo comercial de El Dorado (Bogotá) a Nueva York para asistir a la Asamblea General de la ONU, ubicándose en un asiento de clase económica en lugar de primera clase, como es habitual en viajes de altos funcionarios.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/en-el-asiento-del-medio-y-en-clase-economica-asi-viajo-el-vicepresidente-a-la-asamblea-de-la-onu-HG41305424",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1142,
+      "titulo": "Gobierno frena giro de $38.724 millones en la Adres por inconsistencias en cobros",
+      "categoria": "transparencia",
+      "fecha": "2026-09-20",
+      "descripcion": "El Gobierno De la Espriella frenó el giro de $38.724 millones en la Adres tras detectar inconsistencias en cobros, excluyendo a 26 prestadores de servicios de salud. La medida preventiva se mantendrá hasta que las EPS e instituciones involucradas certifiquen la veracidad de las obligaciones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-la-espriella-frena-giro-de-38-724-millones-en-la-adres-tras-detectar-inconsistencias-en-cobros-y-excluye-a-26-prestadores-de-servicios-3587524",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Adres / Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1141,
+      "titulo": "MinAmbiente señala que incendio forestal en Villa de Leyva habría sido provocado",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-20",
+      "descripcion": "El ministro de Ambiente, Fabio Arjona, informó con base en datos de la UNGRD que el incendio forestal en el cerro San Marcos de Villa de Leyva, Boyacá, habría sido provocado, aunque las autoridades aún verifican las causas. Más de 250 personas trabajan en tierra para controlar el fuego con apoyo aéreo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/incendio-villa-leyva-foretal-provocado-IO41299331",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Fabio Arjona"
+      ],
+      "entidad": "Ministerio de Ambiente / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1140,
+      "titulo": "Fondo Milagro aún no llega a Caldas para reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-20",
+      "descripcion": "Según La Patria, la propuesta del Fondo Milagro para la reconstrucción tras el terremoto aún no ha llegado a Caldas, uno de los departamentos afectados, generando incertidumbre sobre el mecanismo de asignación de recursos y su llegada efectiva a la región.",
+      "evidencia": "Reportado por La Patria",
+      "fuentes": [
+        {
+          "nombre": "La Patria",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUZiMlJReHJSYkY4eTN6ZFlXM1c2S1dXX3AxbVlUTi00OUN4OWdDVU5jUUlZdFNpVFdvNUtnd1BrWlNGY1R5YURNa0RaV203eUhjRWVhNDVJbUgtb00wNmxZZXVPNF9KOHNFc1JLRmd6ZkRjaFlXRnlHM1c0bmZnRVFkZTc3OTVaY096dGpDSXRHbFhiRFJySUNxa1YzVDV3RG5WdW1MRlZYalZCQ3BFbUVubFpIcWpFMElsSGlTTjk?oc=5",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "negativo"
+    },
+    {
+      "id": 1139,
+      "titulo": "Empalme revela deuda heredada de $185.000 millones en el Ministerio de Cultura",
+      "categoria": "empalme",
+      "fecha": "2026-09-20",
+      "descripcion": "El Gobierno De la Espriella denunció una deuda heredada del gobierno Petro por $185.000 millones en el Ministerio de Cultura, acumulada desde febrero, que afecta a 4.162 beneficiarios de festivales y formación. Se activó un plan de pagos inicial por $40.000 millones para atender la deuda.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-la-espriella-denuncia-deuda-heredada-de-185-000-millones-en-el-ministerio-de-cultura-y-activa-plan-de-pagos-inicial-por-40-000-millones-3587494",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Cultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1138,
+      "titulo": "Gobierno expide paquete de medidas tributarias para reconstrucción en zonas del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-19",
+      "descripcion": "El Gobierno de Abelardo De la Espriella expidió un paquete de medidas tributarias orientadas a facilitar la reconstrucción en las zonas afectadas por el terremoto del 10 de agosto, con beneficios fiscales para damnificados y empresas que participen en la reconstrucción.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ1JlajBaZTJqcEFud3dlWkpyOFZRNzZXX2lSNHpQdFQ0WnRkbktiNF9lUFo2Y3ZuQUI2ZHBCQjJrVUQwWVlzQm1Ebk1TV1JvODVDREJEZ3BCQVJFaW1CWDRUMHN4NS1GWk9IWXJBWVBZZWg5SWNPU3FZRk52TXpZUEU0MHhrNDZaXzAzLWNTRzlpUXdDcWsxMmJmSl9QNTlfNWw3UEt6NjR2WTFvX2w4d01pYl8xNGJ4d01QSnNmOGxocUNNQjNSTi1rRURoSGxWd2FDR1htV1d4OHNQVVd4dkhObzBFOWp2SmZPcHZRQW9Ic1pWWGE1SlFJVkhPakcxZ0JzeFRfd09nLXJiNkt3UVJxUUJsSHpOeUIzQVBuUk9abDl00gGkAkFVX3lxTFBnUmVqMFplMmpwQW53d2VaSnI4VlE3NldfaVI0elB0VDRadGRuS2I0X2VQWjZjdm5BQjZkcEJCMmtVRDBZWXNCbURuTVNXUm84NUNEQkRncEJBUkVpbUJYNFQwc3g1LUZaT0hZckFZUFllaDlJY09TcVlGTnZNellQRTQweGs0NlpfMDMtY1NHOWlRd0NxazEyYmZKX1A1OV81bDdQS3o2NHZZMW9fbDh3TWliXzE0Ynh3TVBKc2Y4bGhxQ01CM1JOLWtFRGhIbFZ3YUNHWG1XV3g4c1BVV3h2SE5vMEU5anZKZk9wdlFBb0hzWlZYYTVKUUlWSE9qRzFnQnN4VF93T2ctcmI2S3dRUnFRQmxIek55QjNBUG5ST1psOXQ?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 03:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1137,
       "titulo": "170.000 beneficiarios del ICETEX recibirán subsidio temporal a la tasa de interés",
       "categoria": "economia",
@@ -26276,8 +26440,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-20",
-    "total_casos": 1048,
+    "ultima_actualizacion": "2026-09-21",
+    "total_casos": 1055,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
