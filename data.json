@@ -221,6 +221,351 @@
   ],
   "casos": [
     {
+      "id": 1161,
+      "titulo": "Vicepresidente Restrepo se reúne con 40 empresarios en Nueva York para atraer inversión",
+      "categoria": "internacional",
+      "fecha": "2026-09-21",
+      "descripcion": "En el marco de su visita a Nueva York por la Asamblea General de la ONU, el vicepresidente José Manuel Restrepo se reunió con 40 empresarios, transmitiendo un mensaje de seguridad jurídica para atraer nueva inversión extranjera hacia Colombia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/vicepresidente-jose-manuel-restrepo-se-reune-con-40-empresarios-en-el-marco-de-su-visita-a-nueva-york-por-la-asamblea-general-de-la-onu-3587621",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1160,
+      "titulo": "Contraloría alerta déficit de $4,2 billones en sistema público de pensiones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-21",
+      "descripcion": "La Contraloría General de la República advirtió que el sistema público de pensiones presenta un desequilibrio financiero de $4,2 billones, atribuido al desbalance entre el incremento efectivo del salario mínimo (23%) y los ingresos proyectados del sistema, heredado de administraciones anteriores.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/sistema-publico-de-pensiones-esta-desfinanciado-en-4-2-billones-alerta-la-contraloria-3587593",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República / Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04"
+    },
+    {
+      "id": 1159,
+      "titulo": "Congreso debate reparto de recursos del Presupuesto 2027, incluyendo JEP y reconstrucción",
+      "categoria": "economia",
+      "fecha": "2026-09-21",
+      "descripcion": "El Congreso de la República entra en semana clave para aprobar en primer debate la repartición de rubros del Presupuesto General 2027, con la JEP y los recursos para la reconstrucción tras el terremoto entre las partidas en disputa.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/presupuesto-de-2027-entra-en-semana-clave-en-el-congreso-con-varias-cuentas-por-ajustar-que-recursos-estan-en-juego-3587529",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1158,
+      "titulo": "Ministro del Interior respalda recorte de gasto público por 'grasa' en entidades estatales",
+      "categoria": "transparencia",
+      "fecha": "2026-09-21",
+      "descripcion": "El ministro del Interior, Rodrigo Lara, respaldó públicamente en la red social X un recorte de gasto improductivo en las entidades del Estado, argumentando que existe 'mucha grasa' heredada que debe eliminarse como parte de la política de austeridad del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-respalda-recorte-de-gasto-y-dice-que-hay-mucha-grasa-en-entidades-del-estado-recortar-gasto-improductivo-3587574",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1157,
+      "titulo": "Cancillería brinda asistencia consular a colombianos extraditados a EE.UU. por magnicidio en Haití",
+      "categoria": "internacional",
+      "fecha": "2026-09-21",
+      "descripcion": "La Cancillería de Colombia anunció asistencia consular a 17 exmilitares colombianos extraditados a Estados Unidos, trasladados para responder ante una corte del Distrito Sur de la Florida por su presunta participación en el magnicidio del expresidente haitiano Jovenel Moïse.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-anuncia-asistencia-consular-a-colombianos-extraditados-a-ee-uu-por-magnicidio-del-presidente-haitiano-jovenel-moise-3587578",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1156,
+      "titulo": "Déficit de casi $1 billón en salud de las Fuerzas Militares heredado del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-21",
+      "descripcion": "El sistema de salud de las Fuerzas Militares y sus familias registraría un déficit cercano a $960.000 millones, proveniente del gobierno de Gustavo Petro, según reportó Noticias RCN. La cifra corresponde a la deuda proyectada con corte al 31 de diciembre de 2026, de la cual la porción priorizada (urgente de cubrir) asciende a casi un billón de pesos, comprometiendo la atención en salud de uniformados y sus familias.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/deficit-billon-salud-fuerzas-militares-ministerio-defensa-gobierno-abelardo-por-que-BE41320607",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Sanidad Militar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04"
+    },
+    {
+      "id": 1155,
+      "titulo": "Digno Palomino, cabecilla de Los Pepes, busca someterse a la justicia",
+      "categoria": "seguridad",
+      "fecha": "2026-09-21",
+      "descripcion": "La Presidencia remitió a la Fiscalía la propuesta de sometimiento a la justicia presentada por Digno Palomino, señalado como máximo jefe de la estructura criminal 'Los Pepes', responsable de redes de extorsión en Barranquilla y el Atlántico. El traslado busca que el ente acusador evalúe beneficios judiciales dentro del marco de sometimiento que impulsa el Gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/digno-palomino-los-pepes-sometimiento-justicia-propuesta-fiscalia-DF41332188",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Digno Palomino"
+      ],
+      "entidad": "Presidencia de la República / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1154,
+      "titulo": "Gobierno retira candidatura de Carolina Olarte a la CPI",
+      "categoria": "internacional",
+      "fecha": "2026-09-21",
+      "descripcion": "El gobierno de Abelardo de la Espriella retiró la candidatura de Carolina Olarte a la Corte Penal Internacional (CPI), postulación que había sido presentada originalmente por el gobierno de Gustavo Petro. La excandidata confirmó el retiro a La Silla Vacía; de haber prosperado, habría sido la primera vez que un colombiano llega a esa instancia.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-retiro-candidatura-de-carolina-olarte-a-la-cpi/",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Carolina Olarte"
+      ],
+      "entidad": "Cancillería de Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1153,
+      "titulo": "Fiscalía fija para el 30 de octubre audiencia de acusación contra Ricardo Roa",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-20",
+      "descripcion": "La Fiscalía General de la Nación fijó el 30 de octubre como fecha para la audiencia de acusación formal contra Ricardo Roa, expresidente de Ecopetrol, en el marco del proceso judicial que enfrenta por presuntas irregularidades en la financiación de la campaña 'Petro Presidente 2022'.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHV2Z0hVZmVGS2Z0NkFOeHNibXZTLTRSWm9SMGstcG1QbnRUVGVMMWRHekV0bzVONzlFTk9pZEFYWVNHdEt0TVJmZHpOVFNYRUg1S2s3X3k0VlJ3RWxxX3Ewc2d3VWJPdGJ1WTBTRUNmRExaQ0kyYTRzV1hIXzJpaGJNLWozdFRaNEtOZHRCMHJ5cVJiWDVjNDdYbk1sSkVOYldlT3EzYnFRRk9PYTNNQ1otZms?oc=5",
+          "fecha": "2026-09-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04"
+    },
+    {
+      "id": 1152,
+      "titulo": "Gobierno habilita $624.656 millones del Banco Mundial para reconstrucción tras terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-19",
+      "descripcion": "El Gobierno Nacional habilitó recursos por $624.656 millones provenientes de un crédito del Banco Mundial para destinarlos a labores de reconstrucción en las zonas afectadas por el terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZTRqVmMxX2tYem0ta1Z3ZDUwRFJYb1htbkg2bzhvSGlUWVdsWUVYZ25pVm9Wc3dDT1FaYWZpMUdXV0haWFFSYXRUbFczaXhxRUFZNFEzN2F1OElybFI3dTc3NzVwbGFrR2hQb1NWYzlya1BMUUs3LVlnOU01MGtjVnEzZVFRYmtTTTN0TklpQ2NIdGFFRFJVZnhNUllNWlJGUzZ4aXZZcjNyTy1fcjJ5MGxjRkNubEl1QUFJWEhTRjZSTUpGaVF1TUFTQlJtNFpCUlJjUW9lNl9ZdUFIRWdaR2h30gHnAUFVX3lxTE56UVJxOFpJSWhhZGJ1WGhEb2tjVlJ2Zl9scWdxM1loY0VlYVJtRXNtV2pRWXg5ajFOMmdGSnJhMm00S1RGd1VUV1dGV0lFQjd3VVRhX0kyY3RRRk1LcDZadDNMLUt4SXBYMEJjNXMzcHJUVk5UbFVQbm9BeFZ0M2otbEhrTEVwMzZlRERVNWZnUlIzV0lIUldtZUI4YlZCbDlzTkl6UzZGc21EYnhwN1dZdW5sWVJWLWM5OWtpakl0Zy0wOXNsOFdkVjIzWkd6ZWhibnZwckNUdm10S3hBc3FuTUQ5R1d2RQ?oc=5",
+          "fecha": "2026-09-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Banco Mundial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1151,
+      "titulo": "Guardacostas incauta 4.022 paquetes de cocaína y captura a cinco personas en Urabá",
+      "categoria": "seguridad",
+      "fecha": "2026-09-21",
+      "descripcion": "La Estación de Guardacostas de Turbo, en el Urabá antioqueño, capturó a cinco personas e incautó 4.022 paquetes de clorhidrato de cocaína que eran transportados por la zona. El presidente Abelardo de la Espriella calificó la operación como parte de la ofensiva contra el narcotráfico de su gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/incautacion-cargamento-guardacostas-uraba-ofensiva-narcotrafico-gobierno-de-la-espriella-DE41327501",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Armada Nacional / Guardacostas de Turbo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1150,
+      "titulo": "Cajas de compensación destinarán $550.000 millones para vivienda y empleo de damnificados",
+      "categoria": "dineros",
+      "fecha": "2026-09-21",
+      "descripcion": "El Sistema de Subsidio Familiar, a través de Asocajas, movilizará hasta $550.000 millones para apoyar la recuperación económica y habitacional de las familias afectadas por el terremoto del 10 de agosto. Cerca de $90.000 millones provendrán del FOSFEC y entre $370.000 y $460.000 millones de otro fondo de las cajas de compensación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cajas-compensacion-reconstruccion-terremoto-vivienda-empleo-ME41327658",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Asocajas / Cajas de Compensación Familiar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1149,
+      "titulo": "Ecopetrol denuncia a exoficial de cumplimiento por entrevistas con medios sobre corrupción interna",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-21",
+      "descripcion": "Ecopetrol presentó una denuncia contra un exoficial de cumplimiento de la empresa luego de que este concediera entrevistas a Caracol Radio en las que habría revelado detalles sobre presuntas irregularidades internas, lo que genera cuestionamientos sobre posibles represalias contra denunciantes.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQXRmR1U5SFdqdF9fR0xlM1M4MXgzMk93d1JWZ29VYlI1U0FtSnJKQUFHV0REWm44dVlMVnRGeXBoX2xXazBFOWc4aHNmcWtRWmVkZmtHSzNaWGNtdVl0QkpnbG5heWpjTzVGbGt5Rmd6LXQ3eTA5aE5BSEI5RzkzTXFyeEhBWkdvRDY0cEFGMHJSSldmcHU4aHloUFJrY3pLMjA5SHNsOE5tYlgxNVV3TXdjOUlrZ9IBygFBVV95cUxPZzBjemNRUnhZbUpOdWoxUFpveERzT0dBc18yS1hOUFM3ZWZzTEZmMmhHZTFKVDExNi1CSTFNVXE4QzNfb2ktbzhoODFTYmNqb0l2NEptOVduSmtrMUFuQUVRVWNPZlJxamxnZG9MTmVGS3BJZ1ktYWZxUkFnRUd5UHZoUTdpTzVSeWhZalpldDNQZjhKcXMtc0V3bldTNTZZRGRBWEZJVmVpWDR5NnZyc3JRbUg0LXJuVFdfRVdpSmI4QWg0eUEyZE5B?oc=5",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04"
+    },
+    {
+      "id": 1148,
+      "titulo": "Miembros de junta directiva de Ecopetrol habrían omitido información sobre corrupción de Roa",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-21",
+      "descripcion": "Se revela que varios miembros de la Junta Directiva de Ecopetrol habrían tenido conocimiento de información sobre presuntos actos de corrupción vinculados a Ricardo Roa y no la habrían reportado a las autoridades competentes, lo que profundiza el escándalo en la petrolera estatal.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWnVYSnl3R2ozV3pxZVd3WkZQekx4TjJyWl9VSFJyRnFrZWtHdWgxX1NmczFQUDMyVHdrQjB1RjJvbzE0VGdNN21wV2RDWFBDWm0yWk1ycV8ycGx3VGFDdE5OOTFWRTZjbURxb3Y5SHNOMktIVGdQazhMZXZlYzBrTjMwekJzVzh6ZHpsanAwZXQyd0JfQVJOZ3l4WVF3X0dTOWx3QkNfSlh2MUlEdy1FazdXQUhobFJGRzNGQXdONUsyT0ZzT2ZjMk9mMTZObHl0bU8xVExmeXJ2RlVqZGNMeVRCTVTSAeQBQVVfeXFMUFp1WEp5d0dqM1d6cWVXd1pGUHpMeE4yclpfVUhSckZxa2VrR3VoMV9TZnMxUFAzMlR3a0IwdUYyb28xNFRnTTdtcFdkQ1hQQ1ptMlpNcnFfMnBsd1RhQ3ROTjkxVkU2Y21EcW92OUhzTjJLSFRnUGs4TGV2ZWMwa04zMHpCc1c4emR6bGpwMGV0MndCX0FSTmd5eFlRd19HUzlsd0JDX0pYdjFJRHctRWs3V0FIaGxSRkczRkF3TjVLMk9Gc09mYzJPZjE2Tmx5dG1PMVRMZnlydkZVamRjTHlUQk1U?oc=5",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04"
+    },
+    {
+      "id": 1147,
+      "titulo": "Ecopetrol desvincula a exjefe de staff de Ricardo Roa por reuniones secretas vinculadas a corrupción",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-21",
+      "descripcion": "Ecopetrol desvinculó a María Andrea Vargas, exjefe de staff de Ricardo Roa, luego de conocerse que la veterinaria de su familia habría servido de fachada para coordinar reuniones secretas de la cúpula de la empresa relacionadas con presuntos actos de corrupción bajo la administración anterior.",
+      "evidencia": "Reportado por semana.com",
+      "fuentes": [
+        {
+          "nombre": "semana.com",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXJjWmFhVzd1blRieWdUdTZUcUdiOTV1Tk1VdU9mUWVoblhNa3EzTmFqeW1DYTVKVDJlenNIVm1Kd1NnYVdmSE41YUpVcTFTYWRPNl9yZno5ZFJXekNfVnEtXzF1dHN4NlFpWGowdnBpM21CbjNjdkdGeTBnMDJLdkxjbDNTR1VlRFhyNTNkMjZDYmZNMjJ5ZzQ5NS13VmJZdWwyb2YwYUt2WS1XNnpPcVpxSi1QT2xwbjhqSDhNWWtZUE1Wbm9wNk82MWN2dEhob2pTTlIwODBqdzM5WXMwTWdsSl9hRjgzLUZkaGVFN2NBbUlDdnp0c3pQTHZjQk16TmNsdzUzLXg2Wm53YWFkVFRkTUpSWlM5SGtoOUdSRXfSAaYCQVVfeXFMTnpTYTVfOHNoRmM0akY0VGY0ZW9ITV8zUjBnNTJNUWhGWjhxdUJLbHhvSHRiSWQ2WDBpaXZLOS12X283NEw4emFscUVYcTNpLTVmcUJ6dUxuSHNhM1ZFS2FrRWItR0NHcTZVVUs2OFhkbzc1UUpZd2VoR2hvcERWdWdpOGhSTDZYZVBkOUE5TkpHMlBkWTBlX0o0Ul9PNjRTRUR4bm9qV1VCUzh4Y2hUMVN4TmRYempBMm9TTkRFN082MzhjZXNYMkZVNUw3Mk9Ccm11YV9rUWtrbWdLZ05wWHFWMzZ1Nk4xeEl1WTlJX2RYU080QTNIdWdXWHNZWmdJT1NLbVNZbUIzaE1qM0YxWk94WFRqMTA4QzQ3TlgtSmxlN2J4djZ3?oc=5",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [
+        "María Andrea Vargas",
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-21 18:04"
+    },
+    {
       "id": 1146,
       "titulo": "Operativo militar captura a alias 'Bendito Menor', cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada",
       "categoria": "seguridad",
@@ -26487,7 +26832,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-21",
-    "total_casos": 1057,
+    "total_casos": 1072,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
