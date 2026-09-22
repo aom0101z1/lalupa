@@ -221,6 +221,189 @@
   ],
   "casos": [
     {
+      "id": 1189,
+      "titulo": "Informe de la FIP advierte que Colombia solo dispone del 46% de su capacidad militar operativa",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "Un informe de la Fundación Ideas para la Paz (FIP) señala que Colombia cuenta con disponibilidad de solo el 46% de su capacidad militar para operaciones, y plantea la necesidad de que el país deje de reaccionar a cada crisis de seguridad y avance hacia una planeación militar de largo plazo bajo el nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/colombia-tendria-disponible-solo-el-46-de-su-capacidad-militar-para-operaciones-advierte-informe-de-la-fip-3587944",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fundación Ideas para la Paz (FIP) / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1188,
+      "titulo": "Capturan a cuatro militares retirados por red de tráfico de material de guerra",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "Autoridades capturaron a cuatro militares retirados señalados de integrar una red dedicada al tráfico de material de guerra. Según la investigación, las armas y municiones eran extraídas de diferentes unidades militares y posteriormente transportadas hacia el oriente del país para su comercialización ilegal, en un operativo reportado el 22 de septiembre de 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/capturan-a-cuatro-militares-retirados-senalados-de-integrar-una-red-de-trafico-de-material-de-guerra-3587878",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1187,
+      "titulo": "Tribunal de Cundinamarca mantiene competencia sobre demanda contra modelo de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-09-22",
+      "descripcion": "El Tribunal Administrativo de Cundinamarca ratificó su competencia para estudiar la demanda presentada contra el modelo de contratación de pasaportes implementado durante el gobierno Petro, manteniendo abierto el proceso judicial sobre presuntas irregularidades en la adjudicación del servicio.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXRPaGtmblFpOGxwU0tjOU1PWUluRHQwVEtyczlDak02WERzVE14RUItdlhrbDZpeFR0SFU0dE1CXzlZYUl3alBHTFNwQjVPRzNPdDdtMWJiQ09ia2VoWEc3QzJFeGZNTHZpZW02TVRxSjZEVTV3Q2tIb1NFVmlsdjZla080eW5RQkxua3g3OGFrOGdZMEcyeEo5TlhPLWlvYURibVVZdE1HWE9HekMwYjZGOXJVLUpxeENqZk5RNWVFNi1XLU1jUnRVemvSAdoBQVVfeXFMTjdJZUJqbzd4ckQ4Rms3dWtOR1BUZ0x4ZnB1N2ZzMjVucHM1SUNiTVp2b3pfdUltaDhsV19xUjdnOU94WE1UWmZnOHdIQWdPWjVXVGR2b29CQXdzOGE1Tjg0N2d2c2hRS0xjdUZFZ2hsOGV0NzZDYV84T0o2dVZmbDJnQ1dlZGY4VnQ0dFBFcmFGcUk3X1FIaVlkeFptZUZHOXRmM0NzcEJDa2s0TFE2M0xsaG5ucXR1azFsV2RDZmt6TkhPNzdRLWVtYjVSeEhkejh2Q0Z2b0E3UWc?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Tribunal Administrativo de Cundinamarca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17"
+    },
+    {
+      "id": 1186,
+      "titulo": "Fuerza Pública rescata a secuestrado del Eln en Cúcuta",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "La Fuerza Pública rescató a un hombre que había sido secuestrado por el Eln en Cúcuta, Norte de Santander. El presidente Abelardo De la Espriella anunció el operativo la noche del 21 de septiembre de 2026, como parte de los resultados de seguridad de su gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fuerza-publica-rescato-a-un-hombre-secuestrado-por-el-eln-en-cucuta-norte-de-santander-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella-3587856",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fuerza Pública / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1185,
+      "titulo": "Pnud estima daños físicos del terremoto en Chocó en $42,1 billones",
+      "categoria": "dineros",
+      "fecha": "2026-09-22",
+      "descripcion": "El Programa de las Naciones Unidas para el Desarrollo (Pnud), a través de su representante en Colombia, Claudio Tomasi, estimó en $42,1 billones los daños físicos causados por el terremoto en Chocó. La cifra es preliminar y no incluye pérdidas económicas ni impactos humanos, lo que dimensiona el reto de la reconstrucción en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/terremoto-en-choco-danos-fisicos-ya-se-estiman-en-42-1-billones-segun-el-pnud-3587843",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Claudio Tomasi"
+      ],
+      "entidad": "Pnud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "neutro"
+    },
+    {
+      "id": 1184,
+      "titulo": "MinTIC lanza estrategia contra reclutamiento digital de menores",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "El Ministerio de las TIC, bajo el gobierno De la Espriella, anunció una estrategia para frenar el reclutamiento de menores por grupos armados a través de redes digitales. El plan usará inteligencia artificial y revisión humana para detectar contenidos relacionados con reclutamiento armado, y habilitó la Línea 141 del ICBF para denuncias.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/no-le-abras-la-puerta-gobierno-de-la-espriella-lanza-estrategia-para-frenar-el-reclutamiento-digital-de-menores-en-colombia-3587921",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de las TIC / ICBF",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1183,
+      "titulo": "UNP retira esquemas de seguridad a exfuncionarios del gobierno Petro",
+      "categoria": "transparencia",
+      "fecha": "2026-09-22",
+      "descripcion": "La Unidad Nacional de Protección (UNP), en el marco de una revisión de esquemas de seguridad iniciada a finales de agosto de 2026 por la administración de Abelardo de la Espriella, retiró escoltas y camionetas a una lista de exfuncionarios del gobierno de Gustavo Petro, como parte de una política de racionalización del gasto en protección estatal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/lista-de-exfuncionarios-del-gobierno-de-gustavo-petro-a-quienes-la-unp-les-retiro-sus-esquemas-de-seguridad-con-escoltas-y-camionetas-3587932",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1182,
+      "titulo": "Habilitan puntos de reclamo de subsidios para damnificados en Risaralda",
+      "categoria": "damnificados",
+      "fecha": "2026-09-22",
+      "descripcion": "Autoridades habilitaron puntos de atención para que los damnificados por el terremoto del 10 de agosto en Risaralda puedan reclamar los subsidios de vivienda y ayuda humanitaria asignados tras la emergencia. Se especifican los lugares y requisitos para el trámite, en el marco de la reconstrucción de la región.",
+      "evidencia": "Reportado por alerta.com.co",
+      "fuentes": [
+        {
+          "nombre": "alerta.com.co",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlo5Qm4zLWtLbm52eDZ5cHM0OVpKN3NYX1FMT3pUdEs5d0RST3E0ZjhBSzBKbHZPdjFLOFNnSmxDcXI2MFN0dkV4a3hYX1dlakZYbl9jZFJMWjlDZWlOZVNfcks2T0tmX1AtX1pkUG9aekFVSm9vQlFGcFpJa1g1bTJ1eEZKOUVMQVJLdUs3cHpkWXRHcU9uTmZB0gGaAUFVX3lxTE5hb0tMVU4wTGI4Q1hPSGtFMjFTWklpTXBSM0lwM3BWZmJyMk5MRElkUzZxNldCYzV6OVRoRFhWT0M4X29KS1JvTy1OUnFzVk1tU3hvZ3A1cU9aRzMtOHRJXzhfbjZGMVdMV3hVUEIxM2t6QTduSEY0alVFWGRPejdUR3VGaHd5czVJU0M2NVphZmNVU1lMSVpGRWc?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda / Alcaldía de Pereira",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 16:17",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
       "id": 1181,
       "titulo": "GPS de camionetas de Sandra Ortiz revelaría traslados de dineros de la UNGRD hacia casa de Iván Name",
       "categoria": "corrupcion",
@@ -27306,7 +27489,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-22",
-    "total_casos": 1092,
+    "total_casos": 1100,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
