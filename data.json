@@ -221,6 +221,314 @@
   ],
   "casos": [
     {
+      "id": 1202,
+      "titulo": "Colombia busca certificación OTAN para unidades del Ejército",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "El Ejército Nacional inicia un proceso de evaluación de cinco días en Tolemaida, donde 34 evaluadores de 15 nacionalidades verificarán 1.252 tareas ejecutadas por unidades de Infantería e Ingenieros, con el objetivo de que Colombia se convierta en el primer país del continente con unidades militares avaladas bajo los parámetros de la OTAN.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/colombia-busca-ser-el-primer-pais-del-continente-con-unidades-del-ejercito-avaladas-bajo-parametros-de-la-otan-3587992",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / OTAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1201,
+      "titulo": "De la Espriella ordena militarización de Santa Marta tras ataques atribuidos a las ACSN",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "El presidente Abelardo de la Espriella condenó ataques terroristas ocurridos en Santa Marta, atribuidos a las Autodefensas Conquistadoras de la Sierra Nevada (ACSN), y ordenó la militarización de la ciudad. El mandatario anunció que viajaría a la región en las próximas horas y afirmó que 'los ciudadanos no se arrodillan ante el terror'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-condena-ataques-terroristas-en-santa-marta-y-ordena-la-militarizacion-de-la-ciudad-los-ciudadanos-no-se-arrodillan-ante-el-terror-3588067",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1200,
+      "titulo": "Senadora denuncia que la JEP gastó más de $200.000 millones en eventos y defensa de exFarc",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-22",
+      "descripcion": "En medio del debate por el presupuesto 2027 de la JEP, la senadora María Clara Posada denunció que la Jurisdicción Especial para la Paz destinó $209.904 millones a eventos y a la defensa jurídica de exmiembros de las Farc. La discusión se da mientras el Congreso evalúa un recorte de $100.000 millones al presupuesto de la entidad, que quedaría en $721.803 millones si se aprueba la reducción.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/jep-gastos-209-mil-millones-eventos-defensa-exfarc-LO41388223",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "María Clara Posada"
+      ],
+      "entidad": "Jurisdicción Especial de Paz (JEP) / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56"
+    },
+    {
+      "id": 1199,
+      "titulo": "Bombardeo militar deja 23 guerrilleros muertos; video de De la Espriella entre los cuerpos genera controversia",
+      "categoria": "seguridad",
+      "fecha": "2026-09-04",
+      "descripcion": "Un bombardeo del Ejército colombiano contra un grupo guerrillero dejó 23 muertos. En un video difundido en redes sociales, el presidente Abelardo De la Espriella aparece entre las bolsas que contienen los cuerpos, afirmando 'les prometí enfrentar el terrorismo y lo estoy haciendo', lo que generó reacciones divididas sobre el manejo de la operación militar.",
+      "evidencia": "Reportado por Eldiario.es",
+      "fuentes": [
+        {
+          "nombre": "Eldiario.es",
+          "url": "https://www.eldiario.es/internacional/espriella-pasea-cadaveres-guerrilleros-presumir-mano-dura-desata-indignacion-colombia_1_13488404.html",
+          "fecha": "2026-09-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Ejército Nacional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1198,
+      "titulo": "Dapre cotiza nueva moneda protocolaria presidencial con diseño de tigre",
+      "categoria": "gabinete",
+      "fecha": "2026-09-22",
+      "descripcion": "El Departamento Administrativo de la Presidencia (Dapre) abrió un proceso de cotización para adquirir al menos 100 unidades de una nueva moneda protocolaria del gobierno de Abelardo De la Espriella, que incluirá un diseño de tigre de ojos verdes y símbolos de la seguridad presidencial. Las unidades deberán entregarse antes de finalizar 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/dapre-cotiza-nueva-moneda-protocolaria-del-gobierno-de-abelardo-de-la-espriella-tendria-un-tigre-de-ojos-verdes-y-simbolos-de-seguridad-presidencial-3587964",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Dapre",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1197,
+      "titulo": "De la Espriella recibe a la presidenta de Costa Rica en Barranquilla",
+      "categoria": "internacional",
+      "fecha": "2026-09-22",
+      "descripcion": "El presidente Abelardo De la Espriella se reunió en Barranquilla con la presidenta de Costa Rica, Laura Fernández Delgado, quien se convirtió en la primera jefa de Estado extranjera en visitar al mandatario colombiano desde su posesión en Cali el 7 de agosto de 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunio-en-barranquilla-con-su-homologa-de-costa-rica-laura-fernandez-delgado-3588033",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Laura Fernández Delgado"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Costa Rica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1196,
+      "titulo": "Policía abate a 'Cholo', segundo cabecilla de 'Los Pachenca' (ACSN)",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "La Policía Nacional confirmó que fue abatido José Luis Pérez Villanueva, alias 'Cholo', señalado como el segundo al mando de las Autodefensas Conquistadores de la Sierra Nevada (ACSN), conocidas como 'Los Pachenca', y pieza clave en el brazo financiero de la organización, ubicado en la jerarquía justo por debajo de alias 'Pinocho'. El golpe se suma a la ofensiva del gobierno De la Espriella contra la cúpula del grupo paramilitar.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/los-pachenca-quienes-son-y-como-opera-ese-grupo-paramilitar-BB41379019",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "José Luis Pérez Villanueva alias Cholo",
+        "Fredy Castillo Carrillo alias Pinocho"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1195,
+      "titulo": "Vicepresidente del Senado tutela a Presidencia por manejo de fondos de fundación de la primera dama",
+      "categoria": "control",
+      "fecha": "2026-09-22",
+      "descripcion": "El vicepresidente del Senado debió interponer una acción de tutela para que la Presidencia entregue información sobre el monto y manejo de los dineros recaudados por la fundación de la primera dama destinados a atender a los damnificados del terremoto. El Dapre tiene ahora 48 horas para explicar el destino de esos recursos, en medio de dudas sobre transparencia en la gestión de ayudas.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/al-vice-del-senado-le-toco-entutelar-para-que-presidencia-le-de-informacion/",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Vicepresidente del Senado",
+        "Primera Dama"
+      ],
+      "entidad": "Dapre / Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1194,
+      "titulo": "Primera renuncia de protesta por medidas del gobierno frente a la comunidad LGBTIQ+",
+      "categoria": "gabinete",
+      "fecha": "2026-09-22",
+      "descripcion": "Se registró la primera renuncia de un funcionario en protesta por medidas adoptadas por el gobierno de Abelardo de la Espriella relacionadas con la comunidad LGBTIQ+, en medio de tensiones crecientes dentro de la administración.",
+      "evidencia": "Reportado por Las2orillas",
+      "fuentes": [
+        {
+          "nombre": "Las2orillas",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQclVtTEdGZ2NNbnB4MHp5VXRtWEdtQXREcnRXYzhTaEhQX3FLWWQtcHlvMmdwX1F2QXVCcTJZSWU1MmRvX3lTZml6ejRkd2pjUktsbl84T29tWUhrYVoxaWZGRHlPX3lGOHc2N0JrZWIxVXpzUUZxdy1VMWF1ZlpFOWdjUjc2V0ZUWU1WSlFra3pnV193UjVpVDAtWjViYm1lUkk4Z1U3R0N6N1lmSXJRaUp6dnFldFZ2a0hPQVB3MXVFclpDLVM1eE41RQ?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1193,
+      "titulo": "Senadora denuncia pagos de $114.202 millones en contrato de arriendo de la JEP",
+      "categoria": "contratos",
+      "fecha": "2026-09-22",
+      "descripcion": "La senadora María Clara Posada, del Centro Democrático, denunció irregularidades en el contrato de arriendo de la sede de la Jurisdicción Especial de Paz (JEP), señalando que se han pagado $114.202 millones de pesos por dicho arriendo, suma con la que, según ella, se podrían comprar cinco edificios similares al que hoy ocupa la entidad.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/senadora-maria-clara-posada-denuncia-irregularidades-en-contrato-de-arriendo-de-la-jep-por-que-se-han-pagado-114-202-millones-de-pesos-3587980",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "María Clara Posada"
+      ],
+      "entidad": "Jurisdicción Especial de Paz (JEP)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56"
+    },
+    {
+      "id": 1192,
+      "titulo": "Esquemas de protección de exfuncionarios de Petro fueron reducidos, no eliminados",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "El ministro del Interior, Rodrigo Lara, confirmó que los esquemas de seguridad de algunos exfuncionarios del gobierno Petro fueron reducidos, pero no eliminados por completo, contradiciendo versiones previas. Señaló que la Policía debe priorizar el combate al crimen sobre la protección de personas cuyo nivel de riesgo ya disminuyó.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/ministro-rodrigo-lara-confirma-que-los-esquemas-de-proteccion-de-algunos-exfuncionarios-del-gobierno-petro-fueron-reducidos-pero-no-eliminados-3588022",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio del Interior / Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1191,
+      "titulo": "Gobierno revoca designación de Salvatore Mancuso como gestor de paz",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "El gobierno de Abelardo de la Espriella revocó la designación de Salvatore Mancuso, exjefe paramilitar, como gestor de paz, figura que le había sido otorgada durante el gobierno de Gustavo Petro dentro de la política de Paz Total.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMlI3aERUN01PbVZFdWJrdEJ2dnFKZnBSclk5Z1g5V0swbmptSmFPb0E0Rk5iWGlDQWNXWS1uWTg2OERsYUVoOWNsR1dleDl6aVZ1S2h5SWYtWWxWQTZpaGRweGUyUHVCYk9wSGZjRm84TUlnbnQwZ1BRYU9tTlB0UXl1YlAzLVYzLWZLMWloeVJMcG14dkRSR0JoZjRQNVJBUEtfMWlwUEc3Ti1BbWozWlBQRjNyUDB6TThKbW9sMHczX1RYaUxKOGJRbS1FV1Q4dENKNmczV2ZZYVpP?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Salvatore Mancuso"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1190,
+      "titulo": "Ricardo Roa envía carta a la Fiscalía antes de acusación por financiación de campaña Petro Presidente",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-22",
+      "descripcion": "Ricardo Roa, expresidente de Ecopetrol, envió una carta a la Fiscalía días antes de la audiencia de acusación en su contra, relacionada con presuntas irregularidades en la financiación de la campaña 'Petro Presidente' de 2022. Esta comunicación se suma al proceso judicial que ya tiene fijada audiencia de acusación para el 30 de octubre por el caso Ecopetrol.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcl9sQktDNGMyMWdMaDN1ZzNvbVVNZl9HZXFnV3F4eXhzN191LUJnMTNqYmRUYTVZR2dBWmUydF9jVmFmbHdxUHg0Mnk5VlJsMVVYX18tN1g1TzRGelYxZHNsM3I0TUYxcVpuSjVHQTJPQnVITUZFZlJGV2xETzBMbFNwZzFpX2ZzU0hvTVoxYnhYeWs5SmtEWmR4QTAtbGZURFNMdllfa1BER3RHb3c1VGJITGVFbVBRbDdJenNwc2JWc3B6SkRxTTdvczBiZVZyb2R1M2RHcFdSS0pCdl9ZeHl1MUlrQkxBMkNFSjZUek5lcEExVUZzcXZWZ9IB-wFBVV95cUxOcl9sQktDNGMyMWdMaDN1ZzNvbVVNZl9HZXFnV3F4eXhzN191LUJnMTNqYmRUYTVZR2dBWmUydF9jVmFmbHdxUHg0Mnk5VlJsMVVYX18tN1g1TzRGelYxZHNsM3I0TUYxcVpuSjVHQTJPQnVITUZFZlJGV2xETzBMbFNwZzFpX2ZzU0hvTVoxYnhYeWs5SmtEWmR4QTAtbGZURFNMdllfa1BER3RHb3c1VGJITGVFbVBRbDdJenNwc2JWc3B6SkRxTTdvczBiZVZyb2R1M2RHcFdSS0pCdl9ZeHl1MUlrQkxBMkNFSjZUek5lcEExVUZzcXZWZw?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-22 20:56"
+    },
+    {
       "id": 1189,
       "titulo": "Informe de la FIP advierte que Colombia solo dispone del 46% de su capacidad militar operativa",
       "categoria": "seguridad",
@@ -27489,7 +27797,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-22",
-    "total_casos": 1100,
+    "total_casos": 1113,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
