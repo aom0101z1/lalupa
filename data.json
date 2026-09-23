@@ -221,6 +221,96 @@
   ],
   "casos": [
     {
+      "id": 1222,
+      "titulo": "Colombia se retira de su calidad de Estado interviniente en caso Sudáfrica vs. Israel ante la CIJ",
+      "categoria": "internacional",
+      "fecha": "2026-09-22",
+      "descripcion": "La Corte Internacional de Justicia (CIJ) y la Cancillería colombiana confirmaron que Colombia solicitó oficialmente retirarse de su calidad de Estado que interviene en el caso presentado por Sudáfrica contra Israel. La decisión, tomada la semana previa al anuncio del 22 de septiembre de 2026, marca un giro en la política exterior del gobierno de Abelardo de la Espriella respecto a la postura que mantenía el gobierno anterior sobre el conflicto en Gaza.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cij-confirma-retiro-de-colombia-de-su-calidad-de-estado-que-interviene-en-el-caso-de-sudafrica-contra-israel-3588021",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia / Corte Internacional de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 10:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1221,
+      "titulo": "Gobierno ordena plan conjunto para anticipar efectos de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-23",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó la elaboración de un plan conjunto entre entidades del gobierno nacional para anticipar y mitigar los efectos del fenómeno de El Niño en Colombia, en el marco de las medidas preventivas frente a la crisis climática anunciada.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGVrblNFb0VoUVFOdTViSUlLeENHTUs2ZjdoRVBnZE9jYkZqWnAzZTBUc1pGZmJZY3FLcjdWS2Y5VzVRYm8xWGZ4aWsxdTVDVHZEVm9QZDlIeGtsMXFaNTduUHNRMTUxZktSR29FZ1RyNW13b3VMUTQwUi1tVFV1R1VzNWEwa3lkS3JfeXdvbXJPcF9VbU9jZTZsZksxVE1xWjFGTktxTlFtUDI3dlVkSjFpMEk4WDRKa0NIdS1Zb2lqUF81YnfSAeABQVVfeXFMT01ZaTJ5dUJXdzA1blJZM3dkb2FZWG4yX1Mtb1lJMXNrek1LbTcyUGJGNFI2bUdVX1paeWVHb3dmazdBOUtDNE50YWNVa1RQYkV5MGFsQXcwdEh3dXd5b3N1QWd6eVNUYzV2dVV1QmVxc1hkUXZIVmIxS0JqaG82NnhOaUQ1LVFWN1lPRnFiMklFSHg4d3Jwa0JGOWhxZndVeXgzUmdsQ01TZ1laWFAyQkxUS3REOGNXOWJVSGctWlprNzI2S1hpUDdDQ0xXdTZaVW81MGJQQkpmOU1kTDNDSDE?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 10:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1220,
+      "titulo": "Presupuesto 2027 propone recortar subsidios a los pobres en 40%",
+      "categoria": "economia",
+      "fecha": "2026-09-23",
+      "descripcion": "El proyecto de Presupuesto General 2027 presentado por el gobierno de Abelardo de la Espriella reduce los subsidios de $22 billones a $13 billones, una caída del 40%, justificada en el esfuerzo de austeridad fiscal y en inversiones amarradas heredadas del gobierno Petro.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/presupuesto-de-abelardo-pide-cortar-subsidios-a-los-pobres-en-40/",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 10:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1219,
+      "titulo": "Gobierno reinstaura requisito de planilla para taxis",
+      "categoria": "economia",
+      "fecha": "2026-09-21",
+      "descripcion": "El gobierno de Abelardo de la Espriella estableció que los taxis deberán volver a contar con una planilla gratuita para poder circular en varias ciudades, restableciendo un requisito que había sido eliminado previamente. La medida busca regular el servicio de transporte público individual.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ0lrZFc3RmZfaHZXWEZlNkw2UzQtZGxNd2FoeDN3WXN5c2NlRTRTN2dZMl9BZjdULWZFMVYzUy1YUG1NMDFDa3ozaF90Z1hHWkYyWWs2b0IxWG0wT3MzMFh5WGVsU1ZuaTBiZjk1MGRMdkE0OFF4MUxMMkp1NUxFS242bVFNcnRVUjZQdFZmMVJrbEZ5WG5kaFl4Tkk1S01aZy1nanVvR3hnUTB2ajFURWNVWHF2WGdtVXFhOHJlRGN3VEYtNGFESU5QSDl3NUhBVXfSAdcBQVVfeXFMT1hlY09tcUZSdlp5QVQxdnpTaGFzdGFGeDhxVHpGbVB5cHpBRExGZzREUHVuU2FzcXhDVzZkeThyQVQ3QkJEZU9zbFhNSktpLVp2ZHd3S2pGM3FFcXVGR25kUjN0YjI3T29nd2JRaEFQYzdQRXNYalgwRlVjZHc2VmpQRkNzNmVuNmd2SnJEc2pKX1BZc1BYSkpweklYWC1ESkh0cFoyOWVqZ3BYS2cxMmlZZXU4T1lKVzM3MnZpU2RMVXFMY1p2NExVUDNzOWFDWFE2SWRaQUU?oc=5",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-23 10:47",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1218,
       "titulo": "Ponencia del Presupuesto 2027 recorta $170.000 millones a la JEP",
       "categoria": "economia",
@@ -28175,7 +28265,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-23",
-    "total_casos": 1129,
+    "total_casos": 1133,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
