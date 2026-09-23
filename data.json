@@ -221,6 +221,377 @@
   ],
   "casos": [
     {
+      "id": 1246,
+      "titulo": "Vicepresidente Restrepo presenta balance de su primera jornada en la ONU",
+      "categoria": "internacional",
+      "fecha": "2026-09-23",
+      "descripcion": "El vicepresidente José Manuel Restrepo entregó un balance de su primera jornada en la Asamblea General de la ONU, destacando el mensaje de Colombia ante la comunidad internacional.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQ3dXYk84SFAzbUJQdzhPbnlTUnBUZm1yU09ibW1CdUJTSkpzMDV2ZnNCMXp1QkJWMHVXMW1JNkhfREhEdlgzMFZCNkczekl6WWNsV0NwNUxrUFdZeUozSkpPU2hUOS1kamdDWlBXNkk2REhmcWRmZmJmblhyQ0ZwQWUtUmtoS25TbXZsbUtMZ184Y21Tdjl2NlJPeGZFTWtfOHFNdGFBdVk2T1ctaTl0WmxoYkhCZUFXekFVV09DSlRQbUtHX1E0Und6cE9qSEhSQ29MTkRTTzBKaHMwWm51akZmZ0tWQ3pNT2NkY1pXQnRFX2wzcFI0ajRmQ29KSGV3VjR3WG5SMUFITW5sOUowTWVHelBlc0JGN2dJTGduONIBugJBVV95cUxOaUtCSXpxMktHLS1LZndZcmNOS0d6NmtMSnVNMUtWblJ0VGtmTVZSYkd1c0FrWTFBdkpXMVVKdXEyeU42ZHI0TEZycXNZbG5EdUJQSVoxU2x4ZzZUMUNHLXU2ZW4yUFVsY09aQ2pLRDZPYmdUWXl0b20wQ3plLXNJQWp6dDAzRmY0c0RQM3YyaEZxRzhpXy13d05jNExhcG9OQUFGTU9Ua1c2YkViUExkdjBlUHh3dGhWRUZkMy0xaWR1eDVGamRKQ0JJdnpzQnlDOW5vdnB6NmV5SmpnOWRjdUpnYnVmcmhvVXJPeFExV016cWt1T0V6UGdXMlFXUXFNYnBjdXYwQjFCZENmdnR3RFYyOVprcEFMWVN3bGQ4elNPSnlLZmpnYkVxV3FjUXFpNFpySWVTd1R2UQ?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República / ONU",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1245,
+      "titulo": "Capturan en Medellín a presunto cabecilla de 'Cota 905' vinculado al Tren de Aragua",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Cleiver Rondón Gutiérrez, requerido por Venezuela mediante notificación roja de Interpol por terrorismo, secuestro y extorsión, fue retenido en Medellín por su presunta vinculación con la organización 'Cota 905', asociada al 'Tren de Aragua'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/retienen-en-medellin-a-presunto-cabecilla-de-cota-905-organizacion-vinculada-al-tren-de-aragua-3588317",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Cleiver Rondón Gutiérrez"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1244,
+      "titulo": "Senado hunde moción de censura contra ministro de Defensa por bombardeo en Guaviare",
+      "categoria": "gabinete",
+      "fecha": "2026-09-23",
+      "descripcion": "El Senado rechazó la moción de censura presentada contra el ministro de Defensa, Jorge Eduardo Mora, por la muerte de tres menores en un bombardeo militar en Guaviare. La semana anterior el ministro de Vivienda, Jaime Andrés Beltrán, también superó una moción similar.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/senado-hunde-mocion-de-censura-contra-el-ministro-de-defensa-jorge-eduardo-mora-por-la-muerte-de-tres-menores-en-un-bombardeo-en-guaviare-3588319",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eduardo Mora",
+        "Jaime Andrés Beltrán"
+      ],
+      "entidad": "Senado de la República / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1243,
+      "titulo": "MinHacienda pide incidente de impacto fiscal sobre reforma pensional",
+      "categoria": "economia",
+      "fecha": "2026-09-23",
+      "descripcion": "El Ministerio de Hacienda solicitó a la Corte Constitucional abrir un incidente de impacto fiscal sobre la reforma pensional, mientras Colpensiones pidió extender la entrada en vigencia de los artículos aprobados hasta el 1 de abril de 2028.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/minhacienda-pidio-abrir-incidente-de-impacto-fiscal-sobre-la-pensional/",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1242,
+      "titulo": "Gobierno anuncia mesa técnica con comunidades antes de iniciar piloto de aspersión aérea",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "El representante a la Cámara Diego Zambrano informó que el gobierno realizará una mesa técnica con autoridades y campesinos en Putumayo antes de iniciar el plan piloto de aspersión aérea, en el marco de la política antidrogas del gobierno De la Espriella.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-escuchara-comunidades-antes-de-arrancar-piloto-de-fumigacion/",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Diego Zambrano"
+      ],
+      "entidad": "Gobierno Nacional / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1241,
+      "titulo": "Balance a un mes del terremoto: muertos, desaparecidos y promesas",
+      "categoria": "damnificados",
+      "fecha": "2026-09-09",
+      "descripcion": "Un mes después del sismo de magnitud 7.4 que golpeó Colombia, medios internacionales documentan cientos de muertos, miles de heridos y daños en 16 departamentos, evaluando el cumplimiento de las promesas de ayuda del gobierno a los damnificados.",
+      "evidencia": "Reportado por El Financiero",
+      "fuentes": [
+        {
+          "nombre": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/09/09/escombros-desaparecidos-y-promesas-asi-se-ve-colombia-a-un-mes-del-terremoto-de-74/",
+          "fecha": "2026-09-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Autoridades locales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1240,
+      "titulo": "Juez fija condiciones para avanzar con piloto de aspersión con glufosinato",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Un juez estableció cinco requisitos que el gobierno de De la Espriella debe cumplir para avanzar con el plan piloto de aspersión de narcocultivos con glufosinato, en el marco de la estrategia contra las 261.000 hectáreas de coca registradas en el país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/los-5-requisitos-que-el-juez-le-puso-al-gobierno-de-de-la-espriella-para-avanzar-con-el-piloto-de-aspersion-de-narcocultivos-con-glufosinato-3588280",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Juzgado de Mocoa / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1239,
+      "titulo": "Incautación de una tonelada de cocaína en el Meta ligada a disidencias de 'Calarcá'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Autoridades incautaron casi una tonelada de cocaína, avaluada en más de 45 millones de dólares, que era transportada en una chalupa por un corredor fluvial de Puerto Concordia, Meta. La droga estaría ligada al bloque 'Jorge Suárez Briceño' de las disidencias de alias 'Calarcá'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-casi-una-tonelada-de-cocaina-en-el-meta-droga-estaria-ligada-al-bloque-jorge-suarez-briceno-de-las-disidencias-de-calarca-3588331",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1238,
+      "titulo": "Avance lento en nombramientos diplomáticos del gobierno De la Espriella",
+      "categoria": "gabinete",
+      "fecha": "2026-09-23",
+      "descripcion": "A la fecha, el gobierno de Abelardo De la Espriella ha realizado 11 designaciones en embajadas, mientras 19 jefes de misión permanecen en funciones sin estar confirmados, según reportó El Tiempo, generando dudas sobre la representación diplomática de Colombia en el exterior.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/asi-le-ha-ido-a-la-carrera-diplomatica-en-los-primeros-nombramientos-del-presidentre-de-la-espriella-en-el-exterior-hay-o-no-hay-representacion-3588327",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1237,
+      "titulo": "Estructura de extorsión de 'Los Pachenca' a comerciantes en Santa Marta",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Un informe de la Fundación Ideas para la Paz (FIP) documentó la magnitud económica de la extorsión ejercida por las Autodefensas Conquistadoras de la Sierra Nevada (ACSN), conocidas como 'Los Pachenca', contra el comercio en el corredor turístico entre Santa Marta y Palomino, bajo la modalidad de 'pagar o morir'. Se reportaron capturas adicionales en el marco de la disputa territorial con el Clan del Golfo (EGC).",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/pagar-morir-asi-es-extorsion-acsn-comercio-santa-marta-GA41413775",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fundación Ideas para la Paz (FIP) / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1236,
+      "titulo": "Allanan apartamento de exoficial de la Armada por disparo contra oficina de la Procuraduría",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Las autoridades allanaron el apartamento de un exoficial de la Armada Nacional, cerca de la sede principal de la Procuraduría en Bogotá, como parte de la investigación por un disparo de pistola 9mm registrado el 18 de septiembre contra las oficinas del Ministerio Público. Aún no hay elementos que confirmen un atentado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/disparo-oficina-procuraduria-allanan-apartamento-exoficial-armada-AA41414235",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Procuraduría General / Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1235,
+      "titulo": "Ofensiva contra 'Los Pachenca' deja 76 personas afectadas y muerte de segundo cabecilla",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "En el marco de la ofensiva militar contra las Autodefensas Conquistadoras de la Sierra Nevada ('Los Pachenca'), el presidente De la Espriella informó que 76 personas fueron capturadas o afectadas por la operación, que ya dejó la muerte de alias Cholo y siete integrantes más de la estructura armada en Santa Marta y Riohacha.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mapa-los-pachenca-santa-marta-riohacha-zonas-donde-operan-GA41419861",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerza Pública / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1234,
+      "titulo": "Gobierno cambia reglas de contratos sindicales en el sector público",
+      "categoria": "transparencia",
+      "fecha": "2026-09-23",
+      "descripcion": "El gobierno de De la Espriella anunció cambios en las reglas de los contratos sindicales dentro del sector público y fijó una fecha límite para su implementación, como parte de medidas de transparencia contractual.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEpYaVUtZWpGUy1uUHR1dnpxLVBKek54Y29IdS1BVjZJcE9TTjQwVEtBTU9Nc0VZRWNERnF1MWZqSkRmZUExR2o0V1NZNnktcnkyU1JSUXJqaUFzUHctaXlkbVdkdmE2Q3FJSFBMYnVVejJEZEkyZzFJWHB1YTR5TnBJQi1ZNUZGWXhFak84S3ltWjIyOHpfOFBaeXNNMDQyazhDMjZVOHI3dmJndk9LMU83M2RXSXlSak1fNUdHRVUwQ1FBZHRLQzhCT3VrLVJGTUw2YkZn0gHbAUFVX3lxTE0zRTFMcUNCOGlIbmhlaE1iRnpKTm1ZZ1RFd25YbEpjV2lvN1laTnVpdURnaXV1X3lDWmpWQlhwVHBYZVJNSHROcUVTOXpIOEg0TzQwUUdEMHpLR2VfZ1kwUVEwUll4WF9WeGcxNllEMERmZE1iRTRaTlNGNXVkdVpzdlRiekFEQ2FsenlwYm1tUjNUVUFjUmh5ampUMl9OeE1tNTN2WUNOSlBtMElMamVkVkdmOTZFRVBXaFpuNkg4azJld3M0cklqVUdRd1JVb1RPRm9jaTZ3QjlpRQ?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1233,
+      "titulo": "Ricardo Roa pone en arriendo su lujoso apartamento en Bogotá en medio de investigación por corrupción",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-22",
+      "descripcion": "El expresidente de Ecopetrol Ricardo Roa puso en arriendo su lujoso apartamento en el norte de Bogotá mientras enfrenta un proceso ante la Fiscalía por presunta financiación irregular de la campaña Petro Presidente, lo que generó especulación sobre su situación financiera.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZEQzQ0hPUlpZTy1YdWRQTVQwSXlpVFVSOFdJdkpKRVJDUTVJTjBqMXlKZjZFcW03WDhXeG5ZeVBCWl9qRE5WUnlLVnN1YWs0SnllcW9CWnFvc1FkWk1RMlVTRzBxMVkyUlllb01OSEVtMnl0ampRR001SEdOWDJoV21kRXJDcWpZeVc3MlRkQlQwQ09MMV9jZXg5a0JBUVMyM3VHam5ZV090dzZHNHdyblNCM3ZJUFVGLVFlVUxqeF94cjVudWVWUVlqMGFUQkJPZFZHaUtaYjE2RWVlSVh4V000Z0l1cUVDZkNhYnlvUG9FVVhzMk5OeHRkcEplRmQ5M19HX2UzbEluNVhiRGZlclYxQjBpdzV6WWI1Z2VGNWhtTTNp0gG_AkFVX3lxTE5fajlpZlZFczJGY0JKMlp6bG9MUlhYdHNGV0xEdWloV1o3V1ZQUkdObmI4V3NMcjdpXzZTM1RkWE1SQ05VeHQ1UWxCUzBvLUFLaTI0SnduRGNwbi1xLXM4R2VfbC1vMURUakI2aDFOaE5vMUg2X29VWXhDM0I4QkV5Q3VrUUZycGdLaGpiT1QzdVdCbUFjby1MLVRTbEg1OFk3c0h0THoySWpXUGFrbk50LWhRcmFhcTFWc0pVcURMYWFNN0hOYlJVMUh5SWhJc3N4LXU5REwtNFdKVEJzTTlHNjR3Mjk1Q0Zfc295dFFHNXB1d3R2dExYNG04Y2hESXVDVDFmWHhkM2pnN1FlMGpqVXVyTm9sZzg1WU1nd0xvMUhwU3UySHluSHphVlRYVlRPSmVNY05rS1pUOV94WUU?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07"
+    },
+    {
+      "id": 1232,
+      "titulo": "Gobierno autoriza extradición de alias Allende y Larry Changa, cabecilla del Tren de Aragua",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "El gobierno de De la Espriella autorizó la extradición a Estados Unidos de alias Allende, requerido por la Corte Distrital de Texas por narcotráfico, y de Larry Changa, cabecilla del Tren de Aragua, en el marco de la política de mano dura contra la criminalidad transnacional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-autoriza-extradicion-alias-allende-larry-changa-estados-unidos-ED41427605",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Allende",
+        "Larry Changa"
+      ],
+      "entidad": "Presidencia de la República / Justicia de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1231,
+      "titulo": "Defensa de Eva Ferrer denuncia amenazas tras revelaciones sobre Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-23",
+      "descripcion": "La defensa de Eva Ferrer denunció amenazas e intimidaciones luego de revelaciones que vinculan a Verónica Alcocer con presuntos actos de corrupción durante el gobierno Petro. El caso se suma a las investigaciones sobre el entorno cercano al expresidente.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNU1JfWEkxcUlJVzFKQkJLdEZBOHN4QzVON0VWdEZYdVBmOWs5TW5hdkx6MFVmSHNEajRKUnRVUzNJdlBxNVB2TDZjaE40UDNLNml0T1gyZ3FxNzVlODJFYUxLdFpISVMtaDNJc280dnFSUjNUQmtrVnF0QlMtdEhhVk9oUTBmaUxwN2ZUemhkV25QaV9wY2dWaUZ1Qi04YVhFaXYyN25WYnR0bkozV1h0d1l3Y3ZIR3kyc1RYS0lDUVd1RDloWXlDeHJ3WTFNYjVEVEpoYUJIOHg3dmdfUkdXakNVMURQeFlFcmdMNkJjbkRabGx3NDJzZl9fQTdsRS03aWZDRkpwUXJYNjZ1WmswMXBJNWttSlBKVXFEbXR0ONIBugJBVV95cUxOcnVmTWRQTEFSWThucXVNWXRPVDBTNFdJb3BBUWlfazBSc3ZnM0tDSEJyTmdkc0xVNlJIQm1FRnVKVGNVaFVYUWpxSmVMZjQ1Mjd5blVaUnQ0N3BMcHdxMExBbW13Y1ZpcHRmUUhxNHNBT0Nlc2hXd1gyVnU3V0w5ckVCWF9RdXhZZ2lsUVJsRlE2NzV0RGZYQkJfbjFJMV9YUXZ3ajE4SXg3M01jS21tdmwzS0tBNEpqbVNKVjhrVVVIYmFadDR1aE93OXVDQjFtWnNySVlySWJ0b2dGekRMTW9kX0dob0gwVDluMjgtaEpjMzc0OElpbjlfdTdsM1BWSGZFRVZqOG03NjVYQzZBOGEzZkFmSm8yalRsb0pfU1ctVUg1Ml9BSFBpYWJ5RDhNLXZXU2N5VF9Pdw?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 21:07"
+    },
+    {
       "id": 1230,
       "titulo": "Comandante del Ejército de EE. UU. revisa capacidades del Ejército colombiano en Tumaco y Tolemaida",
       "categoria": "internacional",
@@ -28451,7 +28822,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-23",
-    "total_casos": 1141,
+    "total_casos": 1157,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
