@@ -221,6 +221,192 @@
   ],
   "casos": [
     {
+      "id": 1230,
+      "titulo": "Comandante del Ejército de EE. UU. revisa capacidades del Ejército colombiano en Tumaco y Tolemaida",
+      "categoria": "internacional",
+      "fecha": "2026-09-23",
+      "descripcion": "El comandante del Ejército de Estados Unidos para el Hemisferio Occidental visitó instalaciones militares en Tumaco y Tolemaida para revisar las capacidades operacionales y el entrenamiento de las tropas colombianas, en el marco de la cooperación bilateral en seguridad bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ee-uu-pone-la-mirada-en-la-experiencia-operacional-del-ejercito-colombiano-en-tumaco-y-tolemaida-3588219",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Ejército de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1229,
+      "titulo": "Director del Dapre asume también como encargado de la ARN",
+      "categoria": "gabinete",
+      "fecha": "2026-09-23",
+      "descripcion": "Carlos Andrés Ríos, director del Departamento Administrativo de la Presidencia (Dapre), fue designado adicionalmente como director encargado de la Agencia de Reincorporación y Normalización (ARN), entidad que coordina la reincorporación de 15.441 personas desmovilizadas, entre ellas 11.000 excombatientes de las Farc.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/aparte-del-dapre-carlos-rios-sera-director-encargado-de-la-arn/",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Ríos"
+      ],
+      "entidad": "Dapre / Agencia de Reincorporación y Normalización (ARN)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1228,
+      "titulo": "Gobierno presenta nuevos resultados operativos contra las Autodefensas de la Sierra Nevada",
+      "categoria": "seguridad",
+      "fecha": "2026-09-22",
+      "descripcion": "El presidente Abelardo De la Espriella presentó nuevos resultados operativos de la Fuerza Pública contra las Autodefensas Conquistadoras de la Sierra Nevada (ACSN), en el marco de la ofensiva militar iniciada tras la muerte de alias 'Cholo', segundo cabecilla de 'Los Pachenca'.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcE1HLVVhUmRPRlRIejkwYXZHazJiSUlzUFdzZkU5NUJ4RVc5aDc2WUVETU4yOTQ3bjZMNUlCay14SjluZTVZOHl1NFhaamcxT2tvM2s3VTZ0TXJEU3pNNGhWbFUyZ2xRanZXT2s5VG9HT0hkZVJNWVlSZUVlVEMzZjZQTXozekhGakIwRVd6b0otUjFha1p3RllCNFYwUjVTWDdua0lYYmNfaThZcGIxYjJlbkdqSVZsRHZKXy1Eb1Fjd1E4TnFjOWZQei1jOGhQM0xseE9lTUwwNHNKUnRzNFpLMW5JaEd3dWtjQTlmTEpGZjdiNS1fYmtaZ05sRjN4Ym4zYjFDcUhlLWlyOExQVlpiMXY1X09tNWpQVDJCcllBZw?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fuerza Pública / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1227,
+      "titulo": "Déficit fiscal acumulado llega a $76 billones (3,9% del PIB) a julio de 2026",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-23",
+      "descripcion": "El Ministerio de Hacienda reveló que entre enero y julio de 2026 el déficit fiscal alcanzó $76 billones, equivalentes a 3,9% del PIB, cifra que se acerca al 6,4% del PIB con que cerró 2025. Los ingresos de la Nación en ese periodo sumaron $204 billones, evidenciando el deterioro fiscal heredado de la administración Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/deficit-fiscal-colombia-julio-2026-76-billones-JA41413192",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07"
+    },
+    {
+      "id": 1226,
+      "titulo": "Defensa de Ricardo Roa asegura a la Fiscalía que no saldrá del país",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-22",
+      "descripcion": "En medio de las investigaciones por el caso de financiación de la campaña Petro Presidente y el escándalo del penthouse 901, la defensa de Ricardo Roa, expresidente de Ecopetrol, envió un memorial a la Fiscalía asegurando que no tiene previsto salir del país y que continuará vinculado a las diligencias judiciales en curso.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0NTVFJkUlpYYWZJbHNOM2JNandyUlctOXB5ZmZpbHNRR0xYWFB4NTFORjE3QlQ3d0lVUG41YXh3bV83RFIzbWRSZllxZkFWUE8xbzdvUzFfWHVCY3IzRmNnMTBNVWNsZG9QbkczQmVDbXpCNmttU1I3eHQzczBpak8zX0taYlZZTHVkZDJreDZ0OHhwWW52T2UtR0lRTWZMdE9td2VtWEdjUDR4ckMzMVFuZVdrdVptZ05jRWFNYnlWWk55M0lJZk9yRVRJYkN4T3F5ZFhFcGNhMnQ4Qzl0WNIB4AFBVV95cUxQY0NTVFJkUlpYYWZJbHNOM2JNandyUlctOXB5ZmZpbHNRR0xYWFB4NTFORjE3QlQ3d0lVUG41YXh3bV83RFIzbWRSZllxZkFWUE8xbzdvUzFfWHVCY3IzRmNnMTBNVWNsZG9QbkczQmVDbXpCNmttU1I3eHQzczBpak8zX0taYlZZTHVkZDJreDZ0OHhwWW52T2UtR0lRTWZMdE9td2VtWEdjUDR4ckMzMVFuZVdrdVptZ05jRWFNYnlWWk55M0lJZk9yRVRJYkN4T3F5ZFhFcGNhMnQ4Qzl0WA?oc=5",
+          "fecha": "2026-09-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07"
+    },
+    {
+      "id": 1225,
+      "titulo": "Contrato de $630.000 millones de la 'nube soberana' entre ISA e Internexa bajo escrutinio",
+      "categoria": "contratos",
+      "fecha": "2026-09-23",
+      "descripcion": "La Junta Directiva de ISA revisó en agosto un contrato por 630.000 millones de pesos mediante el cual el Ministerio de Ciencia, bajo el gobierno Petro, encargó a Internexa (filial de ISA) el proyecto de 'nube soberana' de infraestructura de inteligencia artificial, ahora cuestionado por presuntas irregularidades en su adjudicación y ejecución.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/isa-internexa-nube-soberana-bionube-petro-carrillo-ecopetrol-CB41407371",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "ISA / Internexa / Ministerio de Ciencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07"
+    },
+    {
+      "id": 1224,
+      "titulo": "Contraloría halla inconsistencias fiscales por $66 billones en cierre del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-23",
+      "descripcion": "La contralora delegada para las Finanzas, Jenny Lindo, presentó ante la Comisión Legal de Cuentas de la Cámara un informe con inconsistencias por más de 66 billones de pesos en las cuentas fiscales del cierre del gobierno Petro, aportando cifras clave para el proceso de rendición de cuentas del empalme.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/contraloria-presenta-ante-el-congreso-las-inconsistencias-por-mas-de-66-billones-halladas-en-las-cuentas-fiscales-del-cierre-del-gobierno-petro-3588220",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Jenny Lindo"
+      ],
+      "entidad": "Contraloría General de la República / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07"
+    },
+    {
+      "id": 1223,
+      "titulo": "MinAgricultura denuncia despilfarro de recursos del agro durante gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-23",
+      "descripcion": "Ante la Comisión Quinta del Senado, el ministro de Agricultura Indalecio Dangond presentó un balance del sector agropecuario recibido de la administración Petro, señalando que pese a una asignación presupuestal récord de 22,6 billones de pesos -superior a gobiernos anteriores- hubo despilfarro de recursos bajo las ministras Cecilia López, Jhenifer Mojica y Martha Carvajalino.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/minagricultura-denuncia-despilfarro-recursos-agro-gobierno-petro-EA41413575",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Indalecio Dangond",
+        "Cecilia López",
+        "Jhenifer Mojica",
+        "Martha Carvajalino"
+      ],
+      "entidad": "Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-23 16:07"
+    },
+    {
       "id": 1222,
       "titulo": "Colombia se retira de su calidad de Estado interviniente en caso Sudáfrica vs. Israel ante la CIJ",
       "categoria": "internacional",
@@ -28265,7 +28451,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-23",
-    "total_casos": 1133,
+    "total_casos": 1141,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
