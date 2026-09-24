@@ -221,6 +221,232 @@
   ],
   "casos": [
     {
+      "id": 1256,
+      "titulo": "Estados Unidos descertifica a Colombia en lucha antidrogas mientras certifica a Venezuela",
+      "categoria": "internacional",
+      "fecha": "2026-09-23",
+      "descripcion": "El gobierno de Estados Unidos, bajo la administración Trump, certificó a Venezuela y descertificó a Colombia en materia de cooperación contra el narcotráfico, una decisión que marca un giro en la política exterior estadounidense hacia la región y genera tensiones diplomáticas para el nuevo gobierno de De la Espriella en su relación con Washington.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/venezuela-si-colombia-no-el-juego-de-las-certificaciones-de-trump/",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Donald Trump"
+      ],
+      "entidad": "Gobierno de Estados Unidos / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1255,
+      "titulo": "Hallan 100 kilos de explosivos del Eln en Santander destinados a atentar contra visita presidencial",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Una operación del Ejército, la Policía y con apoyo de mecanismos de cooperación con el FBI permitió hallar 100 kilos de explosivos del Eln en zona rural de Charta, Santander, que presuntamente serían usados durante una visita presidencial a Bucaramanga.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-100-kilos-de-explosivos-del-eln-en-santander-que-serian-usados-durante-visita-presidencial-a-bucaramanga-3588433",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Policía Nacional / FBI",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1254,
+      "titulo": "Disidencias de 'Mordisco' atacan a agentes del CTI que investigaban tráfico de combustible en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "El 'frente Jaime Martínez' de las disidencias de 'Iván Mordisco' atacó con explosivos y disparos a agentes del CTI que investigaban tráfico ilegal de combustible en el Cauca. El Ejército Nacional controló el ataque.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/disidencias-atacaron-con-explosivos-y-disparos-a-agentes-del-cti-que-investigan-trafico-ilegal-de-combustible-en-el-cauca-3588446",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "CTI / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1253,
+      "titulo": "UNGRD destina $3.000 millones para incendio forestal en Villa de Leyva",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-23",
+      "descripcion": "La UNGRD destinó $3.000 millones para reforzar la respuesta aérea ante el incendio forestal en Villa de Leyva, que ha afectado 1.340 hectáreas. Seis helicópteros entraron en operación para apoyar labores de control desde el aire junto a organismos de socorro en tierra.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/incendio-forestal-villa-de-leyva-iguaque-control-ungrd-HF41441530",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1252,
+      "titulo": "Operación militar contra disidencias de 'Calarcá' deja un muerto y fusiles incautados en Guaviare",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Una operación militar en zona rural de Calamar, Guaviare, contra el Bloque 'Jorge Suárez Briceño' de las disidencias de 'Calarcá' dejó un muerto y la incautación de cinco fusiles largos y 560 cartuchos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-militar-contra-disidencias-de-calarca-dejo-un-muerto-y-cinco-fusiles-incautados-en-guaviare-3588407",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1251,
+      "titulo": "Gobierno prepara medida para frenar llamadas de estafa desde las cárceles",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "El Gobierno de De la Espriella anunció que prepara una medida para frenar las llamadas de estafa que se originan desde centros penitenciarios del país, como parte de sus acciones contra la delincuencia organizada que opera desde las cárceles.",
+      "evidencia": "Reportado por Yahoo",
+      "fuentes": [
+        {
+          "nombre": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONG1KcjhNZVhDM2hKN3hpOG9uMkFFeElRY0l1bFRjajhLeXpwU1lGLTZ5UFk5UnBoYi1jVTMwRXFXd1J2bld0bWwtcHZqRUU2SmRvOVNudTBvenFwUGlTX0ZHR29FLUV4a092WjZCM0JjNjdvT2dkWmpZVmN6S3RMOEh6a0xvQUJVYkFGdEx5YS1OOXhiazBR?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Inpec",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1250,
+      "titulo": "Incautan drones y granadas improvisadas a disidencias de 'Mordisco' en Tolima",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "Una operación conjunta de Policía, Ejército y Fuerza Aérea permitió incautar drones y granadas improvisadas al Frente 'Gerónimo Galeano', estructura de las disidencias de alias 'Mordisco', en el departamento de Tolima. Como resultado de la operación fue capturado un presunto integrante de la estructura armada.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/drones-y-granadas-improvisadas-entre-el-arsenal-incautado-al-frente-geronimo-galeano-de-las-disidencias-de-mordisco-en-tolima-3588480",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Ejército Nacional / Fuerza Aérea",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1249,
+      "titulo": "MinJusticia afirma que cabecillas de grupos armados han pedido negociar con el Gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-09-23",
+      "descripcion": "El ministro de Justicia, Iván Cancino, aseguró que delincuentes y cabecillas de grupos armados han solicitado negociar con el Gobierno nacional, pero afirmó que 'no hay ninguna negociación' en curso. No reveló la identidad de los grupos que hicieron la solicitud.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/ministro-de-justicia-ivan-cancino-asegura-que-delincuentes-y-cabecillas-han-pedido-negociar-con-el-gobierno-no-hay-ninguna-negociacion-3588442",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cancino"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1248,
+      "titulo": "MinVivienda halla 925 proyectos de agua y saneamiento desfinanciados por $14,8 billones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-23",
+      "descripcion": "El ministro de Vivienda, Jaime Andrés Beltrán, reveló en el Congreso Andesco 2026 que existen 925 proyectos de agua potable y saneamiento básico desfinanciados por $14,8 billones, de un total de 1.147 proyectos hallados. Solo 222 proyectos están financiados y activos, con inversiones cercanas a $5,5 billones. El funcionario señaló una 'desconexión completa' del gobierno anterior con el sector de servicios públicos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/925-proyectos-agua-saneamiento-sin-financiacion-14-8-billones-IF41445940",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Andrés Beltrán"
+      ],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08"
+    },
+    {
+      "id": 1247,
+      "titulo": "Prosperidad Social denuncia deuda e irregularidades en programa Colombia Mayor del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-23",
+      "descripcion": "Sandra Suárez, directora de Prosperidad Social, denunció que el gobierno Petro dejó un ciclo completo sin pagar en el programa Colombia Mayor, dejando a 2,3 millones de personas sin subsidio. Además pidió investigar una adición de $22.000 millones a un contrato y mencionó entregas de mercados bajo el programa Hambre Cero antes de elecciones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/servicios/sandra-suarez-directora-de-prosperidad-social-denuncia-deuda-en-colombia-mayor-y-entrega-de-mercados-de-hambre-cero-antes-de-elecciones-3588434",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Suárez"
+      ],
+      "entidad": "Prosperidad Social",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 03:08"
+    },
+    {
       "id": 1246,
       "titulo": "Vicepresidente Restrepo presenta balance de su primera jornada en la ONU",
       "categoria": "internacional",
@@ -28821,8 +29047,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-23",
-    "total_casos": 1157,
+    "ultima_actualizacion": "2026-09-24",
+    "total_casos": 1167,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
