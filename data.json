@@ -221,6 +221,211 @@
   ],
   "casos": [
     {
+      "id": 1278,
+      "titulo": "Militares de EE.UU. y Colombia realizan ejercicio conjunto contra enjambres de drones",
+      "categoria": "internacional",
+      "fecha": "2026-09-24",
+      "descripcion": "Personal de las Fuerzas Militares de Colombia participó junto a militares de Estados Unidos en un ejercicio conjunto para enfrentar enjambres de hasta 100 drones, utilizando radares, sensores, guerra electrónica e inteligencia artificial. El ejercicio se enmarca en la cooperación bilateral de seguridad entre ambos países durante el gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-el-ejercicio-en-el-que-militares-de-ee-uu-y-colombia-se-enfrentaron-a-enjambres-de-hasta-100-drones-3588670",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares de Colombia / Ejército de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1277,
+      "titulo": "Nuevo presidente de Colpensiones genera molestia en el Senado por presentación bochornosa",
+      "categoria": "gabinete",
+      "fecha": "2026-09-24",
+      "descripcion": "El nuevo presidente de Colpensiones, en su segundo día en el cargo, generó molestia en la Comisión Séptima del Senado al intentar que una funcionaria de la entidad expusiera en su lugar durante una intervención calificada como 'bochornosa presentación'. El episodio ocurre en medio del debate sobre la reforma pensional y el incidente de impacto fiscal solicitado por el Ministerio de Hacienda.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/molestia-en-la-comision-septima-del-senado-por-presentacion-del-presidente-de-colpensiones-bochornosa-presentacion-3588625",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colpensiones / Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1276,
+      "titulo": "MinDefensa niega que joven fallecido en operativo contra ACSN sea hijo de alias 'Pinocho'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "El Ministerio de Defensa identificó a Ricardo Andrés González, de 18 años, como una de las víctimas fatales de un operativo contra las Autodefensas de la Sierra Nevada (ACSN), negando versiones de que se tratara del hijo del cabecilla alias 'Pinocho'. La familia del joven asegura que no tenía vínculos con el grupo armado, generando controversia sobre la precisión de la información oficial en operaciones militares recientes.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/mindefensa-niega-que-hijo-de-pinocho-haya-muerto-en-operativo-contra-ascn/",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Andrés González"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1275,
+      "titulo": "Fiscalía captura presuntos integrantes de banda 'los Costas' dedicada al fleteo",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "La Fiscalía General de la Nación capturó a supuestos integrantes de la banda delincuencial 'los Costas', documentando su responsabilidad en al menos 14 fleteos cometidos entre 2024 y 2025.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/redada-de-la-fiscalia-contra-el-fleteo-capturo-a-supuestos-integrantes-de-la-banda-delincuencial-los-costas-3588630",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1274,
+      "titulo": "Wadith Manzur niega negociación con la justicia en caso UNGRD y anuncia que irá a juicio",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-24",
+      "descripcion": "Wadith Manzur, implicado en el escándalo de corrupción de la UNGRD, negó estar negociando con la justicia y afirmó que enfrentará un juicio, declarando que 'no tiene nada que ventilar'. El caso hace parte del entramado de sobornos a congresistas vinculado a la Unidad Nacional para la Gestión del Riesgo de Desastres durante el gobierno Petro.",
+      "evidencia": "Reportado por vanguardia.com",
+      "fuentes": [
+        {
+          "nombre": "vanguardia.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeVh2WlNfV2o4YTZ3X2JjUFZxZXdmTHE4aHpqdkFLRnFHYV9oTlNVNVZqTXpSVkdwTUFQY2luaWlrSmFta0tKM29VVnRLMVdKV29DVlBQMHQyQXVSWWYxWWI3RGtsQmNpa1N0cGFxeUVOd0xNcHV1QndJTGk0SmFCNmtkdUpGckUwYk9rRThrbGpzTFVqV3BBNFl0cjZGSnVobmxyaHZlekRqX0dBcDhzRC1MRkg0RHNZWWVZaXAwZC1CZ0lmQ1pGZkxCQ3FDeVNzUE5sRDZkYWJBSnBfZGRMMHdwYzVibVphWlF2cjBNVTdweE5vTFpN?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Fiscalía General de la Nación / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10"
+    },
+    {
+      "id": 1273,
+      "titulo": "Procuraduría anuncia creación de delegada para vigilar servicios públicos",
+      "categoria": "transparencia",
+      "fecha": "2026-09-24",
+      "descripcion": "El procurador general, Gregorio Eljach, anunció durante el Congreso de Andesco en Cartagena la creación de una nueva procuraduría delegada encargada de vigilar la prestación de servicios públicos en el país, como medida de control y transparencia institucional.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/gregorio-eljach-anuncia-la-creacion-de-una-procuraduria-delegada-que-vigile-la-prestacion-de-servicios-publicos-en-colombia-3588671",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1272,
+      "titulo": "Fiscalía captura a 85 personas de bandas de sicariato y robo en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "La Fiscalía General de la Nación capturó a 85 personas presuntamente pertenecientes a siete grupos delincuenciales dedicados al sicariato, robo y tráfico de drogas en la ciudad de Cali, en una operación de gran magnitud contra la criminalidad organizada en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/golpe-a-la-criminalidad-en-cali-fiscalia-capturo-a-85-personas-que-pertenecerian-a-bandas-dedicadas-al-sicariato-y-robo-3588682",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1271,
+      "titulo": "FIP revela que Fuerzas Militares tienen solo 46% de sus capacidades tras gobierno Petro",
+      "categoria": "empalme",
+      "fecha": "2026-09-24",
+      "descripcion": "La Fundación Ideas para la Paz (FIP) revela que las Fuerzas Militares colombianas cuentan con solo el 46% de sus capacidades operativas. Según el informe, el rezago que debe atender el Ministerio de Defensa del gobierno De la Espriella, heredado del gobierno Petro, alcanza los $100 billones para poder recuperar dichas capacidades.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/fip-advierte-que-ff-mm-tienen-solo-46-de-sus-capacidades-militares/",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fundación Ideas para la Paz (FIP) / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1270,
+      "titulo": "Programa 'Mi Casa Milagro' redirige recursos a damnificados del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-24",
+      "descripcion": "El programa de vivienda 'Mi Casa Milagro' del gobierno nacional anunció un cambio de enfoque para destinar sus recursos a la atención de damnificados por el terremoto del 10 de agosto de 2026, en un esfuerzo por reforzar la reconstrucción de viviendas en las zonas afectadas.",
+      "evidencia": "Reportado por Radio Nacional de Colombia",
+      "fuentes": [
+        {
+          "nombre": "Radio Nacional de Colombia",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaG5xajhZUVZqMDExaS0tdkw4THNwdjFNWlE4aDM3VkJBTDhtNVlPRU1uTS1OYWthOUJPX01SSkxNTXpWTVFJRXc1WUhzY3pZVlJSc213NndxWWNwc2NYRFQxWFRaV19oc1FkS3YxZkdwXzhBeUFCbGRjclBFX21Eb2J3RDA?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 21:10",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1269,
       "titulo": "Colombia y EE.UU. ratifican cooperación contra crimen transnacional en Conferencia USCAP 2026",
       "categoria": "internacional",
@@ -29357,7 +29562,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-24",
-    "total_casos": 1180,
+    "total_casos": 1189,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
