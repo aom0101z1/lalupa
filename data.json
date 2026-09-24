@@ -221,6 +221,242 @@
   ],
   "casos": [
     {
+      "id": 1269,
+      "titulo": "Colombia y EE.UU. ratifican cooperación contra crimen transnacional en Conferencia USCAP 2026",
+      "categoria": "internacional",
+      "fecha": "2026-09-24",
+      "descripcion": "En el marco de la Conferencia USCAP 2026, uniformados de la Policía Nacional y la Armada de Colombia capacitaron a funcionarios de otros países en la lucha contra el narcotráfico y el crimen transnacional, ratificando la cooperación internacional en seguridad bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/en-la-conferencia-uscap-2026-colombia-y-ee-uu-ratificaron-la-cooperacion-con-otros-paises-en-la-lucha-contra-el-crimen-transnacional-3588606",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1268,
+      "titulo": "Gobierno traslada presos de las ACSN en cárceles de Cesar y La Guajira",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó una medida frente a los presos de las Autodefensas Conquistadoras de la Sierra Nevada (ACSN) recluidos en cárceles de Cesar y La Guajira, en el marco de la ofensiva contra ese grupo tras el paro armado en Santa Marta.",
+      "evidencia": "Reportado por El Pilón",
+      "fuentes": [
+        {
+          "nombre": "El Pilón",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLXFZSzlvWTl5V0lkdklmenNwb3lldWxOVmJFSHJnQjhaZDFjZTdDQjRnMlp3VTVCMXQ2T2lSdGYwcGNYTXowODlnSEdJRWhLd29FNm1nbmtMMUtmc3FvaDNsSXUxYk5TdmhMT1hMLWI2blBFcXNfTlhDSGMybldHUzM4WFgtdXliRzhKUkxXUHhpQ3BnckFZRTRfLW5SWV82bGZMcEV0T0ZBVHE2WThnZHlFTEJUVnFhQXJodHFiYzhGODJkYjB4cVdTRnI4a0tRU243cWFKQVR5cEVR?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Inpec / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1267,
+      "titulo": "Capturan red de tráfico de migrantes hacia EE.UU. con falsos asilos",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "Cinco personas fueron capturadas en el Meta, señaladas de integrar una organización de tráfico de migrantes hacia Estados Unidos mediante falsos asilos y viajes a México, cobrando entre $10 y $15 millones por persona trasladada.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/falsos-asilos-y-viajes-a-mexico-asi-delinquia-una-red-de-trafico-de-migrantes-hacia-ee-uu-3588540",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1266,
+      "titulo": "De la Espriella lidera 'Operación Iron' de seguridad en el centro de Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "El presidente Abelardo de la Espriella acompañó durante la madrugada del 24 de septiembre de 2026 la 'Operación Iron' en el centro de Cali, un despliegue de seguridad para recuperar el sector 'cuadra por cuadra'. El mandatario permaneció varias horas junto a las autoridades en los operativos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cali-de-la-espriella-balance-operativos-seguridad-AH41465746",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1265,
+      "titulo": "ACSN anuncia fin del paro armado en Santa Marta tras presión militar del gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "Las Autodefensas Conquistadoras de la Sierra Nevada (ACSN) anunciaron el fin del paro armado que mantenían en Santa Marta, tras la ofensiva militar ordenada por el gobierno de Abelardo de la Espriella, que calificó el hecho como resultado de la presión militar sostenida en la región.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZ3c0VzRKMlRxejVYNlQ3LXV4UlFJX052QUhkaVJkanVxd2NUQ0tnR2xDYVdhZkZLb3BtLUQtaUxhcXV4SHpneUdUc1JBdkJ6a0dLd0FTbHdFTkZ4a0s5c1g3RzU4eXY5X2hiZWNNVkZGenVXYllMTVpyMzRnMTVvRnlteDdhaTc1NmV0MU9kMUJjQlpuOEg5a2d0Z2kxSXJKVFI4V0FTSVVnbnk2NjYxS3ZQcl9yWFFJVlhxOVVWbjVRM2lxa0lRVmhhLUVka0thZGJxd2VuRExKUHE3VWtlYklWWk9TYUtUZmRMZWJ3YVdhOGZNTUVqY0hkTm12NjAyVkpzWUljd0VtMnZxQzYxejRCWFpqUm8tSjQyYk00Y2VtTnFXN2VSQmZPU0NITF9KNUJya3B1NEp2YkY2a2ZVYVpNNTRFc2xWSGc?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerza Pública / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1264,
+      "titulo": "Canciller anuncia que Colombia 'remoldeará' el Acuerdo de Paz de 2016",
+      "categoria": "internacional",
+      "fecha": "2026-09-24",
+      "descripcion": "El canciller Omar Bula afirmó que Colombia ajustará el Acuerdo de Paz de 2016 conforme a las prioridades del gobierno de Abelardo De la Espriella, declaración hecha tras un encuentro con su homólogo británico.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/canciller-omar-bula-asegura-que-colombia-remoldeara-el-acuerdo-de-paz-de-2016-en-funcion-de-las-prioridades-del-gobierno-de-abelardo-de-la-espriella-3588554",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1263,
+      "titulo": "Comitiva de gobierno lidera gira internacional en seguridad, cooperación y comercio",
+      "categoria": "internacional",
+      "fecha": "2026-09-23",
+      "descripcion": "El vicepresidente del gobierno De la Espriella encabeza una comitiva junto al canciller Omar Bula y el ministro de Comercio, Mauricio Gómez Amín, en una semana de encuentros internacionales sobre seguridad, cooperación, comercio y tecnología.",
+      "evidencia": "Reportado por facebook.com",
+      "fuentes": [
+        {
+          "nombre": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc21ENFpEM19sX3BtSFdYUnI4QW5pSDk5RG0wd3RLa2pKZ2M2cUZTNFVGZjZjRzZWV0h0MzItT1p4MWRPY1dZLTNZMVRVN0VlOXpNQVVKVUowalVCaDRoN3VOc3JGSlpsako5MFZOX3p5eVJLUHllNEZsRVY0QUVfYmVRM2YwT0p6VVMyYUwxRVBOdmtoN2x5RldOSGNLWFpDczg3S2dIUWZDTDg5NTRYVWMtRExiZW5CSzJYYmNMNl9pQVJxQVFPVElPSDl0OWplM0Y3OGJNVkVuNnc0X3p6anBzOFc?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula",
+        "Mauricio Gómez Amín"
+      ],
+      "entidad": "Vicepresidencia de la República / Cancillería de Colombia / Ministerio de Comercio",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1262,
+      "titulo": "Plan de choque en salud entrega medicamentos y procedimientos a más de un millón de pacientes",
+      "categoria": "obras",
+      "fecha": "2026-09-24",
+      "descripcion": "La ministra de Salud, Ana María Vesga, informó que el plan de choque en salud del gobierno De la Espriella permitirá que más de un millón de pacientes reciban medicamentos y procedimientos pendientes, como parte de las primeras medidas de gestión sanitaria del nuevo gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNU1B4Mko2cm5fNlhJeUVUc1dORmJ1M2NMQ29ZUEtReFBReXhzUzZqRU9jZlJxVnVwaFVqYzhCcEM4UE9tWUlxSEFQZDRuSFVfdTFfS29Ia3hreWVqUS13TVpxbERtMkRVelV0aVdSOEx0ekdYWGxLV1F1UVg2YmxxekJoSzhnOTVLV2d4Q280cm5JX0U0SlQ3RUpiLTk1TkktbTNxSEd2aWxQYzgxZ0p2bWxvc1gzdXpDNGQyNGFPdU1uYkk3REs0aXhDR0dNbk1vWE8tcWxRQUhJNzJ6cENDeENIWjdFcmNoc3d1aS1ib1lrVlJkNVJoeVIwQmdzOHRmQ3Z0ZFlWMG12RWNZRllCRE5yUmxnR2Q1ckxuSDllSDlqMWpFZ0HSAcACQVVfeXFMTWpieFZvdW1rRFpINjBFNmExOHcwdkw1emMtWGdFOTMyYkQ4ejdud19pak0tTHJWdnZQVm14ZzlVa19RUHdpVjRmWG5HSjNiNExxSDFCWnVteGUtTF94YzFwa0Uyb2d5ZTM4Q29GbjMyQzhZSG55Nl9QTXpZZnhJVVhXdkx3RUJHNWxxS1RaSjZqZ1pzdmwzU2lMUXdqRlRrcE5IQmZDU2d0S2NMT1lzQ3RIU09TTGpkWEVrbkhyZU1iZjlSUFZEaHgtOTU1aUx3ZU8yU19sbnRBWTZRQjYwQVBiczQxT1dzUTBxY2NFQVdTdWJQbjNoeFZtUi1WaHZKdjctSnRKQ2R0TmFhUVhtaldWQ3k1T3VsOWVmVHNOTVl0Rkdzb1FnRGlfNG1kUkM0ZHRQOEVnRWNGdGxyaEtIOFo?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana María Vesga"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1261,
+      "titulo": "Corte Suprema pide investigar a Benedetti por escándalo de recomendados en la Dian",
+      "categoria": "nepotismo",
+      "fecha": "2026-09-24",
+      "descripcion": "La Corte Suprema de Justicia solicitó a la Fiscalía General investigar al exministro Armando Benedetti por un presunto escándalo de nombramientos de personas recomendadas dentro de la Dian, en medio de indagaciones sobre tráfico de influencias durante el gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYTZuR0oxSlVKeERIbFZhaGhCY0t1M2l4WDVab0NabFQzU1cxbG1hT3pjUDc0SkVRX1UzUzExOG1VRzhYSTFSci1paHZaSVI2U0U4T3Z6ODJGVHU0OHkxSjEyU1Vqdjhsb3NEVElReUpUWEx6NlJNeGVueEZUcG9HOWZyVEZkQk5ka1M4Vmg0WndndTRWcVdlYjlUUTRVTTJEbE93aFozM3JUSUpUY2NMM0dPblFBSUljeFdkX2RnenVWZXVpaDlpQU16QzRLVElTLWZQdTZfaUF0VmpTSFRyWjZZQmVPM190WGw4?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Corte Suprema de Justicia / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31"
+    },
+    {
+      "id": 1260,
+      "titulo": "Entrega de subsidios a familias damnificadas por el terremoto en Risaralda",
+      "categoria": "damnificados",
+      "fecha": "2026-09-23",
+      "descripcion": "El gobierno nacional y autoridades locales anunciaron el mecanismo para la entrega de subsidios a las familias damnificadas por el terremoto en el departamento de Risaralda, detallando el proceso de asignación y desembolso de las ayudas económicas a los afectados.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdS1wRGFha3pvMG85MmRHdl9nRnZ2eFRhamdHaFhQcktWQk1KWU9ZemVPUDliZTBBUXVLRkNhNE5nVFNqSVg0RHo0ZlFmTjdRekFnX3ZVS2cxNU03TGFjNmIxNHlZU0w2WEFpYUNHejRITmdjaGdMZlhyYm5reXdKSlpvUmxaekpUWWRDZzJIckNWYTNmRTNnNldNcmRqbGNEVXpIcFR3NVpKSFVkXzhsdzZGQUZybTlIcUhjTWhubXhVQdIB1gFBVV95cUxNOHRZTGlkY1Fwd19Fdml3dmN0UGFpMGdhSnBVdWtRNUNybmJydGVidDV5dnlkQXZ5ZFFYZDZxQnAtb2lYNW1HOFRteGRubEY2VGV4QVVZX0pnSnpTRWpsRXBoakM3MjdMZmM5TlVHc29Ec3UyS3NFMWY0OWJyMDRoWjBHYmF5OVNWTzQzbkVmQmh0ckRlMDktVTN6NENRZE5sMTgxbGtybHBXTEdJSHpyZUZvQ3JZMjRFMFlCWHVxOXZoSHM0LW1wQUw0aFFydFppUWdPbVd3?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 16:31",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
       "id": 1259,
       "titulo": "Asamblea del Tolima discute recursos para damnificados del terremoto",
       "categoria": "dineros",
@@ -29121,7 +29357,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-24",
-    "total_casos": 1170,
+    "total_casos": 1180,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
