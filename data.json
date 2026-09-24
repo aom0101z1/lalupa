@@ -221,6 +221,79 @@
   ],
   "casos": [
     {
+      "id": 1259,
+      "titulo": "Asamblea del Tolima discute recursos para damnificados del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-23",
+      "descripcion": "La Asamblea Departamental del Tolima debatió la asignación y ejecución de recursos destinados a los damnificados del terremoto en el departamento, junto con otros proyectos como un parque en Flandes y el futuro del Hotel Ambalá, en el marco del seguimiento a la gestión de la emergencia por parte del gobierno local.",
+      "evidencia": "Reportado por vozdelpueblo920am.com",
+      "fuentes": [
+        {
+          "nombre": "vozdelpueblo920am.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTFREbFBKaG05MndXenhrVDJCZEFaQUNiVzloU3h0VXRCQ0RHRUd4NFhWVTR1cThmUVhEQndCSUp1YVQyOVc5X2Yyak5mY0U3MHZoRllrUlFUOVdHZk9RSnhHblNIeVJzSkhHV1V4MWZaUmQ1WWh6cTI1R1REVlQzNmJpN2kyM1RvWTZKa3JJel8zNmNIZ09fRXh4bmN1RHpDSEM1cUprWFNTR1dOdjduQ09BY29WOU1uUS1QeUx4RGhGZElIeGpn?oc=5",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Asamblea del Tolima",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 11:08",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 1258,
+      "titulo": "Gobierno De la Espriella presenta discurso ante la Asamblea General de la ONU",
+      "categoria": "internacional",
+      "fecha": "2026-09-23",
+      "descripcion": "El vicepresidente José Manuel Restrepo lideró la presentación de las prioridades de política exterior del gobierno de Abelardo de la Espriella ante la Asamblea General de la ONU, en el marco de un encuentro previo con el secretario general António Guterres.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-la-espriella-estrena-discurso-ante-la-asamblea-general-de-la-onu-los-detalles-de-la-jornada-y-el-encuentro-previo-con-antonio-guterres-3588445",
+          "fecha": "2026-09-23"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo",
+        "António Guterres"
+      ],
+      "entidad": "Vicepresidencia de la República / ONU",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-24 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1257,
+      "titulo": "Congreso aprueba en primer debate el Presupuesto 2027 del gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-09-24",
+      "descripcion": "El Congreso de la República aprobó con poca resistencia el primer debate del Presupuesto General 2027 presentado por el gobierno de Abelardo de la Espriella, a pesar de que el Ejecutivo no atendió varias peticiones de los congresistas. La aprobación se da en medio de la promesa presidencial de responsabilidad fiscal.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/con-poca-resistencia-congreso-avanza-presupuesto-del-gobierno-de-la-espriella/",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Congreso de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-24 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1256,
       "titulo": "Estados Unidos descertifica a Colombia en lucha antidrogas mientras certifica a Venezuela",
       "categoria": "internacional",
@@ -29048,7 +29121,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-24",
-    "total_casos": 1167,
+    "total_casos": 1170,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
