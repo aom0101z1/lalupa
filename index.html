@@ -5,670 +5,120 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Lupa - Donde la Verdad Sale a la Luz</title>
     <meta name="description" content="El observatorio ciudadano que desenmascara la corrupción y las mentiras del poder. Información verificada con fuentes reales.">
-    <link rel="stylesheet" href="styles.css?v=20260917">
+    <link rel="stylesheet" href="styles.css?v=20260924">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        /* HERO SECTION - IMPACTFUL */
-        .hero {
-            background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            position: relative;
-            overflow: hidden;
-            padding-top: 56px;
-        }
-
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background:
-                radial-gradient(circle at 20% 80%, rgba(99, 102, 241, 0.15) 0%, transparent 50%),
-                radial-gradient(circle at 80% 20%, rgba(244, 63, 94, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 40% 40%, rgba(16, 185, 129, 0.08) 0%, transparent 40%);
-            pointer-events: none;
-        }
-
-        /* Animated particles */
-        .particles {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            pointer-events: none;
-        }
-
-        .particle {
-            position: absolute;
-            width: 4px;
-            height: 4px;
-            background: rgba(255, 255, 255, 0.3);
-            border-radius: 50%;
-            animation: float-particle 15s infinite;
-        }
-
-        .particle:nth-child(1) { left: 10%; animation-delay: 0s; animation-duration: 20s; }
-        .particle:nth-child(2) { left: 20%; animation-delay: 2s; animation-duration: 18s; }
-        .particle:nth-child(3) { left: 30%; animation-delay: 4s; animation-duration: 22s; }
-        .particle:nth-child(4) { left: 40%; animation-delay: 1s; animation-duration: 19s; }
-        .particle:nth-child(5) { left: 50%; animation-delay: 3s; animation-duration: 21s; }
-        .particle:nth-child(6) { left: 60%; animation-delay: 5s; animation-duration: 17s; }
-        .particle:nth-child(7) { left: 70%; animation-delay: 2s; animation-duration: 23s; }
-        .particle:nth-child(8) { left: 80%; animation-delay: 4s; animation-duration: 16s; }
-        .particle:nth-child(9) { left: 90%; animation-delay: 1s; animation-duration: 20s; }
-
-        @keyframes float-particle {
-            0% { transform: translateY(100vh) scale(0); opacity: 0; }
-            10% { opacity: 1; }
-            90% { opacity: 1; }
-            100% { transform: translateY(-100vh) scale(1); opacity: 0; }
-        }
-
-        /* Hero Header */
-        .hero-header {
-            padding: 20px 0;
-            position: relative;
-            z-index: 10;
-        }
-
-        .hero-header .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .hero-logo {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .hero-logo-icon {
-            width: 48px;
-            height: 48px;
-            background: linear-gradient(135deg, #6366f1, #8b5cf6);
-            border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.25rem;
-            color: white;
-            box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
-        }
-
-        .hero-logo h1 {
-            font-size: 1.5rem;
-            font-weight: 800;
-            color: white;
-        }
-
-        .hero-nav {
-            display: flex;
-            gap: 8px;
-        }
-
-        .hero-nav-link {
-            color: rgba(255, 255, 255, 0.7);
-            text-decoration: none;
-            padding: 10px 18px;
-            border-radius: 50px;
-            font-weight: 600;
-            font-size: 0.9rem;
-            transition: all 0.3s ease;
-        }
-
-        .hero-nav-link:hover {
-            color: white;
-            background: rgba(255, 255, 255, 0.1);
-        }
-
-        .hero-nav-link.btn-action {
-            background: linear-gradient(135deg, #f43f5e, #ec4899);
-            color: white;
-            box-shadow: 0 4px 15px rgba(244, 63, 94, 0.4);
-        }
-
-        .hero-nav-link.btn-action:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(244, 63, 94, 0.5);
-        }
-
-        /* Hero Content */
-        .hero-content {
-            flex: 1;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            padding: 40px 20px;
-            position: relative;
-            z-index: 10;
-        }
-
-        .hero-text {
-            max-width: 900px;
-        }
-
-        .hero-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            background: rgba(244, 63, 94, 0.2);
-            border: 1px solid rgba(244, 63, 94, 0.3);
-            color: #fb7185;
-            padding: 8px 20px;
-            border-radius: 50px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            margin-bottom: 24px;
-            animation: pulse-glow 2s infinite;
-        }
-
-        @keyframes pulse-glow {
-            0%, 100% { box-shadow: 0 0 20px rgba(244, 63, 94, 0.2); }
-            50% { box-shadow: 0 0 30px rgba(244, 63, 94, 0.4); }
-        }
-
-        .hero-title {
-            font-size: clamp(2.5rem, 6vw, 4.5rem);
-            font-weight: 900;
-            color: white;
-            line-height: 1.1;
-            margin-bottom: 24px;
-            letter-spacing: -0.02em;
-        }
-
-        .hero-title .highlight {
-            background: linear-gradient(135deg, #6366f1, #8b5cf6, #ec4899);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        .hero-subtitle {
-            font-size: clamp(1.1rem, 2.5vw, 1.4rem);
-            color: rgba(255, 255, 255, 0.7);
-            line-height: 1.7;
-            margin-bottom: 40px;
-            max-width: 700px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        .hero-stats {
-            display: flex;
-            justify-content: center;
-            gap: 40px;
-            margin-bottom: 40px;
-            flex-wrap: wrap;
-        }
-
-        .hero-stat {
-            text-align: center;
-        }
-
-        .hero-stat-number {
-            font-size: 2.5rem;
-            font-weight: 800;
-            color: white;
-            display: block;
-            line-height: 1;
-        }
-
-        .hero-stat-label {
-            font-size: 0.9rem;
-            color: rgba(255, 255, 255, 0.5);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-top: 8px;
-        }
-
-        .hero-cta {
-            display: flex;
-            gap: 16px;
-            justify-content: center;
-            flex-wrap: wrap;
-        }
-
-        .btn-hero {
-            padding: 16px 32px;
-            border-radius: 50px;
-            font-weight: 700;
-            font-size: 1rem;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .btn-hero-primary {
-            background: linear-gradient(135deg, #6366f1, #8b5cf6);
-            color: white;
-            box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
-        }
-
-        .btn-hero-primary:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 30px rgba(99, 102, 241, 0.5);
-        }
-
-        .btn-hero-secondary {
-            background: rgba(255, 255, 255, 0.1);
-            color: white;
-            border: 2px solid rgba(255, 255, 255, 0.2);
-        }
-
-        .btn-hero-secondary:hover {
-            background: rgba(255, 255, 255, 0.2);
-            border-color: rgba(255, 255, 255, 0.3);
-        }
-
-        /* Scroll indicator */
-        .scroll-indicator {
-            position: absolute;
-            bottom: 30px;
-            left: 50%;
-            transform: translateX(-50%);
-            color: rgba(255, 255, 255, 0.5);
-            font-size: 0.85rem;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 8px;
-            animation: bounce 2s infinite;
-            z-index: 10;
-        }
-
-        .scroll-indicator i {
-            font-size: 1.5rem;
-        }
-
-        @keyframes bounce {
-            0%, 100% { transform: translateX(-50%) translateY(0); }
-            50% { transform: translateX(-50%) translateY(10px); }
-        }
-
-        /* Main content area */
-        .main-content {
-            background: var(--background);
-        }
-
-        /* Fixed nav - always visible at top */
-        .sticky-nav {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            background: rgba(26, 31, 54, 0.95);
-            backdrop-filter: blur(20px);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-            z-index: 100;
-            padding: 12px 0;
-        }
-
-        .sticky-nav .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .sticky-logo {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            color: white;
-            font-weight: 700;
-            font-size: 1.1rem;
-        }
-
-        .sticky-logo i {
-            color: #6366f1;
-        }
-
-        .sticky-links {
-            display: flex;
-            gap: 8px;
-        }
-
-        .sticky-link {
-            color: rgba(255, 255, 255, 0.7);
-            text-decoration: none;
-            padding: 8px 16px;
-            border-radius: 50px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            transition: all 0.3s ease;
-        }
-
-        .sticky-link:hover, .sticky-link.active {
-            color: white;
-            background: rgba(255, 255, 255, 0.1);
-        }
-
-        .sticky-link.btn-accent {
-            background: linear-gradient(135deg, #f43f5e, #ec4899);
-            color: white;
-        }
-
-        /* Feature cards below hero */
-        .features-section {
-            padding: 80px 0;
-            background: linear-gradient(180deg, #0f0f1a 0%, var(--background) 100%);
-        }
-
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 24px;
-        }
-
-        .feature-card {
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            border-radius: 20px;
-            padding: 32px;
-            transition: all 0.3s ease;
-        }
-
-        .feature-card:hover {
-            background: rgba(255, 255, 255, 0.06);
-            border-color: rgba(99, 102, 241, 0.3);
-            transform: translateY(-4px);
-        }
-
-        .feature-icon {
-            width: 56px;
-            height: 56px;
-            border-radius: 16px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-            margin-bottom: 20px;
-        }
-
-        .feature-icon.verificado { background: linear-gradient(135deg, #10b981, #14b8a6); color: white; }
-        .feature-icon.fuentes { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; }
-        .feature-icon.transparencia { background: linear-gradient(135deg, #f59e0b, #f97316); color: white; }
-
-        .feature-card h3 {
-            color: white;
-            font-size: 1.25rem;
-            font-weight: 700;
-            margin-bottom: 12px;
-        }
-
-        .feature-card p {
-            color: rgba(255, 255, 255, 0.6);
-            line-height: 1.7;
-        }
-
-        /* Mobile adjustments for hero */
-        @media (max-width: 768px) {
-            .hero-header .container {
-                flex-direction: column;
-                gap: 16px;
-            }
-
-            .hero-nav {
-                flex-wrap: wrap;
-                justify-content: center;
-            }
-
-            .hero-stats {
-                gap: 24px;
-            }
-
-            .hero-stat-number {
-                font-size: 2rem;
-            }
-
-            .hero-cta {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            .btn-hero {
-                width: 100%;
-                max-width: 300px;
-                justify-content: center;
-            }
-
-            .sticky-nav .container {
-                flex-direction: column;
-                gap: 12px;
-            }
-
-            .sticky-links {
-                flex-wrap: wrap;
-                justify-content: center;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .hero-nav-link span {
-                display: none;
-            }
-
-            .hero-badge {
-                font-size: 0.75rem;
-                padding: 6px 14px;
-            }
-        }
-
-        /* Opinión Badge for Temassection */
-        .opinión-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            background: linear-gradient(135deg, #8b5cf6, #6366f1);
-            color: white;
-            padding: 8px 16px;
-            border-radius: 50px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            margin-top: 12px;
-        }
-
-        /* Temaspromo banner in hero */
-        .temas-promo {
-            margin-top: 30px;
-            padding: 20px;
-            background: rgba(139, 92, 246, 0.15);
-            border: 1px solid rgba(139, 92, 246, 0.3);
-            border-radius: 16px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 16px;
-            flex-wrap: wrap;
-        }
-
-        .temas-promo-text {
-            color: rgba(255, 255, 255, 0.9);
-            font-size: 0.95rem;
-        }
-
-        .temas-promo-text strong {
-            color: #a78bfa;
-        }
-
-        .btn-temas-promo {
-            background: linear-gradient(135deg, #8b5cf6, #6366f1);
-            color: white;
-            padding: 10px 20px;
-            border-radius: 50px;
-            font-weight: 600;
-            font-size: 0.9rem;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            transition: all 0.3s ease;
-        }
-
-        .btn-temas-promo:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
-        }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;0,6..72,800;1,6..72,500;1,6..72,700&family=Public+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1474229931660831"
          crossorigin="anonymous"></script>
 </head>
 <body>
-    <!-- HERO SECTION -->
-    <section class="hero">
-        <div class="particles">
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-            <div class="particle"></div>
-        </div>
-
-        <header class="hero-header">
-            <div class="container">
-                <div class="hero-logo">
-                    <div class="hero-logo-icon">
-                        <i class="fas fa-search"></i>
-                    </div>
-                    <h1>La Lupa</h1>
-                </div>
-            </div>
-        </header>
-
-        <div class="hero-content">
-            <div class="hero-text">
-                <div class="hero-badge">
-                    <i class="fas fa-shield-alt"></i>
-                    Observatorio Ciudadano de Transparencia
-                </div>
-                <h2 class="hero-title">
-                    Donde la <span class="highlight">verdad</span><br>sale a la luz
-                </h2>
-                <p class="hero-subtitle">
-                    Recopilamos noticias publicadas por medios reconocidos sobre corrupción y mentiras del poder.
-                    Aquí no inventamos nada: cada caso tiene sus fuentes verificables para que nadie diga que son "noticias falsas".
-                </p>
-                <div class="hero-stats">
-                    <div class="hero-stat">
-                        <span class="hero-stat-number" id="hero-total-casos">132</span>
-                        <span class="hero-stat-label">Casos Documentados</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="hero-stat-number" id="hero-fuentes">45+</span>
-                        <span class="hero-stat-label">Fuentes Verificadas</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="hero-stat-number">100%</span>
-                        <span class="hero-stat-label">Transparente</span>
-                    </div>
-                </div>
-                <div class="hero-cta">
-                    <a href="#casos" class="btn-hero btn-hero-primary">
-                        <i class="fas fa-search"></i> Explorar Casos
-                    </a>
-                    <a href="#" class="btn-hero btn-hero-secondary" id="btn-violencia-hero">
-                        <i class="fas fa-chart-line"></i> Ver Estadísticas
-                    </a>
-                </div>
-
-                <div class="temas-promo">
-                    <span class="temas-promo-text"><i class="fas fa-pen-fancy"></i> <strong>Nuevo:</strong> Lee nuestros artículos de opinión y análisis</span>
-                    <a href="#temas-interes" class="btn-temas-promo">
-                        <i class="fas fa-fire"></i> Ver Temas de Opinión
-                    </a>
-                </div>
+    <!-- CABECERA (rediseño 2026: periódico de investigación) -->
+    <header class="lp-header">
+        <div class="container lp-util">
+            <span class="lp-live" id="lp-actualizado">Observatorio ciudadano · cada caso con su fuente</span>
+            <div class="lp-actions">
+                <button type="button" class="lp-search-btn" id="lp-search-btn"><i class="fas fa-search"></i> <span>Buscar casos, personas, entidades</span></button>
+                <button class="lp-btn lp-btn-ghost btn-admin" id="admin-panel-btn" style="display: none;">
+                    <i class="fas fa-user-shield"></i> Admin
+                </button>
+                <button class="lp-btn lp-btn-ghost btn-edit-mode" id="edit-mode-btn" style="display: none;">
+                    <i class="fas fa-arrows-alt"></i> Editar
+                </button>
+                <button class="lp-auth" id="auth-button">
+                    <i class="fas fa-sign-in-alt"></i>
+                    <span>Iniciar Sesión</span>
+                </button>
+                <a href="sugerir.html" class="lp-btn lp-btn-mark"><i class="fas fa-plus"></i> Sugerir un caso</a>
             </div>
         </div>
-
-        <div class="scroll-indicator">
-            <span>Desliza para explorar</span>
-            <i class="fas fa-chevron-down"></i>
-        </div>
-    </section>
-
-    <!-- Feature Cards -->
-    <section class="features-section">
-        <div class="container">
-            <div class="features-grid">
-                <div class="feature-card">
-                    <div class="feature-icon verificado">
-                        <i class="fas fa-newspaper"></i>
-                    </div>
-                    <h3>Noticias de Medios Reales</h3>
-                    <p>Recopilamos noticias publicadas por medios reconocidos como El Tiempo, Semana, El Espectador, Infobae y muchos más. Nosotros no las inventamos.</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon fuentes">
-                        <i class="fas fa-link"></i>
-                    </div>
-                    <h3>Verifícalo Tu Mismo</h3>
-                    <p>Cada noticia tiene enlace directo al medio que la público. Haz clic y comprueba que la noticia existe. Que nadie diga que son inventos.</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon transparencia">
-                        <i class="fas fa-eye"></i>
-                    </div>
-                    <h3>Quién lo Público</h3>
-                    <p>Mostramos claramente que medio público cada noticia y cuando. Asíqueda evidencia de que la información viene de fuentes periodísticas, no de nosotros.</p>
-                </div>
+        <div class="container lp-mast">
+            <a class="lp-logo" href="#portada" aria-label="La Lupa, ir a la portada">
+                <svg viewBox="0 0 52 52" aria-hidden="true"><circle cx="22" cy="22" r="15" fill="#FFD84D" stroke="#131A26" stroke-width="4"/><path d="M33 33 L46 46" stroke="#131A26" stroke-width="6" stroke-linecap="square"/><path d="M15 19 h14 M15 25 h9" stroke="#131A26" stroke-width="3"/></svg>
+                <h1>La Lupa</h1>
+            </a>
+            <div class="lp-motto">
+                <em>Donde la verdad sale a la luz</em>
+                <span>Recopilamos noticias de medios reconocidos. Aquí no inventamos nada: cada caso tiene su fuente.</span>
             </div>
         </div>
-    </section>
+    </header>
 
-    <!-- MAIN CONTENT -->
     <div class="main-content">
-        <!-- Sticky Navigation -->
-        <nav class="sticky-nav">
-            <div class="container">
-                <div class="sticky-logo">
-                    <i class="fas fa-search"></i>
-                    <span>La Lupa</span>
-                </div>
-                <div class="sticky-links">
-                    <a href="#casos" class="sticky-link active">Casos</a>
-                    <a href="#nuevo-gobierno" class="sticky-link">Nuevo Gobierno</a>
-                    <a href="#terremoto" class="sticky-link sticky-link-terremoto"><i class="fas fa-house-damage"></i> Terremoto</a>
-                    <a href="#estadísticas" class="sticky-link">Estadísticas</a>
-                    <a href="#temas-interes" class="sticky-link">Opinión</a>
-                    <a href="#" class="sticky-link" id="btn-medios">
-                        <i class="fas fa-newspaper"></i> Medios
-                    </a>
-                    <a href="#" class="sticky-link" id="btn-violencia">
-                        <i class="fas fa-chart-bar"></i> Violencia
-                    </a>
-                    <a href="sugerir.html" class="sticky-link btn-accent">
-                        <i class="fas fa-plus"></i> Sugerir
-                    </a>
-                    <button class="sticky-link btn-admin" id="admin-panel-btn" style="display: none;">
-                        <i class="fas fa-user-shield"></i> Admin
-                    </button>
-                    <button class="sticky-link btn-edit-mode" id="edit-mode-btn" style="display: none;">
-                        <i class="fas fa-arrows-alt"></i> Editar
-                    </button>
-                    <button class="sticky-link btn-auth-sticky" id="auth-button">
-                        <i class="fas fa-sign-in-alt"></i>
-                        <span>Iniciar Sesión</span>
-                    </button>
-                </div>
+        <nav class="lp-snav" aria-label="Secciones">
+            <div class="container lp-snav-inner">
+                <a href="#portada" class="lp-snav-brand" aria-label="La Lupa">La Lupa</a>
+                <a href="#portada" class="lp-snav-link active">Portada</a>
+                <a href="#archivo" class="lp-snav-link" style="--c: var(--lp-petro)"><i class="lp-dot"></i>Archivo Petro</a>
+                <a href="#nuevo-gobierno" class="lp-snav-link" style="--c: var(--lp-gob)"><i class="lp-dot"></i>Nuevo Gobierno</a>
+                <a href="#terremoto" class="lp-snav-link" style="--c: var(--lp-terr)"><i class="lp-dot"></i>Lupa al Terremoto</a>
+                <a href="#" class="lp-snav-link lp-snav-hot" id="btn-violencia">Violencia <span class="lp-pill">EN CIFRAS</span></a>
+                <a href="#temas-interes" class="lp-snav-link" style="--c: var(--lp-opi)"><i class="lp-dot"></i>Opinión</a>
+                <a href="#" class="lp-snav-link" id="btn-medios">Medios</a>
             </div>
         </nav>
 
         <main class="main">
             <div class="container">
+                <!-- PORTADA: se llena con renderPortada() en script.js -->
+                <section id="portada" class="lp-portada">
+                    <div class="lp-ticker" id="portada-ticker"></div>
+                    <div class="lp-front">
+                        <article class="lp-lead" id="portada-lead"></article>
+                        <article class="lp-cifra" id="portada-cifra"></article>
+                        <aside class="lp-latest">
+                            <h2>Lo último</h2>
+                            <div id="portada-ultimo"></div>
+                        </aside>
+                    </div>
+                    <div class="lp-counter" id="portada-contador"></div>
+                    <div class="lp-desks" id="portada-desks"></div>
+
+                    <section class="lp-feature" aria-label="Especial de datos: violencia">
+                        <div class="lp-feature-inner">
+                            <div>
+                                <span class="lp-kicker lp-kicker-feature">Especial de datos · Violencia</span>
+                                <h2>Tres años y medio de masacres, desplazamiento y líderes asesinados</h2>
+                                <p>Cifras cruzadas de Indepaz, FIP, CICR, HRW, OCHA, UNODC, Medicina Legal y DANE, de agosto de 2022 a diciembre de 2025. Marcamos dónde difieren de las cifras oficiales.</p>
+                                <div class="lp-big">
+                                    <div><b>279+</b><span>masacres</span></div>
+                                    <div><b>592.000+</b><span>desplazados 2023–2025</span></div>
+                                    <div><b>635+</b><span>líderes sociales asesinados</span></div>
+                                </div>
+                                <a href="#" class="lp-btn lp-btn-mark" id="btn-violencia-hero">Explorar el especial <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            <figure class="lp-chart" role="img" aria-label="Masacres por año: 2022 desde agosto, cerca de 32; 2023, 93; 2024, 76; 2025, 78">
+                                <figcaption>2023 fue el año con más masacres del periodo<small>Masacres por año · 2022 incluye solo agosto a diciembre</small></figcaption>
+                                <div class="lp-bars">
+                                    <div class="lp-bar lp-bar-part"><b>~32</b><i style="--h: 32%"></i></div>
+                                    <div class="lp-bar"><b>93</b><i style="--h: 93%"></i></div>
+                                    <div class="lp-bar"><b>76</b><i style="--h: 76%"></i></div>
+                                    <div class="lp-bar"><b>78</b><i style="--h: 78%"></i></div>
+                                </div>
+                                <div class="lp-bars-x"><span>2022*</span><span>2023</span><span>2024</span><span>2025</span></div>
+                                <span class="lp-chart-src">Fuente: Indepaz · escala 0–100, líneas cada 25</span>
+                            </figure>
+                        </div>
+                    </section>
+
+                    <section class="lp-opinion-front">
+                        <header class="lp-desk-head" style="--c: var(--lp-opi)">
+                            <h2>Opinión y análisis</h2>
+                            <a href="#temas-interes">Todas las columnas <i class="fas fa-arrow-right"></i></a>
+                        </header>
+                        <div class="lp-cols" id="portada-opinion"></div>
+                    </section>
+                </section>
+
+                <!-- ARCHIVO PETRO -->
+                <div class="lp-section-head" id="archivo" style="--c: var(--lp-petro)">
+                    <span class="lp-kicker">Gobierno Petro · 2022–2026</span>
+                    <h2>Archivo Petro</h2>
+                    <p>Corrupción, contratos y abuso de poder documentados con fuentes periodísticas. Busca, filtra y abre cada expediente para ver sus enlaces.</p>
+                </div>
+
                 <!-- Estadísticas rapidas -->
                 <section id="estadísticas" class="stats-section">
                     <div class="stats-grid" id="stats-grid">
@@ -739,7 +189,7 @@
                 <!-- Lista de casos -->
                 <section id="casos" class="casos-section">
                     <div class="casos-header">
-                        <h2><i class="fas fa-folder-open"></i> Casos Documentados</h2>
+                        <h2>Expedientes</h2>
                         <span class="casos-count" id="casos-count">0 casos</span>
                     </div>
                     <div class="casos-grid" id="casos-grid">
@@ -7421,7 +6871,7 @@
     <!-- Firebase Configuration -->
     <script src="firebase-config.js"></script>
 
-    <script src="script.js?v=20260917"></script>
+    <script src="script.js?v=20260924"></script>
     <script>
         // Hero stats animation
         function animateValue(element, start, end, duration) {

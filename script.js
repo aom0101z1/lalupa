@@ -160,6 +160,7 @@ async function init() {
         populateFilters();
         renderStats();
         filterAndRenderCasos();
+        renderPortada();
 
         // Fecha de última actualización: la más reciente entre estadisticas y los casos publicados
         if (ultimaActualizacion) {
@@ -374,52 +375,242 @@ function findRegionInfo(id) {
         || { nombre: id || 'Sin región', icono: 'fa-map-marker-alt', color: '#64748b' };
 }
 
-// HTML de una tarjeta de caso (compartido entre Casos y Gestión Nuevo Gobierno)
+// HTML de una tarjeta de caso en formato expediente (compartido entre Archivo, Nuevo Gobierno y Terremoto)
 function casoCardHTML(caso) {
     const categoria = findCategoriaInfo(caso.categoria);
+    const fuentes = caso.fuentes || [];
+    const fuente = fuentes[0] && fuentes[0].nombre ? fuentes[0].nombre : '';
 
     return `
-        <div class="caso-card" data-id="${caso.id}">
-            <div class="caso-card-header">
-                <span class="caso-categoria" style="background: ${categoria.color}">
-                    <i class="fas ${categoria.icono}"></i>
-                    ${categoria.nombre}
-                </span>
-                <span class="caso-fecha">
-                    <i class="far fa-calendar"></i>
-                    ${formatDate(caso.fecha)}
-                </span>
-            </div>
-            <div class="caso-card-body">
-                ${caso.seccion === 'terremoto' ? `
-                    <div class="caso-terremoto-tags">
-                        <span class="caso-region"><i class="fas ${findRegionInfo(caso.region).icono}"></i> ${escapeHtml(findRegionInfo(caso.region).nombre)}</span>
-                        ${caso.signo ? `<span class="caso-signo ${caso.signo}">${caso.signo === 'positivo' ? 'Avance' : caso.signo === 'negativo' ? 'Denuncia / irregularidad' : 'Seguimiento'}</span>` : ''}
-                    </div>
-                ` : ''}
-                <h3 class="caso-titulo">${escapeHtml(caso.titulo)}</h3>
-                <p class="caso-descripcion">${escapeHtml(caso.descripcion)}</p>
-                <div class="caso-meta">
-                    ${caso.entidad ? `
-                        <span class="caso-meta-item">
-                            <i class="fas fa-building"></i>
-                            ${escapeHtml(caso.entidad)}
-                        </span>
-                    ` : ''}
-                    ${caso.gravedad ? `
-                        <span class="caso-gravedad ${caso.gravedad}">${caso.gravedad}</span>
-                    ` : ''}
-                    ${caso.estado ? `
-                        <span class="caso-estado ${caso.estado.toLowerCase().replace(/ /g, '')}">${escapeHtml(caso.estado)}</span>
-                    ` : ''}
-                    <span class="caso-meta-item">
-                        <i class="fas fa-link"></i>
-                        ${caso.fuentes ? caso.fuentes.length : 0} fuente${caso.fuentes && caso.fuentes.length !== 1 ? 's' : ''}
-                    </span>
+        <article class="caso-card" data-id="${caso.id}">
+            <span class="lp-kicker" style="--c: ${categoria.color}">${escapeHtml(categoria.nombre)}</span>
+            ${caso.seccion === 'terremoto' ? `
+                <div class="caso-terremoto-tags">
+                    <span class="caso-region">${escapeHtml(findRegionInfo(caso.region).nombre)}</span>
+                    ${signoHTML(caso.signo)}
                 </div>
+            ` : ''}
+            <h3 class="caso-titulo">${escapeHtml(caso.titulo)}</h3>
+            <p class="caso-descripcion">${escapeHtml(caso.descripcion)}</p>
+            ${caso.entidad ? `<p class="caso-entidad"><i class="fas fa-building"></i> ${escapeHtml(caso.entidad)}</p>` : ''}
+            <div class="lp-meta">
+                <span>EXP. #${caso.id}</span>
+                <span>${fechaCorta(caso.fecha)}</span>
+                ${gravedadHTML(caso.gravedad)}
+                ${estadoHTML(caso.estado)}
             </div>
-        </div>
+            ${fuente ? `<div class="lp-srcs"><span>${escapeHtml(fuente)}</span>${fuentes.length > 1 ? `<span class="lp-srcs-more">+${fuentes.length - 1}</span>` : ''}</div>` : ''}
+        </article>
     `;
+}
+
+// ---------- Piezas compartidas del formato expediente ----------
+const MESES_CORTOS = ['ENE', 'FEB', 'MAR', 'ABR', 'MAY', 'JUN', 'JUL', 'AGO', 'SEP', 'OCT', 'NOV', 'DIC'];
+
+// "2026-09-24" -> "24 SEP 2026" (o "24 SEP" si conAnio es false)
+function fechaCorta(fecha, conAnio = true) {
+    const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(fecha || '');
+    if (!m) return '';
+    const txt = `${parseInt(m[3], 10)} ${MESES_CORTOS[parseInt(m[2], 10) - 1]}`;
+    return conAnio ? `${txt} ${m[1]}` : txt;
+}
+
+// Gravedad en tres barras
+function gravedadHTML(gravedad) {
+    if (!gravedad) return '';
+    const g = String(gravedad).toLowerCase();
+    return `<span class="lp-sev lp-sev-${escapeHtml(g)}" title="Gravedad ${escapeHtml(g)}"><i></i><i></i><i></i></span>`;
+}
+
+// Sello de estado: Comprobado (verde), En investigación / Imputado (naranja), resto neutro
+function estadoHTML(estado) {
+    if (!estado) return '';
+    const e = estado.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    let tipo = '';
+    if (e.includes('comprobado') || e.includes('condenado')) tipo = 'ok';
+    else if (e.includes('investigacion') || e.includes('imputado') || e.includes('profugo')) tipo = 'inv';
+    else if (e.includes('desmentido')) tipo = 'off';
+    return `<span class="lp-stamp ${tipo ? 'lp-stamp-' + tipo : ''}">${escapeHtml(estado)}</span>`;
+}
+
+function signoHTML(signo) {
+    if (signo === 'positivo') return '<span class="lp-sign lp-sign-pos">▲ Avance</span>';
+    if (signo === 'negativo') return '<span class="lp-sign lp-sign-neg">▼ Denuncia</span>';
+    if (signo) return '<span class="lp-sign lp-sign-neu">● Seguimiento</span>';
+    return '';
+}
+
+// ============================================================
+// PORTADA: noticia principal, cifra, lo último, contador, secciones y opinión
+// ============================================================
+const SECCIONES_PORTADA = {
+    'archivo': { nombre: 'Archivo Petro', sub: 'Corrupción, contratos y abuso de poder, 2022–2026', color: 'var(--lp-petro)', ancla: '#archivo', unidad: 'casos' },
+    'nuevo-gobierno': { nombre: 'Nuevo Gobierno', sub: 'Qué ha hecho el gobierno 2026–2030, con fuentes', color: 'var(--lp-gob)', ancla: '#nuevo-gobierno', unidad: 'hechos' },
+    'terremoto': { nombre: 'Lupa al Terremoto', sub: 'Ayudas, contratos y reconstrucción · énfasis Pereira', color: 'var(--lp-terr)', ancla: '#terremoto', unidad: 'hechos' }
+};
+
+function seccionDeCaso(caso) {
+    return caso.seccion || 'archivo';
+}
+
+function ordenarPorFecha(casos) {
+    return [...casos].sort((a, b) => (b.fecha || '').localeCompare(a.fecha || '') || b.id - a.id);
+}
+
+// Primera cifra en pesos que aparezca en el título: "$14,8 billones", "$32 billones", "3.000 millones"
+const CIFRA_RE = /(\$\s?[\d.,]+\s*(?:billones|billón|mil millones|millones)?|[\d.,]+\s*(?:billones|mil millones|millones)(?:\s+de pesos)?)/i;
+
+function renderPortada() {
+    const lead = document.getElementById('portada-lead');
+    if (!lead) return;
+
+    const visibles = ordenarPorFecha(data.casos.filter(c => isCasoAprobado(c)));
+    if (visibles.length === 0) return;
+    const usados = new Set();
+
+    // Noticia principal: el caso de gravedad alta más reciente
+    const principal = visibles.find(c => c.gravedad === 'alta') || visibles[0];
+    usados.add(principal.id);
+    lead.innerHTML = portadaHistoriaHTML(principal, true);
+
+    // La cifra: el caso reciente (últimos 40) con una cifra de dinero en el título
+    const cifraEl = document.getElementById('portada-cifra');
+    const conCifra = visibles.slice(0, 40).find(c => !usados.has(c.id) && CIFRA_RE.test(c.titulo) && /\d/.test((c.titulo.match(CIFRA_RE) || [''])[0]));
+    if (conCifra) {
+        usados.add(conCifra.id);
+        const cifra = conCifra.titulo.match(CIFRA_RE)[0].trim();
+        const partes = cifra.match(/^(\$?\s?[\d.,]+)\s*(.*)$/);
+        const sec = SECCIONES_PORTADA[seccionDeCaso(conCifra)];
+        cifraEl.innerHTML = `
+            <span class="lp-kicker" style="--c: ${sec.color}">La cifra · ${sec.nombre}</span>
+            <a href="#" class="lp-cifra-link" data-caso="${conCifra.id}">
+                <span class="lp-num"><span class="lp-num-val">${escapeHtml(partes ? partes[1] : cifra)}</span>${partes && partes[2] ? ` <small>${escapeHtml(partes[2])}</small>` : ''}</span>
+                <h3>${escapeHtml(conCifra.titulo)}</h3>
+            </a>
+            <div class="lp-meta"><span>EXP. #${conCifra.id}</span><span>${fechaCorta(conCifra.fecha, false)}</span>${conCifra.fuentes && conCifra.fuentes[0] ? `<span>${escapeHtml(conCifra.fuentes[0].nombre || '')}</span>` : ''}</div>
+        `;
+    } else {
+        const segunda = visibles.find(c => !usados.has(c.id) && c.gravedad === 'alta') || visibles.find(c => !usados.has(c.id));
+        usados.add(segunda.id);
+        cifraEl.innerHTML = portadaHistoriaHTML(segunda, false);
+    }
+
+    // Lo último: 6 más recientes de cualquier sección
+    const ultimos = visibles.filter(c => !usados.has(c.id)).slice(0, 6);
+    ultimos.forEach(c => usados.add(c.id));
+    document.getElementById('portada-ultimo').innerHTML = ultimos.map(c => {
+        const sec = SECCIONES_PORTADA[seccionDeCaso(c)];
+        return `
+            <a href="#" class="lp-latest-item" data-caso="${c.id}">
+                <time>${fechaCorta(c.fecha, false)}</time>
+                <span><span class="lp-latest-sec" style="--c: ${sec.color}">${sec.nombre}</span>${escapeHtml(c.titulo)}</span>
+            </a>`;
+    }).join('');
+
+    // Ticker: los 3 titulares más recientes
+    const ticker = document.getElementById('portada-ticker');
+    if (ticker) {
+        ticker.innerHTML = `<span class="lp-ticker-lbl">ÚLTIMO</span><div class="lp-ticker-items">${
+            visibles.slice(0, 4).map(c => `<a href="#" data-caso="${c.id}"><b>${fechaCorta(c.fecha, false)}</b>${escapeHtml(c.titulo)}</a>`).join('')
+        }</div>`;
+    }
+
+    // Contador con datos reales
+    const porSeccion = { 'archivo': 0, 'nuevo-gobierno': 0, 'terremoto': 0 };
+    visibles.forEach(c => { const k = seccionDeCaso(c); if (k in porSeccion) porSeccion[k]++; });
+    const medios = Object.keys(extractMedios()).length;
+    const fmt = n => n.toLocaleString('es-CO');
+    document.getElementById('portada-contador').innerHTML = `
+        <div><b>${fmt(visibles.length)}</b><span>casos documentados</span></div>
+        <div style="--c: var(--lp-petro)"><b>${fmt(porSeccion['archivo'])}</b><span>archivo Petro 2022–2026</span></div>
+        <div style="--c: var(--lp-gob)"><b>${fmt(porSeccion['nuevo-gobierno'])}</b><span>gestión nuevo gobierno</span></div>
+        <div style="--c: var(--lp-terr)"><b>${fmt(porSeccion['terremoto'])}</b><span>lupa al terremoto</span></div>
+        <div><b>${fmt(medios)}</b><span>medios citados como fuente</span></div>
+    `;
+
+    const actualizado = document.getElementById('lp-actualizado');
+    if (actualizado && visibles[0].fecha) {
+        actualizado.textContent = `Actualizado ${fechaCorta(visibles[0].fecha).toLowerCase()} · ${fmt(visibles.length)} casos con fuente`;
+    }
+
+    // Una columna por sección con sus 3 casos más recientes
+    document.getElementById('portada-desks').innerHTML = Object.entries(SECCIONES_PORTADA).map(([key, sec]) => {
+        const casos = visibles.filter(c => seccionDeCaso(c) === key && !usados.has(c.id)).slice(0, 3);
+        return `
+            <section class="lp-desk" style="--c: ${sec.color}">
+                <header class="lp-desk-head">
+                    <h2>${sec.nombre}</h2>
+                    <a href="${sec.ancla}">${fmt(porSeccion[key])} ${sec.unidad} <i class="fas fa-arrow-right"></i></a>
+                </header>
+                <p class="lp-desk-sub">${sec.sub}</p>
+                ${casos.map(c => {
+                    const cat = findCategoriaInfo(c.categoria);
+                    return `
+                    <a href="#" class="lp-story" data-caso="${c.id}">
+                        ${key === 'terremoto' ? `${signoHTML(c.signo)}` : `<span class="lp-kicker" style="--c: ${sec.color}">${escapeHtml(cat.nombre)}</span>`}
+                        <h3>${escapeHtml(c.titulo)}</h3>
+                        <div class="lp-meta">
+                            ${key === 'terremoto' ? `<span>${escapeHtml(findRegionInfo(c.region).nombre)}</span>` : ''}
+                            <span>${fechaCorta(c.fecha, false)}</span>
+                            ${c.fuentes && c.fuentes[0] ? `<span>${escapeHtml(c.fuentes[0].nombre || '')}</span>` : ''}
+                            ${key === 'archivo' ? estadoHTML(c.estado) : ''}
+                        </div>
+                    </a>`;
+                }).join('')}
+            </section>`;
+    }).join('');
+
+    renderPortadaOpinion();
+
+    // Un solo listener para todo lo clicable de la portada
+    const portada = document.getElementById('portada');
+    if (!portada.dataset.bound) {
+        portada.dataset.bound = '1';
+        portada.addEventListener('click', e => {
+            const el = e.target.closest('[data-caso]');
+            if (!el) return;
+            e.preventDefault();
+            openModal(parseInt(el.dataset.caso, 10));
+        });
+    }
+}
+
+function portadaHistoriaHTML(caso, principal) {
+    const cat = findCategoriaInfo(caso.categoria);
+    const sec = SECCIONES_PORTADA[seccionDeCaso(caso)];
+    const fuentes = (caso.fuentes || []).map(f => f.nombre).filter(Boolean);
+    return `
+        <span class="lp-kicker" style="--c: ${sec.color}">${sec.nombre} · ${escapeHtml(cat.nombre)}</span>
+        <h3 class="${principal ? 'lp-lead-title' : 'lp-second-title'}"><a href="#" data-caso="${caso.id}">${escapeHtml(caso.titulo)}</a></h3>
+        <p class="lp-dek">${escapeHtml(caso.descripcion)}</p>
+        <div class="lp-meta">
+            <span>EXP. #${caso.id}</span>
+            <span>${fechaCorta(caso.fecha)}</span>
+            ${gravedadHTML(caso.gravedad)}
+            ${estadoHTML(caso.estado)}
+        </div>
+        ${fuentes.length ? `<div class="lp-srcs">${[...new Set(fuentes)].slice(0, 3).map(f => `<span>${escapeHtml(f)}</span>`).join('')}</div>` : ''}
+    `;
+}
+
+// Opinión en portada: las 4 primeras columnas publicadas (respeta borradores y el orden del admin)
+function renderPortadaOpinion() {
+    const cont = document.getElementById('portada-opinion');
+    if (!cont) return;
+    const statuses = (typeof articleStatuses !== 'undefined') ? articleStatuses : {};
+    const cards = [...document.querySelectorAll('#temas-grid-sortable .tema-card')]
+        .filter(card => (statuses[card.id] || card.dataset.defaultStatus || 'published') === 'published')
+        .slice(0, 4);
+    cont.innerHTML = cards.map(card => {
+        const h3 = card.querySelector('.tema-header h3');
+        const titulo = h3 ? h3.textContent.trim() : '';
+        return `
+            <a class="lp-col" href="#${card.id}">
+                <span class="lp-q" aria-hidden="true">“</span>
+                <h3>${escapeHtml(titulo)}</h3>
+                <div class="lp-meta"><span>ES</span><span>EN</span></div>
+            </a>`;
+    }).join('');
 }
 
 // ============================================================
@@ -2513,6 +2704,7 @@ async function loadArticleStatuses() {
             articleStatuses = doc.data().statuses || {};
         }
         applyArticleVisibility();
+        renderPortadaOpinion();
     } catch (error) {
         console.error('Error loading article statuses:', error);
     }
@@ -2885,3 +3077,21 @@ async function approveAllPendingCases() {
     filterAndRenderCasos();
     alert('Todos los casos quedaron marcados como revisados');
 }
+
+// Cabecera: "Buscar" lleva al buscador del Archivo Petro
+document.getElementById('lp-search-btn')?.addEventListener('click', () => {
+    const input = document.getElementById('search-input');
+    if (!input) return;
+    input.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(() => input.focus({ preventScroll: true }), 400);
+});
+
+// Barra de secciones: muestra "La Lupa" cuando la cabecera sale de pantalla
+(function () {
+    const nav = document.querySelector('.lp-snav');
+    const mast = document.querySelector('.lp-header');
+    if (!nav || !mast || !('IntersectionObserver' in window)) return;
+    new IntersectionObserver(([entry]) => {
+        nav.classList.toggle('is-stuck', !entry.isIntersecting);
+    }).observe(mast);
+})();
