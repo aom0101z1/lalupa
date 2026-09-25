@@ -221,6 +221,120 @@
   ],
   "casos": [
     {
+      "id": 1295,
+      "titulo": "Recorte presupuestal a la JEP afecta atención a víctimas en 2027",
+      "categoria": "economia",
+      "fecha": "2026-09-24",
+      "descripcion": "El presupuesto 2027 aprobado por el gobierno De la Espriella incluye un recorte de recursos para la Jurisdicción Especial para la Paz (JEP), con cifras que muestran el impacto directo en los programas de atención a víctimas del conflicto armado para el próximo año fiscal.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3ZqQml1aW9hVHZTakswXzU3ZVdRWmRjTEhZUDlka0xCNk1YYUEwTjQ1WEFIeEZPNHNvNnJsS2JLVUxTWUoxcEU4VDJUX0UwMzRfNHctSndlTTBvbmZEb0FjRjVsdktQS1VVLWVuLWJjS19pRU9YNk9OcjNPdy1SMFdJVXQ0eTFvdWZHQkpFRU1DMGoyOXFJZGRndVptN2xoWnotOXZ0VEFtT0dKSHZ4YURHUkpQZ2N5VU1TYV9ibXRBbjlMdmFHczZ0ekVxTVFIMWV3M21XYXpVd3E5?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "JEP / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1294,
+      "titulo": "Enjambre sísmico en Chaparral, Tolima, activa alerta naranja",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-24",
+      "descripcion": "Desde la madrugada del 20 de septiembre de 2026, el municipio de Chaparral, en el sur del Tolima, ha registrado más de 440 sismos en cuatro días, un fenómeno de elevada actividad sísmica que llevó a las autoridades a declarar alerta naranja y reforzar las medidas de preparación ante una eventual emergencia mayor. El Servicio Geológico Colombiano monitorea la situación como parte de un periodo de sismicidad elevada en distintas zonas del país, distinto del terremoto de agosto en el occidente.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/por-que-tiembla-tanto-chaparral-tolima-placas-fallas-geologicas-IJ41486790",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Servicio Geológico Colombiano / Autoridades locales de Tolima",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1293,
+      "titulo": "Gobierno impugna decisión judicial que suspendió piloto de aspersión con glufosinato",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "El Ministerio de Justicia del gobierno De la Espriella presentó impugnación con cinco razones contra el fallo judicial que mantiene suspendido el plan piloto de aspersión aérea con glufosinato para erradicación de cultivos ilícitos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-5-razones-del-gobierno-de-la-espriella-en-la-impugnacion-a-la-decision-que-mantuvo-suspendida-la-aspersion-con-glufosinato-3588752",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1292,
+      "titulo": "Cárcel de Medellín con gestión privada será modelo de megacárceles del gobierno De la Espriella",
+      "categoria": "obras",
+      "fecha": "2026-09-25",
+      "descripcion": "El gobierno De la Espriella planea replicar el modelo de la cárcel de Medellín, la primera concesionada y administrada por un privado en Colombia, para construir nuevas megacárceles ante la falta de presupuesto estatal para prisiones.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/la-carcel-de-medellin-con-privados-que-sera-el-modelo-de-las-megacarceles/",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Inpec / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1291,
+      "titulo": "Juez frena cierre de zona de ubicación de excombatientes en Putumayo",
+      "categoria": "seguridad",
+      "fecha": "2026-09-25",
+      "descripcion": "El Juzgado Segundo Promiscuo del Circuito de Puerto Asís admitió una tutela presentada por excombatientes y suspendió de forma provisional el cierre definitivo de la Zona de Ubicación Temporal (ZUT) del Valle del Guamuez, Putumayo, previsto para el 30 de septiembre de 2026 por orden del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juez-frena-cierre-zona-de-ubicacion-temporal-excombatientes-pausa-plan-gobierno-abelardo-de-la-espriella-MA41506794",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Excombatientes ZUT Putumayo"
+      ],
+      "entidad": "Juzgado Segundo Promiscuo del Circuito de Puerto Asís / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 11:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1290,
       "titulo": "Capturan a dos operarios de El Dorado por intento de tráfico de cocaína en vuelo internacional",
       "categoria": "seguridad",
@@ -29840,7 +29954,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-25",
-    "total_casos": 1201,
+    "total_casos": 1206,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
