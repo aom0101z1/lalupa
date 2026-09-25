@@ -221,6 +221,284 @@
   ],
   "casos": [
     {
+      "id": 1290,
+      "titulo": "Capturan a dos operarios de El Dorado por intento de tráfico de cocaína en vuelo internacional",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "Un operativo de control con circuito cerrado de televisión en el aeropuerto El Dorado de Bogotá permitió detectar y capturar a dos operarios de una empresa de servicios aeroportuarios que intentaban introducir 7 kilos de cocaína en un vuelo internacional. Los capturados fueron puestos a disposición de las autoridades.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/operarios-el-dorado-intentaron-ingresar-cocaina-vuelo-internacional-captura-BJ41481303",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Aeropuerto El Dorado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1289,
+      "titulo": "UNGRD establece lineamientos de prevención ante segunda temporada de lluvias",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-25",
+      "descripcion": "La UNGRD emitió la Circular 085 del 18 de septiembre de 2026, con 38 acciones de prevención y preparación ante la segunda temporada de lluvias de 2026, que afectará principalmente las regiones Andina, Caribe y Pacífica, en un contexto influenciado por el fenómeno de El Niño.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/lluvias-autoridades-preparan-segunda-temporada-en-colombia-LA41508452",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1288,
+      "titulo": "Cae alias Norton, cabecilla del frente 57 'Yair Bermúdez', en combate en el Valle",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "En un combate en el departamento del Valle, murió alias Norton, señalado cabecilla del frente 57 'Yair Bermúdez', junto con otros dos integrantes de la estructura armada. En el operativo del Ejército Nacional también fueron incautadas armas y municiones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-norton-cabecilla-del-frente-57-yair-bermudez-durante-combate-en-el-valle-3588793",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Norton"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1287,
+      "titulo": "Gobierno pide la renuncia al director de Colpensiones tras presentación bochornosa ante el Senado",
+      "categoria": "gabinete",
+      "fecha": "2026-09-24",
+      "descripcion": "El gobierno de Abelardo De La Espriella solicitó la renuncia al recién nombrado director de Colpensiones, luego de que su presentación ante la Comisión Séptima del Senado generara críticas por evidenciar desconocimiento de varios aspectos del cargo, que había asumido apenas tres días antes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-le-pidio-la-renuncia-al-director-de-colpensiones-por-criticas-a-su-presentacion-ante-la-comision-septima-3588755",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Colpensiones / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1286,
+      "titulo": "Capturan a la pareja sentimental de alias Pinocho, cabecilla de las ACSN, por presunto lavado de activos",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "La Policía capturó el 24 de septiembre a Yolima Johana Murgas Guzmán, pareja sentimental de Fredy Castillo Carrillo, alias Pinocho, principal cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada (ACSN, antes 'Los Pachenca'). El procedimiento, realizado en el Caribe colombiano, estaría relacionado con una investigación por presunto lavado de activos, en medio del refuerzo de la búsqueda del cabecilla.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/capturan-pareja-de-alias-pinocho-ofensiva-acsn-autoridades-refuerzan-busqueda-JI41499176",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Yolima Johana Murgas Guzmán",
+        "alias Pinocho",
+        "Fredy Castillo Carrillo"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1285,
+      "titulo": "Operación Iron deja 80 capturas y siete estructuras criminales golpeadas en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "La 'Operación Iron', liderada por el gobierno De la Espriella en el centro de Cali, arrojó un balance de 80 personas capturadas y siete estructuras criminales afectadas, según reportes oficiales del operativo de seguridad en la ciudad.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNajVfVUs0T19OOWlZaklMbUsxektMdGE0YURLUHVyQjJ4REZMX0pGUm5USUc5alVnenhFOWl4amp6LVY5REoxaGI5RzlfTFZTTVk2VTVMamo3MVBCZG55WGNoZjlmTTNpbWlkOWtvZk5Wei02eTU0RGs3b2xCcHpuWGhxM0pzc2NOWFhhT3Ewbmh6MmFaRl9YbFExeGJxbWNkTUtZVzdvWThYUHhBUVNodW9WVXVEa19tUXN0RzY1WjlIMzhfRUdWYWVva0pOSHFRQUZhQk4ydjM5VVZWdG4xRHJR?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1284,
+      "titulo": "Gobierno firma acuerdo para eliminar requisito de visa con país de Asia-Europa",
+      "categoria": "internacional",
+      "fecha": "2026-09-24",
+      "descripcion": "El gobierno de Abelardo de la Espriella firmó un acuerdo con un país ubicado entre Asia y Europa para eliminar el requisito de visa a los colombianos, actualizando el listado de países con los que Colombia tiene facilidades migratorias.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeU1pY09lVWZsMXFweWZGRmduYjN0VFdnZThFNVpZQ3JMVXZkLUhrTGoxcTJ2V09QZmFwMGtuWXo1QVJwUDY5c2lDYnhQMk1XNDhmdGYwSWNlQy1BR0MwMG9TZm5zeGI2M3VjbjhIb0pxRUhLU1BPMWl5cUhEMndwZ3Fla3RITkZBODV3TWtSQ2RNZU5QMV9nTk1XSUJicENRdlRZRlBPMU9vN0xrdllqbEVPaFo3eGQ3UmVHa2p5RmVXTEx4clM3dlVOZ2VPZ3FzN1JaMS1hMTc5bjZFaEhnZ2VqY3pfQWJuZ2QzaUo2RzR0MkFra1YwR1ZlMTZTalJIWVpQRFQ5WXhNeWVMZ1JpbWtfQ0ZMTnJMcnYxSmhabTRtanpMRlQ4T3FBUjA4YXFTOV9aaWpUd09fNkZqRl8xWHNOVzVpelZQRlBfUFlhQUV2RTgxYzFJ0gHyAkFVX3lxTE42QVEzZUFyM0ZMX1BtZ0t5bXBoeHhsdzNNMGNodnZGaVQ2NnBad1JVMlZ6aFR2T2tINXR1eDQtUDFHWVIzQjZCYURDcEotQWxyTmhjWU54RlN0WjI0S1JnWFRnQTBDUGdmamt2ZER4TFp0MXBQSk1ubllzYVA1OEEwVTZTQ2g2Y2xMWjhGSWhJV2dyR2MzSXE2ZlkxMXRPNzFJanVuOGpOSXNCVWpYdHdwNHAzLUJydmFiLVdCYlczMFdQRjV0T3lyUU9SOGltMjZRN0MzbGRQUzFpalBhUWg3cGg4ajhpVk1rUTF2TjQzbDlaNEpZUVpXMEM2OFhjdng5YWZ5bmR0djNiVWRKLXk5Z2pYMUJ2c1J2YXJGZzRhTG9SRXMwMTcxejVPS2FJTXJqc0k3eXZkTUJvbGtBZ21LUF8yZGR6RkE1bmVMdlNmVmpNQmNhWjFFWU9xbEpVN3VCelpMcGtSZ1NFdzRnR1BiSFE?oc=5",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1283,
+      "titulo": "Colombia rompe relaciones diplomáticas con Irán",
+      "categoria": "internacional",
+      "fecha": "2026-09-24",
+      "descripcion": "El gobierno de Abelardo de la Espriella confirmó la ruptura formal de relaciones diplomáticas con Irán, vigente desde el 19 de septiembre de 2026, según la Cancillería, por razones de seguridad nacional, lucha contra el crimen transnacional y situación de derechos humanos en Irán. La medida se suma al giro diplomático del gobierno hacia Israel y Estados Unidos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colombia-rompe-oficialmente-relaciones-diplomaticas-con-iran-HI41498069",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1282,
+      "titulo": "Lista extradición a EE.UU. de alias Araña, cabecilla de 'Comandos de Frontera'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-24",
+      "descripcion": "Giovanni Andrés Rojas, alias Araña, señalado cabecilla de los 'Comandos de Frontera' y requerido por concierto para delinquir y terrorismo, será extraditado a Estados Unidos. Había sido capturado en Bogotá en febrero de 2025 y su extradición fue autorizada por el gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/todo-listo-para-la-extradicion-a-ee-uu-de-alias-arana-senalado-cabecilla-de-los-comandos-de-frontera-3588777",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Giovanni Andrés Rojas"
+      ],
+      "entidad": "Presidencia de la República / Justicia de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1281,
+      "titulo": "Corte Constitucional ordena a Hacienda garantizar recursos para la UPC 2027",
+      "categoria": "economia",
+      "fecha": "2026-09-24",
+      "descripcion": "Ante el ajuste fiscal que enfrenta el gobierno De la Espriella, la Corte Constitucional ordenó al Ministerio de Hacienda tomar medidas presupuestales y financieras para garantizar los recursos de la Unidad de Pago por Capitación (UPC) de 2027, ante el riesgo de que las restricciones de gasto afecten el sistema de salud.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/corte-constitucional-exige-recursos-upc-2027-salud-colombia-NA41502935",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Corte Constitucional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1280,
+      "titulo": "Colombia se suma a 'Escudo de las Américas' contra el crimen transnacional",
+      "categoria": "internacional",
+      "fecha": "2026-09-24",
+      "descripcion": "El 22 de septiembre de 2026, 15 países del Hemisferio Occidental, incluida Colombia, suscribieron la declaración conjunta 'Escudo de las Américas', que incluye a 24 organizaciones catalogadas como narcoterroristas, entre ellas el Clan del Golfo, el ELN y disidencias de las Farc, buscando coordinar acciones de seguridad y cooperación económica regional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/escudo-de-las-americas-clan-del-golfo-eln-disidencias-farc-organizaciones-narcoterroristas-HA41504102",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1279,
+      "titulo": "David Murcia revela que gobierno Petro le ofreció ser gestor de paz",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-25",
+      "descripcion": "David Murcia Guzmán, exdirector de DMG condenado a 22 años por lavado de activos y captación masiva, se retractó de acusaciones contra Abelardo de la Espriella y reveló en carta a la Fiscalía que 'el Gobierno anterior me ofreció ser gestor de paz'. La revelación reabre cuestionamientos sobre el uso del programa de gestores de paz de la administración Petro para beneficiar a condenados por delitos graves.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/david-murcia-retracto-acusacion-abelardo-de-la-espriella-EA41504808",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "David Murcia",
+        "Gustavo Petro"
+      ],
+      "entidad": "Oficina del Alto Comisionado para la Paz / Gobierno de Gustavo Petro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 03:24"
+    },
+    {
       "id": 1278,
       "titulo": "Militares de EE.UU. y Colombia realizan ejercicio conjunto contra enjambres de drones",
       "categoria": "internacional",
@@ -29561,8 +29839,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-24",
-    "total_casos": 1189,
+    "ultima_actualizacion": "2026-09-25",
+    "total_casos": 1201,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
