@@ -5033,3 +5033,14 @@ h1, h2, h3, h4 { font-family: var(--lp-serif); text-wrap: balance; }
 .compare-card, .terremoto-stat { border-radius: 0 !important; box-shadow: none !important; }
 .compare-numero, .terremoto-stat-num { font-family: var(--lp-serif); }
 .compare-vs { font-family: var(--lp-mono); }
+
+/* Barra solo-admin en el modal de caso */
+.admin-caso-bar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:.6rem;
+    margin:0 0 1.2rem; padding:.7rem .9rem; border:1px dashed #B3122E; border-radius:8px; background:#FFF6F7; }
+.admin-caso-estado { font-family:'IBM Plex Mono',monospace; font-size:.8rem; color:#131A26; }
+.admin-caso-acciones { display:flex; flex-wrap:wrap; gap:.5rem; }
+.admin-caso-acciones button { display:inline-flex; align-items:center; gap:.35rem; padding:.45rem .8rem; border:0;
+    border-radius:6px; font-size:.85rem; font-weight:600; cursor:pointer; color:#fff; }
+.admin-caso-acciones .btn-block { background:#B3122E; }
+.admin-caso-acciones .btn-hide { background:#5A6475; }
+.admin-caso-acciones .btn-unblock { background:#1F7A45; }
