@@ -221,6 +221,97 @@
   ],
   "casos": [
     {
+      "id": 1310,
+      "titulo": "Salida de varios funcionarios de entidades clave en las primeras semanas del gobierno De la Espriella",
+      "categoria": "gabinete",
+      "fecha": "2026-09-25",
+      "descripcion": "El Tiempo reporta que, a pocos días de su designación, varios funcionarios de entidades como Colpensiones, el DNP y el Dane han dejado sus cargos o han sido removidos por distintas razones, generando cuestionamientos sobre la estabilidad temprana del gabinete del presidente Abelardo de la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colpensiones-dnp-dane-y-los-otros-funcionarios-que-se-han-caido-del-gobierno-de-de-la-espriella-a-pocos-dias-de-su-designacion-3588844",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colpensiones / DNP / Dane",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 21:06",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1309,
+      "titulo": "Fuerza Pública desmantela red de extorsión del ELN con talonarios en Catatumbo",
+      "categoria": "seguridad",
+      "fecha": "2026-09-25",
+      "descripcion": "En una operación conjunta en el corregimiento de Campo Dos, municipio de Tibú (Norte de Santander), las autoridades decomisaron talonarios de 'paz y salvo' que el ELN usaba para cobrar extorsiones y organizar peajes ilegales en corredores viales. Fueron capturados cinco presuntos miembros del frente Juan Fernando Porras, entre ellos alias El Indio, señalado como líder financiero y hombre de confianza de alias Silvana Guerrero.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eln-registra-extorsiones-con-talonarios-en-catatumbo-norte-santander-DB41512032",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "alias El Indio",
+        "alias Silvana Guerrero"
+      ],
+      "entidad": "Ejército Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 21:06",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1308,
+      "titulo": "Gobierno De la Espriella anuncia racionamiento de gas en Colombia",
+      "categoria": "economia",
+      "fecha": "2026-09-25",
+      "descripcion": "El gobierno de Abelardo de la Espriella confirmó la implementación de un racionamiento de gas natural en Colombia, medida que responde a problemas de abastecimiento energético en el país. La decisión afecta a hogares y sectores productivos y marca una de las primeras medidas económicas de alto impacto del nuevo gobierno en materia energética.",
+      "evidencia": "Reportado por redmas.com.co",
+      "fuentes": [
+        {
+          "nombre": "redmas.com.co",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVVaclhobklDRHFGSFZ5OC13cDZ5RG5DN21yRnEtTXVpUzRpeS0tZVJYcEZLbkdZMU1kWThGcWpGMUdUbUhCZEVGTmQyMmhLM0VRXzdlQk9Dd21xYlBxU1JEOUxNZmloMHJwSW9aVDByM0M2YkZ0NHZqdHNOenR5Y2pOUXBySFJxclZlc29PVl9uSkhXM1RJSTItNks3VDFqc1B1WjNjaURNQmtlVnJieFFqTXQyS1ZBS0NUNEtSak9nYzlwM0hSZk8tU19McGJfSjh0U0N3?oc=5",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-25 21:06",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1307,
+      "titulo": "Gobierno De la Espriella inicia plan de austeridad con cierre de 14 contratos",
+      "categoria": "transparencia",
+      "fecha": "2026-09-25",
+      "descripcion": "El gobierno de Abelardo de la Espriella puso en marcha un plan de austeridad que incluyó el cierre de 14 contratos considerados innecesarios o redundantes, liberando 801 millones de pesos que serán reasignados dentro del presupuesto nacional. La medida se presenta como parte de la política de transparencia y ajuste fiscal del nuevo gobierno.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPV2pWLXhfY2R5TGh0TGdFc25xZ2RkQ3NwOWE1SDNoOXZNRlVaR0tBUWtael96MVV5VC1BOU5rTW9OZ3BVbzh1Vk5hVTl6X0UwUlBfcXFKYjBNUmg2d01WTHlHUEQ2OG1mam9XT0xNM0ZiUU9ldE13VG9PLTNWUzN5WGJuQkwtSnAwSFBJSW5KMUM5bDJnLUdBN2pYaFQ5WVhFUFA5d0hoazhIS2s5RVd4RVNwOGl5Q2RRMnNvd3FHN1M1dVpnbmNETGRNRVpBUmlreFRSU3FSVkV0NG5lSTZhdjZwYjNqaVlyeHFNUTRZWFo0cU5fcmhkUW9DbTFsYTI5ZmtqY2E5VHhGLTJkSGs5R2dQblkwd1oz0gGYAkFVX3lxTE9XalYteF9jZHlMaHRMZ0VzbnFnZGRDc3A5YTVIM2g5dk1GVVpHS0FRa1p6X3oxVXlULUE5TmtNb05ncFVvOHVWTmFVOXpfRTBSUF9xcUpiME1SaDZ3TVZMeUdQRDY4bWZqb1dPTE0zRmJRT2V0TXdUb08tM1ZTM3lYYm5CTC1KcDBIUElJbkoxQzlsMmctR0E3alhoVDlZWEVQUDl3SGhrOEhLazlFV3hFU3A4aXlDZFEyc293cUc3UzV1WmduY0RMZE1FWkFSaWt4VFJTcVJWRXQ0bmVJNmF2NnBiM2ppWXJ4cU1RNFlYWjRxTl9yaGRRb0NtMWxhMjlma2pjYTlUeEYtMmRIazlHZ1BuWTB3WjM?oc=5",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-25 21:06",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1306,
       "titulo": "ANT se pone a disposición de empresarios de hidrocarburos para destrabar proyectos por líos de tierras",
       "categoria": "economia",
@@ -30211,7 +30302,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-25",
-    "total_casos": 1217,
+    "total_casos": 1221,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
