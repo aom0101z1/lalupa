@@ -221,6 +221,147 @@
   ],
   "casos": [
     {
+      "id": 1330,
+      "titulo": "Operativos de seguridad dejan capturas y golpes a rentas criminales en Meta, Guaviare y Vichada",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "Autoridades reportaron capturas por homicidio y porte ilegal de armas, además de la destrucción de un laboratorio de coca y una unidad de producción minera ilegal en operativos realizados en los departamentos de Meta, Guaviare y Vichada, como parte de la estrategia de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/homicidios-armas-y-rentas-criminales-el-balance-de-los-operativos-en-meta-guaviare-y-vichada-3589169",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 15:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1329,
+      "titulo": "Gobierno activa ruta para garantizar pago de mesadas pensionales ante déficit de $5,4 billones",
+      "categoria": "economia",
+      "fecha": "2026-09-26",
+      "descripcion": "El Gobierno Nacional activó una ruta para asegurar el pago de mesadas pensionales ante un déficit de $5,4 billones para lo que resta de 2026. La alerta coincide con la puesta en marcha de la reforma pensional prevista para 2027, que ampliará cotizantes de Colpensiones, proceso para el cual también se identificó un faltante adicional de $4,84 billones.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/26/gobierno-activo-ruta-para-asegurar-pago-de-mesadas-ante-deficit-de-54-billones-para-lo-que-resta-de-2026-la-plata-de-nuestros-pensionados-es-sagrada/",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Colpensiones / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 15:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1328,
+      "titulo": "Nuevo balance de seguridad: 47 capturas en operativos de la Fuerza Pública",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "El presidente Abelardo De la Espriella entregó un balance actualizado de operativos de la Fuerza Pública con 47 capturas, ordenando mantener la presión militar en zonas críticas como Norte de Santander y Santa Marta ante acciones de grupos armados organizados.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-entrega-balance-actualizado-de-operativos-de-la-fuerza-publica-47-capturas-3589155",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 15:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1327,
+      "titulo": "Alias Pinocho interpone tutela contra el gobierno alegando 'seguridad jurídica'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-25",
+      "descripcion": "Fredy Castillo Carrillo, alias 'Pinocho', señalado cabecilla de 'los Pachenca', presentó junto a su hermano Evelio Castillo Carrillo, alias 'Muñeca', una acción de tutela alegando vulneración de derechos fundamentales y buscando 'seguridad jurídica', en medio del ultimátum que le dio el presidente Abelardo de la Espriella tras las operaciones militares contra su estructura criminal.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-pinocho-cabecilla-los-pachenca-tutela-contra-gobierno-por-seguridad-juridica-CD41536015",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Fredy Castillo Carrillo",
+        "Evelio Castillo Carrillo",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Rama Judicial / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 15:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1326,
+      "titulo": "Olmedo López, testigo clave de UNGRD, trasladado a clínica por quebrantos de salud",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-26",
+      "descripcion": "Olmedo López, exdirector de la UNGRD y testigo clave en el escándalo de corrupción de la entidad, fue trasladado el 25 de septiembre de 2026 desde el Batallón Caldas a una clínica privada en Bogotá tras presentar un fuerte dolor en el pecho mientras permanece recluido. Se evalúa si se trata de una afección cardíaca; hasta el momento no hay diagnóstico confirmado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/olmedo-lopez-trasladado-clinica-presentar-cual-es-estado-de-salud-CF41553652",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Olmedo López"
+      ],
+      "entidad": "UNGRD / Inpec",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 15:46"
+    },
+    {
+      "id": 1325,
+      "titulo": "Balance de seguridad: 72 capturas y 6 bajas en 24 horas, más de 25.000 capturas acumuladas",
+      "categoria": "seguridad",
+      "fecha": "2026-09-25",
+      "descripcion": "El presidente Abelardo De la Espriella anunció 72 capturas y 6 'narcoterroristas' dados de baja en las últimas 24 horas. Según el balance oficial, desde el inicio de su mandato se han registrado más de 25.000 capturas y 100 toneladas de droga incautadas en operativos de seguridad en todo el país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-anuncio-72-capturas-y-6-narcoterroristas-dados-de-baja-en-las-ultimas-24-horas-3588966",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 15:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1324,
       "titulo": "Gobierno aclara críticas a la ONU tras intervención en la Asamblea General",
       "categoria": "internacional",
@@ -30627,7 +30768,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-26",
-    "total_casos": 1235,
+    "total_casos": 1241,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
