@@ -221,6 +221,169 @@
   ],
   "casos": [
     {
+      "id": 1337,
+      "titulo": "Refuerzo militar en Magdalena tras operación contra 'los Pachenca'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "Más de 100 soldados fueron trasladados desde La Loma, Cesar, hacia el Magdalena con apoyo de un avión Hércules C-130 de la Fuerza Aérea, como refuerzo tras la operación contra la estructura criminal 'los Pachenca' en la región de Santa Marta.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mas-de-100-soldados-llegan-al-magdalena-para-reforzar-la-seguridad-tras-la-operacion-contra-los-pachenca-3589183",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Aérea Colombiana / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1336,
+      "titulo": "330 capturas por extorsión en Barranquilla y $3.000 millones en pagos frustrados",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "La Policía Nacional reportó que en lo corrido de 2026 los operativos del Gaula en Barranquilla y municipios cercanos han dejado 330 capturas por extorsión y delitos conexos, de las cuales 323 fueron cobijadas con medida de aseguramiento intramural. Las investigaciones permitieron frustrar pagos por más de $3.000 millones destinados a organizaciones criminales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/barranquilla-capturas-extorsion-pagos-frustrados-delincuentes-cifras-MG41564549",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Gaula",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1335,
+      "titulo": "Canciller Bula cierra agenda en la ONU con acuerdos de energía, seguridad y respuesta al terremoto",
+      "categoria": "internacional",
+      "fecha": "2026-09-26",
+      "descripcion": "El canciller Bula concluyó su agenda en Nueva York con reuniones con Panamá, Australia y la ONU, en las que se abordaron temas de interconexión eléctrica, cooperación en narcotráfico y apoyo internacional a la respuesta ante el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/bula-cierra-agenda-en-nueva-york-con-acuerdos-de-energia-y-seguridad/",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Bula"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1334,
+      "titulo": "Beatriz Vélez asume como nueva presidenta de Colpensiones tras salida exprés de Montoya",
+      "categoria": "gabinete",
+      "fecha": "2026-09-26",
+      "descripcion": "El presidente Abelardo De la Espriella designó a Beatriz Eugenia Vélez Vengoechea, abogada con más de 30 años de experiencia y magíster en Seguridad Social, como nueva presidenta de Colpensiones. Reemplaza a Carlos René Montoya, quien apenas duró tres días en el cargo tras una presentación bochornosa ante el Senado por falta de conocimiento sobre el tema pensional. Vélez tendrá como tareas proteger los recursos de los afiliados y garantizar el pago oportuno de mesadas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/beatriz-velez-vengoechea-nueva-presidenta-colpensiones-FH41570656",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Beatriz Eugenia Vélez Vengoechea",
+        "Carlos René Montoya",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1333,
+      "titulo": "Gobierno descarta intervención de Afinia pese a crisis estructural del servicio eléctrico",
+      "categoria": "economia",
+      "fecha": "2026-09-26",
+      "descripcion": "El alcalde de Medellín, Federico Gutiérrez, confirmó que el Gobierno Nacional descartó intervenir la empresa de energía Afinia, que atraviesa una crisis estructural de prestación del servicio en la Costa Caribe. La decisión se toma tras evaluación de medidas alternativas para resolver los problemas del operador eléctrico.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHFFQS1xd2N4Rnd5YkExSXo3ZzY0QVRBbDhOUTFNVll6T0RlYkY1Nkd2ak9qeUQyWmNSV3FTYW9pRkFDUWdOclBXcVl4R0U2bjJCdnR6R1YyNm9mdTVVMUZUTThuek41b1lLVk1vVXhzZWxCa2RoNkl0UGUybXFWeWV2aVRXTXh3X0o4UDFqeHFYLU5BS0xnUkQtblZQZlhvMVhXbkNLVUgzZVZkVVN2U1RmdHZZdm8ybGc4cnRWWdIB0wFBVV95cUxOQllXZ0I2MlBFUjA2RkJjMzk0UkRrNXl1cmRiTmxMaFNRMjRjOC1qNHZGNUtEanEtTWp4TkFpOEROYWlLX0hpT2ZPb043MVZod1JwOF80RGxHbnYxeUd1dDdwNVlHbVpfREd1cE03b3RmNlRqNDRCd2ZHZE5wYmdnX0hTV0VCdElzYXFrcmVUWEw0eXZtNnFlWk5pZWdDbVhVZkY0UHlpMVE3LTJXazB3LTZRNFBjaEtzc3owckROSmJKbXdSVVhxTEdqbW5uaUsxalBF?oc=5",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Federico Gutiérrez"
+      ],
+      "entidad": "Afinia / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1332,
+      "titulo": "Corte Suprema remite a la Fiscalía el caso de Armando Benedetti",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-25",
+      "descripcion": "La Corte Suprema de Justicia decidió enviar a la Fiscalía General de la Nación el proceso que se adelanta contra el exministro y exembajador Armando Benedetti, en el marco de las investigaciones sobre presuntas irregularidades cometidas durante su gestión en el gobierno de Gustavo Petro.",
+      "evidencia": "Reportado por lanacion.com.co",
+      "fuentes": [
+        {
+          "nombre": "lanacion.com.co",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXVMemlUZnIxazNuajZFSzFyWnA0NTFIdGtWZndVeVI1YmRhZ3Jaazh6YWpGOUFmUmMwcGJHM1hMNFFGaXBjel9lRXVkTGpmYUVSS1dtOE04NUV6QXJYdDVmRDZMZ3p0eE9WeWVFcTdJZjUyN0dXMWVDV0lLVFlhWHotNmRiRW1BczNCcHVIcy16Zw?oc=5",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Corte Suprema de Justicia / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39"
+    },
+    {
+      "id": 1331,
+      "titulo": "Gaula Militar y CTI hallan depósito del 'clan del Golfo' con armas y uniformes de Policía y EPM en Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "Una operación del Gaula Militar Oriente y el CTI en la vereda Santa Elena, Antioquia, permitió hallar un depósito del 'clan del Golfo' con armas, radios y uniformes falsos de la Policía y de EPM. En el operativo fue capturada una mujer vinculada a la estructura criminal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-deposito-del-clan-del-golfo-con-armas-y-uniformes-de-policia-y-epm-en-antioquia-3589211",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gaula Militar Oriente / CTI",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 20:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1330,
       "titulo": "Operativos de seguridad dejan capturas y golpes a rentas criminales en Meta, Guaviare y Vichada",
       "categoria": "seguridad",
@@ -30768,7 +30931,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-26",
-    "total_casos": 1241,
+    "total_casos": 1248,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
