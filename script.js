@@ -161,6 +161,7 @@ async function init() {
         renderStats();
         filterAndRenderCasos();
         renderPortada();
+        openCasoFromHash();
 
         // Fecha de última actualización: la más reciente entre estadisticas y los casos publicados
         if (ultimaActualizacion) {
@@ -495,6 +496,14 @@ function renderPortada() {
         cifraEl.innerHTML = portadaHistoriaHTML(segunda, false);
     }
 
+    // Más titulares bajo las dos primeras columnas, para que no queden cortas junto a "Lo último"
+    const masLead = visibles.filter(c => !usados.has(c.id) && c.gravedad === 'alta').slice(0, 2);
+    masLead.forEach(c => usados.add(c.id));
+    const masSegunda = visibles.filter(c => !usados.has(c.id)).slice(0, 2);
+    masSegunda.forEach(c => usados.add(c.id));
+    lead.insertAdjacentHTML('beforeend', portadaMasHTML(masLead));
+    cifraEl.insertAdjacentHTML('beforeend', portadaMasHTML(masSegunda));
+
     // Lo último: 6 más recientes de cualquier sección
     const ultimos = visibles.filter(c => !usados.has(c.id)).slice(0, 6);
     ultimos.forEach(c => usados.add(c.id));
@@ -591,6 +600,19 @@ function portadaHistoriaHTML(caso, principal) {
         </div>
         ${fuentes.length ? `<div class="lp-srcs">${[...new Set(fuentes)].slice(0, 3).map(f => `<span>${escapeHtml(f)}</span>`).join('')}</div>` : ''}
     `;
+}
+
+function portadaMasHTML(casos) {
+    if (!casos.length) return '';
+    return `<div class="lp-more">${casos.map(c => {
+        const sec = SECCIONES_PORTADA[seccionDeCaso(c)];
+        return `
+            <a href="#" class="lp-more-item" data-caso="${c.id}">
+                <span class="lp-kicker" style="--c: ${sec.color}">${sec.nombre} · ${escapeHtml(findCategoriaInfo(c.categoria).nombre)}</span>
+                <h4>${escapeHtml(c.titulo)}</h4>
+                <div class="lp-meta"><span>${fechaCorta(c.fecha, false)}</span>${c.fuentes && c.fuentes[0] ? `<span>${escapeHtml(c.fuentes[0].nombre || '')}</span>` : ''}</div>
+            </a>`;
+    }).join('')}</div>`;
 }
 
 // Opinión en portada: las 4 primeras columnas publicadas (respeta borradores y el orden del admin)
@@ -1045,6 +1067,21 @@ function openModal(id) {
                 </ul>
             </div>
         ` : ''}
+
+        <div class="share-section">
+            <div class="share-header">
+                <i class="fas fa-share-alt"></i>
+                <span>Compartir este caso</span>
+            </div>
+            <div class="share-buttons" data-title="${escapeHtml(caso.titulo).replace(/"/g, '&quot;')}" data-id="caso-${caso.id}">
+                <a class="share-btn whatsapp" onclick="shareArticle('whatsapp', this)" title="Compartir en WhatsApp"><i class="fab fa-whatsapp"></i><span>WhatsApp</span></a>
+                <a class="share-btn facebook" onclick="shareArticle('facebook', this)" title="Compartir en Facebook"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
+                <a class="share-btn x-twitter" onclick="shareArticle('twitter', this)" title="Compartir en X"><i class="fab fa-x-twitter"></i><span>X</span></a>
+                <a class="share-btn telegram" onclick="shareArticle('telegram', this)" title="Compartir en Telegram"><i class="fab fa-telegram-plane"></i><span>Telegram</span></a>
+                <a class="share-btn linkedin" onclick="shareArticle('linkedin', this)" title="Compartir en LinkedIn"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a>
+                <a class="share-btn copy-link" onclick="shareArticle('copy', this)" title="Copiar enlace"><i class="fas fa-link"></i><span>Copiar</span></a>
+            </div>
+        </div>
 
         <div id="rating-container"></div>
         <div id="comments-container"></div>
@@ -2682,8 +2719,18 @@ function openArticleFromHash() {
     }
 }
 
+// Enlace compartido a un caso: index.html#caso-1329 abre su modal (solo si el caso está publicado)
+function openCasoFromHash() {
+    const m = window.location.hash.match(/^#caso-(\d+)$/);
+    if (!m || !data.casos) return;
+    const caso = data.casos.find(c => c.id === parseInt(m[1], 10));
+    const esAdmin = typeof isAdmin !== 'undefined' && isAdmin;
+    if (caso && (esAdmin || isCasoAprobado(caso))) openModal(caso.id);
+}
+
 // Handle hash changes (when user clicks back/forward or shares link)
 window.addEventListener('hashchange', openArticleFromHash);
+window.addEventListener('hashchange', openCasoFromHash);
 
 // Call initTemas after a delay to ensure Firebase is ready
 setTimeout(initTemas, 1000);

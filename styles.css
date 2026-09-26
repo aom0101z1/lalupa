@@ -5044,3 +5044,21 @@ h1, h2, h3, h4 { font-family: var(--lp-serif); text-wrap: balance; }
 .admin-caso-acciones .btn-block { background:#B3122E; }
 .admin-caso-acciones .btn-hide { background:#5A6475; }
 .admin-caso-acciones .btn-unblock { background:#1F7A45; }
+
+/* ---------- Portada: más titulares bajo las dos primeras columnas ---------- */
+.lp-more { display: grid; margin-top: 10px; border-top: 2px solid var(--lp-ink); }
+.lp-more-item {
+    display: grid;
+    gap: 6px;
+    padding-block: 14px;
+    border-bottom: 1px solid var(--lp-rule);
+    text-decoration: none;
+    color: var(--lp-ink);
+}
+.lp-more-item:last-child { border-bottom: 0; padding-bottom: 0; }
+.lp-more-item h4 { font-family: var(--lp-serif); font-size: 18px; font-weight: 600; line-height: 1.22; margin: 0; }
+.lp-more-item:hover h4 { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---------- Compartir dentro del modal de caso ---------- */
+.modal-body .share-section { border-top-color: var(--lp-rule); margin-bottom: 8px; }
+.modal-body .share-btn { padding: 8px 14px; font-size: 0.8rem; }
