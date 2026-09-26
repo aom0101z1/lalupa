@@ -221,6 +221,212 @@
   ],
   "casos": [
     {
+      "id": 1319,
+      "titulo": "Operación Santa Marta identifica tres objetivos clave restantes de 'los Pachenca'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-25",
+      "descripcion": "El Tiempo accedió a un informe de inteligencia sobre la estructura de 'los Pachenca' tras recientes operativos militares y policiales en Santa Marta, identificando tres cabecillas objetivo pendientes de captura, sus redes de apoyo y corredores de narcotráfico utilizados por la organización.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-santa-marta-el-cerco-sobre-los-tres-objetivos-clave-que-quedan-de-los-pachenca-3588950",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1318,
+      "titulo": "MinEducación emite directiva para garantizar clases en Santa Marta tras paro armado",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-25",
+      "descripcion": "El Ministerio de Educación expidió la Directiva 011 de 2026 con orientaciones para que las clases continúen bajo condiciones seguras en Santa Marta, tras las alteraciones de orden público por el paro armado de las ACSN iniciado el 21 de septiembre que afectó la prestación del servicio educativo en zonas rurales de la ciudad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mineducacion-medidas-garantizar-clases-santa-marta-crisis-orden-publico-LE41546418",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educación / Secretaría de Educación de Santa Marta",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1317,
+      "titulo": "Contratista guajiro mencionado en caso UNGRD celebra megafiesta con artistas internacionales",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-26",
+      "descripcion": "Luis Carlos Arismendi, contratista guajiro conocido como 'Luisca' cuyo nombre aparece en chats del caso UNGRD vinculados a presuntas reuniones entre la congresista Martha Peralta y Sneyder Pinilla en Riohacha, celebró una fiesta de cumpleaños con artistas como Peter Manjarrés, Iván Villazón y Mario Cerchar, generando cuestionamientos por el despliegue de recursos mientras su nombre sigue ligado a la investigación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/luis-carlos-arismendi-megafiesta-artistas-internacionales-empresario-relacionado-caso-ungrd-MD41539454",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Arismendi",
+        "Martha Peralta",
+        "Sneyder Pinilla"
+      ],
+      "entidad": "Fiscalía General de la Nación / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29"
+    },
+    {
+      "id": 1316,
+      "titulo": "Santa Marta se suma al Bloque de Seguridad Urbana y Defensa del gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el 25 de septiembre de 2026 que Santa Marta se incorpora a los Bloques de Seguridad Urbana y Defensa, tras un consejo de seguridad con autoridades locales, departamentales y Fuerza Pública. La estrategia contempla mayor patrullaje y vigilancia aérea para enfrentar extorsión, homicidio y narcotráfico, luego de tres días de paro armado de las ACSN en la ciudad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/bloque-seguridad-urbana-santa-marta-patrullajes-JF41559451",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1315,
+      "titulo": "RTVC denuncia crisis financiera por compromisos económicos dejados por el gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-25",
+      "descripcion": "El Sistema de Medios Públicos RTVC denunció que quedó 'sin un peso', señalando que la administración del gobierno Petro habría comprometido recursos en conciertos y otros eventos que superan la disponibilidad actual, poniendo en riesgo el pago de servicios públicos y arrendamientos necesarios para mantener al aire la radio y televisión estatales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/rtvc-dice-esta-sin-recursos-gobierno-petro-habria-comprometido-plata-en-conciertos-y-otros-eventos-HF41554416",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "RTVC (Sistema de Medios Públicos)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29"
+    },
+    {
+      "id": 1314,
+      "titulo": "Consejo de Estado decreta pérdida de investidura de Iván Name por corrupción en la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-25",
+      "descripcion": "El Consejo de Estado decretó la pérdida de investidura del exsenador y expresidente del Senado Iván Name, al concluir que recibió 3.000 millones de pesos a cambio de favorecer el trámite de la reforma pensional del gobierno Petro, en el marco del escándalo de corrupción de la UNGRD.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/ungrd-consejo-de-estado-decreto-perdida-de-investidura-contra-ivan-name/",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Name"
+      ],
+      "entidad": "Consejo de Estado",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29"
+    },
+    {
+      "id": 1313,
+      "titulo": "Gobierno nombra nuevo presidente de Ecopetrol y lanza estrategia de seguridad 360° en Santa Marta",
+      "categoria": "gabinete",
+      "fecha": "2026-09-25",
+      "descripcion": "El gobierno de Abelardo de la Espriella presentó al nuevo presidente de Ecopetrol en medio de la reestructuración de la petrolera estatal, y anunció una estrategia de seguridad integral (360°) para Santa Marta, en el marco de las acciones contra grupos armados en la región.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYnBmeWw2eHUydzM3bk5wbFFFdFNtNEloUjBNeEpTRVpzUExCaXRWbXYtYVlhd0dtSmFfV1pGbXUzWE9CUXM4YlVuNm9KMlBPM3hFVTVkR1VaRVo2LWZkNFMta293Z2RKNjJ6QVdOblFZU3JpUjI2OGxhb2lpZ05LbmpZbWg3N0QwZkRybk1jZEdYMXNOTTZxSjJ1Z1U3eTk3a2NJQVN1UnZ4ajlaMk4zRzNmYlU5SmIzUzNoRG0wZmh6SkQw0gHKAUFVX3lxTE9mYUt1bDhFeGp1UkVrWVlJbHUzMDF5MF8xaFRYb1ZtNW1XejNmbWd3d1o0dWJKOEs1VzVBT1Q1SE1ySGR5QkN1eTdUNGRKRXZHcWJaeWQzVm9tdGNtdi03cE5pZ1VMb3JaOElQZGNKMWpNLS1QQ1hKdkdEdldRbU91N0ZsSjdkSFZmLWJSU3NiS3hROFVCZWxTcTBkU3puMHRoRUVzNkhsMFNYZW1rdzZNV180LVdSSGNYajBFUjRyeWJCajZ0NV9aS2c?oc=5",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1312,
+      "titulo": "Denuncia engavetada por falso testimonio contra testigo clave del caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-25",
+      "descripcion": "En el caso UNGRD, la denuncia por presunto falso testimonio contra Pedro José Castro Espinoza, señalado 'prestamista' y pieza clave en la ruta del dinero que habrían recibido Iván Name y Andrés Calle según la versión de Sneyder Pinilla, no ha avanzado en la Fiscalía pese a haber sido radicada hace tiempo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ungrd-denuncia-falso-testimonio-pedro-castro-prestamista-sneyder-pinilla-no-avanza-fiscalia-CC41527072",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro José Castro Espinoza",
+        "Sneyder Pinilla",
+        "Iván Name",
+        "Andrés Calle"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29"
+    },
+    {
+      "id": 1311,
+      "titulo": "Ministerio de Vivienda destapa irregularidades en proyectos de agua en La Guajira y vivienda en Cauca del gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-09-25",
+      "descripcion": "Una auditoría fiscal del Ministerio de Vivienda reveló irregularidades en proyectos de agua potable en La Guajira y de vivienda en Cauca ejecutados durante el gobierno Petro, además de un incremento superior al 80% en la contratación pública mediante contratos de prestación de servicios, lo que generó dudas sobre el destino de los recursos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/ministerio-de-vivienda-destapa-irregularidades-en-proyectos-de-agua-en-la-guajira-y-vivienda-durante-gobierno-petro-3589013",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-26 03:29"
+    },
+    {
       "id": 1310,
       "titulo": "Salida de varios funcionarios de entidades clave en las primeras semanas del gobierno De la Espriella",
       "categoria": "gabinete",
@@ -30301,8 +30507,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-25",
-    "total_casos": 1221,
+    "ultima_actualizacion": "2026-09-26",
+    "total_casos": 1230,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
