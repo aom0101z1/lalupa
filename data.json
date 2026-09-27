@@ -221,6 +221,98 @@
   ],
   "casos": [
     {
+      "id": 1341,
+      "titulo": "Gobierno refuerza seguridad de alcaldes en Bolívar y Magdalena y cuestiona a la UNP",
+      "categoria": "seguridad",
+      "fecha": "2026-09-27",
+      "descripcion": "El Gobierno Nacional anunció una decisión para reforzar los esquemas de seguridad de alcaldes en los departamentos de Bolívar y Magdalena, en medio de cuestionamientos a la gestión de la Unidad Nacional de Protección (UNP) frente a las amenazas contra mandatarios locales en la región Caribe.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUk0dUY1amwyQ0hCV1BYRTVFaDBmU2xzalZwd1RURlBlZldNRy0xaV8wZ0ZWMm1janFOS240bmplaXptTld2Z05RdWtIcWxvMm5VZWg2WHVSbV84a3JDaGZ2bElCWUVNdGZURmllSzZxWmpuRkRtRFNXUmFpWEVDRnpDeGhoSms2dlFXTlZnLVVWOTIycWNrc2hhWlF3R3hzVDZ1dnNDLTI0cGd3NFJrSGFiSlhmZ0QwQ3hpSw?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional de Protección (UNP) / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 03:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1340,
+      "titulo": "Gobierno pacta con Enel y AES para evitar apagones por El Niño",
+      "categoria": "economia",
+      "fecha": "2026-09-26",
+      "descripcion": "El Gobierno de Abelardo De la Espriella llegó a un acuerdo con las empresas energéticas Enel y AES para evitar posibles apagones ante la llegada del fenómeno de El Niño, en medio de la crisis del sector eléctrico en varias regiones del país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmN3aUxCd05QUUJHWXBfbURjZEdLbzVVTjBiOHI1TllZOW9xb1BsUUpNZ2FlaVdCMm9ETFl5TUROYkhJbzRuc3JCSF9SaGVLQXM0WGVhRWd0emlWdDRXMXRVWHVkS2FiVWJXUWlQbDBxdUVLYmJDNGZ5V1RDVDc1ODh4ZFg1RHNhUWkzZEExQ1ZhSy05aktKeVJVRWx2MkZ6UUY5RFV3aUZVQW5xejQ3WjhfSXRYVE9HU1FRdWtWSFQ4emRvTTlj0gHMAUFVX3lxTFBJejJ6VmU2a2xaV1pQY01KRFAtNW5NOXROYVdGNW5WYU5wYlZEQzZHT3Job1p4UE5ZNm9kV1RfQ3BVZTZkaDV3dVQzT1RYeE9ocGtzMjdmMHRYZnd5aTJldWpfU2NJRFZnRnJHaXFVbVpjVHN4djJxUUs5b1N2V1QxY0NvMER3dHB2ZzZHajdpRGlJM0tCZ0hqT1Z6TGNCTmVTbXo2eGQ5UzZ6SzFFSjZmb3J4ODBhdi1KcGVVTnpQdEdHMzBId3lhRW4tVA?oc=5",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Enel / AES / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 03:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1339,
+      "titulo": "Gobierno retira gestoría de paz a Salvatore Mancuso",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "Mediante la Resolución 429 de 2026, firmada por el presidente Abelardo de la Espriella, el Gobierno Nacional retiró formalmente el papel de gestor de paz a Salvatore Mancuso. El portavoz presidencial Miller Soto explicó que cualquier proceso de sometimiento o desmovilización deberá pasar por la ley y las instituciones competentes.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/salvatore-mancuso-abelardo-de-la-espriella-JH41571109",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Salvatore Mancuso",
+        "Miller Soto"
+      ],
+      "entidad": "Presidencia de la República / Oficina del Alto Comisionado para la Paz",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 03:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1338,
+      "titulo": "Gobierno advierte baja ejecución e irregularidades en recursos para las regiones",
+      "categoria": "empalme",
+      "fecha": "2026-09-27",
+      "descripcion": "El Gobierno de Abelardo De la Espriella anunció que revisará millonarios recursos destinados a las regiones tras detectar baja ejecución presupuestal y posibles irregularidades, en el marco del seguimiento a la gestión heredada del gobierno anterior.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQm9tbVRCamlJUk5qRXFWMHhEdzdFM3NJdzd4b3p6U0hOSWdMeTVtZzg1ODhNQlVNM1Z6OHUyOW9KNTZpOEVVajlYYllSZVdsbXhfcXl0TDcwblFScW82UjBvQjR4WHBSTmVWRmxBQm81ZlFQZEJrVU8yblo5NWwyMEVjNnZOODl2NjlaUVB4V2VHWXc0QXNaQ1E4NVVTTDgtQ2FVSi1YNkpZMFFYa3FDblhqNFd4Z3dYSGs1YmlZODZlem1WRkZLR2k3QS1EVGMwNk1tN3A4UFNRb1RYUVpiUVNwWXpsYWc3aUZLZnRYVDAxd3ZEVzNXb1c3WHRnNE0?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 03:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1337,
       "titulo": "Refuerzo militar en Magdalena tras operación contra 'los Pachenca'",
       "categoria": "seguridad",
@@ -30930,8 +31022,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-26",
-    "total_casos": 1248,
+    "ultima_actualizacion": "2026-09-27",
+    "total_casos": 1252,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
