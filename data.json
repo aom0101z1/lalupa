@@ -221,6 +221,172 @@
   ],
   "casos": [
     {
+      "id": 1348,
+      "titulo": "Fin de 'cárceles resort' para procesados de cuello blanco",
+      "categoria": "transparencia",
+      "fecha": "2026-09-26",
+      "descripcion": "Desde el 7 de agosto de 2026 el gobierno de De la Espriella inició el traslado de presos de cuello blanco desde instalaciones militares (donde tenían condiciones especiales) hacia cárceles ordinarias del Inpec, poniendo fin a la práctica de las llamadas 'cárceles resort'. La medida hace parte de una lista progresiva de traslados que continúa aplicándose a procesados por corrupción y otros delitos de alto perfil.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/se-acaba-la-era-de-carceles-resort-para-procesados-de-cuello-blanco-3589196",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Inpec",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1347,
+      "titulo": "Presidente pide vigilancia especial a universidades de La Guajira y Pamplona por posibles malos manejos",
+      "categoria": "transparencia",
+      "fecha": "2026-09-26",
+      "descripcion": "El presidente Abelardo De la Espriella pidió a la Ministra de Educación hacer vigilancia especial sobre universidades de La Guajira y Pamplona ante posibles irregularidades en el manejo de recursos, como parte de las medidas de control del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-le-pide-a-ministra-de-educacion-que-haga-vigilancia-especial-a-universidad-de-pamplona-por-posibles-malos-manejos-3589208",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1346,
+      "titulo": "Gobierno anuncia inversiones en vivienda, salud, agro y aeropuertos para el Magdalena",
+      "categoria": "obras",
+      "fecha": "2026-09-26",
+      "descripcion": "El gobierno de Abelardo De la Espriella anunció un plan de inversiones para el departamento del Magdalena que incluye proyectos de vivienda, salud, agro y mejoras en aeropuertos, como parte de la agenda territorial del nuevo gobierno.",
+      "evidencia": "Reportado por caracol.com.co",
+      "fuentes": [
+        {
+          "nombre": "caracol.com.co",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnJ6N0Q0UGRzWTA4TU5HT2dLX3R5QVJSRWFqcjJKUG52XzRoaW9VbXNHYkp6VTdpYWp0SGpWS2FpY3VJOEdBN3p6U1hJSjlPTVNGYjV4Yno4dVRwSk9aQkVvbkx0VUJKOWJIVTRKU1R2ZExsMktOUS14MjdSdzVCVnN3U1dOUENsNU1hdU1rUEZ1SFVEcjFzdVVCU1RtbnpxemFyWi1VMnVzZ1hURElLZ0lwcmbSAcgBQVVfeXFMTUlpUmJuMzNqTm5JcXFrNUQ1TUptN1dfbkxFdFcyZ2lKWWxLa19MVUN2RFJYZmxXQWdWeXV3QmZDUDdlckRlakd6NmZ6cnZfR25tOEIyMEJVd3UxN0p5bk53ZkVRNFBLMjF3MGlaQVJSM3MxN09OX29BLWoybEVISHNTUjB6VzA4RTRIZXZjRTBBR0VGRzlfMDRGUkNoM3ZwLW5pd0JtUXM2Q0VqcmlPV3FoOVhyaUxsTTNHSFVZU1U4YXhLc215TFA?oc=5",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1345,
+      "titulo": "Nuevos chats de Vladimir Fernández en caso UNGRD bajo la lupa de la Fiscalía",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-27",
+      "descripcion": "Se conocen nuevos detalles de chats de Vladimir Fernández relacionados con el escándalo de corrupción en la UNGRD, que son analizados por la fiscal Luz Adriana Camargo como parte de las pruebas del caso.",
+      "evidencia": "Reportado por cambiocolombia.com",
+      "fuentes": [
+        {
+          "nombre": "cambiocolombia.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFlwQ09zTmVXTE83b3AycDVjbzExUUpDT0NkRUFHQkVkZ3poUjVDTV9ZandGTXhOMTh3aDBJaWY1eENhNkZpNFVUREZUOHhLd2VWaW5VdUlROHBoTE9qcnBvUlRwdnZ1S3dpSk5LRkpuTmpJVE1YUDU4Rl9GT040YTJVZlFPaTFzZ3JsOUZCNHZ5dkNvUWRsZTRINmZNbEdncjFfcDZvczhGSHVydUJlcFlBVF9VYnM?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo",
+        "Vladimir Fernández"
+      ],
+      "entidad": "Fiscalía General de la Nación / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24"
+    },
+    {
+      "id": 1344,
+      "titulo": "Fiscal Camargo hace balance de expedientes contra exfuncionarios del gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-26",
+      "descripcion": "La fiscal general Luz Adriana Camargo entrega un balance de como avanzan los procesos judiciales contra exfuncionarios del gobierno Petro, incluyendo el caso UNGRD, y propone cambios al sistema penal para agilizar los expedientes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/la-formula-de-la-fiscal-luz-adriana-camargo-para-sacar-de-la-crisis-al-sistema-penal-entrevista-de-el-tiempo-3589153",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24"
+    },
+    {
+      "id": 1343,
+      "titulo": "Diez escándalos de Verónica Alcocer durante el gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-26",
+      "descripcion": "Un recuento periodístico documenta diez escándalos protagonizados por la exprimera dama Verónica Alcocer durante el gobierno de Gustavo Petro, incluyendo chats revelados entre Petro y su amiga española Eva Ferrer donde el expresidente reconoce el comportamiento autoritario de Alcocer ('se ha vuelto una tirana') y su influencia desproporcionada en decisiones de gobierno, generando cuestionamientos sobre conflictos de interés y manejo del poder desde la Casa de Nariño.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-alcocer-chats-10-escandalos-gustavo-petro-LH41570308",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Gustavo Petro",
+        "Eva Ferrer"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24"
+    },
+    {
+      "id": 1342,
+      "titulo": "Empalme revela desastres institucionales en la DNI heredados de exguerrilleros del M-19",
+      "categoria": "empalme",
+      "fecha": "2026-09-26",
+      "descripcion": "Miembros y exintegrantes de la Dirección Nacional de Inteligencia (DNI) revelaron a El Colombiano que los exguerrilleros del M-19 que administraron la entidad durante el gobierno Petro dejaron graves fallas en procesos de selección de personal, manejo de fuentes de inteligencia, relaciones con agencias homólogas internacionales y misiones en el exterior. El gobierno de Abelardo de la Espriella enfrenta este hallazgo como uno de los mayores retos institucionales de su mandato en materia de seguridad nacional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gustavo-petro-dni-desastres-m19-abelardo-de-la-espriella-espias-guerrilla-PH41570816",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "exintegrantes M-19"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-27 11:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1341,
       "titulo": "Gobierno refuerza seguridad de alcaldes en Bolívar y Magdalena y cuestiona a la UNP",
       "categoria": "seguridad",
@@ -31023,7 +31189,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-27",
-    "total_casos": 1252,
+    "total_casos": 1259,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
