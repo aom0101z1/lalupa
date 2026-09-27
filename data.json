@@ -221,6 +221,99 @@
   ],
   "casos": [
     {
+      "id": 1352,
+      "titulo": "Dado de baja alias 'Robinson', cabecilla de la Segunda Marquetalia",
+      "categoria": "seguridad",
+      "fecha": "2026-09-27",
+      "descripcion": "Operativo de la Fuerza Pública dio de baja a alias 'Robinson', cabecilla político y financiero de la estructura Teófilo Forero Castro de la Segunda Marquetalia, y capturó a tres integrantes adicionales de la organización.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/dieron-de-baja-a-robinson-cabecilla-de-la-segunda-marquetalia/",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Robinson"
+      ],
+      "entidad": "Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-27 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1351,
+      "titulo": "Extradición de alias 'Araña', líder de disidencias de las FARC y exgestor de paz",
+      "categoria": "seguridad",
+      "fecha": "2026-09-26",
+      "descripcion": "Colombia extraditó a Estados Unidos a alias 'Araña', líder de disidencias de las FARC que había sido gestor de paz, en el marco de la política de seguridad del gobierno De la Espriella contra estructuras armadas ilegales.",
+      "evidencia": "Reportado por RT",
+      "fuentes": [
+        {
+          "nombre": "RT",
+          "url": "https://actualidad.rt.com/actualidad/629508-gestor-paz-preso-eeuu-colombia",
+          "fecha": "2026-09-26"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Araña"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-27 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1350,
+      "titulo": "Balance de extradiciones de criminales bajo el gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-09-25",
+      "descripcion": "Reporte que hace un balance de las extradiciones de criminales realizadas durante el gobierno de Abelardo De la Espriella, como parte de su política de seguridad y lucha contra el crimen organizado.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjFPUXo3QVRISktKQi04SFRhWUxOOFU1Wkc4WXpvY2hCMDFPR3FEN1cwdXpLYkRRQmdzN1ppaXg5cFhPSF9kcG5COTcwYVpKYjRZS1VFc29XTnFMZ3dwSkhiaUx0SFdhamhucFJYMXRiaUVtRUduNzFnV0dQLWlMSEIxUHI3dWVPclU1OXVEQUhOZ0U4MjdBTE5XN0ZIREJMckRGeFFqYjFMcDAxamlSNzczYjhvYi1RcGt1WFBpUlQ5S3hJVDVz0gHHAUFVX3lxTE02MU9RejdBVEhKS0pCLThIVGFZTE44VTVaRzhZem9jaEIwMU9HcUQ3VzB1ektiRFFCZ3M3WmlpeDlwWE9IX2RwbkI5NzBhWkpiNFlLVUVzb1dOcUxnd3BKSGJpTHRIV2FqaG5wUlgxdGJpRW1FR243MWdXR1AtaUxIQjFQcjd1ZU9yVTU5dURBSE5nRTgyN0FMTlc3RkhEQkxyREZ4UWpiMUxwMDFqaVI3NzNiOG9iLVFwa3VYUGlSVDlLeElUNXM?oc=5",
+          "fecha": "2026-09-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-27 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1349,
+      "titulo": "Se destapan 32 casos de corrupción dentro de Ecopetrol durante el gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-27",
+      "descripcion": "Una investigación revela que durante el gobierno Petro se identificaron 32 casos de corrupción al interior de Ecopetrol, incluyendo presuntas irregularidades en contratación y manejo de la petrolera estatal, en el marco de los cuestionamientos a la gestión de Ricardo Roa.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUdGeFE2WHZPcTZUbFFsVm5ET2lzNTZnWkZrbnlLNk1sN1Z1WmtIOTlCN0NZUXl0UHFqVkxuYUhnVXZMclJIZXVtc0xjX0lvVjBiV1I4aW8zdUV1ZW5CZzJ3c1FBV29tSGk4eHBaQXpYQ1c5OXBObzRFU3E0Q0lWbjJ4Z3Myd09RMTZPN3ZPbFBsbnlmYW5Ha2g0NExYNXRUUEFJRzQxd0VsZ2VZRVpBUGc1Tm1xam_SAbwBQVVfeXFMTmdzNVkwZUptRWJxZ2JmVXc4QUNYMkFpRmwtTEZJWjV2ZVJBZ29GYUhFd1hmOFpGeTRCMFJ0VlF3MFlNQ0tnYUVvck1BYVRENFB2S3ZqQ19xbVl5M1Fiemd0ZkxnVUFkdWduemtyTTBTa2x3S0R6akZlNmhFMDZfVHdyc2NHWlZWdHl5SkkyWjdKOUJTaWllTm5nSzVGVUpBZG51YXRkVTg0bjd1c0VyWDZfX1pleHB6WUxoeUw?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-27 16:23"
+    },
+    {
       "id": 1348,
       "titulo": "Fin de 'cárceles resort' para procesados de cuello blanco",
       "categoria": "transparencia",
@@ -31189,7 +31282,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-27",
-    "total_casos": 1259,
+    "total_casos": 1263,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
