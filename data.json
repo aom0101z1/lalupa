@@ -221,6 +221,307 @@
   ],
   "casos": [
     {
+      "id": 1383,
+      "titulo": "Cuestionamientos por contrato de arrendamiento de la sede de la JEP en Torre Squadra",
+      "categoria": "contratos",
+      "fecha": "2026-09-28",
+      "descripcion": "La senadora María Clara Posada, del Centro Democrático, reiteró cuestionamientos sobre el contrato de arrendamiento de la Torre Squadra como sede de la Jurisdicción Especial para la Paz (JEP), calificando la operación de selección del inmueble como una 'sofisticada operación empresarial' y pidiendo explicaciones sobre los intereses detrás de la negociación.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/senadora-maria-clara-posada-lanzo-nuevos-cuestionamientos-por-arriendo-de-sede-de-la-jep-que-hay-detras-de-esta-sofisticada-operacion-empresarial-3589566",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "María Clara Posada"
+      ],
+      "entidad": "Jurisdicción Especial para la Paz (JEP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58"
+    },
+    {
+      "id": 1382,
+      "titulo": "Cancillería radica proyectos de ley para abrir mercados en Medio Oriente y Asia-Pacífico",
+      "categoria": "internacional",
+      "fecha": "2026-09-28",
+      "descripcion": "La Cancillería colombiana radicó ante el Congreso tres proyectos de ley orientados a abrir nuevos mercados comerciales en Medio Oriente y Asia-Pacífico, retomando negociaciones iniciadas en gobiernos anteriores, incluidos los de Duque y Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/cancilleria-radico-ante-el-congreso-tres-proyectos-de-ley-que-buscan-abrir-nuevos-mercados-en-medio-oriente-y-asia-pacifico-3589427",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1381,
+      "titulo": "Balance 2026 de la lucha contra la minería ilegal: menos capturas, más maquinaria incautada",
+      "categoria": "seguridad",
+      "fecha": "2026-09-28",
+      "descripcion": "Un balance de lo corrido de 2026 muestra que las autoridades han reducido el número de capturas por minería ilegal pero han incrementado significativamente la incautación de maquinaria utilizada en esta actividad criminal en distintas regiones del país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVhvdGFWNU5QNXpmMVpyN3R4T0RxQ0pOLUJ0S0g3OTFwRlBHOEpScnlhZmlXMXRFSlIwRkJaNEo3cDRid0RpbE1vaHNaY2xiN3dQMEczUzVmdmJDc0FtcFc5MWIwckh1RFhpeEE2Vk9IYTZhblJWWUtXYnY1M2Rsc003a1BxYmc2QUZTbzg2N2VyQUZjMEhpUkhTa2dDVmRjSmp0WmlFVlNpc0dLb2Y4RGlUOGtMeEo1OEM2aUJCS1NyYTE3Y0JhanF6dENRQXdPTE5JRGZiRGhrU1hLN0RTLWxuVmxCdUVndno5a0xlVkJITEZ0eTNiam1NZG1vRjU30gGAAkFVX3lxTE9FWG90YVY1TlA1emYxWnI3dHhPRHFDSk4tQnRLSDc5MXBGUEc4SlJyeWFmaVcxdEVKUjBGQlo0SjdwNGJ3RGlsTW9oc1pjbGI3d1AwRzNTNWZ2YkNzQW1wVzkxYjBySHVEWGl4QTZWT0hhNmFuUlZZS1didjUzZGxzTTdrUHFiZzZBRlNvODY3ZXJBRmMwSGlSSFNrZ0NWZGNKanRaaUVWU2lzR0tvZjhEaVQ4a0x4SjU4QzZpQkJLU3JhMTdjQmFqcXp0Q1FBd09MTklEZmJEaGtTWEs3RFMtbG5WbEJ1RWd2ejlrTGVWQkhMRnR5M2JqbU1kbW9GNTc?oc=5",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Pública / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1380,
+      "titulo": "Habilitan plataforma para consultar subsidios de vivienda por el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-09-27",
+      "descripcion": "El Gobierno Nacional habilitó un enlace digital para que los damnificados del terremoto del 10 de agosto consulten si son beneficiarios de subsidios de vivienda, con instrucciones paso a paso para el trámite.",
+      "evidencia": "Reportado por La Patria",
+      "fuentes": [
+        {
+          "nombre": "La Patria",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHpfUjJGaDZHZ0VrODNaTUpMWVhNOEFyMi1tdmdST2Q2MkNyV1RZRmt2WnJIUk5HT1UzQTF3Y3JNVzNpVTE3WnFHRnZ2Z2J6YTRYYUx6ZWE2cTJDME0xaGJsVmFKZHJZSVhCeUtxVnlaSmNCUTAxd0d0V1NTQTZlTlNvMk5XSHQwWHRJMGhERVVXc3ktLTRsY19PRUlheXhlaGFtOGZBMnptRjl4Q21TMFFHcHhxWFFCbzZhT1haWQ?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1379,
+      "titulo": "Gobierno anuncia revisión del Acuerdo de Paz, posición sobre agencias de la ONU y postura sobre Palestina",
+      "categoria": "internacional",
+      "fecha": "2026-09-28",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció que revisará el Acuerdo de Paz de 2016, la relación con agencias de la ONU en Colombia y fijó una posición oficial sobre el conflicto Israel-Palestina, como parte de su redefinición de política exterior.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHRJMUlLUVpaaFI5cURkbHZYblN4MnIyTnRxSFJwMkxxUTJzZFljNGlPYVdhUkNRcERmaW5mVWpzR2MzVS1Sd2RoYmlQSUZ4VUg4NXJIbkVaVmZ0NHNJRl9OTURucUV3aGZFYjRseTJKbm9wZkotWmYtNkJMTjloQ1d0MjVjTFh5MUlOdlNKNlJ1bWFaR2hyRWRBLUFjOHFsU00wOVd6YnRGVlZyY1gyejlRTnhxOHhXQWhuc0R5WUtJYnM0dUxpUFY0QdIB0AFBVV95cUxNa0Jjd3hIcW9YWjExVFFEaWZpazl2RHRXRmlZOE53UFBVZmhRTzdFYVp2ZEdXalktWXJkdFM4VnpPb2tlT2hrdW4zV0pvWFotd3FqV2VhTHVMX3pCRGlIRlJZOEdtVFpkWUhHRS04QkNXd0FVbllrTDZhUXNWOGVkS2pKRWxCMkdRVHh5ZURSMVBad19pejItaURrS3FrV0JscGVCTklqU3ZOQXA3WUJGMHJmb3JwcnBJT0ZHdjdsZzRJSmNCYUQ3Z0pCYnRpY28y?oc=5",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1378,
+      "titulo": "Juzgado destaca diligencia en el proceso contra Nicolás Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-28",
+      "descripcion": "En el marco del proceso judicial contra Nicolás Petro, hijo del expresidente Gustavo Petro, se destacó la diligencia del juzgado en el manejo del caso, que continúa en curso por presuntos delitos relacionados con lavado de activos y enriquecimiento ilícito.",
+      "evidencia": "Reportado por Zona Cero",
+      "fuentes": [
+        {
+          "nombre": "Zona Cero",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEE2eGM5MFJBWW5xV2FvU3VTbnM3WW96c1IwRXpEZ1dweHg2ODZiSkhWX1VhRFNFOVU2WDE2MWl5Z3p0MkQyQVhuWktmZGtieUdVb1VpR25OT3JXOC1zNDNyejduSEctUDg0NU9udFlWVWtaZTZfWTA4YnNFYTUtOFpZOHh6WFNyTFN0WERNWGpTYi02TUFDNnJwcFRKblE?oc=5",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Petro"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58"
+    },
+    {
+      "id": 1377,
+      "titulo": "Capturado objetivo de alto valor del 'clan del Golfo' en el Atlántico",
+      "categoria": "seguridad",
+      "fecha": "2026-09-28",
+      "descripcion": "Autoridades capturaron en el departamento del Atlántico a Charles Martínez, señalado como uno de los hombres más buscados de la región por presuntamente estar al servicio del 'clan del Golfo'. La Fiscalía adelanta su judicialización.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/capturaron-a-uno-de-los-hombres-mas-buscados-en-el-atlantico-estaria-al-servicio-del-clan-del-golfo-3589612",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Charles Martínez"
+      ],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1376,
+      "titulo": "Juez autoriza prueba anticipada en caso de contrato de helicópteros Mi-17",
+      "categoria": "contratos",
+      "fecha": "2026-09-28",
+      "descripcion": "El Juzgado 48 Penal Municipal con Función de Control de Garantías autorizó la práctica de una prueba anticipada dentro de la investigación por presuntas irregularidades en la adjudicación de un contrato de mantenimiento de helicópteros Mi-17 del Ejército Nacional, en el que está vinculado el exviceministro de Defensa Luis Edmundo Suárez Soto y la empresa Vertol Systems.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/prueba-anticipada-caso-helicopteros-mi17-vertol-systems-DC41617370",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Edmundo Suárez Soto"
+      ],
+      "entidad": "Ejército Nacional / Vertol Systems",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58"
+    },
+    {
+      "id": 1375,
+      "titulo": "De la Espriella anuncia recompensas por tres cabecillas durante balance de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-09-28",
+      "descripcion": "Durante un balance de gestión, el presidente Abelardo de la Espriella anunció el ofrecimiento de recompensas económicas por información que conduzca a la captura de tres cabecillas de grupos armados ilegales, como parte de la estrategia de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por Canal 1 En vivo",
+      "fuentes": [
+        {
+          "nombre": "Canal 1 En vivo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXB6cUp5U2l5eVZ0OGZUQW81QkEtSG52dTBObldZTnJwLXFDa0QwaTlfVnE3WG5aUVI5djR3b0p0NmZNSVljNGZCMEZwczRSXzNnanJZbGptbVBrTy16eUFHRkFjekhyQm9ocEQ4Ukh4X05OcDVOTlFhSlZnZ0pkQkk3dTZCRGNPQ0xEaUZrUXRFQWM5VVBhTUFleEJFRmZEWmVvLXJmQdIBrAFBVV95cUxNQmtrZk9pMnBsR3RSei11cjZzSHB3aHRwVDVDVjNRZEl1WnV3N0NuNnFXR3g0VWQtVTJ0VTVmdXpwZDVrX2hiMXRjLWpMT05Bdk5EWWg0ZmpicnlKRzZzaUY4Q0ZWOTZPcU9Db1ZDMkJZaFhyaHpyblVmWTgxN2JacEs5U0pLS3JabmozU1VON2FEX2tKcmJ1amRxX094X0ZVVF8tNXkxeTA1VjhH?oc=5",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1374,
+      "titulo": "Proyecto solar de $300.000 millones en La Guajira del gobierno Petro queda sin ejecutar",
+      "categoria": "contratos",
+      "fecha": "2026-09-28",
+      "descripcion": "Un convenio entre el Ministerio de Minas y Energía y Dispac, suscrito durante el gobierno Petro por más de $300.000 millones para instalar paneles solares en 10.664 viviendas vulnerables de La Guajira, presenta paneles instalados en casas deshabitadas y obras sin iniciar, según reportó El Colombiano tres meses después del cambio de gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/paneles-solares-guajira-dispac-retrasos-JB41625851",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía / Dispac",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58"
+    },
+    {
+      "id": 1373,
+      "titulo": "EE.UU. revoca visas a Martha Peralta y Euclides Torres por corrupción y presunta financiación irregular a campaña Petro",
+      "categoria": "sanciones",
+      "fecha": "2026-09-28",
+      "descripcion": "El gobierno de Estados Unidos revocó las visas de la senadora Martha Peralta Epieyú (Pacto Histórico) y del empresario Euclides Torres, señalado de estar implicado en la financiación irregular de la campaña Petro 2022. La medida se enmarca en una política de restricción de visas a funcionarios y empresarios vinculados a corrupción o narcotráfico en la región.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/martha-peralta-euclides-torres-visa-eeuu-revocada-estados-unidos-NB41628498",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Peralta",
+        "Euclides Torres"
+      ],
+      "entidad": "Departamento de Estado de EE.UU.",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58"
+    },
+    {
+      "id": 1372,
+      "titulo": "Comité Intergremial de Buenaventura pide al Gobierno no abandonar reconstrucción",
+      "categoria": "damnificados",
+      "fecha": "2026-09-27",
+      "descripcion": "El Comité Intergremial e Interempresarial de Buenaventura emitió un boletín señalando que, según el Registro Único de Damnificados, la ciudad es el tercer municipio más afectado por el terremoto del 10 de agosto, y pidió al presidente De la Espriella mantener el ritmo de la reconstrucción para no dejar rezagada a la región.",
+      "evidencia": "Reportado por Elespectador.com",
+      "fuentes": [
+        {
+          "nombre": "Elespectador.com",
+          "url": "http://blogs.elespectador.com/actualidad/reconstruccion-en-buenaventura-llamado-al-presidente-de-la-espriella-para-no-aflojar-el-paso-%e2%8f%90-comite-intergremial/",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Comité Intergremial e Interempresarial de Buenaventura / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
+      "id": 1371,
+      "titulo": "Exfuncionarios de Petro buscarían negociar con la Fiscalía por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-28",
+      "descripcion": "Según informe de Noticias RCN, exfuncionarios del gobierno Petro estarían adelantando acercamientos con la Fiscalía para negociar su situación judicial dentro del proceso por corrupción en la UNGRD, en medio de las investigaciones en curso sobre sobornos a congresistas.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZmJ0UzNnMWMxOUVRUXZxZmRnMG5nSU9MaHV0Zkl3ZnlCTHhnRnJ2a00tSkx6OEpEM1U5eGIxYkdQQ1p5Z09GVS0yc2otRGM0YVdGWlB1a1lYcXpxV21LSVNvbzJISklLSVNxRlFyR2dxZ3VRTk1JSGNVX2h4QzdYa1FIdmRlM1BPVFhXaWxYOUE5M05oRllFd0Nlc0x4T0lhWHdWQ0Q1eW1yNFEzMG43WlNILTM3QjdsQ01pU01mdDZPZGpSWENTcWg3aEpBVU1vRmNodTV30gHWAUFVX3lxTFBWOVdtX3hOSE5xQTU4YldDTjJiQktyWVJ6bENqaC1fampsWVdiZWdrdDVibFdpbjBtSGNzQ3B1dDZCazI3Q2VkMEpMNURSSUFxc0pLazZNb1huMnhIQUFtUDJZbnplTzFVbzNKcUhYekhUaU1hZnRLM2U0TWdWaE1IcXUtRlgxRTRDSWhDMkotVG1neS1NNmVBWi1LMzZLWTBvVG9GYjRMb29oRkFOS0hfV1RLaWtNcGQtS2p5V09IVFpZOHhSMHhERWZPUnN5TnZlN3B3NEE?oc=5",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Exfuncionarios gobierno Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 22:58"
+    },
+    {
       "id": 1370,
       "titulo": "María José Pizarro se desmarca del caso Iván Name y UNGRD tras fallo del Consejo de Estado",
       "categoria": "corrupcion",
@@ -31706,7 +32007,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-28",
-    "total_casos": 1281,
+    "total_casos": 1294,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
