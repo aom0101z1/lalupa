@@ -221,6 +221,151 @@
   ],
   "casos": [
     {
+      "id": 1370,
+      "titulo": "María José Pizarro se desmarca del caso Iván Name y UNGRD tras fallo del Consejo de Estado",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-28",
+      "descripcion": "Tras el fallo del Consejo de Estado que decretó la pérdida de investidura de Iván Name por corrupción vinculada al caso UNGRD, la senadora María José Pizarro publicó un comunicado desmarcándose de las actuaciones señaladas en la providencia, que la menciona. Pizarro afirmó no tener ninguna relación con las actuaciones de Name y que su rol se limitó a las funciones que le correspondían en la Mesa Directiva del Senado durante el periodo investigado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/no-tengo-ninguna-relacion-con-las-actuaciones-del-senor-name-maria-jose-pizarro-publico-comunicado-desmarcandose-del-caso-ivan-name-y-ungrd-3589409",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "María José Pizarro",
+        "Iván Name"
+      ],
+      "entidad": "Consejo de Estado / Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 12:54"
+    },
+    {
+      "id": 1369,
+      "titulo": "Gobierno lanza 'Plan de choque' en salud con inversión inicial de $0,5 billones",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-28",
+      "descripcion": "El Gobierno de Abelardo De la Espriella inició la primera fase de un 'plan de choque' en salud con una inversión de $0,5 billones, en respuesta a la crisis heredada del sistema de salud que dejó casos como el de Juan Manuel Villamil, niño de 11 años fallecido tras meses sin recibir medicamento para su enfermedad de Gaucher tipo 3. La medida busca atender fallas estructurales en la entrega de medicamentos y atención a pacientes crónicos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-plan-choque-salud-medio-billon-pesos-II41584297",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Ángela Parra",
+        "Juan Manuel Villamil"
+      ],
+      "entidad": "Ministerio de Salud / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 12:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1368,
+      "titulo": "Llamado al Gobierno por servicios públicos afectados tras el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-09-27",
+      "descripcion": "Un mes después del terremoto de magnitud 7,4, se hace un llamado al Gobierno Nacional para que la reconstrucción no se limite a reponer lo destruido, sino que incluya la recuperación integral de servicios públicos afectados en las zonas golpeadas por el sismo, señalando que aún persisten fallas en el restablecimiento de estos servicios.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDdPM1pqLTNhUUo0R25faGdrVkpmTGd5RnFOVEhiLU9meGg3Q2ZzSHUxLWU5SVgyTHVYek5pUHlZV3htWmdjM0RhSkEwMTRWNmFiUU9OUmFGaHhpY3ZkX1JTcGlXY2pXN2VfeTRTOEVJYlhfbzNRTVhvUHIzWmNfbTdReHhsY3NmNVVsQ0pKTTVScXZZSlM3enB4cDhKSXN3OU5LMm1R?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 12:54",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1367,
+      "titulo": "Gobierno De la Espriella designa enlaces regionales para descentralizar el poder",
+      "categoria": "gabinete",
+      "fecha": "2026-09-27",
+      "descripcion": "El gobierno de Abelardo de la Espriella ha comenzado a nombrar figuras que actúan como enlaces regionales en los territorios, como parte de su promesa de descentralización y de acercar el Estado a las regiones, según reporte de El Colombiano sobre movimientos y designaciones recientes en las últimas semanas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-gobierno-poder-regiones-enlaces-territorios-politica-HI41584074",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 12:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1366,
+      "titulo": "De la Espriella ofrece castigo atenuado a investigados por corrupción del gobierno Petro que entreguen pruebas",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-28",
+      "descripcion": "Tras la pérdida de investidura de Iván Name por el Consejo de Estado por su vinculación al caso UNGRD, el presidente Abelardo de la Espriella propuso beneficios judiciales (castigo atenuado) para personas investigadas por corrupción durante el gobierno Petro que entreguen pruebas contra sus cómplices, especialmente en el entramado de la UNGRD.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-ofrece-beneficios-investigados-corrupcion-gobierno-petro-cuales-son-NJ41591509",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Iván Name"
+      ],
+      "entidad": "Presidencia de la República / Consejo de Estado",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 12:54"
+    },
+    {
+      "id": 1365,
+      "titulo": "Presidencia reporta caída de secuestro, extorsión y masacres en primer mes de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-09-28",
+      "descripcion": "El Gobierno de Abelardo de la Espriella presentó un balance comparativo entre agosto de 2026 y agosto de 2025 que muestra una caída del 79% en secuestros, 62% en extorsión y 58% en masacres. El presidente entregó las cifras en una alocución nacional y destacó además resultados de seguridad en Barranquilla, Santa Marta y Cali.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cifra-secuestros-extorsion-masacres-primer-mes-gobierno-abelardo-de-la-espriella-BJ41591653",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 12:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1364,
       "titulo": "ONU respalda nueva estrategia antinarcóticos del Gobierno colombiano",
       "categoria": "internacional",
@@ -31561,7 +31706,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-28",
-    "total_casos": 1275,
+    "total_casos": 1281,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
