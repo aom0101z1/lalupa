@@ -221,6 +221,125 @@
   ],
   "casos": [
     {
+      "id": 1364,
+      "titulo": "ONU respalda nueva estrategia antinarcóticos del Gobierno colombiano",
+      "categoria": "internacional",
+      "fecha": "2026-09-27",
+      "descripcion": "La Oficina de Naciones Unidas contra la Droga y el Delito (UNODC) se pronunció sobre la nueva estrategia antinarcóticos del Gobierno De la Espriella, señalando que en zonas donde convergen economías criminales es necesario recuperar el control territorial del Estado. La entidad advirtió que los cultivos de coca en Colombia se encuentran en su máximo histórico, en el marco de la discusión sobre el enfoque de erradicación y soberanía estatal impulsado por el nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/la-posicion-de-onu-por-nueva-estrategia-antinarcoticos-del-gobierno-donde-convergen-economias-criminales-hay-que-recuperar-el-control-territorial-3589096",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "UNODC / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 03:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1363,
+      "titulo": "Gobierno anuncia medidas ante crisis financiera de Afinia",
+      "categoria": "economia",
+      "fecha": "2026-09-27",
+      "descripcion": "El Gobierno Nacional anunciará medidas para atender la crisis financiera de la empresa de energía Afinia, que opera en la región Caribe, luego de que semanas atrás descartara una intervención directa pese a reconocer problemas estructurales en el servicio eléctrico de la zona.",
+      "evidencia": "Reportado por Telemedellín",
+      "fuentes": [
+        {
+          "nombre": "Telemedellín",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02SzVUUDZPUm5rWDhWX3BSSmhuZWNUZVZnUDhSQjV6VUVrNkZ4VXpGOVhFVnJrU1JRV0N0U1Z5Y05mRUhLcFlzYk1UZGkyRkh2OXB1SE90YUVtQ3Y3ZWFBMGtVODY5eVgtc1ppTXFDU2FlNUlaWGx2UEFHb2p2Zw?oc=5",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Afinia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 03:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1362,
+      "titulo": "De la Espriella ofrece recompensa por captura de alias Pinocho",
+      "categoria": "seguridad",
+      "fecha": "2026-09-28",
+      "descripcion": "El presidente Abelardo de la Espriella anunció que se puso precio a la captura de alias 'Pinocho', cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada, señalado de estar detrás de hechos de violencia recientes en Santa Marta, Magdalena y La Guajira. El mandatario aseguró que los operativos continúan intensificándose en la región.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/28/de-la-espriella-puso-precio-a-la-captura-de-pinocho-y-lanzo-advertencia-estamos-respirandole-en-la-nuca-y-lo-vamos-a-encontrar/",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "alias Pinocho"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 03:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1361,
+      "titulo": "Capturan en Santander a esposa e hija de alias Fito, requeridas por Interpol",
+      "categoria": "seguridad",
+      "fecha": "2026-09-27",
+      "descripcion": "En un operativo coordinado entre autoridades de Colombia y Ecuador en Sabana de Torres, Santander, fueron capturadas Inda Mariela Peñarrieta Tuárez y Michelle Jamileth Macías Peñarrieta, esposa e hija del narcotraficante ecuatoriano alias 'Fito', requeridas por la Interpol por presunto lavado de activos. El presidente Abelardo de la Espriella anunció la captura en redes sociales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/esposa-hija-de-fito-capturadas-en-colombia-BI41584489",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Inda Mariela Peñarrieta Tuárez",
+        "Michelle Jamileth Macías Peñarrieta"
+      ],
+      "entidad": "Policía Nacional / Interpol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-28 03:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1360,
+      "titulo": "Gobierno abre negociaciones con el FMI por crisis fiscal",
+      "categoria": "economia",
+      "fecha": "2026-09-28",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la apertura de conversaciones con el Fondo Monetario Internacional (FMI) para atender la crisis fiscal del país, señalando que 'el saldo está en rojo'. La medida busca ordenar las finanzas públicas heredadas del gobierno anterior.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaG9qSGhDbUtpckxZN1dEYjEzZ3plcGM0aklHNkZERFJpdW41V2FXOGllMkZnWmVabzdadk9fMDc5cGVPa1hpek12WUloN1A4VDdhakRXQWlnV0h1TnJnOF9CamFqcG5xM201TEJOejUxaDh5dExhWTdDVWhYV2FIaFB0X0pxdURCQnRzcHJjb3A3d1l4NjVuVEVxUWJycUV5ZlV3aGpvTFhUTHZoVEo0eFRveWxVbElXV1NLQXRndHpUVUxnaFFDUmlHRjlQbkRrVERXVjFBTkd0aFBzU3ViZjU3S0NVRl9XU0RHeFhQajU2WkJVa2wwV1Q1cGzSAZcCQVVfeXFMUHpWOG1Jb01DbjJQRnBydl9pdGd1Nlc2ZVFicTFhdzE1VlhfQlFEOWx2MFhnV3hCeGo0ZkNqNmU5bmVDRlcta0FrekVMN2NsTkVScG85bWw5WmFpdWx3NGkyM2J4Y1ktUHJTdHVKY3hWZUZ3dDFqRm5IN0gwQjhtNEpLSDN4QVdVcENQMHVRVHpmWjlWQ01jQUlTdUZvdGk3NGFLa2lwbGRzbWoySy00TGo4ZjBWTndQOGRsanFnWHdPcTE3WDBqbjktVHFZQVZ2eVZOWGk2RUpxMTkzczFfMUhYNDY5TmhFQ1hwbDVUblBTTnZGcmozMl8zWmQ3WWctc21Uc2NZczl2RnZzN29NVWt0YmZZMm1F?oc=5",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-28 03:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1359,
       "titulo": "Defensoría reporta 112 líderes sociales asesinados en ocho meses de 2026",
       "categoria": "seguridad",
@@ -31441,8 +31560,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-27",
-    "total_casos": 1270,
+    "ultima_actualizacion": "2026-09-28",
+    "total_casos": 1275,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
