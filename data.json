@@ -221,6 +221,76 @@
   ],
   "casos": [
     {
+      "id": 1395,
+      "titulo": "Capturado alias El Paisa por tráfico de cocaína del clan del Golfo hacia EE.UU.",
+      "categoria": "seguridad",
+      "fecha": "2026-09-28",
+      "descripcion": "Las autoridades capturaron a alias El Paisa, señalado de articular el envío de cargamentos de cocaína del 'clan del Golfo' desde el Golfo de Urabá y Córdoba en lanchas rápidas con destino a Centroamérica y Estados Unidos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-el-paisa-senalado-de-mover-cocaina-del-clan-del-golfo-hacia-estados-unidos-3589664",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "alias El Paisa"
+      ],
+      "entidad": "Fuerza Pública / Clan del Golfo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-29 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1394,
+      "titulo": "De la Espriella ordena acelerar megacárcel en Sabanas de San Ángel con 86% de ejecución",
+      "categoria": "obras",
+      "fecha": "2026-09-29",
+      "descripcion": "El presidente De la Espriella ordenó terminar cuanto antes la construcción de una megacárcel en Sabanas de San Ángel, Magdalena, que ya tiene 86% de ejecución, una inversión de 275 millones y capacidad para casi 2.000 cupos. La Contraloría ha puesto atención al proceso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/esta-es-la-megacarcel-que-de-la-espriella-ordeno-terminar-cuanto-antes-86-de-ejecucion-casi-2-mil-cupos-y-mas-detalles-3589654",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Inpec / Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-29 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1393,
+      "titulo": "Gobierno detalla plan de fumigación con glufosinato en 9 municipios de Putumayo",
+      "categoria": "seguridad",
+      "fecha": "2026-09-29",
+      "descripcion": "En respuesta a un juez de Putumayo que frenó el plan antinarcóticos, el Gobierno De la Espriella precisó los 9 municipios donde busca fumigar 1.000 hectáreas de cultivos de coca con glufosinato, como parte de su estrategia contra el narcotráfico.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/primicia-estos-son-los-9-municipios-donde-el-gobierno-de-la-espriella-busca-fumigar-1-000-hectareas-de-cultivos-de-coca-3589673",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-29 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1392,
       "titulo": "Colombia avanza para que EE.UU. levante aranceles por medidas contra trabajo forzoso",
       "categoria": "internacional",
@@ -32218,7 +32288,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-29",
-    "total_casos": 1303,
+    "total_casos": 1306,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
