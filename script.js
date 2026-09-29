@@ -485,7 +485,7 @@ function renderPortada() {
         cifraEl.innerHTML = `
             <span class="lp-kicker" style="--c: ${sec.color}">La cifra · ${sec.nombre}</span>
             <a href="#" class="lp-cifra-link" data-caso="${conCifra.id}">
-                <span class="lp-num"><span class="lp-num-val">${escapeHtml(partes ? partes[1] : cifra)}</span>${partes && partes[2] ? ` <small>${escapeHtml(partes[2])}</small>` : ''}</span>
+                <span class="lp-num" style="--len: ${(partes ? partes[1] : cifra).length}"><span class="lp-num-val">${escapeHtml(partes ? partes[1] : cifra)}</span>${partes && partes[2] ? ` <small>${escapeHtml(partes[2])}</small>` : ''}</span>
                 <h3>${escapeHtml(conCifra.titulo)}</h3>
             </a>
             <div class="lp-meta"><span>EXP. #${conCifra.id}</span><span>${fechaCorta(conCifra.fecha, false)}</span>${conCifra.fuentes && conCifra.fuentes[0] ? `<span>${escapeHtml(conCifra.fuentes[0].nombre || '')}</span>` : ''}</div>
