@@ -221,6 +221,217 @@
   ],
   "casos": [
     {
+      "id": 1444,
+      "titulo": "Meta se suma a 'Misión Crecer' para impulsar empleo juvenil y crecimiento del 6%",
+      "categoria": "economia",
+      "fecha": "2026-09-30",
+      "descripcion": "La tecnológica Meta se unió a la iniciativa gubernamental 'Misión Crecer', presentando herramientas tecnológicas orientadas al mercado laboral y el emprendimiento, como parte de la estrategia del gobierno para reducir el desempleo juvenil y alcanzar una meta de crecimiento económico del 6%.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/meta-se-suma-a-la-mision-crecer-para-llevar-tecnologia-a-la-juventud-sin-empleo-ni-estudio-en-colombia-y-dinamizar-la-meta-de-crecimiento-del-3590055",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Meta",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1443,
+      "titulo": "MinMinas levanta racionamiento de gas natural tras falla en planta Spec",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-30",
+      "descripcion": "El Ministerio de Minas y Energía levantó el racionamiento de gas natural que se había impuesto por una falla en uno de los trenes de la planta regasificadora Spec. Colombia importa actualmente cerca del 30% del gas que consume, lo que evidencia la dependencia externa del país en materia energética.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/minminas-levanta-racionamiento-de-gas-natural-por-falla-en-planta-spec/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1442,
+      "titulo": "De la Espriella ordena traslado de testigo clave del caso Uribe a cárcel de Cómbita",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó el traslado de Juan Guillermo Monsalve, testigo clave en el proceso contra el expresidente Álvaro Uribe Vélez, a la cárcel de Cómbita, Boyacá, tras señalar que había violado de forma sistemática el régimen carcelario. El mandatario afirmó que ningún preso tendrá privilegios en su gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juan-guillermo-monsalve-traslado-carcel-combita-orden-abelardo-MA41720518",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Juan Guillermo Monsalve"
+      ],
+      "entidad": "Inpec / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1441,
+      "titulo": "Inteligencia militar incauta explosivos del ELN en Cúcuta destinados a atentados",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "Inteligencia militar ubicó y neutralizó cuatro pimpinas con material explosivo en Cúcuta, Norte de Santander, que pertenecerían al Frente Urbano Carlos Germán Velasco Villamizar del ELN y estaban destinadas a ejecutar atentados en la capital del departamento.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-explosivos-del-eln-en-cucuta-los-tenian-almacenados-para-ejecutar-atentados-en-la-capital-de-norte-de-santander-3590180",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1440,
+      "titulo": "Informe valida caída en secuestro, extorsión y homicidios del gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El representante Julio César Triana presentó un informe que respalda las cifras de reducción en secuestro, extorsión y homicidios divulgadas por el gobierno de Abelardo de la Espriella, tras revisión conjunta con el Ministerio de Defensa. El informe responde a cuestionamientos del senador David Racero sobre presuntas inconsistencias en los datos oficiales de seguridad.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/revelan-informe-que-valida-la-caida-en-secuestro-extorsion-y-homicidios-presentadas-por-el-gobierno-de-la-espriella-tras-revision-con-mindefensa-3590075",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Julio César Triana",
+        "David Racero"
+      ],
+      "entidad": "Ministerio de Defensa / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1439,
+      "titulo": "Procuraduría halla omisión administrativa grave de Nueva EPS en muerte de menor con hemofilia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-30",
+      "descripcion": "La Procuraduría General halló elementos de una posible 'omisión administrativa grave' por parte de Nueva EPS en el caso de Kevin Acosta, un menor con hemofilia que murió por falta de medicamentos. Los hechos ocurrieron durante el gobierno Petro, cuando Guillermo Alfonso Jaramillo era ministro de Salud, lo que reabre cuestionamientos sobre la gestión sanitaria de esa administración.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/caso-kevin-acosta-procuraduria-hallo-elementos-por-posible-omision-administrativa-grave-de-nueva-eps-tras-morir-sin-medicamentos-para-hemofilia-3590079",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Alfonso Jaramillo",
+        "Kevin Acosta"
+      ],
+      "entidad": "Procuraduría General de la Nación / Nueva EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37"
+    },
+    {
+      "id": 1438,
+      "titulo": "Hallazgo de cuadernos en cárceles vinculados a crímenes del ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "Durante allanamientos en centros penitenciarios, autoridades hallaron cuadernos con información sobre crímenes atribuidos al ELN. La operación, enmarcada en los controles carcelarios del gobierno De la Espriella, dejó cinco capturas y la incautación de 13 celulares usados presuntamente para coordinar actividades ilegales desde prisión.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-cuadernos-hallados-en-carceles-que-ahora-revisan-por-informacion-sobre-crimenes-del-eln-3590125",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Inpec / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1437,
+      "titulo": "De la Espriella ofrece beneficios judiciales a corruptos que delaten a Petro",
+      "categoria": "transparencia",
+      "fecha": "2026-09-28",
+      "descripcion": "El presidente Abelardo de la Espriella propuso otorgar tratos judiciales favorables a personas condenadas o investigadas por corrupción que entreguen pruebas contra la administración de Gustavo Petro, como parte de su estrategia de lucha anticorrupción contra el gobierno anterior.",
+      "evidencia": "Reportado por Libertaddigital.com",
+      "fuentes": [
+        {
+          "nombre": "Libertaddigital.com",
+          "url": "https://www.libertaddigital.com/internacional/latinoamerica/2026-09-28/abelardo-de-la-espriella-ofrece-beneficios-a-corruptos-que-delaten-a-gustavo-petro-7466771/",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1436,
+      "titulo": "Gobierno publica borrador de decreto para regular protestas",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El Gobierno de Abelardo de la Espriella publicó un borrador de decreto que modifica el Decreto 003 de 2021 sobre manejo de manifestaciones públicas, permitiendo intervención policial sin agotar el diálogo en ciertos casos y ampliando funciones del Puesto de Mando Unificado (PMU). La propuesta busca dar mayor margen de acción a la Fuerza Pública ante bloqueos, retención de personas o daños a la propiedad.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQemoyXzZrbFRhQy1ZaDRHU3ZLdWJTa3lJREdaUDdmM1lVZEVmX25mUEExdkY4ZndYQ2U1SmJqaTZrVElqdHFOVGpFY1JIWVlYaHNzcnNvb0lxeHBubHNZNG96TzB3V0hDVXZ6TEVndElzZjg3RmF5a3UtNHVhSDdOUU5NWnBlVWNuMU1MdnRSSWZESFJlWU5wem9oeVZfc0VGNldRZVJQb3pJTmZMbW51SFZLbUpZU3dDMFpPMVFPMWw2OFcwUm1oZzNseUJ1dm9wR2hDd3BzdHJ3RGgtNGZxS1VMenZ6YndSeWlwd2ZsVEdmcnJoQmxfeHBOUkpqd9IBmAJBVV95cUxPMnNpOXNFVUU1NHZBU0lQZS1oVUxqTFBSUkd4TDB0WWJsWmlWNzFLVEdWbW1KMDdhTXN5MjEyc3c4b2l6V0FyQThGRjJ6c3VyblZPb041ZnJnbGRudFQ4ZG5OTWowX1JIa2VlM2RpTVhMcTZwejE5QWxKX1FZUEdEMjZZeDdwTXFoQXFVSnZYd1hMaG0yQVJOZHhvVU8wX3Z6b25QcmxyR29zcVAxem5rLUNqeXNmQUFnbTRENzNCYmJyb0htVzRJbWZsLTVETl9YdmFpV3JUMUl5d2VqaVNOdzJ6Y3FqdW1Ob3puUEp5MWpHdmhMVVZCc1U4T1VoVFhuMl9OMmdUYXJjbGVzX3pyWWlmb1ltTU84?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 17:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1435,
       "titulo": "Colombia expulsa a esposa e hija de alias Fito por lavado de activos en Ecuador",
       "categoria": "seguridad",
@@ -33242,7 +33453,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-30",
-    "total_casos": 1346,
+    "total_casos": 1355,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
