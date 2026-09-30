@@ -221,6 +221,404 @@
   ],
   "casos": [
     {
+      "id": 1461,
+      "titulo": "Piden evaluar conducta de Iván Name en trámite de la reforma pensional",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-30",
+      "descripcion": "El representante Simón Molina solicitó a la Corte Constitucional evaluar si la conducta del entonces presidente del Senado, Iván Name, afecta la validez de la reforma pensional, señalando que Name cedió 14 de las 16 sesiones clave del trámite legislativo a la senadora María José Pizarro. La denuncia se suma a otros cuestionamientos sobre el manejo del Congreso durante el gobierno Petro y podría tener implicaciones sobre la constitucionalidad de la ley.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/piden-a-la-corte-constitucional-evaluar-si-la-conducta-de-ivan-name-en-la-presidencia-del-senado-afecta-la-validez-de-la-reforma-pensional-3590215",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Name",
+        "María José Pizarro",
+        "Simón Molina"
+      ],
+      "entidad": "Corte Constitucional / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54"
+    },
+    {
+      "id": 1460,
+      "titulo": "Desempleo sube a 9,4% en agosto de 2026",
+      "categoria": "economia",
+      "fecha": "2026-09-30",
+      "descripcion": "El DANE reportó que la tasa de desempleo en agosto de 2026 llegó a 9,4%, un aumento de 0,8 puntos frente al 8,6% registrado en agosto de 2025. La tasa de ocupación cayó 1,1%. La entidad no realizó rueda de prensa para presentar los resultados, lo que generó cuestionamientos sobre la transparencia en la divulgación de cifras económicas en el periodo de transición de gobierno.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/desempleo-subio-a-94-en-agosto-08-mas-frente-a-ese-mes-en-2025/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DANE",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1459,
+      "titulo": "Capturan en Medellín a hombre requerido por Perú vinculado a disidencias de 'Iván Mordisco'",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "Autoridades capturaron en El Poblado, Medellín, a un hombre requerido por la justicia de Perú por delitos de narcotráfico. El capturado estaría vinculado al Bloque Amazonas 'Manuel Marulanda Vélez', estructura de las disidencias lideradas por alias 'Iván Mordisco'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-el-poblado-medellin-hombre-requerido-por-la-justicia-de-peru-por-narcotrafico-3590252",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Mordisco"
+      ],
+      "entidad": "Fuerza Pública / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1458,
+      "titulo": "Banco de la República sube tasa de interés a 12,25% en primera junta de Miguel Gómez",
+      "categoria": "economia",
+      "fecha": "2026-09-30",
+      "descripcion": "En la primera junta directiva del Banco de la República presidida por el nuevo gerente Miguel Gómez, la entidad decidió subir la tasa de interés en 25 puntos básicos, ubicándola en 12,25%, su nivel más alto desde la pandemia. La decisión contó con el respaldo del ministro de Hacienda, en un contexto de ajuste de la política monetaria bajo el nuevo gobierno.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/en-primera-junta-de-miguel-gomez-banrep-sube-tasa-de-interes-en-25-puntos/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gómez"
+      ],
+      "entidad": "Banco de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1457,
+      "titulo": "Gobierno convoca a alcaldes y gobernadores del Caribe por el fenómeno de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-09-30",
+      "descripcion": "El Gobierno Nacional convocó a alcaldes y gobernadores de la región Caribe para definir medidas de prevención y respuesta ante el fenómeno de El Niño, en una reunión orientada a coordinar acciones interinstitucionales frente al riesgo climático, distinta de la emergencia del terremoto de agosto.",
+      "evidencia": "Reportado por Diario del Norte",
+      "fuentes": [
+        {
+          "nombre": "Diario del Norte",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3N1UDhQaUJLZDB2UW9nQnRJYkIwcUVCZElqVWZBQ2RvU0ltTkxyNzlsd1RWdmpIaHktUW5UdXE5RXdxb0d1M1c1RW1IX1FlRDczTW9yRFRBNnE4T29UUzJXVjVQTkM5UmFDQXlIMUwxZkZ0TGtJUVUtRzFsNF9KOGxjdzVOSVdqX1lIYTlfOVN5LXhlYmdSQWk5Qlk4NjBqc05NNkhtbjB2QWlFUGhadW9fcHVuXzdmTFkzZDVpMHQzOEI0dzBzdDdFZmRvT08zVzhMUlRB?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Gobernaciones y Alcaldías del Caribe",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1456,
+      "titulo": "Capturan en Antioquia a esposa de empresario investigado en EE.UU. por fraude y lavado",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "Autoridades colombianas capturaron en Antioquia a la esposa del empresario Orlando Miserandino Ortiz, investigado en Estados Unidos por fraude. Las autoridades la señalan como presunta integrante de una red de lavado de activos, en el marco de operativos de seguridad del nuevo gobierno contra el crimen organizado y financiero.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-antioquia-a-esposa-de-empresario-investigado-en-ee-uu-por-fraude-y-lavado-3590228",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Orlando Miserandino Ortiz"
+      ],
+      "entidad": "Fuerza Pública / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1455,
+      "titulo": "Consejo de Estado suspende declaratoria del sombrero de Carlos Pizarro como patrimonio cultural",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-30",
+      "descripcion": "El Consejo de Estado suspendió la Resolución 218 de 2024, con la cual el entonces ministro de Cultura del gobierno Petro, Juan David Correa, había declarado patrimonio cultural de la Nación el sombrero del comandante del M-19 Carlos Pizarro. El alto tribunal concluyó que el ministro actuó sin competencia constitucional ni legal para crear y aplicar esa figura de reconocimiento directo, contrariando la Ley 397 de 1997.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/consejo-de-estado-suspende-sombrero-carlos-pizarro-patrimonio-cultural-JB41739145",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan David Correa",
+        "Carlos Pizarro Leongómez"
+      ],
+      "entidad": "Consejo de Estado / Ministerio de las Culturas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54"
+    },
+    {
+      "id": 1454,
+      "titulo": "Instituto Anticorrupción pide a EE.UU. incluir a Euclides Torres en lista Ofac",
+      "categoria": "sanciones",
+      "fecha": "2026-09-30",
+      "descripcion": "El director del Instituto Anticorrupción, Camilo Enciso, solicitó formalmente a Estados Unidos incluir a Euclides Torres en la lista Ofac, invocando la Ley Global Magnitsky. La inclusión es una decisión administrativa que no requiere proceso judicial previo, y se suma a la presión internacional contra funcionarios colombianos señalados por corrupción durante el gobierno Petro.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/instituto-anticorrupcion-pide-a-ee-uu-incluir-a-euclides-torres-en-lista-ofac/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Camilo Enciso",
+        "Euclides Torres"
+      ],
+      "entidad": "Instituto Anticorrupción",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54"
+    },
+    {
+      "id": 1453,
+      "titulo": "Cali destina $10.300 millones para reactivar negocios afectados por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-09-29",
+      "descripcion": "La Alcaldía de Cali anunció la movilización de $10.300 millones destinados a reactivar negocios y comercios afectados por el terremoto del 10 de agosto, como parte de las medidas de apoyo económico a la ciudad tras el sismo.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSV9KWkFDa0lBcnRacWctUjFIWVJvcUF5WTFJTWotam9oeE9ydHAyRjlyRjFkQndmaFNlWnVCZEVpUnBWeEQzNkNsQzA3dXJMV2JyQjRBX09FWmxBR0dnQl9BanpyNEVtWjZCbWJMNXVETGp6c056TzFhRUVaUUtUdkJmVjhOaEJJR1ByekthQUUtVTFQNlo5Wk15T1NKS0dRZGVkbkhxNy11UVVyandpY3hLUm04S2JKRUV3eVBLYXFkaFhCVzhtTjlsTzl0S29fZ3RqUkkxOUg0S3BuSEZZ0gHfAUFVX3lxTE5JX0paQUNrSUFydFpxZy1SMUhZUm9xQXlZMUlNai1qb2h4T3J0cDJGOXJGMWRCd2ZoU2VadUJkRWlScFZ4RDM2Q2xDMDd1ckxXYnJCNEFfT0VabEFHR2dCX0FqenI0RW1aNkJtYkw1dURManpzTnpPMWFFRVpRS1R2QmZWOE5oQklHUHJ6S2FBRS1VMVA2WjlaTXlPU0pLR1FkZWRuSHE3LXVRVXJqd2ljeEtSbThLYkpFRXd5UEthcWRoWEJXOG1OOWxPOXRLb19ndGpSSTE5SDRLcG5IRlk?oc=5",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 1452,
+      "titulo": "Gobierno ordena cierre de Zona de Ubicación Temporal de exFarc en Putumayo pese a oposición de la Defensoría",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El gobierno de Abelardo de la Espriella ordenó el cierre en 48 horas de la Zona de Ubicación Temporal de excombatientes de las Farc en Putumayo, medida que generó el rechazo de la Defensoría del Pueblo, que pidió a un juzgado frenar la decisión por posibles afectaciones al proceso de reincorporación.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPdU5aRk5uNjdQc2lYRWozTllGNTIxanRpLXVBUmU2SlIxYkZfN2RSMHFSbTJfYWRadTBwRE9FYU5kUmpXTUlELThrbXgzSG83VEFhSXVlNldKeElwWTlxdVlCU2lHR2dwbm9vdTUyQm1FR1dkdDVKTkpVS0lyMDFnbnVHWTBWUmc1bHdVOWlUM0hNY3VnZmZ2ZjZMZWlpd3NjUnUxX3dQSkRWUWdpRFJWN3VCbXA3WWVBOElJVHQ5cEdCZURYT0pOU2Z6RHhaZnBic29xZENpVlpYZFRpYWJlRmx6UHpiMWhyYTNfZmoydks3SGlsc2MyLU0zbEZ5WVY0allUNUdxellGSkdGMkVlMHJxUkxaU2dNejhMR3ItS0xqdHc0ZjV5SF9vSjdhMk5SNVBUNUl2Mm5kc1pHR3h2SnVjUUZ3RVZ3dTlTWDgtWnd3d9IB7AJBVV95cUxOdHBJb2x0cEVpYm5XWF9WbjlBdjFDWHRLQVJJcnBpVk9vamZLeDFoS3ZOTDZ1NUFvN3RiRy1LVFc1dFVWZUJQZGdzLW95ZUFiM0FNQnBzT1BrZnliSUp1Q01LaUNQdVV0emdiQ19uVExYMTVod0lIeENzSG5Fb0hSYTQtODFnMDlkR2hwRXVEOHptZG1BWFpqTGhOTklTakxLQk9TRmtTWm9KOUtORFpoQlZmWUppLTVwbnlLNnZTd3lJLWJjU1BRT09SQmprR2tMZmNISzdRMUh5VVI0Vl9YQzljUVBFRmVWR0ROSV9kTDExaVBab3F1Q3ZzTUtDODRBUW9VcnlWQzdtLWhyUnpjbE1lNGRxNnN6UXlsN2ZWbkp5cGJETW5MdVpjOEJmam5tX0dFdnJDZExiTFNUS1YtLXdhSlFwdG1QN1lKTmtGT1hELXZzbFNuWTdOcDQ3Q3EyR3h3Nlp2S2c0ZDJz?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Defensoría del Pueblo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1451,
+      "titulo": "Capturan a ciudadano ruso investigado por espionaje y contactos con el ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la captura del ciudadano ruso Sergei Vagin, quien es investigado por presunto espionaje, contactos con el ELN y su participación en acciones durante el paro nacional de 2021. La captura se suma a los resultados en seguridad reportados por el nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/presidente-de-la-espriella-confirmo-captura-del-ciudadano-ruso-sergei-vagin-investigado-por-espionaje-contactos-con-eln-y-acciones-en-paro-de-3590237",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Sergei Vagin",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1450,
+      "titulo": "Gobierno prepara sistema de información sobre guardias indígenas",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El gobierno de Abelardo de la Espriella elaboró un borrador de decreto para crear un sistema de información sobre las guardias indígenas del país, con el objetivo de que el Estado tenga mayor conocimiento sobre estas organizaciones y pueda entender mejor a su interlocutor en materia de orden público y seguridad territorial.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-prepara-sistema-de-informacion-sobre-las-guardias-indigenas-ya-hay-borrador-del-decreto-3590280",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1449,
+      "titulo": "Procuraduría descarta pruebas de espionaje con Pegasus contra Andrés Idárraga",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-30",
+      "descripcion": "La Procuraduría General de la Nación concluyó una investigación disciplinaria que no halló pruebas de que el Ministerio de Defensa haya comprado, operado o financiado el software espía Pegasus para vigilar al exministro de Justicia Andrés Idárraga, descartando los señalamientos que se habían hecho contra entidades militares y policiales colombianas durante el gobierno Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/30/la-procuraduria-no-hallo-pruebas-contra-el-ministerio-de-defensa-por-el-supuesto-espionaje-a-andres-idarraga-con-el-software-pegasus/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Idárraga"
+      ],
+      "entidad": "Procuraduría General de la Nación / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54"
+    },
+    {
+      "id": 1448,
+      "titulo": "De la Espriella anuncia negociaciones con el FMI y exhibe resultados en seguridad",
+      "categoria": "economia",
+      "fecha": "2026-09-29",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el inicio de negociaciones con el Fondo Monetario Internacional (FMI), al tiempo que presentó resultados en materia de seguridad de su gobierno y reiteró su ofensiva contra la corrupción del gobierno anterior. El anuncio marca un giro en la política económica del país tras el cambio de gobierno.",
+      "evidencia": "Reportado por Defensores de la Patria",
+      "fuentes": [
+        {
+          "nombre": "Defensores de la Patria",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZWdIODZQWHBlNVFSNWpxTTdkSkdJZnBFbldhVFRIQk4zZHhrU1ZHd0QzVGE2cF9zOUFsb3RVQmNKTWhhYmtfREFFWGNWeE53eHJ6VDBhbDJOajdHUDNQMndMUU9qdy14RW5QZE9BakFwQUs2QjVlZGRsQ2tLTmUzU2FjRnFEb0RFMVFRVGxJQm9OLURQVVc0QVFYanprdUpsSGlodXg2d3RNM1BEWEg0RHlxSUd6Vk9JSm83emhHemVMdFRYOURmLVdxNlV1b2FIRzZrOEV0OW1jQnJJTTlxcmJmb09tT3BXYkNpa0lqR3RVR1pyQklTRmlZZDBlUWRUZ0dOZWNPODBsTXNKQ2w4UmRleTVnQmtZeFhhV1hZLW85Zw?oc=5",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1447,
+      "titulo": "Juez del caso Nicolás Petro responde a críticas de la fiscal Camargo por demoras",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-30",
+      "descripcion": "Durante la audiencia contra Nicolás Petro por el escándalo de corrupción vinculado a su padre, el juez del caso respondió a señalamientos de la fiscal general Luz Adriana Camargo sobre presuntas demoras en el proceso, calificando las críticas de 'fuera de contexto' y afirmando que la audiencia preparatoria se cumplió en tiempo récord. El episodio evidencia tensiones dentro del proceso judicial contra el hijo del expresidente Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPTTM0WFhoV09pSTZmQzhTeGR0bVlIRUhrZ3RESl9rU0g0RG9yTHpXLTRkb2V0VHB0OWRDaV93V3Y2elZfc1phUlhqSy1xUm1qWDdLeXFETmxtSGZ4c2VoVl9TOENKd1dQZW9ZcGxyWldaVXZTZ2JZNjR6NnBxTE5oN2VFMVNxRXBZd20wWExCRkFUWnBWblRuakNTRGpId01yRTVLdl9jWnlYY1lXMHcwcGNhNnQxUVJXd1FnLVJNU2ZQRTFJZGpZU1J3a1RhdkJnUUVFZ2p6TXpvUFlKaXVHRTFEVW5XbFk1QkNJbFRjWjJLbEJXZ0h6TFMtZ3VWbVVkVW84TUJBTFBRaFNic3JpRkRPSWd3MXRsdGtDWFpZbVI2dVFZOHRrUkVIcDZFVzhfeXZVdC1QZHhnLTZTUWRZNkNDXzlzcjJq0gHjAkFVX3lxTE1mTkVUWXdrRlAtYUhWcUFraUNEWmpnUjkyRFJ2LWN3YlQ0NktRaXl0UnM1ZE9WNDFTN3ZyNE1Rd19BYlJYdzBHZXMzbUZySHo5Z2tPcXJ2anZRdkxYODlJY0ZPZGdVSVpsbHVuOVVkT1JzcTJMajhReEx0MVFZaTNiTGI0S2Y4WVc0eUphbXkzVUplWlNkZ25OZlp0LXR5S2JuT1haVlZYTkhmM19sQW55d0xhVXczNjdOOFIyU2M4bUdMMzhCQ3JnaGc5UVpvWjdTMHU1d1VKM0ZHYWRzOXAyR25rY2YzbGVLV0Y5OVRkV3RlRXdXaE1lUXRNcldwSnN6TzZnUkdNa1ZheDhJcEt2cmFQUU1nUFFWQmVfbVlIMzFFMzh1bF9jQzJPUnQ1YXhPbldTRm9hU3hGb3lXdmdkZDBpSlBXbWN4MlU5MHI2QkFjNlcxMExBWDVTUk1ETEthdXc?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Petro",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Rama Judicial / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54"
+    },
+    {
+      "id": 1446,
+      "titulo": "Gobierno traslada a presos de alto perfil, incluido Juan Guillermo Monsalve",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "Desde su posesión el 7 de agosto, el gobierno de Abelardo de la Espriella ha ordenado el traslado de varios presos de alto perfil entre centros penitenciarios, incluyendo 117 capos trasladados desde Itagüí el primer día de gobierno. El traslado más reciente es el de Juan Guillermo Monsalve, testigo clave en procesos judiciales de alto impacto, como parte de la política de control carcelario del nuevo gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/presos-trasladados-abelardo-de-la-espriella-monsalve-manzur-MA41725090",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Guillermo Monsalve"
+      ],
+      "entidad": "Inpec",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1445,
+      "titulo": "Fiscalía allana sede de Activos por Colombia por presunta manipulación de sistemas y correos",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-30",
+      "descripcion": "La Fiscalía realizó un allanamiento en la sede de Activos por Colombia en Barranquilla tras una denuncia de la Sociedad de Activos Especiales (SAE) por presunta alteración de correos electrónicos y archivos institucionales. Las irregularidades investigadas habrían ocurrido fuera del alcance de la actual administración, lo que sugiere manejo indebido de información institucional durante la transición de gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/09/30/fiscalia-allano-sede-de-activos-por-colombia-en-barranquilla-por-presunta-corrupcion-y-manipulacion-de-sistemas-tras-denuncia-de-la-sae/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE) / Activos por Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 21:54"
+    },
+    {
       "id": 1444,
       "titulo": "Meta se suma a 'Misión Crecer' para impulsar empleo juvenil y crecimiento del 6%",
       "categoria": "economia",
@@ -33453,7 +33851,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-09-30",
-    "total_casos": 1355,
+    "total_casos": 1372,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
