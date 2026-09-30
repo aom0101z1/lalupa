@@ -221,6 +221,311 @@
   ],
   "casos": [
     {
+      "id": 1430,
+      "titulo": "Ejército golpea minería ilegal en Antioquia con pérdidas superiores a $2.600 millones",
+      "categoria": "seguridad",
+      "fecha": "2026-09-29",
+      "descripcion": "El Ejército Nacional intervino seis unidades de extracción ilícita de oro en Antioquia, inutilizando retroexcavadoras, dragas y plantas eléctricas usadas para minería ilegal, con pérdidas estimadas en más de $2.600 millones para las estructuras criminales involucradas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-la-mineria-ilegal-en-antioquia-dejo-seis-unidades-intervenidas-y-perdidas-por-mas-de-2-600-millones-3589987",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1429,
+      "titulo": "Corte Suprema niega libertad a Wadith Manzur en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-29",
+      "descripcion": "La Corte Suprema de Justicia declaró 'impróspera' la solicitud de control de legalidad de la medida de aseguramiento de detención preventiva del excongresista Wadith Manzur, quien permanece recluido en La Picota por el escándalo de corrupción de la UNGRD. El fallo mantiene privado de la libertad al exsenador mientras avanza el proceso judicial.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-de-justicia-niega-solicitud-de-libertad-a-wadith-manzur-excongresista-que-permanece-en-la-picota-por-el-escandalo-de-la-ungrd-3590028",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Corte Suprema de Justicia / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57"
+    },
+    {
+      "id": 1428,
+      "titulo": "MinHacienda autoriza crédito de hasta $1,3 billones para la Primera Línea del Metro de Bogotá",
+      "categoria": "economia",
+      "fecha": "2026-09-30",
+      "descripcion": "El Ministerio de Hacienda, dirigido por Miguel Gómez Martínez, autorizó mediante la Resolución 2182 que el Distrito de Bogotá contrate un crédito externo con BNP Paribas New York Branch por hasta $1,3 billones, recursos destinados a cubrir la cofinanciación distrital de la Primera Línea del Metro de Bogotá.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/credito-bnp-paribas-metro-de-bogota-minhacienda-MC41703285",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gómez Martínez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1427,
+      "titulo": "Piden investigar penalmente a María José Pizarro por el escándalo de la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-30",
+      "descripcion": "Tras el fallo del Consejo de Estado que afectó a Iván Name en el caso UNGRD, se presentó una solicitud para que se investigue penalmente a la senadora María José Pizarro por su presunta relación con el escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres, en el marco de los sobornos a congresistas documentados por Olmedo López y Sneyder Pinilla.",
+      "evidencia": "Reportado por Vanguardia",
+      "fuentes": [
+        {
+          "nombre": "Vanguardia",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUtES0daZGc4N0dJM1VZTjM4OXFLQk8wck1rNl9iSkVxbWdfTm5rUlBQT2VWUm5GTEEtNzFYdDZjXzJYTDJDSGpkN1Z5NE1KV0Y2d2VBUmNTQ0Z5cnd5aDlFX0ktdDVTYkp2UDJKN3RwYkpRRVVkVTQzLV9UNTFhcW0tLTdob1Y5dU5ja2hvdWxhMkw4NzREYWhBWFZiazZZQkxJVlViME9EMnp0SjBteU9DdnBHTG5rbXlZLUdKSUNPYzA?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "María José Pizarro"
+      ],
+      "entidad": "Consejo de Estado / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57"
+    },
+    {
+      "id": 1426,
+      "titulo": "Gobierno De la Espriella anuncia apertura de embajada en Jerusalén y reconoce soberanía de Israel sobre los Altos del Golán",
+      "categoria": "internacional",
+      "fecha": "2026-09-29",
+      "descripcion": "La Cancillería colombiana explicó las razones detrás de la decisión del gobierno de Abelardo de la Espriella de abrir una embajada en Jerusalén y reconocer la soberanía de Israel sobre los Altos del Golán, un giro en la política exterior respecto al gobierno anterior. La entidad respondió a un derecho de petición sobre las implicaciones diplomáticas de esta medida.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPZ0QyYkhkS3V4UTBGOEJ6ZnhyNGVJbFd1Y2JMc3YyRUtwaDM1dFVnUldVUmx4LXp1OS1JaC0xQ3lwQkJPVV81QkpLNVIyLUpsUFR2Z1h1eTAtSHRMUmIxOXpMQXh0M0ltSDZRV3V6SDdTQU1GdjBPaFJSelNYTlNPd0F2QWpBRV85aUdfQWFxU0V1V2dMcnlMV3h2RDRMd2tvaXprN3VIaWJSTlBpNklJaTFxbC0wcU9keXUyTG1mVHBidVBGWEo5VkQ5NlNGb3I5aE5BamZZVzlkbEVfUjBqUEVPODMyNnl0R2h2NTBQVnBBRTdwblQtTVlRZ3dlNlRQa1FaREdyUXVMeFZlNzJrMFpuaGxHZEhzTEJJelZBUjBGV1ZZ0gGqAkFVX3lxTE9SQUV5cnlUTGFOUXhMa3h1MTBGT0w2ZXhaV3hzQ1V0RmJzNHI0UGo0cEREa3o0dzhMOVFUck9NaTAwX3RhSE1FUEMwaDk1Nkhlby11cXl2dF9zWUxlUVNNVUJha2kwQWQ2dmhIcGpDZEpKeGZZSE42MEJLZXBCZWctSEFtR1d6bThod3JYQTEtV3hUQnBHQjJER3A2eFM3N1J6Y3RXbzBQWW01el9acWJMb1JoSkFxQ01WMUpPU2NaWkNKaWp2eEhKN1VwOGdrZWJ5SkprakpGWlZORGNFc1Q5U0dkLUpaYURVbzUzal9JRklRdzBkWVpseXdEU3pPc0d0VVFvdDctZzRoc2hULU5GbWdVRWk1dDBIYi1CVXBnZ1ZrY095WUV0SEE?oc=5",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1425,
+      "titulo": "Exfuncionarios de Petro no han devuelto vehículos del esquema de protección de Juliana Guerrero",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-09-29",
+      "descripcion": "El director de la UNP, Didier Blanco, denunció en un debate de control político en el Congreso que exfuncionarios del gobierno Petro no han devuelto las camionetas asignadas al esquema de seguridad de Juliana Guerrero, cuyo costo total ascendió a 739 millones de pesos entre marzo de 2025 y septiembre de 2026. Guerrero fue condenada recientemente por presentar títulos académicos falsos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/exfuncionarios-petro-no-devuelven-vehiculos-unp-OE41672840",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Didier Blanco",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57"
+    },
+    {
+      "id": 1424,
+      "titulo": "Hacienda pide adicionar $2,7 billones al Fondo Milagro y trasladar $1,2 billones para deuda de Air-e",
+      "categoria": "dineros",
+      "fecha": "2026-09-29",
+      "descripcion": "El Ministerio de Hacienda radicó un proyecto de ley para modificar el presupuesto, buscando adicionar $2,7 billones destinados al Fondo Milagro para la reconstrucción tras el terremoto, junto con un traslado de $1,2 billones para pagar la deuda de la empresa energética Air-e.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/hacienda-pide-modificar-presupuesto-para-fondo-milagro-y-deuda-de-air-e/",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1423,
+      "titulo": "Triple emergencia golpea a comunidades del Chocó: drones, desplazamiento y secuelas del sismo",
+      "categoria": "damnificados",
+      "fecha": "2026-09-28",
+      "descripcion": "Comunidades afrodescendientes del Consejo Comunitario General del San Juan (Acadesan), en la cuenca del río San Juan, Chocó, enfrentan una triple emergencia: ataques con drones, desplazamiento forzado y las secuelas del terremoto, afectando a cerca de 3.000 personas.",
+      "evidencia": "Reportado por Elespectador.com",
+      "fuentes": [
+        {
+          "nombre": "Elespectador.com",
+          "url": "http://blogs.elespectador.com/medio-ambiente/mongabay-latam/triple-emergencia-en-choco-colombiano-ataques-con-drones-desplazamiento-y-ecos-del-terremoto-golpean-a-cerca-de-3000-personas/",
+          "fecha": "2026-09-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Comunitario General del San Juan (Acadesan)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 1422,
+      "titulo": "Radiografía del caso judicial de Nicolás Petro: trabas y apelaciones",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-29",
+      "descripcion": "Un reportaje detalla las trabas procesales y apelaciones que mantienen en el limbo el expediente judicial contra Nicolás Petro, hijo del expresidente Gustavo Petro, pese a que un juzgado había destacado previamente la diligencia en el proceso.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVNYMVQyZS1NX2VhYU5maVBlelhOenVoTTNrM1NMNWwtVVZ3VDV5X18wX1FkREx3QmEzb3dHaHVkV0Ytd1lwYlVzSksySk5hdm85dGt2MC05eXIxY1l2YjhZRVp2WFdYOUEzbFF0S0RQTmxpdVNqeERfb09lRGczSFhYWkdDajVpWjQ5X0JmSlN4clA10gGaAUFVX3lxTE9FZllkb0RMRzF0NGtvSVhtbzFRNEZ0bGVocjVxel9VN1NIZTRNelJWbFc0QXZCanZncmw4RU1vclRiN3RRSFpzNVFLLVZiR3ZEM29OeDR5Yy1qZjVQeDYzTHRuZjdUaE9MTXNuMUQ1SGZUNWc3a3JmV3RqcGMtTnFIZ2UwSS1ydkZyUXBjMjNzWmhRRWhTYzhSelE?oc=5",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Petro"
+      ],
+      "entidad": "Rama Judicial / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57"
+    },
+    {
+      "id": 1421,
+      "titulo": "Gobierno firma 94 extradiciones en sus primeros 50 días",
+      "categoria": "seguridad",
+      "fecha": "2026-09-29",
+      "descripcion": "El gobierno de Abelardo de la Espriella firmó 94 extradiciones entre el 7 de agosto y el 25 de septiembre de 2026, un promedio de dos diarias, la mayoría con destino a Estados Unidos. Entre los casos destacados están Geovany Andrés Rojas 'Araña', cabecilla de Comandos de Frontera, extraditado el 25 de septiembre, y Allende Perilla Sandoval, líder de la Cooperativa.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/extradiciones-de-la-espriella-lista-narcotraficantes-colombia-2026-PL41686584",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Geovany Andrés Rojas",
+        "Allende Perilla Sandoval"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1420,
+      "titulo": "Denuncian a la fiscal Luz Adriana Camargo por presunta omisión en caso UNGRD",
+      "categoria": "abuso-poder",
+      "fecha": "2026-09-30",
+      "descripcion": "Se presentó una denuncia contra la fiscal general Luz Adriana Camargo por presunta omisión en el caso UNGRD, luego de conocerse chats que involucrarían a un magistrado de la Corte. Los denunciantes cuestionan la falta de actuación de la Fiscalía frente a esta nueva evidencia.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS0lLX2hZY1F3RkFGNU5BN0V4dHlYZFN1VUhrRF8xZEVMZVVydXdNRlozRHlyMXpKdGNFY0M3NXlSWW8zQ0VMdWJMdjFtOXlqd2lIY1E1TndwaUlZS2RLb0pXTXdyWVFlSjltQW9sN2U2Zng0QzJDVTBMQnpMN2VVeHV6NFJ2SVpaVWdrd2tyZ1RZVjJnWW9BSWhKSXF5bWR2bmM2N0VndXEyMTZKamhFSzNfc2lsUWZhZk1DTV9RMmFtLTJyZUVaSzVoWkxRdE5ZRUlwd3BLQTJLbDFZSzM5X3ROYjVsZVMxRWtWRWZ1RmJLMFRyOW53MTc5U1dPcjZ1dTRPSzlnOWpqYVBPaUkyaTBucUdzOXhIMGNyb1hzYVhNSTVXbzNxbEtB0gHEAkFVX3lxTE5YMVFxVlRtSTZhZTk1Nm1UNnNqcmp4cGJYME9nS0Y2Q3lRSzZkUERzLWMyNUpVS0lpTTBfb1N0UWZhM2t2NFpWUjJIZkNoaDkzRUlRUDJTV3hBcjNVS2VYTm0zVGV4UkUyOFQwY1h1Z2Z6ZGtoTkVGVVBSbWd2VGxuVXBnaHhfalBJR3lQY0p0SmY2c2dKdUhEWTI3N3V6UlNmd0JHN3RKRWFMYlFNTWZISUNHMzVoTkVvdHFwaEFBV3lLVHo3VS1oR3JuYlktdWZqM1Q3Y2RFb05PMXI1YmVuVGRtRG1hWWJ5Z0ExZExESjBSUUhSSjRjb1BoQ1U4LXBiQTU4Rkc0bk5ndzJFUnRWODE1MklzSFhGVVpLR0tuSlRDR3BodEFQenBqZ180VDV3UkpBTkNZbW1UaUgxbWJ3b0NCQw?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57"
+    },
+    {
+      "id": 1419,
+      "titulo": "De la Espriella nombra a Cristina Lombana como secretaria de Transparencia",
+      "categoria": "gabinete",
+      "fecha": "2026-09-30",
+      "descripcion": "El presidente Abelardo de la Espriella designó a la magistrada Cristina Lombana, quien lideró procesos judiciales contra Armando Benedetti, como secretaria de Transparencia de la Presidencia. Asumirá el cargo en octubre, al terminar su periodo en la Corte Suprema de Justicia. El mandatario indicó que el nombramiento busca reforzar la lucha contra la corrupción y el control de recursos públicos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cristina-lombana-secretaria-de-transparencia-de-la-espriella-gobierno-NC41700368",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Cristina Lombana",
+        "Armando Benedetti"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1418,
+      "titulo": "Contraloría halla irregularidades por $39.000 millones en el Programa de Alimentación Escolar (PAE)",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-30",
+      "descripcion": "La Contraloría General de la República detectó hallazgos fiscales por $39.139 millones en el Programa de Alimentación Escolar (PAE), tras 32 auditorías. Se identificaron 84 hallazgos administrativos: 71 con presunta incidencia disciplinaria, 1 con posible incidencia penal y 5 remitidos a indagación preliminar.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contraloria-halla-irregularidades-pae-recursos-alimentacion-escolar-NK41699150",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República / Programa de Alimentación Escolar (PAE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-09-30 03:57"
+    },
+    {
       "id": 1417,
       "titulo": "UNP revela costos y estudia extensión de esquema de protección de 'Timochenko'",
       "categoria": "transparencia",
@@ -32813,8 +33118,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-29",
-    "total_casos": 1328,
+    "ultima_actualizacion": "2026-09-30",
+    "total_casos": 1341,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
