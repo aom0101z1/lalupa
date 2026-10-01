@@ -221,6 +221,237 @@
   ],
   "casos": [
     {
+      "id": 1471,
+      "titulo": "Fiscalía crea grupo élite del CTI con apoyo de EE.UU. contra crimen trasnacional",
+      "categoria": "internacional",
+      "fecha": "2026-09-30",
+      "descripcion": "La Fiscalía General de la Nación anunció la creación de un grupo élite del CTI para combatir el crimen trasnacional, tras un convenio de cooperación con la agencia estadounidense HSI (Homeland Security Investigations). El acuerdo busca fortalecer la lucha contra el tráfico de armas, la minería ilegal, el lavado de activos y la trata de personas entre ambos países.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/fiscalia-creara-grupo-elite-del-cti-para-combatir-el-crimen-trasnacional-luego-de-convenio-con-la-agencia-hsi-de-estados-unidos-3590317",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación / HSI (EE.UU.)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1470,
+      "titulo": "Cancillería gestiona retorno humanitario de soldado Henry Camargo",
+      "categoria": "internacional",
+      "fecha": "2026-09-30",
+      "descripcion": "La Cancillería de Colombia activó el retorno del soldado Henry Camargo al país mediante un apoyo humanitario excepcional, tras solicitud directa del presidente Abelardo De la Espriella. Para ello se autorizó la destinación excepcional de recursos del Fondo Especial para las Migraciones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-activo-retorno-de-soldado-henry-camargo-a-colombia-mediante-apoyo-humanitario-excepcional-tras-solicitud-del-presidente-de-la-espriella-3590302",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Henry Camargo"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1469,
+      "titulo": "Magistrado Vladimir Fernández mencionado en chats del escándalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-01",
+      "descripcion": "La Corte Constitucional emitió un comunicado tras una publicación periodística que vincula al magistrado Vladimir Fernández con chats relacionados al escándalo de la UNGRD. La corporación afirmó que sus decisiones mantienen plena validez y que los magistrados deberán atender los requerimientos de las autoridades competentes mientras avanzan las investigaciones, reiterando la presunción de inocencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/corte-constitucional-comunicado-validez-fallos-vladimir-fernandez-IF41770448",
+          "fecha": "2026-10-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Vladimir Fernández"
+      ],
+      "entidad": "Corte Constitucional / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05"
+    },
+    {
+      "id": 1468,
+      "titulo": "De la Espriella anuncia plan vial 'Caminos del Tigre'",
+      "categoria": "obras",
+      "fecha": "2026-10-01",
+      "descripcion": "El presidente Abelardo De la Espriella presentó 'Caminos del Tigre', una apuesta de infraestructura vial para el país, como parte de la agenda territorial de su gobierno. El anuncio busca impulsar la conectividad y obras de infraestructura a nivel nacional.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzRUNFFic2NOS3d3YjVzVEU0Wnk1U2ZHRG1Xeklpa3k0bElGOGtnY29icHRhYlJ0TmZGbjRVQzRGVGMzR2EzUkI3WjVyS284b3dDM1F2OUpkMlFzQ0JTQ3pXVkg0LVlLeW9DRlBjZkh1T3RwZF8zNHRkOGRhWnpMM0prMXhFYUFCN3FVVWpIWGJyTVljM2ZRbjBkM2FTeHdFQzRjcUxJajhrckZzV2RXNkUyWkNDRmxiM1RXdHF5NlZkLWZ2Q2dnWXlHMVFILVU?oc=5",
+          "fecha": "2026-10-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1467,
+      "titulo": "Nuevo superintendente de Vigilancia anuncia cambios en el sector",
+      "categoria": "gabinete",
+      "fecha": "2026-09-30",
+      "descripcion": "El nuevo superintendente de Vigilancia y Seguridad Privada, designado por el gobierno De la Espriella, advirtió a empresas y vigilantes sobre cambios regulatorios que impulsará en el sector, afirmando que no permitirá irregularidades previas.",
+      "evidencia": "Reportado por redmas.com.co",
+      "fuentes": [
+        {
+          "nombre": "redmas.com.co",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ1dzSnBvMXhjcVJ1R0hza3RvNFNySzlUaThhQ056RlNzMkUwZzZIQzgtalFaOXZSWFd6VnAtUktnY2lDdTI2cWdub05ZOE94cTc0TVpZV2tudGF5aU5Vd180MTd1Tmd6NjQtX0hNMFJZSmJWaWFCczZLSTVvc0xQWjl1R3UzTHVLaEhrb21HQVlRZ3JnekpMSlFZWWhPeWgweFo1VC0taEZhQUMxbjdUOEdhZjN4X2YySkZfdmVfWXJPX3dOdXFYdUVpTENMVXVqX3RXQkF4bDdaS2NrNzdzeWZseC1feXFURmJicUx3MWt5OXVMSGNIWUtxc09XRVhO?oc=5",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Vigilancia y Seguridad Privada",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1466,
+      "titulo": "Gobierno prohíbe importación de ciertas mercancías con posibles sanciones",
+      "categoria": "economia",
+      "fecha": "2026-09-29",
+      "descripcion": "El gobierno De la Espriella estableció una prohibición a la importación de determinadas mercancías a Colombia, advirtiendo posibles sanciones para quienes incumplan la medida, como parte de su política económica y de control de mercado.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzRPV19SWmExVVVXYzZPazZfR0I3U2tuUjVFQzVQc2tMVTIxREc4R056NFRVanVkN0VuNjBpOGxiRjhyRVdWNWoxRHVpaW5PZmNLa1FReGI4T180SkdOY0ppdUxkSWRzMnFucnd6NWctSDNoNmFaUW5sRlQ3Y3VKNVpiNkVjMjhFOUg5elh1Q1BuVGd5TGJOTm1OemhBQ3E1NmFSc3FmR081dnFxeUtDZGRWQVdUQWlwZ2pZWF9JOU5uRkRlN1HSAcsBQVVfeXFMUE5qaHRrQ0lPajUxd2RFeVZJS2ZiQTZRUTZWTmRXbV9qb1pCZW4wVG0yUGRIWVlicU96T3NFaGZVRTNRTENZaEw0aG5fNFg5OEI1bUwtX0VTTE15Y3FVUlhBWXQ2QkxWZjNVeFZwc25VS1JYRC1URXJBLVhvX0pqa2ZKM0ZBZ01tdWw0YVVnVU5uZURiS0lpcnhIRU9Xa0NWc0hBSWVRZ20xX3haRkhVSHZTRl9PUUc1OUM3d3pqWldiTXdYRHlpaWhLdEk?oc=5",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1465,
+      "titulo": "Gobierno llevará ley de rescate económico al Congreso en 10-12 días",
+      "categoria": "economia",
+      "fecha": "2026-10-01",
+      "descripcion": "El gobierno de Abelardo De la Espriella anunció que presentará ante el Congreso, en un plazo de 10 a 12 días, una ley de rescate de la economía, en medio de las negociaciones con el FMI y la coyuntura fiscal del país.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOUxsbFpLaTlsb3I4aE1aVVdqczczbExLMk13Z0FsQWxDVGc5VjFuQkJYU002aWRSV3dkRktNaFZBQ0JfNDN4NUlYOWtkMzh2V0lRdWtWTGg1RlNnakZoTE9ja1VzSEZvbkFnZ2lhNUlHZzJ1MkVoRXZraUV2V1gyUHZRUlY0SVlGX1lpbWJaY1Q0NjhMVS1PY05hZURlYmNIWXJHNnpWeE5kZFIxc1BwOXp2aVY0SUJzVThZbFFXQkNVaktkcU90U2tDWHZHaWk3aWpXetIB7wFBVV95cUxOak5QT19VSERzSDZYLTNkdy1JMlNZQXRqUDdsU3l2Y1BUeGEzdWpHM25qY3NVWXZCS0pFSXdfSy0yblowSWVtTXNDU2tTZHViNlVvNU5yZzFfbHlLQ21HQ3p0aHFpaDV1NG52YTNlNjZJYm9Vb0lYdmFzX2dHRGNkLXJ4dUNkT0tWUS1BeWtxaFdEdlhXMlU4V2t2NGc2TVZFaFphNmdQVm01emptT2d2anh4VjVFUFMtN0pocDBPOXlYNVVFS2tSYjRTR0xzQVFUX2FCdDVoTjUzbjlhemhoVTgzdlVMQ3F6X0FVLVZkTQ?oc=5",
+          "fecha": "2026-10-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1464,
+      "titulo": "Gobierno revoca zona de reserva en el páramo de Santurbán heredada de Petro",
+      "categoria": "empalme",
+      "fecha": "2026-09-30",
+      "descripcion": "El Ministerio de Ambiente del gobierno De la Espriella revocó la medida adoptada en la última semana del gobierno Petro (6 de agosto) que extendía hasta 2029 la zona de reserva temporal alrededor del complejo de páramos Santurbán-Berlín, en medio de denuncias sobre saqueo ilegal de oro que la administración anterior presuntamente conocía y no atendió.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-revoca-zona-de-reserva-alrededor-del-paramo-de-santurban-que-cambia-impacto-JA41728405",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1463,
+      "titulo": "Wadith Manzur denuncia ante la UIP no posesión como senador",
+      "categoria": "corrupcion",
+      "fecha": "2026-09-30",
+      "descripcion": "En medio del proceso por el escándalo UNGRD, el equipo jurídico del senador Wadith Manzur presentó una queja formal el 23 de agosto ante el Comité de Derechos Humanos de los Parlamentarios de la Unión Interparlamentaria (UIP), denunciando que se le impidió posesionarse como senador pese a su investidura.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/wadith-manzur-queja-uip-no-posesion-senador-2026-BH41753516",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Unión Interparlamentaria (UIP) / Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05"
+    },
+    {
+      "id": 1462,
+      "titulo": "Incautan 1,2 toneladas de cocaína de 'Iván Mordisco' en Puerto Gaitán, Meta",
+      "categoria": "seguridad",
+      "fecha": "2026-09-30",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la incautación de 1,2 toneladas de cocaína presuntamente vinculadas a las disidencias de 'Iván Mordisco' en Puerto Gaitán, Meta. El cargamento estaba oculto en un sistema de doble piso tipo caleta dentro de un tractocamión y se capturó a dos personas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-abelardo-de-la-espriella-anuncia-incautacion-de-1-2-toneladas-de-cocaina-de-ivan-mordisco-en-puerto-gaitan-meta-hay-dos-capturados-3590346",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-01 04:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1461,
       "titulo": "Piden evaluar conducta de Iván Name en trámite de la reforma pensional",
       "categoria": "abuso-poder",
@@ -33850,8 +34081,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-09-30",
-    "total_casos": 1372,
+    "ultima_actualizacion": "2026-10-01",
+    "total_casos": 1382,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
