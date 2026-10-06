@@ -221,6 +221,102 @@
   ],
   "casos": [
     {
+      "id": 1543,
+      "titulo": "Gobierno investiga presunto robo de recursos en la Agencia Nacional de Tierras",
+      "categoria": "empalme",
+      "fecha": "2026-10-06",
+      "descripcion": "El Gobierno Nacional anunció que está revisando posibles irregularidades en el manejo de recursos de la Agencia Nacional de Tierras durante la administración anterior, en el marco de la revisión de empalme sobre entidades del gobierno saliente.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnJmem1vZGtsNXpOZTFHTUpJaElfUElaV2JRc3cxQklzUVVVSXhYRmh2YU9Bd3dVUDlhUDBuT1hqRDZ2YS1veFBKVVpoNFV6c1Z3S2J4WWg2YUpaN0ItTVBuemliNlZHYm9SY3ZoZk1nYUM4TC1kUGpqMjNlakdLdWxtZHlYWE1wcVZLX2tIYm1xMjJkRTRsMVFkblBlS1hUSXJsMlZ6cTFNZ3M2VXRnaUlVTEVLc2ZNQmtnLXVlZmlZajVZX1QyRkxTRGFBcjFlalJUNm9uLXhqeTTSAeABQVVfeXFMUFhXcnJVNTZ2T0tOMFRCNW9XNlY2N3U4c1NWUzZfUU84ZTJJOGN0Z2k4NzZuellXdHR4Q19mWUxDaTgxQ0UyZG1IRndHWW1mbHp4VHZ3OV92NmtOdnl0ZVpDbzJsSThwN0lLZEZpSXdtaDE1T2RjSFNya2lhTHFMNU5iWGhKN0EyOTRpUHNjRzh5NnpHUVJ3Y3BBZ1NhX1NHT3dSVlE1RkE2QmM5RE12ZFk1THh2SWJPcTVMUGltLVRwbjdMcVJ3dUtDdGRzbXZjeG9qZzdpdmJtTUNwUzZwUUs?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 12:45",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1542,
+      "titulo": "Cuestionamientos sobre la experiencia de la nueva directora de la Biblioteca Nacional",
+      "categoria": "gabinete",
+      "fecha": "2026-10-05",
+      "descripcion": "Julia Daza, periodista y comunicadora social que hizo campaña por Abelardo de la Espriella desde Miami, fue nombrada directora de la Biblioteca Nacional. En redes sociales se cuestiona su preparación para el cargo, que exige 72 meses de experiencia profesional relacionada; según el Ministerio de Culturas ella acredita 73 meses y 14 días, cifra que ha generado dudas sobre su idoneidad y presuntos malos tratos reportados desde su llegada a la entidad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/julia-daza-directora-biblioteca-nacional-gobierno-abelardo-de-la-espriella-experiencia-cuestionamientos-BN41919787",
+          "fecha": "2026-10-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Julia Daza",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Culturas / Biblioteca Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 12:45",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1541,
+      "titulo": "Gobierno plantea cambios al Acuerdo de Paz y los llevaría a la ONU",
+      "categoria": "internacional",
+      "fecha": "2026-10-06",
+      "descripcion": "El gobierno de Abelardo de la Espriella impulsa una revisión de la implementación del Acuerdo de Paz de una década, buscando determinar qué resultados ha dejado y qué aspectos requieren ajustes. La administración plantea llevar estos cambios ante la ONU, aunque existen desarrollos jurídicos amparados por la Constitución que limitan lo que el Gobierno puede modificar unilateralmente.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-de-abelardo-de-la-espriella-plantea-cambios-en-la-implementacion-del-acuerdo-de-paz-lo-llevarian-a-la-onu-NK41963349",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 12:45",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1540,
+      "titulo": "Gobierno de De la Espriella desmonta áreas agrícolas protegidas creadas por Petro",
+      "categoria": "economia",
+      "fecha": "2026-10-06",
+      "descripcion": "El ministro de Agricultura, Indalecio Dangond, derogó las resoluciones que declaraban 15.839 hectáreas como Áreas de Protección para la Producción de Alimentos (APPA) en cinco municipios de Cundinamarca, medida impulsada durante el gobierno de Petro. El anuncio se dio desde la Gobernación y se suma a anuncios similares del presidente De la Espriella para eliminar estas áreas también en Antioquia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/estas-son-las-areas-agricolas-protegidas-que-el-gobierno-de-de-la-espriella-ya-empezo-a-desmontar-donde-y-por-que-OK41965308",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Indalecio Dangond",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 12:45",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1539,
       "titulo": "Sneyder Pinilla responde por chats con Vladimir Fernández en caso UNGRD",
       "categoria": "corrupcion",
@@ -35842,7 +35938,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-06",
-    "total_casos": 1450,
+    "total_casos": 1454,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
