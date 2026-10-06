@@ -221,6 +221,460 @@
   ],
   "casos": [
     {
+      "id": 1562,
+      "titulo": "Envían a la cárcel a dos hombres por ataque terrorista a Escuela Marco Fidel Suárez en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "Un juez envió a la cárcel a Sebastián Torres y Sebastián Rojas, señalados de haber ayudado en la huida de quienes parquearon los carros bomba frente a la base militar Marco Fidel Suárez en Cali, en el marco de la investigación por el ataque terrorista contra esta instalación militar.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/a-la-carcel-dos-hombres-senalados-de-participar-en-el-ataque-terrorista-a-la-escuela-marco-fidel-suarez-de-cali-3591659",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Sebastián Torres",
+        "Sebastián Rojas"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1561,
+      "titulo": "Ejército desactiva ataque del ELN con 12 explosivos en Tame, Arauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "El Ejército Nacional ubicó y destruyó de manera controlada 12 dispositivos explosivos improvisados junto con varias rampas de lanzamiento que el ELN preparaba para un ataque en el municipio de Tame, Arauca, frustrando la operación terrorista.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-preparaba-ataque-con-12-explosivos-y-rampas-de-lanzamiento-en-tame-arauca-3591710",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1560,
+      "titulo": "Gobierno respalda proyecto de ley para formalizar pequeña minería y combatir minería ilegal",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "El Gobierno Nacional respaldó un proyecto de ley en el Congreso que busca formalizar a los pequeños mineros como estrategia para combatir la minería ilegal, señalando que la medida complementa el Estatuto Antiterrorista en preparación. El expresidente Álvaro Uribe sugirió que el Banco de la República compre el oro producido para resolver el problema de comercialización.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/gobierno-respalda-proyecto-de-ley-que-busca-formalizar-a-pequenos-mineros-para-combatir-la-mineria-ilegal-complementa-el-estatuto-antiterrorista-3591663",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Álvaro Uribe"
+      ],
+      "entidad": "Gobierno Nacional / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1559,
+      "titulo": "UNESCO aporta US$60.000 para patrimonio cultural mientras MinCultura no tiene ruta de reconstrucción",
+      "categoria": "denuncias",
+      "fecha": "2026-10-06",
+      "descripcion": "Mientras el Ministerio de Culturas no ha definido una ruta clara para la reconstrucción del patrimonio cultural afectado por el terremoto, la UNESCO anunció un apoyo de 60.000 dólares para la protección del patrimonio cultural en las zonas afectadas, evidenciando la falta de gestión nacional frente a la cooperación internacional.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeDRfNld1aDd2RHl3UHRodEQ4YVpFUjZxWnhwWDJDZUgyY053WEJsTm5YUl9maXFfNFlfNHFmX2xRamNoU0RrX2psT01jNWdvWU5JUXFya2EwdDlfV2ItODVIOGJWbUZjYzVVUlhnQWFyRmdYdEVuMEQ4R1BSamFXeHNCYzJFNXgybVNjb3VzWWl1NE5ybTZVc3V2djV5UURnRGJ6TlB5ZFVuRmtkUGJHaDhVUVdNb1ZNemUyS3E3N2xkSS1ManZOTnNMYW5CeEhWaHBRUU41TUtOakV2Nkl2Z0pSS3JkNUJHcE4teVlJQklDS1lT?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Culturas / UNESCO",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "negativo"
+    },
+    {
+      "id": 1558,
+      "titulo": "Gobierno revoca beneficios de la Paz Total a 205 criminales",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "El Gobierno de Abelardo de la Espriella confirmó el desmonte de beneficios jurídicos otorgados bajo la política de Paz Total del gobierno anterior, revocando dichos beneficios a 205 personas señaladas de delitos, como parte de su política de mano dura contra grupos armados.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXN3eFl5dXU5aU1wVHl5R2JhOHNqTGw2U1lycGYycjlOZ29sZDFlb3hudGlaXzhoVWowQWZjaUZiOFJ3TFR6alpmOWxXcjRCd0pVTGlzcnFxbVNWZ1ZvMnFScGs5cFB3UjhFTHY0bnBNX0c2ZUFfY0l0Q2JrZS1tamUtYVctNzNITFdBdDFLZ25Qc2I2a09vdDBXTDh0bW9TemtGQ0NrZlFBOFQ5UFQwYmRodEFwR3JMcElRVk9GWm1qZ9IBxwFBVV95cUxPeC1Rakg3RGFiX2FNcExjUDBVTFlzSUMtb0gxSWoxZ2hZMXpOd1NqOGJiYV9SZlRUZTV0VE5MNG5xci1mUC1YVmxfZzRub0M0SWZxZllzSnpQUkg0bVdQMFNiUGNzOEtzb3VHb2Fad3VfaEFnbllMbWUxb0pVLVVUd19vUDhvcVJNRmFhVWRsMkJ4RFNzSjFJeHhlaXRXUVFQUm1UU1l1NDhKX0s2YjdGMGg2X2ZoTFhiTEtDY0stdVlDZGFuRnlV?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia / Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1557,
+      "titulo": "Autoridades interceptan más de 400 kilos de explosivos destinados a Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "En Santander de Quilichao, Cauca, las autoridades interceptaron un cargamento de más de 400 kilos de explosivos que presuntamente sería llevado a Cali. Se investiga si estaba destinado a una acción atribuida a posibles integrantes de las disidencias de alias 'Iván Mordisco'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/interceptan-en-santander-de-quilichao-mas-de-400-kilos-de-explosivos-que-serian-llevados-a-cali-3591642",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Mordisco"
+      ],
+      "entidad": "Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1556,
+      "titulo": "Capturan a cinco integrantes de la Estructura 33 por homicidios en La Gabarra",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "Autoridades capturaron a cinco presuntos integrantes de la Estructura 33, señalados de estar vinculados con una nueva escalada de homicidios registrada en La Gabarra, Norte de Santander.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cinco-capturados-tras-nueva-escalada-de-homicidios-en-la-gabarra-norte-de-santander-3591700",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Pública / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1555,
+      "titulo": "Gobierno abre mesas técnicas con gremios y sindicatos para definir el salario mínimo de 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-06",
+      "descripcion": "El Gobierno de Abelardo de la Espriella se reunió con representantes de sindicatos y gremios empresariales para abrir mesas técnicas y jurídicas que evaluarán inflación, productividad y actividad económica como condiciones previas para definir el incremento del salario mínimo de 2027.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/06/salario-minimo-de-2027-gobierno-de-abelardo-de-la-espriella-puso-la-primera-condicion-a-trabajadores-y-empresarios-para-el-proximo-aumento/",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1554,
+      "titulo": "Abelardo de la Espriella nombra embajador en Bélgica, Luxemburgo, UE y OTAN a abogado que hizo campaña por él",
+      "categoria": "gabinete",
+      "fecha": "2026-10-06",
+      "descripcion": "El abogado Juan Gonzalo Ospina, quien representó a la familia de un cirujano colombiano asesinado en Tailandia y apoyó la campaña de Abelardo de la Espriella, fue nombrado embajador de Colombia ante Bélgica, Luxemburgo, la Unión Europea y la OTAN. Ospina reside en España desde temprana edad y tiene trayectoria familiar vinculada a la política colombiana.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juan-gonzalo-ospina-embajador-belgica-union-europea-otan-MF41993708",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Gonzalo Ospina",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cancillería de Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1553,
+      "titulo": "Trasladan a Sneyder Pinilla y Olmedo López a la cárcel La Picota",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-06",
+      "descripcion": "El Inpec ordenó el traslado de Sneyder Pinilla y Olmedo López, exfuncionarios de la UNGRD y principales testigos del caso de corrupción en esa entidad, hacia la cárcel La Picota. El abogado Gustavo Moreno, defensor de Pinilla, pidió dejar sin efectos la orden y alertó sobre riesgos para la vida e integridad de su cliente, citando una decisión judicial vigente que protegería su ubicación actual.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/sneyder-pinilla-y-olmedo-lopez-principales-testigos-del-caso-ungrd-seran-trasladados-a-la-picota-HF41995992",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Sneyder Pinilla",
+        "Olmedo López",
+        "Gustavo Moreno"
+      ],
+      "entidad": "UNGRD / Inpec",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21"
+    },
+    {
+      "id": 1552,
+      "titulo": "Afectados por el terremoto en Cali accederán a medidas especiales sobre arriendos",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-06",
+      "descripcion": "Las autoridades anunciaron medidas especiales de arrendamiento para las personas afectadas por el terremoto en Cali, buscando aliviar la carga económica de las familias que perdieron su vivienda o deben desplazarse temporalmente mientras avanza la reconstrucción.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa1MwTy03WEJSRzVfVjEtcmExS3lJODFlMFd0Z2VEXzhaMWd4Y0t1TnF3MjRPaVNNZGMwbndfZkw3VE5hQjZZcG5nYlg1OUlzMkVteU4xZVhtTHBWeGVyWldLQWdtNXc4azBiV1dIQnprOFRxV3FqRVNTRmlyWHljS1JXMkdoaF9YWEw0UThOZzF2T2NXNGJydWlrZWpSMy1xUGp2bUZLZlhYYjNuZWRNQ2UxaDZ3Ty1HSmFlOXVnaThrdVFkOE9aTFRWTzVyTHpwMlFTZdIB4gFBVV95cUxNRXlkeWNHdjVZR3VZdGdvYjRkQlQ4RHhWV1lMM0ZaMkl2MXk5LVU2a25ua05PSHhsaXIzaGZrcWZBelpTWUN0NW1hVFZnWXNVXzZsdjQ4eEtObWpJM2JaVjB6cnp4X0s5aWRjY1IzUDhtTnluT0xsRlZEQTZUNmluR1RQM1ZfaG1Ka21zWHhtcHVtbkFlUDB1bkkzQkVUTzNuOUxwS1AtV3AxczE5YnNVME5wbUc5cFczam9Pbi1Ucmo0cGltNkRxUnhGZzZqZ1NpNVNZdlIwQm02QjNxYjY0MURR?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 1551,
+      "titulo": "De la Espriella encabeza diálogo regional en Pereira para formular el Plan Nacional de Desarrollo",
+      "categoria": "obras",
+      "fecha": "2026-10-06",
+      "descripcion": "El presidente Abelardo de la Espriella participó en Pereira en un diálogo regional orientado a la formulación del Plan Nacional de Desarrollo, en una de las ciudades más afectadas por el terremoto de agosto, como parte de la agenda territorial del Gobierno.",
+      "evidencia": "Reportado por Alerta",
+      "fuentes": [
+        {
+          "nombre": "Alerta",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0Y5R0twSzFjZ3VhcG5VM2o3YTdEQVVrenVDZ0g1WFFSS3VCOGNzSjJ5VVVsMjk3ODBwNzREOGFzNm84ekhvb2ZXdWs3akQ4emVMMHBJaExERG1veUktbURwRGZXLWNteFMzdTF1WmNsSXBVUkZmY2hpcVdBNVdZQ1ktS0RvZ2dzWGU4VU9leTdlWGl3X2doWDRzYWd0NzRsZkNrR2daY9IBpwFBVV95cUxPNC1pbTVrUGYwMG1ReFhJOWN3ZWxsRV9wQ1hvV2hJZHQ3d21Jb3VodEJNTncwcW8tbWNNTG1fVTJPRkxrVlg2WGpQa2pFWDN0UDNNX3duQk01STJNMHJ5dEFnSGhWWXZtcFByWDk3aVR4dlhqVDV5OER1dnNiZDlBSTJ3Wmw5YU5uZHhicENMVDBlZGNORUN3c083VDlYRDQyWFN0OTFrZw?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Departamento Nacional de Planeación",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1550,
+      "titulo": "Gobierno anuncia defensa jurídica para exmilitares colombianos detenidos por caso Haití",
+      "categoria": "internacional",
+      "fecha": "2026-10-06",
+      "descripcion": "El presidente Abelardo de la Espriella anunció asistencia jurídica y apoyo económico para los 17 exmilitares colombianos trasladados desde Haití a Estados Unidos, acusados de participar en el asesinato del expresidente haitiano Jovenel Moïse. El mandatario instruyó a los ministros de Defensa y Justicia para acompañar el proceso judicial.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/exmilitares-colombianos-asesinato-jovenel-moise-estados-unidos-CL41972167",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Defensa / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1549,
+      "titulo": "Gobierno prepara Estatuto Antiterrorista con lista de terroristas y endurecimiento penal",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "El Ministerio del Interior, en cabeza de Rodrigo Lara, elaboró un Estatuto Antiterrorista que el Gobierno de Abelardo de la Espriella presentará el 8 de octubre ante el Consejo de Política Criminal. La iniciativa busca crear una lista de organizaciones terroristas, endurecer penas carcelarias y golpear las finanzas de grupos armados y criminales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/estatuto-antiterrorista-colombia-de-la-espriella-lista-terroristas-CE41988587",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1548,
+      "titulo": "Operativo deja 5 capturados, arsenal incautado y laboratorios de droga destruidos",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "Autoridades colombianas reportaron un nuevo golpe contra la criminalidad con 5 personas capturadas, incautación de arsenal y destrucción de laboratorios para procesamiento de droga, en el marco de la ofensiva de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV1BJa3cyZ2hoalJNenFmbmNYSVlKRlRidDNzUllnTE9Kb0dLaE5kRUdWbFdqY0o4UjV0ZEVwam5iQW5TaWFPaFU2aUJIOHpvZTNVNG43RDBMYUhzUUQ5UTZvWGZmUFhuTjRXa1VnME0zWmkybzlVU29KY21kb2UwenBmLU1ZT0lSZ2lFWWdHSlJlemhUTTk2RjVQbElGUjNuTzQ2c3N2M1dvNHJIVlVtMk9hYV9XWVBVZFlPZ2lEUnd1ZEp6RXlNaU5UMi1aME1wSGdGOHd3ZjQyc1NoZWlybFhyN0pkY2RvWkRVZ2NWc3V6N05OWWRz0gGSAkFVX3lxTE9kT3ByUzg5Q3FaY21QaEx5aUEzRk1pRW0wOXZJa0M0RUhUSEdIWnBtdWlOeDhWU3ZZRE5Cdl9SdTVTWVZGWEFxSTVEV2VHLXZfTW5pRE1aUXZRS2gwcXBlT0pDcnVrbHNPNzFHY3k5YWhwRWkweFBGSEQxZ0hTVlpZaFQxeTljYjBwMTM4dkNmMjhCYjVyWFNJOXpaSVZIYlB3R24xVkV1dnZkdERNVXNkZWZkNXFmMWtEQzRGclZFUWt0NHhhMWFYcVN6ekdQeTBULWUwSFV6Y1A3NzdxNG1HZTZlQ0VEQ0xLUWNJdGFUcHpyYVZnVjNJUkVoTWRhSDIwajBSZm5xakl1V0kwYlM1Vmc?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1547,
+      "titulo": "Gobierno De la Espriella evalúa día sin IVA en el Valle del Cauca",
+      "categoria": "economia",
+      "fecha": "2026-10-06",
+      "descripcion": "El Gobierno de Abelardo de la Espriella analiza implementar un día sin IVA focalizado en el Valle del Cauca, como medida económica que podría beneficiar al comercio de la región, en un contexto de recuperación tras el terremoto de agosto.",
+      "evidencia": "Reportado por ELHERALDO.CO",
+      "fuentes": [
+        {
+          "nombre": "ELHERALDO.CO",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUk8ydmI5M0FnYVFJNm5YSEgtSHBEQi1kd0tqazlQVmRDNTk4QU0wWUY5WXYwTGFVSjVoeFVISHpNdmp1dnE2V2Jpc096elZSSlJLVW9nR215VXlFS3ZZUktpWndZbFVPclY4aWRpdzh6ZjF0NGl2WDBKemlGZUNDSEJoUnNCU3ZYWXRtdUQxU3B1dDJDTXQ0MWd1QjZVWHRIbVdCaFJwRjluNVlqa1AydGdWYjVQbTZrNzY5a1dzUGFiUFJfVUQxa2d0a1NWZWlTMndz0gHuAUFVX3lxTE10YmkwUmFZV1dJejdXYnV5NmNVMlJNZ0hqMlMxSUUyZ1FhNWxsNDBjejVXQ0tsZ3c1a1JvdklNVXJHUVZNb0xGMDJnWUNIMVUxQmpjTFVPQVdzVml5RUctMkZKYlVaNGFmUlAyMzAyTUR6NHB1UWstQnpNQmM2QnJJN0VvRFNXRENyWUFTY0NybDZCT1hqb0IyVDE2ME9lT0N1clN3X211X0NSZ1B4RTR6NlpCMmNTNUVoZXAyZ1kyQlF4dWVNRkx4Qkl1ZzFtNFBpd3RlTTdRSXVvVFdud2YwcGNmdXIyaFFkbzZsdFE?oc=5",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda y Crédito Público",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1546,
+      "titulo": "Capturan a alias La Morocha, presunta cabecilla de la estructura Rodrigo Cadete de disidencias de las Farc",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "En una operación conjunta del Ejército Nacional, la Fuerza Aérea Colombiana y la Policía Nacional en la vereda Zabaleta, Cartagena del Chairá, fue capturada alias La Morocha (Agudelo Salazar), señalada como cabecilla seudopolítica de la estructura Rodrigo Cadete de las disidencias de las Farc desde hace un año y dos meses, tras la muerte de alias Cibrián. En el operativo fueron detenidos otros dos hombres y se incautaron tres armas de fuego y cuatro celulares.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/historial-criminal-alias-morocha-cabecilla-estructura-rodrigo-cadete-disidencias-farc-KF41993944",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "alias La Morocha",
+        "Agudelo Salazar"
+      ],
+      "entidad": "Ejército Nacional / Fuerza Aérea Colombiana / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1545,
+      "titulo": "Fondo Milagro queda constituido y anuncia disposición de $1 billón para zonas del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-06",
+      "descripcion": "Casi dos meses después del terremoto, el presidente Abelardo de la Espriella confirmó desde Pereira que el Fondo Milagro quedó finalmente constituido, tras semanas de retraso reconocidas por el propio Gobierno. El vicepresidente José Manuel Restrepo señaló que ya fue conformada la fiduciaria que administrará los recursos, y se anunció que el fondo comenzará a disponer de $1 billón para atender a los territorios afectados, entre ellos Risaralda, Valle del Cauca y Chocó.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fondo-milagro-reconstruccion-terremoto-colombia-ya-esta-listo-OE41989645",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la República / Vicepresidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1544,
+      "titulo": "Secretaría de Transparencia reporta 402 contratos por $88.400 millones en la emergencia del terremoto",
+      "categoria": "contratacion",
+      "fecha": "2026-10-06",
+      "descripcion": "La Secretaría de Transparencia reportó que, tras el terremoto que afectó principalmente a Risaralda, Valle del Cauca y Chocó, se han firmado 402 contratos por $88.400 millones para atender la emergencia. El reporte surge en medio de cuestionamientos del Congreso sobre el funcionamiento del Fondo Milagro y denuncias de que los recursos de reconstrucción aún no han sido transferidos en su totalidad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contratos-emergencia-terremoto-colombia-402-88-mil-millones-FE41985891",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Secretaría de Transparencia / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-06 22:21",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 1543,
       "titulo": "Gobierno investiga presunto robo de recursos en la Agencia Nacional de Tierras",
       "categoria": "empalme",
@@ -35938,7 +36392,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-06",
-    "total_casos": 1454,
+    "total_casos": 1473,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
