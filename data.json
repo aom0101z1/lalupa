@@ -221,6 +221,247 @@
   ],
   "casos": [
     {
+      "id": 1572,
+      "titulo": "Nueva evidencia en caso de corrupción de Miguel Quintero",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-06",
+      "descripcion": "El Tiempo conoció en exclusiva chats, audios y fotos que comprometerían a Miguel Quintero, hermano de Daniel Quintero, y a sus socios en el expediente por corrupción del AMVA. En las conversaciones aparece mencionado un exgobernador, lo que amplía el alcance del caso judicial en curso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/los-chats-audios-y-fotos-desconocidas-de-miguel-quintero-y-sus-socios-que-los-comprometerian-en-caso-de-corrupcion-3591720",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Quintero",
+        "Daniel Quintero"
+      ],
+      "entidad": "Fiscalía General de la Nación / Área Metropolitana del Valle de Aburrá",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16"
+    },
+    {
+      "id": 1571,
+      "titulo": "De la Espriella posesiona a nueva directora de Colpensiones",
+      "categoria": "gabinete",
+      "fecha": "2026-10-06",
+      "descripcion": "El presidente Abelardo De la Espriella posesionó a Beatriz Eugenia Vélez como nueva directora de Colpensiones, en reemplazo de Carlos René Montoya, dentro de los ajustes de gabinete del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-posesiono-a-beatriz-eugenia-velez-como-nueva-directora-de-colpensiones-tras-relevo-en-la-entidad-perfil-de-la-funcionaria-3591787",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Beatriz Eugenia Vélez",
+        "Abelardo De la Espriella",
+        "Carlos René Montoya"
+      ],
+      "entidad": "Colpensiones / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1570,
+      "titulo": "Fondo Milagro detalla mecanismo de proyectos, pagos directos y control de recursos",
+      "categoria": "dineros",
+      "fecha": "2026-10-07",
+      "descripcion": "Se conocen detalles sobre el funcionamiento operativo del Fondo Milagro: cómo se aprobarán proyectos, el esquema de pagos directos a contratistas y beneficiarios, y los mecanismos de control sobre los recursos públicos destinados a la reconstrucción tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por Portafolio.co",
+      "fuentes": [
+        {
+          "nombre": "Portafolio.co",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3dhT3RCeC1oYlcyYVBaS0txWWdwMkdIYldOOG1LdmR2Q0duOGxKdmUzak1NSlZGN0pwNmJiQUVxV0h4X2tJdFZBbVBDTE5LYnI5UmhuamlOMjlVSmwwaWh2TjJQR2MtcWdvcXR4SjF4YnlPSkRlT0R5eEtoY29IWHBLTktaQWwwSy1tLVdwRE1UZkJJMFU1cGxSYUtMYWx1RFlVcWRGZ0xWWVhZaWJuTnpfTzVkVW9fVmdJOHJVcVVITEdfQTZoVEhEUFcyWEQ2aE4wWEZSSm1ZeEszckHSAeMBQVVfeXFMTWNkTkZkSmE1VmFjTkw5dENod05lMHdxdW9PQVhJV1VuSDBocjI3ck04QnNIUUpFODhrSzFRX1h6UkUxOWV1Yi1zbFNVbXpENHpPeWF3aWdVdy1GeEpaV3VBOGRaZVktRTBPWGRObkk1OEg2TVpLQ1g3MUtOV2xZUjNjUVVnTjNxT211N1FGWFFHa2N5VWdGMzh0MFNydUNWM1ZNLV94R3p5M3hHRW9FOTg1U2wtdExHN2F2V3lEZ19vemQxNlh1cVpSNUh0NHNyS3kwa2pJaUZnWGNyYUlfUFJZTE0?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1569,
+      "titulo": "Gobierno presenta al Congreso proyectos de acuerdos comerciales con Medio Oriente y Asia-Pacífico",
+      "categoria": "internacional",
+      "fecha": "2026-10-06",
+      "descripcion": "El Gobierno de De la Espriella presentó al Congreso los tres primeros proyectos que priorizará en política exterior, enfocados en acuerdos comerciales con países de Medio Oriente y Asia-Pacífico, buscando aumentar exportaciones e inversión extranjera. Expertos advierten sobre los retos para concretar estos acuerdos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/de-la-espriella-apuesta-por-acuerdos-comerciales-en-medio-oriente-y-asia-pacifico-que-necesitara-para-convertirlos-en-mas-exportaciones-e-inversion-3591726",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1568,
+      "titulo": "EE.UU. traslada drones Reaper a Colombia y Ecuador para reforzar lucha antinarcóticos",
+      "categoria": "internacional",
+      "fecha": "2026-10-07",
+      "descripcion": "Estados Unidos trasladó varios drones MQ-9 Reaper desde África hacia Colombia y Ecuador como parte de la estrategia de la administración Trump para ampliar operaciones militares contra el narcotráfico en América Latina, en el marco del fortalecimiento de cooperación en seguridad con los gobiernos de Abelardo de la Espriella y Daniel Noboa, según reportó The New York Times.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eeuu-traslada-drones-mq-9-reaper-colombia-ecuador-narcotrafico-KG42007481",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Estados Unidos / Gobierno de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1567,
+      "titulo": "Envían a la cárcel a dos presuntos terroristas por camión-bomba en Cali (agosto 2025)",
+      "categoria": "seguridad",
+      "fecha": "2026-10-07",
+      "descripcion": "Sebastián Torres Caicedo y Sebastián Rojas Becerra, presuntos integrantes de disidencias de las Farc, fueron enviados a la cárcel por su presunta participación en el atentado con camión-bomba que dejó seis muertos y cerca de 80 heridos en Cali en agosto de 2025. La Fiscalía les imputó cargos por concierto para delinquir agravado, terrorismo, homicidio, tentativa de homicidio y fabricación, tráfico y porte de armas y explosivos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/atentado-camion-bomba-cali-dos-enviados-a-carcel-farc-terrorismo-DF41999974",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Sebastián Torres Caicedo",
+        "Sebastián Rojas Becerra"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1566,
+      "titulo": "Cathy Juvinao cuestiona manejo del Fondo Milagro: oferta única y millonaria comisión",
+      "categoria": "denuncias",
+      "fecha": "2026-10-07",
+      "descripcion": "La representante Cathy Juvinao señaló dudas sobre el proceso de contratación del Fondo Milagro, creado para la reconstrucción tras el terremoto del 10 de agosto, al indicar que se habría presentado una sola oferta y se pagaría una millonaria comisión por su administración. La denuncia pone en cuestión la transparencia en la estructuración financiera del fondo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWlRpc201Qjg2MmdhVWFkVWZNZ3pYTTN5M0NnTGU3X3R0RXptZkc0aHRlQXRzWmxaeEZEbjZpSTMyRzQtV2JMWnB4QjhIYXZGajA5VkxGQmFJb3hpQWxpN1VZeXRTVkx3NWpzNmkyTzNmQTFaNWJHdHpHajZWM19qbTZWZHRteEV5eUZHZFV2UWlVVlV6TUVmVjhwSjk3TGpScTJMMjFVd3V3RlZpcTFvMElORUN4Z3U4VWN6LWRaUzBaNlBxTTNrY1pWeXV1U1dwaXh3dEh4dFkxQjczTVR2bHN3N0JpS3c2OEl6ajY5OWVRajJGZVVORVdiSGpDS0JfakRCcGs5alpVbHVLS3VBSzBR0gGsAkFVX3lxTE5VV1IzN1ZvOGt2cS0zc01za2trUkdLWTg3c2V1aWdnT2twNHZjNFotUHBJZDVtancteXJWNWhDWm01d3RXQTkySWRCc05XYU1MRVhVeVF4TnhKb1hqR25rUjFSUjFjeG1LekVfdlZ6cHdPWGsxVnJERHQ3YjV1OXk5WllyZ241bzRWQ0RYdVFvQzdwNklOYnFCYTZRbms5cVBRSjdkWUlPYzFUZE9vWUZXcTd5ZlFyYl9MMjRDdno0SmJxNVI4Q1dXTV8zSjI3WUh3QlBkSlFwMk84VUJwVXpVZTBSa3l3MWFtSk54NnRJdWl2VVdJSXhnTVBudFM1T1A2b1l6czdRYkNuZ3BxU19mWm0wUzhNODdsSUFEWDQxM0I1NklOVUMzTVZsbg?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Cathy Juvinao"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1565,
+      "titulo": "Gobierno destina más de $350.000 millones a subsidios de vivienda vía cajas de compensación",
+      "categoria": "economia",
+      "fecha": "2026-10-07",
+      "descripcion": "El Gobierno de De la Espriella anunció la destinación de más de $350.000 millones para subsidios de vivienda, a entregar a través de las cajas de compensación familiar. La medida detalla los requisitos y población objetivo que podrá acceder a estos recursos.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRy1hMzQtdTJiaFZXZkVWVWxOcjBpd1ZCdmgtVmNDZkJyUFJWWlNMZ0VHdmhTb0hybUFyWUdWcXNtNlBSc1VGbVZOUXVJWGJ6dDllWWtxVDlCUlZBYzBFX1pqNXlEaWVpd2FwSkxQWm5oU2pLMHNpREdDdThYMmxha0Exc0w4NGlJM05NOVZ1RWd5ZlJsaFlYNmFzMElrRVZENXg4QVBwVEVDd2k5aGpiU3JhYkY4d3JEQ2dTVVhpQU5jbUhJMk5aZFAxRHZkWEpiOGtuUDByVGVlYUxmcEJ6SWxCNExsMmhORThkZEtrSVV6em5JdzNnVlFMRnZVam1JU3R4LWx6NGQwUU1nVVlJS184bFhWWm9RaXlVN3dpOG8ydmPSAb4CQVVfeXFMTlY3QmNGSEFzb0xYVGZKMF9jdFN4X1ROS09NVlBXczhGb09KMVJsYy1nanNYRUN6UjAzZUltQWpNU1Z3S2NaT0RrUkVYN3I4bFVjNUhzTE1DZVJtYUZfZmdwN19mMXFhdnA4YmJibmo4b1JmN2g3TVVkbndETEFxSTVoXzN4d0ZSVGh4OU5kaDBwbURmSGY2ZDVJYmtfQ1VmWEo5aUhrNDBtT0FnYnNQRnFnZ2RRU3AtWFlCXzJFTS1hcnFGZUFRNnRlNTZCSEUxaVlGQTNKTUhNUjBMdkxwRkRnLTFjVWM4UHhHVHVSekFIdV9zbUllejJsVmpDODBGQVRsOEZhSFg0T09BcjBsYzUxVFNST01lcG5uNVVKVXNyXzVQX0lkM2tjRDZFU1FSNE42RTNIMHJWckFrZ2J3?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Cajas de Compensación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1564,
+      "titulo": "Exmagistrado del CNE es contratado como asesor jurídico en Ministerio del Interior",
+      "categoria": "gabinete",
+      "fecha": "2026-10-06",
+      "descripcion": "Altus Alejandro Baquero, exmagistrado del Consejo Nacional Electoral, firmó un contrato por 91 días como asesor jurídico en el Ministerio del Interior del gobierno de Abelardo de la Espriella. El reporte detalla los términos del contrato y su vinculación previa con la campaña presidencial.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/exmagistrado-del-cne-aterrizo-en-el-gobierno-de-abelardo-de-la-espriella-como-asesor-juridico-este-es-el-contrato-3591733",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Altus Alejandro Baquero"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1563,
+      "titulo": "Cali proyecta plan de reconstrucción de $10 billones a cuatro años tras el terremoto",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-07",
+      "descripcion": "Cali inicia una nueva etapa de reconstrucción tras el terremoto del 10 de agosto, con un plan estimado en cerca de $10 billones que contempla vivienda, atención a damnificados y recuperación económica, a ejecutarse en un plazo de hasta cuatro años. Se confirma la demolición de 60 inmuebles con daños irreparables. A nivel nacional el sismo dejó 335 fallecidos, 4.516 heridos y 486.917 personas afectadas en 500 municipios de 16 departamentos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cali-terremoto-reconstruir-zonas-afectadas-60-inmuebles-demolidos-AG42007124",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 04:16",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
       "id": 1562,
       "titulo": "Envían a la cárcel a dos hombres por ataque terrorista a Escuela Marco Fidel Suárez en Cali",
       "categoria": "seguridad",
@@ -36391,8 +36632,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-06",
-    "total_casos": 1473,
+    "ultima_actualizacion": "2026-10-07",
+    "total_casos": 1483,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
