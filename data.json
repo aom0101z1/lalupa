@@ -221,6 +221,361 @@
   ],
   "casos": [
     {
+      "id": 1591,
+      "titulo": "EE.UU. confirma cancelación masiva de visas a ciudadanos colombianos",
+      "categoria": "internacional",
+      "fecha": "2026-09-29",
+      "descripcion": "Estados Unidos confirmó la cancelación masiva de visas para ciudadanos de Bolivia, Colombia, Ecuador y Perú, aunque aclaró que la medida no afecta a la población general sino a casos específicos. La decisión se da en el marco de las nuevas políticas migratorias y de seguridad de Washington hacia la región, y representa un punto de atención para las relaciones exteriores del nuevo gobierno colombiano.",
+      "evidencia": "Reportado por La Nacion",
+      "fuentes": [
+        {
+          "nombre": "La Nacion",
+          "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/es-oficial-estados-unidos-confirma-la-cancelacion-masiva-de-visas-para-ciudadanos-de-cuatro-paises-nid29092026/",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Estados Unidos / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1590,
+      "titulo": "Ana Lucía Pineda revela quién pagó los gastos de su viaje a París",
+      "categoria": "diplomaticos",
+      "fecha": "2026-10-07",
+      "descripcion": "La funcionaria Ana Lucía Pineda entregó detalles sobre el financiamiento de un viaje a París, en medio de cuestionamientos sobre el origen de los recursos usados para el desplazamiento, un tema que se suma a los señalamientos previos sobre viajes al exterior de funcionarios del gobierno Petro.",
+      "evidencia": "Reportado por Colombia.com",
+      "fuentes": [
+        {
+          "nombre": "Colombia.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHF2djgwbkJiMWl0TklkbldNUGdFb1l1TWZXbzhtY2lDRU1PcVpwOEN2YXlJYUJMM1FaVnhWM1ktX3Vnc1JLc0Z0THp5SGRvcWdqRDEtWkllVnVRNEV5SUJFa0twWWYyYkdsc1ctakVoQUMzZ0pfSXpMcHBVb2FBWmdoYVRGMHljc1BnNXR6cmJ6OXpTNk5yakZlc1d0UFNzNmhUWnhRRnh0c2Fva25iaGJmS3NTUHQt?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44"
+    },
+    {
+      "id": 1589,
+      "titulo": "Operación golpea finanzas de disidencias de 'Mordisco' en el sur del Tolima",
+      "categoria": "seguridad",
+      "fecha": "2026-10-07",
+      "descripcion": "La Policía Nacional intervino cinco unidades de producción minera ilegal en los municipios de Chaparral y Coyaima, Tolima, utilizadas por disidencias de alias 'Mordisco' para financiar sus actividades. Las autoridades estiman que la explotación podía generar cerca de $4.000 millones mensuales en oro, recursos que habrían servido para sostener la estructura armada en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-contra-mineria-ilegal-golpea-finanzas-de-disidencias-de-mordisco-en-el-sur-del-tolima-3591989",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1588,
+      "titulo": "Embajador Alejandro Ordóñez se estrena en la OEA con críticas al Sistema Interamericano de Derechos Humanos",
+      "categoria": "internacional",
+      "fecha": "2026-10-07",
+      "descripcion": "El embajador Alejandro Ordóñez, exprocurador, pronunció su primer discurso de bienvenida ante el Consejo Permanente de la OEA, presentando los lineamientos de la política exterior del gobierno de Abelardo De la Espriella. En su intervención cuestionó duramente el Sistema Interamericano de Derechos Humanos (SIDH) y habló de una 'batalla cultural', marcando un giro en la orientación diplomática de Colombia ante el organismo multilateral.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/viva-cristo-rey-el-final-del-discurso-con-el-que-ordonez-vuelve-a-la-oea/",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordóñez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cancillería de Colombia / OEA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1587,
+      "titulo": "Petro y Benedetti permanecen en la Lista Clinton de EE.UU.",
+      "categoria": "sanciones",
+      "fecha": "2026-10-07",
+      "descripcion": "Gustavo Petro y Armando Benedetti continúan incluidos en la Lista Clinton (OFAC) de Estados Unidos, lo que implica un bloqueo bancario que podría afectar sus aspiraciones electorales de cara a las alcaldías de Bogotá y Barranquilla en 2027.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/petro-y-benedetti-permanecen-en-la-lista-clinton-como-podria-afectar-sus-aspiraciones-electorales-en-3591893",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Armando Benedetti"
+      ],
+      "entidad": "OFAC / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44"
+    },
+    {
+      "id": 1586,
+      "titulo": "Piden anular elección del contralor por 'libros exprés' en su hoja de vida",
+      "categoria": "mentiras",
+      "fecha": "2026-10-07",
+      "descripcion": "La abogada Tatiana Ramírez solicita anular la elección del contralor general argumentando irregularidades en el proceso del Congreso, relacionadas con publicaciones de libros exprés usadas para inflar su hoja de vida académica.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/piden-anular-eleccion-del-contralor-por-libros-expres-en-su-hoja-de-vida/",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Tatiana Ramírez"
+      ],
+      "entidad": "Congreso de la República / Contraloría General",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44"
+    },
+    {
+      "id": 1585,
+      "titulo": "Contraloría advierte sobre cerca de $30 billones en recursos para emergencia del terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-07",
+      "descripcion": "La Contraloría General emitió una advertencia sobre el manejo de cerca de $30 billones destinados a la emergencia del terremoto, cifra que according to el ente de control requiere vigilancia reforzada para evitar irregularidades en su ejecución.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJsWXFBN1FBRzBZTXE5c092OWg5WG42Q3Q2d09zVEQ0bll0YmZWX29NcEcyUzZoT1V3eVZabkJFVFpHRlhhdkxabXdMMjcwVlpJRkdPbUhSb09iQnZGeUdST2RCLVZheXRBVzItV3Rxd3k2Qkxwb1RLQ3RSaVU1QngwTGRoNUlsSjE4SlpNYy11WkFqV0gxR0k4Unp4aW5KSWszS2dNU3RWNWpyQW1TandB0gGyAUFVX3lxTE9YMmxZcUE3UUFHMFlNcTlzT3Y5aDlYbjZDdDZ3T3NURDRuWXRiZlZfb01wRzJTNmhPVXd5VlpuQkVUWkdGWGF2TFptd0wyNzBWWklGR09tSFJvT2JCdkZ5R1JPZEItVmF5dEFXMi1XdHF3eTZCTHBvVEtDdFJpVTVCeDBMZGg1SWxKMThKWk1jLXVaQWpXSDFHSThSenhpbkpJazNLZ01TdFY1anJBbVNqd0E?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1584,
+      "titulo": "De la Espriella revela empresarios que administrarán el Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-10-07",
+      "descripcion": "El presidente Abelardo de la Espriella dio a conocer los nombres de los empresarios, entre ellos uno vallecaucano, que estarán a cargo de la administración de los recursos del Fondo Milagro destinado a la reconstrucción tras el terremoto.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV1hZUG1lU3ZtQUZVSjdyRW5OeEZIWFdCWkp2aXdoUkxHZTFSTGpyN2dpbE1PTy1tMjl6TnRhRnRlZ0FLR2I1N2twUi1qcWRUdEp6SkFoeG5LRTNoWGVqZEpxbU1BUW5xQUg5dGwwZ0xGcm45VndGS2tjTURHNS16UHQ1Z0YxazhpX21KTk5fY0FFMWcwek1TZlFQdU9VRG52dVJfZ3JTUkVKcUZLM3hjWUFXMjNwQUFBRHF3MU81UVFmWm5XMU0zVUxtY19uNmdqd0RYbXE1NC1xMkVLSmZtQUFkN3FZUdIB6wFBVV95cUxQN0E4RDdnUlpIWWRiMGc1dnpOcWRTN012SmlqQW1zUWxPYW9iVWtwcmticS1OOHhBMUdFZkJvQ2twZ29nN2JTdUN2YWtnQXFpZVNHdUlXT19pOHZGZG1ta01HVDhscVc3LVMtMTJUeGJJdGNMTWhERWJ4STVlRnRUVlhUYXFSOHFrcGZPQWRsQTdSakhCRTFJVVF2RVlkVkFQZ1JCOGxnUXA5VkFCejZsVlFCcWc4UjFEcFI2UTI0amUtNzBPYVFYb2JNN1RXMkh5Ql8zcmxBaUNxXzlhLXFqM1dleXpSZEZiME5Z?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1583,
+      "titulo": "Plan de Choque en Salud reporta 7 millones de medicamentos dispensados y 120.000 procedimientos resueltos",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-07",
+      "descripcion": "El Gobierno De la Espriella reporta avances del Plan de Choque en Salud: más de 7 millones de medicamentos dispensados y 120.000 procedimientos médicos resueltos, como parte de la estrategia para atender rezagos del sistema de salud.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNR1hOekppYldwSU5FSlprY0pVUHJMbk1oSUdpNlNZdXVqOWpQUWdNdzlHd1k1UUJPMEVpaUZwRVBoMXB1c1d6UnJGX1ItWUFuWHJmRS1rSXYzWVg5YVNyOHhEZ3pWc3dQeTg2TEl5YmZQOUlmcjlaNEVpdnZla2R3ZU5DZGlBQzVWUGcta2RzbWs4Z01jSDdTWDJXdnpXeWpvMzdLX0tCTWF6SHU4NGF4RExINGxXQ0lIdTJZZXdiWDJyZlJnR1FQOE5qb3ZuVmdBcEMxdlJkXzlVYXV6Q2ZRMDVlZHdwblFuNW9SNndDUzByblJaWWpXVGdFcGdtMFc5bVRsYVRIZTM3OVppRklBblpB0gGsAkFVX3lxTE9RSzB0SXhsdXFCdFJxZ3JEbTRtNFhrZUlBcmdQRFJ4X0R4RFVxamVuYzZFZmxGNnQwTTVuMEJ4S1o2aW9ub1VhM2VaZ2lNdWNtYUlyNVlKdnoza1ZnN3htZDk3MTRQZG9TRU9GOEVJbEFsSmtJNHV4S1htSVZxd2JVY2xMX0NJNVh1dy1rQzhoVmZ2WEhkazVBMnhLZDR3YXAwMGlLT0YyZnJ4b0dyWlJBMHF1aEdiT05SQi1WeV9rNVNGQVdwVFkyMEhpUTZyaDdtd2N5MGR0WkVKcXZwdll6a1ZXb1F2ZHM3OTVjMzBId2Q0OWZuT0lxN0tUbElVeVdWVEZzbmE3OVJ1eUI3dDltbjFIVzhXYW1FN2U4OHZQVDV1bE1BbEV4eDZOMQ?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1582,
+      "titulo": "Caso por la baja de alias 'Bendito Menor' pasa a la Justicia Penal Militar",
+      "categoria": "seguridad",
+      "fecha": "2026-10-07",
+      "descripcion": "El caso abierto por la muerte de Naín Andrés Pérez, alias 'Bendito Menor', cabecilla de Los Pachenca abatido por agentes de la Policía Nacional a inicios de septiembre, está siendo investigado por la Fiscalía de la Justicia Penal Militar, lo que genera cuestionamientos sobre el fuero aplicable.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/por-que-el-caso-que-se-abrio-por-la-baja-de-alias-bendito-menor-esta-en-la-fiscalia-de-la-justicia-penal-militar-3591884",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Naín Andrés Pérez"
+      ],
+      "entidad": "Policía Nacional / Fiscalía de la Justicia Penal Militar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1581,
+      "titulo": "Contraloría levanta aplazamiento de concurso de méritos con certificación especial para damnificados del sismo",
+      "categoria": "damnificados",
+      "fecha": "2026-10-07",
+      "descripcion": "La Contraloría General levantó el aplazamiento del concurso de méritos 2024-2026, estableciendo que los aspirantes damnificados por el sismo del 10 de agosto deberán presentar una certificación oficial para acceder a condiciones especiales en el proceso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/servicios/contraloria-general-levanta-el-aplazamiento-del-concurso-de-meritos-2024-3592028",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1580,
+      "titulo": "Gobierno elimina tope del 30% a inversiones externas de fondos de pensiones",
+      "categoria": "economia",
+      "fecha": "2026-10-07",
+      "descripcion": "Abelardo de la Espriella eliminó mediante decreto ya publicado el tope del 30% que limitaba las inversiones externas de los fondos de pensiones en Colombia, una medida que afecta el manejo de los recursos pensionales de miles de trabajadores y revierte una norma del gobierno Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2xPMklQdkhPa2M5cVVrcElTTGRIQ3ZqeklIOEp1Q1pwOXczVDlDMmc5Zm5qeTBVZGQzLWFvSDdqQUFuTU9FY1NTYWF3b0NiS3VsMmxUNTdjSVN6VnJlQ01qZ0ktMHNnaEhIX0VwN2ZKVHBCamNTeWdXN0xGZEozV1BTSzVTS0RnY1RYN2dMVmtYYXNTdUxBRnA4WEo3ajJEMG5fSkhhM1RwbFdoeEJ0cWNDSDRqWVpmVmJhQXJQZkwxX3RJNDZzMHd1MzFjek1MTHJ6TjRZSFU0VHZWX2VQQmJ3a1VfNkczd0FKYnlwdS0zUEk4c0HSAZACQVVfeXFMTlc3WVlicVVvS1Y4QmI4cEpfU1BEUUlWaEtoUk1kOFFkZG8xR0xBUUhIS29IeTdNa3AtMHE3bWxEeDlaclJXZ1VmZnFjMG1wdUl0RWt5ZDlXSUhKWldyWjJFd2lqRzRVTzN1VFBGYWdBOGFwRWtHUWQwYzdweUIwQnlFUkFjb3ZfVm14cHc2NGdxNUpRTFF5Z053NE5oZ2tqZXZTQV96UTlWQ2xNbm1DaDdwa3ZnY3doMUt6YWhEWXZVQlcxZzNiRU1GQ204T3NDV09LZjNkcWVkNTVWazU5MTJEdEtCNWJpNHRNdGswbHRRTFo5R1FxR3R3ckdvZktDTTdnU2JvWTdYT2dSeW04Rm0?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1579,
+      "titulo": "Gobierno expide decreto para facilitar operación de plantas térmicas ante fenómeno climático",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-07",
+      "descripcion": "El Gobierno de De la Espriella expidió un decreto para facilitar la operación de plantas térmicas en medio de un fenómeno climático que afecta la generación de energía en el país, como medida para garantizar el abastecimiento energético.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmlmTXdjZ0RSSEFzRDBPdXlXU0UxZk1ObG9iX2lRZHkycG4tejhqY1dpOTdBYWR4dkFxLThLSXBvVXBuUDNUVnlfZXFIWHJNT2Z0Sl9JMkdrLUhxaWFtUzlGdW1LYXJ4aWhNZW1saEY5MTQ5U3NKdUhyWkRQQ2R1bWtJbmw1c0FrczZzdm4zRmtTWXYwdzZRRzkyZkFkbWc4TjF0RnFDWnp6U1IxNGc5Z3ZZM3dWaGZsUGE5WHlVUmVLVjdUT2R2ZFRRTVk1NFJJM2RuU3BqMno0aW15bUJQQktwd9IB6AFBVV95cUxQa0d6REdpNF9LODNlVERVajB5SjZHd0FrN0NfTHNKNTFSNVdDbGdiZGgwQmtDak5VWUtmTldYWFdxWDhFM1Z1MmtTTDNHYWZWWDNTMlRKaWs2b3hjN25HbWxnUGhuMF9LUE1GSG9HeF9MMGhYMW5kcnFvZXhuUmxGVlh5NU5nOVNXME5hSzNCRURueF82MXFIanowcmVBTXFTY1duMHc2TXFxdWt2Z1RpajZrNHN4RnhrdmkyZElLbjdOQ0xGR3ZqVzViMTZ0bDJTVFVhTUNnM2ppcnZVczVGWFpiMjFEaHo0?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1578,
+      "titulo": "De la Espriella ordena terminar contrato de exmagistrado del CNE en el Ministerio del Interior",
+      "categoria": "transparencia",
+      "fecha": "2026-10-07",
+      "descripcion": "El presidente Abelardo De la Espriella dio la orden de terminar el contrato de Altus Baquero, exmagistrado del CNE que había sido contratado como asesor jurídico en el Ministerio del Interior tras haber hecho campaña por el presidente. La decisión fue confirmada por una fuente del Gobierno Nacional a El Tiempo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-dio-la-orden-de-terminar-contrato-de-altus-baquero-exmagistrado-del-cne-en-el-ministerio-del-interior-3591871",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Altus Baquero"
+      ],
+      "entidad": "Ministerio del Interior / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1577,
+      "titulo": "Capturan y envían a la cárcel a pareja de alias Pinocho, cabecilla de Los Pachenca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-06",
+      "descripcion": "Yolima Johana Murgas Guzmán, alias La Mona, señalada como pareja sentimental de Fredy Castillo Carrillo, alias Pinocho, máximo cabecilla de Los Pachenca, fue enviada a la cárcel por un juez de control de garantías. Fue capturada el 24 de septiembre en un operativo conjunto de Policía y Ejército en el barrio Libertador, Santa Marta, donde le incautaron más de 34 millones de pesos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-la-mona-pareja-pinocho-los-pachenca-carcel-OF41990178",
+          "fecha": "2026-10-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Yolima Johana Murgas Guzmán",
+        "Fredy Castillo Carrillo"
+      ],
+      "entidad": "Policía Nacional / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-07 22:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1576,
       "titulo": "Consejo de Estado admite demanda contra nombramiento de Lina Garrido en la ANT",
       "categoria": "nepotismo",
@@ -36728,7 +37083,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-07",
-    "total_casos": 1487,
+    "total_casos": 1502,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
