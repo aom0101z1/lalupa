@@ -221,6 +221,535 @@
   ],
   "casos": [
     {
+      "id": 1637,
+      "titulo": "UNP inaugura escuela de formación de escoltas con nombre de Miguel Uribe Turbay",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "La Unidad Nacional de Protección (UNP) estrenó una nueva escuela de formación para escoltas que llevará el nombre del senador asesinado Miguel Uribe Turbay. El anuncio lo hizo el director de la entidad, Didier Blanco, durante una ceremonia interna, donde se negó a responder preguntas sobre otros temas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/unp-estrena-nueva-escuela-de-formacion-para-escoltas-llevara-el-nombre-de-miguel-uribe-turbay-3592239",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Didier Blanco",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1636,
+      "titulo": "Colombia se distancia de términos sobre género en resoluciones de la ONU",
+      "categoria": "internacional",
+      "fecha": "2026-10-08",
+      "descripcion": "El gobierno de Abelardo de la Espriella respaldó resoluciones de la ONU pero decidió distanciarse de términos relacionados con género y derechos sexuales y reproductivos. La medida diplomática no altera las leyes vigentes en Colombia, pero organizaciones sociales alertan sobre un cambio en el discurso oficial en el escenario internacional.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/colombia-respalda-resoluciones-de-la-onu-pero-se-distancia-de-terminos-sobre-genero-y-derechos-sexuales-y-reproductivos-que-significa-la-decision-3592300",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1635,
+      "titulo": "Cae red de laboratorios de cocaína en los Llanos con 1,5 toneladas incautadas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "Autoridades desmantelaron una red que operaba laboratorios de cocaína en la región de los Llanos, incautando más de 1,5 toneladas de droga y dejando ocho personas procesadas. La organización invertía hasta 150 millones de pesos por laboratorio y marcaba sus cargamentos para identificación de compradores.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-red-que-montaba-laboratorios-de-cocaina-en-los-llanos-mas-de-1-5-toneladas-incautadas-y-ocho-procesados-tras-las-rejas-3592255",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1634,
+      "titulo": "Colombia trasladará su embajada a Jerusalén el 14 de octubre",
+      "categoria": "internacional",
+      "fecha": "2026-10-08",
+      "descripcion": "El canciller israelí Gideon Saar confirmó que Colombia trasladará su embajada de Tel Aviv a Jerusalén el 14 de octubre de 2026, calificando la decisión como un hecho 'histórico' en las relaciones diplomáticas entre ambos países bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por DW",
+      "fuentes": [
+        {
+          "nombre": "DW",
+          "url": "https://www.dw.com/es/colombia-trasladará-su-embajada-a-jerusalén-el-14-de-octubre/a-79605977?maca=spa-rss-sp-all-1122-rdf",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Gideon Saar"
+      ],
+      "entidad": "Cancillería de Colombia / Gobierno de Israel",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1633,
+      "titulo": "Congreso aprueba solicitud de tres créditos por 497 millones de euros a Alemania",
+      "categoria": "economia",
+      "fecha": "2026-10-08",
+      "descripcion": "El Congreso de la República autorizó al gobierno nacional solicitar tres créditos al Banco de Desarrollo de Alemania (KfW) por un total de 497 millones de euros, a una tasa de interés 2% menor que la habitual del mercado para este tipo de préstamos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/congreso-dio-luz-verde-al-gobierno-para-pedir-tres-creditos-a-alemania/",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Banco de Desarrollo de Alemania",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1632,
+      "titulo": "Fondo Milagro revela que sus primeros recursos provienen de un crédito del Banco Mundial",
+      "categoria": "dineros",
+      "fecha": "2026-10-08",
+      "descripcion": "Se conoció que los primeros recursos desembolsados por el Fondo Milagro para la reconstrucción tras el terremoto provienen de un crédito otorgado por el Banco Mundial, lo que aclara la fuente de financiación inicial del fondo administrado por Fiducoldex.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXFiejZjaFdNcjZ3cHRndVBBc0U0VVh3TWU1WWpIcXB6S3djTmVJQlQxQWhrdUwtMjlwOW41Wl9SMXdnTXhkMkw3aXNfV3RZNEttX2hGTlR2UFUyZ3JkSV9HUGpSUm1qT1pPQ3BrYm5uRGdrZnY5Q2ZjTDBseWVDdjI4WVc1RlppYWFXd0gyNlBkaDFzX0M0MlVxcFJnQUs4TGJfZVJTUW1seTRiaEgzUWtJTFdENEpUMUU0Qlh5SEs?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Banco Mundial",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1631,
+      "titulo": "Colombia y Panamá realizan operativos conjuntos contra el Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "Autoridades de Colombia y Panamá ejecutaron operativos binacionales coordinados contra estructuras del Clan del Golfo, en el marco de la cooperación antinarcóticos del gobierno de De la Espriella con países de la región.",
+      "evidencia": "Reportado por El Periodiquito",
+      "fuentes": [
+        {
+          "nombre": "El Periodiquito",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmhTNFBKNHBNeWVaekRPVkpNdVowU1dtU3p3ZmZaMl9QNkxZOENKOXNVN2JHd2x3RFZvNXpoalhjV1VDcjBwdHZwWjZYTWdDRWtjNnhwWUVVYUhlME8yT0tJTGJ4SGdBUmJYcE9xZFBHRTEtQkVHaWR6UjY2bWtFWF9xUFV5cS1HZWEtTXhVRUYycnhkUjcwVFNHaGhzQjd0bTk2Nw?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Colombia / Gobierno de Panamá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1630,
+      "titulo": "Ministra de Cultura Paola Holguín reconoce que no cuenta con título de maestría",
+      "categoria": "gabinete",
+      "fecha": "2026-10-08",
+      "descripcion": "La ministra de Cultura, Paola Holguín, reconoció públicamente en redes sociales que no cuenta con el título de maestría que se le atribuía, tras cuestionamientos sobre su hoja de vida y su gestión en los primeros dos meses del Ejecutivo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/ministra-de-cultura-paola-holguin-reconocio-que-no-cuenta-con-titulo-de-maestria-y-se-pronuncio-tras-cuestionamientos-sobre-gestion-no-me-gradue-3592284",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Paola Holguín"
+      ],
+      "entidad": "Ministerio de Culturas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1629,
+      "titulo": "ONU pide mantener esfuerzos de implementación del Acuerdo de Paz ante incertidumbre institucional",
+      "categoria": "internacional",
+      "fecha": "2026-10-08",
+      "descripcion": "La Misión de Verificación de la ONU, en su informe trimestral, pidió mantener los esfuerzos para implementar el Acuerdo de Paz, expresando preocupación por la financiación de la institucionalidad de reincorporación en medio de la revisión que adelanta el Gobierno de De la Espriella sobre la política de paz.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/mision-de-verificacion-de-la-onu-pide-mantener-esfuerzos-para-implementar-el-acuerdo-de-paz-ante-incertidumbre-institucional-3592269",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Misión de Verificación de la ONU / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1628,
+      "titulo": "Se confirma cifra oficial para reconstrucción de instituciones educativas en Cali",
+      "categoria": "avances",
+      "fecha": "2026-10-08",
+      "descripcion": "Se oficializó la cifra millonaria destinada a la reconstrucción de instituciones educativas afectadas por el terremoto en Cali, en el marco de la alianza entre la Alcaldía de Cali y el Ministerio de Educación para intervenir más de 200 sedes educativas.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNEhCenpJLWRtWU8zX19wM0hROVZsakhFTnlyaVMzRFBCT2d2dnk2WnUyWFdZRkV3d1MzMWVNbWZ2czNEQjA1bXE5RXluUjBzelNfUjktUm5MT18xaXhDMm1WRmh5NkMwT1l0UlJ2cm5XalVtWVVjNjB6T3g3ckZTUVRMbkZpQWVlTWF2SW9wSmxOOEIxR1JDcTVPVE1MbE9wd2w2LVd0QXRSNm1relhoQWNycGx2MGdXeU1hb2lDZl9rWVV1YnRrVm1BUk1DUS04MW5naFVsYjZucmZHMGdn?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali / Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 1627,
+      "titulo": "Anif alerta que reconstrucción tras el terremoto podría tardar seis años y costar $40 billones",
+      "categoria": "dineros",
+      "fecha": "2026-10-08",
+      "descripcion": "Anif advirtió que la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto podría tardar hasta seis años y requerir una financiación de hasta $40 billones, lo que representa un reto fiscal mayor al estimado inicialmente por el Gobierno y la Contraloría.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMWFFS01HTS0xcTlGNEp3T0d0UU9GbjN6VlZZc2JiTDV6Y2w0UlNjWVE2Q3VtemZhcFdQTTh4bmJQS3g4a0k0TmVUNDhOUTZTM1Q3YVFmY0Qya0NTWjZqejhsRjVuVHZwZEJKWEhPNEpOTXlOT29hTXMzeHpDWV9XSnQ3ZW92aEdSWTRnWVBrb2pCNG94RHdrU2I5UjdnYlY0YjJvUkdOVVBjQUxhR2FiZDlncmI4Y191T0dGNHYwMldBVFZOTk9WcWdQcHE5Si1zajEySHVUT0ZCYXZSN29yZU45dGhyRXhMQTRZS3RuVmRyaHFoSW9HcUN3bFltYzl0Wi1rRnA1MERYMjU2RFpqS2pIONIBrgJBVV95cUxOYjk0MFNFMDNFanVmNVlFeTVsczYtcVpQbExyUHNfcjk5ZDk4aEpkYmFheTREeGdyUkJvUm5aT0FhamhNWEo1SFZ6b2d1VWxHVUp5Z2lDcFFRRnVwUlVNMElaUUo4dDR0bGQyZmo5OEdmREN6N3V5WUFnOUdyWkFITTU5QUYzTGVIX05EWmp4SG8ydUpKcU0wZDNsVC1ITkZfNlM2VnNRRnRWWmFtMl81TE54cHF4QjNORDJrYllFbmJXVFVORjgxNlB0ZGdxTzZlQ0ZjUmxGQmhwcFQ4MTVxUVV1R2YxeEJPdHptZXRoRzdVSTlhTFAzRHJEc1hDdDViY2h1MVhlTkFvMHdoODc5QnpQdXRiZ2RVVGdGTGlMbm15WldCTXB2bVd0ZWxVQQ?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Anif / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1626,
+      "titulo": "Gobierno anuncia nuevas medidas de control sobre contratos estatales y recursos públicos",
+      "categoria": "transparencia",
+      "fecha": "2026-10-08",
+      "descripcion": "El Gobierno de De la Espriella anunció un refuerzo en el control sobre contratos estatales y el manejo de recursos públicos, con nuevas medidas orientadas a la transparencia en la contratación pública.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcnk4b3NpWDcwNGNnS0RaS0lnTGtBdDQ5cVNuYW5rcUxMa2FRWnhKU1l6Wlp5VkppLUlRekw0MTlGYzIwWkxJRHhrS3JmM0o1V0lmTDlYUjhFVEVWRGxleUd1VUlDSFVsYlFsV3pDVEM2ZV9TR051M2ZzSXQ0alpVVElVOHBvQU9BajlsNGxZSWN5UWViRm9CX3JpWm1Jcm9Fal80YU8yTml2cTFMb1ljYm13ZEs3Y1hkMTR4T0xKaG9TOWpWVlJNVFVFWDN0VTVoX1NrcG9B0gHbAUFVX3lxTFBNM09waVBLWF9uQ1VEV09fTDRKTEJrUC1xcEhmV1RkREdZRDlBSDFJNFU4Qy1Cc2dYRWNYZ0x2Z3J6ck8yaWZnYWJETVNtNFZjWU1vaGt6cjEwZTBNTVdnTE0tVVlOUmVCZjBPNUpCYmhpZ2xuR2h4UlVkZFlESHlfNGdIT3lYcW8zXzNJWUlrYVpMLVEwOW04Z2VRa0hFVzY1ZHhtUjlvUFFLTVNUUU5fR0hsS09uYThqMmdrMWM5NnBteUtsM0N0Y0NYbEpPTFBtQnlwaDBDamJiVQ?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1625,
+      "titulo": "Gobierno revela plan de infraestructura vial 'Caminos del Tigre'",
+      "categoria": "obras",
+      "fecha": "2026-10-08",
+      "descripcion": "El Gobierno de De la Espriella presentó el plan 'Caminos del Tigre' para la intervención de vías que, según el Ejecutivo, 'no pueden seguir de adorno', como parte de su agenda de infraestructura territorial.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVVqZm9BdG1DTnJNWktPZ0Q2OVR3bUJGVmNja1hYb3N4RHY4bzY3WjlHMWpiMUI5Z0hZZTljeHI0Q29NekREZkpOdm9WVC1lN1dhMEdRYmEyc3NERi04WXNpelVBaEEtTWdCcVQ3cUtjd3ZmYVVYZEQxQ2pvTEdhcU43QjRBc1h5V0Z3T2FDaXZra2tkWVZKTk84VUJERXgweGZyYXFqakRoMzhHc3JmTEFhc2hyc0VKc2lOWUtIYVBLeWZxbnJVSXBqMUZIMzZXekViUE5Lbkg1VHRkX2ZfcUEzRXg?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1624,
+      "titulo": "Gobierno rechaza nuevo cobro por tonelada en Puerto de Buenaventura",
+      "categoria": "economia",
+      "fecha": "2026-10-08",
+      "descripcion": "El Gobierno de De la Espriella rechazó un nuevo cobro por tonelada que había sido decretado para las operaciones en el Puerto de Buenaventura, en una decisión de política económica y de comercio exterior que afecta a los operadores portuarios.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUcxVHI1dzI1NUpfODg4NDlRUHNuYkZza0hDREJsdVk0dXBOejB5cmc0RWZac0VGZUNNOC14U0FTU3ZrLWNfM3hoUnpqcG83dFpVWWpkR1NfZ3hUcmp5YXhtUk9pTktpY0N4OTVTWUtFS0ZITU9sUlFoVzIwQ1cyZThnUU9mZ0ZjT2FNR092YXBZb0JmOEZITnhkODdzZTJxbGRBS2lBR1NwdjlsY3ViQldUZzdOTmZ0Z211YldzRGtJYWdnQk130gHMAUFVX3lxTE5oeU9XMUFFdHRRblNZT1k1MlhHek8wVWxTYWQ0dDFuaDdRM2dNQURpVm5YR0xUSFk3WTJtM1pNMnAtR0U2YVlmWGc0bEV1anp3YUdIZjd0WFdmdnpUSDVCT3ZzWnY1T0s3RERzZlR1WXpsUXlFcXFhQl9PN3NCZ3BWMmc2cGhUT3lmejJ5X184OVpTT0M4N3MxaGNqQWdQTVprTFMwVjhheFhDRVNjMXM0clpPZVhOcS1YYk1ScDRGRmNQZFhpN19jQTlhaQ?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Puerto de Buenaventura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1623,
+      "titulo": "Gobierno acuerda plan de seguridad con transportadores: drones de vigilancia en carreteras",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "El Gobierno de De la Espriella acordó con los transportadores de Colombia un plan de seguridad vial que incluye el despliegue de drones de vigilancia en las carreteras del país, como respuesta a los problemas de inseguridad que afectan al gremio del transporte.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaXJQblFQRWlkRE5mVm55Q1lqVkxNZ3NBeVROTVZ2ZXdDUy1jWTNqZnV2ZlRJQVhXMGRIUzFTU0NETWlGUnhoR1o2ckp4RTkxWHVoZEtZbDNtd3hLYm15eXlUQ0M5cnNWZVRpS3owMWhNZ0dKMVNfcGowSERlWG1LSjRBVG1QUkJpUXhtM0ZMZHBpSDJDMkpGRmJxOEQxMGdLdGNNQVFBdFlhcWw3NEpnU1lWWnJ1RU1FT3VYRi1BRHllNVJGY1hTUU02NkV3M3VGSERIT29BQmVXS0JIaTNiZ1ZuMXBIUHNKbzNQcjVYbVNwQi1RZXA2WGZoREFjM3A3OXN5N1dZb9IBogJBVV95cUxQcHFfRlM2TzlWWXJBQVUtNnI1bzR0X25FWGRjMVZ4TFBJM3c3bkxlZUhoMTEzWXdXYS01Q1puVjExZzZVbGduRXBfWGhxckZtZFJrLWlNWFVyQll2OGV2d25Xd1BsMWo5Mmx4SGpySUJtbzFqa1dHWDlRT3ZReXlfVzg2RXhjSG9hUjRISXlHaThqVDVhbHgzbUZPaV9ZODdMOUJpbVI1Q1NyQUNqMWstT3AzTzcyRTI5eDJ6N3FoX3VuZUpfOTB3cFQzN1pKSk9YdHFFeThfeTdRWXFOQVQzeVBaYUJoRV9ST3QwZ19URURGV1B2Vmk0cXFQNDR3NDlTenBENjh0ZlZDLXRjeHVleWxPQm4xaGpLT2l6MG1NS2NXdw?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Gremios de transportadores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1622,
+      "titulo": "Capturan en Pasto a dos personas con 23 explosivos improvisados de disidencias de 'Mordisco'",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "La Policía Nacional capturó en Pasto a dos personas presuntamente vinculadas a las disidencias de 'Iván Mordisco', quienes portaban 23 explosivos improvisados y cilindros acondicionados para su lanzamiento. Uno de los artefactos tenía un alcance potencial de afectación de 400 metros a la redonda.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-capturados-en-pasto-con-23-explosivos-improvisados-y-cilindros-acondicionados-para-su-lanzamiento-serian-de-las-disidencias-de-mordisco-3592333",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1621,
+      "titulo": "De la Espriella presenta ruta del Plan Nacional de Desarrollo 2026-2030 con 334 proyectos, prioriza zonas del terremoto",
+      "categoria": "obras",
+      "fecha": "2026-10-08",
+      "descripcion": "El presidente Abelardo De La Espriella lideró en Pereira el primero de 12 encuentros regionales para presentar la ruta del Plan Nacional de Desarrollo 2026-2030, que contempla 334 proyectos clave. Anunció que las zonas afectadas por el terremoto del 10 de agosto serán prioridad en la agenda territorial del plan.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/de-la-espriella-presenta-la-ruta-para-el-plan-nacional-de-desarrollo-2026-2030-con-334-proyectos-clave-zonas-afectadas-por-terremoto-seran-prioridad-3592218",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1620,
+      "titulo": "Gobierno analiza revivir el día sin IVA",
+      "categoria": "economia",
+      "fecha": "2026-10-08",
+      "descripcion": "El gobierno de Abelardo de la Espriella estudia la posibilidad de revivir el día sin IVA como medida económica, lo que ha abierto un debate sobre su costo fiscal para las finanzas del Estado.",
+      "evidencia": "Reportado por Portafolio.co",
+      "fuentes": [
+        {
+          "nombre": "Portafolio.co",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkxLdE1NUUtfSzZUSmdfd2dsSUFqRUlocnRlLUdTRFlieTk0ZDZaMEFFZjNFakVfTGFVUDJTZnQ3YllLMVpBR2t6aFUxU2Z2azNKTndvamxyR19uQW9jbXc2QzhiOVpfQWcxTFNlUE9iaFhuR2ItMF9qc1pjaHNRZjdXR2NKMFVCb2lyd2twelBpQmVhbWstTmJKTVdudmVoMF8tb19tZDRxUTFyQ1pVMFlzRk9tWFlKN0lNaG9CVUVNMEgxSkt1MENjTlc4MlhidXRNbmtGbkRlempXUWFpaVRCRnVxOUNnMDVqRy1uTW1YX1U4Vmxj0gH8AUFVX3lxTE5tVlk4RGJUM3FNWW5oUF95YXJGVXlwTmRKcC0wRWw4UW1MNmxjdXl6Skx0M1hjRWdPTkZmRThnQ2hwSFVrcnU3N3ItaUR1c3NGcW93a25TRFZRNE9CRU8ybVEwT3dnbk51bGRmVUZoTUFaU2pYMENhSWlMUUlvVTg5dXlTNHlvT2hvQTRPWThuNkdRRkNEMk5LZE1fTGZ0V1N1b185amFQa2Y1enZuYTNGQWZDekZXWHViWG5XdDFqbkdZYzk4Z05tb2VxZ3E4a2VkMkhaVnNtMzZRRjJ3d01tWTdiU1hoQzdZSXlXcHcyV3lhMk9YcGZDZ01YVw?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1619,
+      "titulo": "Capturan a cinco personas e incautan una tonelada de marihuana en operación contra disidencias de 'Mordisco' en Vaupés",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "Una intervención del Ejército Nacional en Mitú, Vaupés, dirigida contra la estructura Primera Armando Ríos de las disidencias de 'Iván Mordisco', resultó en la captura de cinco personas y la incautación de más de una tonelada de marihuana, además de dos embarcaciones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cinco-capturados-y-mas-de-una-tonelada-de-marihuana-incautada-en-operacion-contra-disidencias-de-ivan-mordisco-en-vaupes-3592247",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1618,
+      "titulo": "MinInterior cancela 557 contratos y libera $103.000 millones en plan de austeridad",
+      "categoria": "transparencia",
+      "fecha": "2026-10-08",
+      "descripcion": "El Ministerio del Interior terminó 557 contratos y liberó $103.000 millones como parte de su plan de austeridad, en cumplimiento de la Circular 06 emitida por la Presidencia que instruye a ministerios y entidades a reforzar el control del gasto público, además de restringir viajes oficiales y priorizar reuniones virtuales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mininterior-termino-contratos-plan-de-austeridad-dinero-ministerio-hacienda-JD42056861",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Interior / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1617,
+      "titulo": "Petro denuncia abandono a víctimas del terremoto en Pereira",
+      "categoria": "denuncias",
+      "fecha": "2026-10-07",
+      "descripcion": "El expresidente Gustavo Petro denunció el abandono a las víctimas del terremoto del 10 de agosto, mostrando imágenes de damnificados en Pereira y afirmando que 'la prioridad son los negocios' en referencia al manejo de la emergencia por parte del gobierno actual.",
+      "evidencia": "Reportado por Actualidad-rt.com",
+      "fuentes": [
+        {
+          "nombre": "Actualidad-rt.com",
+          "url": "https://actualidad-rt.com/actualidad/631369-prioridad-negocios-petro-denuncia-abandono-terremoto",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 1616,
+      "titulo": "Cancillería halla 367 contratos idénticos y uno de $2.839 millones por dos días en revisión de contratación del gobierno Petro",
+      "categoria": "empalme",
+      "fecha": "2026-10-08",
+      "descripcion": "La Cancillería reportó los primeros hallazgos de la revisión de contratación heredada del gobierno Petro: desde el 7 de agosto ha revisado 811 contratos por cerca de $92.846 millones, encontrando 367 contratos idénticos y uno por $2.839 millones pactado para solo dos días de ejecución. La revisión hace parte del proceso de verificación ordenado por el gobierno de Abelardo de la Espriella en las entidades del Estado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contratos-cancilleria-gobierno-petro-367-identicos-2839-millones-AD42059090",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1615,
+      "titulo": "Congresista uribista denuncia lentitud del Fondo Milagro dos meses después del terremoto",
+      "categoria": "denuncias",
+      "fecha": "2026-10-08",
+      "descripcion": "El representante a la Cámara por Antioquia, Jhon Jairo Berrío, afirmó dos meses después del terremoto del 10 de agosto que el Fondo Milagro 'ya debería estar funcionando' y calificó de muy lenta la atención a las zonas afectadas. El congresista, de la bancada antioqueña, señaló inquietudes sobre la ejecución del mecanismo creado para centralizar y administrar los recursos de reconstrucción.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fondo-milagro-recursos-reconstruccion-terremoto-jhon-jairo-berrio-DA42063909",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Jhon Jairo Berrío"
+      ],
+      "entidad": "Fondo Milagro / Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 22:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 1614,
       "titulo": "Se conforma la junta directiva del Fondo Milagro",
       "categoria": "gestion-nacional",
@@ -37632,7 +38161,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-08",
-    "total_casos": 1525,
+    "total_casos": 1548,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
