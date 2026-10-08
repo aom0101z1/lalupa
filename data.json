@@ -221,6 +221,363 @@
   ],
   "casos": [
     {
+      "id": 1606,
+      "titulo": "Inflación en Colombia alcanza 6,29% en septiembre de 2026",
+      "categoria": "economia",
+      "fecha": "2026-10-07",
+      "descripcion": "La inflación anual en Colombia llegó a 6,29% en septiembre de 2026, la cifra más alta desde julio de 2024, completando ocho meses consecutivos de tendencia al alza que comenzó en febrero, según datos reportados durante el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/inflacion-llego-al-629-en-septiembre-y-completa-8-meses-al-alza/",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DANE / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1605,
+      "titulo": "De la Espriella propone a Brasil alianza bilateral contra el narcoterrorismo",
+      "categoria": "internacional",
+      "fecha": "2026-10-07",
+      "descripcion": "El presidente Abelardo de la Espriella propuso al senador brasileño Flávio Bolsonaro, candidato presidencial en segunda vuelta frente a Lula da Silva (balotaje 25 de octubre), estrechar lazos entre Colombia y Brasil para una ofensiva conjunta contra el narcoterrorismo, bajo la premisa de que 'sin seguridad no tenemos nada'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-propone-a-flavio-bolsonaro-estrechar-lazos-con-brasil-para-una-ofensiva-contra-el-narcoterrorismo-sin-seguridad-no-tenemos-nada-3592058",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Flávio Bolsonaro"
+      ],
+      "entidad": "Presidencia de la República / Gobierno de Brasil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1604,
+      "titulo": "De la Espriella se reúne con EE.UU. para definir estrategia antinarcóticos",
+      "categoria": "internacional",
+      "fecha": "2026-10-07",
+      "descripcion": "El presidente Abelardo de la Espriella sostuvo una reunión con representantes del gobierno de Estados Unidos para avanzar en la definición de una estrategia conjunta de lucha contra el narcotráfico. Según declaraciones del mandatario, el proceso aún está en fase de definición de lineamientos y mecanismos de cooperación bilateral.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcVFidW82QnhVWmIydVAtRTN4NEVkaE5WdnFhbnFibHFwcTNrMUxaa243ZTV5NTNtaVUzWFVlNmlfRHQ5V2M1TlhSN0x2T04zNE9TTVhQU3ZHdWIzRnhKOUxYTVdaS1cyMDhXdjd3ZzQxNW1ueWxxYTNSOTVreWFGM0ZYTFplUkl1ZW9jX1ZiRFkzVDVxMFdXcF8wc2dKaEhxNEFOakpxTUdkTmNjalRQTHRTb0ZmV2RMMHVpWEctZ1V3QkYwQ2N4Q00xSU5BRExqS29JRkg2dm1TMzhCbFlrbVdQRG95aDdKeGJZcmxubWNRdVpIb2NETjEzVTFYeUJPWFk0djRhQmFINlnSAaYCQVVfeXFMTUREVlc2TFQxc21GbFRWNmlLYzBfVTZxNDVoZWd5X05sQ1RWQS1lSlM2SDg0UVpuNVFDZnE1eHp2ZG12Ym9TYUs4YmdLTi1hYk1PaDJ4Q3M0X294cUV3Tk1uVEpfczItekwtQ2xHbDlKd1A5RTdLZUxjLThfQ0NtU2R2VGI3TEZyQlBpU28yQTBoelgzQ0lMeTNtU0VQSGJZa3Rhckt5LUtNcmVndDVPcFFGdUtpdXJpUEI2czYyV2swTEY5LUwtOTZBT01qY2lzbTE1eGF3SU1MR1VEQ0FMUEF5ZUhVSG5LTWJJVElUSFEzaVBPRVZGLXo0U29uN0RVNWR4YlBXT3I0OTlfbXpZbW0xTWwxNHdRVXpYQmZiRUswTG9iVmpB?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1603,
+      "titulo": "Capturan a seis presuntos integrantes de 'Los Domiciliarios' en Restrepo, Valle",
+      "categoria": "seguridad",
+      "fecha": "2026-10-07",
+      "descripcion": "La Fiscalía reportó la captura de seis presuntas personas integrantes del grupo ilegal 'Los Domiciliarios', dedicadas al tráfico de estupefacientes en el municipio de Restrepo, Valle del Cauca, como parte de operativos contra el microtráfico en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/golpe-al-microtrafico-en-el-valle-con-la-captura-de-seis-presuntos-integrantes-del-grupo-ilegal-los-domiciliarios-3591946",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1602,
+      "titulo": "Fondo Milagro recibe primeros recursos pero persisten dudas sobre ejecución en obras",
+      "categoria": "dineros",
+      "fecha": "2026-10-07",
+      "descripcion": "El Fondo Milagro comenzó a recibir los recursos destinados a la reconstrucción tras el terremoto, pero persisten interrogantes sobre los pasos necesarios para que el dinero efectivamente llegue a la ejecución de obras en las zonas afectadas, según reporte de Teleantioquia.",
+      "evidencia": "Reportado por Teleantioquia",
+      "fuentes": [
+        {
+          "nombre": "Teleantioquia",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQzF4RnNIeW9ad3l4Q3RYcGVCMWl4X2RQQldUclppZElXa2xYS3dacEpIaE1UTmZVOWRXcUExczlEdjdZdzhFTHBiUzVTYjlheWc4VzhlZ1o1cE54MkJ2bGFFUVI1dGdVR1ZyRFY3NmNJOFp0WHd5Q2FuZkkyM3FVb0hwTkZ2d3dySngzOHNRTGZQZUdZRnJwQ253QWlzdTFDV0VsUXViQWVESjU4c0lzbEtUUGFKWDJtMTZvTy1zcFNabFZDUjgzSHdMOUdSLTRKbDFjWkNFdDU2a1lQS1lvRlJ3WGZJdzBVZ2JkT1UtbTTSAfwBQVVfeXFMUFpLbWcxV2piX2hZcDVKd0lONV95QmUyel9PblQ5bGVnWnBNWGxkSm5kUTRrd0lEc1IxLTAyUXAyRU9JVUJMaHNSM2JlUm1uSGFxWnFSSmFTb2JxNTNWcm5kdjN6UDhZbnduZTdrTEtGM1dQTkU1MlJTcFZBVGhLUVBOelhvdlQ2QUNQZkRtRWFLeUhMRHhaeTFPZGd5LVRaRUNsQnNOMkprd0U0akl5Tm9TMFpHbGNERjlVMXN6RjZWY1ZJWnV1cUxxSkhYZFhCUXB1SkJlWEdKUlBlaGhjX2F4UGtEVVd3ODZxZ3RGMmJ2eDAyb1phVldvbGJU?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1601,
+      "titulo": "Capturan en Tunja a segundo implicado en homicidio del exalcalde de Yopal 'Jhon Calzones'",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "En un operativo conjunto del CTI de la Fiscalía y la Policía Nacional, fue capturado en Tunja el presunto conductor involucrado en el homicidio del exalcalde de Yopal, Jhon Jairo Torres Torres, conocido como 'Jhon Calzones'. Durante el procedimiento se incautó un celular y dos tarjetas SIM.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/homicidio-jhon-calzones-capturado-tunja-conductor-crimen-exalcalde-yopal-BD42051022",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Jhon Jairo Torres Torres"
+      ],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1600,
+      "titulo": "Gobierno expide Circular 06 de austeridad para viajes al exterior de funcionarios",
+      "categoria": "transparencia",
+      "fecha": "2026-10-08",
+      "descripcion": "La Presidencia de la República firmó la Circular 06 con instrucciones a ministros, directores de departamentos administrativos y entidades que reciben recursos del Presupuesto General para reforzar el control del gasto público, limitando comisiones al exterior tras la aprobación del Presupuesto 2027, bajo criterios de austeridad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/controles-gasto-publico-presidencia-comisiones-exterior-MD42051962",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1599,
+      "titulo": "Gobernadora del Valle pide apoyo nacional adicional para reconstrucción en Cali",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-07",
+      "descripcion": "La gobernadora del Valle del Cauca solicitó apoyo del Gobierno Nacional para la reconstrucción tras el terremoto del 10 de agosto, al tiempo que destacó la creación del Fondo Milagro como mecanismo de financiación para la región.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0dteU80MkZ2ZG1WYmRpMk93ZmpFRXFaVVo3My0tYWkzU1BHMXNiQjQydENlQk11TFVqMVNGYTl5WVA5SkFQb21SMlBDWWRibjZCNmdkTTBCTjQtUVFRUUJlcXQ5TElJZ0M5TjV5SU1URTI1ZGctYnpJSEM5YnhZcWFlUFhGX1JqM2prRlJGRXNfS2pObUp3SGh4SHJ6Z0xkMnNsZUI4VW04YmRxQVdJRmg3bk9oQ0tHeGRDbDlvWjZQSmJESHfSAcsBQVVfeXFMUEhwcFhjMlk4VVpOU1IzUkY4SDVmQ2VGV2x3ZVZFbTlGekFVc3ByT0JQMkoxM2NOa3NOUzZLaDlfSVZlUWlwcmEtZmF0eERMWm85M2k0MHZBUFlrZGUtYkNVc3NjcS04TWdLWDZ5V3Rka3l5cUp5Y3djUl9SMmxRamVON3ZDbWFYTTU3ZGdXdkhjRDBTdGt0YkVlZkdXWi1hRU55WUpXR2IyNTBRN0I5RkRsQnA4YTkyYm1Pa25EZFI2VG5qVnA3Nkx1alE?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación del Valle del Cauca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
+      "id": 1598,
+      "titulo": "De la Espriella presenta balance de seguridad de sus primeros dos meses de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "El presidente Abelardo De la Espriella presentó un balance de sus dos primeros meses de gobierno, destacando resultados en extradiciones y bajas de cabecillas de grupos criminales como parte de su política de seguridad.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOemVUcGE3NG14VHg5ZWxlMU1pR0hhRkVXTzhEdHFMVk9sU2RQclJIWkd1UVQ5c1Z3ZlU4OElIVlRkWlpQeTdxRFZOS3VjVm9iODdEZjNZLUpvRlJEMDlPa3hfdnFRWEhENVdGOVp1NTBabzAxOGc4ZFFqWDdQaWt0bHgxVWRLQXBzSkQzWmFwem5Ic2RLNjJENGEyd0xEdUFDbzliWVYxQW90M2ZOY3kyVVREWUNaQjJDM2Z2X3F1Z0RQRlM4NW9GbjY1RVRNUXlCWkpUWTZabkNGODdZQXlJclM3bjZwN2ZPTFZv0gHrAUFVX3lxTE56ZVRwYTc0bXhUeDllbGUxTWlHSGFGRVdPOER0cUxWT2xTZFByUkhaR3VRVDlzVndmVTg4SUhWVGRaWlB5N3FEVk5LdWNWb2I4N0RmM1ktSm9GUkQwOU9reF92cVFYSEQ1V0Y5WnU1MFpvMDE4ZzhkUWpYN1Bpa3RseDFVZEtBcHNKRDNaYXB6bkhzZEs2MkQ0YTJ3TER1QUNvOWJZVjFBb3QzZk5jeTJVVERZQ1pCMkMzZnZfcXVnRFBGUzg1b0ZuNjVFVE1ReUJaSlRZNlpuQ0Y4N1lBeUlyUzduNnA3Zk9MVm8?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1597,
+      "titulo": "Capturan a tres personas de 'Los Choneros' en Villavicencio por posible alianza con el Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-07",
+      "descripcion": "Autoridades capturaron a tres personas en el barrio San Carlos de Villavicencio en una operación donde se incautaron un fusil, pistolas, proveedores y seis celulares. Las autoridades investigan una posible alianza entre la banda ecuatoriana 'Los Choneros' y el 'Clan del Golfo'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-choneros-aparecen-en-villavicencio-y-autoridades-investigan-posible-alianza-con-el-clan-del-golfo-3592042",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1596,
+      "titulo": "Escrutinio sobre el rol de la primera dama Ana Lucía Pineda en proyectos de reconstrucción",
+      "categoria": "control",
+      "fecha": "2026-10-07",
+      "descripcion": "La primera dama, Ana Lucía Pineda, ha tenido un rol protagónico en la reconstrucción tras el terremoto, incluyendo un proyecto de 'mejoramiento y reconstrucción de vivienda' en Risaralda presentado junto al presidente De la Espriella, lo que generó cuestionamientos sobre sus vínculos con fundaciones y proyectos relacionados con la emergencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ana-lucia-pineda-viviendas-reconstruccion-terremoto-risaralda-choco-HH42015323",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 1595,
+      "titulo": "Gobernación de Risaralda solicita segundo giro de ayudas para damnificados",
+      "categoria": "dineros",
+      "fecha": "2026-10-07",
+      "descripcion": "La Gobernación de Risaralda pidió al Gobierno Nacional un segundo giro de recursos para atender a los damnificados del terremoto del 10 de agosto, en el marco del seguimiento a la ejecución de ayudas en la región.",
+      "evidencia": "Reportado por Alerta",
+      "fuentes": [
+        {
+          "nombre": "Alerta",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUdMRHNFTDVpRlZTSlRNSWxtT1lpZVNxdjJEcVRQYmp2V2x0RG5rNkVmZ2RpaVhPMVFPcnp1M19vWGNpS1FlMUxHMEtPay1VR240ckNCX0FvWmZoRVZmWjhBU3dpNDFQdkwyTU5EMkx1VTJ6Q3VlOW5tWG80c05BWXZuUm1scXJwMmtDNHJrLXdFRWpMVlRGc2ZibFF6Qkt5WXZv0gGjAUFVX3lxTFBTYTRVMjlZRE9xQzhWcHF4eW5qc2lNX3d6YVNQV054clhiTGJwQ3lHYm5fWDZkRGFkTDk5SnVXb2d4TE90QjZxMHl6bzBYakJucFNtU2luSjB5ejctS1VsMlFNZll1czFWcXZoMVB2dHFPdWRzWEtwOGt4NklkNl81SzlFVWlBajU4NWlKVmVqQk4ySTlSZHBPMENURF9nUTZiTHc?oc=5",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 1594,
+      "titulo": "Cathy Juvinao denuncia falta de representación de víctimas y territorios en el Fondo Milagro",
+      "categoria": "control",
+      "fecha": "2026-10-07",
+      "descripcion": "La representante Catherine Juvinao denunció que en el esquema de funcionamiento del Fondo Milagro, ya constituido y con contrato publicado, no existe un espacio de participación ('silla') para las víctimas del terremoto ni para los territorios afectados, pese a sus advertencias previas sobre los tiempos y el funcionamiento del fondo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/no-hay-silla-para-las-victimas-ni-para-los-territorios-en-el-fondo-milagro-cathy-juvinao-BE42027125",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Cathy Juvinao"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1593,
+      "titulo": "Gobierno contrata a Fiducoldex para administrar el Fondo Milagro",
+      "categoria": "contratacion",
+      "fecha": "2026-10-07",
+      "descripcion": "El Ministerio de Hacienda oficializó la contratación de la Fiduciaria Colombiana de Comercio Exterior (Fiducoldex) para constituir y administrar el patrimonio autónomo Fondo Milagro, destinado a centralizar y ejecutar los recursos para atender la emergencia y reconstrucción tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/asi-funcionara-el-fondo-milagro-detalles-del-contrato-para-la-reconstruccion-dos-meses-despues-del-terremoto-JH42010988",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fiducoldex / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1592,
+      "titulo": "MinInterior denuncia corrupción en contratos de Bomberos por $42.000 millones",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-07",
+      "descripcion": "El ministro del Interior, Rodrigo Lara, denunció presuntos hechos de corrupción en la Dirección Nacional de Bomberos durante el gobierno de Gustavo Petro, por contratos valorados en $42.000 millones adjudicados bajo una urgencia manifiesta. El Gobierno presentó denuncias ante la Fiscalía, la Procuraduría y la Contraloría para que investiguen la contratación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/corrupcion-direccion-nacional-bomberos-denuncias-rodrigo-lara-GF42031546",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio del Interior / Dirección Nacional de Bomberos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-08 04:29"
+    },
+    {
       "id": 1591,
       "titulo": "EE.UU. confirma cancelación masiva de visas a ciudadanos colombianos",
       "categoria": "internacional",
@@ -37082,8 +37439,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-07",
-    "total_casos": 1502,
+    "ultima_actualizacion": "2026-10-08",
+    "total_casos": 1517,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
