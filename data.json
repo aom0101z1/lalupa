@@ -221,6 +221,122 @@
   ],
   "casos": [
     {
+      "id": 1642,
+      "titulo": "Exgerente de empresa ligada a Alex Saab postulado a cargo en la ANLA",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-08",
+      "descripcion": "Un exgerente de Inlaca, empresa lechera venezolana vinculada al entorno de Álex Saab, fue postulado para un cargo en la Autoridad Nacional de Licencias Ambientales (ANLA). Según La Silla Vacía, el candidato omitió en su hoja de vida su paso por esa compañía, lo que genera dudas sobre conflictos de interés y vínculos con redes cercanas a Saab, señalado en casos de corrupción en Colombia.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/exgerente-en-empresa-de-alex-saab-fue-postulado-a-cargo-en-la-anla-cambio/",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Alex Saab"
+      ],
+      "entidad": "ANLA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-09 04:32"
+    },
+    {
+      "id": 1641,
+      "titulo": "Cronología de los expedientes judiciales contra Armando Benedetti",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-08",
+      "descripcion": "Reporte que recopila la cronología de los distintos expedientes y procesos judiciales abiertos contra el exfuncionario Armando Benedetti, señalando los avances y pasos pendientes en cada uno de los casos que lo involucran.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnhsVS1UUjlOejluaEJYUC1ibkN2Vk52WHdINUhYX3p2TzJIRWN6Q0VqQmZQMVA2bmRXTDhRUFRHX3pGd1lYNnAzMXJNaFNqNkdlNnE1Szh0ZnBBUDNVWks1QjVOdGdYUC1PeDVHTUdUZmhVMDU4OFlublprajlqX1hsNU9ucS1OcWRKN3pJLXdLdnI1aFBSbHVrd05PNmpxQ3ZSZk5TRWFnM0VwaVV0aXdKN2VWNXJUVUJFTHBTZjI?oc=5",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-09 04:32"
+    },
+    {
+      "id": 1640,
+      "titulo": "Capturan en Villavicencio a hombre por extorsión en entrega controlada",
+      "categoria": "seguridad",
+      "fecha": "2026-10-08",
+      "descripcion": "El Gaula Militar Meta, en coordinación con el CTI de la Fiscalía y el Gaula de la Policía, capturó en Villavicencio a un hombre señalado de extorsión, quien cayó durante una entrega controlada de dinero.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-villavicencio-a-hombre-senalado-de-extorsion-cayo-durante-una-entrega-controlada-de-dinero-3592324",
+          "fecha": "2026-10-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gaula Militar Meta / Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-09 04:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1639,
+      "titulo": "Ministra de Salud responde a denuncia sobre título de maestría y publica certificado",
+      "categoria": "mentiras",
+      "fecha": "2026-10-09",
+      "descripcion": "La ministra de Salud, Ana María Vesga, respondió a cuestionamientos de la senadora Jennifer Pedraza sobre la acreditación de sus estudios de posgrado en la Universitat Pompeu Fabra de Barcelona, publicando un certificado que respalda su maestría en Economía de la Salud y del Medicamento, tras la denuncia previa de Pedraza sobre un presunto título inflado en su hoja de vida.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ministra-salud-polemica-titulos-academicos-vesga-responde-jennifer-pedraza-DP42093365",
+          "fecha": "2026-10-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana María Vesga",
+        "Jennifer Pedraza"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-09 04:32"
+    },
+    {
+      "id": 1638,
+      "titulo": "Senadora Pedraza denuncia presunto título inflado de la ministra de Salud, Ana María Vesga",
+      "categoria": "mentiras",
+      "fecha": "2026-10-09",
+      "descripcion": "La senadora Jennifer Pedraza (Dignidad y Compromiso) denunció que, además del caso ya conocido de la ministra de Culturas Paola Holguín, la ministra de Salud Ana María Vesga también se habría presentado públicamente con un título académico que no sustenta con su hoja de vida real, reabriendo el debate sobre meritocracia en el gabinete de De la Espriella.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/pedraza-denuncio-supuestos-titulos-fantasma-de-dos-ministras/",
+          "fecha": "2026-10-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jennifer Pedraza",
+        "Ana María Vesga"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-09 04:32"
+    },
+    {
       "id": 1637,
       "titulo": "UNP inaugura escuela de formación de escoltas con nombre de Miguel Uribe Turbay",
       "categoria": "seguridad",
@@ -38160,8 +38276,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-08",
-    "total_casos": 1548,
+    "ultima_actualizacion": "2026-10-09",
+    "total_casos": 1553,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
