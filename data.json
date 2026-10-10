@@ -221,6 +221,141 @@
   ],
   "casos": [
     {
+      "id": 1677,
+      "titulo": "Cundinamarca reporta 5.285 capturas y caída de homicidios y hurtos en 2026",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "Cundinamarca acumula 5.285 capturas en lo corrido de 2026, mientras los homicidios bajaron un 18,6% y los hurtos al comercio cayeron un 28,6% en el mismo periodo, cifras que reflejan resultados de la política de seguridad del gobierno De la Espriella en el departamento.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cundinamarca-suma-5-285-capturas-en-lo-que-va-del-ano-pero-el-reto-es-sostener-la-caida-de-los-delitos-3592739",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Gobernación de Cundinamarca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 16:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1676,
+      "titulo": "Rescate de dos ecuatorianos secuestrados en Putumayo con tres capturas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "La Policía Nacional rescató a dos ciudadanos ecuatorianos secuestrados en Putumayo, quienes habían sido engañados y por cuya liberación se exigían 50.000 dólares a sus familias. Uno de ellos logró escapar y alertar a las autoridades, lo que permitió ubicar a su compañero y capturar a tres personas involucradas en el plagio.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/rescatan-a-dos-ecuatorianos-que-fueron-secuestrados-en-putumayo-fueron-enganados-y-exigian-50-000-dolares-a-sus-familias-por-la-liberacion-3592746",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 16:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1675,
+      "titulo": "Procuraduría investiga irregularidades en el servicio de avión ambulancia en Arauca",
+      "categoria": "contratos",
+      "fecha": "2026-10-10",
+      "descripcion": "La Procuraduría General de la Nación abrió investigación contra tres funcionarios y exfuncionarios del Hospital San Vicente de Arauca por posibles fallas en la supervisión del servicio de avión ambulancia prestado entre 2024 y 2025, periodo correspondiente al gobierno Petro. El ente de control busca establecer responsabilidades disciplinarias por el manejo irregular de este servicio de salud.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/10/procuraduria-investiga-posibles-irregularidades-en-el-uso-de-un-avion-ambulancia-en-arauca-esto-se-sabe/",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Procuraduría General de la Nación / Hospital San Vicente de Arauca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 16:58"
+    },
+    {
+      "id": 1674,
+      "titulo": "Gobierno De la Espriella evalúa a exgobernador de Bolívar vinculado al 'cartel de la hemofilia' para embajada en Francia",
+      "categoria": "gabinete",
+      "fecha": "2026-10-09",
+      "descripcion": "Juan Carlos Gossaín, gobernador de Bolívar entre 2012 y 2015 y señalado en el pasado por el llamado 'cartel de la hemofilia', sería el elegido por el gobierno de Abelardo de la Espriella para la Embajada de Colombia en Francia. La Cancillería estaría gestionando el beneplácito ante las autoridades francesas, sin fecha confirmada para la designación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juan-carlos-gossain-exgobernador-bolivar-cartel-hemofilia-embajada-francia-quien-es-NE42137758",
+          "fecha": "2026-10-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Gossaín"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 16:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1673,
+      "titulo": "John Milton Rodríguez denuncia deudas y contratos vencidos en MinIgualdad",
+      "categoria": "contratos",
+      "fecha": "2026-10-10",
+      "descripcion": "El liquidador John Milton Rodríguez denunció la existencia de deudas y contratos vencidos heredados en el Ministerio de Igualdad, en un video publicado en las redes de la entidad, donde además anunció el rescate de la estrategia Salvia de atención a violencias basadas en género.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/john-milton-rodriguez-denuncia-deudas-y-contratos-vencidos-en-minigualdad/",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "John Milton Rodríguez"
+      ],
+      "entidad": "Ministerio de Igualdad",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 16:58"
+    },
+    {
+      "id": 1672,
+      "titulo": "Fiscal que investigó a 'Papá Pitufo' revela interferencia del Gobierno Petro en el caso",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-10",
+      "descripcion": "La fiscal que investigó el caso conocido como 'Papá Pitufo' reveló a Semana que el Gobierno Petro interfirió en el proceso judicial, señalando que con la llegada de Luz Adriana Camargo a la Fiscalía General el caso se frenó. La denuncia apunta a presunta injerencia política en una investigación judicial de alto perfil.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeVBIWDZGODA5V3VuM0hGeUs2UC1Ga1ZXcVU5TlV6LTNRdmYtLW44cEkzMTdXdEpZWFU2Y2UweEduZUJZWXlNZld3Q3ZyQTh4aDAwcnlibnVpYTlCTlRReUx1WnBDVW1ReHZvSXJ3WjE2UjhvOEZ4dXVVREhKcWtkUmtnQTVmdmx2dXR1M2Z1S2dUZmlaVFVjRTdMSlJNS3ZhREh2VzZyOFFvVHFMejBmMFgwcVNmVk1TbEszNHpGMktvNmFobHpyZ25CSWl4alhNQTgxczZWR3hnVmsybEVLemJaMUo5SUVSeDNIcVlubTBsdnVMMFRPajVtaFI1RFVtOVZjWEdWdkpfc19HdHlldWF3cXpYODNSY3ZCUUpTanM0MnREbXZiazFMRVN2ajNtUlBDYm1STHRnX2s?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-10 16:58"
+    },
+    {
       "id": 1671,
       "titulo": "Fiscalía y agencia INL de EE.UU. ratifican cooperación contra crimen transnacional",
       "categoria": "internacional",
@@ -38970,7 +39105,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-10",
-    "total_casos": 1582,
+    "total_casos": 1588,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
