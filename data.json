@@ -221,6 +221,216 @@
   ],
   "casos": [
     {
+      "id": 1686,
+      "titulo": "Incautación de 400 kilos de cocaína a redes de la 'Segunda Marquetalia' en frontera con Ecuador",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "Un operativo conjunto de la Policía Nacional, el Ejército y la DEA incautó cerca de 400 kilos de cocaína pertenecientes a redes de narcotráfico de la 'Segunda Marquetalia' en la frontera con Ecuador. Los uniformados enfrentaron amenazas y la presencia de un dron durante la operación.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/casi-400-kilos-de-cocaina-el-golpe-a-las-redes-de-la-segunda-marquetalia-en-la-frontera-con-ecuador-3592757",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Ejército Nacional / DEA",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1685,
+      "titulo": "Captura en Antioquia de 'El Descuartizador', buscado por Francia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "Antonio Márquez Gómez, alias 'El Descuartizador', fue capturado en Antioquia tras ser buscado por Francia por el asesinato de su expareja en 1995. El hombre habría usado una identidad falsa y alterado sus huellas dactilares para evitar ser identificado por las autoridades.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-antioquia-alias-el-descuartizador-buscado-por-francia-por-el-asesinato-de-su-expareja-en-3592777",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Antonio Márquez Gómez"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1684,
+      "titulo": "Balance a dos meses del terremoto: $30 billones en pérdidas y fondo de reconstrucción por definir",
+      "categoria": "dineros",
+      "fecha": "2026-10-10",
+      "descripcion": "A dos meses del terremoto de magnitud 7.4 del 10 de agosto, un balance nacional revela que la emergencia afectó a 314.751 personas (154.014 familias) en 481 municipios de 16 departamentos, con 498 municipios con algún tipo de impacto. El sector constructor proyecta pérdidas por $30 billones, mientras persisten dudas sobre la estructura definitiva del Fondo Milagro para financiar la reconstrucción.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/balance-dos-meses-terremoto-colombia-30-billones-perdidas-498-municipios-afectados-fondo-milagro-AC42151010",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1683,
+      "titulo": "MinAmbiente propone decreto para agilizar licencias ambientales sin consulta previa previa",
+      "categoria": "obras",
+      "fecha": "2026-10-10",
+      "descripcion": "El Ministerio de Ambiente del gobierno De la Espriella propuso un decreto que permitiría evaluar licencias ambientales sin esperar la realización de la consulta previa, y contempla eliminar el requisito de presentar un certificado sobre la presencia de comunidades étnicas para solicitar la licencia. La medida busca agilizar trámites para proyectos de infraestructura y extracción.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/minambiente-propone-decreto-para-evaluar-licencias-sin-esperar-a-la-consulta-previa/",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1682,
+      "titulo": "Gobierno refuerza seguridad en Huila ante presión de disidencias",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "Ante el incremento de extorsión, ataques con drones y disputas entre grupos armados ilegales en Huila, el Gobierno Nacional anunció el regreso de la Fuerza de Despliegue Rápido (Fudra) y la llegada de más investigadores a la región como parte del refuerzo de su estrategia de seguridad.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/huila-refuerza-su-estrategia-de-seguridad-ante-la-presion-de-las-disidencias-regresara-la-fudra-y-llegaran-mas-investigadores-3592775",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1681,
+      "titulo": "Gobierno De la Espriella define política sobre salario mínimo",
+      "categoria": "economia",
+      "fecha": "2026-10-10",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció su decisión respecto al salario mínimo de 2 millones de pesos, estableciendo la ruta que seguirá esta medida económica dentro de su primer año de gestión.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNDFHTTFzeml6c1ZsaEJER2lzNUFwc1BZeEo1ZklCeGRqNW44T0tWeUhEbmtyVTFCUlhPZlJqcWJsMVRBQ3B1R1JSOEFOeDVOOHBFQnY1NjRMN3lYQm5FUnJfX3k3Tk1DLXZ0QXRSUlB0N1NTM2hFWlZXTm9zN3RmYUM3bmVHMy1lNWQ2Ui1LLUpFYTluU3RyclA4MVl6WTVtTFdoamVYNVdSWEFRaU85VW9FM1QyUFVIOE9MT0ZPa2NUS1oxM1BhVko3WVJhM0pzaGZySEJFbXRldzg4Z1laWmNhUm1McmU5dVlYQWlic2cyd9IB9wFBVV95cUxQdFhHSFlKbV83WTFCdTRjY1h4T1M3V1pJVjcxeTRvWXBmRktJdGJoSVpYNWpQeDRBRExXeHA3eDN0TDc3M05mM1ltWEVQU01BWXN5d2J6S3FoMGUwQkNhV1BYQU81VTY5a1lkWXhjWk5LUVcyQXAwRHpkOFIxNmVacE85VU53cTAtOVI2MWppU2luTlZHWllrdkVEeEh6OHBMSE1pOTJIUUNtbmFKU1hyVzZFWHZ0LXkxb055dWdsNEdyQWJNV2FQLUNrdGlQeXo2YUlDS0N3Q2lZM1dGRDE3OHlaNUdkd2tyTERoWExiMmkySnJ1ai1v?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1680,
+      "titulo": "Reconstrucción avanza lentamente ante demoras del Fondo Milagro",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-10-10",
+      "descripcion": "Dos meses después del terremoto del 10 de agosto, la reconstrucción en las zonas afectadas avanza a paso lento, en parte debido a que el Fondo Milagro, creado para canalizar los recursos de reconstrucción, aún no opera a plena capacidad, generando retrasos en la llegada de ayudas y ejecución de obras.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemFOYW1zMHgwbFl6WWpJbW14WjhRTFgtSG5qQ3YxZFdqUGpoaWNXcHVzNDFZOXg4cTVyQTEtWC1QR2lnZUs3ZzZjUnpUSTJyZVhzOHowcEdJbnRma1hJVzczdnhaTW1MaUl0REhiXzd1RUlrZGtmN01fbUdBUXVtbTJPSGVIdHRJTE51WE9VcmR3cWJ4bDZ4SXhpYmt0a0M2OVlaRWU4ZWo4WmFBUzZQR1Q3U3F0Z3E4bXRPTTVwdlRZYkpkd1VjTE9ySkl3WGIyUWkzdk1MdnrSAewBQVVfeXFMTm5uU3BraVVHMk5fdWZoN0pLN3VCREpHLTdrOXk2bS1JYW9tWThFZjJiNi10UzJyRHVCZTllUVFKRWozMTBJalQzV2NIckg3UFhMV3VGWGlJYXhOM09iZXJ5TjJ2YWJJcmVrb0hvLVA2d3Rsa1VBdklFazdmeFI0OVA2emRZYjhwWDBXbHp1Q2drc3lXVXBSMENIYVFBbko3Wm1HcUhhWktoWU9wNGgxaDg2eFFtNkROWFlwd0JrN043am9fVFdzVFZwaUlUZ0daMHdpdFZhSEZCYWVnLV9PWXRMLWNrUUpybkF5dm8?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1679,
+      "titulo": "Defensoría pide reabrir registro de damnificados dos meses después del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-10",
+      "descripcion": "A dos meses del terremoto del 10 de agosto, que dejó 335 muertos y afectó 500 municipios en 16 departamentos, la Defensoría del Pueblo pidió a la UNGRD reabrir el registro de damnificados y superar las barreras que impiden el acceso de las víctimas a la asistencia estatal, señalando fallas persistentes en la atención institucional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/defensoria-pide-reabrir-registro-para-damnificados-a-dos-meses-del-terremoto-AD42148899",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Defensoría del Pueblo / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1678,
+      "titulo": "Contraloría anuncia vigilancia total sobre recursos del Fondo Milagro",
+      "categoria": "control",
+      "fecha": "2026-10-10",
+      "descripcion": "La Contraloría General de la República anunció que ejercerá control fiscal estricto sobre los recursos destinados a la reconstrucción tras el terremoto del 10 de agosto, comprometiéndose a vigilar 'cada peso' administrado por el Fondo Milagro, el vehículo financiero creado por el gobierno nacional para canalizar ayudas y créditos de reconstrucción.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWJrV0tUVWJHaXByNmxDR05CWUhXRTlUakh6UlU0Tjk0T0x0aEFwUXhLY0pnWWlfazc5NlZyNWViUXNKZHUwem1WaXc4M1YyVW5XVFNWclN0MnVOYXgwQ2g1US02cVR1TjhxSXJ1M202QlRGeEI4b084ejlMT0R2WHpLenlxNV9tcG42NXc0OXMtV1lsaHNwdUEzb0dQbDRKWGZtTGd5am5UUWpDaEVNY1J1aUw?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-10 21:10",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 1677,
       "titulo": "Cundinamarca reporta 5.285 capturas y caída de homicidios y hurtos en 2026",
       "categoria": "seguridad",
@@ -39105,7 +39315,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-10",
-    "total_casos": 1588,
+    "total_casos": 1597,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
