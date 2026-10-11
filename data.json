@@ -221,6 +221,148 @@
   ],
   "casos": [
     {
+      "id": 1692,
+      "titulo": "Liquidación de MinIgualdad recorta 471 empleos",
+      "categoria": "transparencia",
+      "fecha": "2026-10-11",
+      "descripcion": "El Ministerio de Igualdad y Equidad informó el 10 de octubre que su liquidación ya ha suprimido 471 empleos. La entidad aseguró que el proceso se hizo 'de forma ordenada y con garantías', bajo directrices del presidente Abelardo De la Espriella, con criterios de 'disciplina, celeridad y absoluta austeridad'.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/liquidacion-minigualdad-recorte-empleo-ministerio-de-trabajo-AB42160671",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Igualdad",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 03:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1691,
+      "titulo": "Dos meses después del terremoto, edificios colapsados de Cali siguen en pie sin reconstrucción",
+      "categoria": "avances",
+      "fecha": "2026-10-09",
+      "descripcion": "Un reportaje de La Nación documenta que, dos meses después del sismo del 10 de agosto que dejó 154 muertos en Cali -la ciudad más golpeada de Colombia-, varios edificios colapsados permanecen sin intervención ni demolición, evidenciando la lentitud de la reconstrucción pese a los anuncios oficiales.",
+      "evidencia": "Reportado por La Nacion",
+      "fuentes": [
+        {
+          "nombre": "La Nacion",
+          "url": "https://www.lanacion.com.ar/politica/en-colombia-los-dinosaurios-siguen-en-pie-cronica-de-una-ciudad-que-a-dos-meses-del-terremoto-nid09102026/",
+          "fecha": "2026-10-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 03:56",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
+      "id": 1690,
+      "titulo": "Captura de alias 'María José' por reclutamiento de menores para disidencias de las Farc en Guaviare",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "La Dijín, en coordinación con la Fiscalía General de la Nación, capturó mediante orden judicial a alias 'María José', señalada de reclutar adolescentes para el Frente Armando Ríos de las disidencias de las Farc en Guaviare, utilizando redes sociales para engañar a los menores.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/capturaron-alias-maria-jose-encargada-reclutar-menores-disidencias-farc-guaviare-BC42155114",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "alias María José"
+      ],
+      "entidad": "Dijín / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 03:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1689,
+      "titulo": "De la Espriella ordena a la FAC investigar vuelos de Verónica Alcocer por presunto transporte de droga a Venezuela",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-10",
+      "descripcion": "El presidente Abelardo De la Espriella ordenó al comandante de la Fuerza Aérea Colombiana una 'investigación exhaustiva' sobre denuncias de Revista Semana relacionadas con el presunto uso de un avión oficial por parte de la exprimera dama Verónica Alcocer para transportar droga a Venezuela. La Inspección General y la contrainteligencia de la FAC investigarán al personal de CATAM involucrado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-investigacion-veronica-alcocer-drogas-venezuela-JC42158504",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fuerza Aérea Colombiana (FAC) / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 03:56"
+    },
+    {
+      "id": 1688,
+      "titulo": "Identifican a Carolina Plata como presunta testaferro de Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-10",
+      "descripcion": "Medios identifican a Carolina Plata como la presunta 'testaferro' utilizada por Verónica Alcocer, exprimera dama durante el gobierno Petro, en el marco de la investigación sobre 149 vuelos reportada por Revista Semana. El hallazgo aporta un nombre concreto a la red de presuntos testaferros señalada previamente.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmF6eVN5aUdQbHJsbmRyQ0dhMEt5cTh1Vi1ZSzJIZFp0MGoyNHprWHl6Y29qdWxYWmJYS0JHdmdiR3I1NGw3ZGlqSERrTGdHQ2w5MnRDR2ZibVR6dXdPY2ZTMVFhTzllUVBBZGRNZ3UyNFdRWE1VVFgzU01lVnF5RUYtR0ViaW9yblppN0ItV3FycTAwQkJxMjVpVEtnOXR4UldHQtIBqgFBVV95cUxNQTFXZE85YnZHVVNuUHFCT1FVRTB1VlhZdlhPR2hnVnFNRUlweW9rYlViTnZpRThYazZvZHd3bXpmSEpaaVVIOFJveWRSSEhObGlYcjhZUzZiUWxZYWRYY09rdzUwYlZtZy02aG4yZ1FMSG85U20tRXA5NXN5R2RycFFLTHFrYnMxNkN6UHFiekdGdFFyZFF2MTVqNzBiZFgtQVlCZEpVZmlFQQ?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Carolina Plata",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 03:56"
+    },
+    {
+      "id": 1687,
+      "titulo": "Exvicepresidente de Ecopetrol denuncia presiones del círculo de Ricardo Roa en compra de inmuebles en EE.UU.",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-10",
+      "descripcion": "Un dossier revelado por Revista Semana expone que un exvicepresidente de Ecopetrol denunció presiones y ofertas económicas del círculo cercano a Ricardo Roa, relacionadas con una millonaria compra de inmuebles en Estados Unidos. El caso se suma a los señalamientos previos contra la gestión de Roa en la petrolera estatal durante el gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNOUwzZkktQlBxOE41bm5Kd2ZTR2pCc3RyaV9HRzk3S05tUnFMNG5SVHdwQUlKWks2WnVMVjhtV0Nva2tib0lLQnpEUHlqUXczdENkeXU3c25wRFpOeGE2M3hXckVfZ29yOHVOR0w3RzVoTVFIbmptMWt1UFRFWmNKd2l0c2g0eXM2Z1QtamdTbmVEN3p2Nlgyd1JaeDlHNjVNMmdEOUo1OG1hSVhVTXkyemQ5bDJYWGJYYWJPal9Ka1hUTjZGSGR0bEtYdHEzNG9VZDBlbXJWS0NpWURUdk5tMzNJNmowa05XU3VETHV1VWNrOEFmbEtXZlBWbUFtQ01mcnh2SmRfbVF0azBQN3NKVk5WMElSZlBuaWJndWl0S2poc2txSGc?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Exvicepresidente de Ecopetrol"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 03:56"
+    },
+    {
       "id": 1686,
       "titulo": "Incautación de 400 kilos de cocaína a redes de la 'Segunda Marquetalia' en frontera con Ecuador",
       "categoria": "seguridad",
@@ -39314,8 +39456,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-10",
-    "total_casos": 1597,
+    "ultima_actualizacion": "2026-10-11",
+    "total_casos": 1603,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
