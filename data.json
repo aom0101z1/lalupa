@@ -221,6 +221,246 @@
   ],
   "casos": [
     {
+      "id": 1702,
+      "titulo": "Llegada de drones MQ-9A Reaper 'Ángel de la muerte' a Colombia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "Colombia incorpora los drones MQ-9A Reaper, que combinan capacidades de vigilancia y ataques de precisión, como parte del fortalecimiento de la capacidad militar para combatir el narcoterrorismo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-es-el-angel-de-la-muerte-el-dron-que-llega-a-colombia-3592816",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1701,
+      "titulo": "Crisis de helicópteros limita capacidad operativa del Ejército",
+      "categoria": "seguridad",
+      "fecha": "2026-10-10",
+      "descripcion": "El Tiempo revela que de las 108 aeronaves MI-17, Black Hawk y Huey II del Ejército Nacional, solo 43 están operativas, lo que estaría limitando la ofensiva militar contra objetivos de alto valor y obligando a ajustar operaciones en curso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/exclusivo-crisis-de-helicopteros-estaria-limitando-la-ofensiva-militar-contra-objetivos-de-alto-valor-3592759",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1700,
+      "titulo": "De la Espriella define hoja de ruta para participación de Colombia en el Consejo de Seguridad de la ONU",
+      "categoria": "internacional",
+      "fecha": "2026-10-11",
+      "descripcion": "El presidente Abelardo de la Espriella se reunió con el canciller y el embajador de Colombia ante la ONU para definir la forma de representación del país en el Consejo de Seguridad de las Naciones Unidas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-define-la-hoja-de-ruta-a-seguir-para-la-participacion-de-colombia-en-el-consejo-de-seguridad-de-la-onu-3592849",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1699,
+      "titulo": "Identifican a contratista clave no ventilada en caso de corrupción contra Miguel Quintero",
+      "categoria": "contratos",
+      "fecha": "2026-10-10",
+      "descripcion": "En el marco del proceso de corrupción contra Miguel Quintero (relacionado con el caso Bomberos de Itagüí), se identificó a una contratista cuyo nombre no había sido ventilado dentro del expediente judicial. Según conversaciones halladas en el celular de una testigo, la mujer habría pasado de alertar sobre falencias en la contratación a maquillarlas, lo que agrava las sospechas sobre el manejo irregular de contratos públicos en el caso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/la-contratista-vinculada-al-caso-de-corrupcion-contra-miguel-quintero-cuyo-nombre-no-ha-sido-ventilado-dentro-del-proceso-de-quien-se-trata-3592769",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Quintero"
+      ],
+      "entidad": "Fiscalía General de la Nación / Bomberos de Itagüí",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07"
+    },
+    {
+      "id": 1698,
+      "titulo": "Gobierno denuncia atentado contra dragoneantes del Inpec y amenazas contra funcionarios y el presidente",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "El Ejecutivo rechazo un atentado contra dos dragoneantes del Inpec y denuncio mensajes intimidatorios contra personal penitenciario y funcionarios del gobierno, incluido el presidente Abelardo De la Espriella, en medio de la agenda de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-rechaza-atentado-contra-dos-dragoneantes-del-inpec-y-denuncia-amenazas-contra-funcionarios-incluido-el-presidente-abelardo-de-la-espriella-3592851",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "INPEC / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1697,
+      "titulo": "Sobrevivientes del Eje Cafetero reconstruyen viviendas con recursos propios ante ausencia de ayuda estatal",
+      "categoria": "damnificados",
+      "fecha": "2026-10-11",
+      "descripcion": "A dos meses del terremoto, sobrevivientes en Pereira y el Eje Cafetero, como Isabel Estrada, estan reconstruyendo sus viviendas con recursos y esfuerzo propio, evidenciando la lentitud en la llegada de ayudas oficiales del Fondo Milagro y el gobierno para la reconstruccion de zonas afectadas por el sismo del 10 de agosto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/a-dos-meses-del-terremoto-los-sobrevivientes-levantan-el-eje-cafetero-con-su-propio-bolsillo-y-sudor-MB42162482",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Isabel Estrada"
+      ],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 1696,
+      "titulo": "Alcalde de Quibdo se pronuncia sobre manejo de la emergencia en Choco",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-09",
+      "descripcion": "El alcalde de Quibdo se pronuncio sobre la situacion del terremoto en Choco, en el marco del seguimiento a la gestion de la emergencia en uno de los departamentos priorizados por el desastre del 10 de agosto.",
+      "evidencia": "Reportado por Proclama del Pacifico",
+      "fuentes": [
+        {
+          "nombre": "Proclama del Pacifico",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGhaN1JDWWNWbVNBYUR6MS1odkRWZnU1YlVQSVJ3cGsxUXlhM1Yxb0hSbmtzWm9JbWRZMGVtSFlKOUNKQU14RDlQdlBlZ0NtRzdiVDhWMnA1cHhYMzI2R0Vnc1ZEblZZMkpCdGdod3h4OEVVNE9SSmluSEdZWnBQbHBXaw?oc=5",
+          "fecha": "2026-10-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de Quibdo"
+      ],
+      "entidad": "Alcaldia de Quibdo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "neutro"
+    },
+    {
+      "id": 1695,
+      "titulo": "Cali conmemora 60 dias del terremoto y reporta avances en reconstruccion",
+      "categoria": "avances",
+      "fecha": "2026-10-11",
+      "descripcion": "A 60 dias del terremoto del 10 de agosto, la Alcaldia de Cali realizo un homenaje a las victimas y reporto avances puntuales en el proceso de reconstruccion de la ciudad, una de las mas afectadas por el sismo.",
+      "evidencia": "Reportado por City Tv",
+      "fuentes": [
+        {
+          "nombre": "City Tv",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV0dYWEQ4YXUxeVplSlF5amhqblpfY21GNVdLUXBmZGV0bEtleHZfQnotaUE5azVJaGZDSEZMbGo2NkFTOUxpNVJIY2llakw2bzNnNzF1cGxTeFR5UFQ4bFhVSlFQUHZNeUlVby1yS2VvRGxiMDVZcnpnMDdtY3hXOW9aMDNPNHRQVEg0QnRleFJrZHVkMjNjM3AyTEt6VEJmcXdZUzN0d0N4Q2kyQzA2b09CeXhJYXZaRm1KYnZzckF3ZThRUzN6OHBheE5hbDA3S1FnNlE5UGJaQW96Tk9HQnRNdy1mQk8tU0930gHzAUFVX3lxTE11UnVFOVQ3ZV9XZnBLZjd1YzJSdWJzSEZIR1dIZjdJUzRDV2JCYVZuZ0dzbEtIQzZfQzdaQUJyUEpVcWlveHdJQTBmU043bHBYVjRTM2tGRzJpOFlSOFk5dVdveVc4eDFkV05nWTFfenNPajV6cFJoYUI5ZkRtODdvaU5SdlB4R2pZOVk0Z1kwRGdrWUlXNThMRDVjc2lUdE9aMFpWbzdRX2dkMDVGakFJS3NuZ09CeVBKNUhteGNSOUppVlJrcGQ0NF9vTkdtU1lzdTBLV2dVZ2tLODFsUkFCMF9ZQVVvSWNMa1lWelNCUDd5bw?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Cali",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 1694,
+      "titulo": "Gobierno impulsa uso de agentes encubiertos contra la corrupcion con apoyo de Cristina Lombana",
+      "categoria": "transparencia",
+      "fecha": "2026-10-10",
+      "descripcion": "El presidente Abelardo De la Espriella trabaja con el poder judicial en una estrategia de agentes encubiertos para detectar irregularidades y corrupcion, en la que tendria un papel clave la fiscal Cristina Lombana, como parte de la agenda de transparencia del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-apuesta-del-gobierno-con-los-agentes-encubiertos-para-luchar-contra-la-corrupcion-y-el-papel-clave-que-jugara-cristina-lombana-3592822",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Cristina Lombana"
+      ],
+      "entidad": "Presidencia de la Republica / Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1693,
+      "titulo": "Mercado de arriendo en Armenia y Pereira sin oferta para damnificados del sismo",
+      "categoria": "damnificados",
+      "fecha": "2026-10-10",
+      "descripcion": "A dos meses del terremoto, el mercado inmobiliario de Armenia y Pereira no cuenta con oferta suficiente de vivienda en arriendo para atender a los damnificados que recibirian subsidios, lo que dificulta la reubicacion temporal de familias afectadas por el sismo del 10 de agosto.",
+      "evidencia": "Reportado por El Quindiano",
+      "fuentes": [
+        {
+          "nombre": "El Quindiano",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS1FuMU9JbDY0NFZKUFlsYWNYZ0FKeEg0SjJvaFFCRlc0Y28yQWJfcmtmX2pLMFJ5RWU4WkRFbnVzUHJQeVg5MjFhMU9NS1loMC1LM2JJcVFhV3BvajRjc045eV9xSXdZa21qbWgwN1ZaOS1XSDQ4T3J5bDA2RU03X2JaR3BjeU1fbTQ1NUlxN284WDNxWDBRZHZaSTdLRjViUlIzR0didXZHN0ZTRkwwYW4yT3BzUjhRTDhpaUhGVGxTNW1yaVU4NVlQNC01bUFaMGlzRU1R?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldias de Armenia y Pereira / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 12:07",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
       "id": 1692,
       "titulo": "Liquidación de MinIgualdad recorta 471 empleos",
       "categoria": "transparencia",
@@ -39457,7 +39697,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-11",
-    "total_casos": 1603,
+    "total_casos": 1613,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
