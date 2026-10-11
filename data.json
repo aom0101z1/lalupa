@@ -221,6 +221,265 @@
   ],
   "casos": [
     {
+      "id": 1713,
+      "titulo": "Ejército golpea finanzas de 'Comandos de Frontera' por minería ilegal en Putumayo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "Una operación del Ejército Nacional logró inutilizar maquinaria avaluada en más de $200 millones utilizada para la extracción ilegal de oro por parte de los 'Comandos de Frontera' en Putumayo. La maquinaria permitía producir aproximadamente 6.000 gramos de oro al mes, recursos que financiaban las actividades del grupo armado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-de-los-comandos-de-frontera-por-extraccion-ilegal-de-oro-en-putumayo-3592871",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1712,
+      "titulo": "Senadora denuncia sobrecostos en presupuesto de la JEP",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-11",
+      "descripcion": "La senadora del Centro Democrático María Clara Posada reveló, tras revisión del presupuesto de la JEP en la Comisión Primera del Senado, hallazgos de más de $160.000 millones en arriendo de un edificio en Bogotá, $56.000 millones en viajes y más de $40.000 millones en defensa jurídica de comparecientes. Señaló además que sus derechos de petición a la entidad no han sido resueltos y cuestionó que los colombianos paguen cargas que corresponderían a las antiguas Farc en el marco del proceso de paz.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/maria-clara-posada-colombianos-pagando-toca-farc-jep-NC42158050",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "María Clara Posada"
+      ],
+      "entidad": "Jurisdicción Especial para la Paz (JEP) / Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30"
+    },
+    {
+      "id": 1711,
+      "titulo": "Ataque con drones del Eln deja un soldado muerto en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "Un soldado profesional del Ejercito Nacional murio tras un ataque con drones atribuido preliminarmente a integrantes del Eln en Cauca. El hecho se suma a la serie de enfrentamientos recientes entre la Fuerza Publica y grupos armados ilegales en el departamento bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-del-eln-en-cauca-dejo-muerto-a-un-soldado-profesional-3592916",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1710,
+      "titulo": "Ejercito sostiene combates con disidencias de las Farc en Cajibio, Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "La Tercera Division del Ejercito Nacional reporto operaciones militares contra la Estructura Jaime Martinez, disidencia de las Farc, en el corregimiento de Dinde, zona rural de Cajibio, Cauca. Lideres sociales alertaron que varias familias permanecen confinadas en sus viviendas por los enfrentamientos cerca de un puente que comunica la zona con El Carmelo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/11/ejercito-sostiene-combates-con-las-disidencias-de-las-farc-en-zona-rural-de-cajibio-cauca-crece-la-preocupacion-en-la-comunidad/",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional (Tercera Division)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1709,
+      "titulo": "Gobierno lleva proyectos de minerales criticos del Tolima a la Milagro Week",
+      "categoria": "economia",
+      "fecha": "2026-10-11",
+      "descripcion": "En el marco de la Mision Crecer, con la que el gobierno de De la Espriella busca crecer al 6%, el funcionario Restrepo presentara proyectos de minerales criticos del Tolima en la Milagro Week. El pais solo cuenta con informacion de cerca del 30% de su subsuelo, lo que limita el desarrollo de este tipo de iniciativas.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/restrepo-llevara-proyectos-de-minerales-criticos-del-tolima-a-la-milagro-week/",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Restrepo"
+      ],
+      "entidad": "Gobierno Nacional / Mision Crecer",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1708,
+      "titulo": "Eva Ferrer señala a Mario Fernández y Agmeth Escaf por viajes a Venezuela y control de entidades en círculo de Alcocer",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-11",
+      "descripcion": "Eva Ferrer reveló a Revista Semana el presunto rol de Mario Fernández y Agmeth Escaf dentro del círculo cercano de Verónica Alcocer, señalando viajes a Venezuela, disputas por dinero y control sobre entidades públicas durante el gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeThHZzBYc2lHN3c4WVB3aEZfUXNJa3UzOElEYUJka1ZwN3d0SEFhRDFTb200VUFmOTVwMUVzM2ljMVpwdnpsZHNta2xDT0ZTTzV6OTgwNmsyZ0VNMjg5aUl4Vi1Bd0dqNm8yTkRlMmZOa2Z4dDVEVjZISGc1UUt1dFNlMXFFb3RRLVIyUV8tWkd2ZTBBQmlvZzk2OUNKR0FzNjl0Rzl5RThrT0hLWG1wRXlWQUFPRVkwalRZQWdxeE1jYjdWUTF2X3A1YnM2amRmOXNjMi1OSzlEMDM0eWgtb1M4cEZHb3ZnUy11LTJfcFh6QUpYNjN0UHJuS2RXMVFBLUdmUGU0aDhQYzd1R2ZzeFZ6ZjEycnFUaFBWa1hKMk0yNkJ6cWJ3OVFR0gGvAkFVX3lxTE9yUVE5ZEtqc21UYmFTU3hjbHlXOGMyM0s4ZFN0dW9GbEpib29EVWV6andTZ21YNEExYkhzSkxONGR2UE9CdlZ5YzBDM1JBLXI4dUJGdVlUNVRxZVFmNTU5T2NTUndFLUdlLUJVRVZGaWlCZjE3WmxBcGNBWldHUk5pUWMwR2ZmWVhZaVBqUzJJUTlqUUV6eW9tUjMzVUFPd1h0ZTNSUXVqc1N3ODAtY0VIejZjVzNZSnVUY3ZBNnJFT2FWLWtFdTl5TmVzREt0MVhGS3FlZ2VpSTNHdzFqNUYwVG1MUW10d2VIOXg0alVEWF9CTEI3dTU5R181V0hId3VxS1JtOGNOWk1jdHJ4MElxUVhPZ1FfYzRDLXV2aDR4WU02Z3RsZnhsbWZ2a2l0QQ?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer",
+        "Mario Fernández",
+        "Agmeth Escaf"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30"
+    },
+    {
+      "id": 1707,
+      "titulo": "Eva Ferrer denuncia agresión física de Verónica Alcocer contra Angie Rodríguez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-11",
+      "descripcion": "La exconsejera presidencial Eva Ferrer denunció que la exprimera dama Verónica Alcocer habría agredido físicamente a Angie Rodríguez, en el marco de sus declaraciones a Revista Semana sobre el comportamiento y manejo de poder de Alcocer durante el gobierno Petro.",
+      "evidencia": "Reportado por ELHERALDO.CO",
+      "fuentes": [
+        {
+          "nombre": "ELHERALDO.CO",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTFpMOW5zM0c5N2xOSXB3OF80UXdhNEJ0dFdfd3l0WTgtN0JPQnNsMXhSbFlwNlZ4cnN6c2sxdmp1ZzYxX29yRnplRHd3dHd5QVRrYXdBNk9IYkJHNF9LRi1kTjV2alRDS1ppd01icnJTdnFEaEFBZFZBLW0zeUZUQ0k1WlpkQXJSMi1FaVE3ZnhZTmp2UTJQazNXcWxycVlfcWlsTmhLMkFlMGpVdjJzb0w1SVZIYmxaUlRDZTNkUmdJd3lRUk42d2NHV0hieWFrOWxDOWprS3Ixd3RqaHQtaV9yQ0E1UDZ1bFBZN1FXdU1KbzVtQUE?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30"
+    },
+    {
+      "id": 1706,
+      "titulo": "Gobierno De la Espriella anuncia medidas contra la gran minería criminal",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "El gobierno del presidente Abelardo De la Espriella presentó un conjunto de medidas orientadas a combatir la gran minería criminal en el país, como parte de su estrategia de seguridad y control territorial.",
+      "evidencia": "Reportado por ELHERALDO.CO",
+      "fuentes": [
+        {
+          "nombre": "ELHERALDO.CO",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSkZoSnpHVEFTUENRQ2RYQlBZZHB5cEVVNzRlamNTbmxTb01ZYmZDY2k1WWRJdFd0Um9TWFhsTnNyMWsxcnN6MWdOVGYtNUEydWlNM2pITUNGRm5ibWJRNG81WGJ3aHhYbW85U2lEb0FEYXR2aHJVRUlvdWhkLXhHR2FaUEx6UzVNczdBdnNBcGhPWnAwdEEzcEhoZ0lhdlI4ajlJVi1jYXU3dTY0c3ZXWDZmQzhLNDdERDBQU3MzSl9sT3dFNC1GYTVES3NEYUx6dVR2R1RZLU5HQQ?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1705,
+      "titulo": "Revelan indagación reservada contra Verónica Alcocer por lavado de activos engavetada en la Fiscalía",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-11",
+      "descripcion": "La revista Semana reveló una indagación reservada contra Verónica Alcocer por presunto lavado de activos que habría sido engavetada durante la gestión de la fiscal Luz Adriana Camargo. El reportaje detalla pistas sobre por qué el caso no avanzó pese a existir elementos para investigar a la exprimera dama.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaEhRNng2RVlMYzMzeW1zUkJfaXpPTlliUGc3al9lVzBOelZNZTEzR2N4Y3JMSG9uUHc1VFpTY05Sc0Z5QTFkVjV0TWQ3RVY3QlQ2d1VhZXdraGE2RXg2eGljajFSejU0eGRkb1NYdUNQXzdoRXdCMXRCU1Y4Y2dSS19XV1F5T1ExTlliUmpQLVF1ZGxPUkVrYkZ6c1NmRFpHdWc1YXJJcU1VMC1QUVlHYVBvTmlZRWl2VldWNjZNcEZEaFZZRDBpaWVESE5nbHVjZkU0dXo3Nnp2ZWhTYjI1QkpuenpoeU1PclVYakVzRU03Q284VkpKTg?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30"
+    },
+    {
+      "id": 1704,
+      "titulo": "Ataque de disidencias deja un policía muerto y un disidente abatido en Tuluá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "Un ataque armado atribuido preliminarmente a integrantes del frente 57 de las disidencias dejó un policía muerto, otro herido y un presunto disidente abatido en zona rural de Tuluá, Valle del Cauca. La Policía Nacional adelanta las investigaciones sobre el hecho.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/un-policia-muerto-otro-herido-y-un-presunto-disidente-abatido-tras-ataque-armado-en-tulua-valle-del-cauca-3592878",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1703,
+      "titulo": "Gobierno ordena cuarto bombardeo contra frente 33 de disidencias en el Catatumbo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "El presidente Abelardo De la Espriella ordenó el cuarto bombardeo contra grupos ilegales, esta vez dirigido a un presunto campamento del frente 33 de las disidencias de alias Calarcá en el Catatumbo. La operación fue ejecutada por las Fuerzas Militares en coordinación con el Comando Conjunto de Operaciones Especiales (CCOES) y la Fuerza Aeroespacial Colombiana, durante la madrugada del domingo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/presidente-de-la-espriella-ordena-bombardeo-frente-33-catatumbo-NB42163860",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "alias Calarcá"
+      ],
+      "entidad": "Fuerzas Militares / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-11 21:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1702,
       "titulo": "Llegada de drones MQ-9A Reaper 'Ángel de la muerte' a Colombia",
       "categoria": "seguridad",
@@ -39697,7 +39956,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-11",
-    "total_casos": 1613,
+    "total_casos": 1624,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
