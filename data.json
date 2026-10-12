@@ -221,6 +221,107 @@
   ],
   "casos": [
     {
+      "id": 1725,
+      "titulo": "Estados Unidos cancela masivamente visas a ciudadanos colombianos vinculados a investigaciones",
+      "categoria": "sanciones",
+      "fecha": "2026-09-30",
+      "descripcion": "El gobierno de Estados Unidos confirmó la cancelación masiva de visas a varios ciudadanos con pasaporte colombiano, en medio de investigaciones y señalamientos que involucran a funcionarios y sus familiares directos, en un contexto de mayor escrutinio internacional sobre figuras del entorno del gobierno Petro.",
+      "evidencia": "Reportado por La Nacion",
+      "fuentes": [
+        {
+          "nombre": "La Nacion",
+          "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/estados-unidos-confirma-la-cancelacion-masiva-de-algunas-visas-para-ciudadanos-con-pasaporte-nid30092026/",
+          "fecha": "2026-09-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento de Estado de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-12 14:24"
+    },
+    {
+      "id": 1724,
+      "titulo": "Exfuncionarios del gobierno Petro no habrían entregado esquemas de seguridad asignados por la UNP",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-11",
+      "descripcion": "El director de la UNP, Didier Blanco, reveló una lista de exfuncionarios del gobierno Petro que no habrían devuelto sus esquemas de seguridad al terminar sus cargos, entre ellos los exministros Antonio Sanguino, Germán Ávila, Jorge Lemus, Alfredo Zapata, Armando Benedetti y Rosa Villavicencio, además de Carlos Carrillo y Daniel Mendoza. Varios de los mencionados rechazaron la versión, afirmando haber entregado sus esquemas semanas atrás.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/llamada-abelardo-uribe-pondria-panos-frios-relacion-partidos-de-buena-fuente-LC42158232",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Antonio Sanguino",
+        "Germán Ávila",
+        "Jorge Lemus",
+        "Alfredo Zapata",
+        "Armando Benedetti",
+        "Rosa Villavicencio",
+        "Carlos Carrillo",
+        "Daniel Mendoza",
+        "Didier Blanco"
+      ],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-12 14:24"
+    },
+    {
+      "id": 1723,
+      "titulo": "Red de bienes inmobiliarios vinculada a dueños de la Universidad San José tras escándalo de títulos falsos",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-12",
+      "descripcion": "Tras la destitución del secretario general Luis Carlos Gutiérrez Martínez por el escándalo de títulos falsos que involucró a Juliana Guerrero, una investigación de El Colombiano encontró movimientos inmobiliarios continuos de personas y sociedades vinculadas a la Fundación Universitaria San José, incluyendo a su fundador Francisco Pareja González, sugiriendo una red de bienes no esclarecida en torno a los responsables del caso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/red-bienes-poderosos-duenos-universidad-san-jose-LB42169288",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Gutiérrez Martínez",
+        "Juliana Guerrero",
+        "Francisco Pareja González"
+      ],
+      "entidad": "Fundación Universitaria San José",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-12 14:24"
+    },
+    {
+      "id": 1722,
+      "titulo": "Cúpula militar viaja a Cali tras atentado de disidencias en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "El peaje El Bordo sobre la vía Panamericana fue destruido por disidencias de alias 'Mordisco'. El gobernador del Cauca solicitó la presencia del presidente De la Espriella, el ministro de Defensa y la cúpula militar tras el atentado, que evidencia la persistencia de ataques de grupos armados en la región.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/cupula-militar-viajara-a-cali-tras-atentado-en-cauca/",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias Mordisco"
+      ],
+      "entidad": "Ministerio de Defensa / Gobernación del Cauca",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-12 14:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1721,
       "titulo": "De la Espriella anuncia plan de empleo para militares retirados",
       "categoria": "seguridad",
@@ -40152,7 +40253,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-12",
-    "total_casos": 1632,
+    "total_casos": 1636,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
