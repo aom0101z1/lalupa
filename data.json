@@ -221,6 +221,202 @@
   ],
   "casos": [
     {
+      "id": 1721,
+      "titulo": "De la Espriella anuncia plan de empleo para militares retirados",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "El presidente Abelardo De la Espriella anuncio un nuevo plan de beneficios y empleo para militares retirados fuera de la Fuerza Publica, como parte de medidas de reconocimiento a la fuerza publica, bajo la consigna de que su gestion 'no borra' los servicios prestados.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMUprMHpjN2NfblZPWHBET1lrc1BSc005cWlpSTkyQkprM2dNM3FpTEVIeU9ZaXl2azdIdU8tV293eTVvTFB5ZEpBMFUteFNISGotX081V0ZEeTdhMHVFbmwtVHlRRVVYNDloejlJWnJoZFZQeFBIUnhlQWtEN0p4SFZNZlV3STFDdjdjNGhMWWlPSGo2V3ZHSmk0Zm9QdHZGWDEwb003WVJBZG4tZWhiRGNqV1BVeTBoOFY1MHhoenJ0cTZLY3c2T0oxRzhNNFZ3UG1Ec0FaTVhTazdiUGk1ejc2VS1mR1MxSWI3akZjeXk5WnpWazFVMmpvUFZWWk9UTWVTT1o0MA?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1720,
+      "titulo": "Captura de alias 'Nino Potro', narcotraficante aliado del Clan del Golfo buscado por la DEA",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "Autoridades capturaron a Yovanys Chaverra Vargas, alias 'Nino Potro', senalado de enviar dos toneladas mensuales de cocaina a Estados Unidos en alianza con el 'Clan del Golfo'. Era objetivo de alto valor de la DEA y tenia solicitud de extradicion de una corte de Texas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-nino-potro-el-narco-que-habria-enviado-dos-toneladas-mensuales-de-cocaina-a-estados-unidos-en-alianza-con-el-clan-del-golfo-3592922",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Yovanys Chaverra Vargas"
+      ],
+      "entidad": "Policia Nacional / DEA / Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1719,
+      "titulo": "Eva Ferrer identifica a italianos Mascialino y Romagnoli como presuntos testaferros de Veronica Alcocer en red de trafico de armas",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-11",
+      "descripcion": "Tras las declaraciones de la exconsejera presidencial Eva Ferrer a Revista Semana contra Veronica Alcocer, surgen los nombres de los empresarios italianos Fabio Mascialino y Enrico Romagnoli, senalados como figuras centrales de una presunta red de trafico de armas vinculada a la exprimera dama.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/quienes-son-enrico-romagnoli-fabio-mascialino-italianos-ferrer-alcocer-FB42164771",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Veronica Alcocer",
+        "Fabio Mascialino",
+        "Enrico Romagnoli"
+      ],
+      "entidad": "Presidencia de la Republica (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17"
+    },
+    {
+      "id": 1718,
+      "titulo": "7.653 sedes educativas afectadas por el terremoto, miles de niños siguen estudiando en carpas",
+      "categoria": "damnificados",
+      "fecha": "2026-10-12",
+      "descripcion": "Dos meses despues del terremoto del 10 de agosto, el Observatorio de la Fundacion Empresarios por la Educacion (FExE) reporta 7.653 sedes educativas afectadas en 22 departamentos y 527 municipios, con mas de 1,6 millones de estudiantes y 81.578 docentes y directivos impactados. La viceministra Gledy Maria Foliaco anuncio soluciones en menos de dos meses, pero la realidad en muchas sedes sigue siendo precaria.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/a-dos-meses-del-terremoto-miles-de-ninos-aun-estudian-en-carpas-JA42172478",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gledy Maria Foliaco"
+      ],
+      "entidad": "Ministerio de Educacion / Fundacion Empresarios por la Educacion (FExE)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1717,
+      "titulo": "Chocó sigue en ruinas dos meses después del terremoto pese a cinco visitas oficiales",
+      "categoria": "avances",
+      "fecha": "2026-10-10",
+      "descripcion": "Dos meses después del terremoto del 10 de agosto, el Chocó continúa en ruinas pese a cinco visitas de funcionarios nacionales, sin avances visibles en reconstrucción de viviendas ni infraestructura, lo que evidencia la brecha entre los anuncios oficiales y la realidad en terreno de una de las regiones más golpeadas.",
+      "evidencia": "Reportado por Chocó 7 días",
+      "fuentes": [
+        {
+          "nombre": "Chocó 7 días",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczFHeDdBb3NPclpCQThVeDFIQ0hGVUpOWlgzMlV1S0c4YjBWeEtTSjNFRFRRZnFTZVMwTk0wSjRFV2kxT2JSc3R6Y2NhX0RHbzZVLURTMkp5SDNnVXdpMWk0YVlWWnh6bXBZUFpYaHdOZkJqbzBCY0RDZjFmbnB3VloyLVJ6MVMtNHF6QzQzUmJPcTd6a2xLQ3N2MDFCOFpIb2pBQnVRdGJXRDZfSzFJcnVNakJtX0plYWVxOGV6NA?oc=5",
+          "fecha": "2026-10-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fondo Milagro / Gobernación del Chocó",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 1716,
+      "titulo": "De la Espriella toma medidas contra exjefa de seguridad de Verónica Alcocer",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-11",
+      "descripcion": "El presidente De la Espriella ordenó medidas sobre la capitana que estuvo a cargo de la seguridad de Verónica Alcocer durante el gobierno Petro, señalada por la exconsejera Eva Ferrer en sus denuncias. La oficial, que se encontraba fuera del país, deberá regresar a Colombia para responder ante las autoridades por su presunto rol en el círculo de la expareja de Gustavo Petro.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQldZQmZKQ1A3MDBYRk1OWFV1cGVPSmx1VF8wRUNoRXVDcVRKWmlQdzM1SVA3R0VlS1piamdkYzNoSktZNmlRTVNSY1QzeFIyS2NXcExBaHZTQW5sNjV6bGNIMTlPVGtQYUxpLWZITl9GNm4tLUF0VGdzUjk1bkFSOVl3LV9WblE4dUpJUHdEbFF2aHBielZGTU5Xa2xWNW1XNjEzd2pmZmNTTWJEWEYxZ3hyTi01Tng1SXZDbVhwNWVHSXJHT2N3azJfS0JZR2FHNFBnUHRGcEw3LVJJR1JicUJ0TUNiaXJHcHRJZzRrNWFRTlYybnFlMWpLbWdnZ2fSAYQCQVVfeXFMTUdRSzhMbWZFWmRjOVY3dV8xOHd1a3hMQUl3UHVDdEo3dWFzejlfVjdSZzRXMWV4cXdVWjZkMzdHSjI5UTZZUE5YekFPRVRMUjR4dTJJeFYtRlNJNExGcDAwV3pWLXk3UU5sNlJnMDJRUmhJRGdxUWlXRS04V1ozZXY1YVdma2lBQmh5WDZWSjUwMk1kT292RDByU3BUSGVIcGxfSGRtU2lhZlpvc0RxSjR0Z1NYRVNQaFNsYlhYa21UNmJ0ZHh4VHVfN1c4dGs4ejJ0aHpnSF9fRG03LVMtN09CV0wyXy16a0tQWGU1NlkzT0hiNnZLaUFscVZvR3Z4SFR6MHU?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17"
+    },
+    {
+      "id": 1715,
+      "titulo": "Gobierno activa Fondo Milagro mientras registro de damnificados se acerca al medio millón",
+      "categoria": "damnificados",
+      "fecha": "2026-10-11",
+      "descripcion": "A dos meses del terremoto del 10 de agosto, el Gobierno Nacional activó formalmente el Fondo Milagro para la reconstrucción mientras el registro de damnificados se acerca a las 500.000 personas inscritas, lo que genera dudas sobre la capacidad de atención y la velocidad de entrega de ayudas.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2Z5MnNFbGptdFQ0aHpaR0hhSERBMUhGRDM4UFZTaV9sVUNsS3lYZmZ6bGlwM0RjSkRjbTA0X0dkUV8yM2dMQmN2S1U5Z21qYlhsT19kaTFBV0FOcEY0RjNXaWVhclhxSmJWc2t1NzdtNlo1aDRSRXZSYk1iTDAzeFczYW94UVpNYzN3eGpZSFY5clg4U00yVjFjbEhad0pyMGpPTDE1NDEyYkZnOE05SUYwTno?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1714,
+      "titulo": "Capturan a cinco presuntos integrantes del Clan del Golfo en Antioquia y Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-10-11",
+      "descripcion": "La Policía y el Ejército capturaron a cinco presuntos integrantes del Clan del Golfo en operativos en Antioquia y Chocó, entre ellos alias 'Caliche', señalado de participar en un ataque contra policías. Uno de los capturados es requerido en extradición por Estados Unidos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-cinco-presuntos-integrantes-del-clan-del-golfo-en-antioquia-y-choco-uno-es-requerido-en-extradicion-por-ee-uu-3592943",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Caliche"
+      ],
+      "entidad": "Policía Nacional / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-12 04:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1713,
       "titulo": "Ejército golpea finanzas de 'Comandos de Frontera' por minería ilegal en Putumayo",
       "categoria": "seguridad",
@@ -39955,8 +40151,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-11",
-    "total_casos": 1624,
+    "ultima_actualizacion": "2026-10-12",
+    "total_casos": 1632,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
