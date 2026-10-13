@@ -221,6 +221,437 @@
   ],
   "casos": [
     {
+      "id": 1759,
+      "titulo": "EE.UU. mantiene a Colombia en nivel 2 por trata de personas",
+      "categoria": "internacional",
+      "fecha": "2026-10-13",
+      "descripcion": "El Departamento de Estado de Estados Unidos decidió mantener a Colombia en el nivel 2 de su informe sobre trata de personas, al considerar que el país aún no cumple los estándares mínimos para combatir este delito, en medio de la relación bilateral con el nuevo gobierno de De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/los-argumentos-detras-de-la-decision-de-ee-uu-para-mantener-a-colombia-en-nivel-2-por-trata-de-personas-3593050",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento de Estado de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1758,
+      "titulo": "Vicepresidencia recorta 73% del gasto y reduce planta de personal",
+      "categoria": "transparencia",
+      "fecha": "2026-10-13",
+      "descripcion": "El vicepresidente José Manuel Restrepo anunció una reducción del 73% en el gasto de la Vicepresidencia de la República, con un recorte de 1.000 millones de pesos. La dependencia pasó de 63 a 24 cargos en apenas dos meses de gestión del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/jose-manuel-restrepo-anuncia-reduccion-del-73-por-ciento-del-gasto-en-la-vicepresidencia-y-un-recorte-de-1-000-millones-de-pesos-3593143",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1757,
+      "titulo": "Cancillería gestiona repatriación de soldado colombiano que requiere trasplante pulmonar",
+      "categoria": "internacional",
+      "fecha": "2026-10-13",
+      "descripcion": "La Cancillería colombiana anunció la llegada al país del soldado Henry Camargo, quien había pedido públicamente al presidente Abelardo De la Espriella ser repatriado desde Estados Unidos por necesitar un trasplante pulmonar. El mandatario ordenó su repatriación tras conocer el caso mediante un video.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-anuncia-llegada-del-soldado-henry-camargo-quien-pidio-al-presidente-ser-trasladado-desde-nueva-york-requiere-trasplante-de-pulmon-3593102",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Henry Camargo",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Cancillería de Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1756,
+      "titulo": "Álvaro Leyva entrega información contra Gustavo Petro a la embajada de EE.UU.",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "El excanciller Álvaro Leyva anunció que entregó a la embajada de Estados Unidos un documento con nombres de testigos y evidencia contra el expresidente Gustavo Petro, compartiendo el membrete oficial del documento. La información se enmarca en investigaciones en curso contra el exmandatario y su entorno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/alvaro-leyva-anuncia-entrega-de-informacion-contra-el-expresidente-gustavo-petro-a-la-embajada-de-los-estados-unidos-3593134",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Álvaro Leyva",
+        "Gustavo Petro"
+      ],
+      "entidad": "Embajada de Estados Unidos / Álvaro Leyva",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35"
+    },
+    {
+      "id": 1755,
+      "titulo": "Gobierno reporta 145 colombianos posesionados a través del Banco de Talentos",
+      "categoria": "gabinete",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de Abelardo De La Espriella presentó un balance del Banco de Talentos, mecanismo mediante el cual 145 colombianos ya se posesionaron en cargos públicos, destacando que las designaciones no obedecen a la 'rosca' política sino a procesos de selección basados en mérito.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGQzVlQ1SjRNZzFCMVBNZWRmMFhfY2lnQXVpUnp0dms1X1NtYXhiWFVlSDdxTG5SYXl5SXZZdjJfVlBranhTbmh6amdUMm9RQnFDbWt1YmJqcmJ6QzBSUExZU1J6Z3BIZFBqWWJ5TEpDZXZzcTAyb3B5QlZRV0ZmaGdsQ1BPYXFva09NbmJNdURxTC05QzVzRF9Qdi12dFAwaHNV0gGoAUFVX3lxTE9KWGl4eHIxclJPY0hGSU5ZWFRDV08tRXdBTzZOeHZCMjRGZUVfOHlqdU9oRjM3R09LTHJuTzBQZDdINmdoaV94czRyeFg3OTA0TmlEZmVJSktncVc3SUN2ZjhSMWdPY0NLRmY2Yi03aEJhMlBOY2RmSW1PVlhCTEppMjY3S1Q5YjZGTEhXLVhOZE02V0ZyYkZhRTFBZExELVpYeFQ3SWYwWg?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1754,
+      "titulo": "Gobierno pide $1,2 billones para evitar apagón por fenómeno de El Niño",
+      "categoria": "economia",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de Abelardo De La Espriella solicitó un traslado presupuestal de $1,2 billones para enfrentar el fenómeno de El Niño y reducir el riesgo de racionamiento eléctrico, fijando un plazo hasta el 31 de diciembre de 2026 para implementar las medidas correspondientes.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3FfSkp1UF9uVWZ6Y2piRmxBRDZqUUNsc3JZV3BuNVBEVDBmc3RVMWJJbTBsZEJqZi1oVlpON29XZENQQk82MkRZczBUaEZEYWZVeGtMV2lHT181VDhtT0VHM2g2eElUaUg0eUdBZWYwTzFOT1ZBNGV1WTM2b2lueGFWRnJicUxkVFNfWW9pV3FzcU9xb2tGTTMxbTdpVFJRbzM1RnRIMkQ?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De La Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1753,
+      "titulo": "Señalamientos sobre contratista que pasó de 'modesto poeta' a firmar millonarios contratos cuestionados",
+      "categoria": "contratos",
+      "fecha": "2026-10-13",
+      "descripcion": "Un reportaje documenta el caso de un contratista identificado como 'poeta' que habría pasado a firmar contratos millonarios cuestionados con entidades estatales, en medio de señalamientos sobre adjudicaciones irregulares durante el gobierno Petro.",
+      "evidencia": "Reportado por CambioIn",
+      "fuentes": [
+        {
+          "nombre": "CambioIn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGFydm9qRUI4YjR6MmpIaVZvRVM4T1RDYmIzUXRxcEVlbnlQTnF6TC1iVEh0akFXTGRWeW5FR2dvQVppNWMxajF5dlN0QTd0Z0hTYjFLMjhNVng4Q2haa3hOWF9sNWMwNzk3czhCMEdBM0lEN3dIOW1SS29sd0MzdHVVc1hLd0NwYWR3eEFybmVlMC1Vb0l1bTNuQ0xCc1E?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sin identificar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35"
+    },
+    {
+      "id": 1752,
+      "titulo": "Angie Rodríguez pide investigar vuelos oficiales con Juliana Guerrero por posible transporte de droga o dinero",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-13",
+      "descripcion": "La exdirectora del Dapre durante el gobierno Petro, Angie Rodríguez, solicitó investigar si en vuelos oficiales en los que habría viajado Juliana Guerrero se transportó droga o dinero, afirmando 'no se me hace raro'. La denuncia se suma a los señalamientos sobre uso irregular de aeronaves oficiales durante el gobierno Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTUpUMk5jVk90cGZaTXd3ZDBnbmlyajkxOVdiQWF0QlU0bVhFYmRYZXllajJkUlJqTkcxbDgyM2tQSkpBYUpTNUUzQ203U1ZERE41b3lLUkR1MGlrRHk2NmZ0RFRYeF9OcHFncTZFSGlzTldabXNkQXR6cUxlcHZMeHl3c3VVQnVqZlpBdkpCbHZ6QXZkMGJjTDNjUUxmSVBtX1ZMaHA2Ymx6aHZlTlZ3cl9ROGRfbVFpUExzeWNJNWQ1OTVjRkVRNUU4U05kdEdEUHoyQ0g0bmJfaWZZdU02SEdFRHVTVEY1SFcteGhnN2JIUmF3OHkzWWtQOGJ2Uk96N1N3cy1ISmdQMjRPRDFwbDdtOV9hLUtYQ2JkVTUwajRGTTNDLW5MTVZsblpBRXBPUjZSYU5kSE1JdHdfTlBJR1ljalN4cjZyc19qYmRYNHR3ZnU0OUFwak1MNGVHOURN0gH7AkFVX3lxTE8tRjdPU1AzY2tXaHlaQWU4NmQ4MVZjbk13NDVrSkl4d1MzT1c2QkNjMjRDZGM5ZGpOMmloQXh3TmRGTUR3MU5pWmJoSUpTZDlBTmpLMHN5TWNpbHVqNWdxbHJHVlc0TGdkaEY3Mmg4UUdvWTZFSXpuZXlYT0pWLTJhdHljUGVJY3dCY0RLb2VJMnM5N2hBTF8tUmZyY3U3Y2lkaHA1eW15RVhlLVdBVEZXaVpHZHJqOWxwSjl6XzRiZWxCT0VUSllMenI3SXlBWWFzZ2FtczhMQnZLUW1nV2FPLTNCdVRVVm1vMXF3bEV5TjBnM0lqanZSeWVpRHVjOXNub0lMYlpWZXd1UURBV3ZVLVlEbVltaEotQzdsVko3WDdmd05sYnd5ajZxRDcweXZBRkZSanZqY0ttZnV3RzB0RVR6SUE1aHVjanpETldZZEVUTjd4TUhEOXpmNEVPeUlXNGRsRnZBcENlRmNlRnRsX1lLLVNGdGtMeUU?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Juliana Guerrero"
+      ],
+      "entidad": "Dapre (gobierno Petro) / Fuerza Aérea Colombiana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35"
+    },
+    {
+      "id": 1751,
+      "titulo": "Captura de 'Lucía', cabecilla de 'Los Pepes' vinculada a atentado contra guardianes del Inpec",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "Autoridades capturaron a alias 'Lucía', señalada de coordinar la banda criminal 'Los Pepes' en Barranquilla y de estar vinculada al atentado contra dos guardianes del Inpec. El presidente Abelardo De La Espriella confirmó la detención, relacionada con la fuga de presos registrada recientemente, y reveló detalles del operativo policial.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/capturan-a-lucia-senalada-de-coordinar-la-banda-criminal-los-pepes-e-investigada-por-el-atentado-contra-dos-guardianes-del-inpec-en-barranquilla-3593098",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De La Espriella"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1750,
+      "titulo": "Menor de 16 años muere durante bombardeo contra disidencias de 'Calarcá' en el Catatumbo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "El Ministerio de Defensa confirmó la muerte de una menor de 16 años durante un bombardeo contra las disidencias del frente de 'Calarcá' en el Catatumbo. El ministro de Defensa, general (r) Jorge Mora, señaló que el reclutamiento e instrumentalización de menores por grupos armados los expone a las hostilidades conforme al Derecho Internacional Humanitario.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/13/una-menor-de-16-anos-murio-durante-el-bombardeo-contra-las-disidencias-de-calarca-en-el-catatumbo-esto-fue-lo-que-dijo-el-ministro-de-defensa/",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Mora"
+      ],
+      "entidad": "Ministerio de Defensa / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1749,
+      "titulo": "Gobierno busca agilizar ayuda que aún no llega a la mayoría de los damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-12",
+      "descripcion": "Dos meses después del terremoto del 10 de agosto, el Gobierno Nacional reconoció que la mayoría de los damnificados aún no ha recibido la ayuda humanitaria prometida y anunció gestiones para agilizar su entrega, en medio de crecientes quejas de la población afectada.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeUlxeUFzcHlJT0kzTUhaQVM1NUdGaGYtNmJDc1VpRDhDbklZRENYU0doT2VJQWQxTmRTTU5GNm1MRXFEYVROeVRMbDI5aUNoZnI0SEh2ZVdvcElyVjBEUnVSbklVQXdJc1pjTnUtdlhXbTA5QWxDUnFDalRwRTBQclN3UjZ6Q1NRRlVUQ29MSVlwOEJnNldyYmcxRi1lSGhrMEFRSVNXMmRBWDF1ZDdkeDNLNk1ZUzV2MGg5ZUFRQ1QzSkZ1Z1hKTUlVVFNISW51YmxtelRxREpLY1NOOEQzQ1VZRnk3TXZOUlBNelg4T00xUVNSa2pnOdIBkwJBVV95cUxNSkFsai1KRm0zT0c2aVdoZ1BLRGlPa3dsc1lVeWVPWFBGaHYxVFhYNHRCVmItN2dLbXlyU0Rpd1pTdlNPdXg4YXFjWXdHaW9Vd1VTQ3FjRmo1QXNsZHJoZDh6a00wQmx5WEpMZ3kyS2hZaGJYV1QwMTQ2MkxjdlBGTl9URlFfN1FkaDZpMm1Vb2Z5amV6MzRNbjZKVkVjOUVxVS1icFBSbGM3Z3YwRTh5RF85MEI5SkpmenNrRm1NTndqU1l2cVlkRFlic0RPaXlfLUthVVNmSllWYnJ6dXBnbnpXbUVLOGYzN3AyMG9UbjRkN3d6TWVGXzNOcEg1RlFxclBHcm9PSWVhYld2eGwySEpwcw?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1748,
+      "titulo": "Contraloría flexibiliza uso de fondos y vehículos municipales para atender a damnificados del sismo",
+      "categoria": "control",
+      "fecha": "2026-10-12",
+      "descripcion": "La Contraloría General de la República autorizó flexibilizar el uso de fondos y vehículos municipales para que las administraciones locales puedan atender con mayor agilidad a los damnificados del terremoto del 10 de agosto, facilitando la respuesta de emergencia sin incurrir en hallazgos fiscales.",
+      "evidencia": "Reportado por Telemetro",
+      "fuentes": [
+        {
+          "nombre": "Telemetro",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUFR2VFZqZ0U2bVJCU21jYnBhQ3RraU5lMkpiX3JjcFhYcVprYmdFOUJzclo1MkMxS3AyRFhLYVpmaEtYTjhNYXRabkdDX2pXX0FCTE94bTFJdUVDNTVONk9CZjNsZVJoLTVtQ19uRHBZcF9fLUpMVXVNWk5WX0hvN1RHdVhES1l0MS05dUFyWTM3SExUN2c3TFZKTW84bGd3NW11NkZkNGo2SENkOVhyNVBiME4zTVpZMWdQVllsWENmbE9uRHJvcWZPc0MtSEh30gHWAUFVX3lxTE1tcEt5endVUklBS1Bvek80SU9hTlFPdTJncDBoQm1rTDI0Yld0dkYwd0xqMC1nbC1YV2JmWTdDMWJWcGUxWndURkpFdlpISFE1ZGRJUnRkajRhc3p0aU5USl9keVU0SU1uaW1VNFRqQUhZUlBmY3VMSnJuRGhCLVdNbXZXbTRCRUxEVG1IZ2lJblV2MmotVVBRazZGOVlmV29mQjh6ZFlkT21vVUtWR25ES2JlV0c1eWxfYzdocjZzTzluNFpGcGR5Ym4yOFJDbUxEZFJ5VFE?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1747,
+      "titulo": "Fondo Milagro recibe el primer billón de pesos para reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-13",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la asignación del primer billón de pesos al Fondo Milagro para la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto, como parte del balance de dos meses de su gobierno.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZnliTGNYSmpPRm9tbEZpNElhWU9QTkYxakFyeG1IYVNYQ3daNFk0QlJ3Q1hnZjhjUmhUdFlGZ1JXVkx4SUtoOG5qT0R4MFFTeTQ2M1VPbGk1bjJHTHE2bnY1LXo0Tmp5R280ZXRSWHU0bDY1ZHRFYjhoVkJwQXp6SFg4YzYtU1VPV3JUM2w2ME95Tm54eUZfRlBtUTY1RXAtOE4zX2VtazVvaDhuV2RVLTFRU2FLZzEycU03QkhES01OWjlzcVQwTlBqclhFLWpGaWVrVUg3a013azV6Q09YTXFIQzdkOFJG0gHoAUFVX3lxTE1OUmJSRVZBam5yV0xXaGhCaGtEZ0plX0pkeTZpWDF3b0RhVUJraWlhazZ1SW1VaEpwMHp5Yk40TGkwRVoyYUZCQ2JERHhNNFhvLThhWTJHM2thWWk4UlR6X1FXU0pnMV9rN29xWjVFNWs0UFJodUVLdEJFeTk3bjM1VnpUR21YWC1IRG1OSlc5UUFuRkRCNDRweVl3UF95NzNPTTE1dFZnZ3ZXQlNwVHM5a0pNam5QcDZIUDBjMjZCVWE1NExIcTd4emdXclZBYnRpLWZDd1l4NjlrcElrYVFIdll1MlQyTUo?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1746,
+      "titulo": "Gobierno cambia mecanismo de entrega de dineros para atención en salud",
+      "categoria": "economia",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció un cambio en la forma de entrega de los recursos destinados a la atención en salud, como parte de las medidas presentadas en el balance de sus dos primeros meses de gestión.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVpRMTJTdkRvZE1neXQ1Yno4YXVJNUZBT3Fhb0Z4TWdWS1Z0SDBmQTBBMWhxODJXZE9VT3FBMGtfTWg0WmxyY2RBZk5tOVc0dWVjVEJROUVKeDlvUEhpQUpLWUt1cDQzcmZXTjU4WDFmTExOQWp3RGlqN1luVmEtSllTWXRYZUVQNG85YnJzekVEVDhHU2sxM2hBWnZlVU1xT2RlQTdtOTQ4ZjNXTHQ2WGg2NDBhZjhYNmo1YWliSC1uX3Z6UDE0cmtDY3R4RlhoV0t6StIB2gFBVV95cUxObkpKclZiUGw0N0NUY2pkQjV1TncxeXZTT0J4bFZmZnBMX2daVzhSUFB6UUsxaDFsUmRVb0k2OV9BZzFKUmdJTklyVFZBY2x4eUEzTXR0Y3RmWWppa3BuNDAxR3FVYVlZc1E1dks0WDkzcFE1d1JwZVFaaG85NFc4dW5zVkVMbnZRYXB1QjFlWlN2d1h2SkM0MXZ5SmpHSlFFRnBOaG9fa0NqeDkyb3BBOFJEVF9WRzlXRVc0a0tfdkVHbGF6ZWFEZ2Yxb1cyNDM0cDBFM1d6YzB1UQ?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1745,
+      "titulo": "Gobierno fija plazo para activar plan de choque ante el fenómeno de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de Abelardo de la Espriella estableció un plazo para poner en marcha un plan de choque frente al fenómeno de El Niño, que amenaza con generar racionamiento energético. La medida fue anunciada como parte del balance de los primeros dos meses de gobierno.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQktwbUJ1WG5nUnE0a21uQ0VuUzlOQWtsb0l0UlYwdzgxbXJoWDJxYXY4Ry1BMFJCTVczUFE0ZnJUTExlUm9nbWdwbUJ5emxISko0cG5BYmpudXFMNTBsWmJtblNIS2VXdE9IT21CU3ZHRHM0bTVKRWcyRUY3eFNzRFF4Z19ZNlNFbkZzOGVkNFFHQ3ktV1VHNloxT0R5bEhQdUdSRG80c3dWamdWcEd1N2NicHpXNXFmWURN0gG7AUFVX3lxTFAyZmtoQzdHRzc5NXFSVUlwVV9ZWm9QOUVyNS1tVm5POTR5OWVtaEhVOXRfN3EtT2lQRmdHWnlqUVRVR0tFbzhINmwxZWRUeVNIN2F4Skg4SlNpb0F5dHNhbUpGR2tySEVIRklReEZLZ1pCQ21YSURXMjhObDRXemJDaTJLMHFqamlDalZvdnRoWHRETGFFNWtMUzl3aHRrVVdCdmJLbGJOZEg5U1JIeXZacm8zN3QycXdLVGM?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1744,
+      "titulo": "Exfuncionarios del gobierno Duque regresan a cargos de poder con De la Espriella",
+      "categoria": "gabinete",
+      "fecha": "2026-10-13",
+      "descripcion": "Varias personas que trabajaron con el expresidente Iván Duque se han incorporado a los círculos de poder del gobierno de Abelardo de la Espriella. El de mayor perfil es el vicepresidente José Manuel Restrepo, quien fue ministro de Comercio y de Hacienda con Duque. También se menciona que la exjefe de gabinete de Duque, María Paula Correa, podría asumir la presidencia de la Andi.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-duque-regresan-abelardo-maria-paula-correa-andi-JP42183846",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo",
+        "María Paula Correa"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1743,
+      "titulo": "Exdirectora del Dapre Angie Rodríguez habla sobre presunta corrupción en el gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "Angie Rodríguez, exdirectora del Departamento Administrativo de la Presidencia (Dapre) durante el gobierno Petro, entregó declaraciones públicas sobre presuntos hechos de corrupción ocurridos en esa administración, en el marco de las revelaciones recientes sobre el entorno de Verónica Alcocer.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMEFDdVppTmZSNkFtUkFkYVdTdGhObFZSMkRWZXRPSmJNdDVzTGUwRTdFdWg0VlNBVWFLYm1BM0pZTUZJbmFtdHFUNEFOVC1BeDlpNHRUa3pHWjNpZDhmUXNqMGtMTG85eER3QjBfWEdfTFoySk9FRm1UblhmSFBhOWFJd1NUangyVEZVRWdvWUN5Ui1QbWpXLUdCTmRoSS00Y3EwX1Z6QTJVYjl1d0xXM1E3MzQzZlJ0aUNBTGY0cFVJcXBoNmfSAdoBQVVfeXFMTkhxVmRWcGR5MllySjJ6SmY3S0Nzdnk3bS14dFVFRWk2Qkg1dWZ0MTUtZ3E1S3N3V2JzNl9JOGxob3ZDQ0RoNV85ZEhxS0xBNUZyYURRNTVqM3F0MmhDT2VwTVhQYlRMbnI1aHZIdjZCSGJLQVZLS05TOFVfRFU1bHhrUzlXQ3RzUFRQS05RRmVPY0hMZl9iaHlybE5zT29PS29pR2NjOHlPX1R2dG5iY1ozZ2VMWlg4ZU9JcFNJMklaUVJSY2RuMFJ0QkYxdEEzRWRjQjFRUTBwclE?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez"
+      ],
+      "entidad": "Dapre (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35"
+    },
+    {
+      "id": 1742,
+      "titulo": "Procuraduría cita a declarar a Eva Ferrer y cinco personas más por denuncias contra Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "La Procuraduría General de la Nación citó bajo juramento a Eva Ferrer, Carmen Caballero, Angie Rodríguez, Concepción Baracaldo, Guillermo Reyes e Ingrid Carolina Plata Navas para esclarecer presuntos hechos de corrupción señalados en una entrevista de la revista Semana en torno a Verónica Alcocer, exprimera dama del gobierno Petro. El auto ordena diligencias adicionales dentro de la investigación disciplinaria.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/procuraduria-eva-ferrer-angie-rodriguez-corrupcion-investigacion-DP42187589",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Carmen Caballero",
+        "Angie Rodríguez",
+        "Concepción Baracaldo",
+        "Guillermo Reyes",
+        "Ingrid Carolina Plata Navas",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 13:35"
+    },
+    {
       "id": 1741,
       "titulo": "Gobierno ofrece recompensa de $1.000 millones por alias 'Ferley Ríos'",
       "categoria": "seguridad",
@@ -40629,7 +41060,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-13",
-    "total_casos": 1652,
+    "total_casos": 1670,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
