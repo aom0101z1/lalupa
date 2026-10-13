@@ -221,6 +221,382 @@
   ],
   "casos": [
     {
+      "id": 1741,
+      "titulo": "Gobierno ofrece recompensa de $1.000 millones por alias 'Ferley Ríos'",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "Tras el atentado con carro bomba en el peaje El Bordo, Cauca, el 12 de octubre de 2026, que dejó tres civiles heridos, las autoridades ofrecen $1.000 millones de recompensa por información que permita la captura de José Esteban Méndez Álvis, alias 'Ferley Ríos', señalado como autor del ataque. El sospechoso, exmiembro de las Farc-EP que no se desmovilizó tras el Acuerdo de 2016, es buscado por inteligencia militar.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/captura-alias-ferley-rios-presunto-autor-del-carro-bomba-en-el-cauca-FP42182430",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "José Esteban Méndez Álvis (alias Ferley Ríos)"
+      ],
+      "entidad": "Ministerio de Defensa / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1740,
+      "titulo": "Misión de Verificación de la ONU presenta primer informe ante el Consejo de Seguridad en la era De la Espriella",
+      "categoria": "internacional",
+      "fecha": "2026-10-11",
+      "descripcion": "La Misión de Verificación de la ONU en Colombia presentó ante el Consejo de Seguridad su primer informe desde que inició el gobierno de Abelardo De la Espriella, en medio de la expectativa por la eventual prórroga de su presencia en el país y las tensiones sobre el futuro de la implementación del acuerdo de paz.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/la-mision-de-verificacion-presenta-informe-ante-consejo-de-seguridad-de-la-onu-en-medio-de-expectativa-por-prorroga-de-su-presencia-en-colombia-3592920",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Misión de Verificación de la ONU / Consejo de Seguridad de la ONU",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1739,
+      "titulo": "ELN expande presencia territorial en La Guajira tras caída de 'Bendito Menor'",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "Según fuentes en Nazareth y Siapana, la salida de las Autodefensas Conquistadoras de la Sierra Nevada (ACSN) de buena parte del extremo norte de Uribia, tras la caída de alias Bendito Menor, no derivó en control estatal sino en la ocupación del territorio por el ELN, que ya tenía presencia histórica en la zona fronteriza. El hecho evidencia un vacío de seguridad persistente en la Alta Guajira pese a golpes previos contra estructuras armadas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eln-gana-suelo-la-guajira-tras-caida-bendito-menor-DA42170542",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Bendito Menor"
+      ],
+      "entidad": "Ejército Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1738,
+      "titulo": "De la Espriella y Marco Rubio dialogan para fortalecer cooperación Colombia-EE.UU.",
+      "categoria": "internacional",
+      "fecha": "2026-10-12",
+      "descripcion": "El presidente Abelardo de la Espriella sostuvo un diálogo con el secretario de Estado de EE.UU., Marco Rubio, en el que ambos gobiernos acordaron buscar mecanismos para fortalecer la cooperación bilateral en seguridad y otros temas de interés mutuo.",
+      "evidencia": "Reportado por RTVC Noticias",
+      "fuentes": [
+        {
+          "nombre": "RTVC Noticias",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3A4V1pTelducVI3VG9kUnRqMlZHOFAyY1E3c3AwSkc5TDNJVXVuRF9hMjFuZzI0cDdrTjZ6Q0J2ZVdUV1N6Rzl6YUZCUHZUZHN5bE1PNUhoR0FhbFk3ZGoyc19mallpc3NLU0xxN1dGM0NjQnpsRzA3ajNNemlpTV9MeWlqbGN2cUtaRktSM3FzNThROXo1ODQtVFJia0Q3V0JxQl9LcWQwRUROLVVNODZlTDBzejlvVHRrTXY4dw?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Marco Rubio"
+      ],
+      "entidad": "Presidencia de la República / Departamento de Estado de EE.UU.",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1737,
+      "titulo": "Revelan detalles del vuelo de la FAC a Venezuela vinculado a Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-11",
+      "descripcion": "Según declaraciones de Eva Ferrer, se revelaron detalles del avión de la Fuerza Aérea Colombiana y los pasajeros de un vuelo a Venezuela en el que Verónica Alcocer habría trasladado droga y 2,5 millones de dólares, ampliando la investigación sobre presuntos testaferros y transporte ilícito vinculados al círculo de la exprimera dama.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSVA3dkJGQWpOblNNWDV6elZ1bXdrTkduR3BwWGx2UUtWZWtMTmVibHZiU2F0bGlVTHNjcHY4Z0dQME96M3JsWHRkQlptQlFtcFFseDd6NUl4YkxNckFjTDNHMzVkcERWMnFhNEtsWTNuOGR0b3g2THBKNU4wU2Y1QzFvVUJlQXNCX3FtYU5mV2VMa3ZuNkdQUG9XS1g0eGFiZWgwN1F6Y0p4Q1BtNHN2V0RlLUxqOWUxdExLMUpZZXJqakt0MFlaMWZwdHYxc2Z6emZzazRMeDFudDFpSnY1QThJeXBxa3h3SUlyQkoya2FTWjRuWU9QX0tkY1pqaTZPVE9XSzRSTjF3MWMwNjhPWEhsV1E1dVlFZHo5V1NyWFJocW9V0gGqAkFVX3lxTE5JbVVNcGJ1OWZLcFBwOFlYWEFzN0RkMFg2UkpjYVo1d3JwX3FZQVhTUURtRVR1aWZjS1lSbEJselc2d1JZX0czLS0zT2lqN0VjRnRtdEFUWVl4a1FOanNUSTVjOE9YUm9YQlduaEJrT2RGVW55YzVwOVNqc1Zoa3RRcUpXZUNxV3NaeWlSOUZkelA1TnVPeXJUNUNiZ19yd3Fsc0Z6Z0UwYUgxZWpzREJBc1J1eXMxdklJU2J3MmtkXzdRYWJXQjJNSzVvMDFXdnI5Xy1ySmRhdTVYQXFSZGxBRW1MOExDeEJvcGdudU5rTmZsU1Y5REJLTWZCLTY5eGRCWWJfVzAyUXdGLTBHOWdJeW9jUzdSeVRNek1UamMxYnp5WWNLYjloNGc?oc=5",
+          "fecha": "2026-10-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fuerza Aérea Colombiana (FAC) / Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09"
+    },
+    {
+      "id": 1736,
+      "titulo": "Capitana Kelly Lozano señalada en esquema de seguridad de Verónica Alcocer",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-12",
+      "descripcion": "La capitana Kelly Lozano quedó señalada por acusaciones surgidas en torno al esquema de seguridad asignado a Verónica Alcocer durante el gobierno Petro, en medio de las investigaciones sobre presuntas irregularidades en el manejo de ese esquema y su posible vínculo con denuncias de Eva Ferrer.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFVJeG43TVVFSXo2NWdvUTF4dkFLTDVfbjY5b2RyUGRfSnNFekpjekJIbmlOenh1Yl9uSW9vRXJUdmJlMmFncEdoUFQ1dmZYcXNMQ1Nqdzg5a0ZVb21MYXNiRTlkWW4wUGlBNnRZSkd0bDJyT2JJemJ6WnVDVDZFNl9WOGh1Y2I4c2s1amxSaVM1RnhIX2pPc0VUbmREOWVaTkJCSGdiWG9VblhHdTNYamlpSm11QWMyNjJ3cVgzMFB4cy1uc0pxT1NEcFN1M01rRE91b2RqTEJ1VXVjX1Q4MDlFV0ZSLXhQVHRqU9IBhwJBVV95cUxOaHFLckZtWmxSd0V5UlR2anVrYTg3eGRQdGpSMmMwYmhhcWlkZ1pxT3hkakdIYklGLXpFQlIxaTNwenk4a3RNSnNkLTRnTzVXNTJEN2tmVnV3NHRyNXJ3Wm5sclhheEdSZTcyR3dfN1JRX2ctMWhQYmNOenZ5c1Q3ZlRSUmd2bVJCRjQ2VGdiTkd6MGdWVUNBT1I0cXNQTGpvY0dxT1owOG1Qa01OY3R1a1dyRzVTb0lLV1RJTzYyVkJaWjhadWVkY2lZazhodVFCcS0zWmxzVlZpbVRpSEg3NlI1cnc5c0JiNUdVamZpMG5Zd2FkS28tNzZxd1RXeDB6djJOOXlMRQ?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Kelly Lozano",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Policía Nacional / Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09"
+    },
+    {
+      "id": 1735,
+      "titulo": "Gobierno propone que la misión de la ONU deje de verificar la reforma rural",
+      "categoria": "internacional",
+      "fecha": "2026-10-12",
+      "descripcion": "El Gobierno De la Espriella planteó que la misión de verificación de la ONU en Colombia deje de supervisar el componente de reforma rural integral del acuerdo de paz, argumentando que corresponde a 'una naturaleza distinta' de verificación.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN3FSNEo2QkJZVVF2b2xxaFBFS0dwNmdLckhNUl9aN0k2aXczSmpXQTVTUi10d3Fvazkzc3VuRWxQYkNNbDdXTG9xa2ZNWGVPZEk5dnpGMTJlT3dCUDFDd1BFSWJQallqUld3NUNYMVVaNEJUOEx4bXZFWmdRczlXS1Y2aGtTdXJiSVZjXzRITWNJcnAwR1otM0x0NWNoYzF0RTdkbEt1YnRJNXpvMUNndzM5QXFfTHRHbDlTZkp3YjhPUTFudmpGbWxwSkJNaG1ubk5CUk1kckM1bkxpbzlRS29CVVFOOXRuNDBhWGhCMmROd9IBjAJBVV95cUxPbmJ6TnVuZlQ2TF9KdTlNTWxhMFVwbGFpNnctaFNnUi1iV1V2M3o1VkNDRTAyVko2eXJMUGUyaGJLcF9oT3MwazBiRGg5RUN6QmQ5eFcxcHY1ZG4yOWljM3R5YU5RTFN2TF9aMW0xdjhoUWZONDM1UlF5RTFRWWRyd2N4SVpIdTJqMmYzU1ZFeTNxZUhoRjRvVFdRRzdQU0s4aHYySnBReWhIMXJDb3d0TTM0QVVhcjlXdWpvOVVWUUNjYmQxVUFUc3FzcTk5WFdGVkZObXU5cVVKNFRudEVPYWZvRkZnWWhvSnJXdDhTWmRLQnNDWkhjUWdVMGFLWW12QkItMjBEMGxZNWln?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1734,
+      "titulo": "ONU pide al Gobierno De la Espriella precisar implementación del acuerdo de paz",
+      "categoria": "internacional",
+      "fecha": "2026-10-12",
+      "descripcion": "La Organización de las Naciones Unidas solicitó al Gobierno De la Espriella que concrete la hoja de ruta para la implementación del acuerdo de paz firmado en 2016, en medio de cambios de enfoque del nuevo Ejecutivo frente a la política de paz.",
+      "evidencia": "Reportado por La Patria",
+      "fuentes": [
+        {
+          "nombre": "La Patria",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3RBMW82UnVCZjFPLW5kaW9VVGNBV0FmOUk0TDNkOWpjN05FeWJwbUJhNlVpVG5MZm94RGNhNmU5b1hXZWQxNlFsTW5vZlAwS2R6NFU3RnFuOTZrQy1TTEw1cm9sY0QycHBEaDdVMkVSSEZ1ZlJzNTE2d0dZcHRYN2dmeHhvX19lNVdpY0QxVXUxbUFkay1xak9KVEZIT3ZlRTFlRlhpbF9iOUVYcGFKLVBXLXZZZ1o4cXpzdHNubw?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ONU / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1733,
+      "titulo": "Familia de Petro anuncia demandas tras señalamientos de Eva Ferrer contra Verónica Alcocer",
+      "categoria": "mentiras",
+      "fecha": "2026-10-12",
+      "descripcion": "Tras las denuncias de la exconsejera Eva Ferrer contra Verónica Alcocer por presunto tráfico de drogas, armas y lavado de activos, la familia de Gustavo Petro salió en defensa de la ex primera dama y anunció que emprenderá acciones legales (demandas) contra quienes consideran responsables de las acusaciones.",
+      "evidencia": "Reportado por Colombia.com",
+      "fuentes": [
+        {
+          "nombre": "Colombia.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTB2YkhEVDB5cGFwU0RBcUZpUmJ1ZVowa3MxZ1llNVEtSDh1ZFJld3FfU2NfeFdsVzE4RExuREVQVndxaG1ROXZmdHNkRlB5S1U3YnFtMVdPZUlQbU1FTTdleWtFMGJ3WUdxVmZjLUREbnQ5OVA2U29wcG9XQnNpYkNGQXgwR2lsdlZMR3lQdnZZR2pCMGZrb3c0NWZmcDFNYTRHSTVQOVFMQ2hPR19DX0pUcnlmbWRlOThvY0lMNmhFS042a01JaEM5VzA?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Familia Petro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09"
+    },
+    {
+      "id": 1732,
+      "titulo": "Gobierno revalúa contrato de compra de aviones Gripen heredado del gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-10-12",
+      "descripcion": "El nuevo Gobierno estaría revaluando aspectos del millonario contrato de compra de los aviones de combate Gripen, negociado durante el gobierno Petro, en medio de dudas sobre su viabilidad fiscal y condiciones pactadas.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEs2ckdlVmtwakNuS0kzcWhuTmJOc2JPSnh6VmM2TTFxSWxoWi1uU3FHa0JyaWpueG9qZEJtLVktbjB6ZXpuUF9sWmdUeXowNUZCd29uN2lKYXl0eWhMNGlIdElnOXBIdEFjaTdKM0dWWGw1bnY1Q3kzX1AyZVNiNlZqbUJLUkZDTk1WNEh6Rk0xMEhNbE54R0toeFZ5My1WTU9oRUZwb0hQV0dITUo2Xzl30gGyAUFVX3lxTE13RWZPa2NIYmJDNEJSOTVva08tNzE3a0hwbHp5TEcyWlVRX0JLWEhNdl9Fb2xPVS1XOUszQS0zZWREUjdQd1F6SWxJaFZTWFZoVTFYTU54enZhdmFVM2Rvc213OUk2MkpiME9qQmU0Sm1scVlqNC1yOGhDRTMtZDc5ZEpYUkJzZU1wWm5GczFmNjJTQk15bnVnVFNPUFhBdVFzU3ItLUdmR0FfeWtMTHluckE?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Fuerza Aérea Colombiana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09"
+    },
+    {
+      "id": 1731,
+      "titulo": "Autoridades identifican a alias Ferley Ríos como responsable del atentado al peaje El Bordo en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "Las autoridades señalaron a alias Ferley Ríos, cabecilla de las disidencias de 'Iván Mordisco', como responsable del atentado contra el peaje de El Bordo, Cauca, que dejó cinco heridos. Tiene orden de captura por secuestro y extorsión, y se ofrece recompensa de hasta 1.000 millones de pesos por información para su captura.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-ferley-rios-el-cabecilla-de-las-disidencias-de-ivan-mordisco-senalado-por-el-atentado-contra-el-peaje-de-el-bordo-en-cauca-3593001",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Ferley Ríos"
+      ],
+      "entidad": "Ministerio de Defensa / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1730,
+      "titulo": "De la Espriella ordena salida del comandante de Policía de Santa Marta tras fuga de 41 detenidos",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó la salida del coronel Yeison López, comandante de la Policía de Santa Marta, tras la fuga de 41 detenidos y por no informar oportunamente sobre un bloqueo en la vía a Barranquilla. El mandatario afirmó que no aceptará 'cobardía' en la Fuerza Pública.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-ordena-salida-comandante-policia-santa-marta-PA42175912",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Yeison López"
+      ],
+      "entidad": "Policía Nacional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1729,
+      "titulo": "Gobierno elimina restricciones de uso del suelo rural impuestas por Petro en municipios de Cundinamarca",
+      "categoria": "obras",
+      "fecha": "2026-10-12",
+      "descripcion": "El Gobierno De la Espriella eliminó una medida del gobierno Petro que restringía el uso del suelo rural en cinco municipios de Cundinamarca, con el argumento de que frenaba el desarrollo territorial y agropecuario de la región.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmVrclA3Z0dFUDhlclIxUWJmSWJvdUh2TVBQVTNwV1owakNRc2RWZWc1RVJlSm5BWXNCTDZNb1ZFc0IxVUFLamNiOEZab2ZZUnljOVVhY0xvYV9QOGhBZkFlamtyTHdLdjRqVEY4VnJSeWNudE50dENRYVJ4UjR6b21RRzF6SV9aODhtU3FONFpXU1JIa2tMMUFoWF9PWUx4SXdybWwtUmVZOUc3b05Oa05XNHVULUNFNUdDcGR6YVFLQ3NqRExibUxIN1VvVDAxLXZiaFRKWFN3Z3drSU1B0gHkAUFVX3lxTFBqdnBGaWQ2ckJSU2xrb2h5MUJKRk9EUm0ydFd3OExPalhnVTA5eWVyYXhFdEtMdWtxdWx2X3pma20yU05tSEZkMHdlZXNOWmZCRmZwQWl4RUk2NnFrWHhCdGJRN0VFcndMLXNuVkNxTUkzdHNURUpobVRRbFlhZWNSYnBybkluS2w4ZkxNNlJQQXdUODZYbHpTLVBIdVlILV9JaE9SeE1vQ3lWbWR0Q2xDQk45NWhEVG5SQlByc2dWR1RWX3daMTAydERFOTE2V0F6S3hHYnpkSlk3X1VZNGVxaEJ6VQ?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1728,
+      "titulo": "Gobierno abre línea de crédito de $20.000 millones de Bancóldex tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-12",
+      "descripcion": "Tras el terremoto del 10 de agosto, el Gobierno De la Espriella abrió una línea de crédito de 20.000 millones de pesos a través de Bancóldex destinada a apoyar a empresas y sectores productivos afectados por la emergencia en las zonas del sismo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkszZGxxazlweC1CdHRUTTYxRTVHb3VoWkdzMFBxZW9SVzZVODdBUFNIaGxua3FnUmFydXJ0S2NlWkg5R01DN0JJaGFyc0xiNnNiUUg4TUljYi00WDlZaW5WRlRzdUNVM193REFpdFE1NW0wM25YZTJ0bGYtbHM2c2JSdVVTVmJuSHFjNWVmY1BiemRlemVKOWtTdUV2VVprSmROUWpiT3MzeVJja2hxZElSRndfR2lCZm9hVGc3WmdTNDJpNEJEeTJ2eW1hV2pGc05kalROTU1Dd9IB3wFBVV95cUxQX1A0UjA5S3kwUDFKN0doM0liZlR5dnlIOUdwMjFuQmZpak9CYkJWMF9wTzFJMk9RVHM3R1lRRWR0TmV2TENaUFFDc2pFQkZaa2YwVEI2ZlZUZk5uVC1Hc3NlY2NGZzBLa0VhdkdCZVpRQjNxb3ZoSTVaTDJBcXhtcnZWTU13ZUNyX1poaEc3MncwQ3BYMmszMktiZ0tSejF1VTZQT2NiMWsxVm1UdndHWVl3SW1MenhTdWdXRFQ1bnpjaFFrM0hvUF9LaUNZRk1jXzZXRk42R1kya1lYLWdj?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Bancóldex / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1727,
+      "titulo": "Gobierno expide decreto con plan de seguridad para protestas del 14 de octubre",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "El Gobierno De la Espriella emitió un nuevo decreto que establece el plan de seguridad para las movilizaciones convocadas el 14 de octubre, en medio de tensiones con sindicatos y comunidades indígenas que rechazan medidas del Ejecutivo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1R5R1JxemVjdm1TQ2RsRHV1TTVuTmVmWlAtV2hYMW5hdWFCSHU1dWN5dHFDbk04LThBWUJwVE1qdWNsMFdUTUhOSEcwRXdMend4cUlMdV9MTTIyWEF2MEdWV1hILXBUS3RWNFhCXzNPN0tCT21wNEl0Y2VibmtqeHVPRDIyS1ozX0oyZ1RLYzRPMFBacEpQUVNHektiYkRzdnVac0ZTYV8wTVV0QnpaMHJIZlJhcmFORUUxbThPQlZlVXk2UTdJc18taWHSAdIBQVVfeXFMUExfYUlqWllTZVVYZ3JRNEVvcUJBdEdieGNSMW1pSlo0Nmx3VWJUNWZnLUp0MmtQVDNNUXlNcjVWYzZWQ0ZtVFRCbXlpLXQ0NjdoM2dTU3JEUW1CR2lJNmdXYjRCLXgyMGROY2hCZGl4NVplWVVScGIyVXlVRjBIeVlVSHVMeDVBajJDT0hXRGNIbnoteVpSZFpnMTh6QjIzRW1tdGJrdERERHQ2MnNYNzM3TzhSYWhoakEwODFTZG5yR1N4LWRuUmNIU05LZ3hMOTFB?oc=5",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1726,
+      "titulo": "Ejército captura a alias 'El Tuerto', integrante del Eln vinculado a ataques con drones en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-10-12",
+      "descripcion": "El Ejército Nacional capturó en Chocó a alias 'El Tuerto', presunto integrante de la comisión del Eln señalada de dinamizar ataques con drones en esa región. La captura se logró tras seguimiento de la ruta usada por el grupo armado para desplegar estos dispositivos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-pista-de-los-drones-que-llevo-al-ejercito-hasta-alias-el-tuerto-en-el-choco-integrante-de-eln-3593046",
+          "fecha": "2026-10-12"
+        }
+      ],
+      "personas_involucradas": [
+        "alias El Tuerto"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 00:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1725,
       "titulo": "Estados Unidos cancela masivamente visas a ciudadanos colombianos vinculados a investigaciones",
       "categoria": "sanciones",
@@ -40252,8 +40628,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-12",
-    "total_casos": 1636,
+    "ultima_actualizacion": "2026-10-13",
+    "total_casos": 1652,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
