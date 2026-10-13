@@ -221,6 +221,339 @@
   ],
   "casos": [
     {
+      "id": 1773,
+      "titulo": "Registrador Penagos defiende tutela contra Petro por presunto fraude electoral",
+      "categoria": "mentiras",
+      "fecha": "2026-10-13",
+      "descripcion": "El registrador nacional Penagos impulsa una acción judicial contra Gustavo Petro, quien ha promovido una agenda de presunto fraude en las elecciones presidenciales. El registrador afirmó que 'más de 9.300 jueces declararon quién es el verdadero presidente' del país, en respuesta a los señalamientos de Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/mas-de-9-300-jueces-declararon-quien-es-el-verdadero-presidente-de-nuestro-pais-registrador-penagos-defiende-tutela-contra-petro-3593211",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Registrador Penagos"
+      ],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
+      "id": 1772,
+      "titulo": "Estatuto Antiterrorista propone prohibir pagos en efectivo de ciertos bienes",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "El proyecto de Estatuto Antiterrorista del gobierno De la Espriella plantea prohibir el pago en efectivo para la compra de bienes como carros, inmuebles y lotes, con el fin de rastrear el dinero a través de la banca y cortar la financiación de grupos armados y del terrorismo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/estatuto-antiterrorista-prohibiria-pagar-en-efectivo-algunos-bienes-para-rastrear-el-dinero-por-la-banca-3593209",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1771,
+      "titulo": "DIAN confirma que fundación de la primera dama puede recibir donaciones para el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-13",
+      "descripcion": "La DIAN confirmó que la Fundación Colombia Luz y Sonrisas, creada por la primera dama Ana Lucía Pineda, está autorizada para recibir donaciones al contar con RUT vigente y pertenecer al Régimen Tributario Especial, aclaración emitida en medio de cuestionamientos sobre el manejo de donaciones recaudadas para atender a damnificados del terremoto del 10 de agosto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/dian-confirma-fundacion-ana-lucia-pineda-puede-recibir-donaciones-BO42193882",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda"
+      ],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1770,
+      "titulo": "Petro exige cuentas al Gobierno por manejo de ayudas tras el terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-13",
+      "descripcion": "El expresidente Gustavo Petro exigió explicaciones al gobierno de Abelardo De la Espriella sobre las reuniones sostenidas y las ayudas entregadas a los damnificados del terremoto del 10 de agosto, en medio del debate público sobre la gestión de la emergencia y el uso de los recursos destinados a la reconstrucción.",
+      "evidencia": "Reportado por El Nuevo Dia (Colombia)",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Dia (Colombia)",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFFNYURIbFNfeWgtcnBtaDcwb1otMWZTSHJ5WnhucXZfbXd2dTlxTXpvLW9hRDFqUXhSdHBKakZTRzRWdHlCbUFBbnJjSDgxSlFsNHNObFgwcW9fYUdFYl9idkVLTWtnRzE3STBWaEx2Rk1sZnozY0JFcllQMlVIMHBBZlc5ZTZGb0toaW5wMjJkd1dtMWQ2Rk5LODQ0X29EWEFmUnJFWXluNXlLTjdVVW5PSUh6OEF0?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1769,
+      "titulo": "Gobierno anuncia cambios en el mecanismo de compra del SOAT",
+      "categoria": "economia",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de De la Espriella anunció cambios clave en el proceso para la compra del Seguro Obligatorio de Accidentes de Tránsito (SOAT) en Colombia, medida regulatoria que deberá implementar su administración.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0FNU3FJUzdWcllvZTR2WFZFY0hBVjVidmVmYTRzZW9fWm90SmZaeWVuQXp3dkMxalA5bldfQkdUNzd6QldGRkx5MTBYTEk3Q0NwOG1hTVRXLVAtNnc0cXBUTmUybmFuM3hVR3JERlFFbF9HR2pqc0JRSjlXbkV5S3ptUXZrNldLT2phQ2pnOGpTS2FNVXEwT3c3eTV4anc2UjBnM1oySUotRVF6d0dFSVI4bEhHZ9IBuwFBVV95cUxQZDd1aWVZdGVXUktmNTc5VURqQnE5aVlRZmVET3VidTA0ampBTE9hVTlGb1g0cXpkVXFJU3oxbk1SdjlNblFpSWQ2NF94SzdlM3dGSm9TODBELVhzVy1wM3pKazRkSmdOcGZyNVE3WUVMdXZzUkY3OGZNXy1SWXU3MTNyaXd0MFJmUjc2VjE2Zl9VX1dXR3VNSmJwNng4RTJ1WGlZUW13cTZYbGxYTWpUNVpFTS0zTEU0Y0RF?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1768,
+      "titulo": "Sectores que perderían recursos en el presupuesto de 2027 del gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de Abelardo de la Espriella presentó ajustes al presupuesto de 2027 que implicarían recortes de recursos para varios sectores, en el marco de su política de austeridad fiscal y reestructuración del gasto público heredado del gobierno anterior.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQaTFLR2lfQ3Fua2lkSEFYT29vOGprY1ZnaTNBcDdUMnRqQV82cDdFdkFPemc2ZlNGWUpZeTdlSkpuZzZOYkFmYmk2RGxuU1FZLXdJZ2FsMjhNU0pLdFhYNno3d2xmZE1DcGxPRWd2YjliUE12VHduVjV1eGVUbEVLY3BPd0VRWXlUdTJZT01ad0NhNzA3X2JiMHBBY3hGWnVOUzdCbURnSzFqblR1QURab1NEUXlkQzVRN1NLcDJ4UV9idExuaVhhb0JsVGFGRVRjalI3cHU0RXBmdW82U1hxY3FMNm1yY3ZWN0Y5V2R6SHQtNnJnZTFwdlM0cHV0dURVUFZsNWJ2UmQybXJjZHfSAagCQVVfeXFMT1FROFR5c2Y0UGg0TWotN3JFNTFZam9sOERqWmtxWEN1OTdTNmFKOW5hWGlUUFl0aGd5MnY2RHZWOE82dkp6SGd4UTVvMEZKRkwybzhPYTk1eXVyemhheEYta0dxMllSQ1VlSnlfeVpMT0toMDB5YlVTbGJqSnozeGFEU2xQcEkweTUyX0ZEallCdjV4dUxLbDFuUGpoNWtmUGdkTjU4VzJGSnJjTFJFUHpSZmppejZKLUcxZ3liZWd2NWktVU5qRXROMDU5OEcydWRSTHEzay12Y1V5Yks0X1hGek1sS2duNTBoUGduMXVGNXJqbURmVHVSVllRaVZBeEVIRTNSanBGTUNtWHJrLW5zR3NPNmFKdkdCSHNqSkM5X0RaU2NhUDU?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1767,
+      "titulo": "Gobierno anuncia medidas para evitar bloqueos en vías del país",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de De la Espriella confirmó que implementará medidas para evitar bloqueos en las vías nacionales, en el marco de su estrategia de orden público y control de protestas anunciadas de cara a futuras movilizaciones.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNck1uZkxibUJtdHMzWUJkZG5Qb01uM09SR1o2SGx1M1pkaTZmSm1HbXpuYUZTM2RqQUVfckdybC1CaW9rRml5Qm1PazFQUmx2TGttTF9HVkhEQ0VtSGU2M3lENmtoYzlNUU41OUVrUkQzZ2RpMXdIaXFEN3ZkZ1g1b0FEZHMwdnhxbGxraHVHQW1iOENxN3RXTWJVSnJNS0wyVmoxc08yVDZfNEV1STAwRTd2UWVzeGt0TFdNN2Z1UzJyVGvSAcgBQVVfeXFMT0UtWTNoc01Mdm90VkdjdnNVYnNkbkp3X1J5RWxwQjNoQ0FFZHc5blNveEFGRFJvWWZWeGlfSElDNFBYVlpiZHU4M0VSRF9vSklObW03c2NnQVplblpJQWN0WDJSN2NqV19UcklsbElJcUw2aHd6OUxCM1l6dG1BUDIxV0dKOWxSRUJZN21KUkxVQlI5UUsydC1IMkkyMXNJMUFiaUVRYjc1V25wMGI3WDhkZjBzSzNVclY3UVQwN3pWUFAwNFRRU04?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1766,
+      "titulo": "Gobierno radica oficialmente ley de sometimiento en el Congreso",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "El gobierno de Abelardo de la Espriella radicó formalmente ante el Congreso la ley de sometimiento, la primera propuesta legislativa de gran calado de su administración, orientada a la desmovilización y sometimiento a la justicia de grupos armados ilegales.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-radica-oficialmente-la-ley-de-sometimiento-en-el-congreso-3593261",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1765,
+      "titulo": "Petro denunció a Colombia ante la Corte Penal Internacional en su último día de gobierno",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-13",
+      "descripcion": "En su último día como presidente, Gustavo Petro presentó una denuncia contra el Estado colombiano ante la Corte Penal Internacional, una jugada que podría contrarrestar medidas del gobierno De la Espriella contra la JEP pero que también podría tener efectos adversos para la justicia transicional colombiana.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/en-su-ultimo-dia-de-gobierno-petro-denuncio-a-colombia-en-la-corte-penal-internacional/",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro) / Corte Penal Internacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
+      "id": 1764,
+      "titulo": "ANI habría nombrado 120 'corbatas' que cobraban sin trabajar durante el gobierno Petro",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-13",
+      "descripcion": "Según denuncias, el gobierno Petro habría ordenado en la Agencia Nacional de Infraestructura (ANI) el nombramiento de 120 personas conocidas como 'corbatas', que recibían salario sin cumplir funciones laborales reales, en lo que constituiría un caso de nepotismo y malversación de recursos públicos.",
+      "evidencia": "Reportado por El Frente",
+      "fuentes": [
+        {
+          "nombre": "El Frente",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdS1ZTF9hNDlfSTUzbU1lMXZ2dHF5Z3htNk5STHVwVm9HMUo4STlzZWlvQXhSMkVvVmp1WDUxek42a1FTNUZWVW5Xd1ZxazQ0SENPaDdxcU9DaFJ6SWxaNUh2WlEtdEZVY1cyTTd2ZG9sV3pZYmNDSFMxRWdkVjEzbmh4eVRUVkFINE1vLWNnYTBIQ0NsUndwR19NT3BjQnpKemo5V1FCQjFPc1h5STFqeEN6MnpxRVk2NzZodnhFaw?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
+      "id": 1763,
+      "titulo": "Procuraduría abre indagación formal por los viajes de Verónica Alcocer como primera dama",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "La Procuraduría General de la Nación abrió una indagación formal por los viajes realizados por Verónica Alcocer durante su rol como primera dama en el gobierno Petro, tras las revelaciones de Eva Ferrer sobre presunto uso irregular de vuelos oficiales.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVFHZExuN2xHWlA4OHlfd1J2di10Sld1cDdNWDhhQzFpcXhZQl9OWGxoWlpKazZ4TTA5ZUpqVnFTMGVpdlpxNU5OenVvUi1tR1RuVktwbU1FNUlTOWdlMGlwT1FGWm8xUFl0czhYQXhJQ1UxZDZuS0xWUUptWDJhN1l2bkpxWml5Q0JuUldMOHN6dUxsUTRoUnd2RFFxandSU0VkYzdzNERWOFA5MVd5ZzdyeFfSAbQBQVVfeXFMTm5VSF91Y3U3RDVCZXlheDVPWUJBa2p2LU9IbHFITWo4dzNaNmtvQVR0WjVKT3VsMWR5b0NHMW5ueGZIT2M1eGxsZlNkWGRfS3B3eGc4R2VxeWlqcXpNN2xrQ0pRV195bmNnQWw5aTItV1pEMnhHN1VNS0JMV3VncDRLQWR6S1BSVWpDS1QwU2dWNHg3MHo0eWgyZ0Y5TW5EVzdJbGpKQ21rbnY1akx2YzZraWZl?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
+      "id": 1762,
+      "titulo": "Ministro de Justicia pide investigar denuncias de narcotráfico y tráfico de armas contra Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "El ministro de Justicia del gobierno De la Espriella calificó de 'delicadas' las denuncias de Eva Ferrer sobre presunto narcotráfico y tráfico de armas vinculado a Verónica Alcocer durante el gobierno Petro, y pidió formalmente que se investiguen a fondo los señalamientos.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWWw2ZV9tWlR1aFp2UW5HSVpBcE1nWVVaTmVlM3FKM0pBcFlrNTNVV1MtajFkNEtiNURXUDJXVEMtZ0I3QkFRYWdyV3dtajMwS3JyV2JvZEZiaTI0V0plVXV0dXBQalM3elkyYjR5RkZVUG5TVWhsYkFzamdzdzZDVFJVaEg4MjhpMVN0VU1zUnRRdnFkYlJjSVVXeXdQZVZaVVlmTnljVU9nWnFqWWFneTByR0JQcEdNdTloZXo4SjJLSHp3U1UtdTJTbVE5QlhEOVpCXzlWd205YzAxOUNKcUoyRnk5YzRDbU1wY0xGTm1jZEtNOTA1UXNGNWtqRXRlTGZHcGhZZE1xLTFsSWM1UGN6eHV1MGtjTHI5dU5GbVRPZ9IBvAJBVV95cUxOR3hvamhuRjBQcjkySHRIYmZzeWJyTTlId2t5dk9DRkdteUJYSGxfZ0p5MDZEVEUycnJaQkVSRXlaLVBXVHBLUUp5VUdDWHl5dXVWakI1THVfVXZtY3lIVEZOVTcxMGJSTTROd1BzZy05alhwYkZ6Q0FPeVRpblQ3d19raklMalVRdjBRUTE1T2RSX0lwX1BwU0N0Q240MkRsVkpwd0VDZjMtVk15SW5CNTY1TDlxQVk4eDhNOTlwcmFEVGZuOGppcng1M3NRYy1qM2h6TXNSU2ZfTEJqUFVSWGQzUWhPek5zdTd2SE1vWXZ2ZThBdEpoc2xqazZNVTVHNE4zbE43N3pMSmNKNTJQZUYyUGxWQ2NWMmx5bWRTd2pZVUp3MUJaRFA2R0hGZ3pqS3RGMG1xSkQ2dzR0?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
+      "id": 1761,
+      "titulo": "Fiscalía cita nuevamente a Eva Ferrer tras incumplir dos citaciones previas",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "La Fiscalía mantiene una indagación en curso contra Verónica Alcocer por señalamientos de Eva Ferrer sobre transporte de armas y drogas durante su rol de primera dama. Ferrer ha faltado a dos citaciones previas y fue convocada nuevamente para este miércoles, en el marco de una indagación iniciada el 1 de agosto tras audios revelados por Semana.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fiscalia-cita-a-declarar-a-eva-ferrer-tras-escandalo-en-semana-MO42196486",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
+      "id": 1760,
+      "titulo": "Laura Sarabia niega señalamiento de Eva Ferrer sobre presunto 'pacto' con Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "Laura Sarabia, exdirectora del Dapre y excanciller, rechazó las afirmaciones de Eva Ferrer que la vinculan a un presunto pacto con Verónica Alcocer en medio del escándalo de corrupción del gobierno Petro. Sarabia pidió que las denuncias se presenten con pruebas ante las autoridades en lugar de entrevistas mediáticas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/laura-sarabia-niega-senalamientos-eva-ferrer-sobre-pacto-con-veronica-alcocer-MO42192680",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia",
+        "Eva Ferrer",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Dapre (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-13 22:21"
+    },
+    {
       "id": 1759,
       "titulo": "EE.UU. mantiene a Colombia en nivel 2 por trata de personas",
       "categoria": "internacional",
@@ -41060,7 +41393,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-13",
-    "total_casos": 1670,
+    "total_casos": 1684,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
