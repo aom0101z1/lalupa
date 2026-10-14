@@ -221,6 +221,80 @@
   ],
   "casos": [
     {
+      "id": 1790,
+      "titulo": "Analisis cuestiona cifras oficiales de seguridad del gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-10-14",
+      "descripcion": "El Colombiano publica un analisis que contrasta las cifras de seguridad divulgadas por el gobierno De la Espriella con los datos oficiales disponibles, buscando verificar la consistencia de los resultados presentados en materia de capturas y operativos durante los primeros meses de gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2l1SEFYV0dMVHcySzVlUC1MeW5JLXB3MnM4QWRnMktTSjFHZHhaV1dDN1U2NnZhYTd6aHpxUzhSRjM2c2ZRTnBmeVN0QkpPc2UzZlZNVFhtQWJTSGdicXF3TnFkbXA4cnNmenRlekl4c3U4SDZsOGxTOEU1dHJ2eDRBTkozUmRvWGZHTmZkQnFHTVd1bVEwaW8zcERZLTIxLXd5Q1M4cm5oQUdmLUtkOUlZMWtFYzIwQjV4a0FqLUcwMTDSAcgBQVVfeXFMTUljM2VKNnF6UHFtUk9vNi1ha3NZMWZQc1ZvdTg4bnhSc0VlWXllUlpaTm1wLVJzaTNIcWI0dm5mUUJ6bTBqZUVkQkUwblpHSElvQmhmTkZ6WTBxVG5ubS0ybVJ4TlVQRERnVDRYV1AwT3gwLTFNNi1sb3YtSlh2T2NLYWZXcXNtNVJneWdNd1RHUzRTQzNmX00weDdvMVlmYTBrTTJQTmNEcl9RdGJldVV3TUpRdUZMbW1rUEljcnMwWklYQ0dDbDc?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 11:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1789,
+      "titulo": "De la Espriella advierte que el Fondo Milagro no puede convertirse en un negocio",
+      "categoria": "control",
+      "fecha": "2026-10-13",
+      "descripcion": "El presidente Abelardo de la Espriella se pronunció sobre el manejo de los recursos del Fondo Milagro, afirmando que 'ninguna tragedia puede convertirse en un negocio', en medio de cuestionamientos sobre la administración de los dineros destinados a la reconstrucción tras el terremoto del 10 de agosto. El mandatario señaló que su gobierno vigilará de cerca la ejecución de los fondos para evitar irregularidades en la contratación y entrega de ayudas a los damnificados.",
+      "evidencia": "Reportado por ELHERALDO.CO",
+      "fuentes": [
+        {
+          "nombre": "ELHERALDO.CO",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDlmMk9EalNabVpneDdOOWlrYmNQRGFKNGxnc2dJdkVuMTkzbFVuZUFVS09peWplaDRxRFV6ZHVmSWtTd2YxNm9xSTRMUFF4c2FrUVY2dGd4QURPWXN4OFZRR050VkpGcjdyRVItazFLTjJuNmFNWlBVUUl3TGYzYmY5cnl0a2prRlVPc0JjTVJqa3ZJYVc1ekI2TElYVC1EYTEyLWJuN3RSWVpYNGNZRnlScC1UV0U0dnB1ZnA5dFE5d2luNjl1ZXBlTWZJZ0taMnBZTkl5ODVYUE5iODJ5Tg?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 11:11",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1788,
+      "titulo": "Congreso y Gobierno acuerdan destinar $6 billones a la reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-13",
+      "descripcion": "En el marco de la discusión del Presupuesto General 2027, el Gobierno y el Congreso llegaron a un acuerdo para destinar $6 billones de pesos a la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto de 2026, que dejó más de 300 muertos en 15 departamentos. La cifra se suma a los recursos ya entregados por el Fondo Milagro y busca financiar obras de infraestructura, vivienda y servicios públicos en las regiones golpeadas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmhRSTBnSzR1YmdncmNTSHlVQ2d1c1B5ZWdmSDJmajcyVHhSQ0VMN0MxLXJ2cjgxOVhFRHNQb2JYNms0TjItN091TExaNWhUQnpnS2xUMUZYbFVIQUNXVGtKUVNyRDhOOGtTbWhDWlladC1TVFdYQmNyUzRXNWFQSDQySGtWc1NJYlM4LXdyZEJHdWdmcWt3cGItU3BZR29DM2NCakhhbkJzTlB1YmRTTkxmdFhjNE00T0x4cW5rWHdHbHBDZTNHMW51RzRmR3Uw0gHWAUFVX3lxTE91ZzJCWGZUT3ZhNFM0VGkxMktfN0lvUTlOS051SU85Y0NrSGlUY3ZIa3paOU82SHQ5emNPUUhjd0tjYzhDaXFIeVhzcGJybkl1MlUySm5rR2NkQmZWN0dObVg4ZmotMDd0b0ZQV3FvM2hRRzY0c3ZkMm1sRDhfR2l6bEwwYzhtVFBEdlFUQUN1eXFWend5d0NTXzhrLU0taElRT21ILUEtSmVtcXFCWDFmY0hYanJOZ0tPdF91VmdCQUh2UTJpQTFOWk1TLUtjZ2hlcjhtTnc?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 11:11",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1787,
       "titulo": "Informe de inteligencia revela poder regional de grupos armados en Colombia",
       "categoria": "seguridad",
@@ -41719,7 +41793,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-14",
-    "total_casos": 1698,
+    "total_casos": 1701,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
