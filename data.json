@@ -221,6 +221,384 @@
   ],
   "casos": [
     {
+      "id": 1815,
+      "titulo": "Sometido a la justicia revela arsenal de 'Iván Mordisco' en Guaviare",
+      "categoria": "seguridad",
+      "fecha": "2026-10-14",
+      "descripcion": "La información entregada por un disidente sometido a la justicia permitió descubrir un arsenal de la estructura 'Martín Villa', vinculada a 'Iván Mordisco', en Calamar, Guaviare. Tres integrantes señalados de esa estructura abandonaron el grupo armado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-informacion-de-un-disidente-que-se-sometio-a-la-justicia-permitio-descubrir-un-arsenal-de-ivan-mordisco-en-guaviare-3593537",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Mordisco"
+      ],
+      "entidad": "Fiscalía General de la Nación / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1814,
+      "titulo": "Demanda por nacionalidades 'exprés' otorgadas a Eva Ferrer, Manuel Grau y Xavier Vendrell",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-14",
+      "descripcion": "El representante José Jaime Uscátegui demandó ante el Consejo de Estado la nulidad de las nacionalidades colombianas 'exprés' concedidas a Eva Ferrer, Manuel Grau y Xavier Vendrell, y pidió investigar el proceso que también favoreció al exvicepresidente ecuatoriano Jorge Glas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/representante-jose-jaime-uscategui-demanda-ante-el-consejo-de-estado-la-nulidad-de-nacionalidades-dadas-a-eva-ferrer-manuel-grau-y-xavier-vendrell-3593561",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "José Jaime Uscátegui",
+        "Eva Ferrer",
+        "Manuel Grau",
+        "Xavier Vendrell",
+        "Jorge Glas"
+      ],
+      "entidad": "Consejo de Estado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20"
+    },
+    {
+      "id": 1813,
+      "titulo": "Estados Unidos aportaría tecnología de rastreo a Fuerzas Militares colombianas",
+      "categoria": "internacional",
+      "fecha": "2026-10-14",
+      "descripcion": "Infobae reporta que Estados Unidos llevaría a Colombia tecnología para rastrear movimientos, rutinas y posibles escondites de grupos armados ilegales, como estrategia de las Fuerzas Militares para contrarrestar la coordinación informática de estructuras criminales.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/14/estados-unidos-llevaria-a-colombia-tecnologia-para-rastrear-movimientos-rutinas-y-posibles-escondites-de-grupos-armados-ilegales-asi-operaria/",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1812,
+      "titulo": "Gobierno usa rastreo de celulares y antenas en la selva para ubicar cabecillas armados",
+      "categoria": "seguridad",
+      "fecha": "2026-10-14",
+      "descripcion": "El gobierno implementa una estrategia tecnológica de rastreo de celulares y antenas en zonas selváticas para ubicar los escondites de cabecillas de grupos armados, como parte de la estrategia contra estructuras que suman más de 29.000 integrantes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-operacion-tecnologica-con-la-que-el-gobierno-busca-llegar-hasta-los-escondites-de-los-cabecillas-3593524",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1811,
+      "titulo": "Ejército abate a disidente en Tuluá y destruye explosivos en Jamundí",
+      "categoria": "seguridad",
+      "fecha": "2026-10-14",
+      "descripcion": "El Ejército Nacional dio de baja a un presunto disidente en Tuluá y destruyó seis explosivos instalados en Jamundí, Valle del Cauca. Las acciones estuvieron dirigidas contra los frentes Yair Bermúdez y Jaime Martínez, estructuras armadas con presencia en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-abatio-a-presunto-disidente-en-tulua-y-destruyo-seis-explosivos-instalados-en-jamundi-3593532",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1810,
+      "titulo": "Condenado por caso UNGRD declara sobre venta de licores en Nariño para favorecer campaña de Camilo Romero",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-14",
+      "descripcion": "Pedro Rodríguez Melo, condenado en el caso UNGRD, declaró en el juicio que la Corte Suprema adelanta contra el exgobernador de Nariño por cinco delitos, que la venta de licores en ese departamento debía favorecer a aportantes de la campaña política de Camilo Romero.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/cortes/pedro-rodriguez-melo-condenado-caso-ungrd-declaro-que-la-venta-de-licores-en-narino-debia-favorecer-a-aportantes-de-la-campana-de-camilo-romero-3593534",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Rodríguez Melo",
+        "Camilo Romero"
+      ],
+      "entidad": "Corte Suprema de Justicia / Caso UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20"
+    },
+    {
+      "id": 1809,
+      "titulo": "ANT entrega tractores por $5.493 millones que estaban guardados en bodega",
+      "categoria": "empalme",
+      "fecha": "2026-10-14",
+      "descripcion": "Tractores por $5.493 millones que habían permanecido guardados en una bodega, presuntamente sin entregarse durante el gobierno anterior, serán finalmente distribuidos a campesinos. La directora de la ANT, Lina María Garrido, aceleró los trámites técnicos y administrativos pendientes para resolver la situación.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/tractores-por-5-493-millones-estaban-guardados-en-una-bodega-y-ahora-seran-entregados-a-campesinos-por-la-ant-3593555",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Lina María Garrido"
+      ],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1808,
+      "titulo": "Partidos defienden recortes al presupuesto de la JEP para 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-14",
+      "descripcion": "El presupuesto de la JEP para 2027 sigue bajo escrutinio en el Congreso. Centro Democrático, Liberales, Conservadores y Salvación Nacional defienden los recortes a la entidad de justicia transicional. El director del Dapre argumentó ante la Comisión Legal de Paz que los compromisos fiscales del gobierno impiden destinar más recursos a esta justicia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/presupuesto-de-la-jep-para-2027-sigue-bajo-escrutinio-centro-democratico-liberales-conservadores-y-salvacion-nacional-defienden-los-recortes-3593491",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Dapre / Congreso de la República / JEP",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1807,
+      "titulo": "De la Espriella designa a Edgardo Jaramillo como embajador en Panamá",
+      "categoria": "gabinete",
+      "fecha": "2026-10-14",
+      "descripcion": "El presidente Abelardo de la Espriella designó a Edgardo Jaramillo como embajador de Colombia en Panamá. Su hoja de vida ya figuraba entre los aspirantes a cargos diplomáticos, y uno de sus primeros retos será atender las consecuencias del terremoto en la relación bilateral.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/abelardo-designo-a-edgardo-jaramillo-como-embajador-de-panama/",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Edgardo Jaramillo",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1806,
+      "titulo": "Primera dama Ana Lucía Pineda responde a señalamientos por donaciones tras el terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-14",
+      "descripcion": "La primera dama Ana Lucía Pineda respondió a señalamientos sobre el manejo de donaciones recibidas para los afectados por el terremoto, afirmando 'tengo mi rendición de cuentas'. La campaña 'Colombia, un solo corazón' canalizó ayudas a nivel nacional para las ciudades más afectadas por el sismo del 10 de agosto.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/primera-dama-de-colombia-ana-lucia-pineda-respondio-a-senalamientos-por-donaciones-para-afectados-por-el-terremoto-tengo-mi-rendicion-de-cuentas-3593556",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda"
+      ],
+      "entidad": "Presidencia de la República / Campaña Colombia un solo corazón",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1805,
+      "titulo": "Viuda de Miguel Uribe denuncia que orden de magnicidio salió del Congreso",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-14",
+      "descripcion": "María Claudia Tarazona, viuda del senador y precandidato presidencial Miguel Uribe Turbay, afirmó en entrevista con Noticias Caracol que 'la orden del magnicidio de Miguel salió del Congreso de la República'. Aseguró haber recibido antes del atentado mensajes que advertían sobre un plan contra Uribe y otros políticos del Centro Democrático, y entregó esta información formalmente a la Fiscalía General de la Nación para que se investigue el posible origen político del crimen.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/orden-del-magnicidio-miguel-uribe-salio-del-congreso-maria-claudia-tarazona-CA42246646",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "María Claudia Tarazona",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Fiscalía General de la Nación / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20"
+    },
+    {
+      "id": 1804,
+      "titulo": "Eva Ferrer dispuesta a comparecer ante EE.UU. contra Verónica Alcocer",
+      "categoria": "sanciones",
+      "fecha": "2026-10-14",
+      "descripcion": "Eva Ferrer manifestó su disposición a comparecer ante autoridades de Estados Unidos para ratificar sus señalamientos contra Verónica Alcocer, en medio de las investigaciones sobre presuntos nexos con narcotráfico y manejo de dinero en viajes a Venezuela.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGZ1ME9HMnBiTXVDMk9IaFJRd1JnQkRYdDFsaFZqQkxVbDJrbnJmQzAtdkxLb0FvSW56VVJTRnI4cVFzMEdudEVjZVlCaGI0Nmd6R19CYzVDWExWeFJDZUlyWmlTUkhhSUI1OFpVMzAyZWEwM3RMZHNtQVFicjVheDR3cXpZcklaWEpZdEV3cTBtOURMbUQ2NXFDSFBrWW52LUljSGhsQ0FlUWVxNDFNRDRIU05iU3psZUVySmxfd9IBvwFBVV95cUxNVGZ1ME9HMnBiTXVDMk9IaFJRd1JnQkRYdDFsaFZqQkxVbDJrbnJmQzAtdkxLb0FvSW56VVJTRnI4cVFzMEdudEVjZVlCaGI0Nmd6R19CYzVDWExWeFJDZUlyWmlTUkhhSUI1OFpVMzAyZWEwM3RMZHNtQVFicjVheDR3cXpZcklaWEpZdEV3cTBtOURMbUQ2NXFDSFBrWW52LUljSGhsQ0FlUWVxNDFNRDRIU05iU3psZUVySmxfdw?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Departamento de Estado de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20"
+    },
+    {
+      "id": 1803,
+      "titulo": "Exrepresentante legal de Aremca enfrenta 23 nuevos contratos cuestionados",
+      "categoria": "contratos",
+      "fecha": "2026-10-14",
+      "descripcion": "La Fiscalía destapó 23 nuevos contratos irregulares vinculados al exrepresentante legal de la Asociación de Municipios del Caribe (Aremca), quien se declaró inocente ante los cargos. El caso se suma a investigaciones sobre contratación pública irregular.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/exrepresentante-legal-de-aremca-tendra-que-responder-por-23-nuevos-contratos-que-le-destapo-la-fiscalia-3593503",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20"
+    },
+    {
+      "id": 1802,
+      "titulo": "Circular para garantizar asistencia de funcionarios durante jornada de protestas",
+      "categoria": "gabinete",
+      "fecha": "2026-10-14",
+      "descripcion": "El Gobierno de Abelardo De la Espriella expidió una circular dirigida a entidades estatales para garantizar la asistencia de los funcionarios públicos durante la jornada de protestas del 14 de octubre de 2026, como medida de continuidad del servicio público.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPczNvYkR5Q2lYeEpoRXBrQ05oRmhNXzR6MDF3aXNtbVczakZTbjhrdzRYUXJ4aVZMd3BzSWc0dndiQ0xKM1FpU1hmSXRGZ2tVOXBMUXVvZl9maHVsUTk1SHA3TUxKZkZNU2RmUXo5X1pFU2JrQWJvdGUwcWljcGxBanhzQzhiY1Z3ekN5cHJpNHJvVnQ4UEhHYzIwQXFDUW1GRzBTb3Y5V2duS1RaT1lySXI0RnU2aHFGSS1iSVNFZlNpOE9kU3JKU1kzWHp6ZnhfdHdhREZBWmJqdWN5akw1NDFaWHNpc2lBejZEeTYyRW8xNXFyWGtaVmkzUHpKU2RxdUIzbV9n0gGLAkFVX3lxTE9odXlueVcxZ1ljQnRyRXBLd1RudjJhOWFGcnpfSnF2dUl0djVXT3I2OFdKRkFxMGpwU3NSOTd0aG9wMzU1SkFjMzBIQmxTdjd4QkFoMUFpYlJUNXJ2cnNRZzJ0X01wYXgzb1pqLWFiZ1B2dFJEM1ZzRGJhdjdsRy1OaVRKcURFaDVwNkN0WDZoc3NYX3FURVBtemhrZUREeTBVcDdJaEtzUFBsazNoR3poeWJMWEYyeGtlczF5TGZXa084dUJ3QmpOVXlycXR6MVJkbzNIeXZYRXh6Mk40eVVEV2tIUXRxV2tITGtveWxqaEoxWXBaUTlUUkFCeU9rV0VLNFZTdG0wUlFObw?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1801,
+      "titulo": "Eva Ferrer demanda a Verónica Alcocer y Manel Grau por $641 millones",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-14",
+      "descripcion": "Eva Ferrer presentó demanda civil contra Verónica Alcocer y Manel Grau reclamando $641 millones por supuestos servicios de 'consultoría política' prestados entre 2021 y 2022 bajo un contrato verbal. El caso se suma a la serie de señalamientos cruzados entre Ferrer y el entorno de Alcocer.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/ferrer-tiene-demandados-a-alcocer-y-grau-pide-640-millones/",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer",
+        "Manel Grau"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20"
+    },
+    {
+      "id": 1800,
+      "titulo": "Protestas en Pereira exigen avances en la reconstrucción tras el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-14",
+      "descripcion": "Habitantes de Pereira protagonizaron marchas de protesta exigiendo avances concretos en la reconstrucción de la ciudad tras el terremoto del 10 de agosto, en medio de una jornada nacional de movilizaciones que también incluyó reclamos en Cali, Manizales y Bucaramanga por otros temas.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/asi-van-las-marchas-en-pereira-protestan-por-la-reconstruccion/",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Pereira / Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 21:20",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
       "id": 1799,
       "titulo": "Captura de alias Emilio Zapata, cabecilla vinculado a enfrentamientos armados en Antioquia",
       "categoria": "seguridad",
@@ -42012,7 +42390,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-14",
-    "total_casos": 1710,
+    "total_casos": 1726,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
