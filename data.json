@@ -221,6 +221,332 @@
   ],
   "casos": [
     {
+      "id": 1787,
+      "titulo": "Informe de inteligencia revela poder regional de grupos armados en Colombia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "Un informe de inteligencia elaborado a comienzos del segundo semestre de 2026, al que tuvo acceso El Tiempo, detalla el 'conteo al enemigo' y el nivel de control territorial de los distintos grupos armados ilegales en cada región del país, ofreciendo un panorama actualizado de la confrontación armada durante el gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-reveladores-datos-del-mas-reciente-conteo-al-enemigo-asi-esta-el-poder-de-los-grupos-armados-en-cada-region-de-colombia-3593194",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1786,
+      "titulo": "Colombia se acerca a las 100 masacres con triple asesinato en Caquetá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-13",
+      "descripcion": "Un triple asesinato en Caquetá se convirtió en la masacre número 98 registrada en 2026, la segunda en ese departamento. La cifra ya supera en 20 casos el total registrado durante todo 2025, evidenciando un deterioro de la situación de seguridad bajo el nuevo gobierno de De la Espriella.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/con-triple-asesinato-en-caqueta-colombia-se-acerca-a-las-100-masacres/",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Pública / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1785,
+      "titulo": "Procuraduría investiga a 25 funcionarios por incumplir sentencia de protección a la niñez Wayuú",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-13",
+      "descripcion": "El procurador general Gregorio Eljach confirmó durante audiencia pública de seguimiento al estado de cosas inconstitucional que 25 funcionarios están siendo investigados por incumplimientos a la sentencia que busca proteger a la niñez Wayuú en La Guajira.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-investiga-a-25-funcionarios-por-incumplimientos-a-la-sentencia-que-busca-proteger-la-ninez-wayuu-3593228",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32"
+    },
+    {
+      "id": 1784,
+      "titulo": "Canciller Omar Bula visita Israel e inaugura embajada en Jerusalén",
+      "categoria": "internacional",
+      "fecha": "2026-10-13",
+      "descripcion": "El ministro de Relaciones Exteriores, Omar Bula, llegó a Israel para la inauguración de la embajada de Colombia en Jerusalén, en su primera visita tras el restablecimiento de relaciones diplomáticas, con agenda centrada en seguridad y comercio.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/elkana-bohbot-inauguracion-de-la-embajada-en-jerusalen-seguridad-y-comercio-las-claves-de-la-agenda-del-canciller-omar-bula-en-su-visita-a-israel-3593331",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1783,
+      "titulo": "Asesinan a dragoneante del Inpec en Cúcuta en tercer día consecutivo de atentados contra la institución",
+      "categoria": "seguridad",
+      "fecha": "2026-10-14",
+      "descripcion": "El dragoneante Bryan Rangel Saavedra fue asesinado en Cúcuta tras salir de su turno laboral, en el tercer ataque en tres días contra funcionarios del Inpec. El ministro de Justicia, Iván Cancino, rechazó el hecho y afirmó que no permitirán que la violencia intimide a los funcionarios carcelarios.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/asesinato-inpec-dragoneante-bryan-rangel-tercer-ataque-tres-dias-DG42227015",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Bryan Rangel Saavedra",
+        "Iván Cancino"
+      ],
+      "entidad": "Instituto Nacional Penitenciario y Carcelario (Inpec) / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1782,
+      "titulo": "Fuego amigo entre unidades militares deja dos heridos en operativo contra Clan del Golfo en Caldas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-14",
+      "descripcion": "Dos soldados resultaron heridos en Norcasia, Caldas, tras un enfrentamiento por error entre pelotones de la Séptima y la Quinta División del Ejército que confundieron a sus propios colegas con miembros del Clan del Golfo durante una operación contra el crimen organizado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fuego-amigos-soldados-heridos-balacera-ejercito-clan-del-golfo-caldas-DH42232537",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1781,
+      "titulo": "Congreso y gobierno acuerdan reducir pago de deuda en Presupuesto 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-14",
+      "descripcion": "El Congreso y el gobierno de De la Espriella acordaron bajar en 6 billones de pesos el pago de deuda previsto para 2027, como parte de la estrategia de negociación presupuestal ya prevista por el Ejecutivo.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/congreso-y-gobierno-acuerdan-pagar-menos-deuda-en-2027/",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1780,
+      "titulo": "Departamento del Tesoro de EE.UU. responde sobre investigación de nexos de Verónica Alcocer con narcotráfico",
+      "categoria": "sanciones",
+      "fecha": "2026-10-13",
+      "descripcion": "El Departamento del Tesoro de Estados Unidos reaccionó ante NTN24 sobre la investigación por presuntos nexos de Verónica Alcocer, exprimera dama, con el narcotráfico, en medio de las denuncias que han surgido tras el escándalo destapado por Eva Ferrer.",
+      "evidencia": "Reportado por NTN24",
+      "fuentes": [
+        {
+          "nombre": "NTN24",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNYnJTLUtEcmhCN0R4NEZVM3g0cVU1dXdGaWJjY3pzWkV6dzMwNkNJNjBjd29ydjVEUTVUNUI4RWp5amxVQ05pSi1JaEFwcTU1cDhja21USkpwcUlLdHYyUWRjTmRKRXJkUVdQb2E1YVBUdTVDMjhEWm16OFRWLXE2ODNXM3c4emlLUmxZejJneU9qUFM1Um41SUlTamhaX2hGc3Y5UG5LeTZ4bllZVGZ3Q2wtZTB2R243Q1FydHhKTVYwNkRuMmJKYzNIS0h2RW1GTnRoQ1EzeDI4RjVEZmlLTi0talM2SVNJVGZtMUhYZnpSNDItM194a3UtT3JPdm9iMlpBMHYyRm12cExNTDRubTlLZURjMUdfMjhzTTlGOGZGUm9IVE5R0gGnAkFVX3lxTE9iRGYxNEV3V21rZnd5R0NEOTNGYy1sUHRNUW5TWlpHSTAtSEsxOUUxWHl4TmthNHJQY3QyUnJxQnhlUXc2WXJuZkF1SXIwSEFIcWg2Z1RVS2dPcnVRbVpJdFQxeDdwNGlQWThRUWFuTW80ZGNmUXphRGxYU1F6TzlLTk1HU3JUV2ZRczhVejZmQjZOZWNQbE03QTBTMXk1cFYxczhVZlQzamVOZVEwdURfT2R5SUY3UG0zTk1rMmowMGc0SFEyMTk0TUVUSGx3QnpHdjNkaDh4WW1SamJqeFNpZkczb1pjaDVqSlYtYUZyVFFmeVNQTHlVdV9zRnFyME1OVU9PNzhrVHcxYVdUREMyV29rWHJ0MUdXZjdEczY5U3dMbmUwWGs?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "Departamento del Tesoro de EE.UU.",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32"
+    },
+    {
+      "id": 1779,
+      "titulo": "Perfiles y relaciones políticas de los nombrados en juntas directivas de empresas del Estado",
+      "categoria": "gabinete",
+      "fecha": "2026-10-13",
+      "descripcion": "Una investigación detalla los perfiles y relaciones políticas de las personas designadas por el Ejecutivo en las presidencias y mesas directivas de las empresas del Estado durante el gobierno de Abelardo De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-quien-en-las-presidencias-y-mesas-directivas-de-las-empresas-del-estado-durante-el-gobierno-de-abelardo-de-la-espriella-3593334",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Empresas del Estado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1778,
+      "titulo": "Tribunal ordena a Carlos Carrillo rectificar acusaciones sin pruebas contra Carlos Trujillo",
+      "categoria": "mentiras",
+      "fecha": "2026-10-13",
+      "descripcion": "El Tribunal Superior de Bogotá ordenó al exdirector de la UNGRD, Carlos Carrillo, rectificar públicamente las afirmaciones con las que vinculó al excongresista Carlos Andrés Trujillo con presuntos actos de corrupción en esa entidad, luego de que declaraciones judiciales desmintieran los señalamientos mediáticos sostenidos durante meses.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/tribunal-ordena-carlos-carrillo-rectificarse-acusaciones-sin-pruebas-contra-carlos-trujillo-DG42225600",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Carrillo",
+        "Carlos Trujillo"
+      ],
+      "entidad": "UNGRD / Tribunal Superior de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32"
+    },
+    {
+      "id": 1777,
+      "titulo": "Grupo Urbina dona $20.000 millones al Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-10-13",
+      "descripcion": "El Grupo Urbina realizó una donación de $20.000 millones al Fondo Milagro, destinados a la reconstrucción de las zonas afectadas por el terremoto de magnitud 7,4 del pasado 10 de agosto, que dejó más de 300 muertos en 15 departamentos.",
+      "evidencia": "Reportado por LA RAZÓN.CO",
+      "fuentes": [
+        {
+          "nombre": "LA RAZÓN.CO",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW5OUmk0cnlrSkRKNUZaSHJfemdVM3o4cnI4VXBBLUZqMWppY0NlNFg2TGhvNW1YTVlfXzl3VDFQVWMxN2FRWWthSXlfUWEyRDVtcy1sSy05OEF4THg0V1NxNF9GZUN3S3E2Vlk1OEcwVzJfcm5KQVJMV1ZKX3ZiNVNET016MVdDX2dMSlI2LWdaZXVMaFdTYmpKQi0zM3JQajhIV3Fma2VPU1NBMEQwU0owQi1VY0FKLV9wZg?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Grupo Urbina",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1776,
+      "titulo": "Gobierno De la Espriella impulsa proyectos de agua en La Guajira",
+      "categoria": "obras",
+      "fecha": "2026-10-14",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció que busca reactivar proyectos de infraestructura y mejorar el acceso al agua potable en La Guajira, departamento con históricas carencias en este servicio, como parte de su agenda territorial.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVlVxRkdGLTVKQzJleEw5cllaVlFFVUJPWVlxZ015akR0SzVibTZnOEhFYWJtTFNtczBhZmE1LUhmbjd6ZkZuRXFoYkhOUVlhNnBhRVZtU2xxWFQyTjVlMDFaRzQxdGZqSzJqTlVubWI5djNyMjh6YzJORmo0Q1N0OTY5S2hKR0hVQWNFbXBEek5ObW9MWTZCYTgyVVpva0JJY1VNdXBDbV85Z0t6Qk9iZjhGa3Y0WU1makpYb1dERHU2QkY3VnRnbkxZSlFMaURoOV85YWtmUThoazZWRmxKbHVjSmZURHNfSDNQb2ttajPSAfYBQVVfeXFMTS1Nd0VWUVhLaE9pUHBvYkN2V3dpR2FOS3pnZU5hSkgxNG1OalJlRFcxQzdvc0x5bk51OUc3ZnZaSXYydWpXZ3VUUjBzTUFIOTJvV3V4VlMtbG8yUlFSQ242T1c0cm9WMHBIT3dETHhHZnk1U2JPdVhWbWhlYjJKSHlVdHNjVnhiZ3lyR0lVTFdjekxIWXlXYkVWbjNwS0tWVW1KeWhkZEF4VTc0QVN4bVppeHI3UzRCNDdhT1o2d2tYaVY0VUVuUUdrTnoyVzlhMjF0VkV1Ukxfc2ExR0hqZHUyenBNWWZkYkswLS1xMlBPMUl6VlN3?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1775,
+      "titulo": "FAC anuncia inspección de vuelos de Verónica Alcocer por denuncias de tráfico de drogas y dinero",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-13",
+      "descripcion": "La Fuerza Aérea Colombiana (FAC) anunció que inspeccionará los vuelos oficiales en los que viajó Verónica Alcocer durante el gobierno Petro, tras denuncias de presunto transporte de drogas y dinero reveladas por Eva Ferrer. La medida se suma a las investigaciones abiertas por Procuraduría y Fiscalía sobre los viajes de la exprimera dama.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmJ0OGRTV3NyMkptV0F4Z3haMHUybnNyRk94Xy1xQW9ZMm5HMi1zTWFZSVhURnItRE15ZG9nbVlCWW0yN21Qbk15TWExenlqX0xnTmRyLUc4NjJQWGdmbmVGeWwyM0UyMml4bGRlY2pHNVBzTmsxTmhxSk5fd0NuSlh3Z3lSSkRWS0dQLTdlNmRGbEdzNV9xR3JDbXBwVTNacHpmZzFlY1hPNFdUekJBODc0REVBYmtSNUkyZEhxcUFXeTNnWkZMVVZhM0ZkTWZNNzVKZ2JzX3dtdk3SAeABQVVfeXFMUHpxTXNSU05pNmRHa2pFMmY3eG5vTExWRVNsbll2RnRfcWZaU1FOMmxteGRKUnZlNmY0UG1jLVc5bmc3SXVrdWlmb0pvU0NPVGNObjFYQjF2WEpVY0RvanVienZhNURGdkJOb2tMbW5MMkMxYmV5REJ2WnZUSGNDczRvWjFTYjNyeEh3RDlCZmtJR3d1aFphWmY5T2UwR01HaXU2X2RDYWJlalFqSFp5Tm90TWg4U1lBOEVxclMwMnBYakc5U3VGXzJrVE5QQ3FmRmszU0dlU2dfZ0VOdTBMNVk?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fuerza Aérea Colombiana (FAC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32"
+    },
+    {
+      "id": 1774,
+      "titulo": "De la Espriella reporta avance en entrega de primeros recursos del Fondo Milagro a regiones afectadas",
+      "categoria": "avances",
+      "fecha": "2026-10-13",
+      "descripcion": "El presidente Abelardo de la Espriella explicó cómo avanza la entrega de los primeros recursos del Fondo Milagro a las regiones golpeadas por el terremoto del 10 de agosto, afirmando que la distribución de fondos 'es una realidad'. El anuncio se dio en el marco de su balance de dos meses de gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNRjk5RU11ekR0TXFuYktoV0RmSTdLSFFvOTExZnhqcnVpVUZPMTk2YzhiVzR2VjdQUEZmS2V5cW44SExvNWY2WGRjb29ha0dFTXlic0pnSlBjQ1Bsc0ZrYVlydDh3dWJhNlZuVFJXTk1weUwyVTRCeFI2aDhJdTB4X2ZuVkZjdXp6Z1h4MEh6TVAzcE1uWGpxamc1eFlPSjlpejlTR2h3Z1B3NWNIeVdVTGFlcmxVeVpmTUtkRXB2ZWpWRmJac19LazYyVlRCeG9LU0FFcGN2bHNCVldFWXEwNTdVMG9sN0YzazJQX2tEQURlRkl6VWNuYkFoSUkydGxzOWRkaXowTzRMR2FYaTI4NTV5aDlTOHZKcEhzZS05V21iSUQxVHVpTFpLM3LSAccCQVVfeXFMUE5BalFtV25tY0VMY2EybmpMdWx5bmZULU1Jem1jX0c4cmJzbE9DaFRqc3RSRElwNXlYTHl2eVB6OE8ydWhiM1JraDNIUG1QWk5jT0NVTlJ1UldYSkRfS09xdnFSdXNTOXE5SXhiQkNJQ00ycktHSGJNa2hvRnQ1QW5SOWR0aS05QW9XczVjQVcyTlJLQTdQQUlGOFZzZlBLSEc3UmEyWDRNZjhRRWx0SGV2Ymh1STFzZkdyTzUybzgwaGxHdW1FZGpmUHpNSy1sZEl6ajEtUl9ST0xFdUVfMndKX0p3UzZvZmhxT29WX1V5TDJPQUtwdFJYa0JtTEVKLTJZd2pValpYb2FIM1J1Mld1SDV4c3g4RHB6anIwUEJ3ZmkyVVByTU9hbmcwQ1pXcXFLR0dNQndxTU44VDVHZ1JORHB5bVR3?oc=5",
+          "fecha": "2026-10-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-14 03:32",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1773,
       "titulo": "Registrador Penagos defiende tutela contra Petro por presunto fraude electoral",
       "categoria": "mentiras",
@@ -41392,8 +41718,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-13",
-    "total_casos": 1684,
+    "ultima_actualizacion": "2026-10-14",
+    "total_casos": 1698,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
