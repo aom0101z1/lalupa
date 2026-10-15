@@ -221,6 +221,74 @@
   ],
   "casos": [
     {
+      "id": 1824,
+      "titulo": "Dapre anuncia cierre de ZUT de Putumayo pese a fallo judicial que ordena suspender el desmonte",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-14",
+      "descripcion": "El comisionado de paz (e), Carlos Andrés Ríos, informó a la Comisión Legal de Paz del Congreso que la Zona Única Transitoria (ZUT) de Putumayo, creada bajo el esquema de Paz Total del gobierno Petro, será cerrada en dos meses pese a un fallo que ordena suspender el desmonte durante seis meses, argumentando falta de presupuesto.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/director-del-dapre-anuncio-cierre-de-zut-de-putumayo-en-dos-meses-pese-a-fallo-que-ordena-suspender-el-desmonte-durante-seis-no-tengo-presupuesto-3593599",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Ríos"
+      ],
+      "entidad": "Dapre / Comisión Legal de Paz del Congreso",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 10:52"
+    },
+    {
+      "id": 1823,
+      "titulo": "Gobierno De la Espriella prepara ley para eliminar el 4x1000",
+      "categoria": "economia",
+      "fecha": "2026-10-14",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció la preparación de un proyecto de ley que eliminaría el gravamen a los movimientos financieros (4x1000), como parte de una reforma económica que busca reactivar la bancarización y el consumo en el país.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHFxZUt4TE9EQVhVMGhjMWRHaDFNbkYtaWZHSUtnRVIzd3F0SWwzZ1FLYlh1YVNsNEoxT1RrZHhtVmhQaEl1OFAyRk5Cd0RvamZrSTZGMHJRcGNkVWRtVjhLNGJsaFg4ZUZhemtSdlFHT0VxV05HZndRb3BTSE95T0tILWgzT1VSTkZycHZnQjRkdEg4QXE2Q2F1dm9VanRvSU8tb3FESURsdXlqVWF6cXJ4cHN6a2lTbGMtUS1iQW9xb1hiSG92bFZuR1Jfd1RzaUxuN3BXRERVSGdwdm5GZUF3V182NUtRM0tiaFJHbHozc19aUFE?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 10:52",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1822,
+      "titulo": "Notarías rurales en riesgo de desaparecer por falta de planeación presupuestal del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-15",
+      "descripcion": "El gremio de Notarios Subsidiados de Colombia denunció que cerca de 500 notarías ubicadas en zonas alejadas y conflictivas del país están en riesgo de desaparecer por una presunta falta de planeación presupuestal acumulada durante el gobierno de Gustavo Petro. El gremio pidió ayuda a la Superintendencia de Notariado y Registro y al nuevo gobierno de Abelardo de la Espriella para evitar el cierre de estas oficinas que prestan servicios esenciales en territorios apartados.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/notarias-500-en-riesgo-desaparecer-finanzas-piden-ayuda-gobierno-MD42277586",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Notariado y Registro / Notarios Subsidiados de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 10:52"
+    },
+    {
       "id": 1821,
       "titulo": "Revelan que esquema de seguridad de Petro solicitó militares armados en el tejado del Congreso",
       "categoria": "abuso-poder",
@@ -42530,7 +42598,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-15",
-    "total_casos": 1732,
+    "total_casos": 1735,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
