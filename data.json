@@ -221,6 +221,146 @@
   ],
   "casos": [
     {
+      "id": 1821,
+      "titulo": "Revelan que esquema de seguridad de Petro solicitó militares armados en el tejado del Congreso",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-14",
+      "descripcion": "Se reveló que la presencia de militares armados en el tejado del Congreso, criticada por intimidar las marchas, fue solicitada por el esquema de seguridad del expresidente Gustavo Petro para su protección personal, generando cuestionamientos sobre el uso de la fuerza pública durante su gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/militares-armados-en-el-tejado-del-congreso-fueron-solicitados-por-esquema-de-seguridad-de-gustavo-petro-para-su-proteccion-esto-se-sabe-3593616",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Congreso de la República / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 03:10"
+    },
+    {
+      "id": 1820,
+      "titulo": "Eva Ferrer pone condiciones para declarar ante la Fiscalía tras recibir amenazas",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-14",
+      "descripcion": "Eva Ferrer, actualmente fuera del país, condicionó su comparecencia ante la Fiscalía a la existencia de garantías de seguridad tras presuntas amenazas recibidas luego de la revelación de audios comprometedores. Su abogado, Jhony Batalla, se reunió con la fiscal encargada para coordinar un esquema de protección que permita la diligencia testimonial relacionada con las denuncias contra Verónica Alcocer.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eva-ferrer-cuales-son-condiciones-para-declarar-fiscalia-amenazas-CB42256949",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Jhony Batalla"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 03:10"
+    },
+    {
+      "id": 1819,
+      "titulo": "Gobierno expide nuevos lineamientos para la consulta previa",
+      "categoria": "transparencia",
+      "fecha": "2026-10-15",
+      "descripcion": "El gobierno de De la Espriella emitió una directiva que establece nuevas etapas para los procesos de consulta previa, elimina el test de proporcionalidad y otorga mayor independencia a la Dirección de la Autoridad Nacional de Consulta Previa (Dancp).",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-dio-nuevos-lineamientos-para-la-consulta-previa/",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Dancp",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 03:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1818,
+      "titulo": "Ataque con drones del ELN deja nueve militares heridos en San José del Palmar, Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-10-15",
+      "descripcion": "La Décima Quinta Brigada del Ejército reportó un ataque con aeronaves no tripuladas cargadas de explosivos atribuido al frente Ernesto Che Guevara del ELN, ocurrido el 14 de octubre en San José del Palmar, Chocó, que dejó nueve uniformados heridos. El Ejército anunció refuerzo de operaciones en la zona.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ataque-al-ejercito-en-san-jose-del-palmar-choco-KC42267379",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 03:10",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1817,
+      "titulo": "Retiran de la Policía al coronel Carlos Feria por caso de chuzadas a niñera de Laura Sarabia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-15",
+      "descripcion": "El coronel Carlos Feria, exjefe de seguridad del expresidente Gustavo Petro, fue retirado de la Policía Nacional. Está imputado por peculado por uso, abuso de función pública y constreñimiento ilegal en el escándalo del polígrafo aplicado a la niñera Marelbys Meza, empleada de Laura Sarabia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/carlos-feria-retirado-policia-coronel-relacionado-chuzadas-laura-sarabia-AD42270880",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Feria",
+        "Laura Sarabia",
+        "Marelbys Meza"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 03:10"
+    },
+    {
+      "id": 1816,
+      "titulo": "Exedecán de Verónica Alcocer denuncia por calumnia a Eva Ferrer",
+      "categoria": "mentiras",
+      "fecha": "2026-10-14",
+      "descripcion": "La capitana Kelly Daniela Lozano, exjefa del esquema de seguridad de Verónica Alcocer, presentó una querella ante la Fiscalía contra Eva Ferrer Galcerán por presunta calumnia, luego de que esta la vinculara con supuestos hechos de tráfico de drogas y armas. El abogado de la uniformada radicó el escrito formalmente.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/kelly-lozano-querella-eva-ferrer-presunta-calumnia-MB42251915",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Kelly Daniela Lozano",
+        "Eva Ferrer Galcerán"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 03:10"
+    },
+    {
       "id": 1815,
       "titulo": "Sometido a la justicia revela arsenal de 'Iván Mordisco' en Guaviare",
       "categoria": "seguridad",
@@ -42389,8 +42529,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-14",
-    "total_casos": 1726,
+    "ultima_actualizacion": "2026-10-15",
+    "total_casos": 1732,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
