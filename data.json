@@ -221,6 +221,486 @@
   ],
   "casos": [
     {
+      "id": 1859,
+      "titulo": "Colombia se retira del Grupo de La Haya tras visita del canciller a Israel",
+      "categoria": "internacional",
+      "fecha": "2026-10-15",
+      "descripcion": "El canciller Omar Bula anunció el 15 de octubre de 2026 el retiro oficial de Colombia como Estado miembro y copresidente del Grupo de La Haya, alianza internacional creada en enero de 2025 por países como Bolivia, Cuba, Honduras, Malasia, Namibia, Senegal y Sudáfrica, cuyo objetivo según Bula era 'aislar y atacar a Israel'. La decisión se produce tras la visita del canciller a Israel y el reciente traslado de la embajada colombiana a Jerusalén.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colombia-anuncio-su-retiro-del-grupo-de-la-haya-tras-su-visita-a-israel-EF42300411",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1858,
+      "titulo": "De la Espriella respalda a la congresista republicana María Elvira Salazar en EE.UU.",
+      "categoria": "internacional",
+      "fecha": "2026-10-15",
+      "descripcion": "El presidente Abelardo De la Espriella manifestó su apoyo a la representante republicana María Elvira Salazar, quien busca la reelección en su curul por la Florida. La medida generó cuestionamientos de congresistas demócratas en Estados Unidos, uno de los cuales, miembro del comité de asuntos exteriores de la Cámara, calificó el respaldo de 'inaceptable' por tratarse de una injerencia de un mandatario extranjero en política interna estadounidense.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/abelardo-apoya-a-maria-elvira-salazar-y-lo-cuestionan-los-democratas/",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "María Elvira Salazar"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1857,
+      "titulo": "Congresistas denuncian 'mico' en Presupuesto 2027 que mezcla fondos de orden público con atención de desastres",
+      "categoria": "dineros",
+      "fecha": "2026-10-15",
+      "descripcion": "Legisladores de distintas bancadas denunciaron un presunto 'mico' en el Artículo 91 del proyecto de Presupuesto General 2027, que mezclaría recursos destinados al 'control del orden público' con partidas para la atención de desastres, entre ellos la reconstrucción tras el terremoto. Los congresistas impulsan una proposición para modificar el artículo antes del 20 de octubre de 2026, fecha límite para presentar cambios, por temor a que se desvíen o diluyan fondos destinados a los damnificados.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/congresistas-denuncian-un-presunto-mico-en-el-presupuesto-2027-que-mezcla-recursos-para-el-control-del-orden-publico-con-la-atencion-de-desastres-3593790",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1856,
+      "titulo": "Netanyahu elogia a De la Espriella tras inauguración de embajada colombiana en Jerusalén",
+      "categoria": "internacional",
+      "fecha": "2026-10-15",
+      "descripcion": "Colombia inauguró el 14 de octubre de 2026 su embajada en Jerusalén, convirtiéndose en uno de los pocos países con representación diplomática allí. El primer ministro israelí Benjamín Netanyahu elogió públicamente al presidente Abelardo De la Espriella por la decisión, calificándola de 'gran valentía y visión'. La medida se enmarca en el acercamiento del nuevo gobierno colombiano con Israel.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Benjamín Netanyahu"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1855,
+      "titulo": "Golpe a red de narcotráfico internacional en La Guajira con 13 capturados",
+      "categoria": "seguridad",
+      "fecha": "2026-10-15",
+      "descripcion": "Un operativo de inteligencia naval permitió la captura de 13 personas vinculadas a una red de narcotráfico internacional, con procedimientos realizados en Maicao y Manaure (La Guajira) y Palmito (Sucre).",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-red-de-narcotrafico-en-la-guajira-deja-13-capturados-se-3593836",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Armada Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1854,
+      "titulo": "Captura y expulsión de alias 'Chachi', cabecilla del Tren del Llano",
+      "categoria": "seguridad",
+      "fecha": "2026-10-15",
+      "descripcion": "Autoridades colombianas capturaron y expulsaron a Romer Eduardo Rodríguez, alias 'Chachi', cabecilla del grupo criminal venezolano Tren del Llano, quien registra decenas de expedientes judiciales abiertos en Venezuela.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/atencion-colombia-captura-y-expulsa-a-alias-chachi-uno-de-los-cabecillas-del-grupo-criminal-venezolano-tren-del-llano-3593848",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Romer Eduardo Rodríguez"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1853,
+      "titulo": "Tarazona acusa a Petro de posible crimen de Estado en magnicidio de Miguel Uribe",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-15",
+      "descripcion": "María Claudia Tarazona, viuda de Miguel Uribe Turbay, afirmó que con las líneas de investigación de la Fiscalía el magnicidio podría constituir un crimen de Estado, y señaló que el expresidente Gustavo Petro aún debe dar explicaciones sobre su viaje a Malta.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/con-las-lineas-de-investigacion-que-tiene-la-fiscalia-esto-procede-para-ser-un-crimen-de-estado-tarazona-sobre-magnicidio-de-miguel-uribe-turbay-3593827",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "María Claudia Tarazona",
+        "Gustavo Petro",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58"
+    },
+    {
+      "id": 1852,
+      "titulo": "Ministro del Interior radica reforma contra la 'mermelada' parlamentaria",
+      "categoria": "transparencia",
+      "fecha": "2026-10-15",
+      "descripcion": "El ministro del Interior, Rodrigo Lara Restrepo, presentó un proyecto de acto legislativo para transparentar las gestiones parlamentarias por recursos regionales, reglamentar el lobby y establecer sanciones por ocultar información sobre financiación de campañas.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/15/gobierno-busca-acabar-con-la-mermelada-el-ministro-del-interior-radico-una-reforma-constitucional-para-velar-por-los-recursos-publicos/",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara Restrepo"
+      ],
+      "entidad": "Ministerio del Interior / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1851,
+      "titulo": "Fiscalía indaga nuevas pistas sobre planeación del magnicidio de Miguel Uribe",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-15",
+      "descripcion": "La Fiscalía adelanta labores de policía judicial para establecer el origen y autenticidad de un correo electrónico enviado por María Claudia Tarazona, viuda de Miguel Uribe Turbay, con información sobre la presunta planeación del magnicidio, remitido el 3 de septiembre.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/miguel-uribe-turbay-la-fiscalia-ya-indaga-nuevas-pruebas-entregadas-por-maria-claudia-tarazona-EM42287560",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "María Claudia Tarazona",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58"
+    },
+    {
+      "id": 1850,
+      "titulo": "De la Espriella ordena retirar imágenes de Carlos Pizarro de espacios públicos",
+      "categoria": "gabinete",
+      "fecha": "2026-10-15",
+      "descripcion": "El presidente De la Espriella ordenó a la ministra de Cultura, Paola Holguín, retirar y no usar imágenes públicas del exlíder del M-19 Carlos Pizarro, argumentando que se hacía apología al terrorismo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/presidente-abelardo-ordena-retirar-imagen-publica-carlos-pizarro-m19-AN42299584",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Paola Holguín",
+        "Carlos Pizarro"
+      ],
+      "entidad": "Ministerio de Cultura / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1849,
+      "titulo": "Fondo Milagro inicia operaciones con $624.000 millones para reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-10-15",
+      "descripcion": "El gerente del Fondo Milagro confirmó que la entidad iniciará operaciones con $624.000 millones destinados a la reconstrucción de las zonas afectadas por el terremoto, detallando las fuentes de financiación de estos recursos.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSk5ieXVKRUNTa2NTMVJoUU5iUlhDazFkUUZSQXI4REFKRXA0TGdySVZMVGlFUm1NSkV5Y2YyR3QtdkhITjRpZUFQS3duM1JEYkdINHFSVGJTWlc3R2QwaHJiLXoyYThldndUWHlpZ0dBTFdyQXBDZDBSS3ZIWDRaSDcxVjYxbFRJWUlsRmlPSjBfR3h0cDZ4UlpkejU3ZzJ1ak5FNXpENGNzX29KNVhySFlVcTM1MHVBWFpEbkxhc3FsUDBidnAxQ3RGRkVqZUxEdFpYTUVlY2xsVndjTjJtdHA3ZTAxazYzY3lpZlNnZ0tWSjNLdFBsbzlHNVFFTXViVExJNC1LT3hBWVpWQUgwcVMxNWw4T0ZCNVl1MXNUSENZWkdaU0NKOFNYdGzSAccCQVVfeXFMTUkwTGw2M0Nnd3J1UktQUEhLZ3FDeER0YmxzMDNHUjRkb0xXNGwyQkFiZXhRV0lmVDdCclNTN0h5T3phTi16SDZybnFCU3daREZicDlhVnZPWjVIOXZpQUJ3VzE0M1MxODh5VEhKb2YyQWlDMVJZNnpGRlZfUDVzQ3VqVjVUT2NVaHZQSVUwc2I2SFkzZURRaFUxcUJUeDNMdFVBSTFNMmdXcUJhWVVUZUFpSnpLM09OaGRmZ0lUS2M1QmlzRV9ZaTNBenNmZlVpQ19IWnl5SU1weTFmVHVibWtnT3BpeWhCSklTLUdBT291Z2VIQzRXdGVabmVHOWcyLVNfMnJ2OXplYWtDeGxrVW94WWtCd05WMGQ1azVoUHdacDBsV0wxTDNYd1BZMUw2eTJiMy1ZcC1vazRIU0prejZpVUdYcjBz?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1848,
+      "titulo": "57.000 damnificados en riesgo de quedar sin asistencia humanitaria",
+      "categoria": "damnificados",
+      "fecha": "2026-10-15",
+      "descripcion": "Un reporte advierte que 57.000 personas damnificadas por el terremoto del 10 de agosto podrían quedarse sin asistencia humanitaria, en medio de cuestionamientos sobre la gestión de la emergencia.",
+      "evidencia": "Reportado por Emisora Atlántico 1070 AM",
+      "fuentes": [
+        {
+          "nombre": "Emisora Atlántico 1070 AM",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOElXZHhrVWl1TFYyTUt5Ujl2bldaZFpEbEhuRDgwdTk1QmwyS1RNeDFyT1BybVlQa3BOTHlMUVQ2TlZ6dHpXaXZWRTFNSk9yNEJmTG1EX1ZsMS1pUUlMR0Z6MGNiWFhjOXZpMmk5TUVKZmZLa3VZQ0R3WENhQ0JWZ0dsME5oYnV3RDBMbEVDWE9QNTYyRGlGdXM0QjFpS2ZnaEtvdnlhMGVWa0dvR0M2bjZTcHNjaWtkT2s0TzMxaHpoSlNJZHdsYlZBcXdCUdIB1gFBVV95cUxOVVBzY3JmeHNRX1pnVmVzejJqdzVubjNsQ3NHcUVqeERxdWZFR2RkbVIzUWRyRk5xUzY4M3NBRk1EdHhjZlhBaXhQYlVYeDFXRDJkQnBMalpMeVdDbUF2MF95cWtxNmZSMWpoT0g3NFlENUlZUXZvQnJUTnIyYVpIUUFaT2dQWFNJUGI2VmlnV0cybzl6TTUyRGZmZVlRMXh1MkJ4eDFLWTNVc3E2bU1DeFAxeDBrS29XNzlwbWZzbGdFeFF5M3pKdXNWakxvTHNKeUhVbF93?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1847,
+      "titulo": "Gobierno evalúa restringir pago en efectivo de ciertos bienes",
+      "categoria": "economia",
+      "fecha": "2026-10-15",
+      "descripcion": "El Gobierno de De la Espriella estudiaría restringir el pago con billetes para la compra de determinados bienes, en medio de la compleja situación fiscal del país, según reportes de prensa.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRkk2d1FRd1JPNy02aHRwZnVsWVRHQW5WOVMwbGZtaE41ODBoV2FRWTBGNUI2WUFuSGE1cTlfbnZtaVFzZzJ2UDlwUUoybkZCTGdWSTMzMXFZalhVS0l4UlVDT3FGcUtlSVI3M1MzUHVUTDRabUJZV3JVeGt3djloUG0yNDdCUUdleE5Ic0RxTTAwRTE2TnFxOXpoQThSX2VzQi1UWjZNQ1Y5cHp0OWNaUE95cDhSVi1DSjRLTUIxbjlMbXVoUnZFMFVSRGw4TDNNZVp4U2txVC1JQnBMU3hPSFF4eV96U2lqSDlJZllnNUtFckxzanRTcXlkXzVWLVBo?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1846,
+      "titulo": "Exdirector de la Dian entregará pruebas de tráfico de influencias de Benedetti",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-15",
+      "descripcion": "El exdirector de la Dian, Luis Carlos Reyes, rindió declaración ante la Fiscalía sobre presuntos encuentros con Armando Benedetti para la asignación de puestos en la entidad durante el gobierno Petro. Reyes anunció que entregará pruebas sobre tráfico de influencias que también involucrarían a Adelina Cobo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVldCcjlZOUZ5dGNXTE9OcHdqZEd2T01vSzlQcWJONGM4RUR2aVlET3BXVTZ4OXFBRG1sU3FLU3BuQVk3Z2dJMG8xeEdiSHpUN294QlZNUEROazJMeHZQakxVX2xTUzcxME9ZaXVvNTdHT3BabGpPYW9hUDBqbkNYYkw1cGJlcHk0dUx4dTRDVnFjVE0ybjdqUGdudGtCMGhsUGVuS29DSGlpczNkdjUxN1NJeW1uOE5raVpTV2ZySUtXSFJ4VGpaZGZUbzlVVGVZYldMZy10bFpyTEY4UWJzWXl1cWZJeHZUYThuWWZYeHhaVGZ2SHZMRzYxbW1LZmxaMC14UE4xU1R2WEJYY2lkSDNpVU4zaXNiNEVZcDk2M1kwamwzRUYyRTRscFhLb3lBaVhLN1JBaE5iLWJsNVJsMnU4bmo5VlpuOHI1SlpyUnA2YW1RQklDUHZFUEJ0RnBsa0ZlSDdadjU2V1JB0gGHA0FVX3lxTFBUSVdrdzB6YkRkQ20wek00WWpibmwxRHJVVHNKdFN6b3d3OXIzR256QmdwcGQ1S1pZT3M0UHpEbVNDZVJRNngzTnVIM3FPbUdnazhKZVpqbjZra2ZoRkZLbXZCSUlOdzk5QlhCNWpoWG1fNkt0RE15b2J2NGhYRGpuYXFjanRyMEpjUEc2SFFDNU9TanR6YmVCUEFOS25QRUVWZ1IxMlE1Wm9Vb29PVnpHWnlXUm9rQTl2MXNMQVJlN2lUZG9qb3FPLXNyN3dqdTVhcXMtNERwbEhxR21VaFNVOHZWWDlNaVdqSDV3YXUyaFdXOVpRLVFQSkNMQ01nMjBNSFVOUVgyMHgwa2IxaFhDakl3QW52MUxHNU1oQ2I2djlpQUhoaGI4dHdMRndIcE9mQkxvb211Zl9ROUpFZHBKTVd3OGpyelRYcERrWl9VN25fWGdwQU9UeVkyb2VNOHFkZHNWSDJrQnpzRUM2czVSZnJMdEdMVF9Tb3JxaHJ6X045bFg0czg?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Reyes",
+        "Armando Benedetti",
+        "Adelina Cobo"
+      ],
+      "entidad": "Fiscalía General de la Nación / DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58"
+    },
+    {
+      "id": 1845,
+      "titulo": "Verónica Alcocer radica derecho de petición ante la Fiscalía sobre sus viajes a Venezuela",
+      "categoria": "mentiras",
+      "fecha": "2026-10-14",
+      "descripcion": "En respuesta a los señalamientos de Eva Ferrer, Verónica Alcocer radicó un derecho de petición ante la Fiscalía detallando sus viajes a Venezuela, como parte de su defensa frente a las acusaciones de presunto tráfico de dinero y favores durante el gobierno Petro.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNelo2QWlqWThSRDR2c2xTNEh2RDlvbFppa0lHYTZrU2ZGN1dMMTV1dGgxTGNhNHNndFJFSGxFbkpqcGhQMHBjZUhTb1gxd0RXOHNBbUFqRkxLTDZPT1BiR19XXzRKcXlsTmdEaDY1Wm1oMHpid3RHQi1XNjQ0NVFhZlNWNjZXSTVPMGpGb0JFNkRXNlctUDI5V0d2ZE5yUm56V1JBMkdqUEo3N3VWcll0Rlo4bGJ6Q1BjLUhkMkdIUkJuUVZtSkpoTW1ZWFBYM2VQbXptRF9TcGtTa0dlSDhDT1ZQYkh0YUhWUG03NUZzblotYl9MaGp2QnQwX0t1cW1sWjlaeXNPZFVocTVfTTZfakVNd0t2ZUozSWg3d3phaUF5dw?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58"
+    },
+    {
+      "id": 1844,
+      "titulo": "De la Espriella cambia nombre y enfoque del Ministerio de Cultura",
+      "categoria": "gabinete",
+      "fecha": "2026-10-15",
+      "descripcion": "En su primera visita al Ministerio de Cultura, el presidente De la Espriella anunció que la cartera pasará a llamarse Ministerio de Cultura y Patrimonio, presentando una agenda de 'contrarrevolución cultural' centrada en la protección del patrimonio histórico y religioso, el fortalecimiento de la identidad nacional y el rechazo al 'wokismo'.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contrarrevolucion-cultural-de-aberlado-de-la-espriella-GF42302747",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Cultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1843,
+      "titulo": "De la Espriella anuncia nueva medida de transparencia en ministerios",
+      "categoria": "transparencia",
+      "fecha": "2026-10-15",
+      "descripcion": "El presidente De la Espriella anunció una nueva medida administrativa aplicable a los ministerios, acompañada de un mensaje explícito contra la corrupción, como parte de la agenda de transparencia de su gobierno.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUYtYUVNTVc5ZFE3RXJkaTY1bm9sMXVLSGwxRXVieENEalF0YnhqNDV2d2ROY1g5X3M5YWRmcHRlMDVObC1INTcta2ZVaHNJT3RhY3NMRGhuUV9iSTNFcFhVNTloWGtNZlpmUnhub1huNW16OWZCNk5Id0J6MHhFSkRwaU5jZEQ3Tjh6M2tmX0o4TTdEdk1TZUd4bGZmUDjSAaQBQVVfeXFMUGFjakFsYXpObGdMek9wX0Voel85aThWQm1mWEQ3N2FMUVNMQ1FMUEhDS2RIV0c0aXhQWU1uenI0dFJ0UXRxZFRSdjlzRFhhOWFldWt3OTdQUWtGdXJCU05NNFJmT21qNFc1UGFEYjFudl9pZ0tKTTk0ZV8yTV92MEFFTG1HR3pIX3FkdDVSLUF0d2hVMzNPa0xiaENNS2phTjVESUI?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1842,
+      "titulo": "RTVC denuncia irregularidades por $2.000 millones en unidad móvil inservible",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-15",
+      "descripcion": "RTVC denunció irregularidades por cerca de $2.000 millones en la compra de una unidad móvil durante el gobierno Petro, cuyo costo total superó los $11.000 millones. El equipo fue entregado sin los elementos de energía necesarios para su funcionamiento, por lo que actualmente no puede usarse.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/rtvc-denuncia-irregularidades-por-2-mil-millones-en-unidad-movil-comprada-en-gobierno-petro-y-que-no-se-puede-usar-3593815",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58"
+    },
+    {
+      "id": 1841,
+      "titulo": "Abogado de Eva Ferrer admite desconocer las pruebas de su cliente contra Alcocer",
+      "categoria": "mentiras",
+      "fecha": "2026-10-15",
+      "descripcion": "Jhony Batalla, abogado de Eva Ferrer, exasesora del gobierno Petro, declaró que desconoce las pruebas que su cliente asegura tener contra Verónica Alcocer por presunto tráfico de drogas, armas y dinero entre Colombia y Venezuela. La declaración surge tras la entrevista de Ferrer a Semana y pone en duda la solidez de sus señalamientos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abogado-eva-ferrer-pruebas-veronica-alcocer-PD42276485",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Jhony Batalla",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58"
+    },
+    {
+      "id": 1840,
+      "titulo": "Gobierno acelera reconstrucción con regalías y obras por impuestos",
+      "categoria": "avances",
+      "fecha": "2026-10-15",
+      "descripcion": "El gobierno De la Espriella reporta aceleración en la reconstrucción tras el terremoto del 10 de agosto mediante el uso de regalías territoriales y el mecanismo de obras por impuestos, como fuentes adicionales de financiación para la recuperación de las zonas afectadas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTQ3RHBOeF84QlhpdkE0Wl9QdkdfcUVfWUlMUUlrTmNtdElXTnFSVG5aUmE4V2d3bFI4N0tFemV1ZDhwemozOEpYZkdqUnRoNlFjTFEyNGxPYmVJSm9nYmdHQmRQak9xT2VlU2pPRS1wVTRvUlBjWGp0U2lVcDlYMWdqQmNKODJDdDJrbGJFUnZGY0RBMl9qNm9HTUljNjFYdVBDZk1JRHRhbl8wWGdGY01WVE9vOXNUNVl6UW5fZjdET2xYWWVYTnJRS0ZfTEpndjVPczRWUdIB3AFBVV95cUxNazhoNkh1OHZ2eVh2c2lMUTVDUnBQQTAzLTkzSmFFTGszaE5VMjl3UW5aWW5qQlFNLVRPRGVNSW9VRjJzakR0dk5wWTFvNzd3TGNwS3N2c2dKNXd0WkpvbDJlV0F3LUdnR2ZFQTNEM05XblRiRmtlRm9QUE93V19JR2pfUXF2ekdZODVyaFdqREx6RVNlRVN3UmxXRmpmaEZoT3dCdjE4RGdFamlHWW1HdE9uMXlpSnlXNVY5S05zU3ZLbEJ3UENXbHdvNnpzbGJYa2xVX1hjdmU3Wk9h?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 20:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 1839,
       "titulo": "Fuertes lluvias en Cundinamarca dejan un muerto en Soacha y más de 30 municipios afectados",
       "categoria": "gestion-emergencia",
@@ -42951,7 +43431,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-15",
-    "total_casos": 1750,
+    "total_casos": 1770,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
