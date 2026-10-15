@@ -221,6 +221,359 @@
   ],
   "casos": [
     {
+      "id": 1839,
+      "titulo": "Fuertes lluvias en Cundinamarca dejan un muerto en Soacha y más de 30 municipios afectados",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-15",
+      "descripcion": "Lluvias registradas el 14 de octubre de 2026 dejaron un muerto y dos heridos en Soacha, además de inundaciones y afectaciones viales en más de 30 municipios de Cundinamarca, incluyendo Bogotá y Funza. Se activaron organismos de socorro y puestos de coordinación bajo la gestión del gobierno nacional y local.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/lluvias-cundinamarca-un-muerto-soacha-30-municipios-afectados-GM42288583",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Soacha / Gobernación de Cundinamarca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1838,
+      "titulo": "Estados Unidos enviará cientos de soldados a Colombia como parte de despliegue regional",
+      "categoria": "internacional",
+      "fecha": "2026-10-15",
+      "descripcion": "Según el New York Times, Estados Unidos enviará alrededor de 600 soldados de la 10ª División de Montaña, actualmente con base en Panamá, hacia Colombia en octubre de 2026, en el marco de cooperación militar con el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/estados-unidos-enviara-cientos-de-soldados-a-latinoamerica-nyt/",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1837,
+      "titulo": "Gobierno De la Espriella nombra nuevo embajador en Países Bajos y confirma representantes en España y Venezuela",
+      "categoria": "gabinete",
+      "fecha": "2026-10-15",
+      "descripcion": "El gobierno de Abelardo de la Espriella publicó la hoja de vida de Martín Eduardo Botero como nuevo embajador en Países Bajos, además de confirmar representantes diplomáticos en España y Venezuela, sumando perfiles de abogados y empresarios a su cuerpo diplomático.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-suma-a-otro-abogado-y-otro-empresario-a-su-diplomacia-ya-hay-nuevos-embajadores-para-paises-bajos-y-panama-3593682",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Martín Eduardo Botero"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1836,
+      "titulo": "Gobierno colombiano anuncia apoyo a exmilitares acusados en magnicidio de Jovenel Moïse en Haití",
+      "categoria": "internacional",
+      "fecha": "2026-10-15",
+      "descripcion": "Una jueza del caso del magnicidio del expresidente haitiano Jovenel Moïse pidió aclarar los recursos de defensa de exmilitares colombianos acusados, tras el anuncio de respaldo del gobierno de De la Espriella. Se dio plazo hasta el lunes para que los acusados indiquen si cuentan con medios para su defensa legal.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/jueza-de-caso-moise-pide-aclarar-recursos-de-exmilitares-colombianos-acusados/",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Jovenel Moïse",
+        "Exmilitares colombianos"
+      ],
+      "entidad": "Presidencia de la República / Gobierno de Haití",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1835,
+      "titulo": "Verónica Alcocer rompe el silencio ante señalamientos de Eva Ferrer",
+      "categoria": "mentiras",
+      "fecha": "2026-10-14",
+      "descripcion": "Verónica Alcocer habló públicamente por primera vez sobre las denuncias de Eva Ferrer en su contra, afirmando tener 'absoluta tranquilidad' frente a los señalamientos sobre manejo de dineros y nexos con Venezuela. Es su primera reacción pública tras meses de acusaciones de Ferrer ante la Fiscalía y medios internacionales.",
+      "evidencia": "Reportado por Noticias Caracol",
+      "fuentes": [
+        {
+          "nombre": "Noticias Caracol",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZTZIS3lyNFNNaDJhMVhySFdwaGxuV2p2Y093NTRqVkhSNVBlRWw0a0xzamZFdmkxX0NZVGhTWE1QbmpmeEltUjNVLXdsZDU2TWZGbm9oV0JWVFBQR0NyVVpxaExnTkNCaUpxTUQ0SlM4a292U21tSHp3TjRHUGdCSWZOUXlrU2tlZ21nQTYxOEVYczJiV21jRUdPdldPMFJESHYtR2w0TVlETXNxSTZBMndaSHo1UEc0bmVMSVlxZ0M1NF9Db0Q0YlBpWVplTnpmYnFhQzVlbkhvc0HSAegBQVVfeXFMTjZ1bDMzRUd3bkthODlNQWxfNUtINlVCbWgtNzNFcnRyQTBsTHpRSURPSTRBYWFteWR5VjgtZHJ0djlmdmhWZGpGTDVXYmljcHlxd0ZZdnVBWDl0MEdPUEpzMFhGV3FocUViaDUwVU5wTldmMkRGbnBQbnNuUHNGZGNYS1NjOHdHOXhveVpqTGNHY1ZOQl9sYVVqaF9CX3FSSEt0b0NZQ2dPZXFla1lTdV9qcGhIdzVPM1BEOWo2VUJGRjVhNDRrTXlYUlZDN29qTDZnQ2N5YUJ4ZkVwUXA4ZXlwUFpnSjUybg?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20"
+    },
+    {
+      "id": 1834,
+      "titulo": "Jefe de seguridad de Verónica Alcocer involucrado en escándalo de maletas con dinero en viajes a Venezuela",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-14",
+      "descripcion": "Nuevas revelaciones señalan que el jefe de seguridad de Verónica Alcocer podría verse comprometido por el ingreso de maletas grises con dinero en los viajes de la exprimera dama a Venezuela, ampliando el escándalo que ya involucra a Laura Sarabia y al esquema de seguridad de la Casa de Nariño durante el gobierno Petro.",
+      "evidencia": "Reportado por Las2orillas",
+      "fuentes": [
+        {
+          "nombre": "Las2orillas",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzdTUXlDM3NTSXd2SlFGR2Jub0F6VzJlZGs0NW1pUUpUU2RjRFJlSFBNWS1PTW5TSlpOdGtZcmcxbFltMVI4ZUVEb3JfS043Mmh3bnRpcXdPanduOHJzVF9Sd0xHb2otTkh4RWZsaG1oeDJrMUdpNTgyb1lGUWdwaElrczQwMzNEUjJScG1TRmY2bzgxMF9CNFFyMVdFNFFwRWcxS3piOHhXdXVxcWRSa0xnUnlvNnh3THUwMVZfYw?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "Dapre (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20"
+    },
+    {
+      "id": 1833,
+      "titulo": "Consejo Directivo del Fondo Milagro inicia reuniones sobre reconstrucción",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-10-15",
+      "descripcion": "El Consejo Directivo del Fondo Milagro comenzó una serie de reuniones para definir criterios y prioridades sobre la reconstrucción del país tras el terremoto de agosto, en medio de cuestionamientos sobre la administración de los recursos destinados a las zonas afectadas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzVWUDBONlpKTkFzemdEMEZNNmI4cWdKZWN4WVFIQUtEeEF2R3I0RWxrLXp5blRuZC1WUHpHVWNaOWxRbkgxSDlrbUVPNkZFcXVWbW1hX1ZxMFc2ak16cm15NWcxNUZlZG1pOS01LVFoZzlBZzF1VTRBVi1abmRrUS0zbUVBWFdlcUZZXzYzZjJ3QzBKY1l6ekpxRTU4VGRJXy1wX01wSUZnTlppRjc1R0d0eWlBQdIBuwFBVV95cUxPZjRXU2N3dFYyRTZ2LXZ2V0hpY2tJLU8wRUFPSWZmYUVZVEw0M3RDak9QNDc2M0FKRjQ4aWppbWw2bEsxTkhyV3oyRWFMamNZR1FZSzhEVVU2OWtZN1NQN0Nxb3NuRHlQMHVGRTlQcHlQZHZlYnM4WUNnTWdpZHoyR3pHS04zbjRZTUc4Y1g1a2lITnRPYnJ6bTVScENzaFAxRWZwc203MkQ0VzNDZkJlU3I5aWJPcWxFTzlF?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1832,
+      "titulo": "Hacienda anuncia giro directo de recursos para atender emergencia del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-15",
+      "descripcion": "El gerente del Fondo Milagro informó que el Ministerio de Hacienda girará directamente los recursos destinados a atender la emergencia por el terremoto, buscando agilizar la entrega de fondos sin intermediarios adicionales y dar mayor trazabilidad al manejo del dinero.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUWRkQ2pldjN1RS1TelRSczVxX0lQa1pjVm1YakgzU2s1MTl6X3hXaHNHakJpaVU0Z2gtcm1PRC1pN280NUJSZ3p5ek9PNEdVR0Q1S3NpM2J1TVpmcmVJT3JuRTlCUXViQTBadEhDcjA3SE9EMGlFOWttenpneUFBRVRMTGZTcVJJeEVOaVNjOVdzWm9aYUZDUGVWaGhia1BMYktkQ1h4bEVwRUpzc3hEVHpBRndwcDhkSXFablVyd1JfVjdNTldXVUg3T0h0a2dfV3pNazNIOGlEd2Q5ZXVWRDBHY3UxME9XcXdxZU5ycDZuWXJEbFNrVXY2b9IBgAJBVV95cUxNZEE3OU1XLVdmQ2hwZTRNWnlPeUJ0Y0J0RGF5Uy1rQURxdS12QXBpREtvV1pBVkY3U1hpd3RiMUJoV1JRb1A5ZV9FY1RBOU1ZMDFvcF80R0VQYl9nNzZiMndPaUZNcDd1U1FyV3BxSGJuelQtZDgycVBESmdIWHdWNVhCeE5qRlFIX1BqT01zc0tOdFEtMHJCN25UM1lfTEhxZEVNOGt1M0FBYjFEZkNpOFQxVEl6aHBQVUYwVHlpcFZiOWN6VzVueHlFMDYwMGlwS1E0ZEZ5ZzA2eE1JQ2I3N0pJTUNmZ2V1a0FGNEl5VWJfSmkzY1ZDTTRwZWgwcTFM?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1831,
+      "titulo": "Iglesia del Templete en Cali requiere ayudas para su reconstrucción",
+      "categoria": "damnificados",
+      "fecha": "2026-10-15",
+      "descripcion": "La Iglesia del Templete, patrimonio histórico en Cali, continúa sin recibir los apoyos necesarios para su reconstrucción tras los daños causados por el terremoto del 10 de agosto, evidenciando demoras en la atención a bienes patrimoniales afectados.",
+      "evidencia": "Reportado por Noticiero 90 Minutos",
+      "fuentes": [
+        {
+          "nombre": "Noticiero 90 Minutos",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09pZlRsOHJLZUpkNXAtYjExX3pldlpmcTMyVlRVaG15eDItenA1V3FMbVhiemRCOXUzNzZMRHNGRFVPRkNqeFlqYTh4MzB0eFQ0Y1VwZG5hbzQxNmJMOHhpZkQ0MVlOcEhWd2YtejJvR1FpUFV5ZG96WmY0cnFwMFY0c01xVExFY0FMTWY2bFVBTTZXTXEzOE14blpaOEwzY0FPb1k0VVDSAa4BQVVfeXFMT0xOMWtOT3pJdXdiUklJV3Vla0Zhb294R2E0RV9VYVY0YXRiLUtMTGNwaXJHVFl5blYxZ25MVE93WThsbmwyTmhNSU9SbmxFM2VBQlZEQWE4UFNFMUV2YVQ1MVZZUVBjN3VhZnZkY3E5VHFRRTdmbFhVeG1KUGFBSFZMVDZSRWI4QnJDanhnb3R3cmFmR0h5SjY3bzZKRzhtWmFPYk1NVXc3ZWg2ZktB?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
+      "id": 1830,
+      "titulo": "Gobierno atribuye a Petro la ejecución más baja del acuerdo de paz (4,66%)",
+      "categoria": "empalme",
+      "fecha": "2026-10-15",
+      "descripcion": "El director del Dapre, Carlos Andrés Ríos, presentó cifras del Plan Marco de Implementación según las cuales la administración Petro tuvo la ejecución más baja del acuerdo de paz registrada hasta ahora, con apenas un 4,66% de cumplimiento.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-del-presidente-de-la-espriella-atribuye-a-la-administracion-petro-la-ejecucion-mas-baja-del-acuerdo-de-paz-4-3593712",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Ríos"
+      ],
+      "entidad": "Dapre",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1829,
+      "titulo": "De la Espriella reporta balance de primera jornada de protestas: 98% pacíficas y 6 capturas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-15",
+      "descripcion": "El presidente Abelardo de la Espriella presentó el balance de las movilizaciones de oposición del 14 de octubre, señalando que el 98% de las manifestaciones transcurrieron de manera pacífica, con 62.000 personas marchando y 6 capturas registradas durante la jornada.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-manifestaciones-petrismo-pacificas-capturas-esmad-IM42280844",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1828,
+      "titulo": "Contraloría advierte riesgos millonarios en contratos de mantenimiento de flota de helicópteros",
+      "categoria": "contratos",
+      "fecha": "2026-10-15",
+      "descripcion": "Un informe reservado de la Contraloría reveló irregularidades en contratos de mantenimiento de la flota de helicópteros de las Fuerzas Militares, advirtiendo sobre un posible pago en exceso de $2.130 millones en contratos de defensa adjudicados durante la administración saliente.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-informe-reservado-de-la-contraloria-que-advierte-los-riesgos-millonarios-en-contratos-de-defensa-para-atender-la-flota-de-helicopteros-3593716",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20"
+    },
+    {
+      "id": 1827,
+      "titulo": "Exgobernador Everth Julio Hawkins irá a juicio por escándalo de Aremca",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-15",
+      "descripcion": "La Fiscalía radicó acusación formal contra el exgobernador Everth Julio Hawkins por el contrato para mejorar el islote Haynes Cay, obra avaluada en $11.125 millones, en el marco del escándalo de corrupción de Aremca.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/el-exgobernador-everth-julio-hawkins-ira-a-juicio-por-el-escandalo-de-corrupcion-de-aremca-3593755",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Everth Julio Hawkins"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20"
+    },
+    {
+      "id": 1826,
+      "titulo": "Contratos estatales de Santiago Alcocer, primo de Verónica Alcocer, durante el gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-10-15",
+      "descripcion": "Se documentan los contratos con el Estado obtenidos por Santiago Alcocer, primo de la exprimera dama Verónica Alcocer, durante la administración Petro (2022-2026). La Fiscalía investiga en medio de señalamientos de Eva Ferrer sobre presuntos delitos de tráfico de armas y negocios con Venezuela vinculados al entorno de Alcocer.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/santiago-alcocer-contratos-primo-veronica-alcocer-AM42283535",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Santiago Alcocer",
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20"
+    },
+    {
+      "id": 1825,
+      "titulo": "Transparencia por Colombia: 82% de contratos de reconstrucción se adjudicaron por contratación directa",
+      "categoria": "contratacion",
+      "fecha": "2026-10-15",
+      "descripcion": "El segundo informe de Transparencia por Colombia reveló que de 768 contratos para la reconstrucción tras el terremoto, el 82% se adjudicaron mediante contratación directa, en su mayoría desde el orden territorial. La organización hizo un llamado al Gobierno nacional y a los entes territoriales para fortalecer la transparencia y garantizar el seguimiento público de la ejecución de estos recursos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/reconstruccion-por-el-terremoto-82-de-768-contratos-se-adjudicaron-por-contratacion-directa-la-mayoria-desde-el-orden-territorial-3593729",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Transparencia por Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-15 16:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 1824,
       "titulo": "Dapre anuncia cierre de ZUT de Putumayo pese a fallo judicial que ordena suspender el desmonte",
       "categoria": "abuso-poder",
@@ -42598,7 +42951,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-15",
-    "total_casos": 1735,
+    "total_casos": 1750,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
