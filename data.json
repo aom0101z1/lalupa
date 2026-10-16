@@ -221,6 +221,151 @@
   ],
   "casos": [
     {
+      "id": 1879,
+      "titulo": "MinAmbiente confirma plan para acabar el Fondo para la Vida",
+      "categoria": "economia",
+      "fecha": "2026-10-15",
+      "descripcion": "El Ministerio de Ambiente confirmó su intención de eliminar el Fondo para la Vida mediante una modificación en el Plan Nacional de Desarrollo que permitiría restablecer la exención del impuesto al carbono hasta en un 100%, medida anticipada previamente por La Silla Vacía.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/como-lo-previo-la-silla-minambiente-confirma-que-quiere-acabar-fondo-para-la-vida/",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-16 10:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1878,
+      "titulo": "Encuesta Atlas Intel/Bloomberg muestra caída en aprobación de De la Espriella",
+      "categoria": "opinion-publica",
+      "fecha": "2026-10-16",
+      "descripcion": "La encuesta Atlas Intel/Bloomberg, única medición publicada bajo la ley de 2025, ubica la aprobación del presidente Abelardo de la Espriella en 49%, mientras mejora la imagen positiva de Gustavo Petro y Álvaro Uribe, sus rivales politicos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/aprobacion-de-abelardo-en-encuesta-cae-y-sube-la-de-sus-rivales/",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Gustavo Petro",
+        "Álvaro Uribe"
+      ],
+      "entidad": "Atlas Intel / Bloomberg",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-16 10:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1877,
+      "titulo": "Estados Unidos dice estar al tanto de denuncias contra Verónica Alcocer por narcotráfico",
+      "categoria": "sanciones",
+      "fecha": "2026-10-14",
+      "descripcion": "El Departamento de Estado de EE.UU. se pronunció sobre las denuncias presentadas contra Verónica Alcocer por presunto transporte de dinero y drogas desde Venezuela, señalando que 'están al tanto' de la situación, lo que abre la puerta a un posible escrutinio internacional sobre el caso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOek1tc3UtWTYyd3gzVTc1R3hEeW9MZnlhQVJ4NzNaSnFISEFXNzZMUXZwdDVsa3ZwRWZ2ZmdaZVkxb09OM3VIdDNMUXpLbXJNR2dDS2ZuaUZXemRFRFpDOHZYaVZPR1NMUFpTaHNwaTdqY2RQS3JZdXcwNEt2a3lBcXo1cXNDazUxWEwtN19xNEFRTnZ3Qk42NE9sMktGaUh1V3ZVcXpLWUlINkVvUWZfbjVxcXdQQldBbEY0a0hMWHdYU3VQZ0RVSU5WdmZsNXV1WDQ3ZFFrc1RUMlE3SDBveHR4SVFwOE9Qd2VHdkhldVdrVTRoU2NYZXRIamxQdld2d3dteG1QQUdrZHNmMWNxcEUxajUzamIyYWx1R3pRSVhfUdIBpwJBVV95cUxQcE9LNG9PVGUwdkVCc0xQbkxDcE1pNWxJbVpuQnJGMURKUnlvMGhxMmR2Y0pUcmIwNTRZUW9mMWd2dVcxVGRmNVdKWXo3N040UTl2OGlKU2RhRWtIT1U3Q3VRYzFZZVhocHY0OXNaMjJBZWZQY1RkWkpHSnV5UGJGVEJvT0R3ZWNPeVNlYURoWnNwYTFMTjh6Zm0zd2JYVl9fRlVKLU1xd3JVbUVySXBSVi16b01Oam1udS1ReEg1ZlpIajdxTVBBRGtYWm95NHNXVDg5NDhmN1lva3g2d2p5dVNjYWVaeThGSGFObEw1WGRmSzI5ZWlGLVVEdEF3WkZiMU9OczVWTjF0ZDlNMUVHTzhiUjVCQm1RTHpGWk1TSGx6dEtuU013?oc=5",
+          "fecha": "2026-10-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Departamento de Estado de EE.UU.",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-16 10:42"
+    },
+    {
+      "id": 1876,
+      "titulo": "Dudas sobre el manejo de COP 5.300 millones destinados a logística de la emergencia",
+      "categoria": "dineros",
+      "fecha": "2026-10-15",
+      "descripcion": "Se cuestiona quién administrará los COP 5.300 millones asignados por el gobierno de De la Espriella para labores de logística relacionadas con la atención de la emergencia tras el terremoto, en medio de llamados a mayor claridad sobre la ejecución de estos recursos.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmtOaWlDVEhmbUpWdURpMnYzLUpidVRCdks3Y2dCd05aXzNwcmtzbjNGSDNLcV93bkozc0NCN3J3ZXVfbEUxTTNKcjI4ZktiT1kyREozMVk0Q0gyNHZkV2JvNloteUZIYlF4ZFVmQ2NpbnNvS3RWdjVRZDV1S2ZSNElXLWhkZ3FDSndac0FySmFCMUpYdXV1YW5zZ05aalZSOGZyUDh6eVRJbTJlRjRGQWJYcTRiOVNIRDVQOVl0ai1fZ9IB1gFBVV95cUxQbGtVMkdOWFh6cDRuMV9RbVBvcGJSUWY4cS1JSUcwWXlCeHJXUUFMR1B0YWxGbEZmcWk4UExCekVFY3BtdGV3N1g2bHhGWVBrX1JVQWp1T3EwN0c5U3lHbUExc2pwRUhhYmNjajQzNU8wZmlOcFp1UXc0RnJQN1FPX1dZOWJfcDdtcGJBZ2VGbkVpRHFtYVdPWXh5SWhadmcxdUttZHFuamdweDJOY1BtZDBPeFpmVk41bmNKaW9HUERUZlBEbk5DOTlQTVFsd3NkQ3BfY29n?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-16 10:42",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 1875,
+      "titulo": "Exdirector de la Policía denunciaría a Petro por presuntos seguimientos ilegales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-16",
+      "descripcion": "El general en retiro Jorge Luis Vargas Valencia, exdirector de la Policía Nacional, anunció que denunciará penalmente al expresidente Gustavo Petro por presuntos seguimientos ilegales presuntamente realizados a través de organismos como la DNI y la UIAF durante su gobierno. El expresidente Iván Duque respaldó públicamente al general tras estas señalizaciones de irregularidades en labores de inteligencia estatal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-exdirector-de-la-policia-general-jorge-luis-vargas-valencia-denunciaria-penalmente-a-gustavo-petro-por-presuntos-seguimientos-ilegales-3593946",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Luis Vargas Valencia",
+        "Gustavo Petro",
+        "Iván Duque"
+      ],
+      "entidad": "Policía Nacional / DNI / UIAF",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-16 10:42"
+    },
+    {
+      "id": 1874,
+      "titulo": "Gobierno liquida programa vial de Petro que dejó 29.000 km sin intervenir y lanza 'Caminos del Tigre'",
+      "categoria": "empalme",
+      "fecha": "2026-10-15",
+      "descripcion": "El gobierno de De la Espriella anunció la liquidación de un programa vial heredado del gobierno Petro que, según el empalme, habría dejado 29.000 kilómetros de vías terciarias sin intervenir. En su reemplazo se prepara el nuevo programa 'Caminos del Tigre' para atender la agenda de infraestructura territorial.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPSEN3VFp6c3JKTEtPQVJMVXNWSzg3YVAxUHFMOGxveDJoRlBRalA2STZYdW1vQ3p6WnBLWGMybGk4dXV3WVM1TUcwVHVRVTNTbV9zOEozYjlURVcyaWJybXhFald5QWhWa2kxZ016Y0Z4Z0RlS01zRTFFVXNaVjJpT3ZKSV9sX2JRT1FHeExMSnpyNjhxTGNta0xOS083SlEwYXhQXzE4eXZ0c3FqX2lmRUdPTTBuZWt1cy1TenRDTnMtUUliRmIwLWZNaWZhVEYxalhFTlp5NTAybFFOWWVybTBITC1CazRQUHVaZ2ZyLWh5NEhUb1Z6cGlNWnlGX04ycjBmdTJBWXdib2xDZ2w4Wk9LMUJLNkxlOUHSAbQCQVVfeXFMTzJoMDd0Ui1mWnRnclFJR0ZEX1NDcENaTWpmNl9PYnJ0emhJdTdpMjEydzlkeDZzU2FCa2Z6cnF3Njc4ZnVyRUlZcDBFS0J5a2kxbDZvN1F2NTdEOTV1N2hTbXBXNUswQkRrcl9Vby1qcW9IeTk4dWJSR1J4NjFZMFJsbVQ3MVA3ZzgtdnlicmQ2S1MySWNDVkJ2VWtHTkN6VnYxM0d3eFg0NWJHNEd4d0ZFWXNJa1FFSkNqVWcxZTZFSUV1YVV6OUZFMUZmRkpEWXFqLUFmUmdPMjNhb3dZa2EtMFluaVFRVmdrbHZ0NUpGb3A1WmNxZTl2UUFoWTBBanpXMTh6bkQxWGs4WlN2dFBMMENWZ1d3Wmp4YzdQa28ySm93SUVyUDRURXpYcnk1eXN1ZnI?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-16 10:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1873,
       "titulo": "Colombia lidera ejercicio internacional de respuesta a emergencia radiológica con 12 países",
       "categoria": "internacional",
@@ -43763,7 +43908,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-16",
-    "total_casos": 1784,
+    "total_casos": 1790,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
