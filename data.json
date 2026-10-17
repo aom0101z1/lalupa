@@ -221,6 +221,197 @@
   ],
   "casos": [
     {
+      "id": 1922,
+      "titulo": "Colombia y Ecuador unen esfuerzos en salud fronteriza",
+      "categoria": "internacional",
+      "fecha": "2026-10-16",
+      "descripcion": "Colombia y Ecuador desarrollan una jornada binacional de tres días para llevar servicios de salud y atención institucional a comunidades de frontera, incluyendo consultas médicas, entrega de medicamentos y orientación institucional a habitantes de ambos países.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/servicios/colombia-y-ecuador-unen-esfuerzos-para-llevar-servicios-de-salud-y-atencion-institucional-a-comunidades-de-frontera-3594184",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Colombia / Gobierno de Ecuador",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1921,
+      "titulo": "Colombia y la Unión Europea avanzan en Acuerdo de Alianza y Cooperación",
+      "categoria": "internacional",
+      "fecha": "2026-10-17",
+      "descripcion": "El canciller Omar Bula y el embajador de la UE, François Roudié, anunciaron avances en la negociación de un Acuerdo de Alianza y Cooperación entre Colombia y la Unión Europea orientado a reforzar la inversión y la seguridad. También acordaron regular el empleo de parientes de diplomáticos europeos en el país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-confirma-que-colombia-y-la-union-europea-avanzan-en-negociacion-del-acuerdo-de-alianza-y-cooperacion-para-reforzar-inversion-y-seguridad-3594285",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula",
+        "François Roudié"
+      ],
+      "entidad": "Cancillería de Colombia / Unión Europea",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1920,
+      "titulo": "Combate en Vichada deja incautación de armas y explosivos a la Segunda Marquetalia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-17",
+      "descripcion": "Tropas del Ejército Nacional se enfrentaron con presuntos integrantes de la Subestructura 53 'Édison Romaña', de la disidencia 'Segunda Marquetalia', en zona rural de La Primavera, Vichada. Como resultado del combate se incautaron armas, municiones y material explosivo del grupo armado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/combate-en-zona-rural-de-la-primavera-vichada-deja-armas-municiones-y-explosivos-incautados-3594263",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1919,
+      "titulo": "Atentado contra exalcalde de Jamundí deja un escolta de la UNP muerto; Gobierno ordena ofensiva policial",
+      "categoria": "seguridad",
+      "fecha": "2026-10-17",
+      "descripcion": "La noche del viernes 16 de octubre de 2026, el exalcalde de Jamundí (Valle del Cauca), Andrés Felipe Ramírez, sobrevivió a un atentado sicarial perpetrado por dos hombres en motocicleta en un establecimiento del barrio La Esmeralda, en Cali. Su escolta de la Unidad Nacional de Protección (UNP), Felipe López, murió en el ataque. El presidente Abelardo de la Espriella condenó el hecho, ordenó una ofensiva policial para capturar a los responsables y las autoridades ofrecieron una recompensa de 150 millones de pesos por información que conduzca a su captura.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/exalcalde-de-jamundi-salio-ileso-de-un-atentado-murio-su-escolta-de-la-unp/",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Felipe Ramírez",
+        "Felipe López",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Policía Nacional / Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1918,
+      "titulo": "Capturan a alias 'El Señor', narco que operaba laboratorios en el Catatumbo con nexos con ELN y Los Pachenca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-17",
+      "descripcion": "La Policía y la DEA capturaron en Cúcuta a alias 'El Señor', señalado de operar laboratorios de cocaína en el Catatumbo y enviar tres toneladas mensuales de cocaína a Estados Unidos. Las autoridades indicaron que tenía acuerdos con el ELN y con 'Los Pachenca' para sus operaciones de narcotráfico.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-el-senor-el-narco-que-operaba-laboratorios-en-el-catatumbo-y-enviaba-tres-toneladas-de-cocaina-al-mes-a-ee-uu-3594291",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [
+        "alias El Señor"
+      ],
+      "entidad": "Policía Nacional / DEA",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1917,
+      "titulo": "Luis Carlos Reyes reitera denuncia de amenazas tras acusar a Benedetti de presionarlo por nombramientos en la DIAN",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-16",
+      "descripcion": "El exfuncionario Luis Carlos Reyes reiteró que ha recibido amenazas tras denunciar que Armando Benedetti lo presionó por nombramientos en la DIAN durante el gobierno Petro. Reyes afirmó que las amenazas 'no han parado' y que contempla salir del país, mientras cuestiona la lentitud de la Fiscalía para avanzar en el proceso judicial.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/luis-carlos-reyes-denuncio-amenazas-tras-acusar-a-armando-benedetti-de-presionarlo-por-nombramientos-en-la-dian-las-amenazas-no-han-parado-3594171",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Reyes",
+        "Armando Benedetti"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07"
+    },
+    {
+      "id": 1916,
+      "titulo": "Gobierno presenta proyecto de 'dieta política' para reducir la 'mermelada' en el Congreso",
+      "categoria": "transparencia",
+      "fecha": "2026-10-16",
+      "descripcion": "El gobierno de Abelardo de la Espriella radicó un proyecto que busca cortar la relación opaca entre el Ejecutivo y el Legislativo, en la que históricamente los votos de congresistas se habrían pagado con puestos, contratos y partidas de inversión, como ocurrió en casos como UNGRD, Odebrecht o la 'yidispolítica'. La iniciativa busca transparentar la negociación de proyectos de ley.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ley-antimermelada-proyecto-congresistas-obras-conflicto-intereses-AG42335063",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1915,
+      "titulo": "Fiscalía prepara expediente de 'impacto nacional' contra Verónica Alcocer con cinco capítulos",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-17",
+      "descripcion": "La Fiscalía tendría listo un expediente contra la exprimera dama Verónica Alcocer que incluiría cinco capítulos: un préstamo, un arriendo y una vieja denuncia, entre otros. Según la Unidad Investigativa de El Tiempo, la carpeta estaría rotulada como 'Impacto nacional' e incorporaría las pruebas de Eva Ferrer, examiga de Alcocer, y testimonios de exfuncionarios del gobierno Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fiscalia-investigara-veronica-alcocer-corrupcion-gobierno-petro-DC42370650",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 20:07"
+    },
+    {
       "id": 1914,
       "titulo": "Golpe a finanzas del ELN: destruyen complejo cocalero en Norte de Santander con incautación de 859 kg de cocaína",
       "categoria": "seguridad",
@@ -44735,7 +44926,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-17",
-    "total_casos": 1825,
+    "total_casos": 1833,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
