@@ -221,6 +221,100 @@
   ],
   "casos": [
     {
+      "id": 1911,
+      "titulo": "Gobierno anuncia medidas de seguridad y proyectos para San Andrés",
+      "categoria": "seguridad",
+      "fecha": "2026-10-17",
+      "descripcion": "Durante una visita oficial a San Andrés, el gobierno de Abelardo de la Espriella anunció nuevas medidas de seguridad y proyectos de inversión para el archipiélago, como parte de su agenda territorial.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTVhDTlMyTzJtRWJBWXJkamc4WlhTbEZXX3UtMjVLOWtuTlFIVllRQktHWEIzM2VTeFVUZlJjT1kwS200Ul8ydHBwZ182Z2dqWVpkVkpDUFllN3drZ0V5RHFVUlFtVFlqU3UxTks3R2dIb3JmWFhjQzVSZ2dQSVk3b1JOWDJJLW9NRnVEOXZwemNaVVUycF9IWVRUNEUzMHFkY1dPRWdyMVRHMlZzOE4yeVBsN29JMFY0UkJSdGNWTk1WMm95RnZzNTItYXd6anllX2FQRUtB0gHbAUFVX3lxTE1QRkdCaF9zRWlUbnBmVTYxWjR3RTczNTBIWVF6VHUyMDJ6REhfVHVaTi1ldVI4QnFYSUwtbjV1Z0FvREw4c1JCVlU2eE9zQlR4ZVpUTE9xeXRPYXUzMnU5bUNDdDVrbl8wbXN4ZEkwNGZMQUVlTGN6Zm9SUTZTV1hSNzY0ZjFjNlh6STRSSlROVTZuVHVsNVZRb3VORWtaR296bU9UX1hoaWk0Zk5EcHhaQzRFUmVBRmlPZk5Xem5XaGdDdW1EOXpZTGhkekN5MlBsNkpkSVB5LWwzYw?oc=5",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Gobernación de San Andrés",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-17 10:09",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1910,
+      "titulo": "Luis Carlos Reyes entregará pruebas contra Adelina Covo y Armando Benedetti",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-15",
+      "descripcion": "El exdirector de la DIAN, Luis Carlos Reyes, anunció que presentará ante la Fiscalía General de la Nación pruebas contra Adelina Covo y el exministro Armando Benedetti, en el marco de investigaciones por presuntas irregularidades durante el gobierno Petro.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeV82TE04MVdDNmhVN1BSNmxaUkRQUXhMM1hmN1dQSmpNdTY0ZGVPbU5LbEdSemlXS3hETVFLbkY3bldfQ1NteUZLd2tKSXMwSGVJZ04zX1hwQWtuZDdsa3Z0TnRScFVlZ1RZSG9qVzVHTHFrM0lKSFlQd2VRWEJEbldzdWxScVFfYWdVZW9SWFR3djhQVm03bDI2NmhCcHJ4NUVMbFpnb1hWQU05QmtSMzNtT0lZTzg3cDlJZXJKQ0ZkamJCZmfSAdoBQVVfeXFMUGZQdkhRY2NnNGtCOWJpNTk5NFlCSktVbEdMMjFUajVBVXhiU2pUel9tbURYM0RrdWl2WVVFc1hwazR6S2gwTEJ5VTMxRnpZTUhqdWI3VGZYU3RRbkRReW5mWlJZRWxER1BaSXdqVTNENENWR1M2UTNxVVM5aktGNVFEYzVfVjlIN1dwckNIUFdjaDVTWXlfVVQzSkhyYVFYMjYtR2lNZ1J6MXVPYkZtSEJaTXVOdEdjX1NxUTctbS1ydjFQUjl6dVNmaEh1UW8xaHN4eGduRlFId0E?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Reyes",
+        "Adelina Covo",
+        "Armando Benedetti"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 10:09"
+    },
+    {
+      "id": 1909,
+      "titulo": "Van a juicio congresistas de la Comisión de Crédito Público por cambio de votos en contratos UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-17",
+      "descripcion": "La Corte Suprema de Justicia decidió llevar a juicio a congresistas integrantes de la Comisión de Crédito Público que presuntamente habrían cambiado sus votos a cambio de la adjudicación de millonarios contratos relacionados con la UNGRD, en una nueva ramificación del escándalo que ya involucra a Olmedo López y Sneyder Pinilla.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQb2QyRHJNYUpJdWtFNnI1NlAyUmlaQXJNQU1welowamk1YTZxN3pCOEpOZkpGRjlSUnBrTWlGMG5oRmFIY1FVVEoxSV9FdDVEOU1GeUFwbVJFdHZWWmh3d1pQY2tlZ0xwdjNmRWNtMXh2WG1LSzJmMlRJMFNDUkpoLTVoZ2hkN2hwZ1dteHFqQnBzejlFdE5wUFdBR1lzQTBrRlM4SDBzV2NqcVRfamoyUGFEdHJnSVJBdmtyUUc0ekktQ3pHRXlJalB1c084Tk50anFsTzFNczlWeUlWOTh6cGw2aGRma18tdjFsbEVCR25CTVRLYmhNOUNkSGlpZG5oRXBDZmNnU3JsU0d6a24tMUFjTUVWZjNfd04zM0N1Y0FFQUE1Q3FzNlVSVmd0UUI4ZjkxVWhpenlVV3JnQWc?oc=5",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Corte Suprema de Justicia / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 10:09"
+    },
+    {
+      "id": 1908,
+      "titulo": "Eva Ferrer ratifica acusaciones contra Verónica Alcocer y anuncia pruebas documentales",
+      "categoria": "mentiras",
+      "fecha": "2026-10-16",
+      "descripcion": "La exconsejera presidencial Eva Ferrer, en declaración de más de cuatro horas ante la Procuraduría el 15 de octubre, no se retractó de sus señalamientos contra Verónica Alcocer expuestos en entrevista con Vicky Dávila. Según trascendió, Ferrer reiteró las afirmaciones sobre presuntas irregularidades y anunció que presentará pruebas documentales que respaldan sus denuncias, en momentos en que sigue pendiente su comparecencia ante la Fiscalía.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eva-ferrer-no-se-retracta-acusaciones-contra-veronica-alcocer-dice-tener-pruebas-HG42335893",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Procuraduría General de la Nación / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 10:09"
+    },
+    {
       "id": 1907,
       "titulo": "Ejército rescata en el Meta a menor reclutada por disidencias de alias Iván Mordisco",
       "categoria": "seguridad",
@@ -44568,7 +44662,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-17",
-    "total_casos": 1818,
+    "total_casos": 1822,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
