@@ -221,6 +221,79 @@
   ],
   "casos": [
     {
+      "id": 1914,
+      "titulo": "Golpe a finanzas del ELN: destruyen complejo cocalero en Norte de Santander con incautación de 859 kg de cocaína",
+      "categoria": "seguridad",
+      "fecha": "2026-10-17",
+      "descripcion": "En una operación militar en Norte de Santander se destruyó un complejo cocalero del ELN con capacidad para producir tres toneladas de cocaína al mes. Durante el operativo fueron incautados 859 kilogramos de clorhidrato de cocaína, 160 kilogramos de base de coca y 660 galones de cocaína en suspensión, golpeando las finanzas de la estructura armada.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-del-eln-destruyen-complejo-cocalero-con-capacidad-para-producir-tres-toneladas-de-cocaina-al-mes-en-norte-de-santander-3594254",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 14:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1913,
+      "titulo": "Hacienda girará directamente los recursos del Fondo Milagro para atender la emergencia",
+      "categoria": "dineros",
+      "fecha": "2026-10-15",
+      "descripcion": "El gerente del Fondo Milagro anunció que el Ministerio de Hacienda girará directamente los recursos destinados a atender la emergencia tras el terremoto del 10 de agosto, buscando agilizar y dar mayor trazabilidad al flujo de dineros hacia la reconstrucción y atención de damnificados.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZEE3OU1XLVdmQ2hwZTRNWnlPeUJ0Y0J0RGF5Uy1rQURxdS12QXBpREtvV1pBVkY3U1hpd3RiMUJoV1JRb1A5ZV9FY1RBOU1ZMDFvcF80R0VQYl9nNzZiMndPaUZNcDd1U1FyV3BxSGJuelQtZDgycVBESmdIWHdWNVhCeE5qRlFIX1BqT01zc0tOdFEtMHJCN25UM1lfTEhxZEVNOGt1M0FBYjFEZkNpOFQxVEl6aHBQVUYwVHlpcFZiOWN6VzVueHlFMDYwMGlwS1E0ZEZ5ZzA2eE1JQ2I3N0pJTUNmZ2V1a0FGNEl5VWJfSmkzY1ZDTTRwZWgwcTFM0gGAAkFVX3lxTE1kQTc5TVctV2ZDaHBlNE1aeU95QnRjQnREYXlTLWtBRHF1LXZBcGlES29XWkFWRjdTWGl3dGIxQmhXUlFvUDllX0VjVEE5TVkwMW9wXzRHRVBiX2c3NmIyd09pRk1wN3VTUXJXcHFIYm56VC1kODJxUERKZ0hYd1Y1WEJ4TmpGUUhfUGpPTXNzS050US0wckI3blQzWV9MSHFkRU04a3UzQUFiMURmQ2k4VDFUSXpocFBVRjBUeWlwVmI5Y3pXNW54eUUwNjAwaXBLUTRkRnlnMDZ4TUlDYjc3SklNQ2ZnZXVrQUY0SXlVYl9KaTNjVkNNNHBlaDBxMUw?oc=5",
+          "fecha": "2026-10-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Gerente del Fondo Milagro"
+      ],
+      "entidad": "Ministerio de Hacienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-17 14:57",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1912,
+      "titulo": "Corte Constitucional falla por unanimidad a favor del Gobierno De la Espriella y pone en riesgo la reforma pensional de Petro",
+      "categoria": "economia",
+      "fecha": "2026-10-16",
+      "descripcion": "La Corte Constitucional decidió por unanimidad a favor de una demanda impulsada por el Gobierno De la Espriella, lo que deja en vilo la reforma pensional aprobada durante el gobierno de Gustavo Petro. La decisión representa un respaldo judicial a la postura del nuevo gobierno frente a una de las principales reformas sociales del gobierno anterior.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZWtzU3ZJZTB0RGRuR3BmV2I0MVlBMEZqOWQ5THNEWC12U3dZT1ZYZ3lwaDVCLUJ0WWlaZnpEU3A4VGVEdDBxQWk5cDB0OW1ZTXljUEhKTDhUVXd0Tk9GdXB3T21qZjVGejBWNjBTVEFUMzhpSkJ6cldEdkVpYThZOTFXb3J5M1hySHRELWxZNnVpUVIxVkNfZXNVVWFRZ3RSQ1huUVlOWEJRNkZRMEQxaEVVQkU4ZjdKaXBMNUlvME1ybDRsVUtldnNXMFBjWVBzYU1DMmg4NUxkRG1KbEpNMmNWSkdXNXk1WWNIbTZCSnBxMXRXdDlfeFhEYXo1QTlrTUI0?oc=5",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Constitucional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-17 14:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1911,
       "titulo": "Gobierno anuncia medidas de seguridad y proyectos para San Andrés",
       "categoria": "seguridad",
@@ -44662,7 +44735,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-17",
-    "total_casos": 1822,
+    "total_casos": 1825,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
