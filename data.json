@@ -221,6 +221,83 @@
   ],
   "casos": [
     {
+      "id": 1943,
+      "titulo": "Uribe gestiona cooperación internacional con Real Madrid para víctimas del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-18",
+      "descripcion": "El expresidente Álvaro Uribe se reunió con Florentino Pérez, presidente del Real Madrid, para acordar proyectos de cooperación y ayudas dirigidas a las comunidades colombianas afectadas por el terremoto de agosto de 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/exmandatario-alvaro-uribe-se-reunio-con-florentino-perez-presidente-del-real-madrid-acordaron-ayudas-para-victimas-del-terremoto-en-colombia-3594411",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Álvaro Uribe",
+        "Florentino Pérez"
+      ],
+      "entidad": "Real Madrid / Fundación Real Madrid",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-18 20:06",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1942,
+      "titulo": "Encuesta revela caída en la popularidad de Abelardo de la Espriella",
+      "categoria": "opinion-publica",
+      "fecha": "2026-10-18",
+      "descripcion": "La única encuesta conocida hasta el momento sobre el gobierno de Abelardo de la Espriella muestra un resquebrajamiento en su nivel de popularidad, según reportó El País, en medio de las primeras semanas de su mandato.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1RETUd2dmJJWmdheGItSWtPNmhGZ1FuM3dfMUwyRGZ4ZW9rXzZMV2Y3RXhpQ3JvYmF0d0RlOGZCdm5pa3JPZHVsUUxaRzVxWURSZXhjS3dkWll2RS0tTEthQUR0QU9Tb1FrYWR5VUFXUF9yYXFvODBZZ04wRnNPa0d3NHdvekNrY2xDUE9NN05EOC11ckpmcV9YZ0pja1RQZ2Y3TXFZWHgwMnZ5U2Z1SUdvTVVzczlsajVPUFJ5WGtqYzVLSU5iZHNURTBsOUZwajkzQVpn0gHqAUFVX3lxTE9lbkJLbTNYdTlfWFM1ajZRY1pZOWg5NVNHWFZVVVpiWGxfbm5HNnp3WmZueDhfaWVXSE5acmRYZTZORTk5eFZ0aVFCS2VtM2h0eDViRnlmX19LNDdVa3Iya2FNZ1hVTTdxZnllNlhiVjEycWpyZEZKZzRfM0d5dW1CemRkMDFIT0Z5dWxKUUVjVDlHZmFMNC0teTcxS0VVcmpNREZFaFZ0RUhSeDFKaG1mWV90elp4UUtJcmN4dDhmNFhLMVlWQUxzRlpEUlY4N1dSb2NIcml5QUoxVHptUm9hUmFNeVdxX0hJUQ?oc=5",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-18 20:06",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1941,
+      "titulo": "De la Espriella confronta a gobernadora y representante de San Andrés por presunta corrupción en contratación",
+      "categoria": "transparencia",
+      "fecha": "2026-10-18",
+      "descripcion": "El presidente Abelardo de la Espriella confrontó públicamente durante su visita a San Andrés a la gobernadora Girley Natacha Ordóñez Bowie y a la representante a la Cámara Elizabeth Jay-Pang Díaz, advirtiendo que no tolerará presuntas irregularidades en el manejo de recursos públicos y afirmando tener información sobre negocios vinculados a la contratación en la isla.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/presidente-enfrento-gobernadora-san-andres-y-congresista-corrupcion-HN42389925",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Girley Natacha Ordóñez Bowie",
+        "Elizabeth Jay-Pang Díaz"
+      ],
+      "entidad": "Presidencia de la República / Gobernación de San Andrés",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-18 20:06",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1940,
       "titulo": "Fondo Milagro sigue sin operar pese a tener recursos disponibles",
       "categoria": "dineros",
@@ -45332,7 +45409,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-18",
-    "total_casos": 1851,
+    "total_casos": 1854,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
