@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>La Lupa - Donde la Verdad Sale a la Luz</title>
-    <meta name="description" content="El observatorio ciudadano que desenmascara la corrupción y las mentiras del poder. Información verificada con fuentes reales.">
-    <link rel="stylesheet" href="styles.css?v=20260929">
+    <title>La Lupa · Lo que vale la pena leer</title>
+    <meta name="description" content="Periódico digital colombiano. Política con fuentes verificables: investigaciones en curso, gestión pública y cifras de violencia. Pronto también ciencia, tecnología y emprendimiento.">
+    <link rel="stylesheet" href="styles.css?v=20261018">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,7 +18,7 @@
     <!-- CABECERA (rediseño 2026: periódico de investigación) -->
     <header class="lp-header">
         <div class="container lp-util">
-            <span class="lp-live" id="lp-actualizado">Observatorio ciudadano · cada caso con su fuente</span>
+            <span class="lp-live" id="lp-actualizado">Periódico digital · cada nota con su fuente</span>
             <div class="lp-actions">
                 <button type="button" class="lp-search-btn" id="lp-search-btn"><i class="fas fa-search"></i> <span>Buscar casos, personas, entidades</span></button>
                 <button class="lp-btn lp-btn-ghost btn-admin" id="admin-panel-btn" style="display: none;">
@@ -40,8 +40,8 @@
                 <h1>La Lupa</h1>
             </a>
             <div class="lp-motto">
-                <em>Donde la verdad sale a la luz</em>
-                <span>Recopilamos noticias de medios reconocidos. Aquí no inventamos nada: cada caso tiene su fuente.</span>
+                <em>Lo que vale la pena leer</em>
+                <span>Noticias con fuente verificable. Política hoy; ciencia, tecnología y emprendimiento muy pronto. Aquí no inventamos nada.</span>
             </div>
         </div>
     </header>
@@ -51,12 +51,11 @@
             <div class="container lp-snav-inner">
                 <a href="#portada" class="lp-snav-brand" aria-label="La Lupa">La Lupa</a>
                 <a href="#portada" class="lp-snav-link active">Portada</a>
-                <a href="#archivo" class="lp-snav-link" style="--c: var(--lp-petro)"><i class="lp-dot"></i>Archivo Petro</a>
-                <a href="#nuevo-gobierno" class="lp-snav-link" style="--c: var(--lp-gob)"><i class="lp-dot"></i>Nuevo Gobierno</a>
-                <a href="#terremoto" class="lp-snav-link" style="--c: var(--lp-terr)"><i class="lp-dot"></i>Lupa al Terremoto</a>
-                <a href="#" class="lp-snav-link lp-snav-hot" id="btn-violencia">Violencia <span class="lp-pill">EN CIFRAS</span></a>
+                <a href="#politica" class="lp-snav-link" style="--c: var(--lp-pol)"><i class="lp-dot"></i>Política</a>
+                <a href="#terremoto" class="lp-snav-link" style="--c: var(--lp-terr)"><i class="lp-dot"></i>Terremoto</a>
                 <a href="#temas-interes" class="lp-snav-link" style="--c: var(--lp-opi)"><i class="lp-dot"></i>Opinión</a>
                 <a href="#" class="lp-snav-link" id="btn-medios">Medios</a>
+                <!-- Fase 2: Emprendimiento · Ciencia · Tecnología (se muestran cuando tengan contenido) -->
             </div>
         </nav>
 
@@ -87,7 +86,7 @@
                                     <div><b>592.000+</b><span>desplazados 2023–2025</span></div>
                                     <div><b>635+</b><span>líderes sociales asesinados</span></div>
                                 </div>
-                                <a href="#" class="lp-btn lp-btn-mark" id="btn-violencia-hero">Explorar el especial <i class="fas fa-arrow-right"></i></a>
+                                <a href="#violencia" class="lp-btn lp-btn-mark" id="btn-violencia-hero">Explorar el especial <i class="fas fa-arrow-right"></i></a>
                             </div>
                             <figure class="lp-chart" role="img" aria-label="Masacres por año: 2022 desde agosto, cerca de 32; 2023, 93; 2024, 76; 2025, 78">
                                 <figcaption>2023 fue el año con más masacres del periodo<small>Masacres por año · 2022 incluye solo agosto a diciembre</small></figcaption>
@@ -112,11 +111,26 @@
                     </section>
                 </section>
 
-                <!-- ARCHIVO PETRO -->
-                <div class="lp-section-head" id="archivo" style="--c: var(--lp-petro)">
-                    <span class="lp-kicker">Gobierno Petro · 2022–2026</span>
-                    <h2>Archivo Petro</h2>
-                    <p>Corrupción, contratos y abuso de poder documentados con fuentes periodísticas. Busca, filtra y abre cada expediente para ver sus enlaces.</p>
+                <!-- POLÍTICA: investigaciones 2022–2026 · gestión 2026–2030 · violencia en cifras (promesas: fase 3) -->
+                <section id="politica" class="lp-politica">
+                <div class="lp-section-head" style="--c: var(--lp-pol)">
+                    <span class="lp-kicker">Sección · Política</span>
+                    <h2>Política</h2>
+                    <p>Seguimiento documentado al poder público: las investigaciones abiertas sobre el período 2022–2026, la gestión del gobierno 2026–2030 y las cifras de violencia. Cada hecho con su fuente, y en qué etapa va.</p>
+                </div>
+                <nav class="lp-tabs" id="politica-tabs" aria-label="Pestañas de Política" role="tablist">
+                    <a href="#archivo" class="lp-tab is-active" data-panel="archivo" role="tab" aria-selected="true"><span class="lp-tab-kicker">2022–2026</span>Investigaciones en curso</a>
+                    <a href="#nuevo-gobierno" class="lp-tab" data-panel="nuevo-gobierno" role="tab" aria-selected="false"><span class="lp-tab-kicker">2026–2030</span>Gestión actual</a>
+                    <a href="#violencia" class="lp-tab" data-panel="violencia" role="tab" aria-selected="false"><span class="lp-tab-kicker">Datos</span>Violencia en cifras</a>
+                    <!-- Fase 3: <a href="#promesas" class="lp-tab" data-panel="promesas"><span class="lp-tab-kicker">Ambos períodos</span>Promesas</a> -->
+                </nav>
+
+                <!-- Pestaña 1: investigaciones en curso (archivo 2022–2026) -->
+                <div class="lp-tab-panel is-active" id="archivo" data-panel="archivo">
+                <div class="lp-panel-head">
+                    <span class="lp-kicker">Período 2022–2026</span>
+                    <h3>Investigaciones en curso</h3>
+                    <p>Procesos judiciales, disciplinarios y fiscales sobre hechos del gobierno anterior, documentados con fuentes periodísticas. Muchos siguen abiertos: la línea de cada expediente muestra en qué etapa va. Busca, filtra y abre cada uno para ver sus enlaces.</p>
                 </div>
 
                 <!-- Estadísticas rapidas -->
@@ -160,7 +174,10 @@
                             <select id="filter-estado">
                                 <option value="">Todos</option>
                                 <option value="Comprobado">Comprobado</option>
-                                <option value="En investigacion">En investigacion</option>
+                                <option value="En investigacion">En investigación</option>
+                                <option value="Imputado">Imputado</option>
+                                <option value="Juicio">Juicio</option>
+                                <option value="Condenado">Condenado</option>
                                 <option value="Reportado">Reportado</option>
                                 <option value="Desmentido">Desmentido</option>
                             </select>
@@ -192,20 +209,22 @@
                     <div id="pagination" class="pagination-container"></div>
                 </section>
 
-                <!-- Gestión Nuevo Gobierno (2026-2030) -->
-                <section id="nuevo-gobierno" class="gestion-section">
+                </div><!-- /panel archivo -->
+
+                <!-- Pestaña 2: gestión del gobierno actual (2026–2030) -->
+                <section id="nuevo-gobierno" class="gestion-section lp-tab-panel" data-panel="nuevo-gobierno">
                     <div class="gestion-header">
                         <div class="gestion-title-row">
-                            <h2><i class="fas fa-landmark"></i> Gestión Nuevo Gobierno</h2>
-                            <span class="gestion-badge">2026 – 2030</span>
+                            <h2><i class="fas fa-landmark"></i> Gestión actual</h2>
+                            <span class="gestion-badge">Período 2026 – 2030</span>
                         </div>
                         <p class="gestion-intro">
-                            El 7 de agosto de 2026 terminó el gobierno de Gustavo Petro y comenzó el de
-                            Abelardo de la Espriella. En esta sección documentamos, con las mismas reglas
-                            de siempre —hechos concretos y fuentes periodísticas verificables—, la gestión
-                            del nuevo gobierno: el manejo de la emergencia por el terremoto del 10 de agosto,
-                            las primeras medidas de seguridad y economía, y el empalme con el gobierno saliente.
-                            Así cualquier ciudadano puede comparar, caso por caso, cómo gobierna cada uno.
+                            El 7 de agosto de 2026 cambió el gobierno. Desde entonces documentamos, con las
+                            mismas reglas de toda la sección (hechos concretos y fuentes periodísticas
+                            verificables), las medidas y los resultados del gobierno en ejercicio: seguridad,
+                            economía, nombramientos, emergencias distintas al terremoto y relaciones
+                            internacionales. El cumplimiento de las promesas de ambos períodos tendrá su
+                            propia pestaña.
                         </p>
                         <div class="gestion-compare" id="gestion-compare">
                             <!-- Se llena con JavaScript -->
@@ -226,6 +245,209 @@
                         <p>Aún no hay hechos publicados en esta categoría</p>
                     </div>
                 </section>
+
+                <!-- Pestaña 3: violencia en cifras (antes era un modal) -->
+                <div class="lp-tab-panel violencia-panel" id="violencia" data-panel="violencia">
+                    <div class="violencia-header">
+                        <h2><i class="fas fa-chart-bar"></i> Violencia en cifras</h2>
+                        <p class="violencia-periodo">Agosto de 2022 – presente · cifras cruzadas de fuentes independientes</p>
+                        <div class="violencia-disclaimer">
+                            <i class="fas fa-info-circle"></i>
+                            Datos cruzados de fuentes independientes e internacionales: Indepaz, FIP, CICR, HRW, OCHA, UNODC, Medicina Legal, DANE y medios de investigación. ⚠️ indica discrepancia con cifras del gobierno o subregistro documentado.
+                        </div>
+                    </div>
+
+                    <div class="violencia-stats-grid">
+                        <div class="violencia-stat-card masacres">
+                            <div class="stat-icon"><i class="fas fa-skull-crossbones"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">279+</span>
+                                <span class="stat-label">Masacres</span>
+                                <span class="stat-detail">Ago 2022 - Dic 2025</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2022 (desde ago): ~32 masacres</p>
+                                <p>2023: 93 masacres (~340 víctimas)</p>
+                                <p>2024: 76 masacres (~260 víctimas)</p>
+                                <p>2025: 78 masacres (256 víctimas)</p>
+                            </div>
+                            <span class="stat-source">Fuente: Indepaz</span>
+                        </div>
+
+                        <div class="violencia-stat-card desplazamiento">
+                            <div class="stat-icon"><i class="fas fa-walking"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">592,000+</span>
+                                <span class="stat-label">Desplazados</span>
+                                <span class="stat-detail">2023 - 2025</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2023: 338,000+ personas</p>
+                                <p>2024: 175,000+ personas</p>
+                                <p>2025: 79,500+ (ene-ago, +94% vs 2024)</p>
+                                <p>Crisis Catatumbo: 51,888 desplazados</p>
+                            </div>
+                            <span class="stat-source">Fuente: OCHA, Defensoría</span>
+                        </div>
+
+                        <div class="violencia-stat-card líderes">
+                            <div class="stat-icon"><i class="fas fa-user-shield"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">635+</span>
+                                <span class="stat-label">Líderes Asesinados</span>
+                                <span class="stat-detail">Ago 2022 - Dic 2025</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2023: 188 · 2024: 173 · 2025: 187</p>
+                                <p>Desde Acuerdo de Paz (2016): 1,891</p>
+                                <p>⚠️ Defensoría reporta la mitad que Indepaz</p>
+                                <p>Zonas críticas: Cauca, Nariño, Antioquia</p>
+                            </div>
+                            <span class="stat-source">Fuente: Indepaz, Rutas del Conflicto</span>
+                        </div>
+
+                        <div class="violencia-stat-card secuestros">
+                            <div class="stat-icon"><i class="fas fa-user-lock"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">651+</span>
+                                <span class="stat-label">Secuestros</span>
+                                <span class="stat-detail">2025 - Mayor cifra en una década</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2023: 338 · 2024: 313 · 2025: 651</p>
+                                <p>Secuestro extorsivo: +128% en 2025 (FIP)</p>
+                                <p>11 personas murieron en cautiverio</p>
+                                <p>⚠️ Subregistro masivo: víctimas no denuncian por miedo</p>
+                            </div>
+                            <span class="stat-source">Fuente: FIP, Medicina Legal</span>
+                        </div>
+
+                        <div class="violencia-stat-card reclutamiento">
+                            <div class="stat-icon"><i class="fas fa-child"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">625+</span>
+                                <span class="stat-label">Menores Reclutados</span>
+                                <span class="stat-detail">2024 - Aumento del 81%</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>Defensoría: 541 · HRW: 625 en 2024</p>
+                                <p>51% de comunidades indígenas</p>
+                                <p>Redes sociales: nuevo medio de reclutamiento</p>
+                                <p>⚠️ Subregistro extremo según todas las fuentes</p>
+                            </div>
+                            <span class="stat-source">Fuente: HRW, COALICO, Defensoría</span>
+                        </div>
+
+                        <div class="violencia-stat-card homicidios">
+                            <div class="stat-icon"><i class="fas fa-chart-line"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">14,780</span>
+                                <span class="stat-label">Homicidios</span>
+                                <span class="stat-detail">2025 - Mayor cifra en una década</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2023: 14,033 · 2024: 13,917 · 2025: 14,780</p>
+                                <p>Promedio: 41 homicidios por día</p>
+                                <p>Trienio Petro: 40,663 (vs 37,801 Duque)</p>
+                                <p>⚠️ Gobierno reportó 1,054 menos (El Colombiano)</p>
+                            </div>
+                            <span class="stat-source">Fuente: Medicina Legal, U. Externado</span>
+                        </div>
+
+                        <div class="violencia-stat-card extorsion">
+                            <div class="stat-icon"><i class="fas fa-hand-holding-usd"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">~41,000-71,000</span>
+                                <span class="stat-label">Extorsiones (estimado real)</span>
+                                <span class="stat-detail">2024 - Cifra récord</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>Denuncias oficiales: 12,956 (+28% vs 2023)</p>
+                                <p>⚠️ DANE: 69-82% de casos NO se denuncian</p>
+                                <p>96% de impunidad en casos denunciados</p>
+                                <p>Bogotá: 2,459 víctimas (+73%)</p>
+                            </div>
+                            <span class="stat-source">Fuente: DANE, El Tiempo, Policía</span>
+                        </div>
+
+                        <div class="violencia-stat-card coca">
+                            <div class="stat-icon"><i class="fas fa-leaf"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">262,000</span>
+                                <span class="stat-label">Hectáreas de Coca</span>
+                                <span class="stat-detail">2024 - Cifra récord</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2022: ~230,000 hectáreas</p>
+                                <p>2023: 253,000 hectáreas (+10%)</p>
+                                <p>2024: 262,000 hectáreas (+3%)</p>
+                                <p>48% en zonas de conservación</p>
+                            </div>
+                            <span class="stat-source">Fuente: UNODC/SIMCI</span>
+                        </div>
+
+                        <div class="violencia-stat-card confinamiento">
+                            <div class="stat-icon"><i class="fas fa-lock"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">107,931</span>
+                                <span class="stat-label">Personas Confinadas</span>
+                                <span class="stat-detail">2024 (+58% vs 2023)</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>2023: 66,279 · 2024: 107,931 (+58%)</p>
+                                <p>2025: 137,600+ (parcial, supera 2024)</p>
+                                <p>Mayor cifra desde 2008</p>
+                                <p>Emergencia cada 1.5 días en 2025</p>
+                            </div>
+                            <span class="stat-source">Fuente: OCHA, CODHES</span>
+                        </div>
+
+                        <div class="violencia-stat-card desaparecidos">
+                            <div class="stat-icon"><i class="fas fa-question-circle"></i></div>
+                            <div class="stat-info">
+                                <span class="stat-number">~210,000</span>
+                                <span class="stat-label">Personas Desaparecidas</span>
+                                <span class="stat-detail">Acumulado histórico (estimado)</span>
+                            </div>
+                            <div class="stat-breakdown">
+                                <p>Gobierno: 132,877 · ONU: hasta 200,000</p>
+                                <p>2025: 1,158 nuevos casos (1er trimestre)</p>
+                                <p>837 menores desaparecidos (ene-jun 2025)</p>
+                                <p>⚠️ 1 persona desaparece cada 36 horas (CICR)</p>
+                            </div>
+                            <span class="stat-source">Fuente: Comisión de la Verdad, CICR, ONU</span>
+                        </div>
+                    </div>
+
+                    <div class="violencia-contexto">
+                        <h3><i class="fas fa-exclamation-triangle"></i> Contexto: "Paz Total" en crisis</h3>
+                        <p>La política de "Paz Total" del gobierno Petro buscaba dialogar con todos los grupos armados. Sin embargo, los críticos señalan:</p>
+                        <ul>
+                            <li>Los ceses al fuego unilaterales fueron aprovechados por grupos ilegales para fortalecerse</li>
+                            <li>El ELN rompió negociaciones en 2024 tras atentados</li>
+                            <li>Las disidencias de FARC se han fragmentado y expandido territorialmente</li>
+                            <li>El Clan del Golfo mantiene control en múltiples regiones</li>
+                            <li>La crisis del Catatumbo (2025) desplazó a más de 51,000 personas</li>
+                            <li>Los secuestros se duplicaron en 2025, la peor cifra en una década</li>
+                            <li>Los homicidios en 2025 alcanzaron el nivel más alto en 10 años</li>
+                            <li>Human Rights Watch calificó 2025 como "la peor crisis humanitaria de la década" en Colombia</li>
+                        </ul>
+                    </div>
+
+                    <div class="violencia-fuentes">
+                        <h4>Fuentes de datos:</h4>
+                        <div class="fuentes-lista">
+                            <a href="https://indepaz.org.co" target="_blank"><i class="fas fa-external-link-alt"></i> Indepaz</a>
+                            <a href="https://www.defensoria.gov.co" target="_blank"><i class="fas fa-external-link-alt"></i> Defensoría del Pueblo</a>
+                            <a href="https://www.medicinalegal.gov.co" target="_blank"><i class="fas fa-external-link-alt"></i> Medicina Legal</a>
+                            <a href="https://www.unocha.org" target="_blank"><i class="fas fa-external-link-alt"></i> OCHA (ONU)</a>
+                            <a href="https://www.unodc.org" target="_blank"><i class="fas fa-external-link-alt"></i> UNODC/SIMCI</a>
+                            <a href="https://www.dane.gov.co" target="_blank"><i class="fas fa-external-link-alt"></i> DANE</a>
+                            <a href="https://codhes.org" target="_blank"><i class="fas fa-external-link-alt"></i> CODHES</a>
+                        </div>
+                    </div>
+                </div>
+                </section><!-- /politica -->
 
                 <!-- Lupa al Terremoto (10 de agosto de 2026) -->
                 <section id="terremoto" class="gestion-section terremoto-section">
@@ -6446,8 +6668,8 @@
             <div class="container">
                 <div class="footer-content">
                     <div class="footer-info">
-                        <p><strong>La Lupa - Observatorio de Transparencia</strong></p>
-                        <p>Proyecto ciudadano de documentación. Toda la información proviene de fuentes periodísticas públicas y verificables.</p>
+                        <p><strong>La Lupa · Lo que vale la pena leer</strong></p>
+                        <p>Periódico digital independiente. Toda la información proviene de fuentes periodísticas públicas y verificables.</p>
                         <p>Este sitio no tiene afiliación con ningún partido político ni recibe financiación de ninguna entidad.</p>
                     </div>
                     <div class="footer-links">
@@ -6512,213 +6734,6 @@
                     <div class="legend-item">
                         <span class="legend-color oficial"></span>
                         Fuente Oficial
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal de Violencia -->
-    <div class="modal" id="violencia-modal">
-        <div class="modal-content modal-violencia">
-            <button class="modal-close" id="violencia-modal-close">&times;</button>
-            <div class="modal-body">
-                <div class="violencia-header">
-                    <h2><i class="fas fa-chart-bar"></i> Estadísticas de Violencia</h2>
-                    <p class="violencia-periodo">Gobierno Petro: Agosto 2022 - Presente</p>
-                    <div class="violencia-disclaimer">
-                        <i class="fas fa-info-circle"></i>
-                        Datos cruzados de fuentes independientes e internacionales: Indepaz, FIP, CICR, HRW, OCHA, UNODC, Medicina Legal, DANE y medios de investigación. ⚠️ indica discrepancia con cifras del gobierno o subregistro documentado.
-                    </div>
-                </div>
-
-                <div class="violencia-stats-grid">
-                    <div class="violencia-stat-card masacres">
-                        <div class="stat-icon"><i class="fas fa-skull-crossbones"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">279+</span>
-                            <span class="stat-label">Masacres</span>
-                            <span class="stat-detail">Ago 2022 - Dic 2025</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2022 (desde ago): ~32 masacres</p>
-                            <p>2023: 93 masacres (~340 víctimas)</p>
-                            <p>2024: 76 masacres (~260 víctimas)</p>
-                            <p>2025: 78 masacres (256 víctimas)</p>
-                        </div>
-                        <span class="stat-source">Fuente: Indepaz</span>
-                    </div>
-
-                    <div class="violencia-stat-card desplazamiento">
-                        <div class="stat-icon"><i class="fas fa-walking"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">592,000+</span>
-                            <span class="stat-label">Desplazados</span>
-                            <span class="stat-detail">2023 - 2025</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2023: 338,000+ personas</p>
-                            <p>2024: 175,000+ personas</p>
-                            <p>2025: 79,500+ (ene-ago, +94% vs 2024)</p>
-                            <p>Crisis Catatumbo: 51,888 desplazados</p>
-                        </div>
-                        <span class="stat-source">Fuente: OCHA, Defensoría</span>
-                    </div>
-
-                    <div class="violencia-stat-card líderes">
-                        <div class="stat-icon"><i class="fas fa-user-shield"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">635+</span>
-                            <span class="stat-label">Líderes Asesinados</span>
-                            <span class="stat-detail">Ago 2022 - Dic 2025</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2023: 188 · 2024: 173 · 2025: 187</p>
-                            <p>Desde Acuerdo de Paz (2016): 1,891</p>
-                            <p>⚠️ Defensoría reporta la mitad que Indepaz</p>
-                            <p>Zonas críticas: Cauca, Nariño, Antioquia</p>
-                        </div>
-                        <span class="stat-source">Fuente: Indepaz, Rutas del Conflicto</span>
-                    </div>
-
-                    <div class="violencia-stat-card secuestros">
-                        <div class="stat-icon"><i class="fas fa-user-lock"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">651+</span>
-                            <span class="stat-label">Secuestros</span>
-                            <span class="stat-detail">2025 - Mayor cifra en una década</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2023: 338 · 2024: 313 · 2025: 651</p>
-                            <p>Secuestro extorsivo: +128% en 2025 (FIP)</p>
-                            <p>11 personas murieron en cautiverio</p>
-                            <p>⚠️ Subregistro masivo: víctimas no denuncian por miedo</p>
-                        </div>
-                        <span class="stat-source">Fuente: FIP, Medicina Legal</span>
-                    </div>
-
-                    <div class="violencia-stat-card reclutamiento">
-                        <div class="stat-icon"><i class="fas fa-child"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">625+</span>
-                            <span class="stat-label">Menores Reclutados</span>
-                            <span class="stat-detail">2024 - Aumento del 81%</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>Defensoría: 541 · HRW: 625 en 2024</p>
-                            <p>51% de comunidades indígenas</p>
-                            <p>Redes sociales: nuevo medio de reclutamiento</p>
-                            <p>⚠️ Subregistro extremo según todas las fuentes</p>
-                        </div>
-                        <span class="stat-source">Fuente: HRW, COALICO, Defensoría</span>
-                    </div>
-
-                    <div class="violencia-stat-card homicidios">
-                        <div class="stat-icon"><i class="fas fa-chart-line"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">14,780</span>
-                            <span class="stat-label">Homicidios</span>
-                            <span class="stat-detail">2025 - Mayor cifra en una década</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2023: 14,033 · 2024: 13,917 · 2025: 14,780</p>
-                            <p>Promedio: 41 homicidios por día</p>
-                            <p>Trienio Petro: 40,663 (vs 37,801 Duque)</p>
-                            <p>⚠️ Gobierno reportó 1,054 menos (El Colombiano)</p>
-                        </div>
-                        <span class="stat-source">Fuente: Medicina Legal, U. Externado</span>
-                    </div>
-
-                    <div class="violencia-stat-card extorsion">
-                        <div class="stat-icon"><i class="fas fa-hand-holding-usd"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">~41,000-71,000</span>
-                            <span class="stat-label">Extorsiones (estimado real)</span>
-                            <span class="stat-detail">2024 - Cifra récord</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>Denuncias oficiales: 12,956 (+28% vs 2023)</p>
-                            <p>⚠️ DANE: 69-82% de casos NO se denuncian</p>
-                            <p>96% de impunidad en casos denunciados</p>
-                            <p>Bogotá: 2,459 víctimas (+73%)</p>
-                        </div>
-                        <span class="stat-source">Fuente: DANE, El Tiempo, Policía</span>
-                    </div>
-
-                    <div class="violencia-stat-card coca">
-                        <div class="stat-icon"><i class="fas fa-leaf"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">262,000</span>
-                            <span class="stat-label">Hectáreas de Coca</span>
-                            <span class="stat-detail">2024 - Cifra récord</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2022: ~230,000 hectáreas</p>
-                            <p>2023: 253,000 hectáreas (+10%)</p>
-                            <p>2024: 262,000 hectáreas (+3%)</p>
-                            <p>48% en zonas de conservación</p>
-                        </div>
-                        <span class="stat-source">Fuente: UNODC/SIMCI</span>
-                    </div>
-
-                    <div class="violencia-stat-card confinamiento">
-                        <div class="stat-icon"><i class="fas fa-lock"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">107,931</span>
-                            <span class="stat-label">Personas Confinadas</span>
-                            <span class="stat-detail">2024 (+58% vs 2023)</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>2023: 66,279 · 2024: 107,931 (+58%)</p>
-                            <p>2025: 137,600+ (parcial, supera 2024)</p>
-                            <p>Mayor cifra desde 2008</p>
-                            <p>Emergencia cada 1.5 días en 2025</p>
-                        </div>
-                        <span class="stat-source">Fuente: OCHA, CODHES</span>
-                    </div>
-
-                    <div class="violencia-stat-card desaparecidos">
-                        <div class="stat-icon"><i class="fas fa-question-circle"></i></div>
-                        <div class="stat-info">
-                            <span class="stat-number">~210,000</span>
-                            <span class="stat-label">Personas Desaparecidas</span>
-                            <span class="stat-detail">Acumulado histórico (estimado)</span>
-                        </div>
-                        <div class="stat-breakdown">
-                            <p>Gobierno: 132,877 · ONU: hasta 200,000</p>
-                            <p>2025: 1,158 nuevos casos (1er trimestre)</p>
-                            <p>837 menores desaparecidos (ene-jun 2025)</p>
-                            <p>⚠️ 1 persona desaparece cada 36 horas (CICR)</p>
-                        </div>
-                        <span class="stat-source">Fuente: Comisión de la Verdad, CICR, ONU</span>
-                    </div>
-                </div>
-
-                <div class="violencia-contexto">
-                    <h3><i class="fas fa-exclamation-triangle"></i> Contexto: "Paz Total" en crisis</h3>
-                    <p>La política de "Paz Total" del gobierno Petro buscaba dialogar con todos los grupos armados. Sin embargo, los críticos señalan:</p>
-                    <ul>
-                        <li>Los ceses al fuego unilaterales fueron aprovechados por grupos ilegales para fortalecerse</li>
-                        <li>El ELN rompió negociaciones en 2024 tras atentados</li>
-                        <li>Las disidencias de FARC se han fragmentado y expandido territorialmente</li>
-                        <li>El Clan del Golfo mantiene control en múltiples regiones</li>
-                        <li>La crisis del Catatumbo (2025) desplazó a más de 51,000 personas</li>
-                        <li>Los secuestros se duplicaron en 2025, la peor cifra en una década</li>
-                        <li>Los homicidios en 2025 alcanzaron el nivel más alto en 10 años</li>
-                        <li>Human Rights Watch calificó 2025 como "la peor crisis humanitaria de la década" en Colombia</li>
-                    </ul>
-                </div>
-
-                <div class="violencia-fuentes">
-                    <h4>Fuentes de datos:</h4>
-                    <div class="fuentes-lista">
-                        <a href="https://indepaz.org.co" target="_blank"><i class="fas fa-external-link-alt"></i> Indepaz</a>
-                        <a href="https://www.defensoria.gov.co" target="_blank"><i class="fas fa-external-link-alt"></i> Defensoría del Pueblo</a>
-                        <a href="https://www.medicinalegal.gov.co" target="_blank"><i class="fas fa-external-link-alt"></i> Medicina Legal</a>
-                        <a href="https://www.unocha.org" target="_blank"><i class="fas fa-external-link-alt"></i> OCHA (ONU)</a>
-                        <a href="https://www.unodc.org" target="_blank"><i class="fas fa-external-link-alt"></i> UNODC/SIMCI</a>
-                        <a href="https://www.dane.gov.co" target="_blank"><i class="fas fa-external-link-alt"></i> DANE</a>
-                        <a href="https://codhes.org" target="_blank"><i class="fas fa-external-link-alt"></i> CODHES</a>
                     </div>
                 </div>
             </div>
@@ -6841,7 +6856,7 @@
     <!-- Firebase Configuration -->
     <script src="firebase-config.js"></script>
 
-    <script src="script.js?v=20260929"></script>
+    <script src="script.js?v=20261018"></script>
     <script>
         // Hero stats animation
         function animateValue(element, start, end, duration) {
@@ -6875,11 +6890,6 @@
         document.getElementById('btn-medios-hero')?.addEventListener('click', (e) => {
             e.preventDefault();
             document.getElementById('medios-modal')?.classList.add('active');
-        });
-
-        document.getElementById('btn-violencia-hero')?.addEventListener('click', (e) => {
-            e.preventDefault();
-            document.getElementById('violencia-modal')?.classList.add('active');
         });
 
         document.getElementById('btn-medios-footer')?.addEventListener('click', (e) => {

@@ -146,6 +146,7 @@ REQUIRED_IDS = [
     "gestion-compare", "gestion-filters", "gestion-grid", "gestion-count",
     "terremoto-resumen", "terremoto-regiones", "terremoto-filters", "terremoto-grid", "terremoto-count",
     "temas-interes", "admin-content",
+    "politica", "politica-tabs", "archivo", "nuevo-gobierno", "violencia",
 ]
 
 

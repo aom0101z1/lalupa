@@ -180,6 +180,9 @@ TERREMOTO_CATEGORIES = [
 ]
 TERREMOTO_REGIONS = ["pereira", "cali", "choco", "nacional", "otras"]
 
+# Etapa del proceso (linea de proceso en el sitio: Reportado -> En investigacion -> Imputado -> Juicio -> Condenado/Comprobado)
+ESTADOS_PROCESO = ["Reportado", "En investigacion", "Imputado", "Juicio", "Condenado", "Comprobado", "Desmentido"]
+
 # Cuántos artículos se envían a Claude por llamada y cuántos como máximo por corrida
 BATCH_SIZE = 30
 MAX_ARTICLES_PER_RUN = 150
@@ -187,22 +190,45 @@ MAX_ARTICLES_PER_RUN = 150
 # Dominios con paywall: si la misma noticia existe en otro medio, se prefiere el otro medio
 PAYWALLED_DOMAINS = ["eltiempo.com"]
 
-# Colombian news RSS feeds (verificados agosto 2026; varios feeds antiguos ya no existen)
+# Tope editorial: El Tiempo (paywall) no puede pasar del 20 % de los casos agregados en
+# una corrida. Si hay más, se conservan los de mayor relevancia y el resto se descarta.
+CAPPED_SOURCE = "el tiempo"
+CAPPED_SOURCE_DOMAIN = "eltiempo.com"
+CAPPED_SOURCE_MAX_SHARE = 0.20
+
+# Medios bloqueados (medios estatales de propaganda): nunca se analizan ni se citan
+BLOCKED_SOURCES = ["actualidad rt", "rt", "rt en español", "actualidad-rt.com", "sputnik", "sputnik mundo", "telesur", "telesurtv"]
+BLOCKED_DOMAINS = ["rt.com", "actualidad.rt.com", "sputniknews.com", "sputniknews.lat", "telesurtv.net"]
+
+# Colombian news RSS feeds (verificados agosto 2026 y 2026-10-18; varios feeds antiguos ya no existen).
+# Sin feed utilizable al 2026-10-18 (van vía Google News): Forbes Colombia (401), El Heraldo, El País
+# de Cali, El Universal, La FM, RCN, Blu Radio, Caracol, W Radio, Cambio, Pulzo, El Diario de Pereira (403).
 RSS_FEEDS = [
-    {"name": "El Tiempo", "url": "https://www.eltiempo.com/rss/politica.xml"},
-    {"name": "El Tiempo", "url": "https://www.eltiempo.com/rss/justicia.xml"},
-    {"name": "La Silla Vacia", "url": "https://www.lasillavacia.com/feed/"},
+    # Medios sin paywall primero
+    {"name": "Semana", "url": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml"},
     {"name": "El Colombiano", "url": "https://www.elcolombiano.com/rss/Colombia.xml"},
+    {"name": "La Republica", "url": "https://www.larepublica.co/rss"},
+    {"name": "El Nuevo Siglo", "url": "https://www.elnuevosiglo.com.co/rss.xml"},
+    {"name": "Valora Analitik", "url": "https://www.valoraanalitik.com/feed/"},
+    {"name": "Bloomberg Linea", "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml", "keyword_filter": "colombia"},
+    {"name": "Portafolio", "url": "https://www.portafolio.co/rss/economia.xml"},
+    {"name": "La Silla Vacia", "url": "https://www.lasillavacia.com/feed/"},
     {"name": "Colombiacheck", "url": "https://colombiacheck.com/rss.xml"},
     {"name": "Infobae", "url": "https://www.infobae.com/arc/outboundfeeds/rss/", "link_filter": "/colombia/"},
     {"name": "France 24", "url": "https://www.france24.com/es/am%C3%A9rica-latina/rss", "keyword_filter": "colombia"},
     {"name": "DW", "url": "https://rss.dw.com/rdf/rss-sp-all", "keyword_filter": "colombia"},
+    # Eje Cafetero (región del terremoto)
+    {"name": "La Patria", "url": "https://www.lapatria.com/rss.xml"},
+    {"name": "Eje21", "url": "https://www.eje21.com.co/feed/"},
+    # Con paywall: se usa solo si no hay versión gratuita y con tope del 20 % por corrida
+    {"name": "El Tiempo", "url": "https://www.eltiempo.com/rss/politica.xml"},
+    {"name": "El Tiempo", "url": "https://www.eltiempo.com/rss/justicia.xml"},
 ]
 
 # Búsquedas en Google News RSS: agrega medios cuyos feeds directos están rotos
 # (Semana, Blu Radio, Caracol Radio, RCN, La FM, W Radio, El Espectador, etc.)
 GOOGLE_NEWS_QUERIES = [
-    # --- Archivo: corrupción del gobierno Petro y seguimiento judicial ---
+    # --- Política · Investigaciones 2022-2026 (sección "archivo"): corrupción y seguimiento judicial ---
     "corrupción Colombia investigación",
     "Petro juicio OR investigación Fiscalía",
     "UNGRD OR pasaportes OR \"Nicolás Petro\" proceso",
@@ -216,13 +242,13 @@ GOOGLE_NEWS_QUERIES = [
     "nombramientos gobierno Petro contratos prestación de servicios denuncia",
     "empalme gobierno Colombia hallazgos denuncias",
     "Contraloría OR Procuraduría hallazgo gobierno Petro",
-    # --- Nuevo gobierno: resultados y medidas ---
+    # --- Política · Gestión 2026-2030 (sección "nuevo-gobierno"): resultados y medidas ---
     "gobierno \"De la Espriella\" medidas",
     "capturas OR capturado cabecilla Colombia Policía Ejército",
     "operativo Ejército Colombia disidencias OR ELN OR \"Clan del Golfo\" abatido OR neutralizado",
     "Ministerio de Defensa balance capturas incautaciones",
     "gobierno De la Espriella resultados OR balance OR cifras",
-    # --- Lupa al terremoto: dineros y gestión ---
+    # --- Terremoto: dineros y gestión ---
     "terremoto Colombia reconstrucción gobierno",
     "\"Fondo Milagro\" terremoto recursos OR ejecución OR contratos",
     "terremoto Pereira alcaldía OR gobernación Risaralda ayudas OR recursos OR denuncia",
@@ -424,6 +450,46 @@ def prefer_free_sources(articles: list) -> list:
     return result
 
 
+def is_blocked_source(article: dict) -> bool:
+    """Medios bloqueados por nombre (Google News trae el nombre en <source>) o por dominio."""
+    name = (article.get("source") or "").strip().lower()
+    url = (article.get("url") or "").lower()
+    if name in BLOCKED_SOURCES:
+        return True
+    return any(d in url for d in BLOCKED_DOMAINS)
+
+
+def drop_blocked_sources(articles: list) -> list:
+    kept = [a for a in articles if not is_blocked_source(a)]
+    dropped = len(articles) - len(kept)
+    if dropped:
+        print(f"   -> {dropped} articulos de medios bloqueados descartados")
+    return kept
+
+
+def is_capped_source(case: dict) -> bool:
+    for f in case.get("fuentes", []):
+        if (f.get("nombre") or "").strip().lower() == CAPPED_SOURCE or CAPPED_SOURCE_DOMAIN in (f.get("url") or "").lower():
+            return True
+    return False
+
+
+def apply_source_cap(new_cases: list) -> list:
+    """Limita El Tiempo a CAPPED_SOURCE_MAX_SHARE de los casos agregados en la corrida.
+    ET/(ET+otros) <= share  <=>  ET <= otros*share/(1-share). Se conservan los de mayor relevancia."""
+    capped = [c for c in new_cases if is_capped_source(c)]
+    others = [c for c in new_cases if not is_capped_source(c)]
+    allowed = int(len(others) * CAPPED_SOURCE_MAX_SHARE / (1 - CAPPED_SOURCE_MAX_SHARE))
+    if len(capped) <= allowed:
+        return new_cases
+    capped.sort(key=lambda c: c.get("_score", 0), reverse=True)
+    keep = {id(c) for c in capped[:allowed]}
+    dropped = [c for c in capped if id(c) not in keep]
+    for c in dropped:
+        print(f"   [CAP] El Tiempo supera el {int(CAPPED_SOURCE_MAX_SHARE*100)} %: {c['titulo'][:60]}...")
+    return [c for c in new_cases if not is_capped_source(c) or id(c) in keep]
+
+
 def fetch_news_api(api_key: str) -> list:
     """Fetch articles from NewsAPI"""
     articles = []
@@ -532,6 +598,7 @@ Para cada articulo RELEVANTE (solo los que documenten hechos concretos, no opini
       "signo": "solo para terremoto",
       "descripcion": "Descripcion breve y objetiva del caso con cifras, fechas y nombres (maximo 200 palabras)",
       "gravedad": "alta|media|baja",
+      "estado": "Reportado|En investigacion|Imputado|Juicio|Condenado|Comprobado|Desmentido",
       "personas_involucradas": ["Nombre 1", "Nombre 2"],
       "entidad": "Nombre de la entidad involucrada",
       "es_nuevo": true,
@@ -547,6 +614,7 @@ IMPORTANTE:
 - relevancia_score de 1-10 (solo incluir si >= 6). Se generoso con hechos concretos de los temas prioritarios: un avance judicial, una captura con cifras o una denuncia con nombre y entidad SI son relevantes
 - Evita articulos que sean solo especulacion o rumores; si es una denuncia sin confirmar, describela como denuncia y di quien la hace
 - En "gravedad" para la seccion "nuevo-gobierno" usa la importancia del hecho (alta = decision o resultado de gran impacto nacional)
+- "estado" = etapa del proceso segun el articulo: Reportado (denuncia o hallazgo sin proceso formal), En investigacion (Fiscalia/Procuraduria/Contraloria abrio investigacion o indagacion), Imputado (imputacion de cargos, captura u orden de captura), Juicio (acusacion o juicio en curso), Condenado (condena o sancion en firme), Comprobado (hecho confirmado por la autoridad sin proceso penal), Desmentido (la autoridad o el medio lo desmintio). Para "nuevo-gobierno" y "terremoto" usa casi siempre Reportado
 - La seccion "nuevo-gobierno" es para RESULTADOS y MEDIDAS del gobierno De la Espriella; NO incluir ahi criticas ni casos negativos sobre Abelardo de la Espriella ni Fico de la Espriella. En la seccion "terremoto" si se documentan irregularidades de entidades y funcionarios de cualquier nivel, siempre con fuente
 - Si ningun articulo es relevante o todos son duplicados, devuelve {{"casos_relevantes": []}}
 
@@ -573,12 +641,13 @@ OUTPUT_SCHEMA = {
                     "signo": {"type": "string", "description": "Solo para terremoto: positivo|negativo|neutro; vacio en otras secciones"},
                     "descripcion": {"type": "string"},
                     "gravedad": {"type": "string", "enum": ["alta", "media", "baja"]},
+                    "estado": {"type": "string", "enum": ["Reportado", "En investigacion", "Imputado", "Juicio", "Condenado", "Comprobado", "Desmentido"]},
                     "personas_involucradas": {"type": "array", "items": {"type": "string"}},
                     "entidad": {"type": "string"},
                     "relevancia_score": {"type": "integer"},
                 },
                 "required": ["articulo_numero", "seccion", "titulo_caso", "categoria", "region", "signo",
-                             "descripcion", "gravedad", "personas_involucradas", "entidad", "relevancia_score"],
+                             "descripcion", "gravedad", "estado", "personas_involucradas", "entidad", "relevancia_score"],
                 "additionalProperties": False,
             },
         }
@@ -760,7 +829,7 @@ def create_case_entry(analyzed: dict, article: dict, next_id: int) -> dict:
         }],
         "personas_involucradas": analyzed.get("personas_involucradas", []),
         "entidad": analyzed.get("entidad", "Por determinar"),
-        "estado": "Reportado",
+        "estado": analyzed.get("estado") if analyzed.get("estado") in ESTADOS_PROCESO else "Reportado",
         "gravedad": analyzed.get("gravedad", "media"),
         "auto_generated": True,
         "added_date": datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -835,7 +904,8 @@ def main():
     all_articles.extend(rss_articles)
     print(f"   -> {len(rss_articles)} articulos de RSS")
 
-    # Preferir medios sin paywall cuando la misma noticia existe en varios
+    # Medios bloqueados fuera; luego preferir medios sin paywall cuando la noticia existe en varios
+    all_articles = drop_blocked_sources(all_articles)
     all_articles = prefer_free_sources(all_articles)
 
     print(f"\n   Total articulos encontrados: {len(all_articles)}")
@@ -861,8 +931,8 @@ def main():
     # Add new cases with duplicate checking
     print("Agregando nuevos casos...")
     next_id = max([c.get("id", 0) for c in existing_cases], default=0) + 1
-    new_cases_added = 0
     skipped_duplicates = 0
+    candidates = []  # casos nuevos de esta corrida (antes del tope por medio)
 
     for analyzed in analyzed_cases:
         # El articulo original viene asociado desde analyze_with_claude
@@ -871,20 +941,28 @@ def main():
 
             # Check if relevance score is high enough
             if analyzed.get("relevancia_score", 0) >= 6:
-                # Final duplicate check before adding
+                # Final duplicate check before adding (contra lo existente y lo ya aceptado en esta corrida)
                 new_title = analyzed.get("titulo_caso", article["title"])
                 new_entity = analyzed.get("entidad", "")
 
-                if is_duplicate_case(new_title, article["url"], new_entity, existing_cases):
+                if is_duplicate_case(new_title, article["url"], new_entity, candidates + existing_cases):
                     print(f"   [SKIP] Duplicado detectado: {new_title[:50]}...")
                     skipped_duplicates += 1
                     continue
 
-                new_case = create_case_entry(analyzed, article, next_id)
-                existing_cases.insert(0, new_case)  # Add at the beginning
-                print(f"   [ADD] [{new_case.get('seccion', 'archivo')}] {new_case['titulo'][:70]}...")
-                next_id += 1
-                new_cases_added += 1
+                new_case = create_case_entry(analyzed, article, 0)
+                new_case["_score"] = analyzed.get("relevancia_score", 0)
+                candidates.append(new_case)
+
+    # Tope de El Tiempo (20 % de la corrida), luego ids definitivos e insercion al inicio
+    candidates = apply_source_cap(candidates)
+    for new_case in candidates:
+        new_case.pop("_score", None)
+        new_case["id"] = next_id
+        existing_cases.insert(0, new_case)  # Add at the beginning
+        print(f"   [ADD] [{new_case.get('seccion', 'archivo')}] [{new_case['fuentes'][0]['nombre']}] {new_case['titulo'][:60]}...")
+        next_id += 1
+    new_cases_added = len(candidates)
 
     if new_cases_added > 0:
         # Update and save data

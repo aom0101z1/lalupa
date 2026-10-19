@@ -48,9 +48,6 @@ const mediosModalClose = document.getElementById('medios-modal-close');
 const btnMedios = document.getElementById('btn-medios');
 const mediosStats = document.getElementById('medios-stats');
 const mediosGrid = document.getElementById('medios-grid');
-const violenciaModal = document.getElementById('violencia-modal');
-const violenciaModalClose = document.getElementById('violencia-modal-close');
-const btnViolencia = document.getElementById('btn-violencia');
 
 // Clasificacion de medios
 const mediosInfo = {
@@ -398,7 +395,7 @@ function casoCardHTML(caso) {
                 <span>EXP. #${caso.id}</span>
                 <span>${fechaCorta(caso.fecha)}</span>
                 ${gravedadHTML(caso.gravedad)}
-                ${estadoHTML(caso.estado)}
+                ${esCasoArchivo(caso) ? procesoHTML(caso.estado) : estadoHTML(caso.estado)}
             </div>
             ${fuente ? `<div class="lp-srcs"><span>${escapeHtml(fuente)}</span>${fuentes.length > 1 ? `<span class="lp-srcs-more">+${fuentes.length - 1}</span>` : ''}</div>` : ''}
         </article>
@@ -434,6 +431,30 @@ function estadoHTML(estado) {
     return `<span class="lp-stamp ${tipo ? 'lp-stamp-' + tipo : ''}">${escapeHtml(estado)}</span>`;
 }
 
+// Línea de proceso: en qué etapa va un expediente del período 2022–2026, según su `estado`.
+// Etapas: 1 Reportado · 2 En investigación · 3 Imputado · 4 Juicio · 5 Comprobado / condena.
+const ETAPAS_PROCESO = ['Reportado', 'En investigación', 'Imputado', 'Juicio', 'Comprobado / condena'];
+
+function etapaProceso(estado) {
+    const e = (estado || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    if (!e) return 0;
+    if (e.includes('desmentido') || e.includes('archivado') || e.includes('absuelto')) return -1;
+    if (e.includes('condena') || e.includes('comprobado')) return 5;
+    if (e.includes('juicio') || e.includes('acusa')) return 4;
+    if (e.includes('imputa') || e.includes('profugo') || e.includes('captura')) return 3;
+    if (e.includes('investigacion')) return 2;
+    return 1;
+}
+
+function procesoHTML(estado, conEtiqueta = false) {
+    const n = etapaProceso(estado);
+    if (n === 0) return '';
+    if (n < 0) return `<span class="lp-stamp lp-stamp-off">${escapeHtml(estado)}</span>`;
+    const puntos = ETAPAS_PROCESO.map((et, i) => `<i class="${i < n ? 'on' : ''}" title="${escapeHtml(et)}"></i>`).join('');
+    const titulo = `Etapa ${n} de 5 · ${estado}`;
+    return `<span class="lp-proc lp-proc-${n}" title="${escapeHtml(titulo)}" aria-label="${escapeHtml(titulo)}">${puntos}${conEtiqueta ? `<span class="lp-proc-lbl">${escapeHtml(estado)} · ${n}/5</span>` : ''}</span>`;
+}
+
 function signoHTML(signo) {
     if (signo === 'positivo') return '<span class="lp-sign lp-sign-pos">▲ Avance</span>';
     if (signo === 'negativo') return '<span class="lp-sign lp-sign-neg">▼ Denuncia</span>';
@@ -445,8 +466,8 @@ function signoHTML(signo) {
 // PORTADA: noticia principal, cifra, lo último, contador, secciones y opinión
 // ============================================================
 const SECCIONES_PORTADA = {
-    'archivo': { nombre: 'Archivo Petro', sub: 'Corrupción, contratos y abuso de poder, 2022–2026', color: 'var(--lp-petro)', ancla: '#archivo', unidad: 'casos' },
-    'nuevo-gobierno': { nombre: 'Nuevo Gobierno', sub: 'Qué ha hecho el gobierno 2026–2030, con fuentes', color: 'var(--lp-gob)', ancla: '#nuevo-gobierno', unidad: 'hechos' },
+    'archivo': { nombre: 'Investigaciones', sub: 'Procesos abiertos sobre el período 2022–2026, con fuentes', color: 'var(--lp-pol)', ancla: '#archivo', unidad: 'expedientes' },
+    'nuevo-gobierno': { nombre: 'Gestión actual', sub: 'Medidas y resultados del gobierno 2026–2030, con fuentes', color: 'var(--lp-pol)', ancla: '#nuevo-gobierno', unidad: 'hechos' },
     'terremoto': { nombre: 'Lupa al Terremoto', sub: 'Ayudas, contratos y reconstrucción · énfasis Pereira', color: 'var(--lp-terr)', ancla: '#terremoto', unidad: 'hechos' }
 };
 
@@ -531,8 +552,8 @@ function renderPortada() {
     const fmt = n => n.toLocaleString('es-CO');
     document.getElementById('portada-contador').innerHTML = `
         <div><b>${fmt(visibles.length)}</b><span>casos documentados</span></div>
-        <div style="--c: var(--lp-petro)"><b>${fmt(porSeccion['archivo'])}</b><span>archivo Petro 2022–2026</span></div>
-        <div style="--c: var(--lp-gob)"><b>${fmt(porSeccion['nuevo-gobierno'])}</b><span>gestión nuevo gobierno</span></div>
+        <div style="--c: var(--lp-pol)"><b>${fmt(porSeccion['archivo'])}</b><span>investigaciones 2022–2026</span></div>
+        <div style="--c: var(--lp-pol)"><b>${fmt(porSeccion['nuevo-gobierno'])}</b><span>gestión 2026–2030</span></div>
         <div style="--c: var(--lp-terr)"><b>${fmt(porSeccion['terremoto'])}</b><span>lupa al terremoto</span></div>
         <div><b>${fmt(medios)}</b><span>medios citados como fuente</span></div>
     `;
@@ -661,17 +682,16 @@ function renderGestionCompare() {
 
     container.innerHTML = `
         <div class="compare-card compare-saliente">
-            <span class="compare-label">Gobierno saliente · 2022-2026</span>
-            <span class="compare-nombre">Gustavo Petro</span>
+            <span class="compare-label">Período 2022–2026</span>
+            <span class="compare-nombre">Investigaciones en curso</span>
             <span class="compare-numero">${casosSaliente}</span>
-            <span class="compare-desc">casos de corrupción e irregularidades documentados con fuentes</span>
+            <span class="compare-desc">expedientes documentados con fuentes; muchos siguen abiertos en Fiscalía, Procuraduría o Contraloría</span>
         </div>
-        <div class="compare-vs">VS</div>
         <div class="compare-card compare-entrante">
-            <span class="compare-label">Gobierno entrante · 2026-2030</span>
-            <span class="compare-nombre">Abelardo de la Espriella</span>
+            <span class="compare-label">Período 2026–2030</span>
+            <span class="compare-nombre">Gestión actual</span>
             <span class="compare-numero">${hechosNuevo}</span>
-            <span class="compare-desc">hechos de gestión documentados con fuentes desde el 7 de agosto</span>
+            <span class="compare-desc">hechos de gestión documentados con fuentes desde el 7 de agosto de 2026, con el mismo estándar</span>
         </div>
     `;
 }
@@ -1019,6 +1039,7 @@ function openModal(id) {
                 ${caso.gravedad ? `<span class="caso-gravedad ${caso.gravedad}">${caso.gravedad}</span>` : ''}
                 ${caso.estado ? `<span class="caso-estado ${caso.estado.toLowerCase().replace(/ /g, '')}">${escapeHtml(caso.estado)}</span>` : ''}
             </div>
+            ${esCasoArchivo(caso) && etapaProceso(caso.estado) > 0 ? `<div class="lp-proc-row"><span class="lp-proc-row-lbl">Etapa del proceso</span>${procesoHTML(caso.estado, true)}</div>` : ''}
         </div>
 
         ${typeof isAdmin !== 'undefined' && isAdmin ? adminCasoBarHTML(caso) : ''}
@@ -1343,7 +1364,8 @@ function filterByMedio(medioNombre) {
     // Aplicar el filtro
     filterAndRenderCasos();
 
-    // Hacer scroll a la seccion de casos
+    // Mostrar la pestaña de investigaciones y hacer scroll a la seccion de casos
+    mostrarPanelPolitica('archivo');
     document.getElementById('casos').scrollIntoView({ behavior: 'smooth' });
 }
 
@@ -1363,36 +1385,37 @@ if (mediosModal) {
     });
 }
 
-// Modal de violencia
-function openViolenciaModal() {
-    if (violenciaModal) {
-        violenciaModal.classList.add('active');
-        document.body.style.overflow = 'hidden';
+// ============================================================
+// SECCIÓN POLÍTICA: pestañas (investigaciones 2022–2026, gestión 2026–2030,
+// violencia en cifras; "promesas" se agrega en la fase 3). Los paneles tienen
+// data-panel y el id histórico (#archivo, #nuevo-gobierno, #violencia) para que
+// los enlaces viejos sigan funcionando.
+// ============================================================
+const PANELES_POLITICA = ['archivo', 'nuevo-gobierno', 'violencia', 'promesas'];
+
+function mostrarPanelPolitica(key, scroll = false) {
+    if (!PANELES_POLITICA.includes(key) || !document.getElementById(key)) return false;
+    document.querySelectorAll('#politica .lp-tab-panel').forEach(p => p.classList.toggle('is-active', p.dataset.panel === key));
+    document.querySelectorAll('#politica-tabs .lp-tab').forEach(t => {
+        const on = t.dataset.panel === key;
+        t.classList.toggle('is-active', on);
+        t.setAttribute('aria-selected', on ? 'true' : 'false');
+    });
+    if (scroll) {
+        const sec = document.getElementById('politica');
+        if (sec) window.scrollTo({ top: sec.getBoundingClientRect().top + window.scrollY - 64, behavior: 'smooth' });
     }
+    return true;
 }
 
-function closeViolenciaModal() {
-    if (violenciaModal) {
-        violenciaModal.classList.remove('active');
-        document.body.style.overflow = '';
-    }
+// #politica abre la primera pestaña; #archivo / #nuevo-gobierno / #violencia abren la suya
+function panelPoliticaDesdeHash() {
+    const h = window.location.hash.replace('#', '');
+    if (h === 'politica') { mostrarPanelPolitica('archivo'); return; }
+    if (PANELES_POLITICA.includes(h)) mostrarPanelPolitica(h, true);
 }
-
-// Event listeners para modal de violencia
-if (btnViolencia) {
-    btnViolencia.addEventListener('click', (e) => {
-        e.preventDefault();
-        openViolenciaModal();
-    });
-}
-if (violenciaModalClose) {
-    violenciaModalClose.addEventListener('click', closeViolenciaModal);
-}
-if (violenciaModal) {
-    violenciaModal.addEventListener('click', (e) => {
-        if (e.target === violenciaModal) closeViolenciaModal();
-    });
-}
+window.addEventListener('hashchange', panelPoliticaDesdeHash);
+panelPoliticaDesdeHash();
 
 // Iniciar
 init();
@@ -3150,10 +3173,11 @@ async function approveAllPendingCases() {
     alert('Todos los casos quedaron marcados como revisados');
 }
 
-// Cabecera: "Buscar" lleva al buscador del Archivo Petro
+// Cabecera: "Buscar" lleva al buscador de la pestaña Investigaciones (Política)
 document.getElementById('lp-search-btn')?.addEventListener('click', () => {
     const input = document.getElementById('search-input');
     if (!input) return;
+    mostrarPanelPolitica('archivo');
     input.scrollIntoView({ behavior: 'smooth', block: 'center' });
     setTimeout(() => input.focus({ preventScroll: true }), 400);
 });
