@@ -23,7 +23,146 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": ""
+    "ultima_actualizacion": "2026-10-19"
   },
-  "lecturas": []
+  "lecturas": [
+    {
+      "id": 1,
+      "titulo": "Las ventas de smartphones caen 20% por el encarecimiento de memorias DRAM y NAND",
+      "resumen": "Según Counterpoint, las ventas mundiales de smartphones cayeron 20% interanual en el tercer trimestre de 2026, el peor dato desde 2012. El alza de precios de memorias DRAM y NAND ha encarecido los móviles un 20% en lo que va del año, y la consultora prevé que los precios bajos no volverán ni cuando pase la crisis de componentes.",
+      "por_que_leerlo": "Entender por qué los celulares serán más caros de forma estructural, útil para decidir cuándo comprar o vender.",
+      "seccion": "tecnologia",
+      "tags": [
+        "smartphones",
+        "memoria",
+        "precios",
+        "mercado tecnológico"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/moviles/movil-120-euros-se-muere-no-va-a-volver"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:33",
+      "auto_generated": true
+    },
+    {
+      "id": 2,
+      "titulo": "Estudio revela que los paneles solares en cultivos protegen a los agricultores del calor",
+      "resumen": "Un estudio publicado en el Journal of Advances in Modeling Earth Systems muestra que la agrovoltaica, combinar paneles solares con cultivos en el mismo terreno, no solo genera energía limpia sino que también reduce el estrés por calor en quienes trabajan la tierra. La investigación aporta evidencia sobre un beneficio adicional no esperado de esta tecnología híbrida.",
+      "por_que_leerlo": "Conocer una aplicación práctica y medida de la energía solar que podría cambiar cómo se diseñan proyectos agrícolas.",
+      "seccion": "ciencia",
+      "tags": [
+        "agrovoltaica",
+        "energía solar",
+        "agricultura",
+        "cambio climático"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/paneles-solares-pueden-hacer-algo-inesperado-cuando-se-instalan-cultivos-proteger-a-agricultores-calor"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:33",
+      "auto_generated": true
+    },
+    {
+      "id": 3,
+      "titulo": "MinAgricultura y Grupo Éxito se alían para la compra directa de productos agropecuarios",
+      "resumen": "El Ministerio de Agricultura de Colombia y Grupo Éxito firmaron una alianza para la compra directa de productos agropecuarios, una unión que podría representar oportunidades comerciales por más de $1,2 billones anuales. El acuerdo busca mejorar la comercialización de productos del campo colombiano con menos intermediarios.",
+      "por_que_leerlo": "Una oportunidad concreta de negocio y comercialización para el sector agropecuario colombiano.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "agro",
+        "grupo éxito",
+        "colombia",
+        "comercialización"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/alianza-entre-el-ministerio-de-agricultura-y-el-grupo-exito-4505636"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:33",
+      "auto_generated": true
+    },
+    {
+      "id": 4,
+      "titulo": "Cómo la litografía ultravioleta extrema de ASML logra una precisión asombrosa",
+      "resumen": "Las máquinas de litografía ultravioleta extrema (UVE) de ASML, desarrolladas durante más de dos décadas, permiten grabar patrones tan precisos que equivaldrían a escribir todo El Señor de los Anillos en el filo de una hoja de papel. Jos Benschop, líder de investigación de la empresa, resolvió en 1997 problemas que parecían imposibles de superar. Esta tecnología es la base de la fabricación de los chips más avanzados del mundo.",
+      "por_que_leerlo": "Entender la escala de precisión detrás de los chips que usamos a diario.",
+      "seccion": "tecnologia",
+      "tags": [
+        "litografía",
+        "semiconductores",
+        "asml",
+        "chips"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/tecnologia-que-usamos-para-fabricar-chips-sirve-para-escribir-todo-senor-anillos-filo-hoja-papel"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:33",
+      "auto_generated": true
+    },
+    {
+      "id": 5,
+      "titulo": "Microsoft lleva su antivirus Defender a los escritorios Linux",
+      "resumen": "Microsoft lanzó su software de seguridad Defender para distribuciones de Linux en equipos de escritorio, respondiendo al crecimiento de este sistema operativo entre desarrolladores y su consecuente atractivo para atacantes. La medida busca cerrar una brecha de seguridad en un entorno que tradicionalmente dependía de herramientas de terceros.",
+      "por_que_leerlo": "Relevante para quienes usan Linux y quieren saber qué opciones de seguridad oficiales existen ahora.",
+      "seccion": "tecnologia",
+      "tags": [
+        "linux",
+        "seguridad informática",
+        "microsoft",
+        "antivirus"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/software/microsoft-defender-linux-escritorios-seguridad/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:33",
+      "auto_generated": true
+    },
+    {
+      "id": 6,
+      "titulo": "México busca aprobar proyectos de energías renovables por US$12.500 millones",
+      "resumen": "La junta directiva de la Comisión Federal de Electricidad de México tiene previsto votar el 20 de octubre sobre más de 60 proyectos de energías renovables, según una fuente con conocimiento del asunto. La inversión total asciende a US$12.500 millones.",
+      "por_que_leerlo": "Da una señal clara de hacia dónde se mueve la inversión energética en la región, relevante para quienes evalúan oportunidades en el sector.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energías renovables",
+        "méxico",
+        "inversión",
+        "energía"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/mexico-busca-la-aprobacion-de-proyectos-de-energias-renovables-4505660"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:33",
+      "auto_generated": true
+    }
+  ]
 }
