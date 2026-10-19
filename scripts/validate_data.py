@@ -149,6 +149,7 @@ REQUIRED_IDS = [
     "politica", "politica-tabs", "archivo", "nuevo-gobierno", "violencia",
     "portada-lecturas", "emprendimiento", "ciencia", "tecnologia",
     "lecturas-emprendimiento", "lecturas-ciencia", "lecturas-tecnologia",
+    "promesas", "promesas-content", "tab-promesas",
 ]
 
 
@@ -190,6 +191,60 @@ def validate_py():
             print(f"  {name}: compila OK")
         except py_compile.PyCompileError as e:
             err(f"{name} NO compila: {e}")
+
+
+# ---------------------------------------------------------------- promesas.json
+PROMESA_REQUIRED = ("id", "gobierno", "tema", "promesa", "estado", "resultado", "fuente_promesa")
+
+
+def validate_promesas():
+    path = os.path.join(ROOT, "promesas.json")
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except json.JSONDecodeError as e:
+        err(f"promesas.json NO es JSON valido: {e}")
+        return
+    except FileNotFoundError:
+        err("promesas.json no existe")
+        return
+    for key in ("gobiernos", "estados", "temas", "promesas"):
+        if key not in data:
+            err(f"promesas.json: falta la clave '{key}'")
+            return
+    gobiernos = {g["id"]: set(g.get("estados", [])) for g in data["gobiernos"]}
+    estados = {e["id"] for e in data["estados"]}
+    temas = set(data["temas"])
+    ids = {}
+    for i, p in enumerate(data["promesas"]):
+        tag = f"promesa[{i}] id={p.get('id')}"
+        for k in PROMESA_REQUIRED:
+            if k not in p or p[k] in ("", None):
+                err(f"{tag}: falta '{k}'")
+        pid = p.get("id")
+        if not isinstance(pid, int):
+            err(f"{tag}: id debe ser entero")
+        elif pid in ids:
+            err(f"{tag}: id DUPLICADO")
+        else:
+            ids[pid] = i
+        if p.get("gobierno") not in gobiernos:
+            err(f"{tag}: gobierno invalido '{p.get('gobierno')}'")
+        elif p.get("estado") not in gobiernos[p["gobierno"]]:
+            err(f"{tag}: estado '{p.get('estado')}' no es valido para el gobierno {p['gobierno']}")
+        if p.get("estado") not in estados:
+            err(f"{tag}: estado invalido '{p.get('estado')}'")
+        if p.get("tema") not in temas:
+            err(f"{tag}: tema invalido '{p.get('tema')}'")
+        fp = p.get("fuente_promesa") or {}
+        if not isinstance(fp, dict) or not str(fp.get("url", "")).startswith("http"):
+            err(f"{tag}: fuente_promesa sin URL valida")
+        for j, f in enumerate(p.get("fuentes_resultado") or []):
+            if not str(f.get("url", "")).startswith("http"):
+                err(f"{tag}: fuentes_resultado[{j}] sin URL valida")
+        if p.get("estado") != "sin-avance" and not (p.get("fuentes_resultado") or []):
+            warn(f"{tag}: estado '{p.get('estado')}' sin fuentes_resultado")
+    print(f"  promesas.json: {len(data['promesas'])} promesas, ids unicos={len(ids) == len(data['promesas'])}")
 
 
 # ---------------------------------------------------------------- lecturas.json
@@ -253,6 +308,7 @@ if __name__ == "__main__":
     print("La Lupa - validador")
     validate_data()
     validate_lecturas()
+    validate_promesas()
     if not DATA_ONLY:
         validate_html()
         validate_js()

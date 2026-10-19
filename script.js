@@ -160,6 +160,7 @@ async function init() {
         renderPortada();
         openCasoFromHash();
         loadLecturas();
+        loadPromesas();
 
         // Fecha de última actualización: la más reciente entre estadisticas y los casos publicados
         if (ultimaActualizacion) {
@@ -804,6 +805,102 @@ async function setLecturaStatus(id, status) {
         console.error('Error guardando estado de lectura:', e);
         alert('No se pudo guardar el estado de la lectura');
     }
+}
+
+// ============================================================
+// PROMESAS (fase 3): promesas de ambos gobiernos con estado y fuentes.
+// Datos en promesas.json. Se muestra como cuarta pestaña de Política.
+// ============================================================
+let promesasData = { gobiernos: [], estados: [], promesas: [] };
+const promesasFiltro = {}; // gobiernoId -> estado activo ('' = todos)
+
+async function loadPromesas() {
+    try {
+        const r = await fetch('promesas.json?t=' + Math.floor(Date.now() / 600000));
+        if (!r.ok) return;
+        promesasData = await r.json();
+        if (!Array.isArray(promesasData.promesas)) promesasData.promesas = [];
+        renderPromesas();
+    } catch (e) {
+        console.warn('La Lupa: promesas.json no disponible', e);
+    }
+}
+
+function estadoPromesaInfo(id) {
+    return (promesasData.estados || []).find(e => e.id === id) || { id, nombre: id, color: 'var(--lp-muted)' };
+}
+
+const TEMAS_PROMESA = {
+    salud: 'Salud', seguridad: 'Seguridad', economia: 'Economía', paz: 'Paz', educacion: 'Educación',
+    ambiente: 'Ambiente y energía', infraestructura: 'Infraestructura', social: 'Social', institucional: 'Institucional',
+    internacional: 'Internacional', otros: 'Otros'
+};
+
+function promesaCardHTML(p) {
+    const est = estadoPromesaInfo(p.estado);
+    const fp = p.fuente_promesa || {};
+    const fr = p.fuentes_resultado || [];
+    return `
+        <article class="lp-prom" data-id="${p.id}" style="--c: ${est.color}">
+            <div class="lp-prom-top">
+                <span class="lp-kicker" style="--c: var(--lp-pol)">${escapeHtml(TEMAS_PROMESA[p.tema] || p.tema || '')}</span>
+                <span class="lp-prom-estado">${escapeHtml(est.nombre)}</span>
+            </div>
+            <h4>${escapeHtml(p.promesa)}</h4>
+            ${fp.url ? `<p class="lp-prom-src"><span>Prometido en</span> <a href="${escapeHtml(fp.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(fp.nombre || 'fuente')}</a>${fp.fecha ? ` · ${fechaCorta(fp.fecha)}` : ''}</p>` : ''}
+            <p class="lp-prom-res">${escapeHtml(p.resultado || '')}</p>
+            ${fr.length ? `<div class="lp-srcs">${fr.map(f => `<a href="${escapeHtml(f.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(f.nombre || 'fuente')}${f.fecha ? ` · ${fechaCorta(f.fecha, false)}` : ''}</a>`).join('')}</div>` : ''}
+            ${p.fecha_actualizacion ? `<div class="lp-meta"><span>Actualizado ${fechaCorta(p.fecha_actualizacion)}</span></div>` : ''}
+        </article>`;
+}
+
+function renderPromesas() {
+    const cont = document.getElementById('promesas-content');
+    const tab = document.getElementById('tab-promesas');
+    if (!cont) return;
+    const todas = promesasData.promesas;
+    const hay = todas.length > 0;
+    if (tab) tab.hidden = !hay;
+    if (!hay) { cont.innerHTML = ''; return; }
+
+    cont.innerHTML = (promesasData.gobiernos || []).map(g => {
+        const lista = todas.filter(p => p.gobierno === g.id);
+        if (!lista.length) return '';
+        const estados = (g.estados || []).map(id => estadoPromesaInfo(id));
+        const counts = {};
+        lista.forEach(p => { counts[p.estado] = (counts[p.estado] || 0) + 1; });
+        const activo = promesasFiltro[g.id] || '';
+        const visibles = activo ? lista.filter(p => p.estado === activo) : lista;
+        const total = lista.length;
+        return `
+            <section class="lp-prom-gob" data-gobierno="${g.id}">
+                <header class="lp-prom-head">
+                    <div>
+                        <h3>${escapeHtml(g.nombre)}</h3>
+                        <p>${escapeHtml(g.nota || '')}</p>
+                    </div>
+                    <div class="lp-prom-tally">
+                        ${estados.map(e => `<div style="--c: ${e.color}"><b>${counts[e.id] || 0}</b><span>${escapeHtml(e.nombre)}</span></div>`).join('')}
+                        <div><b>${total}</b><span>promesas</span></div>
+                    </div>
+                </header>
+                <div class="lp-prom-bar" role="img" aria-label="${estados.map(e => `${e.nombre}: ${counts[e.id] || 0}`).join(', ')}">
+                    ${estados.map(e => `<i style="--c: ${e.color}; --w: ${total ? (100 * (counts[e.id] || 0) / total).toFixed(1) : 0}%" title="${escapeHtml(e.nombre)}: ${counts[e.id] || 0}"></i>`).join('')}
+                </div>
+                <div class="gestion-filters lp-prom-chips">
+                    <button class="gestion-chip${activo === '' ? ' active' : ''}" data-estado="">Todas (${total})</button>
+                    ${estados.map(e => `<button class="gestion-chip${activo === e.id ? ' active' : ''}" data-estado="${e.id}" style="--chip-color: ${e.color}">${escapeHtml(e.nombre)} (${counts[e.id] || 0})</button>`).join('')}
+                </div>
+                <div class="lp-prom-grid">${visibles.map(p => promesaCardHTML(p)).join('')}</div>
+            </section>`;
+    }).join('');
+
+    cont.querySelectorAll('.lp-prom-gob').forEach(sec => {
+        sec.querySelectorAll('[data-estado]').forEach(btn => btn.addEventListener('click', () => {
+            promesasFiltro[sec.dataset.gobierno] = btn.dataset.estado;
+            renderPromesas();
+        }));
+    });
 }
 
 // ============================================================

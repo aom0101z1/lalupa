@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Lupa · Lo que vale la pena leer</title>
     <meta name="description" content="Periódico digital colombiano. Política con fuentes verificables: investigaciones en curso, gestión pública y cifras de violencia. Pronto también ciencia, tecnología y emprendimiento.">
-    <link rel="stylesheet" href="styles.css?v=20261019">
+    <link rel="stylesheet" href="styles.css?v=20261020">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -126,7 +126,7 @@
                     <a href="#archivo" class="lp-tab is-active" data-panel="archivo" role="tab" aria-selected="true"><span class="lp-tab-kicker">2022–2026</span>Investigaciones en curso</a>
                     <a href="#nuevo-gobierno" class="lp-tab" data-panel="nuevo-gobierno" role="tab" aria-selected="false"><span class="lp-tab-kicker">2026–2030</span>Gestión actual</a>
                     <a href="#violencia" class="lp-tab" data-panel="violencia" role="tab" aria-selected="false"><span class="lp-tab-kicker">Datos</span>Violencia en cifras</a>
-                    <!-- Fase 3: <a href="#promesas" class="lp-tab" data-panel="promesas"><span class="lp-tab-kicker">Ambos períodos</span>Promesas</a> -->
+                    <a href="#promesas" class="lp-tab" data-panel="promesas" role="tab" aria-selected="false" id="tab-promesas" hidden><span class="lp-tab-kicker">Ambos períodos</span>Promesas</a>
                 </nav>
 
                 <!-- Pestaña 1: investigaciones en curso (archivo 2022–2026) -->
@@ -450,6 +450,16 @@
                             <a href="https://codhes.org" target="_blank"><i class="fas fa-external-link-alt"></i> CODHES</a>
                         </div>
                     </div>
+                </div>
+
+                <!-- Pestaña 4: promesas de ambos gobiernos (promesas.json; renderPromesas()) -->
+                <div class="lp-tab-panel" id="promesas" data-panel="promesas">
+                    <div class="lp-panel-head">
+                        <span class="lp-kicker">Ambos períodos</span>
+                        <h3>Promesas</h3>
+                        <p>Lo que cada gobierno prometió y lo que se puede verificar. Cada promesa cita dónde se hizo y cada estado cita la fuente del resultado. El período 2022–2026 se mide al cierre del mandato; el 2026–2030 se actualiza con cada avance.</p>
+                    </div>
+                    <div id="promesas-content"></div>
                 </div>
                 </section><!-- /politica -->
 
@@ -6889,7 +6899,7 @@
     <!-- Firebase Configuration -->
     <script src="firebase-config.js"></script>
 
-    <script src="script.js?v=20261019"></script>
+    <script src="script.js?v=20261020"></script>
     <script>
         // Hero stats animation
         function animateValue(element, start, end, duration) {

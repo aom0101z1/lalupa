@@ -1,0 +1,1180 @@
+{
+  "gobiernos": [
+    {
+      "id": "2022-2026",
+      "nombre": "Gobierno 2022–2026",
+      "nota": "Promesas de campaña y de gobierno. Estado al cierre del mandato, el 7 de agosto de 2026.",
+      "estados": [
+        "cumplida",
+        "parcial",
+        "incumplida"
+      ]
+    },
+    {
+      "id": "2026-2030",
+      "nombre": "Gobierno 2026–2030",
+      "nota": "Promesas de campaña y primeros compromisos. Estado en seguimiento; se actualiza con cada avance verificable.",
+      "estados": [
+        "cumplida",
+        "en-curso",
+        "sin-avance"
+      ]
+    }
+  ],
+  "estados": [
+    {
+      "id": "cumplida",
+      "nombre": "Cumplida",
+      "color": "#1E7A4C"
+    },
+    {
+      "id": "parcial",
+      "nombre": "Parcial",
+      "color": "#B8620B"
+    },
+    {
+      "id": "incumplida",
+      "nombre": "Incumplida",
+      "color": "#B3122E"
+    },
+    {
+      "id": "en-curso",
+      "nombre": "En curso",
+      "color": "#1F5FAD"
+    },
+    {
+      "id": "sin-avance",
+      "nombre": "Sin avance",
+      "color": "#6B7486"
+    }
+  ],
+  "temas": [
+    "salud",
+    "seguridad",
+    "economia",
+    "paz",
+    "educacion",
+    "ambiente",
+    "infraestructura",
+    "social",
+    "institucional",
+    "internacional",
+    "otros"
+  ],
+  "estadisticas": {
+    "ultima_actualizacion": "2026-10-18"
+  },
+  "promesas": [
+    {
+      "id": 1,
+      "gobierno": "2026-2030",
+      "tema": "paz",
+      "promesa": "Cerrar las mesas de diálogo de la Paz Total: \"La opción del diálogo está completamente agotada\"",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (discurso de posesión, Cali)",
+        "url": "https://www.elcolombiano.com/colombia/posesion-abelardo-de-la-espriella-minuto-a-minuto-7-agosto-EN39705199",
+        "fecha": "2026-08-07"
+      },
+      "estado": "cumplida",
+      "resultado": "El 9 de septiembre de 2026 el Gobierno expidió las resoluciones 390 y 391, que revocaron la designación de los negociadores con el Clan del Golfo (EGC) y con el ELN, y el Decreto 389, que cierra la Zona de Ubicación Temporal del Valle del Guamuez (Putumayo) a partir del 30 de septiembre. El 11 de septiembre confirmó el fin de todos los procesos heredados: disidencias de alias Calarcá y de la CNEB, Comuneros del Sur y bandas de Medellín, Buenaventura y Chocó. Según La Silla Vacía, en el primer mes se firmaron doce resoluciones que terminan mesas y se retiró el reconocimiento a más de 70 voceros y gestores de paz; la salida ofrecida es el sometimiento a la justicia.",
+      "fuentes_resultado": [
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/colombia/presidente-abelardo-de-la-espriella-pone-fin-a-designacion-de-negociadores-con-el-eln-y-el-clan-del-golfo-0937.html",
+          "fecha": "2026-09-10"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fin-de-la-paz-total-presidente-de-la-espriella-confirmo-el-cierre-de-todas-las-mesas-de-dialogo-EI40955540",
+          "fecha": "2026-09-11"
+        },
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
+          "fecha": "2026-09-10"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 2,
+      "gobierno": "2026-2030",
+      "tema": "seguridad",
+      "promesa": "Expedir un listado oficial de organizaciones narcoterroristas para combatirlas con toda la Fuerza Pública",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (discurso de posesión, Cali)",
+        "url": "https://www.elcolombiano.com/colombia/posesion-abelardo-de-la-espriella-minuto-a-minuto-7-agosto-EN39705199",
+        "fecha": "2026-08-07"
+      },
+      "estado": "en-curso",
+      "resultado": "No se encontró un decreto que publique el listado anunciado en la posesión. El Gobierno trasladó la medida al proyecto de Estatuto Antiterrorista, que crea un registro de organizaciones terroristas, congela sus bienes y les prohíbe contratar con el Estado; el Consejo Superior de Política Criminal lo avaló con cambios que la Presidencia revisa. En la alocución del 12 de octubre de 2026 el presidente anunció su radicación en el Congreso esa semana, y el 13 de octubre los ministros Rodrigo Lara (Interior) e Iván Cancino (Justicia) radicaron la Ley de Sometimiento (22 artículos), pieza complementaria del estatuto. El trámite legislativo apenas comienza.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/una-vacuna-contra-la-delincuencia-abelardo-de-la-espriella-anuncia-radicacion-del-estatuto-antiterrorista-en-el-congreso/202638/",
+          "fecha": "2026-10-12"
+        },
+        {
+          "nombre": "El Universal (Cartagena)",
+          "url": "https://www.eluniversal.com.co/colombia/2026/10/13/ley-de-sometimiento-asi-es-el-estatuto-antiterrorismo-radicado-por-el-gobierno/",
+          "fecha": "2026-10-14"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/consejo-de-politica-criminal-avalo-el-estatuto-antiterrorista-de-abelardo-de-la-espriella/202650/",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 3,
+      "gobierno": "2026-2030",
+      "tema": "seguridad",
+      "promesa": "Construir diez megacárceles de gran escala en todo el país, en la línea del modelo de El Salvador",
+      "fuente_promesa": {
+        "nombre": "La Silla Vacía (programa 'País Milagro')",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-de-abelardo-de-la-espriella/",
+        "fecha": "2026-05-20"
+      },
+      "estado": "en-curso",
+      "resultado": "El 14 de septiembre de 2026 el presidente se reunió en Barranquilla con los ministros de Justicia (Iván Cancino) y Transporte (Elsa Noguera) y con empresarios de la construcción para definir los proyectos de megacárceles, que según el Gobierno se harán con la empresa privada. La única obra en marcha es la cárcel Renacer, en Sabanas de San Ángel (Magdalena), iniciada en el gobierno Duque: 1.974 cupos, 86 % de avance físico y 75 % financiero según la Gobernación, que el Ejecutivo quiere terminar en 2026. A 18 de octubre no hay una megacárcel nueva en construcción.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/presidente-abelardo-de-la-espriella-dio-el-primer-paso-para-la-construccion-de-megacarceles-en-el-pais-cito-a-reunion-clave/202630/",
+          "fecha": "2026-09-14"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/colombia/gobierno-de-abelardo-de-la-espriella-prioriza-construccion-de-megacarcel-en-sabanas-de-san-angel-magdalena-2903.html",
+          "fecha": "2026-09-29"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 4,
+      "gobierno": "2026-2030",
+      "tema": "seguridad",
+      "promesa": "Intervenir 330.000 hectáreas de coca con fumigación aérea (bioherbicidas), drones y erradicación manual",
+      "fuente_promesa": {
+        "nombre": "Infobae Colombia",
+        "url": "https://www.infobae.com/colombia/2026/06/19/abelardo-de-la-espriella-expuso-de-que-trataran-los-primeros-90-decretos-que-firmaria-si-derrota-a-ivan-cepeda-en-la-segunda-vuelta-presidencial/",
+        "fecha": "2026-06-19"
+      },
+      "estado": "en-curso",
+      "resultado": "La Resolución 0006 del 18 de agosto de 2026 del Consejo Nacional de Estupefacientes dejó sin efecto la Resolución 6 de 2015, que suspendía la aspersión aérea con glifosato. La propia norma aclara que no reanuda la fumigación: se requiere un Plan de Manejo Ambiental vigente de la ANLA, consulta previa con comunidades étnicas y el cumplimiento de la Sentencia T-236 de 2017. A 18 de octubre no se encontró reporte de operaciones de aspersión aérea ni de uso de bioherbicidas.",
+      "fuentes_resultado": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-elimina-restriccion-aspersion-glifosato-cultivos-ilicitos-AA40403298",
+          "fecha": "2026-08-28"
+        },
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
+          "fecha": "2026-09-10"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 5,
+      "gobierno": "2026-2030",
+      "tema": "seguridad",
+      "promesa": "Usar la extradición como herramienta central contra el narcotráfico, junto con extinción de dominio exprés",
+      "fuente_promesa": {
+        "nombre": "Semana (13 puntos del plan de gobierno)",
+        "url": "https://www.semana.com/politica/articulo/las-propuestas-de-abelardo-de-la-espriella-en-13-puntos-clave/202654/",
+        "fecha": "2026-06-21"
+      },
+      "estado": "cumplida",
+      "resultado": "El 14 de octubre de 2026 el presidente firmó la extradición número 131 de su administración, en 67 días de gobierno. En el balance de los primeros 60 días (7 de octubre) destacó la extradición a Estados Unidos de Giovanni Andrés Rojas, alias Araña. La Silla Vacía contabilizó en el primer mes 45 actos administrativos de extradición, 25 de ellos concesiones nuevas (8 a Estados Unidos), sin ninguna negativa.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-firmo-la-extradicion-numero-131-y-lanzo-advertencia-se-les-acabo-la-fiesta/202610/",
+          "fecha": "2026-10-14"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-hace-importante-anuncio-tras-dos-meses-de-gobierno-y-envia-mensaje-a-colombia/202644/",
+          "fecha": "2026-10-07"
+        },
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
+          "fecha": "2026-09-10"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 6,
+      "gobierno": "2026-2030",
+      "tema": "seguridad",
+      "promesa": "Apoyar el porte legal de armas y levantar la suspensión de los permisos de porte: \"Creo que es necesario\"",
+      "fuente_promesa": {
+        "nombre": "Semana (entrevista de campaña)",
+        "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/abelardo-de-la-espriella-apoyara-el-porte-legal-de-armas-si-gana-la-presidencia-y-explica-por-que-creo-que-es-necesario/202622/",
+        "fecha": "2026-03-18"
+      },
+      "estado": "cumplida",
+      "resultado": "El Decreto 1368 del 8 de septiembre de 2026 levantó la suspensión general de los permisos para portar armas de fuego y derogó los decretos 2362 de 2018 y 1482 de 2025 (que la prorrogaba hasta el 31 de diciembre de 2026). Los titulares de permisos vigentes recuperan su validez sin autorización especial adicional. El Gobierno precisó que no es porte libre: siguen vigentes los requisitos, controles y la facultad de las autoridades militares de suspender o revocar permisos.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-firma-decreto-que-levanta-suspension-de-permisos-para-el-porte-de-armas-de-fuego-502047",
+          "fecha": "2026-09-08"
+        },
+        {
+          "nombre": "Presidencia de la República",
+          "url": "https://www.presidencia.gov.co/prensa/Paginas/Presidente-De-La-Espriella-levanta-suspension-de-los-permisos-para-el-porte-260908.aspx",
+          "fecha": "2026-09-08"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 7,
+      "gobierno": "2026-2030",
+      "tema": "economia",
+      "promesa": "Firmar \"en las próximas horas\" un decreto de congelamiento del gasto público para \"poner la casa en orden\"",
+      "fuente_promesa": {
+        "nombre": "La República (discurso de posesión)",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-se-posiciono-como-presidente-de-colombia-4453713",
+        "fecha": "2026-08-07"
+      },
+      "estado": "sin-avance",
+      "resultado": "No se encontró el decreto de congelamiento del gasto anunciado para el 7 de agosto de 2026. La Silla Vacía revisó los 163 decretos del primer mes (hasta el 6 de septiembre) y no halló ninguno de política económica: 157 fueron nombramientos y 6 de atención al terremoto. El 16 de octubre el presidente pidió al ministro de Hacienda evaluar subsidios y exenciones y fijó una meta de recorte para el presupuesto de 2027, pero se trata de un anuncio, no de un acto administrativo. Se buscó en Presidencia, Portafolio, Semana, Infobae y La Silla Vacía.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
+          "fecha": "2026-09-10"
+        },
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/10/16/abelardo-de-la-espriella-anuncio-recortes-en-subsidios-y-exenciones-tributarias-cuales-se-afectarian-segun-expertos/",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 8,
+      "gobierno": "2026-2030",
+      "tema": "economia",
+      "promesa": "Eliminar el impuesto al patrimonio y presentar una reforma tributaria estructural que simplifique el sistema",
+      "fuente_promesa": {
+        "nombre": "Semana (discurso de posesión)",
+        "url": "https://www.semana.com/finanzas/impuestos/articulo/abelardo-de-la-espriella-anuncia-que-eliminara-el-impuesto-al-patrimonio-y-promete-una-reforma-tributaria/202621/",
+        "fecha": "2026-08-07"
+      },
+      "estado": "sin-avance",
+      "resultado": "El ministro de Hacienda, Miguel Gómez Martínez, había anunciado la radicación de la reforma tributaria para septiembre de 2026. A 16 de octubre el proyecto no había sido radicado en el Congreso; según Infobae, los cambios podrían llegar mediante una ley de rescate fiscal o el Plan Nacional de Desarrollo de 2027. El impuesto al patrimonio (Ley 2277 de 2022) sigue vigente. Se buscó el texto del proyecto en Cámara, Senado y medios económicos sin resultado.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/10/16/abelardo-de-la-espriella-anuncio-recortes-en-subsidios-y-exenciones-tributarias-cuales-se-afectarian-segun-expertos/",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 9,
+      "gobierno": "2026-2030",
+      "tema": "institucional",
+      "promesa": "Recortar el tamaño del Estado en 40 % y reducir los ministerios de 18 a 13",
+      "fuente_promesa": {
+        "nombre": "La Silla Vacía (programa 'País Milagro')",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-de-abelardo-de-la-espriella/",
+        "fecha": "2026-05-20"
+      },
+      "estado": "en-curso",
+      "resultado": "El 16 de septiembre de 2026 la senadora Julia Correa y el representante Juan Caicedo (Centro Democrático) radicaron un proyecto de ley que otorgaría al presidente facultades extraordinarias por seis meses para crear, fusionar, suprimir o liquidar ministerios y entidades nacionales, sin aumentar el gasto de funcionamiento. Sus promotores estiman un ahorro del 2 % del PIB (unos $42 billones). El Gobierno confirmó la meta de pasar de 18 a 13 ministerios, sin fecha ni carteras definidas, y planea incluir el ajuste en el Plan Nacional de Desarrollo del primer semestre de 2027. El proyecto no ha surtido debates.",
+      "fuentes_resultado": [
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/uribismo-radico-proyecto-que-le-daria-facultades-extraordinarias-a-de-la-espriella-para-fusionar-y-eliminar-ministerios-1824.html",
+          "fecha": "2026-09-18"
+        },
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/09/18/abelardo-de-la-espriella-tendria-facultades-extraordinarias-por-seis-meses-para-fusionar-y-eliminar-ministerios-esta-es-la-iniciativa-que-estudiara-el-congreso/",
+          "fecha": "2026-09-18"
+        },
+        {
+          "nombre": "Infobae Colombia (meta de 13 ministerios)",
+          "url": "https://www.infobae.com/colombia/2026/07/02/miguel-gomez-martinez-propuso-volver-a-13-ministerios-para-ajustar-el-presupuesto-colombia-no-tiene-como-financiar-19/",
+          "fecha": "2026-07-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 10,
+      "gobierno": "2026-2030",
+      "tema": "economia",
+      "promesa": "Autorizar el fracking \"responsable y sostenible\" y reactivar los contratos de exploración petrolera",
+      "fuente_promesa": {
+        "nombre": "La República (discurso de posesión)",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-se-posiciono-como-presidente-de-colombia-4453713",
+        "fecha": "2026-08-07"
+      },
+      "estado": "sin-avance",
+      "resultado": "El anuncio se ha reiterado (posesión del 7 de agosto; evento de bienvenida al nuevo presidente de Ecopetrol en Santa Marta a finales de septiembre), pero a 18 de octubre no se encontró decreto, resolución ni convocatoria de la ANH que habilite yacimientos no convencionales o nuevos contratos. Los pilotos Kalé y Platero fueron terminados anticipadamente en el gobierno anterior y Drummond y GeoPark no han presentado solicitudes formales, según Infobae. Se buscó en Diario Oficial, ANH, MinEnergía y prensa económica.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/09/28/reactivacion-del-fracking-en-colombia-ecopetrol-drummond-y-geopark-lideran-el-regreso-de-la-exploracion/",
+          "fecha": "2026-09-27"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 11,
+      "gobierno": "2026-2030",
+      "tema": "economia",
+      "promesa": "\"Limpieza inmediata\" de los directivos de las instituciones públicas, empezando por Ecopetrol",
+      "fuente_promesa": {
+        "nombre": "Semana (13 puntos del plan de gobierno)",
+        "url": "https://www.semana.com/politica/articulo/las-propuestas-de-abelardo-de-la-espriella-en-13-puntos-clave/202654/",
+        "fecha": "2026-06-21"
+      },
+      "estado": "cumplida",
+      "resultado": "La Asamblea Extraordinaria de Accionistas de Ecopetrol del 15 de septiembre de 2026 cambió seis de los nueve miembros de la junta directiva, presidida ahora por Carlos Suárez. El 24 de septiembre la junta eligió por unanimidad a Joaquín Gutiérrez Caballero, exgerente de la campaña presidencial, como presidente de la compañía en reemplazo de Ricardo Roa; asumió el 28 de septiembre. El 30 de septiembre la junta aprobó tres nuevos vicepresidentes.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/economia/junta-directiva-de-ecopetrol-escogio-a-joaquin-gutierrez-como-presidente-4489623",
+          "fecha": "2026-09-24"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/negocios/joaquin-gutierrez-presidente-ecopetrol-junta-directiva-PJ41487932",
+          "fecha": "2026-09-24"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 12,
+      "gobierno": "2026-2030",
+      "tema": "salud",
+      "promesa": "Plan de choque de $10 billones para la salud en los primeros 90 días, con revisión de la UPC y topes a gastos de las EPS",
+      "fuente_promesa": {
+        "nombre": "Semana (13 puntos del plan de gobierno)",
+        "url": "https://www.semana.com/politica/articulo/las-propuestas-de-abelardo-de-la-espriella-en-13-puntos-clave/202654/",
+        "fecha": "2026-06-21"
+      },
+      "estado": "en-curso",
+      "resultado": "El 21 de septiembre de 2026, tras el consejo de ministros, el presidente anunció un plan de choque en salud: compra de cartera de las EPS con clínicas y proveedores al 0 % de interés y un año de gracia, limitada a una primera fase que prioriza 1.069.196 usuarios con medicamentos (más de 700.000) o procedimientos (más de 300.000) pendientes: cáncer, trasplantes, enfermedades huérfanas, VIH, gestantes, entre otros. Una mesa técnica de MinSalud, Supersalud y ADRES vigilará la ejecución. No se informó el monto total ni se encontró referencia a los $10 billones ni a la revisión de la UPC.",
+      "fuentes_resultado": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/salud/abelardo-de-la-espriella-detalla-plan-sistema-de-salud-eps-IA41364509",
+          "fecha": "2026-09-21"
+        },
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-de-la-espriella-anuncia-plan-de-choque-en-salud-asi-beneficiara-a-pacientes-y-eps/",
+          "fecha": "2026-09-21"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 13,
+      "gobierno": "2026-2030",
+      "tema": "internacional",
+      "promesa": "Incorporar a Colombia al Escudo de las Américas, coalición liderada por Estados Unidos contra los carteles",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (anuncio como presidente electo)",
+        "url": "https://www.elcolombiano.com/colombia/de-la-espriella-confirma-colombia-escudo-americas-en-que-consiste-MK38101739",
+        "fecha": "2026-06-23"
+      },
+      "estado": "cumplida",
+      "resultado": "Colombia ingresó oficialmente al Escudo de las Américas el 14 de septiembre de 2026, en una reunión de la coalición convocada por la enviada especial de Estados Unidos, Kristi Noem, con participación de la embajadora colombiana en Washington, María Consuelo Araújo. La coalición, anunciada por Donald Trump en marzo de 2026, coordina inteligencia y operaciones militares contra organizaciones criminales transnacionales y reúne a 19 países.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/09/14/colombia-entra-oficialmente-al-escudo-de-las-americas-el-gobierno-de-la-espriella-refuerza-alianza-regional-contra-el-narcotrafico/",
+          "fecha": "2026-09-14"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 14,
+      "gobierno": "2026-2030",
+      "tema": "infraestructura",
+      "promesa": "Crear el Fondo Milagro para canalizar aportes nacionales e internacionales a la reconstrucción tras el terremoto",
+      "fuente_promesa": {
+        "nombre": "Portafolio (alocución presidencial)",
+        "url": "https://www.portafolio.co/economia/la-emergencia-economica-creara-el-fondo-milagro-500261",
+        "fecha": "2026-08-12"
+      },
+      "estado": "cumplida",
+      "resultado": "El Decreto 1379 del 9 de septiembre de 2026, uno de los once decretos (1379 a 1389) de la emergencia económica, creó el Fondo Milagro como patrimonio autónomo administrado por una fiduciaria (Fiducoldex), con auditoría internacional independiente y vigilancia de la Contraloría. La fiducia quedó constituida el 5 de octubre y el fondo dispuso de su primer billón de pesos desde el 7 de octubre, con un plan inicial de $627.000 millones para demoliciones, remoción de escombros y evaluación de daños; el Gobierno prevé sumar $2,7 billones en noviembre vía modificación presupuestal. El gerente es Jaime Andrés Uribe Tamayo. La reconstrucción como tal apenas comienza.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/09/10/abelardo-de-la-espriella-firmo-11-decretos-para-acelerar-la-reconstruccion-de-los-territorios-golpeados-por-el-terremoto-en-que-consisten/",
+          "fecha": "2026-09-10"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-activa-el-fondo-milagro-arranca-con-1-billon-para-la-reconstruccion-503977",
+          "fecha": "2026-10-06"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/asi-quedo-el-fondo-milagro-los-detalles-de-la-bolsa-de-dinero-con-la-que-el-gobierno-nacional-busca-reconstruira-al-pais/202600/",
+          "fecha": "2026-10-07"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 15,
+      "gobierno": "2026-2030",
+      "tema": "institucional",
+      "promesa": "Firmar 90 decretos de choque el mismo 7 de agosto en seguridad, economía, salud y educación",
+      "fuente_promesa": {
+        "nombre": "Infobae Colombia",
+        "url": "https://www.infobae.com/colombia/2026/06/19/abelardo-de-la-espriella-expuso-de-que-trataran-los-primeros-90-decretos-que-firmaria-si-derrota-a-ivan-cepeda-en-la-segunda-vuelta-presidencial/",
+        "fecha": "2026-06-19"
+      },
+      "estado": "en-curso",
+      "resultado": "El 7 de agosto de 2026 se firmaron seis decretos (1133 a 1138), entre ellos el nombramiento del gabinete. Según La Silla Vacía, entre el 7 de agosto y el 6 de septiembre se expidieron 163 decretos (157 de nombramientos y 6 por el terremoto), ninguno de los decretos de choque anunciados, y había 11 borradores de decreto publicados sin firmar. Después se expidieron el Decreto 1368 (porte de armas, 8 de septiembre) y los decretos 1379 a 1389 de la emergencia económica (9 de septiembre). La cifra de 90 no se alcanzó en la fecha prometida.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/estos-fueron-los-decretos-que-expidio-abelardo-de-la-espriella-en-su-primer-dia-como-presidente-499958",
+          "fecha": "2026-08-08"
+        },
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
+          "fecha": "2026-09-10"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 16,
+      "gobierno": "2026-2030",
+      "tema": "seguridad",
+      "promesa": "Cadena perpetua para quienes atenten contra una mujer o un niño: \"todo el peso de la ley caerá\"",
+      "fuente_promesa": {
+        "nombre": "Infobae Colombia (discurso de posesión)",
+        "url": "https://www.infobae.com/colombia/2026/08/08/abelardo-de-la-espriella-aseguro-que-habra-cadena-perpetua-contra-los-abusadores-de-mujeres-y-ninos-todo-el-peso-de-la-ley-caera/",
+        "fecha": "2026-08-07"
+      },
+      "estado": "en-curso",
+      "resultado": "El 26 de agosto de 2026 la representante Nataly Vélez (Cambio Radical) radicó un acto legislativo que modifica el artículo 34 de la Constitución para permitir la prisión perpetua revisable (revisión judicial a los 20 años) a adultos condenados por homicidio doloso y violencia sexual grave contra menores, ajustada a la Sentencia C-294 de 2021; la Cámara lo presenta como coincidente con la promesa presidencial. El Ejecutivo no ha radicado un proyecto propio. Como reforma constitucional requiere ocho debates en dos vueltas.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Cámara de Representantes",
+          "url": "https://www.camara.gov.co/prision-perpetua-revisable-para-violadores-y-asesinos-de-ninos-nataly-velez-lleva-al-congreso-una-causa-que-impulsa-desde-2016",
+          "fecha": "2026-08-26"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 17,
+      "gobierno": "2026-2030",
+      "tema": "social",
+      "promesa": "Convertir el programa Cosecha Solidaria (compra a campesinos y entrega de alimentos) en política de Estado",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (discurso de posesión, Cali)",
+        "url": "https://www.elcolombiano.com/colombia/posesion-abelardo-de-la-espriella-minuto-a-minuto-7-agosto-EN39705199",
+        "fecha": "2026-08-07"
+      },
+      "estado": "sin-avance",
+      "resultado": "Entre agosto y octubre de 2026 se buscó un decreto, un programa de Prosperidad Social o del Ministerio de Agricultura, una partida presupuestal o un lanzamiento oficial de Cosecha Solidaria como política pública. No se encontró norma, presupuesto ni acto de lanzamiento; las únicas referencias son el anuncio de la posesión y material de campaña sobre el programa privado ejecutado durante la pandemia.",
+      "fuentes_resultado": [],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 18,
+      "gobierno": "2026-2030",
+      "tema": "institucional",
+      "promesa": "No recibir el sueldo presidencial y donarlo a obras benéficas: \"No voy a aceptar el sueldo\"",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (entrevista en Blu Radio)",
+        "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-donara-sueldo-si-gana-presidencia-colombia-IH34991485",
+        "fecha": "2026-03-27"
+      },
+      "estado": "cumplida",
+      "resultado": "El 11 de septiembre de 2026, en Quimbaya (Quindío), el presidente entregó la totalidad de su primera asignación a los hogares geriátricos Santo Domingo Savio y Consentidos de Jesús y anunció que cada mes la donará en una región distinta. El 3 y 4 de octubre, en Montería, entregó $41 millones (salario de septiembre) para el viaje educativo de 92 jóvenes con los mejores puntajes Saber 11 y para la Asociación Ámese, que atiende a mujeres con cáncer de mama. Los medios difieren en el monto de la primera entrega.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-dono-su-primer-sueldo-a-hogar-geriatrico-y-anuncio-que-cada-mes-lo-dara-a-una-causa-social-502363",
+          "fecha": "2026-09-12"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-entrego-su-segundo-salario-como-presidente-destino-el-dinero-a-dos-causas-en-monteria-503837",
+          "fecha": "2026-10-04"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-donara-sueldo-presidente-causas-sociales-FE40990225",
+          "fecha": "2026-09-12"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 19,
+      "gobierno": "2022-2026",
+      "tema": "salud",
+      "promesa": "Reforma a la salud: sistema único, público y universal, sin regímenes contributivo y subsidiado ni intermediación financiera de las EPS",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (análisis del programa de gobierno)",
+        "url": "https://www.elcolombiano.com/politica/elecciones-2022/gustavo-petro-y-francia-marquez-del-pacto-historico-programa-presidencial-polemico-elecciones-2022-colombia-JD17059918",
+        "fecha": "2022-03-27"
+      },
+      "estado": "incumplida",
+      "resultado": "El proyecto se hundió dos veces en la Comisión Séptima del Senado: en abril de 2024 y el 17 de diciembre de 2025 (8 votos por el archivo y 5 en contra). La apelación radicada por el senador Fabián Díaz no prosperó y el último periodo legislativo del gobierno cerró el 20 de junio de 2026 sin ley. Al cierre del mandato, el sector acumulaba deudas estimadas en unos $40 billones y 312.570 tutelas por el derecho a la salud en el último año.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/economia/solo-le-quedan-las-apelaciones-a-la-reforma-a-la-salud-4291871",
+          "fecha": "2025-12-17"
+        },
+        {
+          "nombre": "El Colombiano / Colprensa",
+          "url": "https://www.elcolombiano.com/colombia/politica/gustavo-petro-cierra-periodo-congreso-no-aprobo-reformas-clave-GC37718619",
+          "fecha": "2026-06-15"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/luces-y-sombras-del-gobierno-petro-balance-del-primer-mandato-de-izquierda-tras-cuatro-anos-en-la-casa-de-narino-0237.html",
+          "fecha": "2026-08-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 20,
+      "gobierno": "2022-2026",
+      "tema": "social",
+      "promesa": "Reforma pensional: sistema de pilares mayoritariamente público, con cotización a Colpensiones y ahorro privado solo sobre el excedente",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (análisis del programa de gobierno)",
+        "url": "https://www.elcolombiano.com/politica/elecciones-2022/gustavo-petro-y-francia-marquez-del-pacto-historico-programa-presidencial-polemico-elecciones-2022-colombia-JD17059918",
+        "fecha": "2022-03-27"
+      },
+      "estado": "parcial",
+      "resultado": "El Congreso aprobó la Ley 2381 de 2024 (sancionada el 16 de julio de 2024) con cuatro pilares y umbral de 2,3 salarios mínimos para Colpensiones; debía regir desde el 1 de julio de 2025. La Corte Constitucional suspendió su aplicación por vicios de trámite y en la sentencia C-264 de 2026 (publicada el 15 de septiembre de 2026) dejó en firme la mayor parte de la ley, devolvió nueve apartes a la Cámara y fijó la entrada en vigencia para el 1 de abril de 2027. La reforma no entró en vigor durante el mandato.",
+      "fuentes_resultado": [
+        {
+          "nombre": "INCP",
+          "url": "https://incp.org.co/publicaciones/2024/07/ley-2381-de-2024-reforma-pensional-de-colombia/",
+          "fecha": "2024-07-19"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-publica-fallo-sobre-la-reforma-pensional-que-quedo-en-firme-y-que-vuelve-al-congreso-502563",
+          "fecha": "2026-09-15"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 21,
+      "gobierno": "2022-2026",
+      "tema": "economia",
+      "promesa": "Reforma laboral: recargo del 100% en dominicales y festivos, recargo nocturno desde la tarde y contrato indefinido como regla general",
+      "fuente_promesa": {
+        "nombre": "Vanguardia (primer borrador de la reforma laboral del Gobierno)",
+        "url": "https://www.vanguardia.com/economia/nacional/primer-borrador-de-la-reforma-laboral-habra-pago-completo-de-dominicales-y-recargo-nocturno-arranca-a-las-600-p-m-AE6336406",
+        "fecha": "2023-02-27"
+      },
+      "estado": "cumplida",
+      "resultado": "Tras un primer hundimiento, el Congreso aprobó la Ley 2466 de 2025, sancionada el 25 de junio de 2025. Fija el recargo nocturno desde las 7:00 p. m. (el borrador proponía 6:00 p. m.), sube el recargo dominical del 75% al 100% de forma gradual (80% en 2025, 90% en 2026, 100% en 2027), limita el contrato a término fijo a cuatro años y regula el trabajo en plataformas. Varias propuestas originales, como la jornada de 40 horas, quedaron por fuera.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/empleo/reforma-laboral-los-principales-beneficios-que-tendran-los-trabajadores-del-pais-635749",
+          "fecha": "2025-07-20"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/luces-y-sombras-del-gobierno-petro-balance-del-primer-mandato-de-izquierda-tras-cuatro-anos-en-la-casa-de-narino-0237.html",
+          "fecha": "2026-08-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 22,
+      "gobierno": "2022-2026",
+      "tema": "economia",
+      "promesa": "Reforma tributaria progresiva que recaudaría $50 billones, gravando a los más ricos y eliminando beneficios al sector extractivo",
+      "fuente_promesa": {
+        "nombre": "El Colombiano",
+        "url": "https://www.elcolombiano.com/negocios/reforma-tributaria-petro-2022-recaudo-ahora-sera-de-20-billones-de-pesos-FF18958379",
+        "fecha": "2022-10-26"
+      },
+      "estado": "parcial",
+      "resultado": "La Ley 2277 de 2022 fue sancionada el 13 de diciembre de 2022 con un recaudo esperado de $19,73 billones en 2023 y $80,23 billones hasta 2026, menos de la mitad de lo anunciado en campaña. El 16 de noviembre de 2023 la Corte Constitucional declaró inexequible la no deducibilidad de regalías (art. 19). Una segunda reforma (ley de financiamiento, $9,8 billones) se hundió en las comisiones económicas el 11 de diciembre de 2024.",
+      "fuentes_resultado": [
+        {
+          "nombre": "INCP",
+          "url": "https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/actualidad/2022/12/sancionada-la-ley-de-la-reforma-tributaria/",
+          "fecha": "2022-12-15"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/impuestos/las-razones-por-las-que-la-corte-tumbo-la-no-deducibilidad-de-regalias-que-determino-la-tributaria-592450",
+          "fecha": "2023-11-16"
+        },
+        {
+          "nombre": "Vanguardia",
+          "url": "https://www.vanguardia.com/colombia/2024/12/11/se-hundio-el-proyecto-de-reforma-tributaria-del-gobierno-petro-en-el-congreso/",
+          "fecha": "2024-12-11"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 23,
+      "gobierno": "2022-2026",
+      "tema": "paz",
+      "promesa": "Paz Total: terminar seis décadas de conflicto armado, cumplir el Acuerdo de 2016 y negociar con todos los grupos armados, empezando por el ELN",
+      "fuente_promesa": {
+        "nombre": "El País (Cali) – discurso de posesión",
+        "url": "https://www.elpais.com.co/politica/hoy-empieza-la-colombia-de-lo-posible-petro-en-su-discurso-como-presidente-de-colombia.html",
+        "fecha": "2022-08-07"
+      },
+      "estado": "incumplida",
+      "resultado": "La negociación con el ELN comenzó en Caracas el 21 de noviembre de 2022, fue suspendida en septiembre de 2024 tras el ataque en Puerto Jordán (Arauca) y de nuevo el 17 de enero de 2025 por la ofensiva del ELN en el Catatumbo (30 muertos reportados por la Defensoría en los primeros días). No se firmó acuerdo con ningún grupo armado grande. Al cierre del mandato, analistas citados por El País señalan fortalecimiento territorial del Clan del Golfo, disidencias y ELN, y aumento de extorsiones.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://www.noticiasrcn.com/colombia/los-dialogos-de-paz-del-gobierno-petro-y-el-eln-que-ha-pasado-tras-mas-de-dos-anos-842378",
+          "fecha": "2025-01-17"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/luces-y-sombras-del-gobierno-petro-balance-del-primer-mandato-de-izquierda-tras-cuatro-anos-en-la-casa-de-narino-0237.html",
+          "fecha": "2026-08-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 24,
+      "gobierno": "2022-2026",
+      "tema": "institucional",
+      "promesa": "Poner en marcha la jurisdicción agraria y rural prevista en el Acuerdo de Paz, como instrumento de la reforma agraria",
+      "fuente_promesa": {
+        "nombre": "Programa de gobierno 'Colombia Potencia Mundial de la Vida' (síntesis Findeter)",
+        "url": "https://bibliotecadigital.findeter.metabiblioteca.com/bitstreams/65e3031f-4d9b-4c0e-b408-99438f650f29/download",
+        "fecha": "2022-05-01"
+      },
+      "estado": "parcial",
+      "resultado": "La Ley Estatutaria 2570 de 2026, que crea la estructura de la Jurisdicción Agraria y Rural (tribunales y jueces agrarios, sala de cierre en la Corte Suprema), fue revisada por la Corte Constitucional (C-340 de 2025) y sancionada el 27 de marzo de 2026. La ley ordinaria de competencias y procedimiento, pese al mensaje de urgencia, se hundió por vencimiento de términos al cerrar el Congreso el 16 de junio de 2026, por lo que la jurisdicción no quedó operativa.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Rama Judicial – Consejo Superior de la Judicatura",
+          "url": "https://www.ramajudicial.gov.co/historico-de-noticias/-/asset_publisher/tc8GIx9NJWBV/content/id/225651732",
+          "fecha": "2026-05-07"
+        },
+        {
+          "nombre": "El Heraldo",
+          "url": "https://www.elheraldo.co/politica/2026/06/16/se-hundio-el-proyecto-de-competencias-de-la-jurisdiccion-agraria-y-rural/",
+          "fecha": "2026-06-16"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 25,
+      "gobierno": "2022-2026",
+      "tema": "ambiente",
+      "promesa": "No otorgar nuevas licencias ni contratos de exploración de hidrocarburos y prohibir el fracking",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (análisis del programa de gobierno)",
+        "url": "https://www.elcolombiano.com/politica/elecciones-2022/gustavo-petro-y-francia-marquez-del-pacto-historico-programa-presidencial-polemico-elecciones-2022-colombia-JD17059918",
+        "fecha": "2022-03-27"
+      },
+      "estado": "cumplida",
+      "resultado": "El Gobierno no firmó nuevos contratos de exploración y producción de hidrocarburos en los cuatro años ni permitió pilotos de fracking, respetando los 118 contratos vigentes heredados (cuya fase exploratoria termina en su mayoría entre 2027 y 2032). Exministros citados por La República atribuyen a esta decisión la crisis del sector minero-energético y el aumento de la dependencia de gas importado.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/2023/02/01/petro-cumplira-su-promesa-en-2032-no-habria-pozos-de-petroleo-para-explorar/",
+          "fecha": "2023-02-01"
+        },
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/especiales/los-ultimos-100-dias-de-petro/que-se-cumplio-que-no-y-que-quedo-a-medias-en-los-cuatro-anos-del-gobierno-4379423",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 26,
+      "gobierno": "2022-2026",
+      "tema": "ambiente",
+      "promesa": "Transición energética: incorporar 6 GW de energía solar, eólica y pequeñas hidroeléctricas entre agosto de 2022 y agosto de 2026 (meta '6GW Plus')",
+      "fuente_promesa": {
+        "nombre": "Valora Analitik (viceministro de Energía Javier Campillo)",
+        "url": "https://www.valoraanalitik.com/en-2026-se-cumpliria-meta-del-gobierno-petro-de-tener-6-gw-de-energia-renovable-operando/",
+        "fecha": "2024-05-09"
+      },
+      "estado": "parcial",
+      "resultado": "El Ministerio de Minas y Energía reportó 4,63 GW de capacidad solar y eólica instalada a julio de 2026, 1,37 GW por debajo de la meta de 6 GW, aunque muy por encima de los 2.000 MW fijados en el PND. SER Colombia proyectaba cerrar 2026 con unos 4.200 MW (cerca del 70% de la meta). Ninguno de los grandes parques eólicos de La Guajira entró en operación durante el mandato.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/economia/minminas-dejo-4-63-gw-de-energias-renovables-de-meta-de-6-gw-del-gobierno-4439288",
+          "fecha": "2026-07-19"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/negocios/metas-energias-renovables-colombia-gobierno-petro-ser-colombia-NC33648720",
+          "fecha": "2026-02-17"
+        },
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/especiales/los-ultimos-100-dias-de-petro/que-se-cumplio-que-no-y-que-quedo-a-medias-en-los-cuatro-anos-del-gobierno-4379423",
+          "fecha": "2026-04-27"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 27,
+      "gobierno": "2022-2026",
+      "tema": "social",
+      "promesa": "Plan de choque contra el hambre con enfoque de derechos ('Lucha contra el hambre', 'Alimentos a la casa')",
+      "fuente_promesa": {
+        "nombre": "Programa de gobierno 'Colombia Potencia Mundial de la Vida' (síntesis Findeter)",
+        "url": "https://bibliotecadigital.findeter.metabiblioteca.com/bitstreams/65e3031f-4d9b-4c0e-b408-99438f650f29/download",
+        "fecha": "2022-05-01"
+      },
+      "estado": "parcial",
+      "resultado": "Según el DANE (escala FIES), la inseguridad alimentaria moderada o grave en hogares bajó a 21,1% en 2025, 4,4 puntos menos que en 2024, y la grave pasó de 5,0% a 3,4%. El 22,8% de la población, unos 12 millones de personas, seguía en inseguridad alimentaria moderada o grave en 2025; Chocó (56,8%), Sucre (50,1%) y La Guajira (47,8%) registraron las mayores prevalencias. El DANE no atribuye la variación a programas específicos.",
+      "fuentes_resultado": [
+        {
+          "nombre": "DANE – Comunicado FIES 2025",
+          "url": "https://www.dane.gov.co/files/operaciones/FIES/cp-FIES-2025.pdf",
+          "fecha": "2026-05-21"
+        },
+        {
+          "nombre": "El Espectador",
+          "url": "https://www.elespectador.com/economia/macroeconomia/dane-fao-2025-cuantas-personas-tienen-inseguridad-alimentaria-en-colombia-y-por-que-bajo-el-dato/",
+          "fecha": "2026-05-21"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 28,
+      "gobierno": "2022-2026",
+      "tema": "institucional",
+      "promesa": "Crear por ley el Ministerio de la Igualdad, encabezado por Francia Márquez",
+      "fuente_promesa": {
+        "nombre": "Semana",
+        "url": "https://www.semana.com/nacion/articulo/ministerio-de-la-igualdad-el-reto-de-francia-marquez-si-es-vicepresidenta/202258/",
+        "fecha": "2022-03-23"
+      },
+      "estado": "parcial",
+      "resultado": "El ministerio se creó con la Ley 2281 de 2023 y Márquez se posesionó como ministra en junio de 2023. El 8 de mayo de 2024 la Corte Constitucional declaró la ley inexequible por vicio de trámite (falta de análisis de impacto fiscal) y dio dos legislaturas para corregirla; el Congreso no lo hizo. La entidad dejó de funcionar el 20 de junio de 2026 y entró en liquidación por el Decreto 0626 de 2026, con más de 600 funcionarios afectados.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/economia/ministerio-de-igualdad-dejara-de-funcionara-despues-de-la-legislatura-2025-2026-3857648",
+          "fecha": "2024-05-09"
+        },
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/este-dia-dejara-de-funcionar-el-ministerio-de-la-igualdad-por-orden-de-la-corte-constitucional/202600/",
+          "fecha": "2026-06-17"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 29,
+      "gobierno": "2022-2026",
+      "tema": "educacion",
+      "promesa": "Educación pública gratuita: fortalecer el sistema público y garantizar gratuidad en la educación superior",
+      "fuente_promesa": {
+        "nombre": "Programa de gobierno 'Colombia Potencia Mundial de la Vida' (síntesis Findeter)",
+        "url": "https://bibliotecadigital.findeter.metabiblioteca.com/bitstreams/65e3031f-4d9b-4c0e-b408-99438f650f29/download",
+        "fecha": "2022-05-01"
+      },
+      "estado": "parcial",
+      "resultado": "La Política de Gratuidad en matrícula de pregrado de 67 instituciones públicas benefició a más de 800.000 estudiantes (95% de los matriculados) con $2,2 billones en 2023-2024, bajo criterios de vulnerabilidad socioeconómica y no de forma universal. La matrícula de primer curso en instituciones públicas pasó de 485.037 (2022-2) a 672.149 (2024-1). La Ley 2568 de 2026 cambió la fórmula de financiación de las universidades públicas (índice ICES en lugar de IPC), con efectos desde el presupuesto de 2027.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://www.bluradio.com/sociedad/educacion/gratuidad-en-educacion-superior-en-el-pais-ha-beneficiado-a-mas-de-800-000-estudiantes-rg10",
+          "fecha": "2024-07-17"
+        },
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-academica/cinco-tendencias-de-la-educacion-en-colombia-antes-y-durante-petro/",
+          "fecha": "2026-02-06"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/desde-popayan-presidente-petro-promulga-reforma-a-la-ley-30-y-redefine-la-financiacion-de-la-educacion-superior-publica-0457.html",
+          "fecha": "2026-03-04"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 30,
+      "gobierno": "2022-2026",
+      "tema": "educacion",
+      "promesa": "Condonar la deuda del Icetex ('La deuda del Icetex hay que condonarla') y transformar su lógica bancaria",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (debate del 29 de marzo de 2022)",
+        "url": "https://www.elcolombiano.com/colombia/icetex-esmad-acp-y-promesas-incumplidas-de-petro-JH19785518",
+        "fecha": "2023-01-09"
+      },
+      "estado": "incumplida",
+      "resultado": "La condonación general no se aplicó: el Gobierno la limitó a deudores al día y a grupos específicos. El proyecto de reforma estructural al Icetex (PL 301 de 2025 Senado, 587 de 2025 Cámara) no alcanzó a discutirse en la Comisión Primera del Senado y se archivó al cerrar la legislatura el 19 de junio de 2026. La oferta de nuevos créditos cayó de unos 20.000 a 5.000 por semestre y la entidad anunció el fin del subsidio a la tasa de interés para 2026.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://www.noticiasrcn.com/colombia/reforma-al-icetex-esta-en-riesgo-de-hundirse-en-el-congreso-mas-de-330-000-jovenes-a-la-espera-1018893",
+          "fecha": "2026-05-06"
+        },
+        {
+          "nombre": "Senado de la República",
+          "url": "https://senado.gov.co/index.php/el-senado/noticias/7425-reforma-estructural-al-icetex-se-queda-sin-tiempo-en-el-senado-y-no-logro-avanzar",
+          "fecha": "2026-06-19"
+        },
+        {
+          "nombre": "El Espectador",
+          "url": "https://www.elespectador.com/educacion/la-educacion-en-el-gobierno-petro/",
+          "fecha": "2026-08-05"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 31,
+      "gobierno": "2022-2026",
+      "tema": "infraestructura",
+      "promesa": "Que la primera línea del metro de Bogotá tenga un tramo subterráneo (calle 72 a Suba) en lugar de ser totalmente elevada",
+      "fuente_promesa": {
+        "nombre": "El Colombiano",
+        "url": "https://www.elcolombiano.com/colombia/petro-critica-avance-del-metro-de-bogota-y-defiende-propuesta-subterranea-MH25558602",
+        "fecha": "2024-10-05"
+      },
+      "estado": "incumplida",
+      "resultado": "La Alcaldía de Bogotá mantuvo el contrato firmado y el trazado elevado. La Línea 1 (viaducto de 24 km) alcanzó 80,37% de avance al 30 de junio de 2026 y la marcha blanca está prevista para septiembre de 2027. El Gobierno nacional no logró modificar el diseño durante el mandato.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Alcaldía de Bogotá",
+          "url": "https://bogota.gov.co/mi-ciudad/movilidad/linea-1-del-metro-de-bogota-alcanza-el-8037-de-avance-de-obra",
+          "fecha": "2026-07-21"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 32,
+      "gobierno": "2022-2026",
+      "tema": "seguridad",
+      "promesa": "Desmontar el Esmad (Escuadrón Móvil Antidisturbios)",
+      "fuente_promesa": {
+        "nombre": "El Colombiano (debate del 22 de febrero de 2022)",
+        "url": "https://www.elcolombiano.com/colombia/icetex-esmad-acp-y-promesas-incumplidas-de-petro-JH19785518",
+        "fecha": "2023-01-09"
+      },
+      "estado": "incumplida",
+      "resultado": "Ya en el poder, Petro anunció que el Esmad no se desmontaría sino que se reformaría. La Resolución 03684 del 11 de noviembre de 2022 lo integró a la Unidad Nacional de Diálogo y Mantenimiento del Orden (UNDMO), que conservó escuadrones antidisturbios. El Gobierno de Abelardo de la Espriella anunció en julio de 2026 el retorno del Esmad y la Policía lo formalizó con la Resolución 03226 del 13 de octubre de 2026, que crea la Unidad Nacional Antidisturbios (UNADI).",
+      "fuentes_resultado": [
+        {
+          "nombre": "Vanguardia",
+          "url": "https://www.vanguardia.com/colombia/2026/07/07/nuevo-ministro-de-defensa-confirma-fin-de-undmo-y-retorno-del-esmad-en-colombia/",
+          "fecha": "2026-07-07"
+        },
+        {
+          "nombre": "Blu Radio",
+          "url": "https://www.bluradio.com/nacion/policia-elimina-la-undmo-y-reactiva-el-esmad-asi-es-la-nueva-estructura-antidisturbios-rg10",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 33,
+      "gobierno": "2022-2026",
+      "tema": "seguridad",
+      "promesa": "Reducir la tasa de homicidios de 25,9 por 100.000 habitantes en 2022 a 24,4 en 2026 (meta del PND)",
+      "fuente_promesa": {
+        "nombre": "La Silla Vacía",
+        "url": "https://www.lasillavacia.com/?p=52693",
+        "fecha": "2023-02-08"
+      },
+      "estado": "incumplida",
+      "resultado": "Según cifras preliminares de Medicina Legal, 2025 cerró con 14.780 homicidios, la cifra más alta de la última década (13.939 en 2022, 14.260 en 2023 y 14.021 en 2024). La Policía reportó una tasa de 26 por 100.000 habitantes en 2025 y el Ministerio de Defensa 13.726 casos (+2% frente a 2024), por encima de la meta de 24,4 fijada para 2026.",
+      "fuentes_resultado": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/14780-homicidios-2025-ano-mas-violento-decada-colombia-HE34653136",
+          "fecha": "2026-03-16"
+        },
+        {
+          "nombre": "Vanguardia",
+          "url": "https://www.vanguardia.com/colombia/2026/01/02/colombia-cierra-2025-con-la-tasa-de-homicidios-mas-baja-de-siete-anos-segun-balance/",
+          "fecha": "2026-01-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 34,
+      "gobierno": "2022-2026",
+      "tema": "internacional",
+      "promesa": "Restablecer las relaciones diplomáticas y consulares con Venezuela y reabrir la frontera",
+      "fuente_promesa": {
+        "nombre": "Vanguardia",
+        "url": "https://www.vanguardia.com/politica/petro-promete-restablecer-relaciones-de-colombia-con-venezuela-si-gana-la-presidencia-YL4490133",
+        "fecha": "2021-11-11"
+      },
+      "estado": "cumplida",
+      "resultado": "En las primeras semanas de gobierno ambos países restablecieron relaciones, rotas desde el 23 de febrero de 2019, y nombraron embajadores (Armando Benedetti y Félix Plasencia, que presentaron credenciales en agosto y septiembre de 2022). La frontera se reabrió al transporte de carga y a los vuelos el 26 de septiembre de 2022, siete años después de su cierre.",
+      "fuentes_resultado": [
+        {
+          "nombre": "El Heraldo / EFE",
+          "url": "https://www.elheraldo.co/colombia/2022/09/10/reapertura-de-frontera-dos-paises-que-se-vuelven-a-conectar-937379/",
+          "fecha": "2022-09-10"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 35,
+      "gobierno": "2022-2026",
+      "tema": "economia",
+      "promesa": "Cumplir la regla fiscal sin flexibilizarla ('El compromiso es cumplir', Ministerio de Hacienda)",
+      "fuente_promesa": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/regla-fiscal-de-colombia-gobierno-petro-dice-que-la-va-a-cumplir/",
+        "fecha": "2024-06-14"
+      },
+      "estado": "incumplida",
+      "resultado": "En junio de 2025 el Confis activó la cláusula de escape y suspendió la regla fiscal por tres años (2025-2027), con concepto previo desfavorable del Comité Autónomo de la Regla Fiscal; el plan proyectaba déficit de 7,1% del PIB y deuda de 61,3% para 2025. El Marco Fiscal de Mediano Plazo 2026 fijó el déficit de 2026 en 5,3% del PIB, aplazó el cumplimiento paramétrico a 2028 y reportó una deuda bruta del Gobierno Nacional Central de 62,9% del PIB en abril de 2026.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Forbes Colombia",
+          "url": "https://forbes.co/2025/06/13/economia-y-finanzas/comite-de-regla-fiscal-califica-como-desfavorable-decision-del-gobierno-petro-de-suspender-el-techo-a-la-deuda",
+          "fecha": "2025-06-13"
+        },
+        {
+          "nombre": "Infobae Colombia",
+          "url": "https://www.infobae.com/colombia/2026/06/18/gobierno-petro-confirmo-que-no-cumplira-en-2026-la-regla-que-le-permite-a-colombia-mantener-credibilidad-y-tener-mejor-acceso-a-creditos/",
+          "fecha": "2026-06-18"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 36,
+      "gobierno": "2022-2026",
+      "tema": "institucional",
+      "promesa": "Reforma política: financiación 100% estatal de campañas, listas cerradas y paritarias ('cremallera') y nueva elección del CNE",
+      "fuente_promesa": {
+        "nombre": "Portafolio",
+        "url": "https://www.portafolio.co/economia/gobierno/reforma-politica-las-razones-de-su-caida-580333",
+        "fecha": "2023-03-23"
+      },
+      "estado": "incumplida",
+      "resultado": "El primer proyecto se hundió en marzo de 2023 cuando el propio Pacto Histórico pidió archivarlo tras perder las listas cerradas y la financiación estatal. El segundo, radicado en 2024, se hundió el 16 de diciembre de 2024 en su cuarto de ocho debates por falta de quórum en la plenaria del Senado. No se volvió a aprobar ninguna reforma política antes del 7 de agosto de 2026.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Vanguardia",
+          "url": "https://www.vanguardia.com/colombia/2024/12/17/se-hundio-la-reforma-politica-del-gobierno-petro-por-falta-de-quorum/",
+          "fecha": "2024-12-17"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/hubo-bloqueo-politico-las-reformas-de-petro-que-el-congreso-aprobo-vs-las-que-se-archivaron-en-los-cuatro-anos-498573",
+          "fecha": "2026-06-15"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 37,
+      "gobierno": "2022-2026",
+      "tema": "infraestructura",
+      "promesa": "Construir una red ferroviaria eléctrica nacional y reactivar los ferrocarriles (Dorada–Chiriguaná, Pacífico, Bogotá–Corredor Central)",
+      "fuente_promesa": {
+        "nombre": "Programa de gobierno 'Colombia Potencia Mundial de la Vida' (síntesis Findeter)",
+        "url": "https://bibliotecadigital.findeter.metabiblioteca.com/bitstreams/65e3031f-4d9b-4c0e-b408-99438f650f29/download",
+        "fecha": "2022-05-01"
+      },
+      "estado": "parcial",
+      "resultado": "El corredor La Dorada–Chiriguaná (522 km, APP a 10 años, inversión cercana a $3 billones) fue adjudicado el 3 de abril de 2025 y el contrato de concesión se firmó ese año. El Tren del Pacífico (833 km) y la conexión Bogotá–Corredor Central (463 km) quedaron en prefactibilidad, con $43.000 millones invertidos en estudios. No entró en operación ningún kilómetro nuevo de vía férrea durante el mandato.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/mas-estudios-que-obras-asi-va-la-lenta-reactivacion-de-trenes-y-ferrocarriles-del-gobierno-petro/",
+          "fecha": "2025-03-04"
+        },
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/?p=485240",
+          "fecha": "2025-07-13"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 38,
+      "gobierno": "2022-2026",
+      "tema": "social",
+      "promesa": "Reforma agraria: entregar 2,9 millones de hectáreas a campesinos y formalizar 3,9 millones de hectáreas en el cuatrienio (metas del PND)",
+      "fuente_promesa": {
+        "nombre": "DNP – Infografía de metas del PND 2022-2026 (Ley 2294 de 2023)",
+        "url": "https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Territorial/Portal%20Territorial/NuevosMandatarios/Infografias%20METAS%20PND%20nov%202023%20carta.pdf",
+        "fecha": "2023-11-01"
+      },
+      "estado": "incumplida",
+      "resultado": "Con corte a 2025, la Agencia Nacional de Tierras había adquirido 712.205 hectáreas (445.470 por compra directa). Según la ANT en septiembre de 2026, las tierras entregadas con título sumaron 99.477 hectáreas frente a la meta institucional de 1,5 millones (6,6%), y la formalización llegó a 1.603.166 hectáreas de 3,9 millones (41,1%), con un gasto de $7 billones. El Gobierno saliente reportó más de 2,5 millones de hectáreas 'gestionadas', cifra que mezcla compra, formalización y procesos agrarios.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/especiales/los-ultimos-100-dias-de-petro/que-se-cumplio-que-no-y-que-quedo-a-medias-en-los-cuatro-anos-del-gobierno-4379423",
+          "fecha": "2026-04-27"
+        },
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/ant-reporta-gasto-de-7-billones-en-tierras-y-contratos-durante-gobierno-petro-pero-entrega-solo-llego-a-6-502276",
+          "fecha": "2026-09-11"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/luces-y-sombras-del-gobierno-petro-balance-del-primer-mandato-de-izquierda-tras-cuatro-anos-en-la-casa-de-narino-0237.html",
+          "fecha": "2026-08-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 39,
+      "gobierno": "2022-2026",
+      "tema": "social",
+      "promesa": "Reducir la pobreza extrema a un dígito: de 12,2% en 2021 a 9,6% en 2026 (meta del PND)",
+      "fuente_promesa": {
+        "nombre": "DNP – Infografía de metas del PND 2022-2026 (Ley 2294 de 2023)",
+        "url": "https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Territorial/Portal%20Territorial/NuevosMandatarios/Infografias%20METAS%20PND%20nov%202023%20carta.pdf",
+        "fecha": "2023-11-01"
+      },
+      "estado": "cumplida",
+      "resultado": "El DANE publicó el 12 de junio de 2026 que la pobreza monetaria extrema fue de 9,6% en 2025 (11,7% en 2024), igual a la meta del PND para 2026. La pobreza monetaria bajó a 28% (14.446.726 personas), 1.790.909 menos que en 2024. El Gobierno atribuyó el resultado a Renta Ciudadana, Colombia Mayor, Renta Joven y los aumentos del salario mínimo; el país cerró el mandato con un déficit fiscal elevado y una deuda cercana al 60% del PIB.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/en-2025-la-pobreza-monetaria-en-colombia-se-redujo-y-llego-al-496060",
+          "fecha": "2026-06-12"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/luces-y-sombras-del-gobierno-petro-balance-del-primer-mandato-de-izquierda-tras-cuatro-anos-en-la-casa-de-narino-0237.html",
+          "fecha": "2026-08-02"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 40,
+      "gobierno": "2022-2026",
+      "tema": "educacion",
+      "promesa": "Crear 500.000 nuevos cupos en educación superior y llevar la cobertura de 53,9% a 62% al final del cuatrienio",
+      "fuente_promesa": {
+        "nombre": "DNP – Infografía de metas del PND 2022-2026 (Ley 2294 de 2023)",
+        "url": "https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Territorial/Portal%20Territorial/NuevosMandatarios/Infografias%20METAS%20PND%20nov%202023%20carta.pdf",
+        "fecha": "2023-11-01"
+      },
+      "estado": "incumplida",
+      "resultado": "El Gobierno reportó 347.710 nuevos cupos desde 2022 y cobertura de 60% en 2025 (marzo de 2026); el Ministerio de Educación había informado 190.500 cupos desde 2022. Análisis independientes calculan un aumento de la matrícula de nuevos estudiantes de pregrado cercano a 72.000 entre 2022 y 2025 (unos 198.000 acumulando semestres) y señalan que la meta de 500.000 no se cumplió. La cobertura reportada (60%) quedó por debajo del 62% fijado.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://www.lasillavacia.com/silla-academica/cinco-tendencias-de-la-educacion-en-colombia-antes-y-durante-petro/",
+          "fecha": "2026-02-06"
+        },
+        {
+          "nombre": "El País (Cali)",
+          "url": "https://www.elpais.com.co/politica/desde-popayan-presidente-petro-promulga-reforma-a-la-ley-30-y-redefine-la-financiacion-de-la-educacion-superior-publica-0457.html",
+          "fecha": "2026-03-04"
+        },
+        {
+          "nombre": "El Espectador",
+          "url": "https://www.elespectador.com/educacion/la-educacion-en-el-gobierno-petro/",
+          "fecha": "2026-08-05"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 41,
+      "gobierno": "2022-2026",
+      "tema": "institucional",
+      "promesa": "Catastro multipropósito: pasar de 9,4% del territorio actualizado en 2022 a 70% en 2026",
+      "fuente_promesa": {
+        "nombre": "DNP – Infografía de metas del PND 2022-2026 (Ley 2294 de 2023)",
+        "url": "https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Territorial/Portal%20Territorial/NuevosMandatarios/Infografias%20METAS%20PND%20nov%202023%20carta.pdf",
+        "fecha": "2023-11-01"
+      },
+      "estado": "parcial",
+      "resultado": "El IGAC reportó cerca del 45% del territorio con catastro actualizado al cierre de 2025 (unos 50 millones de hectáreas, frente a 10 millones en 2022) y proyectó llegar a cerca de 63% a finales de 2026, por debajo del 70% del PND. La Contraloría había advertido en 2024 que solo 73 de 1.102 municipios (6,6%) tenían actualización total. De los $4,5 billones requeridos, el IGAC recibió cerca de $2 billones.",
+      "fuentes_resultado": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/regiones/catastro-en-colombia-el-igac-ya-cubre-el-45-del-territorio-y-proyecta-cerrar-2026-con-mas-del-60-actualizado-484983",
+          "fecha": "2025-12-30"
+        },
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/negocios/contraloria-advierte-riesgos-que-amenazan-la-implementacion-del-catastro-multiproposito-CD26077603",
+          "fecha": "2024-12-17"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    },
+    {
+      "id": 42,
+      "gobierno": "2022-2026",
+      "tema": "social",
+      "promesa": "Mantener el programa Mi Casa Ya y reducir el déficit habitacional de 31% a 26% de los hogares (meta del PND)",
+      "fuente_promesa": {
+        "nombre": "DNP – Infografía de metas del PND 2022-2026 (Ley 2294 de 2023)",
+        "url": "https://colaboracion.dnp.gov.co/CDT/Desarrollo%20Territorial/Portal%20Territorial/NuevosMandatarios/Infografias%20METAS%20PND%20nov%202023%20carta.pdf",
+        "fecha": "2023-11-01"
+      },
+      "estado": "incumplida",
+      "resultado": "Las iniciaciones de vivienda de interés social acumularon 37 meses consecutivos de caída a mayo de 2026: 74.694 unidades en 12 meses frente a 82.317 un año antes, y 27.512 en enero-abril de 2026, el nivel más bajo para ese periodo desde 2013. Camacol ubica el quiebre en el tercer trimestre de 2022, cuando cambió la política de vivienda, y constructores atribuyen parte de la caída a los recortes presupuestales de Mi Casa Ya, que aumentaron los desistimientos y frenaron el inicio de obras.",
+      "fuentes_resultado": [
+        {
+          "nombre": "La República",
+          "url": "https://www.larepublica.co/economia/nuevas-obras-de-vivienda-vis-acumulan-37-meses-en-terreno-negativo-4417744",
+          "fecha": "2026-06-19"
+        }
+      ],
+      "fecha_actualizacion": "2026-10-18"
+    }
+  ]
+}
