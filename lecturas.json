@@ -27,6 +27,281 @@
   },
   "lecturas": [
     {
+      "id": 7,
+      "titulo": "El negocio circular detras del boom de la inteligencia artificial",
+      "resumen": "Grandes empresas de IA como proveedores de chips, plataformas en la nube y desarrolladores de modelos han creado un esquema donde una misma compania es a la vez proveedor, inversionista y cliente de otra. Esto hace que el mismo dinero aparezca varias veces en distintos balances, inflando artificialmente el tamano real del boom de la IA.",
+      "por_que_leerlo": "Entender este esquema circular ayuda a detectar senales de burbuja antes de invertir o asociarse con empresas del sector IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "inversion",
+        "burbuja",
+        "finanzas"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-paying-circular-money-machine-ai.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 9,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 8,
+      "titulo": "Logran revertir el blanqueamiento de coral en tiempo record en laboratorio",
+      "resumen": "Cientificos observaron por primera vez corales blanqueados al borde de la muerte recuperarse por completo tras un breve contacto con clones sanos, logrando sanar en solo siete semanas, la recuperacion mas rapida documentada hasta ahora. El estudio fue publicado en Science Advances.",
+      "por_que_leerlo": "Ofrece una posible solucion rapida y replicable para salvar arrecifes de coral amenazados por el calentamiento del oceano.",
+      "seccion": "ciencia",
+      "tags": [
+        "corales",
+        "blanqueamiento",
+        "biologia marina",
+        "cambio climatico"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-scientists-reverse-coral.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 9,
+      "titulo": "Confirman una tercera forma de magnetismo que desafia mas de un siglo de fisica",
+      "resumen": "Fisicos confirmaron la existencia del altermagnetismo, un fenomeno magnetico nunca antes clasificado que rompe con mas de cien anos de teoria establecida, y el hallazgo recibio un premio mayor de fisica. El descubrimiento abre una nueva via para desarrollar computacion y electronica mas eficientes.",
+      "por_que_leerlo": "Presenta un avance fundamental que podria transformar la proxima generacion de chips y dispositivos electronicos.",
+      "seccion": "ciencia",
+      "tags": [
+        "magnetismo",
+        "fisica",
+        "computacion",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 10,
+      "titulo": "El telescopio James Webb descubre un patrón climático ordenado en un exoplaneta a 20 años luz",
+      "resumen": "El telescopio espacial James Webb detectó que un planeta turbulento ubicado a 20 años luz de la Tierra presenta un sistema climático sorprendentemente ordenado, con tres estados atmosféricos que se repiten por cambios de temperatura y nubes. El hallazgo ofrece a los científicos una nueva herramienta para estudiar el clima en mundos lejanos.",
+      "por_que_leerlo": "Porque muestra cómo la observación espacial empieza a revelar patrones climáticos fuera del sistema solar, abriendo una ventana a la meteorología de otros mundos.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "exoplanetas",
+        "james webb",
+        "clima espacial"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-17",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 11,
+      "titulo": "Wall Street debate el fin de la estrategia de inversión 60/40 en acciones y bonos",
+      "resumen": "La fórmula clásica que combina 60% en acciones y 40% en bonos enfrenta cuestionamientos porque las acciones están cada vez más concentradas y los bonos ya no siempre compensan las caídas bursátiles. Esto ha llevado a gestores de Wall Street a replantear cómo equilibrar crecimiento y protección del capital en los portafolios.",
+      "por_que_leerlo": "Entender cómo ajustar tu estrategia de inversión cuando el esquema tradicional ya no garantiza protección frente a la volatilidad.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inversion",
+        "bonos",
+        "acciones",
+        "finanzas personales"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/mercados/adios-a-la-estrategia-6040-wall-street-debate-como-invertir-en-acciones-y-bonos/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 12,
+      "titulo": "Detectan dos agujeros negros supermasivos que podrian chocar en 100 anos",
+      "resumen": "Astronomos hallaron evidencia de dos agujeros negros supermasivos orbitandose en el centro de la galaxia Mrk 501, completando una vuelta cada 121 dias, con posibilidad de fusionarse en apenas un siglo segun sus masas. El hallazgo se basa en un chorro de particulas previamente no detectado que revelo la presencia del segundo agujero negro.",
+      "por_que_leerlo": "Muestra evidencia observacional directa de un evento cosmico extremo que podria ocurrir en una escala de tiempo casi humana.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "astronomia",
+        "galaxias"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 13,
+      "titulo": "Japon lanzara la primera mision de ida y vuelta a una luna de Marte",
+      "resumen": "Japon alista el lanzamiento de la mision MMX, que sera la primera en la historia en completar un viaje de ida y vuelta a las lunas de Marte, con el objetivo de traer muestras de Fobos. Los cientificos esperan que estas muestras ayuden a entender el origen del sistema solar y de la vida en la Tierra.",
+      "por_que_leerlo": "Marca un hito espacial unico que podria responder preguntas clave sobre el origen del sistema solar y la vida.",
+      "seccion": "ciencia",
+      "tags": [
+        "espacio",
+        "marte",
+        "japon",
+        "exploracion espacial"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 14,
+      "titulo": "Anthropic le da a un vigilante externo de IA acceso 'como si fuera empleado'",
+      "resumen": "Anthropic otorgó a un organismo independiente de supervisión acceso interno similar al de un empleado para evaluar sus sistemas de inteligencia artificial. El watchdog puede publicar sus hallazgos sin necesidad de aprobación previa de la empresa, marcando un precedente en la rendición de cuentas del sector de IA.",
+      "por_que_leerlo": "Para entender cómo las empresas de IA empiezan a aceptar supervisión externa real, un tema clave para quienes construyen o invierten en tecnología de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "gobernanza",
+        "anthropic",
+        "seguridad ia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 15,
+      "titulo": "Nuevos agentes de IA 'piensan' en espacio latente y actúan mediante texto",
+      "resumen": "Investigadores presentaron 'Hybrid Reasoning Agents', un enfoque que combina razonamiento interno en espacio latente con acciones expresadas en texto, publicado con código abierto en GitHub y modelos en Hugging Face. La propuesta incluye evaluaciones formales que muestran mejoras en tareas de razonamiento para agentes de lenguaje.",
+      "por_que_leerlo": "Si construyes o usas agentes de IA, esta arquitectura abierta puede inspirar mejoras concretas en tus propios sistemas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "agentes llm",
+        "codigo abierto",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://arxiv.org/abs/2610.18861"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 16,
+      "titulo": "Rockstar revela que tiene 4.700 empleados trabajando en 'GTA VI', el doble que en su juego anterior",
+      "resumen": "Rockstar Games pasó de 2.441 empleados en 2018, cuando lanzó 'Red Dead Redemption II', a 4.711 repartidos en 12 oficinas para producir 'GTA VI'. Es la primera vez que la compañía revela en detalle estas cifras y el funcionamiento interno detrás de uno de los lanzamientos más esperados de la industria.",
+      "por_que_leerlo": "Da una idea real de la escala de recursos que exige producir un videojuego de clase mundial, útil para entender la economía de la industria del entretenimiento.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "videojuegos",
+        "rockstar",
+        "gestion de equipos",
+        "industria del entretenimiento"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/videojuegos/rockstar-tiene-trabajando-a-4-700-personas-para-lanzar-gta-vi-vender-40-millones-copias"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 17,
+      "titulo": "Anthropic destinará el 5% de su participación accionaria a un fondo de interés público",
+      "resumen": "Anthropic anunció que cederá una participación del 5% de sus acciones a un nuevo fondo dedicado a causas de interés público, que además recibirá un 2% adicional de las acciones de la compañía. La iniciativa se estructurará como una sociedad de responsabilidad limitada de propiedad exclusiva del fondo, un modelo poco común entre las grandes empresas de inteligencia artificial.",
+      "por_que_leerlo": "Muestra cómo una de las principales firmas de IA está diseñando un modelo de gobierno corporativo híbrido entre lucro y beneficio social, útil como referencia para emprendedores.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "gobierno corporativo",
+        "anthropic",
+        "impacto social"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-destinara-participacion-de-5-a-nuevo-fondo-de-interes-publico-4505674"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
+      "id": 18,
+      "titulo": "El fútbol inglés genera US$12.000 millones al año, pero el 94% de sus clubes pierde dinero",
+      "resumen": "Pese a ingresos cercanos a US$12.000 millones anuales, 109 de los 116 clubes de fútbol inglés registran pérdidas y muchos dependen del respaldo financiero de sus propietarios para seguir operando. El caso evidencia cómo ingresos millonarios no garantizan rentabilidad cuando la estructura de costos del negocio no está alineada.",
+      "por_que_leerlo": "Una lección de negocio sobre cómo una industria con ingresos récord puede ser estructuralmente deficitaria.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "futbol",
+        "modelo de negocio",
+        "perdidas financieras",
+        "industria deportiva"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/el-futbol-ingles-en-crisis-financiera-109-de-116-clubes-pierden-dinero-pese-a-sus-millonarios-ingresos/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 02:44",
+      "auto_generated": true
+    },
+    {
       "id": 1,
       "titulo": "Las ventas de smartphones caen 20% por el encarecimiento de memorias DRAM y NAND",
       "resumen": "Según Counterpoint, las ventas mundiales de smartphones cayeron 20% interanual en el tercer trimestre de 2026, el peor dato desde 2012. El alza de precios de memorias DRAM y NAND ha encarecido los móviles un 20% en lo que va del año, y la consultora prevé que los precios bajos no volverán ni cuando pase la crisis de componentes.",
