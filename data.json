@@ -221,6 +221,470 @@
   ],
   "casos": [
     {
+      "id": 1973,
+      "titulo": "Incautaciones de heroina alcanzan cifra record en 2026",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "Colombia reporta la incautacion de mas de 1,1 toneladas de heroina en lo corrido de 2026, una cifra que supera los resultados de los ultimos diez años, segun datos de la Policia Nacional sobre operativos antinarcoticos realizados durante el presente año.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautaciones-de-heroina-alcanzan-cifra-record-en-colombia-durante-2026-estos-son-los-casos-3594555",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1972,
+      "titulo": "Colombia y Suiza firman acuerdo binacional de pensiones",
+      "categoria": "internacional",
+      "fecha": "2026-10-19",
+      "descripcion": "Los gobiernos de Colombia y Suiza suscribieron un convenio binacional de seguridad social que permite a trabajadores de ambos paises acumular periodos de cotizacion realizados en los dos territorios para acceder al derecho de jubilacion.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/acuerdo-binacional-de-pension-beneficiara-trabajadores-en-suiza",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Colombia / Gobierno de Suiza",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1971,
+      "titulo": "Corte Suprema ratifica juicio a seis congresistas por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-19",
+      "descripcion": "La Corte Suprema de Justicia ratificó la decisión de llevar a juicio a seis congresistas de la Comisión de Crédito Público, investigados por presunto cambio de votos a cambio de beneficios relacionados con contratos de la UNGRD durante la emergencia invernal. La confirmación judicial avanza el proceso penal hacia la etapa de juicio tras revisión de recursos presentados por la defensa.",
+      "evidencia": "Reportado por HSB Noticias",
+      "fuentes": [
+        {
+          "nombre": "HSB Noticias",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUtNRkZnQWdza0MxbFVwZEFqdjhKbG8tS1hZd3FKcGFzUVAxWk84RlJIbUIzYTFBNHhCdHRzZ096THhEU2l0cEtoRDcwN0dQMHpzVlVlMktKVy1GMUhhV2tPcWtfeG5fQjZ3MHBVX054OE15UFZJZjh0Qks3S3lIdFNXN3QtM2NtdzgwdlVlb0UyVjg4dEd5S2JVMmZwekdhS2R6dzJ3?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Congresistas de la Comisión de Crédito Público"
+      ],
+      "entidad": "Corte Suprema de Justicia / UNGRD",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30"
+    },
+    {
+      "id": 1970,
+      "titulo": "Plan de choque en salud reporta avances en procedimientos y medicinas atrasadas",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Ministerio de Salud informó avances en la reducción de procedimientos médicos y entrega de medicamentos atrasados dentro del plan de choque implementado por el nuevo Gobierno, aunque reconoció que persisten dificultades por barreras de acceso y problemas en el suministro del sistema de salud.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/plan-de-choque-en-salud-avanza-en-procedimientos-y-medicinas-atrasadas",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1969,
+      "titulo": "Gobierno restringe viajes de funcionarios por presión presupuestal",
+      "categoria": "economia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Gobierno Nacional expidió una circular que ordena a los ministerios priorizar los encuentros virtuales sobre los desplazamientos presenciales de funcionarios, como medida de austeridad ante la presión sobre el presupuesto nacional.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/gobierno-frena-los-viajes-de-funcionarios-ante-presion-presupuestal",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1968,
+      "titulo": "Inteligencia militar reporta fuga de alias 'Paciencia' con $10.000 millones de disidencias de Mordisco",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "Un informe de inteligencia militar reveló que alias 'Paciencia', segundo cabecilla y responsable financiero de la estructura Carlos Patiño de las disidencias de 'Iván Mordisco', habría desertado junto a su compañera sentimental 'Maryuri' llevándose cerca de $10.000 millones destinados al pago de integrantes y sostenimiento de actividades ilegales, lo que sugiere una posible fractura interna en la organización.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-paciencia-escape-10-000-millones-disidencias-farc-ivan-mordisco-PD42415912",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Paciencia",
+        "Maryuri",
+        "Iván Mordisco"
+      ],
+      "entidad": "Ejército Nacional / Inteligencia Militar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1967,
+      "titulo": "Primera dama niega irregularidades en donaciones para damnificados del terremoto",
+      "categoria": "denuncias",
+      "fecha": "2026-10-17",
+      "descripcion": "La primera dama de Colombia negó irregularidades en el manejo de más de $17 millones recibidos por su fundación como donaciones para las víctimas del terremoto del 10 de agosto, luego de que sectores de oposición exigieran explicaciones sobre fondos que, según denuncian, no han sido utilizados ni entregados a los damnificados.",
+      "evidencia": "Reportado por Nacion.com",
+      "fuentes": [
+        {
+          "nombre": "Nacion.com",
+          "url": "https://www.nacion.com/el-mundo/primera-dama-de-colombia-niega-irregularidades-en/XV27BXATTJBWNETZFLHIXKDQ64/story/",
+          "fecha": "2026-10-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Primera Dama de Colombia"
+      ],
+      "entidad": "Presidencia de la República / Fundación de la Primera Dama",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 1966,
+      "titulo": "Encuesta muestra caída en preocupación por crisis de salud",
+      "categoria": "opinion-publica",
+      "fecha": "2026-10-19",
+      "descripcion": "Una encuesta reveló que la preocupación ciudadana por la crisis del sistema de salud disminuyó 10 puntos porcentuales durante el arranque del Gobierno de Abelardo de la Espriella, en comparación con mediciones previas realizadas durante el gobierno anterior.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOXlPRUgxY3RMWnpjNVNTdWRYS0l0TXdqWVFMVV95RzR1MTZ6aW1TN0RqczgtSk1YVGRscGF4R2t5TGZZOGtTS3E1RDBsRURCc3A0WldGM1FUcG1oWEx2NERWVXBsVnhnN1VHSTBjN1NONTAycnJZNEcxYjBvc1RCRkRHTERRQzBQM1lqaGkzZHpXR3dzTjhVQ2ZnYk8zQnNsNE1VU2tTTkF6WnFnTWR6Yzg5WmowLXVKV3pRLXBxRzhPZUs2cDRyMzlFOXFubWpQYmczQkQ0ZkFXa0N0ZE9XUlZXeXF4LWVrWnZ2UUNmSUdlbHE4elh6NHpTb1dHN19sX1U0ZWNQLXNCLXZhVXZqQTBGTFgtdEtMeFHSAZ8CQVVfeXFMTlBjWElEVHNSLXI5OUpRMnRaRk1oY05hRnNxZy1FYURYbV8ya0gtbXpWNFJqWjRsWjQ1U2JieVphUTdVS1NwTnBpVGZsNm9BbXl4VmQwSGxGUVZpb2dJdjFvY3VycU0xOGh6WU9oR0FZNnh5UV9DQWh5Rnp5ZDZNLVFrRUxOdTZXdkVaeVcxWDlYSTAyZ3QwTjhuOWtXQW1sRzQzVi1EOHNJdDl2S0JlNVdlQ09lTmgtV0djY1A5Q1JqT1VBMjRsLUFEZk1QLUZkN2loenV1QTdybGxFNHdZSi1NbGZ3VnQyUEJ4R3l0Qy03Y1dIemdhbHlaWmh6MXFSZkZFdHozUjhJSHAwaVlGaFJ6MmdwQlVURTlZUHgxZ3M?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1965,
+      "titulo": "Verónica Alcocer niega haber influido en compra de aviones Gripen",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-19",
+      "descripcion": "Ante señalamientos sobre su posible injerencia en la negociación de los aviones de combate suecos Gripen, Verónica Alcocer, esposa del expresidente Gustavo Petro, negó tajantemente haber influido en la decisión de compra, en medio de la investigación que adelanta la Fiscalía por tráfico de influencias.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWdfbmszT2NVWGtFX1ozNlFsMmNQd2RwNVNmXzFBS2tzRlAtc1Y5emFEa3lRUHRBNTV0ZFJiX1N0TGUySnZJTHNSYWxZa181Y25wSWF6U0NJaUhlWVZPSVFHdEcxNzE2N0lDdzNiekRPYVg2cC1YcHRJQWxBNy10TElzaThlY1ZzeGt6OGhQMXdKcXpkTl96cVBra0NPNkdMeEJoN25SV0dpNWpjazR2RVVnY9IBswFBVV95cUxNSktYbXZvbWZtMEdGYm53MFVyS21CbXlLZ2Nzc3hEWVp6NFp2akFpTjlYTWJLbHItbzNheV9KZkZmZGlfWmpONnVPMktnUFlGMlR3MEMwMGhsVWJGUU9mNHdEZWctbHhtNFdIUnhkOGR3NnlRd3VBZTFCSHFHUjhTMWNhR1ZJNkJHam5KTlZGODgwaFdtcy1tbzE5SERhaE95VEJsdHJkMHJvZ3VYakRXeUpocw?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ministerio de Defensa",
+      "estado": "Desmentido",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30"
+    },
+    {
+      "id": 1964,
+      "titulo": "Gobierno niega sobrecosto en pago por aviones Gripen a Saab",
+      "categoria": "contratos",
+      "fecha": "2026-10-19",
+      "descripcion": "El ministro de Defensa, Pedro Sánchez, negó la existencia de un sobrecosto en el pago a la empresa sueca Saab por los aviones Gripen, señalado previamente por la Contraloría, y aseguró que con la negociación se logró un ahorro de $2.413 millones para el Estado.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTEdldnVaMmZONkhzVVVXdGgyOVpLMHE5M2hVTXZ5TlFGYWllSUxLT2Rja21Rc2Y1T2Vmdm1KNUZiQlNGZjF0VmJiT0dLdFNYVkRKTDVTeGVwb2lCdnFOZlR3RExBQ0hJMXNlZEJxSUpGOTEwcGEtcjNRN29hQm9CbUtDZnZwcG1wcjB5TGdqNkhaU0ZXVndxdk1pYkRBV2hwMUtMVjdFMmtYcjNmTkdBOE1vM04yekhPTFUxOFloN01MRFhhTXVQc2pOUUdVYWRwWGYtQlNYUC16WUg4SERWRjBJSdIB_gFBVV95cUxPS1VYV01RYmtINnpza3FmNkdMV0hyaGNPY1FTUEktSkpwZ1lmaFlwaTBMNmZvVVpPZkdVYjBrVEVSTmc5RWxILThreDJLMHVGY1hHbDhmNno3dVNXTjZEcFl3RVlNTGIyV0ZjbTJmTEp2OHg1c0V1ZG1NOFdhVXNMNzExNW5ac1I3VmExY0MwZkJRSE1ZcHRXeS1WaW5wU2pWZTlpTEhWSm5BYVdVdHhPZzZwX2p2OGxLVWdXTUdRZnNPMFdmeE9WVFBLYXFVT2FwWHA2U1NzdWc1V19yaGI5djZSSUtEb1lpUExfdUNoNG8wLWpJbTVXd0x4Mnk4UQ?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Sánchez"
+      ],
+      "entidad": "Ministerio de Defensa / Contraloría General de la República",
+      "estado": "Desmentido",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30"
+    },
+    {
+      "id": 1963,
+      "titulo": "19 solicitados por Interpol capturados en Pereira durante 2026",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "Autoridades reportan que en lo corrido de 2026 han sido capturadas en Pereira 19 personas solicitadas por Interpol, entre ellas un presunto sicario de la banda 'Cordillera' detenido en Madrid y un ciudadano iraní requerido por Estados Unidos, evidenciando el alcance transnacional del crimen organizado vinculado a la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/pereira-en-el-mapa-del-crimen-transnacional-19-personas-solicitadas-por-interpol-han-sido-capturadas-en-lo-que-va-del-ano-3594577",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Interpol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1962,
+      "titulo": "Ecopetrol declara desierto proceso de compra de gas tras señalar declive de la industria en gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-19",
+      "descripcion": "Ecopetrol declaró desierto el proceso de compra de gas importado para las regasificadoras del Pacífico y Puerto Bahía, señalando que durante la administración Petro hubo un declive en la industria por falta de exploración de nuevos campos, lo que afectó la capacidad de abastecimiento energético del país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ecopetrol-declara-desierto-proceso-de-compra-de-gas-importado-para-regasificadoras-del-pacifico-y-puerto-bahia/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30"
+    },
+    {
+      "id": 1961,
+      "titulo": "Embajadores nombrados por De la Espriella siguen sin beneplácito de países receptores",
+      "categoria": "gabinete",
+      "fecha": "2026-10-18",
+      "descripcion": "A más de dos meses de iniciado el gobierno de Abelardo de la Espriella, varios embajadores designados para España, México, Ecuador y Reino Unido aún no reciben el beneplácito oficial de los gobiernos receptores, lo que retrasa su posesión en los cargos diplomáticos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-embajadores-espana-mexico-ecuador-reino-unido-PM42397679",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1960,
+      "titulo": "Comerciantes del Eje Cafetero siguen esperando ayudas económicas tras el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-19",
+      "descripcion": "Dos meses después del terremoto, comerciantes de Pereira y el Quindío que perdieron sus negocios continúan sin recibir ayudas económicas ni definiciones sobre reconstrucción o reubicación de sus locales, pese a que la remoción de escombros avanza. Varios han debido asumir los costos de recuperación con recursos propios.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/comerciantes-pereira-quindio-esperan-ayudas-terremoto-FD42416157",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Alcaldías locales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 1959,
+      "titulo": "Capturan a capitán de inteligencia del Ejército por presuntos vínculos con disidencias de las Farc",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "Un capitán de inteligencia del Ejército Nacional fue capturado por presuntos vínculos con disidencias de las Farc, en un operativo que revela posible infiltración de estructuras armadas dentro de las Fuerzas Militares durante el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/capitan-de-inteligencia-del-ejercito-fue-capturado-por-presuntos-vinculos-con-disidencias-de-las-farc/202642/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1958,
+      "titulo": "Gobierno De la Espriella derogaría decretos de Petro sobre tercerización laboral",
+      "categoria": "economia",
+      "fecha": "2026-10-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella estudia derogar nuevos decretos expedidos por la administración Petro relacionados con tercerización laboral y trabajo doméstico, como parte de su agenda de revisión de la política laboral heredada.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-tumbaria-nuevos-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1957,
+      "titulo": "Damnificados en Pereira y Quimbaya denuncian demora en subsidios de arriendo",
+      "categoria": "damnificados",
+      "fecha": "2026-10-19",
+      "descripcion": "Más de dos meses después del terremoto, familias afectadas en Pereira y Quimbaya, como la de Isabel Estrada, siguen sin recibir los subsidios de arriendo prometidos por el Gobierno. Mientras algunos ya recibieron desembolsos, otros sobreviven con ayuda de familiares y ahorros mientras sus viviendas son demolidas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/damnificados-terremoto-pereira-quimbaya-esperan-subsidios-arriendo-ID42412129",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Isabel Estrada"
+      ],
+      "entidad": "Gobierno Nacional / Alcaldías locales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 1956,
+      "titulo": "Mancuso denuncia pacto del gobierno Petro para acusar falsamente a opositores",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-19",
+      "descripcion": "El excomandante paramilitar Salvatore Mancuso denunció que delegados del gobierno de Gustavo Petro pidieron a exjefes de las AUC acusar falsamente a Abelardo de la Espriella, Álvaro Uribe Vélez y Germán Vargas Lleras, con el fin de favorecer electoralmente al oficialismo. La denuncia se conoce como el presunto 'Pacto de Valledupar'.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/salvatore-mancuso-denuncia-que-gobierno-de-gustavo-petro-busco-que-exjefes-de-las-auc-acusaran-a-uribe-de-la-espriella-y-vargas-lleras-para-ganar-elecciones/202610/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Salvatore Mancuso",
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Nacional (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30"
+    },
+    {
+      "id": 1955,
+      "titulo": "Denuncian a exconsejero de Petro por contrato en filial de ISA",
+      "categoria": "contratos",
+      "fecha": "2026-10-19",
+      "descripcion": "El exasesor presidencial Saúl Kattan Cohen, quien fue presidente de la junta directiva de Ecopetrol durante el gobierno Petro, está siendo denunciado por un contrato de proyectos tecnológicos en una filial de ISA en el que también aparece Manuel Grau, ambos señalados de pertenecer al entorno cercano a Gustavo Petro y Verónica Alcocer.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/exconsejero-petro-denunciado-proyectos-teconologicos-filial-isa-PC42407338",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Saúl Kattan Cohen",
+        "Manuel Grau"
+      ],
+      "entidad": "Ecopetrol / ISA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30"
+    },
+    {
+      "id": 1954,
+      "titulo": "Gobierno De la Espriella reduce en 4.573 contratistas y ahorra $54.000 millones",
+      "categoria": "transparencia",
+      "fecha": "2026-10-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella expidió una circular que limita la contratación estatal: desde 2027 las órdenes de prestación de servicios no podrán superar el 25% de lo contratado en 2025-2026. En sus primeros dos meses el número de contratistas pasó de 102.338 a 97.765, una reducción de 4.573 personas, con un ahorro estimado de $54.000 millones.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-reduce-contratistas-gobierno-ahorro-54000-millones-MD42413249",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 16:30",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 1953,
       "titulo": "FMI proyecta déficit fiscal de Colombia cercano al 7% del PIB en 2026 y pide ajuste urgente",
       "categoria": "economia",
@@ -45637,7 +46101,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-19",
-    "total_casos": 1864,
+    "total_casos": 1884,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
