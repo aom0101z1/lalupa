@@ -221,6 +221,234 @@
   ],
   "casos": [
     {
+      "id": 1953,
+      "titulo": "FMI proyecta déficit fiscal de Colombia cercano al 7% del PIB en 2026 y pide ajuste urgente",
+      "categoria": "economia",
+      "fecha": "2026-10-18",
+      "descripcion": "El Fondo Monetario Internacional proyectó que el déficit fiscal de Colombia se acercará al 7% del PIB en 2026 y pidió al Gobierno de Abelardo de la Espriella realizar un ajuste fiscal urgente, señalando que este no necesariamente debe lograrse mediante incrementos en las tasas de los impuestos sino a través de otras medidas de gasto y recaudo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fmi-proyecta-deficit-fiscal-de-colombia-cercano-al-7-del-pib-en-2026-y-pide-ajuste-urgente/",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Monetario Internacional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1952,
+      "titulo": "MinAgricultura y Fedepapa acuerdan plan para reducir hasta 50% costos de producción de paperos",
+      "categoria": "economia",
+      "fecha": "2026-10-18",
+      "descripcion": "El Ministerio de Agricultura y Fedepapa acordaron una agenda conjunta para mejorar la productividad del sector papero, reducir la intermediación comercial y fortalecer los canales de comercialización, con el objetivo de disminuir hasta en un 50% los costos de producción para los agricultores.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/minagricultura-y-fedepapa-buscan-reducir-hasta-50-los-costos-de-produccion-de-los-paperos/",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Indalecio Dangond"
+      ],
+      "entidad": "Ministerio de Agricultura / Fedepapa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1951,
+      "titulo": "Auditoría forense revela obras fantasma del MinVivienda en Riohacha, Buenaventura y Ciénaga",
+      "categoria": "contratos",
+      "fecha": "2026-10-18",
+      "descripcion": "Una auditoría forense encargada por el Ministerio de Vivienda detectó irregularidades y obras fantasma en proyectos ejecutados durante el gobierno Petro en los municipios de Riohacha, Buenaventura y Ciénaga. Los hallazgos apuntan a posibles sobrecostos y obras que nunca se ejecutaron pese a haber sido pagadas con recursos públicos, lo que se suma a otras denuncias previas sobre proyectos de agua del gobierno saliente.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/alerta-en-el-minvivienda-auditoria-forense-revela-irregularidades-y-obras-fantasma-en-riohacha-buenaventura-y-cienaga/202635/",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14"
+    },
+    {
+      "id": 1950,
+      "titulo": "Gobierno activa créditos con anticipos para futuras cosechas agrícolas",
+      "categoria": "economia",
+      "fecha": "2026-10-18",
+      "descripcion": "El Ministerio de Agricultura y el Grupo Éxito formalizaron una estrategia de compra directa para conectar a pequeños y medianos cultivadores con la red de retail, proyectando un impacto económico superior a $1,2 billones al año mediante créditos con anticipos sobre futuras cosechas.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-activa-creditos-con-anticipos-para-futuras-cosechas-en-el-pais",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / Grupo Éxito",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1949,
+      "titulo": "Verónica Alcocer niega en entrevista haber traficado drogas o dinero irregular",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-19",
+      "descripcion": "Tras cuatro años sin dar entrevistas, Verónica Alcocer habló con Noticias RCN y negó públicamente haber transportado drogas o dinero de origen irregular, rechazando la versión de que regresó de Venezuela con maletas que contenían US$2,5 millones. Se refirió también a las acusaciones hechas por su exasesora Eva Ferrer en su contra.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-alcocer-habla-eva-ferrer-drogas-dinero-venezuela-HM42397918",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalía General de la Nación / Presidencia de la República (gobierno Petro)",
+      "estado": "Desmentido",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14"
+    },
+    {
+      "id": 1948,
+      "titulo": "Gobierno expedirá decreto de líneas de base del archipiélago de San Andrés",
+      "categoria": "internacional",
+      "fecha": "2026-10-19",
+      "descripcion": "El presidente Abelardo de la Espriella anunció que el 30 de noviembre firmará un decreto para delimitar con coordenadas oficiales el territorio arrecifal colombiano del archipiélago de San Andrés, en un contexto de disputas territoriales marítimas.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-expedira-en-noviembre-decreto-de-lineas-de-base-del-archipielago-de-san-andres-4505688",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1947,
+      "titulo": "Gobierno promete continuidad de Colombia Mayor pese a falta de recursos heredada",
+      "categoria": "economia",
+      "fecha": "2026-10-18",
+      "descripcion": "La directora de Prosperidad Social, Sandra Suárez, alertó sobre la falta de fondos heredada del gobierno anterior para el programa Colombia Mayor, que beneficia a tres millones de adultos mayores. El Ministerio de Hacienda anunció que reestructurará la partida fiscal para asegurar la continuidad del programa.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-la-espriella-promete-continuidad-del-programa-colombia-mayor-deberan-asegurar-recursos-para-tres-millones-de-adultos-mayores-3594444",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Suárez"
+      ],
+      "entidad": "Prosperidad Social / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1946,
+      "titulo": "Fuerzas Militares inhabilitan refinería ilegal del ELN en Norte de Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "En el marco de la ofensiva contra el ELN y el Clan del Golfo, las Fuerzas Militares inhabilitaron en Norte de Santander una refinería ilegal instalada por el ELN para robar gasolina de la estatal Ecopetrol, como parte de resultados reportados por el gobierno en su estrategia de seguridad.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/fuerzas-militares-reportan-resultados-en-ofensiva-contra-el-eln-y-clan-del-golfo",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1945,
+      "titulo": "Captura de alias 'Majiño', cabecilla de disidencias en el Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-18",
+      "descripcion": "Autoridades capturaron en el Valle del Cauca a Michael Taicus, alias 'Majiño', segundo cabecilla del 'frente Yair Bermúdez' de las disidencias de las Farc, junto con otras ocho personas pertenecientes a la estructura con presencia en el suroccidente del país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/en-el-valle-del-cauca-fue-capturado-alias-manijo-segundo-cabecilla-del-frente-yair-bermudez-de-las-disidencias-3594473",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Michael Taicus (alias Majiño)"
+      ],
+      "entidad": "Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1944,
+      "titulo": "MinVivienda denunciará tres proyectos de agua del Gobierno Petro por irregularidades",
+      "categoria": "contratos",
+      "fecha": "2026-10-18",
+      "descripcion": "El Ministerio de Vivienda anunció que remitirá a la Fiscalía, Contraloría y Procuraduría un paquete de inconsistencias contractuales en tres proyectos de agua potable ejecutados durante el gobierno anterior: obras sin ejecutar en Riohacha, sobrecostos financieros en Buenaventura y parálisis técnica en Ciénaga.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/minvivienda-denunciara-tres-proyectos-de-agua-del-gobierno-anterior-por-irregularidades",
+          "fecha": "2026-10-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 03:14"
+    },
+    {
       "id": 1943,
       "titulo": "Uribe gestiona cooperación internacional con Real Madrid para víctimas del terremoto",
       "categoria": "dineros",
@@ -45408,8 +45636,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-18",
-    "total_casos": 1854,
+    "ultima_actualizacion": "2026-10-19",
+    "total_casos": 1864,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
