@@ -221,6 +221,308 @@
   ],
   "casos": [
     {
+      "id": 1986,
+      "titulo": "Gobierno exige devolución de viáticos sobrantes de viajes oficiales",
+      "categoria": "transparencia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Gobierno Nacional expidió un plan de austeridad que obliga a los funcionarios públicos a adquirir pasajes económicos y devolver de inmediato los viáticos no utilizados en viajes oficiales, como parte de las medidas de ajuste presupuestal.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/funcionarios-publicos-tendran-que-devolver-viaticos-de-viajes-que-no-utilicen-gobierno-expide-plan-de-austeridad-504718",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1985,
+      "titulo": "MinJusticia pide investigar denuncias de Mancuso sobre 'Pacto de Valledupar'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-19",
+      "descripcion": "El Ministerio de Justicia solicitó formalmente a la Fiscalía investigar las denuncias de Salvatore Mancuso y Angie Rodríguez sobre un presunto pacto del gobierno Petro para presionar a exparamilitares a declarar falsamente contra opositores políticos como Álvaro Uribe y Germán Vargas Lleras. El expresidente Petro rechazó los señalamientos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/caso-valledupar-minjusticia-pide-investigar-las-denuncias-de-mancuso",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Salvatore Mancuso",
+        "Angie Rodríguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Justicia / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03"
+    },
+    {
+      "id": 1984,
+      "titulo": "Gobierno propone cambiar fórmula de deslizamiento del salario mínimo en pensiones",
+      "categoria": "economia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Ministerio de Hacienda propuso modificar la fórmula vigente de ajuste del mínimo en pensiones, que toma el mayor valor entre el promedio del crecimiento real de la productividad de los últimos 10 años y el 35% del promedio de la inflación. La medida busca ajustar el gasto pensional en medio de la crisis fiscal.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/minhacienda-propone-cambiar-la-formula-del-deslizamiento-en-las-pensiones-4506196",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1983,
+      "titulo": "Procuraduría investiga a representante Mafe Carrascal por uso de una niña en marchas",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-19",
+      "descripcion": "La Procuraduría General de la Nación abrió una investigación disciplinaria contra la representante a la Cámara por el Pacto Histórico, María Fernanda Carrascal, luego de que apareciera junto a una niña en una tarima durante manifestaciones del 14 de octubre en Bogotá, en medio de arengas y expresiones cuestionadas. La queja fue presentada por la periodista Sofía Casas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/procuraduria-investigacion-mafe-carrascal-nina-plaza-bolivar-JB42432685",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "María Fernanda Carrascal",
+        "Sofía Casas"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03"
+    },
+    {
+      "id": 1982,
+      "titulo": "Capturan a exgobernador de San Andrés Everth Julio Hawkins por extorsión y secuestro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-19",
+      "descripcion": "La Fiscalía General de la Nación capturó al exgobernador de San Andrés, Everth Julio Hawkins, por presuntos delitos de extorsión y secuestro. El caso se suma a la serie de señalamientos de corrupción e irregularidades en la administración pública del archipiélago, que ya era objeto de cuestionamientos por parte del nuevo gobierno nacional.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/por-presunta-extorsion-y-secuestro-capturan-al-exgobernador-de-san-andres-everth-julio-hawkins/202623/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Everth Julio Hawkins"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03"
+    },
+    {
+      "id": 1981,
+      "titulo": "Proyecto de ley busca reducir IVA de hoteles y tiquetes en municipios afectados por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-19",
+      "descripcion": "Un proyecto de ley radicado en el Congreso propone la reducción del IVA para hoteles y tiquetes aéreos en los municipios declarados en emergencia tras el terremoto del 10 de agosto, como medida de alivio económico para reactivar el turismo y la economía local en las zonas afectadas.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/proyecto-de-ley-propone-reduccion-de-iva-para-hoteles-y-tiquetes-para-municipios-afectados-por-el-terremoto/202609/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 1980,
+      "titulo": "Resolución de Petro designó a Angie Rodríguez y nombró gestores de paz a exjefes de las AUC",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-19",
+      "descripcion": "Semana revela una resolución firmada por el expresidente Gustavo Petro en la que designó a Angie Rodríguez como secretaria del cierre de Ralito y nombró como gestores de paz a varios exjefes de las AUC, en el marco de la política de Paz Total. El documento reaviva cuestionamientos sobre nombramientos y beneficios otorgados a excombatientes y allegados durante el gobierno saliente.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/esta-es-la-resolucion-firmada-por-petro-donde-designo-a-angie-rodriguez-como-secretaria-del-cierre-de-ralito-y-designo-gestores-de-paz-a-exjefes-de-las-auc/202610/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03"
+    },
+    {
+      "id": 1979,
+      "titulo": "Capturan en Brasil a alias Giovanny, cabecilla de 'Los Fantasmas' en Casanare",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "Autoridades capturaron en Brasil a alias 'Giovanny', señalado cabecilla de la estructura criminal 'Los Fantasmas' que operaba en Villanueva, Casanare, dedicada al tráfico de estupefacientes, homicidios y extorsiones, luego de casi 10 meses al frente de la organización.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-brasil-a-alias-giovanny-senalado-cabecilla-de-los-fantasmas-en-casanare-3594698",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias Giovanny"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1978,
+      "titulo": "Gobierno plantea cambios laborales para repartidores, periodistas y víctimas de acoso",
+      "categoria": "economia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció cambios en las reglas laborales que incluyen ajustes en la cotización a pensión de repartidores de aplicaciones, nuevas condiciones laborales para periodistas y mecanismos para atender denuncias de acoso laboral.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/asi-cambiaria-de-la-espriella-las-reglas-laborales-para-repartidores-de-apps-periodistas-y-victimas-de-acoso/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1977,
+      "titulo": "MinDefensa confirma captura de cabecilla del Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-19",
+      "descripcion": "El Ministerio de Defensa confirmó un golpe contundente contra el Clan del Golfo con la captura de uno de sus cabecillas, como parte de la ofensiva de seguridad del Gobierno de Abelardo de la Espriella contra grupos armados organizados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/mindefensa-confirma-contundente-golpe-al-clan-del-golfo-cayo-uno-de-sus-cabecillas/202642/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1976,
+      "titulo": "Gobierno define paso clave para el salario mínimo de 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció el inicio del proceso de concertación para definir el aumento del salario mínimo de 2027, señalando que la discusión comenzaría desde un 7% de incremento como punto de partida entre Gobierno, empresarios y centrales obreras.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamRkM0VlbWZ5S2xuTFFrcklkVGVFeUpubWNtS1BvMXNsRi1HaGgzaW5UcjZnOUl5TFh2RWp3VV9Pa0N4M3VoTzhkb1QzT1dyTjIyR054SUdQRndCXzZ0ZlRZNnQzdHdzSnpRTFE5bllKQWdFMUlBMFlUZDBRcXgzbGlxekhmVHI3VDNzbFJ6OXBtRFVYS05DSlNocklRZkNVdEt1ZkpreHpnNExNSW9JeFdvM2pGWkF2SXhDT2hzTlJLckFoWjVnanZ1Q0ROdDRJQlZyajA2NNIB3AFBVV95cUxQZHFMSE1mbUtiMS0zd1g1TjVIR3FCdnlMWU1JeVNraHE1YWlYSDRlSFVnWEpQZngzSzhwVEZmeTkxYzhGcTU4QVlTejRXeE5fcjl6ZjVsWC01ZlVDUVNOOUZsZXdQdmcyODhJLXVKUU9TU3hlX1p3ZUZrX0N5Q19JcXFaN2JDaDFhZTFBd1JQQlUwaDRtaUZLNEFQV3NXMjc2VEVKX0NQUjVKS19LMVlqWEJUM1FHbnZRMFBQVHA1aXRjMHVNM2dRX1VCM0ttLUlBYl9oaEprZFRFbUto?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Trabajo / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1975,
+      "titulo": "Gobierno suprime más de 400 cargos del MinIgualdad y ahorra $233.000 millones",
+      "categoria": "transparencia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Gobierno de Abelardo de la Espriella suprimió más de 400 cargos en el Ministerio de Igualdad, creado durante la administración de Gustavo Petro, logrando un ahorro reportado de más de $233.000 millones en el Presupuesto General de la Nación, como parte de la política de austeridad y reducción del aparato estatal heredado.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQekFMNVRzVFFCZThMcUhMZHFOUmk2a1ItbmV2MGgtRFNLdUF4Ymwzdm9vdjJfS1dHZDhCcDJ3d0hSMFVZZ1ZpNVJrVVZPWHQyVG84VzhveGhKaWFFLWlCSngxUlFyNTA2SVRuUkdkVUxhSElIUjNYVzZXRG1qMV8wRTlWM1ZpUkVRS21MTUs2M05MMWVkVm5kSjU1cl9KZWdOZTE0ekZDWlBWM05ULXNIVTVEaVRTdGhzc1F2ZUlJLW9LTjBmVGFxUGZLZzhmUlpDaVgyY2V3SS1XRFBwd1JwWXBnNWZSZnNxdDZGbHRpU2FJZ2V6TWpqejdzMUlrQWFfNkhhdVpB0gGLAkFVX3lxTFBmQ0hqMXNabGY2VnZHamo4Uk5YRmxDSW1ZZFJJbnd4ajd4bVdPcWNodVAwV3NobGNWZXJ5Wm8yMFNLczBBdEFiYkxvc1lZa2FNRmxCYVpEdHQ1dHFzc215RWZkZVBGZzV3SUxLS3dBOXoxUmg5YXNmUGZIY1RCSlR1NlRPa1k4RnFUTjRFSjM2cWI3bUhwaEdtNDEyRWNBdXBBRHBGTXFvRUVxZUtIRUI4T0RKUkxEYXlYa01OMUdueG9YTXF6R3FqTzhoM0w0YWd6MDJPSm9sel9DWV8tY05xbkdpMGl5QzQ2TXBVUjdwTm02aTg5cTkweEd0d1o5RlYwQnRObk1lZlp4TQ?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Ministerio de Igualdad",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 1974,
+      "titulo": "Gobierno anuncia hospitales y entrega ambulancias en Chocó tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-10-19",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la entrega de nueve ambulancias financiadas por el Ministerio de Salud a nueve municipios del Chocó, departamento afectado por el terremoto. Además se anunciaron proyectos para construir o fortalecer hospitales de primer y segundo nivel en 11 municipios y uno de tercer nivel, como parte de las medidas de reconstrucción en salud para la región.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/choco-ambulancias-gobierno-anuncio-hospitales-11-municipios-y-1-tercer-nivel-JB42434915",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Salud y Protección Social / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-19 22:03",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
       "id": 1973,
       "titulo": "Incautaciones de heroina alcanzan cifra record en 2026",
       "categoria": "seguridad",
@@ -46101,7 +46403,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-19",
-    "total_casos": 1884,
+    "total_casos": 1897,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
