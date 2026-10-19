@@ -27,6 +27,236 @@
   },
   "lecturas": [
     {
+      "id": 19,
+      "titulo": "La fiebre de diamantes de 1908 que creó una ciudad de lujo en el desierto de Namibia",
+      "resumen": "En 1908 un trabajador ferroviario encontró un diamante en el desierto de Namibia y desató una fiebre de riqueza que llevó a colonos alemanes a construir una ciudad de lujo con hospital, casino, teatro y fábrica de hielo en pleno desierto. Cuando los diamantes dejaron de aparecer, el lugar fue abandonado y el desierto terminó por cubrirlo.",
+      "por_que_leerlo": "Una lección vívida de historia económica sobre cómo el auge y la caída de un solo recurso pueden crear y destruir una economía entera.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "historia economica",
+        "recursos naturales",
+        "diamantes",
+        "namibia"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/1908-encontraron-diamantes-que-construyeron-ciudad-alemana-lujo-desierto-cuando-dejaron-aparecer-desierto-se-cobro-alquiler"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 20,
+      "titulo": "China halla en muestras lunares una 'cápsula del tiempo' de hierro",
+      "resumen": "La misión china Chang'e 6 trajo en 2024 casi 2 kg de muestras del lado oculto de la Luna, las únicas obtenidas hasta ahora de esa cara del satélite. Su análisis reveló una estructura de hierro que actúa como una cápsula del tiempo geológica, cuya información completa los científicos aún trabajan en descifrar.",
+      "por_que_leerlo": "Un vistazo a lo que revelan las únicas muestras recogidas jamás del lado oculto de la Luna.",
+      "seccion": "ciencia",
+      "tags": [
+        "exploracion espacial",
+        "luna",
+        "china",
+        "geologia"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/china-ha-encontrado-luna-capsula-tiempo-hierro-ahora-solo-queda-aprender-a-abrirla"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 21,
+      "titulo": "Simulaciones exploran cómo un arma nuclear podría desviar un asteroide peligroso",
+      "resumen": "Investigadores del Lawrence Livermore National Laboratory desarrollaron simulaciones tridimensionales para analizar cómo un dispositivo nuclear podría desviar o fragmentar un asteroide en curso de colisión con la Tierra. El trabajo busca anticipar escenarios reales de defensa planetaria ante amenazas de impacto.",
+      "por_que_leerlo": "Explica con base científica una de las estrategias más discutidas para proteger al planeta de un impacto de asteroide.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "defensa planetaria",
+        "simulaciones",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-17",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 22,
+      "titulo": "Avance cuántico reduce errores 40 veces en su primera prueba exitosa en hardware real",
+      "resumen": "Un nuevo método de 'limpieza de estados mágicos' logró reducir los errores en computación cuántica hasta 40 veces frente a la técnica tradicional de destilación, que consume muchos más recursos. La prueba se realizó con éxito en hardware cuántico real, un paso concreto hacia computadoras cuánticas más confiables.",
+      "por_que_leerlo": "Es un avance medible y verificado en la carrera por hacer viable la computación cuántica a escala práctica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computación cuántica",
+        "corrección de errores",
+        "hardware",
+        "qubits"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-17",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 23,
+      "titulo": "El telescopio espacial Roman de la NASA supera las expectativas en un 30%",
+      "resumen": "Ingenieros de la NASA ajustaron un espejo del telescopio Nancy Grace Roman apenas una dieciseisava parte del grosor de un cabello humano, logrando una alineación casi perfecta de sus instrumentos. Como resultado, el instrumento de campo amplio produce imágenes con una calidad casi 30% superior a la prevista.",
+      "por_que_leerlo": "Muestra el nivel de precisión de ingeniería que permite explorar el universo con más detalle del esperado.",
+      "seccion": "ciencia",
+      "tags": [
+        "telescopio espacial",
+        "nasa",
+        "ingeniería de precisión",
+        "astronomía"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-17",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 24,
+      "titulo": "La Unión Europea propone comprar energía en conjunto como un solo bloque",
+      "resumen": "Ursula von der Leyen presentó ante el Parlamento Europeo una propuesta inédita para agregar toda la demanda energética del continente y negociar compras conjuntas de energía, buscando responder a un mercado cada vez más volátil. La iniciativa movilizaría más de 100.000 millones de euros adicionales.",
+      "por_que_leerlo": "Muestra cómo podría reorganizarse uno de los mercados energéticos más grandes del mundo y qué implicaciones tendría para los precios.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "union europea",
+        "mercados",
+        "politica energetica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/europa-quiere-hacer-algo-que-parecia-imposible-comprar-energia-como-fuera-solo-pais"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 25,
+      "titulo": "RepRapMicron: impresión 3D de código abierto a escala de micrómetros",
+      "resumen": "RepRapMicron es un proyecto de hardware libre que adapta la filosofía del movimiento RepRap para construir impresoras y plataformas de manipulación capaces de operar a escala de micrómetros, documentado íntegramente en su wiki de GitHub. El proyecto generó alta discusión en la comunidad maker, con más de 340 puntos en Hacker News.",
+      "por_que_leerlo": "Para quienes construyen hardware propio, una referencia abierta de cómo lograr precisión de nivel micrométrico con herramientas accesibles.",
+      "seccion": "tecnologia",
+      "tags": [
+        "impresion 3d",
+        "hardware libre",
+        "ingenieria",
+        "fabricacion digital"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 26,
+      "titulo": "Meta admite que sus gafas inteligentes grababan conversaciones sin permiso",
+      "resumen": "Usuarios reportaron en Reddit que sus gafas Ray-Ban Meta guardaban conversaciones normales con otras personas sin que se activara el comando de voz 'Hey, Meta'. Varias personas confirmaron haber visto el mismo comportamiento, y Meta asegura que ya corrigió el problema, aunque no está claro qué tan extendido fue.",
+      "por_que_leerlo": "Un caso concreto de cómo los dispositivos con IA embebida pueden comprometer la privacidad sin que el usuario se dé cuenta.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "gafas inteligentes",
+        "meta",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/privacidad/esta-resuelto-meta-admite-error-sus-gafas-inteligentes-que-grababa-conversaciones-permiso"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-18",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 27,
+      "titulo": "Economía colombiana entra en desaceleración: el PIB crecería por debajo del 2% en el tercer trimestre",
+      "resumen": "El PIB de Colombia se desaceleraría a menos del 2% en el tercer trimestre de 2026, afectado por un peso apreciado, la racionalización del gasto público, tasas de interés altas y los efectos de un terremoto reciente. La combinación de estos factores configura un panorama de debilidad productiva para el país.",
+      "por_que_leerlo": "Entender estos factores macro ayuda a anticipar el entorno de negocios e inversión en Colombia en los próximos meses.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "economia colombia",
+        "pib",
+        "desaceleracion",
+        "tasas de interes"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/economia-colombiana-se-adentra-en-una-fase-de-desaceleracion-pib-caeria-por-debajo-del-2-en-el-tercer-trimestre/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-17",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
+      "id": 28,
+      "titulo": "FMI advierte que la IA podría impulsar el PIB global pero también generar riesgos financieros",
+      "resumen": "La directora del FMI, Kristalina Georgieva, afirmó que la inteligencia artificial podría sumar medio punto porcentual al crecimiento económico mundial cada año durante la próxima década. Advirtió, sin embargo, que también plantea riesgos para el empleo, la estabilidad financiera y la ciberseguridad.",
+      "por_que_leerlo": "Ofrece una visión de alto nivel sobre cómo la IA transformará la economía global y los riesgos financieros que esto implica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "pib global",
+        "riesgos financieros",
+        "fmi"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/colombia/la-ia-puede-acelerar-el-pib-mundial-pero-tambien-desatar-turbulencias-financieras-dice-el-fmi/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-17",
+      "added_date": "2026-10-19 03:19",
+      "auto_generated": true
+    },
+    {
       "id": 7,
       "titulo": "El negocio circular detras del boom de la inteligencia artificial",
       "resumen": "Grandes empresas de IA como proveedores de chips, plataformas en la nube y desarrolladores de modelos han creado un esquema donde una misma compania es a la vez proveedor, inversionista y cliente de otra. Esto hace que el mismo dinero aparezca varias veces en distintos balances, inflando artificialmente el tamano real del boom de la IA.",
