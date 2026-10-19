@@ -27,6 +27,277 @@
   },
   "lecturas": [
     {
+      "id": 29,
+      "titulo": "Premio Nobel 2026 premia la optogenética: controlar neuronas con luz",
+      "resumen": "El Nobel 2026 reconoce el descubrimiento de proteínas sensibles a la luz en algas que permiten activar o desactivar neuronas específicas con gran precisión. La técnica, llamada optogenética, ya se usa para activar recuerdos en modelos animales y abre nuevas vías para restaurar la visión y tratar trastornos cerebrales.",
+      "por_que_leerlo": "Entender la ciencia detrás de uno de los avances biomédicos más premiados de la década.",
+      "seccion": "ciencia",
+      "tags": [
+        "neurociencia",
+        "premio nobel",
+        "optogenetica",
+        "biotecnologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 9,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 30,
+      "titulo": "Un deslizamiento en Alaska generó el segundo tsunami más alto jamás registrado",
+      "resumen": "Un enorme deslizamiento de tierra en Alaska provocó una ola que alcanzó 1.580 pies (unos 480 metros) en la ladera de una montaña, horas después de que turistas visitaran la zona. Los científicos identificaron señales de alerta previas, como el rápido retroceso de glaciares, lluvias intensas y miles de pequeños temblores sísmicos.",
+      "por_que_leerlo": "Muestra con datos cómo el deshielo de glaciares puede gatillar riesgos geológicos extremos y medibles.",
+      "seccion": "ciencia",
+      "tags": [
+        "tsunami",
+        "glaciares",
+        "cambio climatico",
+        "geologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 31,
+      "titulo": "Por qué algunas personas con alto riesgo genético se libran del Alzheimer",
+      "resumen": "Investigadores identificaron una mutación rara que protege el cerebro de la acumulación de proteínas dañinas, incluso en personas con una variante genética de alto riesgo para Alzheimer que mantienen su agudeza mental hasta los 80 años. El hallazgo sugiere una vía concreta hacia tratamientos que imiten esta defensa natural.",
+      "por_que_leerlo": "Ofrece una pista científica concreta hacia posibles tratamientos preventivos para el Alzheimer.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "genetica",
+        "neurociencia",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 32,
+      "titulo": "Una IA demostró la hipótesis cuasi-Riemann y matemáticos ya verificaron la prueba",
+      "resumen": "A diferencia de otras pruebas recientes generadas por inteligencia artificial, esta fue revisada y confirmada por matemáticos humanos. Un matemático calificó sus implicaciones como \"asombrosas\", marcando un hito en el uso de IA para resolver problemas matemáticos complejos sin intervención humana directa.",
+      "por_que_leerlo": "Es evidencia concreta de que la IA ya puede producir demostraciones matemáticas rigurosas y verificables, no solo texto plausible.",
+      "seccion": "ciencia",
+      "tags": [
+        "inteligencia artificial",
+        "matematicas",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 33,
+      "titulo": "Mistral lanza Timestral, modelos de IA especializados en series de tiempo",
+      "resumen": "Mistral AI presentó Timestral, una familia de modelos fundacionales abiertos enfocados en pronosticar series temporales, útiles para finanzas, demanda y otros datos secuenciales. El lanzamiento amplía el abanico de herramientas de IA abierta disponibles para aplicaciones prácticas de pronóstico.",
+      "por_que_leerlo": "Es una herramienta de IA abierta que un emprendedor puede usar directamente para construir pronósticos financieros o de demanda en sus propios productos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "series de tiempo",
+        "mistral"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://mistral.ai/news/timestral/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 34,
+      "titulo": "Nubank lanza herramienta de IA para dar recomendaciones de inversion imparciales",
+      "resumen": "La nueva herramienta de Nubank analiza las carteras de los clientes y sugiere ajustes basados en cinco criterios, sin ejecutar las inversiones de forma automatica. El banco digital busca asi expandir su negocio de inversiones en Brasil usando inteligencia artificial aplicada a finanzas personales.",
+      "por_que_leerlo": "Un ejemplo concreto de como un banco digital latinoamericano esta aplicando IA a las decisiones de inversion de sus usuarios.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "fintech",
+        "nubank",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/negocios/nubank-lanza-herramienta-de-ia-que-promete-recomendaciones-de-inversion-imparciales/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 35,
+      "titulo": "Caminar 3.000 pasos diarios podría frenar el avance del Alzheimer",
+      "resumen": "Un estudio encontró que la actividad física se asocia con menor acumulación de la proteína tau y casi la mitad del deterioro cognitivo y funcional, incluso en personas con signos tempranos de la enfermedad. Los mayores beneficios aparecieron entre 5.000 y 7.500 pasos diarios.",
+      "por_que_leerlo": "Da una meta simple y respaldada por datos para proteger la salud cerebral a largo plazo.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "actividad fisica",
+        "salud",
+        "prevencion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 36,
+      "titulo": "La educación financiera reduce el riesgo de quedar subasegurado",
+      "resumen": "Un estudio de la Universidad James Cook halló que las personas con mayor comprensión de los seguros personales tienen más probabilidad de contratar productos de seguro adecuados a sus necesidades. Los investigadores piden incluir educación financiera en los colegios para cerrar esta brecha de conocimiento.",
+      "por_que_leerlo": "Conecta directamente la educación financiera con mejores decisiones de protección patrimonial.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "finanzas personales",
+        "educacion financiera",
+        "seguros"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-financial-literacy-key-underinsurance.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 37,
+      "titulo": "Rayos X revelan ondas de espín de larga duración en óxido de cobre, clave para chips pos-silicio",
+      "resumen": "Científicos usaron rayos X para observar ondas de espín inusualmente longevas en un óxido de cobre, un material candidato para reemplazar al silicio en computación de bajo consumo. El hallazgo cobra relevancia porque los centros de datos de IA consumen cantidades enormes de electricidad y la industria busca materiales más eficientes.",
+      "por_que_leerlo": "Anticipa qué materiales podrían sostener la próxima generación de chips más eficientes energéticamente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "materiales",
+        "computacion",
+        "energia",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 38,
+      "titulo": "Un dirigible estratosférico voló de EE.UU. a Japón para probar torres de celular en el cielo",
+      "resumen": "La plataforma de gran altitud de la empresa Sceye completó un vuelo transpacífico de prueba para validar su concepto de \"torre celular en el cielo\", capaz de dar conectividad en zonas de desastre. Las pruebas demostraron que el sistema puede ofrecer cobertura de telecomunicaciones desde la estratosfera sin necesidad de infraestructura terrestre.",
+      "por_que_leerlo": "Muestra una alternativa de infraestructura de telecomunicaciones útil para zonas remotas o tras desastres, un tema relevante para ingeniería y conectividad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "telecomunicaciones",
+        "ingenieria",
+        "conectividad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 39,
+      "titulo": "Khosla Ventures invierte en Even Healthcare para transformar la economía hospitalaria de India",
+      "resumen": "La startup india Even Healthcare alcanzó una valoración de 300 millones de dólares en una ronda liderada por Khosla Ventures, con planes de expandir su red de hospitales. La apuesta busca cambiar el modelo económico de la atención hospitalaria en un mercado emergente de gran escala.",
+      "por_que_leerlo": "Es un caso de inversión y modelo de negocio en salud para mercados emergentes, útil para quien piensa en escalar negocios en America Latina.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "inversion",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
+      "id": 40,
+      "titulo": "Anthropic propone que el gobierno solo frene modelos de IA tras 50 muertes o US$1.000 millones en danos",
+      "resumen": "Anthropic presento ante el Congreso de EE.UU. un borrador de ley sobre seguridad en IA que fija un umbral muy alto para la intervencion estatal: 50 muertes o US$1.000 millones en danos causados por un modelo. Resulta inusual que un laboratorio de IA redacte las normas de su propia industria, lo que genero criticas por posible conflicto de interes.",
+      "por_que_leerlo": "Entender hacia donde la propia industria de IA quiere empujar la regulacion que la afectara directamente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "regulacion",
+        "anthropic",
+        "politica tecnologica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-19 16:01",
+      "auto_generated": true
+    },
+    {
       "id": 19,
       "titulo": "La fiebre de diamantes de 1908 que creó una ciudad de lujo en el desierto de Namibia",
       "resumen": "En 1908 un trabajador ferroviario encontró un diamante en el desierto de Namibia y desató una fiebre de riqueza que llevó a colonos alemanes a construir una ciudad de lujo con hospital, casino, teatro y fábrica de hielo en pleno desierto. Cuando los diamantes dejaron de aparecer, el lugar fue abandonado y el desierto terminó por cubrirlo.",
