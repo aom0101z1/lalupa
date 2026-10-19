@@ -147,6 +147,8 @@ REQUIRED_IDS = [
     "terremoto-resumen", "terremoto-regiones", "terremoto-filters", "terremoto-grid", "terremoto-count",
     "temas-interes", "admin-content",
     "politica", "politica-tabs", "archivo", "nuevo-gobierno", "violencia",
+    "portada-lecturas", "emprendimiento", "ciencia", "tecnologia",
+    "lecturas-emprendimiento", "lecturas-ciencia", "lecturas-tecnologia",
 ]
 
 
@@ -181,17 +183,76 @@ def validate_js():
 
 def validate_py():
     import py_compile
-    path = os.path.join(ROOT, "scripts", "news_updater.py")
+    for name in ("news_updater.py", "lecturas_updater.py"):
+        path = os.path.join(ROOT, "scripts", name)
+        try:
+            py_compile.compile(path, doraise=True)
+            print(f"  {name}: compila OK")
+        except py_compile.PyCompileError as e:
+            err(f"{name} NO compila: {e}")
+
+
+# ---------------------------------------------------------------- lecturas.json
+LECTURA_SECCIONES = {"emprendimiento", "ciencia", "tecnologia"}
+LECTURA_REQUIRED = ("id", "titulo", "resumen", "seccion", "fuente", "fecha", "interes_score")
+
+
+def validate_lecturas():
+    path = os.path.join(ROOT, "lecturas.json")
     try:
-        py_compile.compile(path, doraise=True)
-        print("  news_updater.py: compila OK")
-    except py_compile.PyCompileError as e:
-        err(f"news_updater.py NO compila: {e}")
+        with open(path, encoding="utf-8") as f:
+            raw = f.read()
+        if raw.startswith("\ufeff"):
+            err("lecturas.json tiene BOM UTF-8")
+        data = json.loads(raw)
+    except json.JSONDecodeError as e:
+        err(f"lecturas.json NO es JSON valido: {e}")
+        return
+    except FileNotFoundError:
+        err("lecturas.json no existe")
+        return
+    for key in ("secciones", "lecturas", "estadisticas"):
+        if key not in data:
+            err(f"lecturas.json: falta la clave '{key}'")
+            return
+    secciones = {s.get("id") for s in data["secciones"]}
+    if secciones != LECTURA_SECCIONES:
+        err(f"lecturas.json: secciones {sorted(secciones)} != {sorted(LECTURA_SECCIONES)}")
+    ids, urls = {}, {}
+    for i, l in enumerate(data["lecturas"]):
+        tag = f"lectura[{i}] id={l.get('id')}"
+        for k in LECTURA_REQUIRED:
+            if k not in l or l[k] in ("", None):
+                err(f"{tag}: falta '{k}'")
+        lid = l.get("id")
+        if not isinstance(lid, int):
+            err(f"{tag}: id debe ser entero")
+        elif lid in ids:
+            err(f"{tag}: id DUPLICADO (tambien en lectura[{ids[lid]}])")
+        else:
+            ids[lid] = i
+        if l.get("seccion") not in LECTURA_SECCIONES:
+            err(f"{tag}: seccion invalida '{l.get('seccion')}'")
+        f = l.get("fuente") or {}
+        if not isinstance(f, dict) or not str(f.get("url", "")).startswith("http"):
+            err(f"{tag}: fuente sin URL valida")
+        else:
+            u = f["url"]
+            if u in urls:
+                warn(f"{tag}: URL repetida con lectura id={urls[u]}")
+            urls[u] = lid
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", str(l.get("fecha", ""))):
+            err(f"{tag}: fecha debe ser YYYY-MM-DD")
+        sc = l.get("interes_score")
+        if not isinstance(sc, int) or not 1 <= sc <= 10:
+            err(f"{tag}: interes_score debe ser entero 1-10")
+    print(f"  lecturas.json: {len(data['lecturas'])} lecturas, ids unicos={len(ids) == len(data['lecturas'])}")
 
 
 if __name__ == "__main__":
     print("La Lupa - validador")
     validate_data()
+    validate_lecturas()
     if not DATA_ONLY:
         validate_html()
         validate_js()

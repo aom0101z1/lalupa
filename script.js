@@ -159,6 +159,7 @@ async function init() {
         filterAndRenderCasos();
         renderPortada();
         openCasoFromHash();
+        loadLecturas();
 
         // Fecha de última actualización: la más reciente entre estadisticas y los casos publicados
         if (ultimaActualizacion) {
@@ -654,6 +655,155 @@ function renderPortadaOpinion() {
                 <div class="lp-meta"><span>ES</span><span>EN</span></div>
             </a>`;
     }).join('');
+}
+
+// ============================================================
+// LECTURAS (fase 2): Emprendimiento · Ciencia · Tecnología.
+// Datos en lecturas.json (separado de data.json: una lectura no es un caso).
+// Estados de admin en Firestore settings/caseApproval.lecturas {id: 'rejected'}.
+// ============================================================
+let lecturasData = { secciones: [], lecturas: [] };
+let lecturaStatuses = {};
+const LECTURAS_PAGE = 9;
+const lecturasVisibles = {};
+
+async function loadLecturas() {
+    try {
+        const r = await fetch('lecturas.json?t=' + Math.floor(Date.now() / 600000));
+        if (!r.ok) return;
+        lecturasData = await r.json();
+        if (!Array.isArray(lecturasData.lecturas)) lecturasData.lecturas = [];
+        if (typeof db !== 'undefined') {
+            try {
+                const doc = await db.collection('settings').doc('caseApproval').get();
+                if (doc.exists) lecturaStatuses = doc.data().lecturas || {};
+            } catch (e) { console.warn('La Lupa: estados de lecturas no disponibles', e); }
+        }
+        renderLecturas();
+        renderPortadaLecturas();
+    } catch (e) {
+        console.warn('La Lupa: lecturas.json no disponible', e);
+    }
+}
+
+function isLecturaVisible(l) {
+    const esAdmin = typeof isAdmin !== 'undefined' && isAdmin;
+    return esAdmin || lecturaStatuses[l.id] !== 'rejected';
+}
+
+function getLecturasVisibles(seccion) {
+    return lecturasData.lecturas
+        .filter(l => (!seccion || l.seccion === seccion) && isLecturaVisible(l))
+        .sort((a, b) => (b.fecha || '').localeCompare(a.fecha || '') || b.id - a.id);
+}
+
+function seccionLecturaInfo(id) {
+    return (lecturasData.secciones || []).find(s => s.id === id) || { id, nombre: id, color: 'var(--lp-ink)', icono: 'fa-book-open' };
+}
+
+function lecturaCardHTML(l, destacada = false) {
+    const sec = seccionLecturaInfo(l.seccion);
+    const esAdmin = typeof isAdmin !== 'undefined' && isAdmin;
+    const oculta = lecturaStatuses[l.id] === 'rejected';
+    const host = (() => { try { return new URL(l.fuente.url).hostname.replace(/^www\./, ''); } catch (e) { return ''; } })();
+    return `
+        <article class="lp-lectura${destacada ? ' lp-lectura-destacada' : ''}${oculta ? ' lp-lectura-oculta' : ''}" data-id="${l.id}" style="--c: ${sec.color}">
+            <span class="lp-kicker" style="--c: ${sec.color}">${escapeHtml(sec.nombre)}${l.idioma_original === 'en' ? ' · <span class="lp-lang">EN → ES</span>' : ''}</span>
+            <h3><a href="${escapeHtml(l.fuente.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.titulo)}</a></h3>
+            <p class="lp-lectura-resumen">${escapeHtml(l.resumen)}</p>
+            ${l.por_que_leerlo ? `<p class="lp-lectura-why"><b>Por qué leerlo</b> ${escapeHtml(l.por_que_leerlo)}</p>` : ''}
+            <div class="lp-meta">
+                <span>${fechaCorta(l.fecha, false)}</span>
+                <span>${l.tiempo_lectura_min || 4} min</span>
+                <span class="lp-interes" title="Interés ${l.interes_score}/10">${'●'.repeat(Math.round((l.interes_score || 0) / 2))}${'○'.repeat(5 - Math.round((l.interes_score || 0) / 2))}</span>
+            </div>
+            <div class="lp-srcs"><a href="${escapeHtml(l.fuente.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.fuente.nombre || host)}</a>${(l.tags || []).slice(0, 3).map(t => `<span class="lp-tag">${escapeHtml(t)}</span>`).join('')}</div>
+            ${esAdmin ? `<div class="lp-lectura-admin"><button type="button" data-lectura-status="${oculta ? 'approved' : 'rejected'}"><i class="fas ${oculta ? 'fa-eye' : 'fa-eye-slash'}"></i> ${oculta ? 'Volver a mostrar' : 'Ocultar'}</button></div>` : ''}
+        </article>`;
+}
+
+function renderLecturas() {
+    (lecturasData.secciones || []).forEach(sec => {
+        const section = document.getElementById(sec.id);
+        const grid = document.getElementById('lecturas-' + sec.id);
+        const nav = document.querySelector(`.lp-snav-lectura[data-seccion="${sec.id}"]`);
+        if (!section || !grid) return;
+        const todas = getLecturasVisibles(sec.id);
+        const hay = todas.length > 0;
+        section.hidden = !hay;
+        if (nav) nav.hidden = !hay;
+        if (!hay) { grid.innerHTML = ''; return; }
+        if (!lecturasVisibles[sec.id]) lecturasVisibles[sec.id] = LECTURAS_PAGE;
+        const visibles = todas.slice(0, lecturasVisibles[sec.id]);
+        grid.innerHTML = visibles.map(l => lecturaCardHTML(l)).join('');
+        let wrap = grid.nextElementSibling;
+        if (!wrap || !wrap.classList.contains('ver-mas-wrap')) {
+            wrap = document.createElement('div');
+            wrap.className = 'ver-mas-wrap';
+            grid.insertAdjacentElement('afterend', wrap);
+        }
+        const restantes = todas.length - visibles.length;
+        wrap.innerHTML = restantes > 0 ? `<button class="btn-ver-mas"><i class="fas fa-chevron-down"></i> Ver más lecturas (${restantes} restantes)</button>` : '';
+        if (restantes > 0) wrap.querySelector('button').addEventListener('click', () => { lecturasVisibles[sec.id] += LECTURAS_PAGE; renderLecturas(); });
+    });
+    bindLecturaAdmin();
+}
+
+// Portada: las mejores lecturas de los últimos 3 días, mezclando secciones
+function renderPortadaLecturas() {
+    const cont = document.getElementById('portada-lecturas');
+    if (!cont) return;
+    const hoy = new Date();
+    const desde = new Date(hoy.getTime() - 3 * 86400000).toISOString().substring(0, 10);
+    let pool = getLecturasVisibles().filter(l => (l.fecha || '') >= desde);
+    if (pool.length < 3) pool = getLecturasVisibles().slice(0, 8);
+    pool = [...pool].sort((a, b) => (b.interes_score || 0) - (a.interes_score || 0) || (b.fecha || '').localeCompare(a.fecha || ''));
+    // Variedad: máximo 2 por sección entre las 4 destacadas
+    const porSec = {}, top = [];
+    for (const l of pool) {
+        if ((porSec[l.seccion] || 0) >= 2) continue;
+        porSec[l.seccion] = (porSec[l.seccion] || 0) + 1;
+        top.push(l);
+        if (top.length === 4) break;
+    }
+    cont.hidden = top.length === 0;
+    if (!top.length) return;
+    cont.innerHTML = `
+        <header class="lp-desk-head lp-hoy-head">
+            <h2>Hoy vale la pena leer</h2>
+            <span class="lp-hoy-sub">Pocas lecturas, elegidas por interés, no por hora</span>
+        </header>
+        <div class="lp-hoy-grid">${top.map(l => lecturaCardHTML(l, true)).join('')}</div>`;
+    bindLecturaAdmin();
+}
+
+function bindLecturaAdmin() {
+    document.querySelectorAll('[data-lectura-status]').forEach(btn => {
+        if (btn.dataset.bound) return;
+        btn.dataset.bound = '1';
+        btn.addEventListener('click', async e => {
+            e.preventDefault();
+            const id = parseInt(btn.closest('.lp-lectura').dataset.id, 10);
+            await setLecturaStatus(id, btn.dataset.lecturaStatus);
+        });
+    });
+}
+
+async function setLecturaStatus(id, status) {
+    if (typeof isAdmin === 'undefined' || !isAdmin || typeof db === 'undefined') return;
+    try {
+        const ref = db.collection('settings').doc('caseApproval');
+        const doc = await ref.get();
+        const lecturas = doc.exists ? (doc.data().lecturas || {}) : {};
+        if (status === 'approved') delete lecturas[id]; else lecturas[id] = status;
+        await ref.set({ lecturas }, { merge: true });
+        lecturaStatuses = lecturas;
+        renderLecturas();
+        renderPortadaLecturas();
+    } catch (e) {
+        console.error('Error guardando estado de lectura:', e);
+        alert('No se pudo guardar el estado de la lectura');
+    }
 }
 
 // ============================================================
@@ -2762,6 +2912,7 @@ setTimeout(initTemas, 1000);
 if (typeof auth !== 'undefined') {
     auth.onAuthStateChanged(() => {
         updateTemasAdminUI();
+        if (lecturasData.lecturas.length) { renderLecturas(); renderPortadaLecturas(); }
         if (isAdmin) {
             loadTemasOrderFromFirestore();
             loadArticleStatuses().then(() => {

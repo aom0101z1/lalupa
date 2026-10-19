@@ -1,0 +1,63 @@
+name: Update Lecturas (Emprendimiento, Ciencia, Tecnologia)
+
+on:
+  schedule:
+    # 11:00 y 23:00 UTC = 6:00 y 18:00 hora Colombia (UTC-5)
+    - cron: '0 11,23 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lalupa-commits
+  cancel-in-progress: false
+
+jobs:
+  update-lecturas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run lecturas updater
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/lecturas_updater.py
+
+      - name: Validate lecturas.json before publishing
+        run: |
+          python scripts/validate_data.py --data-only
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet lecturas.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "La Lupa Bot"
+          git add lecturas.json
+          git commit -m "📚 Auto-update: Nuevas lecturas $(date +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
+          git push

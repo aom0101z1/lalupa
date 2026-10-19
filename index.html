@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Lupa · Lo que vale la pena leer</title>
     <meta name="description" content="Periódico digital colombiano. Política con fuentes verificables: investigaciones en curso, gestión pública y cifras de violencia. Pronto también ciencia, tecnología y emprendimiento.">
-    <link rel="stylesheet" href="styles.css?v=20261018">
+    <link rel="stylesheet" href="styles.css?v=20261019">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -53,9 +53,11 @@
                 <a href="#portada" class="lp-snav-link active">Portada</a>
                 <a href="#politica" class="lp-snav-link" style="--c: var(--lp-pol)"><i class="lp-dot"></i>Política</a>
                 <a href="#terremoto" class="lp-snav-link" style="--c: var(--lp-terr)"><i class="lp-dot"></i>Terremoto</a>
+                <a href="#emprendimiento" class="lp-snav-link lp-snav-lectura" data-seccion="emprendimiento" style="--c: #0F7B6C" hidden><i class="lp-dot"></i>Emprendimiento</a>
+                <a href="#ciencia" class="lp-snav-link lp-snav-lectura" data-seccion="ciencia" style="--c: #7A3E9D" hidden><i class="lp-dot"></i>Ciencia</a>
+                <a href="#tecnologia" class="lp-snav-link lp-snav-lectura" data-seccion="tecnologia" style="--c: #B8620B" hidden><i class="lp-dot"></i>Tecnología</a>
                 <a href="#temas-interes" class="lp-snav-link" style="--c: var(--lp-opi)"><i class="lp-dot"></i>Opinión</a>
                 <a href="#" class="lp-snav-link" id="btn-medios">Medios</a>
-                <!-- Fase 2: Emprendimiento · Ciencia · Tecnología (se muestran cuando tengan contenido) -->
             </div>
         </nav>
 
@@ -64,6 +66,8 @@
                 <!-- PORTADA: se llena con renderPortada() en script.js -->
                 <section id="portada" class="lp-portada">
                     <div class="lp-ticker" id="portada-ticker"></div>
+                    <!-- Lecturas destacadas (lecturas.json): se llena con renderPortadaLecturas() -->
+                    <section class="lp-hoy" id="portada-lecturas" aria-label="Hoy vale la pena leer" hidden></section>
                     <div class="lp-front">
                         <article class="lp-lead" id="portada-lead"></article>
                         <article class="lp-cifra" id="portada-cifra"></article>
@@ -489,6 +493,35 @@
                     </div>
                 </section>
 
+
+                <!-- LECTURAS (fase 2): Emprendimiento · Ciencia · Tecnología. Datos en lecturas.json;
+                     renderLecturas() llena cada grid y oculta la sección si no hay lecturas. -->
+                <section id="emprendimiento" class="lp-lecturas-section" data-seccion="emprendimiento" style="--c: #0F7B6C" hidden>
+                    <div class="lp-section-head">
+                        <span class="lp-kicker">Sección · Emprendimiento</span>
+                        <h2>Emprendimiento</h2>
+                        <p>Negocios, startups, mercados y cómo funcionan las industrias. Seleccionamos pocas lecturas al día, con fuente, y decimos por qué vale la pena abrir cada una.</p>
+                    </div>
+                    <div class="lp-lecturas-grid" id="lecturas-emprendimiento"></div>
+                </section>
+
+                <section id="ciencia" class="lp-lecturas-section" data-seccion="ciencia" style="--c: #7A3E9D" hidden>
+                    <div class="lp-section-head">
+                        <span class="lp-kicker">Sección · Ciencia</span>
+                        <h2>Ciencia</h2>
+                        <p>Descubrimientos, salud, espacio y estudios con datos. Lo que está en inglés lo resumimos en español y enlazamos la fuente original.</p>
+                    </div>
+                    <div class="lp-lecturas-grid" id="lecturas-ciencia"></div>
+                </section>
+
+                <section id="tecnologia" class="lp-lecturas-section" data-seccion="tecnologia" style="--c: #B8620B" hidden>
+                    <div class="lp-section-head">
+                        <span class="lp-kicker">Sección · Tecnología</span>
+                        <h2>Tecnología</h2>
+                        <p>Inteligencia artificial, herramientas nuevas e ingeniería que cambia cómo trabajamos. Sin hype: hechos, cifras y lo que se puede usar.</p>
+                    </div>
+                    <div class="lp-lecturas-grid" id="lecturas-tecnologia"></div>
+                </section>
 
                 <!-- Temas de Interes - Opinión y Análisis -->
                 <section id="temas-interes" class="temas-section">
@@ -6856,7 +6889,7 @@
     <!-- Firebase Configuration -->
     <script src="firebase-config.js"></script>
 
-    <script src="script.js?v=20261018"></script>
+    <script src="script.js?v=20261019"></script>
     <script>
         // Hero stats animation
         function animateValue(element, start, end, duration) {

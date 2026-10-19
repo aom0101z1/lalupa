@@ -1,0 +1,29 @@
+{
+  "secciones": [
+    {
+      "id": "emprendimiento",
+      "nombre": "Emprendimiento",
+      "sub": "Negocios, startups, mercados y cómo funcionan las industrias",
+      "color": "#0F7B6C",
+      "icono": "fa-rocket"
+    },
+    {
+      "id": "ciencia",
+      "nombre": "Ciencia",
+      "sub": "Descubrimientos, salud, espacio y estudios con datos",
+      "color": "#7A3E9D",
+      "icono": "fa-flask"
+    },
+    {
+      "id": "tecnologia",
+      "nombre": "Tecnología",
+      "sub": "Inteligencia artificial, herramientas e ingeniería que cambian cosas",
+      "color": "#B8620B",
+      "icono": "fa-microchip"
+    }
+  ],
+  "estadisticas": {
+    "ultima_actualizacion": ""
+  },
+  "lecturas": []
+}

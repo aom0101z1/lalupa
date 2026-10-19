@@ -5169,3 +5169,64 @@ h1, h2, h3, h4 { font-family: var(--lp-serif); text-wrap: balance; }
 @media (max-width: 640px) {
     .lp-tab { font-size: 16px; padding: 8px 12px 10px; }
 }
+
+
+/* =====================================================================
+   LECTURAS (fase 2, 2026-10): Emprendimiento · Ciencia · Tecnología y el
+   módulo "Hoy vale la pena leer" de la portada. Datos en lecturas.json.
+   ===================================================================== */
+.lp-lecturas-section { margin-top: 56px; }
+.lp-lecturas-section .lp-section-head { border-top-color: var(--c); }
+.lp-lecturas-section .lp-section-head .lp-kicker { --c: inherit; }
+.lp-lecturas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 0 28px;
+}
+.lp-lectura {
+    display: grid;
+    gap: 8px;
+    align-content: start;
+    padding: 18px 0 20px;
+    border-top: 1px solid var(--lp-rule);
+    position: relative;
+}
+.lp-lectura h3 { font-family: var(--lp-serif); font-size: 21px; line-height: 1.2; font-weight: 700; letter-spacing: -.01em; margin: 0; }
+.lp-lectura h3 a { color: var(--lp-ink); text-decoration: none; }
+.lp-lectura h3 a:hover { text-decoration: underline; text-decoration-color: var(--c); text-underline-offset: 3px; }
+.lp-lectura-resumen { color: var(--lp-ink-2); font-size: 15px; line-height: 1.5; margin: 0; }
+.lp-lectura-why { font-size: 14px; line-height: 1.45; margin: 0; color: var(--lp-ink); border-left: 3px solid var(--c); padding-left: 10px; }
+.lp-lectura-why b { font-family: var(--lp-mono); font-size: 10.5px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--c); display: block; margin-bottom: 2px; }
+.lp-lang { font-family: var(--lp-mono); font-size: 10px; letter-spacing: .06em; color: var(--lp-muted); }
+.lp-interes { color: var(--c); letter-spacing: 1px; font-size: 9px; }
+.lp-lectura .lp-srcs a {
+    font-size: 12px; font-weight: 600; border: 1px solid var(--lp-rule); background: var(--lp-surface-2);
+    padding: 2px 9px; color: var(--lp-ink-2); text-decoration: none;
+}
+.lp-lectura .lp-srcs a::before { content: "↗ "; color: var(--lp-muted); }
+.lp-lectura .lp-srcs a:hover { border-color: var(--lp-ink); color: var(--lp-ink); }
+.lp-tag { font-family: var(--lp-mono); font-size: 10.5px; color: var(--lp-muted); background: var(--lp-surface-2); padding: 2px 7px; }
+.lp-lectura-admin button {
+    font-family: var(--lp-mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase;
+    background: none; border: 1px solid var(--lp-rule); color: var(--lp-ink-2); padding: 5px 10px; cursor: pointer;
+}
+.lp-lectura-admin button:hover { border-color: var(--lp-ink); color: var(--lp-ink); }
+.lp-lectura-oculta { opacity: .5; }
+.lp-lectura-oculta::after { content: "OCULTA"; position: absolute; top: 18px; right: 0; font-family: var(--lp-mono); font-size: 10px; letter-spacing: .1em; color: var(--lp-petro); border: 1px solid currentColor; padding: 2px 6px; }
+
+/* Portada: Hoy vale la pena leer */
+.lp-hoy { margin: 18px 0 8px; padding-bottom: 8px; border-bottom: 2px solid var(--lp-ink); }
+.lp-hoy-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; border-bottom: 1px solid var(--lp-rule); padding-bottom: 8px; margin-bottom: 4px; }
+.lp-hoy-head h2 { font-family: var(--lp-serif); font-size: 26px; font-weight: 800; letter-spacing: -.015em; margin: 0; }
+.lp-hoy-sub { font-family: var(--lp-mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--lp-muted); }
+.lp-hoy-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0 28px; }
+.lp-hoy .lp-lectura { border-top: 0; padding-top: 12px; }
+.lp-hoy .lp-lectura + .lp-lectura { border-left: 1px solid var(--lp-rule); padding-left: 20px; margin-left: -14px; }
+.lp-hoy .lp-lectura h3 { font-size: 19px; }
+.lp-hoy .lp-lectura-resumen { font-size: 14px; }
+@media (max-width: 1024px) { .lp-hoy-grid { grid-template-columns: repeat(2, 1fr); } .lp-hoy .lp-lectura:nth-child(3) { border-left: 0; padding-left: 0; margin-left: 0; } }
+@media (max-width: 640px) {
+    .lp-hoy-grid { grid-template-columns: 1fr; }
+    .lp-hoy .lp-lectura + .lp-lectura { border-left: 0; padding-left: 0; margin-left: 0; border-top: 1px solid var(--lp-rule); }
+    .lp-hoy-head { flex-direction: column; gap: 4px; }
+}
