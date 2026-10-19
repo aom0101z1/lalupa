@@ -27,6 +27,19 @@ from dateutil import parser as date_parser
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from news_updater import BLOCKED_DOMAINS, BLOCKED_SOURCES, text_similarity  # noqa: E402
 
+
+def salvage_lecturas(text: str) -> list:
+    """Si el JSON completo no parsea, rescatar los objetos de lectura bien formados uno por uno."""
+    out = []
+    for m in re.finditer(r"\{[^{}]*\}", text):
+        try:
+            obj = json.loads(m.group())
+            if "articulo_numero" in obj and "titulo" in obj:
+                out.append(obj)
+        except json.JSONDecodeError:
+            pass
+    return out
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LECTURAS_FILE = os.path.join(ROOT, "lecturas.json")
 
@@ -232,7 +245,7 @@ COMO PUNTUAR "interes_score" (1-10):
 - Evidencia: hay cifras, un estudio, una fuente concreta, no solo opinion.
 - Suma puntos si es de Colombia o America Latina, o si le sirve a alguien que emprende.
 - Resta puntos: opiniones y columnas, listas ("las 10 mejores"), rumores, anuncios corporativos sin sustancia, notas de producto menores, politica, duplicados de un tema ya cubierto.
-Solo devuelve articulos con interes_score >= {MIN_INTERES}. Es normal que de un lote salgan 0, 1 o 2. Si varios tratan el mismo tema, deja solo el mejor.
+Solo devuelve articulos con interes_score >= {MIN_INTERES}. De un lote de 40 suelen salir entre 2 y 6; si de verdad ninguno vale la pena, devuelve una lista vacia. Las fuentes en ingles (Phys.org, ScienceDaily, Ars Technica, Hacker News, TechCrunch, NASA, Quanta) valen igual que las de espanol: traduce y resume. Si varios tratan el mismo tema, deja solo el mejor.
 
 LECTURAS YA PUBLICADAS (ultimos {DEDUP_DAYS} dias) - NO REPETIR EL TEMA:
 {recientes_text}
@@ -260,7 +273,7 @@ def analyze_batch(client: anthropic.Anthropic, batch: list, recientes_text: str)
     try:
         response = client.messages.create(
             model=MODEL,
-            max_tokens=8000,
+            max_tokens=12000,
             messages=[{"role": "user", "content": build_prompt(articles_text, recientes_text)}],
             output_config={"format": {"type": "json_schema", "schema": OUTPUT_SCHEMA}},
         )
@@ -269,7 +282,11 @@ def analyze_batch(client: anthropic.Anthropic, batch: list, recientes_text: str)
         if not m:
             print(f"  [WARN] Claude no devolvio JSON: {text[:200]!r}")
             return []
-        result = json.loads(m.group())
+        try:
+            result = json.loads(m.group())
+        except json.JSONDecodeError as e:
+            print(f"  [WARN] JSON invalido ({e}); rescatando lecturas individuales. Inicio: {text[:300]!r}")
+            result = {"lecturas": salvage_lecturas(m.group())}
         out = []
         for lec in result.get("lecturas", []):
             idx = lec.get("articulo_numero", 0) - 1
