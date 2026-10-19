@@ -5265,3 +5265,16 @@ h1, h2, h3, h4 { font-family: var(--lp-serif); text-wrap: balance; }
 .lp-prom .lp-srcs a::before { content: "↗ "; color: var(--lp-muted); }
 .lp-prom .lp-srcs a:hover { border-color: var(--lp-ink); color: var(--lp-ink); }
 @media (max-width: 640px) { .lp-prom-tally { gap: 12px; } .lp-prom-tally b { font-size: 22px; } }
+
+
+/* ---------- Leído / no leído (fase 4) ---------- */
+.lp-lecturas-tools { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; font-family: var(--lp-mono); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--lp-muted); margin: -6px 0 10px; }
+.lp-lecturas-tools label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; color: var(--lp-ink-2); }
+.lp-lecturas-tools input { accent-color: var(--lp-ink); }
+.lp-lecturas-vacio { color: var(--lp-muted); font-style: italic; padding: 18px 0; border-top: 1px solid var(--lp-rule); }
+.lp-leida-btn { margin-left: auto; font-family: var(--lp-mono); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; background: none; border: 1px solid var(--lp-rule); color: var(--lp-muted); padding: 2px 8px; cursor: pointer; }
+.lp-leida-btn:hover { border-color: var(--lp-ink); color: var(--lp-ink); }
+.lp-lectura.is-leida h3 a, .lp-lectura.is-leida .lp-lectura-resumen, .lp-lectura.is-leida .lp-lectura-why { opacity: .55; }
+.lp-lectura.is-leida .lp-leida-btn { color: var(--lp-ok); border-color: var(--lp-ok); }
+.lp-hoy-sub a { color: inherit; text-decoration: none; }
+.lp-hoy-sub a:hover { color: var(--lp-ink); }

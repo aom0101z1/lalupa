@@ -668,6 +668,30 @@ let lecturaStatuses = {};
 const LECTURAS_PAGE = 9;
 const lecturasVisibles = {};
 
+// Leído / no leído (fase 4): vive solo en este navegador (localStorage), nunca en el servidor.
+const LEIDAS_KEY = 'lalupa_leidas';
+const OCULTAR_LEIDAS_KEY = 'lalupa_ocultar_leidas';
+let leidas = new Set();
+let ocultarLeidas = false;
+try {
+    leidas = new Set(JSON.parse(localStorage.getItem(LEIDAS_KEY) || '[]'));
+    ocultarLeidas = localStorage.getItem(OCULTAR_LEIDAS_KEY) === '1';
+} catch (e) { /* modo privado o storage bloqueado: funciona sin memoria */ }
+
+function guardarLeidas() {
+    try {
+        localStorage.setItem(LEIDAS_KEY, JSON.stringify([...leidas].slice(-500)));
+        localStorage.setItem(OCULTAR_LEIDAS_KEY, ocultarLeidas ? '1' : '0');
+    } catch (e) { /* sin storage */ }
+}
+
+function marcarLeida(id, valor = true) {
+    if (valor) leidas.add(id); else leidas.delete(id);
+    guardarLeidas();
+    renderLecturas();
+    renderPortadaLecturas();
+}
+
 async function loadLecturas() {
     try {
         const r = await fetch('lecturas.json?t=' + Math.floor(Date.now() / 600000));
@@ -692,9 +716,9 @@ function isLecturaVisible(l) {
     return esAdmin || lecturaStatuses[l.id] !== 'rejected';
 }
 
-function getLecturasVisibles(seccion) {
+function getLecturasVisibles(seccion, sinLeidas = false) {
     return lecturasData.lecturas
-        .filter(l => (!seccion || l.seccion === seccion) && isLecturaVisible(l))
+        .filter(l => (!seccion || l.seccion === seccion) && isLecturaVisible(l) && !(sinLeidas && leidas.has(l.id)))
         .sort((a, b) => (b.fecha || '').localeCompare(a.fecha || '') || b.id - a.id);
 }
 
@@ -707,8 +731,9 @@ function lecturaCardHTML(l, destacada = false) {
     const esAdmin = typeof isAdmin !== 'undefined' && isAdmin;
     const oculta = lecturaStatuses[l.id] === 'rejected';
     const host = (() => { try { return new URL(l.fuente.url).hostname.replace(/^www\./, ''); } catch (e) { return ''; } })();
+    const leida = leidas.has(l.id);
     return `
-        <article class="lp-lectura${destacada ? ' lp-lectura-destacada' : ''}${oculta ? ' lp-lectura-oculta' : ''}" data-id="${l.id}" style="--c: ${sec.color}">
+        <article class="lp-lectura${destacada ? ' lp-lectura-destacada' : ''}${oculta ? ' lp-lectura-oculta' : ''}${leida ? ' is-leida' : ''}" data-id="${l.id}" style="--c: ${sec.color}">
             <span class="lp-kicker" style="--c: ${sec.color}">${escapeHtml(sec.nombre)}${l.idioma_original === 'en' ? ' · <span class="lp-lang">EN → ES</span>' : ''}</span>
             <h3><a href="${escapeHtml(l.fuente.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.titulo)}</a></h3>
             <p class="lp-lectura-resumen">${escapeHtml(l.resumen)}</p>
@@ -718,7 +743,7 @@ function lecturaCardHTML(l, destacada = false) {
                 <span>${l.tiempo_lectura_min || 4} min</span>
                 <span class="lp-interes" title="Interés ${l.interes_score}/10">${'●'.repeat(Math.round((l.interes_score || 0) / 2))}${'○'.repeat(5 - Math.round((l.interes_score || 0) / 2))}</span>
             </div>
-            <div class="lp-srcs"><a href="${escapeHtml(l.fuente.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.fuente.nombre || host)}</a>${(l.tags || []).slice(0, 3).map(t => `<span class="lp-tag">${escapeHtml(t)}</span>`).join('')}</div>
+            <div class="lp-srcs"><a href="${escapeHtml(l.fuente.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.fuente.nombre || host)}</a>${(l.tags || []).slice(0, 3).map(t => `<span class="lp-tag">${escapeHtml(t)}</span>`).join('')}<button type="button" class="lp-leida-btn" data-leida="${leida ? '0' : '1'}" title="${leida ? 'Marcar como no leída' : 'Marcar como leída'}"><i class="fas ${leida ? 'fa-check-circle' : 'fa-circle'}"></i> ${leida ? 'Leída' : 'Marcar leída'}</button></div>
             ${esAdmin ? `<div class="lp-lectura-admin"><button type="button" data-lectura-status="${oculta ? 'approved' : 'rejected'}"><i class="fas ${oculta ? 'fa-eye' : 'fa-eye-slash'}"></i> ${oculta ? 'Volver a mostrar' : 'Ocultar'}</button></div>` : ''}
         </article>`;
 }
@@ -729,11 +754,23 @@ function renderLecturas() {
         const grid = document.getElementById('lecturas-' + sec.id);
         const nav = document.querySelector(`.lp-snav-lectura[data-seccion="${sec.id}"]`);
         if (!section || !grid) return;
-        const todas = getLecturasVisibles(sec.id);
-        const hay = todas.length > 0;
+        const todasConLeidas = getLecturasVisibles(sec.id);
+        const nLeidas = todasConLeidas.filter(l => leidas.has(l.id)).length;
+        const todas = ocultarLeidas ? todasConLeidas.filter(l => !leidas.has(l.id)) : todasConLeidas;
+        const hay = todasConLeidas.length > 0;
         section.hidden = !hay;
         if (nav) nav.hidden = !hay;
+        let tools = section.querySelector('.lp-lecturas-tools');
+        if (!tools) {
+            tools = document.createElement('div');
+            tools.className = 'lp-lecturas-tools';
+            grid.insertAdjacentElement('beforebegin', tools);
+        }
+        tools.innerHTML = hay ? `<span>${todasConLeidas.length} lecturas · ${nLeidas} leídas</span><label><input type="checkbox" ${ocultarLeidas ? 'checked' : ''}> Ocultar leídas</label>` : '';
+        const chk = tools.querySelector('input');
+        if (chk) chk.addEventListener('change', () => { ocultarLeidas = chk.checked; guardarLeidas(); renderLecturas(); renderPortadaLecturas(); });
         if (!hay) { grid.innerHTML = ''; return; }
+        if (!todas.length) { grid.innerHTML = '<p class="lp-lecturas-vacio">Ya leíste todo lo de esta sección. Vuelve mañana.</p>'; const w = grid.nextElementSibling; if (w && w.classList.contains('ver-mas-wrap')) w.innerHTML = ''; return; }
         if (!lecturasVisibles[sec.id]) lecturasVisibles[sec.id] = LECTURAS_PAGE;
         const visibles = todas.slice(0, lecturasVisibles[sec.id]);
         grid.innerHTML = visibles.map(l => lecturaCardHTML(l)).join('');
@@ -756,8 +793,8 @@ function renderPortadaLecturas() {
     if (!cont) return;
     const hoy = new Date();
     const desde = new Date(hoy.getTime() - 3 * 86400000).toISOString().substring(0, 10);
-    let pool = getLecturasVisibles().filter(l => (l.fecha || '') >= desde);
-    if (pool.length < 3) pool = getLecturasVisibles().slice(0, 8);
+    let pool = getLecturasVisibles(null, true).filter(l => (l.fecha || '') >= desde);
+    if (pool.length < 3) pool = getLecturasVisibles(null, true).slice(0, 8);
     pool = [...pool].sort((a, b) => (b.interes_score || 0) - (a.interes_score || 0) || (b.fecha || '').localeCompare(a.fecha || ''));
     // Variedad: máximo 2 por sección entre las 4 destacadas
     const porSec = {}, top = [];
@@ -772,13 +809,29 @@ function renderPortadaLecturas() {
     cont.innerHTML = `
         <header class="lp-desk-head lp-hoy-head">
             <h2>Hoy vale la pena leer</h2>
-            <span class="lp-hoy-sub">Pocas lecturas, elegidas por interés, no por hora</span>
+            <span class="lp-hoy-sub">Pocas lecturas, elegidas por interés, no por hora · <a href="feed-lecturas.xml" target="_blank" rel="noopener"><i class="fas fa-rss"></i> RSS</a></span>
         </header>
         <div class="lp-hoy-grid">${top.map(l => lecturaCardHTML(l, true)).join('')}</div>`;
     bindLecturaAdmin();
 }
 
+function bindLecturaLeidas(root) {
+    if (!root || root.dataset.leidasBound) return;
+    root.dataset.leidasBound = '1';
+    root.addEventListener('click', e => {
+        const card = e.target.closest('.lp-lectura');
+        if (!card) return;
+        const id = parseInt(card.dataset.id, 10);
+        const btn = e.target.closest('.lp-leida-btn');
+        if (btn) { e.preventDefault(); marcarLeida(id, btn.dataset.leida === '1'); return; }
+        const link = e.target.closest('a[target="_blank"]');
+        if (link && !leidas.has(id)) { leidas.add(id); guardarLeidas(); card.classList.add('is-leida'); const b = card.querySelector('.lp-leida-btn'); if (b) { b.dataset.leida = '0'; b.innerHTML = '<i class="fas fa-check-circle"></i> Leída'; } }
+    });
+}
+
 function bindLecturaAdmin() {
+    bindLecturaLeidas(document.getElementById('portada-lecturas'));
+    document.querySelectorAll('.lp-lecturas-section').forEach(s => bindLecturaLeidas(s));
     document.querySelectorAll('[data-lectura-status]').forEach(btn => {
         if (btn.dataset.bound) return;
         btn.dataset.bound = '1';

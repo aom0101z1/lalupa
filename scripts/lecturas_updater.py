@@ -42,6 +42,17 @@ def salvage_lecturas(text: str) -> list:
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LECTURAS_FILE = os.path.join(ROOT, "lecturas.json")
+FEED_FILE = os.path.join(ROOT, "feed-lecturas.xml")
+SITE_URL = "https://lalupa.com.co"
+
+# Perfil del lector (fase 4): el secreto LECTOR_PERFIL del repo lo sobrescribe sin tocar el
+# codigo publico. Nunca se imprime en el log.
+DEFAULT_PERFIL = (
+    "colombiano, emprendedor, curioso y pragmatico. Quiere entender como funcionan las cosas, "
+    "enterarse de lo nuevo que importa y encontrar ideas que pueda usar. Prefiere hechos, cifras y "
+    "evidencia. Desconfia del hype, del clickbait y de las polemicas de redes."
+)
+LECTOR_PERFIL = (os.environ.get("LECTOR_PERFIL") or "").strip() or DEFAULT_PERFIL
 
 MODEL = "claude-sonnet-5"
 SECCIONES = ["emprendimiento", "ciencia", "tecnologia"]
@@ -231,7 +242,8 @@ def build_prompt(articles_text: str, recientes_text: str) -> str:
     return f"""Eres el editor de "La Lupa", un periodico digital colombiano cuyo lema es "Lo que vale la pena leer".
 Tu trabajo: de una lista de articulos, escoger SOLO los que de verdad valen la pena y resumirlos en espanol.
 
-EL LECTOR: colombiano, emprendedor, curioso y pragmatico. Quiere entender como funcionan las cosas, enterarse de lo nuevo que importa y encontrar ideas que pueda usar. Prefiere hechos, cifras y evidencia. Desconfia del hype, del clickbait y de las polemicas de redes. NO le interesan: deportes, farandula, politica partidista (eso va en otra seccion), horoscopos, notas de bolsa del dia, promociones ni cambios de precio menores.
+EL LECTOR: {LECTOR_PERFIL}
+En general NO le interesan: deportes, farandula, politica partidista (eso va en otra seccion), horoscopos, notas de bolsa del dia, promociones ni cambios de precio menores. Suma 1 o 2 puntos de interes cuando el articulo toca directamente los temas que le gustan al lector.
 
 SECCIONES:
 - emprendimiento: {SECCIONES_DESC['emprendimiento']}
@@ -306,6 +318,80 @@ def analyze_batch(client: anthropic.Anthropic, batch: list, recientes_text: str)
         return []
 
 
+# ---------------------------------------------------------------- feed RSS (fase 4)
+def write_rss(data: dict, max_items: int = 60):
+    """Feed RSS 2.0 con las lecturas mas recientes: el periodico personal en cualquier lector de feeds."""
+    from xml.sax.saxutils import escape
+    from email.utils import format_datetime
+    secciones = {s["id"]: s.get("nombre", s["id"]) for s in data.get("secciones", [])}
+    items = []
+    for l in data.get("lecturas", [])[:max_items]:
+        try:
+            pub = format_datetime(datetime.strptime(l.get("added_date") or l.get("fecha"), "%Y-%m-%d %H:%M" if " " in (l.get("added_date") or "") else "%Y-%m-%d"))
+        except Exception:
+            pub = format_datetime(datetime.now())
+        desc = l.get("resumen", "")
+        if l.get("por_que_leerlo"):
+            desc += f" Por que leerlo: {l['por_que_leerlo']}"
+        desc += f" ({l.get('fuente', {}).get('nombre', '')}, {l.get('tiempo_lectura_min', 4)} min, interes {l.get('interes_score', '')}/10)"
+        items.append(
+            "    <item>\n"
+            f"      <title>{escape(l.get('titulo', ''))}</title>\n"
+            f"      <link>{escape(l.get('fuente', {}).get('url', ''))}</link>\n"
+            f"      <guid isPermaLink=\"false\">lalupa-lectura-{l.get('id')}</guid>\n"
+            f"      <pubDate>{pub}</pubDate>\n"
+            f"      <category>{escape(secciones.get(l.get('seccion'), l.get('seccion', '')))}</category>\n"
+            f"      <description>{escape(desc)}</description>\n"
+            "    </item>"
+        )
+    xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "  <channel>\n"
+        "    <title>La Lupa - Lo que vale la pena leer</title>\n"
+        f"    <link>{SITE_URL}/</link>\n"
+        f'    <atom:link href="{SITE_URL}/feed-lecturas.xml" rel="self" type="application/rss+xml"/>\n'
+        "    <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>\n"
+        "    <language>es-co</language>\n"
+        f"    <lastBuildDate>{format_datetime(datetime.now())}</lastBuildDate>\n"
+        + "\n".join(items) + "\n"
+        "  </channel>\n"
+        "</rss>\n"
+    )
+    with open(FEED_FILE, "w", encoding="utf-8") as f:
+        f.write(xml)
+    print(f"   Feed RSS: {len(items)} items -> feed-lecturas.xml")
+
+
+# ---------------------------------------------------------------- aviso por Telegram (fase 4, opcional)
+def send_telegram(entries: list, secciones: dict):
+    """Si existen TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID, manda las lecturas nuevas de la corrida."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id or not entries:
+        return
+    from html import escape
+    lines = [f"<b>La Lupa - {len(entries)} lecturas nuevas</b>"]
+    for l in entries:
+        sec = secciones.get(l["seccion"], l["seccion"])
+        lines.append(
+            f"\n<b>{escape(sec)}</b> - {escape(l['titulo'])}\n"
+            f"{escape(l['resumen'])}\n"
+            f"<i>{escape(l.get('por_que_leerlo', ''))}</i>\n"
+            f"<a href=\"{escape(l['fuente']['url'])}\">{escape(l['fuente']['nombre'])}</a> - {l['tiempo_lectura_min']} min - {l['interes_score']}/10"
+        )
+    text = "\n".join(lines)
+    try:
+        r = requests.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            json={"chat_id": chat_id, "text": text[:4000], "parse_mode": "HTML", "disable_web_page_preview": True},
+            timeout=20,
+        )
+        print(f"   Telegram: {'enviado' if r.ok else 'fallo ' + str(r.status_code)}")
+    except Exception as e:
+        print(f"   Telegram: error {type(e).__name__}")
+
+
 # ---------------------------------------------------------------- main
 def main():
     print("=" * 60)
@@ -375,6 +461,8 @@ def main():
         por_seccion[c["seccion"]] += 1
 
     if not aceptadas:
+        if not os.path.exists(FEED_FILE):
+            write_rss(data)
         print("\nRESULTADO: ninguna lectura supero el umbral")
         return
 
@@ -402,6 +490,8 @@ def main():
 
     data["lecturas"] = entries + existing  # las mas nuevas primero
     save_lecturas(data)
+    write_rss(data)
+    send_telegram(entries, {s["id"]: s.get("nombre", s["id"]) for s in data.get("secciones", [])})
     print(f"\nRESULTADO: {len(entries)} lecturas agregadas a lecturas.json")
     print(f"Fin: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)

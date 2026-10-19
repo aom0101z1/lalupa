@@ -36,6 +36,9 @@ jobs:
       - name: Run lecturas updater
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LECTOR_PERFIL: ${{ secrets.LECTOR_PERFIL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python scripts/lecturas_updater.py
 
@@ -46,7 +49,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet lecturas.json; then
+          if git diff --quiet lecturas.json feed-lecturas.xml && [ -z "$(git status --porcelain feed-lecturas.xml)" ]; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
@@ -57,7 +60,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "La Lupa Bot"
-          git add lecturas.json
+          git add lecturas.json feed-lecturas.xml
           git commit -m "📚 Auto-update: Nuevas lecturas $(date +'%Y-%m-%d %H:%M')"
           git pull --rebase origin main
           git push

@@ -247,6 +247,21 @@ def validate_promesas():
     print(f"  promesas.json: {len(data['promesas'])} promesas, ids unicos={len(ids) == len(data['promesas'])}")
 
 
+# ---------------------------------------------------------------- feed-lecturas.xml
+def validate_feed():
+    path = os.path.join(ROOT, "feed-lecturas.xml")
+    if not os.path.exists(path):
+        warn("feed-lecturas.xml no existe (lo genera lecturas_updater.py)")
+        return
+    try:
+        import xml.etree.ElementTree as ET
+        root = ET.parse(path).getroot()
+        n = len(root.findall("./channel/item"))
+        print(f"  feed-lecturas.xml: XML OK, {n} items")
+    except Exception as e:
+        err(f"feed-lecturas.xml NO es XML valido: {e}")
+
+
 # ---------------------------------------------------------------- lecturas.json
 LECTURA_SECCIONES = {"emprendimiento", "ciencia", "tecnologia"}
 LECTURA_REQUIRED = ("id", "titulo", "resumen", "seccion", "fuente", "fecha", "interes_score")
@@ -309,6 +324,7 @@ if __name__ == "__main__":
     validate_data()
     validate_lecturas()
     validate_promesas()
+    validate_feed()
     if not DATA_ONLY:
         validate_html()
         validate_js()
