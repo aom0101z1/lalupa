@@ -221,6 +221,326 @@
   ],
   "casos": [
     {
+      "id": 2025,
+      "titulo": "Mintransporte rechaza violencia en la via Panamericana y anuncia inversion de Invias",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "El Ministerio de Transporte rechazo los hechos de violencia registrados en la via Panamericana, incluido un secuestro ocurrido el 6 de octubre de 2026 entre Timbio y El Remolino, y anuncio una inversion de Invias para la via como respuesta a la situacion.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/mintransporte-rechazo-hechos-de-violencia-ocurridos-en-la-via-panamericana-4506883",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte / Invias",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2024,
+      "titulo": "MinAgricultura destaca crecimiento del credito agropecuario via Finagro y Banco Agrario",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Ministerio de Agricultura resalto que Finagro canalizo $6,4 billones en creditos a traves del sistema financiero en septiembre de 2026, un crecimiento de 33% frente al mismo mes del ano anterior, en articulacion con el Banco Agrario.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/finagro-reporto-un-crecimiento-de-33-en-comparacion-con-septiembre-del-ano-anterior-4506803",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / Finagro / Banco Agrario",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2023,
+      "titulo": "Estudios para reconstruir torre de la Catedral de Manizales costaran $1.650 millones",
+      "categoria": "dineros",
+      "fecha": "2026-10-20",
+      "descripcion": "La reconstruccion de la torre nororiental de la Catedral de Manizales, afectada por el terremoto del 10 de agosto, iniciara con una fase de estudios, disenos y tramites tecnicos con duracion estimada de ocho meses y un costo de $1.650 millones.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/estudios-para-reconstruir-la-torre-de-la-catedral-costaran-1-650-millones/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Manizales / Diocesis",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 2022,
+      "titulo": "Contraloría investiga manejo de recursos para restaurar corales en San Andrés",
+      "categoria": "contratos",
+      "fecha": "2026-10-20",
+      "descripcion": "La Contraloría General de la República encontró indicios de un presunto daño al patrimonio público en la ejecución contractual de recursos destinados a la restauración de corales en San Andrés, abriendo proceso de revisión sobre el manejo de estos fondos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/contraloria-revisa-manejo-de-recursos-para-restaurar-corales-en-san-andres",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23"
+    },
+    {
+      "id": 2021,
+      "titulo": "Fasecolda reporta más de $913.000 millones en indemnizaciones por el sismo",
+      "categoria": "avances",
+      "fecha": "2026-10-20",
+      "descripcion": "Fasecolda informó que las aseguradoras han pagado más de $913.000 millones en indemnizaciones por el terremoto de agosto, con 101.133 reclamaciones registradas con corte al 16 de octubre, un incremento de 1,4% frente a la semana anterior.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/fasecolda-reporto-que-ya-van-mas-de-913-000-millones-en-indemnizaciones-por-el-sismo-4506756",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fasecolda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2020,
+      "titulo": "Ministerio de Hacienda firma crédito con KfW por US$224 millones",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Ministerio de Hacienda formalizó una operación de crédito por US$224 millones con el banco alemán KfW, como parte de las alternativas de financiación para cubrir necesidades presupuestales de la vigencia 2026.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-firmo-operacion-de-credito-por-us-224-millones-con-el-kfw-4506963",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / KfW",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2019,
+      "titulo": "De la Espriella denuncia posible desvío de dineros públicos en Arauca",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-20",
+      "descripcion": "El presidente Abelardo De la Espriella reprendió públicamente a dirigentes de Arauca cuestionando el destino de recursos públicos, afirmando 'no hay otra explicación, se lo robaron', en medio de la ofensiva del gobierno contra el ELN y disidencias en la región.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-regano-a-dirigentes-de-arauca-que-paso-con-ese-dinero-no-hay-otra-explicacion-se-lo-robaron/202631/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Dirigentes de Arauca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23"
+    },
+    {
+      "id": 2018,
+      "titulo": "Inteligencia militar revela plan del ELN para expandirse hacia Casanare y Boyacá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "Información de inteligencia conocida por El Tiempo, ventilada en un consejo de seguridad en Arauca, señala que el ELN contempla crear un nuevo frente para expandirse hacia Casanare y Boyacá con el fin de desplazar a disidencias de las Farc en esas zonas. El reporte fue discutido por la Fuerza Pública bajo el gobierno de De la Espriella en medio de su ofensiva contra grupos armados en el oriente del país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/primicia-el-plan-del-eln-para-expandirse-hacia-casanare-y-boyaca-para-sacar-a-las-disidencias-se-ventilo-en-consejo-de-seguridad-en-arauca-3594927",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Inteligencia Militar",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2017,
+      "titulo": "Estudios técnicos definirán futuro del edificio de la Gobernación de Risaralda tras el terremoto",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-20",
+      "descripcion": "La Gobernación de Risaralda anunció que adelantará estudios técnicos para determinar si el edificio de la sede departamental, afectado por el terremoto del 10 de agosto, puede ser reparado o debe ser demolido y reconstruido. El proceso definirá el futuro de la infraestructura institucional en Pereira.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0lXRmdTbFF3UHJaQVBaT0tTVmlmTUFnMDFxajN5b2FveUNoc3hLQ0ZzUm90WERtN1FkRzE0TkRBVmVkQ2JqcTNFN2xkU3lNdExhMEhPSXlnWW85NHVuOU9RZWFmXzhWRFVrSGZWeGhlbUVWczZwd1lVV05uVG1zTHpQZ01kaFoyYmJ4VG5KdnVPc201cjY3cURDYTQ0UjNJRWdmbG93U3ZSdmJmUFpLbmszUE9CbUJKVFRMd3pYekh4aVMzUlgwRjF1Mm5NdTjSAeMBQVVfeXFMUFJqWHlvY1FUa29XY19JV2RvU1BJVm1MSXZHLVNWM29EQ3c2bnpTNDlRa2o2d0pyTE10Z0xtV0VYSmtRN3lNYTFVWVRRNUstblRDTWc0R0tEQWZtSjZCamlnU0lMb3VMOVdnZWljZ2VGREZsQ3dFUzdSY2dfWExwWjVYZGxmYUYwMkdseU5IblFQMWZ4VnNIY0dtVzRUSGhYeElSb0dhZVE5VGV1QkpCelpzdEV6ME8wTjByRVZuRVgwQTAzOEJMbVBQSE5BbGZiQkhaNGVtSklZOGlldGRSXzVhR0U?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 2016,
+      "titulo": "Risaralda registra más de 3.400 ayudas del terremoto pendientes de cobro",
+      "categoria": "damnificados",
+      "fecha": "2026-10-20",
+      "descripcion": "Un total de 3.423 ayudas económicas destinadas a familias afectadas por el terremoto en Risaralda continúan pendientes de cobro, según balance de la UNGRD y el operador SuperGIROS, lo que evidencia dificultades en el acceso efectivo de los damnificados a los recursos asignados.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/risaralda-tiene-mas-de-3-400-ayudas-por-cobrar-tras-el-terremoto/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "UNGRD / SuperGIROS / Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 2015,
+      "titulo": "Congreso aprueba Presupuesto General de la Nación 2027 con Salud y Defensa como mayores beneficiarios",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Senado y la Cámara aprobaron el Presupuesto General de la Nación 2027 presentado por el gobierno De la Espriella durante la madrugada del 20 de octubre de 2026, evitando así la conciliación legislativa y la expedición por decreto. Salud y Defensa fueron los sectores con mayor asignación de recursos en la distribución final.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/20/aprobado-el-presupuesto-general-de-la-nacion-2027-asi-quedo-distribuido-el-dinero-salud-y-defensa-los-que-mas-recibiran/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Gobierno De la Espriella",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2014,
+      "titulo": "Gobierno anuncia decreto de líneas base de San Andrés ante diferendo con Nicaragua",
+      "categoria": "internacional",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno Nacional anunció que expedirá el próximo 30 de noviembre un decreto de 'líneas base' para San Andrés, que definirá el mar territorial (12 millas) y la zona económica exclusiva (200 millas) en medio del diferendo territorial con Nicaragua, que ganó 75.000 kilómetros cuadrados de aguas colombianas en fallo de La Haya.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/decreto-de-lineas-base-de-san-andres-que-es-y-que-implicaciones-tiene-en-diferendo-con",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2013,
+      "titulo": "Fiscalía abre investigación de oficio contra Petro, Morris y Benedetti por 'Pacto de Valledupar'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-20",
+      "descripcion": "La Fiscalía General de la Nación asumió de oficio investigaciones para determinar responsabilidades de Gustavo Petro, Hollman Morris y Armando Benedetti en un presunto complot para presionar testimonios de exjefes paramilitares en Valledupar, con el fin de acusar falsamente a opositores políticos durante la campaña electoral.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/fiscalia-indagara-petro-morris-y-benedetti-por-el-pacto-de-valledupar",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hollman Morris",
+        "Armando Benedetti"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23"
+    },
+    {
+      "id": 2012,
+      "titulo": "RTVC denuncia irregularidades en pagos a contratistas sin aportes a salud y pensión (2023-2026)",
+      "categoria": "contratos",
+      "fecha": "2026-10-20",
+      "descripcion": "La nueva administración de RTVC, bajo el gobierno De la Espriella, denunció ante Fiscalía, Procuraduría y Contraloría presuntas irregularidades en el pago a contratistas entre 2023 y 2026, periodo en que la gerencia estuvo a cargo de Hollman Morris. Se habrían detectado planillas de seguridad social irregulares, es decir, pagos a contratistas que no habrían hecho aportes a salud y pensión.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/rtvc-denuncia-20232026-pagaron-contratistas-aportes-salud-pension-HF42476717",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Hollman Morris"
+      ],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 16:23"
+    },
+    {
       "id": 2011,
       "titulo": "Ministro de Hacienda reconoce fatiga tributaria de los colombianos",
       "categoria": "economia",
@@ -46974,7 +47294,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-20",
-    "total_casos": 1922,
+    "total_casos": 1936,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
