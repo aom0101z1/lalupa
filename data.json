@@ -221,6 +221,307 @@
   ],
   "casos": [
     {
+      "id": 2038,
+      "titulo": "Colombia concreta crédito por 200 millones de euros para financiar presupuesto 2026",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno Nacional cerró un crédito por 200 millones de euros destinado a financiar el Presupuesto General de la Nación 2026, como parte de la estrategia de financiamiento externo del Ministerio de Hacienda bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/colombia-concreta-credito-por-200-millones-de-euros-para-financiar-el-presupuesto-de-2026/202604/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2037,
+      "titulo": "Cancillería y ProColombia firman acuerdo comercial con Suiza para impulsar exportaciones",
+      "categoria": "internacional",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno Nacional, a través de ProColombia y la Cancillería, suscribió un Memorando de Entendimiento con la agencia oficial Switzerland Global Enterprise para estimular las exportaciones colombianas y atraer inversión extranjera suiza. El acuerdo busca fortalecer las relaciones comerciales bilaterales.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/internacional/cancilleria-logra-acuerdo-comercial-con-entidad-suiza-para-exportaciones",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia / ProColombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2036,
+      "titulo": "Capturan en Pereira a hombre señalado de amenazar a la primera dama Ana Lucía Pineda",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "Autoridades capturaron en Pereira a un hombre señalado de enviar un mensaje intimidatorio desde una cuenta anónima contra la primera dama Ana Lucía Pineda. El caso fue reportado por El Nuevo Siglo el 20 de octubre de 2026.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/cayo-en-pereira-senalado-de-amenazar-la-primera-dama-ana-lucia-pineda",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Imputado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2035,
+      "titulo": "Gobierno llevara 86 proyectos por US$56.799 millones a rueda de inversion en Nueva York",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno Nacional anuncio que presentara 86 proyectos por un valor de US$56.799 millones en una rueda de inversion que se realizara en Nueva York del 16 al 19 de noviembre, con el objetivo de conectar iniciativas publicas y privadas con inversionistas y financiadores internacionales.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-llevara-86-proyectos-por-us-56-799-millones-a-rueda-de-inversion-en-nueva-york-4506984",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2034,
+      "titulo": "Video revela que Petro invito a Salvatore Mancuso a su oficina en Casa de Narino",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-20",
+      "descripcion": "Resurge un video en el que, siendo presidente, Gustavo Petro invita al exjefe paramilitar Salvatore Mancuso a su oficina. La grabacion cobra relevancia en medio de las investigaciones en curso de Fiscalia, Procuraduria y Comision de Acusacion por el llamado 'Pacto de Valledupar', que involucra presuntos compromisos entre el gobierno Petro y exjefes de las AUC.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/reviven-cuando-gustavo-petro-siendo-presidente-invito-a-salvatore-mancuso-a-su-oficina-este-es-el-video/202657/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Salvatore Mancuso"
+      ],
+      "entidad": "Presidencia de la Republica (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17"
+    },
+    {
+      "id": 2033,
+      "titulo": "El Tiempo revela documento con los compromisos del 'Pacto de Valledupar'",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-20",
+      "descripcion": "El Tiempo reveló una declaración conjunta fechada el 24 de octubre de 2025, que no se había hecho pública, en la que constan los acuerdos alcanzados en Valledupar entre el Gobierno Petro y exjefes paramilitares de las AUC, documento clave en las investigaciones que adelantan Fiscalía y Procuraduría contra Gustavo Petro, Armando Benedetti y Angie Rodríguez por el llamado 'Pacto de Valledupar'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-documento-que-no-se-hizo-publico-sobre-el-pacto-de-valledupar-los-compromisos-entre-el-gobierno-petro-y-exjefes-paramilitares-3594918",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Armando Benedetti",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17"
+    },
+    {
+      "id": 2032,
+      "titulo": "Decreto crea subsidio para abaratar el recibo del agua en estratos 1, 2 y 3",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno expidió un decreto que otorga un subsidio temporal en el servicio de acueducto para hogares de estratos 1, 2 y 3, con el fin de aliviar los gastos de servicios públicos de estas familias.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/recibo-del-agua-llegara-mas-barato-para-estos-ciudadanos-decreto-les-da-este-subsidio/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2031,
+      "titulo": "Gobierno inicia diálogos en el Congreso para la Ley de Sometimiento",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "El ministro de Justicia, Iván Cancino, sostuvo una mesa de trabajo con integrantes de las Comisiones Primeras de Senado y Cámara para concertar el trámite de la Ley de Sometimiento a la Justicia, proyecto que entra a debate con mensaje de urgencia del Gobierno De la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-abre-dialogos-en-el-congreso-para-la-ley-de-sometimiento",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cancino"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2030,
+      "titulo": "Corte Suprema no se opondría al Estatuto Antiterrorista pero advierte reparos constitucionales",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "Según El Tiempo, la Corte Suprema de Justicia no se opondría al proyecto de Estatuto Antiterrorista del Gobierno De la Espriella, compuesto por más de 130 artículos enfocados en atacar finanzas de organizaciones criminales, aunque advertiría posibles choques constitucionales en varios de sus componentes, incluida la creación de una lista pública de organizaciones.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/estatuto-antiterrorista-corte-suprema-justicia-no-se-opondria-GL42494222",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Corte Suprema de Justicia / Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2029,
+      "titulo": "Gobierno interviene tras video de escoltas de la UNP haciendo mercado",
+      "categoria": "transparencia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno De la Espriella anunció una decisión disciplinaria tras difundirse un video de escoltas de la Unidad Nacional de Protección (UNP) utilizando vehículos oficiales para hacer mercado personal, en medio de la política de austeridad del nuevo gobierno.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3NldTRGeFVBcFhwbVhBWWtjUWxWeDkwSHlKTk1aYkVXS3FXTGJTbllCa3pud0s3b29Zc1BRWFNOaW9ZQko3ck9jQWt6bEw4VVZ2ZjFzN2VrWjJFc1ZDV3FnWlpXNWJ2YUdoVWpMczhuNWRaWW9faTExeEluZFdvMXlqVDBHUmRmOVJHNUs0U2lpR1pHekU2ZzFoY19JcTJvQndkd3JIRXdKc3RIZ0xMOWk3WmrSAboBQVVfeXFMUDNNekRLaUEwTXBVTGcwYkM1NG55ZVc3b2ZSRXFuemVIdGtUbmxCRkZTQl8tTmxOTUF0WUNETWZnUURwMHU5aENDZWxyWE9PUFRFSTcxZHVRR3AxcVA5SGctODhvZnN1MW5qRElZaTVMR3BObWt1cHZ1UUxHa2UzbG03aGREek9xTWJIdDJxLUZfSDktUm5fTndpRFpwVVlFNUJrZUlJaTlxbGttOHI4QVUxaEJERlJFSkVn?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional de Protección (UNP)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2028,
+      "titulo": "Operativo con drones golpea finanzas del Clan del Golfo en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "Una operación conjunta del Ejército, la Armada y la Policía, apoyada en seguimiento con drones, permitió ubicar y destruir 14 unidades de maquinaria usada para minería ilegal en zona rural de Quibdó, Chocó, afectando finanzas del Clan del Golfo que extraían hasta 12 kilos de oro al mes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/seguimiento-con-dron-permitio-golpear-finanzas-del-clan-del-golfo-en-choco-destruyen-maquinaria-usada-para-extraer-12-kilos-de-oro-al-mes-3594988",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Armada Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2027,
+      "titulo": "MinEducación pide a la Fiscalía investigar manejo previo de recursos del Fomag",
+      "categoria": "empalme",
+      "fecha": "2026-10-20",
+      "descripcion": "La ministra de Educación, Ilva Myriam Hoyos, anunció ante el Congreso que solicitó la intervención de la Fiscalía General de la Nación para investigar la administración de los recursos del Fondo del Magisterio (Fomag) durante el gobierno anterior, en el marco de los hallazgos del empalme.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/ministerio-de-educacion-solicitara-investigacion-por-manejo-previo-del-fomag",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ilva Myriam Hoyos"
+      ],
+      "entidad": "Ministerio de Educación / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2026,
+      "titulo": "Cali espera desembolso del Fondo Milagro para negocios afectados por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-19",
+      "descripcion": "Dos meses después del terremoto, Cali continúa a la espera de los recursos del Fondo Milagro destinados a la reactivación económica. Según reportes, las primeras ayudas beneficiarían a 867 negocios afectados, aunque los desembolsos aún no se han concretado en su totalidad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDNaQVBIWVhGdElzc3JzSFp2ejRENjRTRmxmV3cySVBlZEFGNldfeDdfZTlWbk15dHZfV0owSmV1VGd6dHNTRm1ESTMyanlGU3FOWUhaRVlxclNxRzFTbEJYeXFjd1JGOG1qVjNWempnZEtFMk4wSC00R0xSUm04SlFGWEdSdlJEaUlleXBLYXRFc0oxcGwzM1RYRE9ZRHViQ3BKd242X3NJUlHSAbABQVVfeXFMTWE3blIyRGdoR21ERFdBZ1JkSTloZEhQNm1kZzVvTk1sYzl6WHdfaTRqN0txdWptck5zeFhESTVBREd3aWp1bEtqTzI0UzJudXYteTQyeXJoRjVFWXh0b1NvQjlxZk1MUFYwN3pIa0loQmJTalNxaTU1Q0lxWmNGWmhQcUFlN2RrLXZMbUw0TzhxUnV6Z2IzcllaMmNVWjJXaDEtSG9DZml5QmxPWUZ4UHo?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 21:17",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
       "id": 2025,
       "titulo": "Mintransporte rechaza violencia en la via Panamericana y anuncia inversion de Invias",
       "categoria": "seguridad",
@@ -47294,7 +47595,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-20",
-    "total_casos": 1936,
+    "total_casos": 1949,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
