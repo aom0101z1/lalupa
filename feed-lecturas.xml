@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:35:27 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:37:43 -0000</lastBuildDate>
+    <item>
+      <title>Científicos descubren por qué las estatinas causan dolor muscular</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261019093447.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-65</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Usando imágenes avanzadas, investigadores hallaron que las estatinas pueden unirse a una proteína clave en las células musculares y forzar la apertura de un canal que controla el calcio, explicando el dolor, la debilidad y el daño muscular que sufren algunos pacientes. El hallazgo resuelve un misterio médico de décadas sobre uno de los medicamentos más recetados del mundo. Por que leerlo: Ofrece una explicación concreta y basada en evidencia a un efecto secundario que afecta a millones de personas que toman estatinas. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Miden con precisión inédita el helio formado en los primeros cinco minutos del universo</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261019093442.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-66</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo internacional usó uno de los telescopios más potentes del mundo para estudiar 15 galaxias extremadamente prístinas y medir con precisión sin precedentes la cantidad de helio generada en los primeros cinco minutos tras el Big Bang. El resultado permite poner a prueba con mayor rigor los modelos sobre el origen del universo hace casi 13.800 millones de años. Por que leerlo: Es una medición directa y verificable de uno de los momentos más antiguos del universo, con implicaciones para validar la cosmología moderna. (ScienceDaily, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Eka Robotics alcanza valoración de US$1.450 millones con un brazo robótico de IA física</title>
+      <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
+      <guid isPermaLink="false">lalupa-lectura-67</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La startup desarrolló un modelo de 'IA física' que permite a un brazo robótico manipular una amplia variedad de objetos con movimientos fluidos y casi humanos, sorprendiendo a expertos de la industria. La compañía alcanzó una valoración de 1.450 millones de dólares gracias al interés que generó esta tecnología. Por que leerlo: Muestra hacia dónde va la robótica aplicada a tareas físicas reales, más allá del software. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Amazon lanza TorchNeuron para romper el dominio de Nvidia sobre el software de IA</title>
+      <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
+      <guid isPermaLink="false">lalupa-lectura-68</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Amazon presentó TorchNeuron, una herramienta que busca que PyTorch, el kit gratuito usado para construir la mayoría de aplicaciones de IA, funcione de forma nativa en sus propios chips en vez de depender del hardware de Nvidia. La medida apunta a romper el monopolio de facto de Nvidia sobre el ecosistema de desarrollo de IA. Por que leerlo: Explica una jugada clave en la guerra por el hardware de IA que puede abaratar el cómputo para desarrolladores independientes. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una caída de Google Cloud deja fuera de servicio a HSBC, Revolut, Lloyds y otros bancos</title>
+      <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
+      <guid isPermaLink="false">lalupa-lectura-69</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Una falla en la infraestructura de Google Cloud provocó que varios bancos y empresas importantes, entre ellos HSBC, Revolut, Bank of Scotland, Lloyds y Equifax, quedaran sin acceso a sus sistemas durante horas. El incidente expone cuán dependientes son instituciones financieras clave de un único proveedor de nube. Por que leerlo: Muestra el riesgo real de concentrar infraestructura crítica en un solo proveedor de nube, una lección útil para cualquier negocio que dependa de servicios en la nube. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>DeepSeek libera como código abierto su motor de inferencia de IA</title>
+      <link>https://github.com/deepseek-ai/DeepInfer</link>
+      <guid isPermaLink="false">lalupa-lectura-70</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La empresa china DeepSeek publicó en GitHub el código fuente de DeepInfer, su motor de inferencia para modelos de lenguaje, acumulando más de 1.400 puntos y cientos de comentarios en Hacker News. El lanzamiento permite a desarrolladores ejecutar e inspeccionar la tecnología detrás de sus modelos sin pagar licencias. Por que leerlo: Da acceso gratuito a herramientas de infraestructura de IA de punta que cualquier desarrollador o startup puede usar para construir productos propios. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un atajo cuántico permite transferir energía sin perder entropía</title>
+      <link>https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html</link>
+      <guid isPermaLink="false">lalupa-lectura-71</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de la City University of Hong Kong, liderados por Oscar Dahlsten, buscaban probar una limitación teórica sobre transferencia de energía y en su lugar hallaron una solución cuántica que rompe restricciones físicas tradicionales. El hallazgo abre una estrategia para cosechar energía de fuentes fluctuantes sin la pérdida de entropía que imponen las leyes clásicas de la termodinámica. Por que leerlo: Muestra cómo un giro inesperado en investigación básica puede abrir una vía tecnológica para aprovechar energía de fuentes fluctuantes de forma más eficiente. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El cañón más grande del sistema solar sigue tectónicamente activo en Marte</title>
+      <link>https://phys.org/news/2026-10-giant-canyon-mars-tectonically-today.html</link>
+      <guid isPermaLink="false">lalupa-lectura-72</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos de Columbia University e Imperial College London hallaron evidencia de que Valles Marineris, el sistema de cañones más grande del sistema solar, continúa activo tectónicamente miles de millones de años después de formarse. El hallazgo sugiere que Marte no es un planeta geológicamente muerto, como se pensaba. Por que leerlo: Cambia la imagen de Marte como planeta geológicamente inerte y abre preguntas sobre su actividad interna actual. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un ensayo clínico vincula la vitamina C con mayor supervivencia en cánceres de sangre tempranos</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261019093437.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-73</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un ensayo clínico encontró que tomar vitamina C a diario podría mejorar la supervivencia de pacientes con trastornos precancerosos de la sangre y cánceres en etapa temprana. Los pacientes que recibieron el suplemento tuvieron menos eventos adversos y mostraron una ventaja de supervivencia frente al grupo de control. Por que leerlo: Presenta evidencia clínica de que un suplemento común y barato podría tener un rol real en el tratamiento de enfermedades de la sangre. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Pensilvania alerta sobre un caso de sarampión congénito, algo que EE.UU. no veía en décadas</title>
+      <link>https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/</link>
+      <guid isPermaLink="false">lalupa-lectura-74</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Las autoridades de salud de Pensilvania emitieron una alerta tras detectar un caso de sarampión congénito, una condición potencialmente fatal que exige seguimiento médico por años en los sobrevivientes. El caso resurge en medio de la caída en las tasas de vacunación en varias regiones de EE.UU. Por que leerlo: Evidencia concreta de cómo la baja vacunación está trayendo de vuelta enfermedades que parecían controladas. (Ars Technica, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Reliable Robotics, startup de ex-SpaceX, supera US$1.000 millones de valoración tras levantar US$115 millones</title>
+      <link>https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/</link>
+      <guid isPermaLink="false">lalupa-lectura-75</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La compañía, que desarrolla sistemas de vuelo autónomo para aviación, amplió su ronda Serie D con 115 millones de dólares en capital y 25 millones en deuda, superando una valoración de mil millones de dólares. Su fundador proviene de SpaceX y busca automatizar operaciones de vuelo comercial. Por que leerlo: Un caso concreto de cómo la automatización está entrando a una industria tradicionalmente humana y costosa como la aviación. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Google congela una inversión multimillonaria en centros de datos en España por incertidumbre regulatoria</title>
+      <link>https://www.xataka.com/empresas-y-economia/google-suspende-inversion-miles-millones-centros-datos-espana-a-espera-decreto-gobierno</link>
+      <guid isPermaLink="false">lalupa-lectura-76</guid>
+      <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Google puso en pausa proyectos de centros de datos por miles de millones de euros en España mientras espera un decreto del gobierno con reglas más estrictas para el sector. El sur de Europa, a diferencia de países como Finlandia, sigue con pocas inversiones de este tipo pese a su potencial. Por que leerlo: Es un ejemplo concreto de cómo la incertidumbre regulatoria puede frenar inversiones multimillonarias, una lección clave para entender el apetito inversor en tecnología. (Xataka, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Detectan dos fuentes de magma bajo el volcán Masaya en Nicaragua, cerca de 2 millones de personas</title>
       <link>https://www.sciencedaily.com/releases/2026/10/261018205039.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
       <category>Ciencia</category>
       <description>Cientificos observaron por primera vez corales blanqueados al borde de la muerte recuperarse por completo tras un breve contacto con clones sanos, logrando sanar en solo siete semanas, la recuperacion mas rapida documentada hasta ahora. El estudio fue publicado en Science Advances. Por que leerlo: Ofrece una posible solucion rapida y replicable para salvar arrecifes de coral amenazados por el calentamiento del oceano. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Confirman una tercera forma de magnetismo que desafia mas de un siglo de fisica</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261017230035.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-9</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Fisicos confirmaron la existencia del altermagnetismo, un fenomeno magnetico nunca antes clasificado que rompe con mas de cien anos de teoria establecida, y el hallazgo recibio un premio mayor de fisica. El descubrimiento abre una nueva via para desarrollar computacion y electronica mas eficientes. Por que leerlo: Presenta un avance fundamental que podria transformar la proxima generacion de chips y dispositivos electronicos. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El telescopio James Webb descubre un patrón climático ordenado en un exoplaneta a 20 años luz</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261015073215.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-10</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El telescopio espacial James Webb detectó que un planeta turbulento ubicado a 20 años luz de la Tierra presenta un sistema climático sorprendentemente ordenado, con tres estados atmosféricos que se repiten por cambios de temperatura y nubes. El hallazgo ofrece a los científicos una nueva herramienta para estudiar el clima en mundos lejanos. Por que leerlo: Porque muestra cómo la observación espacial empieza a revelar patrones climáticos fuera del sistema solar, abriendo una ventana a la meteorología de otros mundos. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Wall Street debate el fin de la estrategia de inversión 60/40 en acciones y bonos</title>
-      <link>https://www.bloomberglinea.com/mercados/adios-a-la-estrategia-6040-wall-street-debate-como-invertir-en-acciones-y-bonos/</link>
-      <guid isPermaLink="false">lalupa-lectura-11</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La fórmula clásica que combina 60% en acciones y 40% en bonos enfrenta cuestionamientos porque las acciones están cada vez más concentradas y los bonos ya no siempre compensan las caídas bursátiles. Esto ha llevado a gestores de Wall Street a replantear cómo equilibrar crecimiento y protección del capital en los portafolios. Por que leerlo: Entender cómo ajustar tu estrategia de inversión cuando el esquema tradicional ya no garantiza protección frente a la volatilidad. (Bloomberg Linea, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Detectan dos agujeros negros supermasivos que podrian chocar en 100 anos</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261016070650.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-12</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Astronomos hallaron evidencia de dos agujeros negros supermasivos orbitandose en el centro de la galaxia Mrk 501, completando una vuelta cada 121 dias, con posibilidad de fusionarse en apenas un siglo segun sus masas. El hallazgo se basa en un chorro de particulas previamente no detectado que revelo la presencia del segundo agujero negro. Por que leerlo: Muestra evidencia observacional directa de un evento cosmico extremo que podria ocurrir en una escala de tiempo casi humana. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Japon lanzara la primera mision de ida y vuelta a una luna de Marte</title>
-      <link>https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html</link>
-      <guid isPermaLink="false">lalupa-lectura-13</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Japon alista el lanzamiento de la mision MMX, que sera la primera en la historia en completar un viaje de ida y vuelta a las lunas de Marte, con el objetivo de traer muestras de Fobos. Los cientificos esperan que estas muestras ayuden a entender el origen del sistema solar y de la vida en la Tierra. Por que leerlo: Marca un hito espacial unico que podria responder preguntas clave sobre el origen del sistema solar y la vida. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Anthropic le da a un vigilante externo de IA acceso 'como si fuera empleado'</title>
-      <link>https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/</link>
-      <guid isPermaLink="false">lalupa-lectura-14</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Anthropic otorgó a un organismo independiente de supervisión acceso interno similar al de un empleado para evaluar sus sistemas de inteligencia artificial. El watchdog puede publicar sus hallazgos sin necesidad de aprobación previa de la empresa, marcando un precedente en la rendición de cuentas del sector de IA. Por que leerlo: Para entender cómo las empresas de IA empiezan a aceptar supervisión externa real, un tema clave para quienes construyen o invierten en tecnología de IA. (Ars Technica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nuevos agentes de IA 'piensan' en espacio latente y actúan mediante texto</title>
-      <link>https://arxiv.org/abs/2610.18861</link>
-      <guid isPermaLink="false">lalupa-lectura-15</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores presentaron 'Hybrid Reasoning Agents', un enfoque que combina razonamiento interno en espacio latente con acciones expresadas en texto, publicado con código abierto en GitHub y modelos en Hugging Face. La propuesta incluye evaluaciones formales que muestran mejoras en tareas de razonamiento para agentes de lenguaje. Por que leerlo: Si construyes o usas agentes de IA, esta arquitectura abierta puede inspirar mejoras concretas en tus propios sistemas. (Hacker News, 6 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Rockstar revela que tiene 4.700 empleados trabajando en 'GTA VI', el doble que en su juego anterior</title>
-      <link>https://www.xataka.com/videojuegos/rockstar-tiene-trabajando-a-4-700-personas-para-lanzar-gta-vi-vender-40-millones-copias</link>
-      <guid isPermaLink="false">lalupa-lectura-16</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Rockstar Games pasó de 2.441 empleados en 2018, cuando lanzó 'Red Dead Redemption II', a 4.711 repartidos en 12 oficinas para producir 'GTA VI'. Es la primera vez que la compañía revela en detalle estas cifras y el funcionamiento interno detrás de uno de los lanzamientos más esperados de la industria. Por que leerlo: Da una idea real de la escala de recursos que exige producir un videojuego de clase mundial, útil para entender la economía de la industria del entretenimiento. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Anthropic destinará el 5% de su participación accionaria a un fondo de interés público</title>
-      <link>https://www.larepublica.co/globoeconomia/anthropic-destinara-participacion-de-5-a-nuevo-fondo-de-interes-publico-4505674</link>
-      <guid isPermaLink="false">lalupa-lectura-17</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Anthropic anunció que cederá una participación del 5% de sus acciones a un nuevo fondo dedicado a causas de interés público, que además recibirá un 2% adicional de las acciones de la compañía. La iniciativa se estructurará como una sociedad de responsabilidad limitada de propiedad exclusiva del fondo, un modelo poco común entre las grandes empresas de inteligencia artificial. Por que leerlo: Muestra cómo una de las principales firmas de IA está diseñando un modelo de gobierno corporativo híbrido entre lucro y beneficio social, útil como referencia para emprendedores. (La Republica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El fútbol inglés genera US$12.000 millones al año, pero el 94% de sus clubes pierde dinero</title>
-      <link>https://www.valoraanalitik.com/el-futbol-ingles-en-crisis-financiera-109-de-116-clubes-pierden-dinero-pese-a-sus-millonarios-ingresos/</link>
-      <guid isPermaLink="false">lalupa-lectura-18</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Pese a ingresos cercanos a US$12.000 millones anuales, 109 de los 116 clubes de fútbol inglés registran pérdidas y muchos dependen del respaldo financiero de sus propietarios para seguir operando. El caso evidencia cómo ingresos millonarios no garantizan rentabilidad cuando la estructura de costos del negocio no está alineada. Por que leerlo: Una lección de negocio sobre cómo una industria con ingresos récord puede ser estructuralmente deficitaria. (Valora Analitik, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Las ventas de smartphones caen 20% por el encarecimiento de memorias DRAM y NAND</title>
-      <link>https://www.xataka.com/moviles/movil-120-euros-se-muere-no-va-a-volver</link>
-      <guid isPermaLink="false">lalupa-lectura-1</guid>
-      <pubDate>Mon, 19 Oct 2026 02:33:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Según Counterpoint, las ventas mundiales de smartphones cayeron 20% interanual en el tercer trimestre de 2026, el peor dato desde 2012. El alza de precios de memorias DRAM y NAND ha encarecido los móviles un 20% en lo que va del año, y la consultora prevé que los precios bajos no volverán ni cuando pase la crisis de componentes. Por que leerlo: Entender por qué los celulares serán más caros de forma estructural, útil para decidir cuándo comprar o vender. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Estudio revela que los paneles solares en cultivos protegen a los agricultores del calor</title>
-      <link>https://www.xataka.com/energia/paneles-solares-pueden-hacer-algo-inesperado-cuando-se-instalan-cultivos-proteger-a-agricultores-calor</link>
-      <guid isPermaLink="false">lalupa-lectura-2</guid>
-      <pubDate>Mon, 19 Oct 2026 02:33:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio publicado en el Journal of Advances in Modeling Earth Systems muestra que la agrovoltaica, combinar paneles solares con cultivos en el mismo terreno, no solo genera energía limpia sino que también reduce el estrés por calor en quienes trabajan la tierra. La investigación aporta evidencia sobre un beneficio adicional no esperado de esta tecnología híbrida. Por que leerlo: Conocer una aplicación práctica y medida de la energía solar que podría cambiar cómo se diseñan proyectos agrícolas. (Xataka, 4 min, interes 8/10)</description>
     </item>
   </channel>
 </rss>

@@ -27,6 +27,281 @@
   },
   "lecturas": [
     {
+      "id": 65,
+      "titulo": "Científicos descubren por qué las estatinas causan dolor muscular",
+      "resumen": "Usando imágenes avanzadas, investigadores hallaron que las estatinas pueden unirse a una proteína clave en las células musculares y forzar la apertura de un canal que controla el calcio, explicando el dolor, la debilidad y el daño muscular que sufren algunos pacientes. El hallazgo resuelve un misterio médico de décadas sobre uno de los medicamentos más recetados del mundo.",
+      "por_que_leerlo": "Ofrece una explicación concreta y basada en evidencia a un efecto secundario que afecta a millones de personas que toman estatinas.",
+      "seccion": "ciencia",
+      "tags": [
+        "medicina",
+        "estatinas",
+        "colesterol",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 66,
+      "titulo": "Miden con precisión inédita el helio formado en los primeros cinco minutos del universo",
+      "resumen": "Un equipo internacional usó uno de los telescopios más potentes del mundo para estudiar 15 galaxias extremadamente prístinas y medir con precisión sin precedentes la cantidad de helio generada en los primeros cinco minutos tras el Big Bang. El resultado permite poner a prueba con mayor rigor los modelos sobre el origen del universo hace casi 13.800 millones de años.",
+      "por_que_leerlo": "Es una medición directa y verificable de uno de los momentos más antiguos del universo, con implicaciones para validar la cosmología moderna.",
+      "seccion": "ciencia",
+      "tags": [
+        "cosmologia",
+        "big bang",
+        "astrofisica",
+        "universo"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 67,
+      "titulo": "Eka Robotics alcanza valoración de US$1.450 millones con un brazo robótico de IA física",
+      "resumen": "La startup desarrolló un modelo de 'IA física' que permite a un brazo robótico manipular una amplia variedad de objetos con movimientos fluidos y casi humanos, sorprendiendo a expertos de la industria. La compañía alcanzó una valoración de 1.450 millones de dólares gracias al interés que generó esta tecnología.",
+      "por_que_leerlo": "Muestra hacia dónde va la robótica aplicada a tareas físicas reales, más allá del software.",
+      "seccion": "tecnologia",
+      "tags": [
+        "robotica",
+        "inteligencia artificial",
+        "startups",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 68,
+      "titulo": "Amazon lanza TorchNeuron para romper el dominio de Nvidia sobre el software de IA",
+      "resumen": "Amazon presentó TorchNeuron, una herramienta que busca que PyTorch, el kit gratuito usado para construir la mayoría de aplicaciones de IA, funcione de forma nativa en sus propios chips en vez de depender del hardware de Nvidia. La medida apunta a romper el monopolio de facto de Nvidia sobre el ecosistema de desarrollo de IA.",
+      "por_que_leerlo": "Explica una jugada clave en la guerra por el hardware de IA que puede abaratar el cómputo para desarrolladores independientes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "nvidia",
+        "chips",
+        "amazon"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 69,
+      "titulo": "Una caída de Google Cloud deja fuera de servicio a HSBC, Revolut, Lloyds y otros bancos",
+      "resumen": "Una falla en la infraestructura de Google Cloud provocó que varios bancos y empresas importantes, entre ellos HSBC, Revolut, Bank of Scotland, Lloyds y Equifax, quedaran sin acceso a sus sistemas durante horas. El incidente expone cuán dependientes son instituciones financieras clave de un único proveedor de nube.",
+      "por_que_leerlo": "Muestra el riesgo real de concentrar infraestructura crítica en un solo proveedor de nube, una lección útil para cualquier negocio que dependa de servicios en la nube.",
+      "seccion": "tecnologia",
+      "tags": [
+        "cloud",
+        "bancos",
+        "infraestructura",
+        "falla"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 70,
+      "titulo": "DeepSeek libera como código abierto su motor de inferencia de IA",
+      "resumen": "La empresa china DeepSeek publicó en GitHub el código fuente de DeepInfer, su motor de inferencia para modelos de lenguaje, acumulando más de 1.400 puntos y cientos de comentarios en Hacker News. El lanzamiento permite a desarrolladores ejecutar e inspeccionar la tecnología detrás de sus modelos sin pagar licencias.",
+      "por_que_leerlo": "Da acceso gratuito a herramientas de infraestructura de IA de punta que cualquier desarrollador o startup puede usar para construir productos propios.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "codigo abierto",
+        "deepseek",
+        "infraestructura ia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/deepseek-ai/DeepInfer"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 71,
+      "titulo": "Un atajo cuántico permite transferir energía sin perder entropía",
+      "resumen": "Investigadores de la City University of Hong Kong, liderados por Oscar Dahlsten, buscaban probar una limitación teórica sobre transferencia de energía y en su lugar hallaron una solución cuántica que rompe restricciones físicas tradicionales. El hallazgo abre una estrategia para cosechar energía de fuentes fluctuantes sin la pérdida de entropía que imponen las leyes clásicas de la termodinámica.",
+      "por_que_leerlo": "Muestra cómo un giro inesperado en investigación básica puede abrir una vía tecnológica para aprovechar energía de fuentes fluctuantes de forma más eficiente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fisica cuantica",
+        "energia",
+        "termodinamica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-quantum-pathway-entropy-free-energy.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 72,
+      "titulo": "El cañón más grande del sistema solar sigue tectónicamente activo en Marte",
+      "resumen": "Científicos de Columbia University e Imperial College London hallaron evidencia de que Valles Marineris, el sistema de cañones más grande del sistema solar, continúa activo tectónicamente miles de millones de años después de formarse. El hallazgo sugiere que Marte no es un planeta geológicamente muerto, como se pensaba.",
+      "por_que_leerlo": "Cambia la imagen de Marte como planeta geológicamente inerte y abre preguntas sobre su actividad interna actual.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "geologia",
+        "espacio",
+        "tectonica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-giant-canyon-mars-tectonically-today.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 73,
+      "titulo": "Un ensayo clínico vincula la vitamina C con mayor supervivencia en cánceres de sangre tempranos",
+      "resumen": "Un ensayo clínico encontró que tomar vitamina C a diario podría mejorar la supervivencia de pacientes con trastornos precancerosos de la sangre y cánceres en etapa temprana. Los pacientes que recibieron el suplemento tuvieron menos eventos adversos y mostraron una ventaja de supervivencia frente al grupo de control.",
+      "por_que_leerlo": "Presenta evidencia clínica de que un suplemento común y barato podría tener un rol real en el tratamiento de enfermedades de la sangre.",
+      "seccion": "ciencia",
+      "tags": [
+        "medicina",
+        "cancer",
+        "vitamina c",
+        "ensayo clinico"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 74,
+      "titulo": "Pensilvania alerta sobre un caso de sarampión congénito, algo que EE.UU. no veía en décadas",
+      "resumen": "Las autoridades de salud de Pensilvania emitieron una alerta tras detectar un caso de sarampión congénito, una condición potencialmente fatal que exige seguimiento médico por años en los sobrevivientes. El caso resurge en medio de la caída en las tasas de vacunación en varias regiones de EE.UU.",
+      "por_que_leerlo": "Evidencia concreta de cómo la baja vacunación está trayendo de vuelta enfermedades que parecían controladas.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud publica",
+        "vacunas",
+        "sarampion",
+        "epidemiologia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 75,
+      "titulo": "Reliable Robotics, startup de ex-SpaceX, supera US$1.000 millones de valoración tras levantar US$115 millones",
+      "resumen": "La compañía, que desarrolla sistemas de vuelo autónomo para aviación, amplió su ronda Serie D con 115 millones de dólares en capital y 25 millones en deuda, superando una valoración de mil millones de dólares. Su fundador proviene de SpaceX y busca automatizar operaciones de vuelo comercial.",
+      "por_que_leerlo": "Un caso concreto de cómo la automatización está entrando a una industria tradicionalmente humana y costosa como la aviación.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "aviacion",
+        "automatizacion",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
+      "id": 76,
+      "titulo": "Google congela una inversión multimillonaria en centros de datos en España por incertidumbre regulatoria",
+      "resumen": "Google puso en pausa proyectos de centros de datos por miles de millones de euros en España mientras espera un decreto del gobierno con reglas más estrictas para el sector. El sur de Europa, a diferencia de países como Finlandia, sigue con pocas inversiones de este tipo pese a su potencial.",
+      "por_que_leerlo": "Es un ejemplo concreto de cómo la incertidumbre regulatoria puede frenar inversiones multimillonarias, una lección clave para entender el apetito inversor en tecnología.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "centros de datos",
+        "google",
+        "regulacion",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/google-suspende-inversion-miles-millones-centros-datos-espana-a-espera-decreto-gobierno"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 15:37",
+      "auto_generated": true
+    },
+    {
       "id": 53,
       "titulo": "Detectan dos fuentes de magma bajo el volcán Masaya en Nicaragua, cerca de 2 millones de personas",
       "resumen": "Observaciones satelitales revelaron movimientos inusuales del terreno bajo el volcán Masaya, atribuidos a dos fuentes de magma ocultas que se desplazan en profundidad. El hallazgo podría mejorar los modelos de pronóstico de erupciones de este volcán activo, que atrae turistas por su lago de lava y está cerca de áreas densamente pobladas.",
