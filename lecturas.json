@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-19"
+    "ultima_actualizacion": "2026-10-20"
   },
   "lecturas": [
+    {
+      "id": 53,
+      "titulo": "Detectan dos fuentes de magma bajo el volcán Masaya en Nicaragua, cerca de 2 millones de personas",
+      "resumen": "Observaciones satelitales revelaron movimientos inusuales del terreno bajo el volcán Masaya, atribuidos a dos fuentes de magma ocultas que se desplazan en profundidad. El hallazgo podría mejorar los modelos de pronóstico de erupciones de este volcán activo, que atrae turistas por su lago de lava y está cerca de áreas densamente pobladas.",
+      "por_que_leerlo": "Da evidencia concreta sobre un riesgo geológico real en Centroamérica que podría anticipar futuras erupciones.",
+      "seccion": "ciencia",
+      "tags": [
+        "volcanes",
+        "nicaragua",
+        "geologia",
+        "riesgo natural"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 54,
+      "titulo": "Las alternativas a la experimentacion animal empiezan a despegar",
+      "resumen": "Tecnologias como los organos en chip y los modelos computacionales avanzados estan ganando terreno como sustitutos de la experimentacion con animales en el desarrollo de farmacos y pruebas toxicologicas. El reportaje de IEEE Spectrum describe como estas herramientas, antes marginales, comienzan a ser adoptadas por laboratorios y reguladores.",
+      "por_que_leerlo": "Entiende hacia donde se mueve la investigacion biomedica y que tecnologias podrian reemplazar un metodo cientifico centenario.",
+      "seccion": "ciencia",
+      "tags": [
+        "biotecnologia",
+        "organos en chip",
+        "etica cientifica",
+        "farmacos"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://spectrum.ieee.org/alternatives-to-animal-testing"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 55,
+      "titulo": "Una startup prueba un volcan submarino como fuente de energia geotermica",
+      "resumen": "Una empresa realizo una prueba de concepto usando el calor de un volcan submarino como fuente de energia geotermica, buscando una alternativa viable para naciones de la cuenca del Pacifico que hoy dependen de importar petroleo. El proyecto se presenta como un 'proof point' para validar la tecnologia antes de escalarla.",
+      "por_que_leerlo": "Muestra una via poco explorada de energia limpia que podria reducir la dependencia energetica de paises insulares.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia geotermica",
+        "energia limpia",
+        "startups",
+        "innovacion energetica"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 56,
+      "titulo": "China impone controles de exportación a 40 tecnologías clave mientras impulsa su IA global",
+      "resumen": "Pekín ha ampliado sus mecanismos de control a la salida de 40 tecnologías sensibles de su territorio, replicando la lógica de las restricciones que EE.UU. aplica a los chips avanzados. La medida busca que China lidere la IA mundial sin perder el control sobre su propiedad tecnológica estratégica.",
+      "por_que_leerlo": "Entender estos controles ayuda a anticipar cómo cambiará el acceso global a tecnología china de IA y chips en los próximos años.",
+      "seccion": "tecnologia",
+      "tags": [
+        "china",
+        "inteligencia artificial",
+        "geopolitica tecnologica",
+        "exportaciones"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/china-quiere-que-su-ia-conquiste-mundo-no-que-toda-su-tecnologia-salga-pais-controles-para-40-tecnologias-clave"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 57,
+      "titulo": "El mercado de ciberseguridad cae 26% en EE.UU., pero la seguridad en IA crece 268%",
+      "resumen": "Mientras el mercado general de ciberseguridad se contrajo 26% en Estados Unidos, la especialidad enfocada en proteger sistemas de inteligencia artificial creció 268%, reflejando un desplazamiento de la demanda laboral hacia la protección de datos y modelos de IA. El dato evidencia cómo la adopción de IA está redefiniendo qué perfiles de seguridad son más valorados.",
+      "por_que_leerlo": "Revela hacia dónde se mueve la demanda laboral en seguridad informática si estás pensando en reentrenarte o contratar talento.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "inteligencia artificial",
+        "empleo tecnologico",
+        "mercado laboral"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 58,
+      "titulo": "Gemini 4 de Google logra completar Minecraft sin ayuda humana",
+      "resumen": "Google demostró las capacidades de su modelo Gemini 4 haciendo que jugara y terminara Minecraft de forma completamente autónoma, sin intervención humana. El hito sigue la estela de AlphaStar, que en su momento venció a jugadores profesionales de StarCraft II, y muestra avances en la capacidad de los agentes de IA para planificar y ejecutar tareas complejas de largo plazo.",
+      "por_que_leerlo": "Es un indicador concreto de hasta dónde llega la autonomía real de los agentes de IA actuales en tareas complejas de planificación.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "agentes de ia",
+        "google",
+        "videojuegos"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/inteligencia-artificial/gemini-4-argon-vence-minecraft-sin-ayuda-humana/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 59,
+      "titulo": "Startup australiana usa nanotecnología para observar proteínas vivas y acelerar fármacos contra Alzheimer y Parkinson",
+      "resumen": "La Universidad de Queensland desarrolló NASTIC, una plataforma que permite observar en tiempo real cómo se comportan dentro de neuronas vivas las proteínas asociadas a enfermedades neurodegenerativas. La tecnología se transfirió a la startup de Brisbane Accretion Bio, que la usará para acelerar el descubrimiento temprano de fármacos contra Alzheimer y Parkinson.",
+      "por_que_leerlo": "Muestra cómo una tecnología de laboratorio se convierte en startup biotecnológica con aplicación comercial directa en el desarrollo de medicamentos.",
+      "seccion": "ciencia",
+      "tags": [
+        "biotecnologia",
+        "startups",
+        "neurociencia",
+        "farmacos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 60,
+      "titulo": "Urano y Neptuno, los planetas 'gemelos', tendrían orígenes distintos según su composición química",
+      "resumen": "Un equipo internacional midió la atmósfera profunda de Urano y Neptuno y halló que Neptuno tiene mayor concentración de oxígeno que Urano. El hallazgo sugiere que ambos gigantes helados se formaron en regiones distintas del sistema solar primitivo antes de llegar a sus órbitas actuales.",
+      "por_que_leerlo": "Replantea con evidencia observacional directa una idea aceptada sobre la formación de los planetas gigantes helados.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "sistema solar",
+        "planetas",
+        "ciencia espacial"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 61,
+      "titulo": "Las baterias reducen emisiones, pero producirlas tambien contamina",
+      "resumen": "Aunque las baterias son clave para reducir emisiones al reemplazar combustibles fosiles, su fabricacion tiene una huella de carbono propia. El articulo plantea que una de las formas mas efectivas de reducir ese impacto es simplemente fabricar menos baterias, optimizando su uso y durabilidad en lugar de solo escalar produccion.",
+      "por_que_leerlo": "Ofrece una mirada critica y poco comun sobre el verdadero costo ambiental de la transicion energetica basada en baterias.",
+      "seccion": "tecnologia",
+      "tags": [
+        "baterias",
+        "energia",
+        "sostenibilidad",
+        "huella de carbono"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 62,
+      "titulo": "Tenstorrent alcanza valoracion de 6.200 millones de dolares desafiando a Nvidia",
+      "resumen": "El fabricante de chips de IA de codigo abierto Tenstorrent levanto 1.500 millones de dolares para mantenerse independiente, despues de recibir ofertas de adquisicion a principios de ano. La ronda eleva su valoracion a 6.200 millones de dolares, consolidandolo como uno de los retadores mas serios de Nvidia en el mercado de semiconductores para IA.",
+      "por_que_leerlo": "Es un caso de estudio sobre como un startup de hardware puede levantar capital masivo y resistir adquisiciones para competir con un gigante establecido.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "chips ia",
+        "financiacion",
+        "nvidia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 63,
+      "titulo": "El fondo Inmoval vendió activos por más de $329.000 millones en Colombia durante 2026",
+      "resumen": "El fondo de inversión inmobiliaria Inmoval vendió activos por más de $329.000 millones de pesos en 2026, incluyendo una participación en Rivana Business Park en Medellín por más de $207.000 millones. Los recursos se destinarán principalmente a reducir las obligaciones financieras del fondo.",
+      "por_que_leerlo": "Muestra cómo un fondo inmobiliario colombiano está reestructurando su deuda mediante ventas de activos, una señal útil para quienes siguen el mercado de inversión local.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "colombia",
+        "fondos inmobiliarios",
+        "finanzas",
+        "medellin"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/el-fondo-de-inversion-inmoval-vendio-activos-por-mas-de-329-000-millones-durante-2026-4506443"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
+    {
+      "id": 64,
+      "titulo": "Propuesta de alza del salario mínimo en 38,5% para 2027 encendería la inflación en Colombia",
+      "resumen": "Analistas advierten que un aumento del salario mínimo de 38,5% para 2027 podría presionar la inflación, encarecer la formalización laboral y elevar los costos operativos de las empresas. El debate se da en medio de la discusión del Presupuesto General de la Nación.",
+      "por_que_leerlo": "Entender el impacto de esta medida en los costos de contratación y precios ayuda a planear mejor las finanzas de un negocio.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "salario minimo",
+        "inflacion",
+        "colombia",
+        "empresas"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-de-385-para-2027-esta-es-la-advertencia-sobre-el-impacto-para-la-economia-en-colombia/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-20 01:35",
+      "auto_generated": true
+    },
     {
       "id": 41,
       "titulo": "Fisicos crean un extrano estado cuantico llamado 'mar de Fermi fraccionario'",
