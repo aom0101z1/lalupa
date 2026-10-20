@@ -221,6 +221,215 @@
   ],
   "casos": [
     {
+      "id": 2011,
+      "titulo": "Ministro de Hacienda reconoce fatiga tributaria de los colombianos",
+      "categoria": "economia",
+      "fecha": "2026-10-19",
+      "descripcion": "El Ministro de Hacienda del gobierno De la Espriella reconoció públicamente que 'la gente se cansó de pagar impuestos', señalando que Colombia tiene 18 tributos nacionales con poco recaudo, en medio del debate sobre una eventual reforma tributaria.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ministro-de-hacienda-de-colombia-reconoce-que-la-gente-se-canso-de-pagar-impuestos/",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2010,
+      "titulo": "Congreso debate alcance del proyecto de ley 'antimermelada'",
+      "categoria": "transparencia",
+      "fecha": "2026-10-19",
+      "descripcion": "Congresistas de los partidos Liberal, Alianza Verde y Centro Democrático debaten el alcance de un proyecto de ley 'antimermelada' que busca transparentar la relación entre el Congreso y el Gobierno Nacional, como parte de la agenda de transparencia del nuevo gobierno.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/debaten-alcance-del-proyecto-de-ley-anti-mermelada",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2009,
+      "titulo": "Revelan cadena de producción de pasaportes del 'modelo Petro' con proveedor británico",
+      "categoria": "contratos",
+      "fecha": "2026-10-19",
+      "descripcion": "Un informe revela detalles desconocidos de la cadena de producción de los pasaportes bajo el modelo implementado durante el gobierno Petro, señalando la participación de un proveedor británico y otros terceros, en momentos en que la continuidad de ese modelo de contratación está en duda bajo el nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/los-detalles-desconocidos-de-la-produccion-de-los-pasaportes-bajo-el-modelo-petro-un-proveedor-britanico-y-otros-terceros-que-participan-en-la-cadena-3594811",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58"
+    },
+    {
+      "id": 2008,
+      "titulo": "Procuraduría exige medidas para prevenir trata de personas tras el terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-19",
+      "descripcion": "El Ministerio Público requirió a las entidades estatales informar en un plazo de diez días hábiles las medidas adoptadas o programadas para prevenir la trata de personas y proteger a las víctimas en las zonas afectadas por el terremoto del 10 de agosto, en medio del riesgo de explotación de población desplazada y damnificada.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/refuerzan-vigilancia-para-evitar-la-trata-de-personas-tras-sismo",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2007,
+      "titulo": "Captura de ciudadano francés señalado de narcotráfico en operación Blindaje 360",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "En el marco de la operación 'Blindaje 360', autoridades capturaron en Soledad, Atlántico, a un ciudadano francés señalado de ser un narcotraficante activo en la región, como parte de los operativos de seguridad del gobierno De la Espriella contra estructuras criminales.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/barranquilla/articulo/frances-fue-capturado-en-operacion-blindaje-360-lo-acusan-de-ser-un-peligroso-narco-en-soledad-atlantico/202632/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2006,
+      "titulo": "Ministerio de Hacienda busca trasladar recursos del Presupuesto General al Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-10-20",
+      "descripcion": "El Ministerio de Hacienda propuso trasladar recursos del Presupuesto General de la Nación (PGN) hacia el Fondo Milagro para atender la emergencia del terremoto, en medio del debate del Presupuesto 2027 en el Congreso, que incluyó discusión sobre recorte al servicio de deuda para liberar fondos.",
+      "evidencia": "Reportado por LaRepublica.co",
+      "fuentes": [
+        {
+          "nombre": "LaRepublica.co",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUU04OHJJTjBkQnVoTndqQWwyR2oweE5NX1NHMUV6aUhMMXkwcE16U2RjOHN4NF9rM1ptTElFNTFDX3V2QzNFeFdnLTFsMU5TVWg2RTRYOXFORDM4X2NUUlhEbmRJR1lZbjlVcG9xel82ZEhEdTgxM1pHd2xudHR3Nms1RE5OaWZ5akRWVlhKWUxCV2JBd0JrdjkxcU5TZkI0Z3hwUm44MlVXUGZZMGRIS05oVFA4VE1xUUZMaDJ1amVJR2Z1RnU00gHHAUFVX3lxTE51X0xuWG9JVmdXVDBZZl94OEZSV09ZRkdhV3FOUFAwLW1FMUNqdUNpLUs0allOQXhyV2s4Tm1ES05hWU9UMmkxQy1jRndVTkM2WE1SdzE4ejRTZ2RNc2MxWWxrWE5rcnNYOTdVQS02TUFQN3EzNTJCb25fUVQzNjlGVjItdkhGdURQcC1vU2tCVUpDM2Y2a2E3bVY4R1I4Tk5GN19XVUozSXh2NktWRFlRZy05WGpBajZaS2pOdXk3OXF5dGhOY00?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2005,
+      "titulo": "Gobernador de Risaralda denuncia opacidad en manejo de recursos para reconstrucción",
+      "categoria": "denuncias",
+      "fecha": "2026-10-19",
+      "descripcion": "Humberto Tobón, gobernador de Risaralda, denunció 'opacidad de información' sobre el manejo de los recursos destinados a la reconstrucción tras el terremoto del 10 de agosto en la región de Pereira/Risaralda, cuestionando la falta de claridad en la ejecución de los fondos asignados por el gobierno nacional.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUR0OHRtZWFTakFxeTZKLWlvODBuUDBfU05kWjZmOXVCWENzdC02ajRUcWI2akR1TGo1TFdXMWNYR3pkOURRWE1GZkpfUDJIakxiaTM0aXp0RDczc1JYU0NEQURtQ3FpXzdxaUFNU3RLdWJmUU9oS2Q2YXJETUhDcDFRY3VoVzlGdlptMTk3bmh6T3dsc2I5eE1VcVh0TjdCbDVXM1MwRHp1Ui1WSVdjZEtNd0pNaXJUUGFTb1lPWUNaM0dEcEHSAdoBQVVfeXFMT1FObUpoZFRqaFdGX2JfazZDTEhuV0NlQ0lLT2tGR3ZHWmRXVHl0aDYxcFBSMVZRem83UFZRM29vczZxRHZUQ0NJdnJJdlBFQ3QxZWFuREtJYmZHUTNueS1MckR1Vld5aFJIWmNwc3V3b2EzU0wxN2hJRVFBdXc5eEdDMUt0LXhxSE9peU9XU3ZtUWdRVHNkQnRiMi1xNVFjdzIwRUxBYnVlNEd3VmlaNHlzaUgyckFQaDJ4dWZ3MzRWQlNoTDRoYjM3OFcwUXB1dmxPQ0U5emtaVVE?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Humberto Tobón"
+      ],
+      "entidad": "Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 2004,
+      "titulo": "Gobierno prioriza subsidios de vivienda para afectados del terremoto con meta de 25.000 unidades",
+      "categoria": "avances",
+      "fecha": "2026-10-19",
+      "descripcion": "El Gobierno Nacional anunció la priorización de subsidios generales de vivienda hacia la población afectada por el terremoto, con la expectativa de levantar 25.000 unidades habitacionales pese a los limitados recursos disponibles para la reconstrucción.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/priorizan-subsidios-generales-de-vivienda-hacia-los-afectados-por-el-terremoto",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2003,
+      "titulo": "De la Espriella ordena traslado de guerrilleros presos y 'ofensiva total' contra ELN y disidencias en Arauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó trasladar a guerrilleros presos en Arauca hacia otras cárceles del país y anunció una 'ofensiva total' contra el ELN y las disidencias de las Farc, tras un consejo de seguridad en la región. El mandatario también advirtió sobre corrupción de funcionarios locales presuntamente vinculados al narcoterrorismo en el departamento.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/traslados-carcel-presos-eln-farc-arauca-otras-carceles-de-la-espriella-LB42439165",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-20 10:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2002,
       "titulo": "Congreso aprueba 12 artículos del Presupuesto 2027 que el Pacto Histórico pedía eliminar",
       "categoria": "economia",
@@ -46765,7 +46974,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-20",
-    "total_casos": 1913,
+    "total_casos": 1922,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
