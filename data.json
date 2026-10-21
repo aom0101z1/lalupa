@@ -221,6 +221,76 @@
   ],
   "casos": [
     {
+      "id": 2085,
+      "titulo": "Colombia retorna oficialmente al Grupo Egmont de inteligencia financiera",
+      "categoria": "internacional",
+      "fecha": "2026-10-21",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció el retorno oficial de Colombia al Grupo Egmont, canal seguro que agrupa a más de 180 unidades de inteligencia financiera en el mundo, tras la salida del país provocada por una alocución de Gustavo Petro que reveló datos confidenciales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colombia-volvio-grupo-egmont-de-la-espriella-que-podra-hacer-OH42543296",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Grupo Egmont",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 21:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2084,
+      "titulo": "Procuraduría envía comisión especial a San Andrés por contratación del Hospital Departamental",
+      "categoria": "contratos",
+      "fecha": "2026-10-21",
+      "descripcion": "El procurador general Gregorio Eljach confirmó el envío de un equipo de cinco expertos a San Andrés, Providencia y Santa Catalina para recolectar pruebas en una indagación previa por presuntas irregularidades en la contratación del Hospital Departamental.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/procuraduria-enviara-comision-especial-san-andres-para-investigar-presunta-corrupcion",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 21:18"
+    },
+    {
+      "id": 2083,
+      "titulo": "Dapre denuncia presunta instrumentalización de 48 mujeres en gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-10-21",
+      "descripcion": "El director del Dapre, Carlos Ríos, anunció la radicación de denuncias formales por la presunta instrumentalización de 48 mujeres mediante contratos de prestación de servicios durante el gobierno de Gustavo Petro.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/dapre-denunciara-presunta-instrumentalizacion-de-mujeres-en-gobierno-anterior",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ríos"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 21:18"
+    },
+    {
       "id": 2082,
       "titulo": "DNP impulsa política CONPES contra la extorsión y el delito",
       "categoria": "seguridad",
@@ -48617,7 +48687,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-21",
-    "total_casos": 1993,
+    "total_casos": 1996,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
