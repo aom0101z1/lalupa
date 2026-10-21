@@ -221,6 +221,379 @@
   ],
   "casos": [
     {
+      "id": 2082,
+      "titulo": "DNP impulsa política CONPES contra la extorsión y el delito",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "El Departamento Nacional de Planeación (DNP) anunció el impulso de una política CONPES orientada a combatir la extorsión y otras formas de delincuencia en el país, como parte de la estrategia de seguridad del gobierno de De la Espriella.",
+      "evidencia": "Reportado por Departamento Nacional de Planeación",
+      "fuentes": [
+        {
+          "nombre": "Departamento Nacional de Planeación",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYnFHa1Frb0RUTVR3UG9XYXMtMXdLbTVwOWV5YlF1VUtmVG9CM3U3WTlzci1Vc0pjRkRkLVlQOHFiRUhsdWJqeXBjLTVKa0pHQ01haWhMeUFNOGZCM19Jdmo4VTNzSkJKbHhaR01JWjBWUlBNLVU2QUh2VEtCMmtQM1dwVGtYUXZacFBjdWtlcUlPd0hQTDNScHFNRS02OHBubjljS2hYbmVoXzlHU1VPeGhXdjczeFJOQS1FMnVNOEk0SkItS1NuYXdSWjBNejFuc3YwNWI2RnZqX2xGWFNZaDBnZmtEWi1KNHZ0YXFRMnBsYS1XMjQ1bQ?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Nacional de Planeación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2081,
+      "titulo": "Ministro Rodrigo Lara anuncia radicación del Estatuto Antiterrorista y descarta procesos de paz con grupos criminales",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "El ministro de Justicia, Rodrigo Lara, anunció que el proyecto de Estatuto Antiterrorista se radicará en el Congreso la próxima semana. La propuesta contempla autorizar bombardeos contra grupos terroristas y busca frenar las asonadas que obstaculizan la labor de la Fuerza Pública. Lara descartó además adelantar procesos de paz con grupos criminales bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-anuncia-que-el-estatuto-antiterrorista-se-radicaria-la-proxima-semana-y-descarta-procesos-de-paz-con-grupos-criminales-3595077",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio de Justicia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2080,
+      "titulo": "Reconocimiento a organismos de socorro por respuesta al terremoto en Manizales",
+      "categoria": "avances",
+      "fecha": "2026-10-21",
+      "descripcion": "Autoridades y la comunidad de Manizales realizaron un homenaje a bomberos oficiales y voluntarios, Cruz Roja, Defensa Civil, grupos de rescate especializado y personal de atención prehospitalaria por su labor en la respuesta al terremoto del 10 de agosto de 2026 en Caldas.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/reconocen-a-organismos-de-socorro-por-su-respuesta-al-terremoto-en-manizales/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Bomberos de Manizales / Cruz Roja / Defensa Civil",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 2079,
+      "titulo": "Indra Group dona sala de cómputo a institución educativa afectada por el terremoto en Caldas",
+      "categoria": "avances",
+      "fecha": "2026-10-21",
+      "descripcion": "La empresa Indra Group entregó una nueva sala de cómputo a una institución educativa en San Antonio de Arma, Caldas, afectada por el terremoto del 10 de agosto. La donación beneficiará a cerca de 250 estudiantes con tecnología, conectividad satelital y herramientas de aprendizaje digital, como parte de los esfuerzos de reconstrucción tras el sismo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/indra-group-entrega-una-nueva-sala-de-computo-en-caldas/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Indra Group",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 2078,
+      "titulo": "Decreto del Presupuesto 2027 excluye $3 billones para Salud",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "El Presupuesto General de la Nación 2027, expedido por decreto en $634,9 billones ante la caída del trámite legislativo, excluye $3 billones que habían sido asignados al sector Salud en las adiciones aprobadas en segundo debate en plenarias del Congreso, y reduce también el gasto destinado al servicio de la deuda. La medida contrasta con la version aprobada previamente por el Congreso, que señalaba a Salud como uno de los mayores beneficiarios del presupuesto.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/presupuesto-por-decreto-excluye-3-billones-a-salud-y-la-reduccion-en-servicio-de-la-deuda-4507770",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2077,
+      "titulo": "Informe revela viajes de Verónica Alcocer a Venezuela en medio de acusaciones de transporte de dinero y drogas",
+      "categoria": "mentiras",
+      "fecha": "2026-10-20",
+      "descripcion": "Se dio a conocer un informe sobre viajes de la exprimera dama Verónica Alcocer a Venezuela, en medio de acusaciones según las cuales habría transportado dinero y drogas, denuncias que su defensa busca controvertir ante la Fiscalía.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNWJwNzJmX1VuSjhZcnZPTm4wU0lUekJPVlVXSl81b3JIcUd2YlRPOV9SNmE2UHNvWXNjYnlZdFh4Q3JSOEVLZnBTamxDODE2YnlySTlzNWxueHNqRUdiVUNQbXlHX1dMLWtlcS1lSUZ1M2JzNkNjTmM3enFoQWxxd205VU9ERkhfSkw5UHVoUHRoVGdUSWFteE5od3AzWHV6dDh2VkVVYWp3dnlNTmdiRmRFTi14bG00YjEzTm5seFltSlNyOWFqeWN3NDU3T3gwa0djZWxJdlZkZXd2bWw5bzFBX2pQUXpy0gHoAUFVX3lxTE03akN6RlJlT3hQSmFRcV9zbVZnRE1oNDVzaU93a0NzdGpwQ2hHWXowZVM1RnJJTUFPOTRaNE5oQkU0ZUZBcmtQY3dhUktYRHJUa0NpemotNFUyS1RfYmRpRVFTZGlrOVY0TjJfR0FBc196b0hEX1J5dV9ud0lhSFc1UnNDdGZSYmpZRVBTNXBpNm1SU3hDaEVnQU9sTmlrWk9Ienk1OWR6YjRrRFZmUmc0dW1jR2c3bjE2LXFIcnF2WkVyRi0tME1naVNueS1QemloU1haZWx3cy1NRlZxLUhuVV9OczBfZGk?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40"
+    },
+    {
+      "id": 2076,
+      "titulo": "Polémica por declaración de Carlos Ramón González en juicio UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-21",
+      "descripcion": "En el juicio contra seis excongresistas por el escándalo de sobornos de la UNGRD, la declaración del exdirector de la entidad, Carlos Ramón González, generó polémica dentro del proceso que adelanta la Corte Suprema de Justicia.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbHVGek9ndXJVM2ZTNV93M1hJenQ2YzQ5eWUzSThXb3FlczVfc1NFbkhZNkFaU2xqYkp6dERsZzBqeDZ3MVd6X1dTY1FVUFVxM2dTUmlhWXZzc19FS3U2OEZXY1NKYkI3R0VNMFFlSUx6N2VtUzlzNVN4VHNRa1pOdTZ1eXBSMmc0aF81ekFma2hvMWVZYU5BZVlIejF6czFDdkVuZWRkbzVLNWY2QjExS2VRbWhZTlc2cDRXT004eDZTRU90MXB3U1ZEVmtRODUza1NlOUtrcC0xVVRRTWdiaFBxdUNYZzFjMi11RFdhY0dfYmRyNmZxZ3ZiMXExQmVm?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramón González",
+        "Seis excongresistas"
+      ],
+      "entidad": "UNGRD / Corte Suprema de Justicia",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40"
+    },
+    {
+      "id": 2075,
+      "titulo": "Deuda de $2,4 billones en Salud del Magisterio tras reforma del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-21",
+      "descripcion": "La reforma al sistema de Salud del Magisterio implementada en mayo de 2024 por el gobierno Petro habría generado una deuda acumulada de $2,4 billones. El Ministerio de Educación calificó el esquema actual como inviable, en medio de quejas por mala atención a los docentes del sector público, mientras la Fiscalía ya investiga el manejo previo de los recursos del Fomag.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/salud-magisterio-adeuda-billones-gestion-gobierno-petro-que-paso-DA42531345",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educación / Fomag",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40"
+    },
+    {
+      "id": 2074,
+      "titulo": "Laura Sarabia responde a señalamientos de Angie Rodríguez en el escándalo del Pacto de Valledupar",
+      "categoria": "mentiras",
+      "fecha": "2026-10-21",
+      "descripcion": "Laura Sarabia respondió públicamente a las acusaciones hechas por la exdirectora del Dapre, Angie Rodríguez, en el marco del escándalo del 'Pacto de Valledupar', que involucra presuntos acercamientos del gobierno Petro con exparamilitares. El expresidente Gustavo Petro también reaccionó a los señalamientos.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/laura-sarabia-respondio-a-angie-rodriguez-por-las-graves-acusaciones-que-hizo-sobre-ella-y-petro-el-expresidente-reacciono/202636/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia",
+        "Angie Rodríguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40"
+    },
+    {
+      "id": 2073,
+      "titulo": "Defensa de Verónica Alcocer entrega pruebas a la Fiscalía para desmentir a Eva Ferrer",
+      "categoria": "mentiras",
+      "fecha": "2026-10-20",
+      "descripcion": "La defensa de Verónica Alcocer, exprimera dama del gobierno Petro, entregó a la Fiscalía un bolso, un informe técnico de vuelo y testigos para controvertir las versiones de Eva Ferrer sobre un viaje a Venezuela. Eva Ferrer, quien declaró virtualmente desde España ante la Fiscalía, anunció que ampliará sus señalamientos y entregará nuevas pruebas contra Alcocer.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd3l4UUdTWWZudkJRNThVYVE5dU5pQU05VEV4cVJwT2k2UGVkcWF6NEttVkttX2VHMHZtSHNqa0RCTG11T1VfS3pwcnkzYmFKVElyZk16MTQtWkNXN3JHTG9xVDgzLVBjYTRad3R6bF9zSGVwb09XT3IzeWhXeXMxSUtINmRsOG5uZXdyNFpUbXFZaEEzbTV6OXBSRm1jWldHdk1BUE1WSXFhU0I1OEhwd1ZMc29ZWWpndU9ZaEVNd1hrZUw0UzI3N0xqMU5FTE5MS0JxMHlpaURZZnV4Zjg4TF9PLU1JNXpqLVNyZ2pMTkVpaGhDeEFxWFln?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Verónica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:40"
+    },
+    {
+      "id": 2072,
+      "titulo": "Soporte del MinHacienda descartaría sobrecosto en primer pago de aviones Gripen",
+      "categoria": "contratos",
+      "fecha": "2026-10-21",
+      "descripcion": "Un soporte técnico presentado por el Ministerio de Hacienda descartaría la existencia de un sobrecosto en el primer pago realizado por la compra de los aviones de combate Gripen, negociación que ha sido cuestionada desde el gobierno Petro.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTJYb0F1TlN5X2E5YmZzRUNFOXZqR2dlMmJENnBoNmtBU0RJZTU1UmMzRk0tVGU1WW5mMTR4N0dUNlMwd0lQcjFja2Fpek5KOXlYOGRmdTBhYTd5RG16elY1T3hsU2VKbERwV2tkUXFlVWVqZnk5cU5PNWREMXJSZW0xOFpTSEcyVmdTcHd4RVpJQXRmU3dydTZjZGlDaXh6X0t0TFc0SdIBtAFBVV95cUxNTTUtYXdPS3JLREhnSDZ1ZnRuR3dmNzRaQlR4SldOVFlHeXF1MTJwV3dieU1fUjlWM2l0Z3NhQlgtc2ZiOXJ3dnUwNjFZSE13U3RMeUNoS0FkVG5ieWhiRExVOEo1dFRnRi0tSmJISlJ6RTBaOWVFMklJLXN3b2l0TURuWWJ1RWc0bU81eEczRTE4ODNoR0IwZllBaWl3eWtDcTJaTzdZWWxWY3dTa3IxNlhjRkY?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:39"
+    },
+    {
+      "id": 2071,
+      "titulo": "Gobierno evalúa cambio en afiliación a seguridad social para millones de trabajadores",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "El Ministerio de Trabajo del gobierno De la Espriella adelanta una ruta técnica para evaluar alternativas que cambiarían el procedimiento de afiliación a seguridad social, una medida que impactaría a millones de trabajadores en el país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-haria-cambio-en-afiliacion-a-seguridad-social-para-millones-de-trabajadores/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2070,
+      "titulo": "Dado de baja alias 'Resorte', jefe de finanzas del ELN en Cúcuta",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "Tropas del Ejército Nacional dieron de baja a Ricardo Trigos Peñaranda, alias 'Resorte', cabecilla financiero del ELN en Cúcuta y su área metropolitana, durante combates en la vereda Palo Colorado, municipio de Chinácota, Norte de Santander. El presidente Abelardo de la Espriella confirmó la operación; Trigos Peñaranda coordinaba extorsiones, secuestros y homicidios en la región.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-resorte-asesinaron-jefe-financiero-eln-cucuta-DA42533246",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Trigos Peñaranda",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2069,
+      "titulo": "MinVivienda y Fondo Milagro proyectan 25.000 soluciones de vivienda para damnificados",
+      "categoria": "avances",
+      "fecha": "2026-10-20",
+      "descripcion": "El Ministerio de Vivienda y el Fondo Milagro anunciaron un plan para entregar 25.000 soluciones de vivienda a los damnificados del terremoto del 10 de agosto de 2026, como parte de la estrategia de reconstrucción en las zonas afectadas por el sismo de magnitud 7,4.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUpQRUgtOFd0bUxPRFhKcEZaTU1TMmMxWll1eWVwajRQSUc0ZmNZbVZsM1pfWWlTM0FRRTdQU3ltdjR3cHZkRndSend0cVBfalFOdnlUQzc3ZDhnYjRHU0MwaUU5dU5kTjZxTm9XSTFRX1p0UkI5eDZ1TS00XzNMdkMzWHFBLWlqblF3bW9RUEEtVlI1Q1ZTem1sTWdhcEg3R29hcGhaQ3lOQVhaM0lMQWpic3A?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:39",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2068,
+      "titulo": "Captura de 'Brayan Veneco', cabecilla de disidencias de 'Mordisco' en Magdalena Medio",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "La Fuerza Pública capturó en Bolívar, mientras recibía atención médica, a alias 'Brayan Veneco', señalado cabecilla del Frente 4 de las disidencias de 'Mordisco' que opera en el Magdalena Medio. Se le atribuyen múltiples crímenes en la región, incluyendo extorsión y homicidios vinculados al grupo armado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/captura-de-brayan-veneco-los-crimenes-que-le-atribuyen-al-cabecilla-de-las-disidencias-de-mordisco-en-el-magdalena-medio-3595139",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Brayan Veneco"
+      ],
+      "entidad": "Fuerza Pública / Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:39",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2067,
+      "titulo": "Procuraduría abre indagación por contratos del esposo de la congresista Elizabeth Jay-Pang en San Andrés",
+      "categoria": "contratos",
+      "fecha": "2026-10-21",
+      "descripcion": "La Procuraduría General de la Nación abrió dos indagaciones preliminares tras el careo publico del presidente De la Espriella con la representante por San Andrés Elizabeth Jay-Pang y la gobernadora Girley Ordóñez. Una de las indagaciones investiga contratos adjudicados al esposo de Jay-Pang en el archipiélago, en medio de denuncias de presuntas irregularidades en el manejo de recursos públicos regionales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/procuraduria-indagacion-preliminar-contratos-esposo-congresista-san-andres-jaypang-FB42527200",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Elizabeth Jay-Pang",
+        "Girley Ordóñez"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 16:39"
+    },
+    {
       "id": 2066,
       "titulo": "Gobierno busca inversion de US$150 millones con Renault-Sofasa para nuevo vehiculo",
       "categoria": "economia",
@@ -48244,7 +48617,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-21",
-    "total_casos": 1977,
+    "total_casos": 1993,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
