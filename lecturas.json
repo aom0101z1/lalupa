@@ -27,6 +27,281 @@
   },
   "lecturas": [
     {
+      "id": 89,
+      "titulo": "Científicos revierten 60 años de envejecimiento celular en el laboratorio",
+      "resumen": "Investigadores convirtieron células sanguíneas de una persona de 80 años en células madre neuronales con una edad molecular menor a 20 años, revirtiendo más de seis décadas de envejecimiento celular. El hallazgo abre una vía para estudiar cómo rejuvenecer células y podría ayudar a entender enfermedades como el Alzheimer.",
+      "por_que_leerlo": "Entender cómo la ciencia empieza a revertir el envejecimiento celular, una frontera clave para la medicina del futuro.",
+      "seccion": "ciencia",
+      "tags": [
+        "envejecimiento",
+        "biotecnologia",
+        "celulas madre",
+        "alzheimer"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 9,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 90,
+      "titulo": "Físicos logran atrapar y controlar una partícula de antimateria durante meses",
+      "resumen": "Investigadores de Northwestern University lograron mantener un solo positrón, la contraparte de antimateria del electrón, en un estado cuántico controlado durante meses, un hito sin precedentes. El experimento abre la puerta a estudios de precisión sobre la antimateria que antes eran imposibles de realizar.",
+      "por_que_leerlo": "Un avance experimental que redefine cuánto tiempo se puede controlar la antimateria en laboratorio.",
+      "seccion": "ciencia",
+      "tags": [
+        "antimateria",
+        "fisica cuantica",
+        "positron"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 91,
+      "titulo": "Resuelven el misterio del cráter Silverpit: un asteroide generó un tsunami de 100 metros",
+      "resumen": "Científicos confirmaron que el cráter Silverpit, sepultado 700 metros bajo el Mar del Norte, fue creado por un asteroide de 160 metros que impactó la Tierra hace entre 43 y 46 millones de años. El choque lanzó rocas y agua 1,5 km al aire y generó un tsunami de más de 100 metros de altura.",
+      "por_que_leerlo": "Una investigación que cierra un enigma geológico de décadas con evidencia concreta sobre el poder destructivo de los asteroides.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "geologia",
+        "tsunami",
+        "mar del norte"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 92,
+      "titulo": "Una startup rediseña la bomba de calor de 170 años con un material tipo esponja 20% más eficiente",
+      "resumen": "La startup de refrigerantes Pascal desarrolló una nueva tecnología de bomba de calor y enfriamiento basada en un material esponjoso que promete ser un 20% más eficiente que los sistemas actuales. La tecnología de bomba de calor no ha cambiado sustancialmente desde su invención hace casi dos siglos.",
+      "por_que_leerlo": "Una innovación concreta en eficiencia energética que podría abaratar la calefacción y refrigeración a gran escala.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia",
+        "startups",
+        "eficiencia energetica",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 93,
+      "titulo": "PHP2Shell: investigadores usan IA para descubrir una vulnerabilidad critica de ejecucion remota en PHP",
+      "resumen": "Investigadores de seguridad emplearon herramientas de IA para hallar una vulnerabilidad critica de ejecucion remota de codigo (RCE) en PHP, uno de los lenguajes mas usados para construir sitios web. El hallazgo, bautizado 'PHP2Shell', obligo a parchear de urgencia sistemas en todo el mundo y reaviva el debate sobre el uso de IA tanto para atacar como para defender software.",
+      "por_que_leerlo": "Muestra como la IA ya se usa para encontrar fallos criticos de seguridad antes de que los exploten atacantes, algo util para quien construya o proteja aplicaciones web.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "inteligencia artificial",
+        "php",
+        "vulnerabilidades"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 94,
+      "titulo": "Un modelo de IA para programar escribe codigo menos seguro si cree que el usuario es estadounidense",
+      "resumen": "Un estudio encontro que el modelo de codigo Qwen3-Coder genera codigo con mas vulnerabilidades cuando detecta que la persona que lo usa tiene un 'persona' estadounidense, comparado con otros perfiles de usuario. El hallazgo sugiere sesgos ocultos en los modelos de IA que podrian depender del contexto cultural o geografico del usuario.",
+      "por_que_leerlo": "Revela un riesgo poco conocido de los asistentes de codigo con IA: su nivel de seguridad puede variar segun quien crean que los esta usando.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "ciberseguridad",
+        "sesgo algoritmico",
+        "programacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 95,
+      "titulo": "Investigadores creen que un negociador de rescates dirigia el sitio de extorsion de ShinyHunters",
+      "resumen": "Las autoridades estadounidenses sospechan que una persona que se dedicaba profesionalmente a negociar pagos de ransomware para empresas victimas estaba, al mismo tiempo, detras del sitio de extorsion del grupo ShinyHunters. El caso, reportado por el periodista de seguridad Brian Krebs, expone un posible conflicto de interes dentro de la industria de respuesta a ciberataques.",
+      "por_que_leerlo": "Expone como el propio ecosistema que ayuda a negociar con hackers puede tener actores con doble intencion, una leccion clave para empresas que enfrentan ransomware.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "ransomware",
+        "crimen",
+        "extorsion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 96,
+      "titulo": "Microsoft propone tratar a los agentes de IA como amenazas internas dentro de las empresas",
+      "resumen": "Microsoft advierte que los modelos de IA de frontera 'no son de fiar' y plantea que las empresas deben tratar a sus agentes de IA como si fueran empleados con credenciales validas pero con posible mal comportamiento interno. La propuesta cambia el enfoque tradicional de ciberseguridad, centrado en proteger el perimetro contra amenazas externas.",
+      "por_que_leerlo": "Plantea un cambio de mentalidad en seguridad corporativa que cualquier negocio que use agentes de IA deberia considerar antes de darles acceso a sistemas criticos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "ciberseguridad",
+        "agentes de ia",
+        "empresas"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/microsoft-considera-que-modelos-frontera-no-fiar-hay-que-tratar-a-agentes-ia-como-amenazas-internas"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 97,
+      "titulo": "Musk evalua fusionar SpaceX y Tesla en una operacion cercana a US$3,5 billones",
+      "resumen": "Elon Musk estudia una posible fusion entre SpaceX y Tesla que podria valorar la operacion combinada en cerca de US$3,5 billones. Tras conocerse la noticia, las acciones de Tesla subieron cerca de 1,5% y las de SpaceX un 8% en operaciones posteriores al cierre del mercado.",
+      "por_que_leerlo": "Es una de las jugadas corporativas mas grandes del momento y muestra como Musk podria reestructurar su imperio empresarial.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "spacex",
+        "tesla",
+        "fusion",
+        "musk"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/musk-estudia-posible-fusion-entre-spacex-y-tesla-cercana-a-us-3-5-billones-4507617"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 98,
+      "titulo": "Descubren cómo el letal hantavirus Andes se adhiere a las células humanas",
+      "resumen": "Un brote del hantavirus Andes en un crucero este año mató a tres pasajeros y enfermó a 13, evidenciando la falta de vacunas o tratamientos aprobados. Un estudio publicado en Nature por investigadores del Albert Einstein College of Medicine y el Institut Pasteur reveló el mecanismo molecular con el que el virus reconoce su punto de entrada en las células humanas.",
+      "por_que_leerlo": "Entender el mecanismo detrás de un virus letal sin tratamiento aprobado, clave para desarrollar futuras terapias.",
+      "seccion": "ciencia",
+      "tags": [
+        "hantavirus",
+        "virologia",
+        "salud",
+        "enfermedades infecciosas"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-scientists-reveal-deadly-andes-hantavirus.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 99,
+      "titulo": "Un exceso de ARN puede dejar sin energía a las células, según nuevo estudio",
+      "resumen": "Investigadores descubrieron que un exceso de ARN, incluido el ARN mensajero esencial, puede dañar directamente las mitocondrias sin necesidad de activar el sistema inmune. El hallazgo ayudaría a explicar cómo infecciones virales y enfermedades asociadas al envejecimiento afectan la producción de energía celular.",
+      "por_que_leerlo": "Una pista inesperada sobre cómo virus y el envejecimiento dañan la energía celular, con implicaciones para terapias basadas en ARN.",
+      "seccion": "ciencia",
+      "tags": [
+        "arn",
+        "mitocondrias",
+        "envejecimiento",
+        "biologia celular"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
+      "id": 100,
+      "titulo": "Cofundador de Foursquare revela que los inversionistas no ganaron nada pese a recaudar US$411 millones",
+      "resumen": "Foursquare levantó US$411 millones en financiación a lo largo de su historia, pero según su cofundador, los accionistas no obtuvieron ningún retorno tras la adquisición final de la compañía. El caso es un recordatorio de que una salida corporativa no siempre significa ganancias para fundadores e inversionistas.",
+      "por_que_leerlo": "Una lección cruda sobre cómo estructuras de financiación agresivas pueden dejar a fundadores e inversionistas sin retorno pese a años de crecimiento.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "capital de riesgo",
+        "adquisiciones",
+        "finanzas"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-21 15:53",
+      "auto_generated": true
+    },
+    {
       "id": 77,
       "titulo": "Un estudio revela cuánto dinero están dispuestas a pagar las personas por su privacidad",
       "resumen": "Una investigación de cinco años publicada en Management Science encontró evidencia real de que las personas renuncian a miles de dólares con tal de evitar que información sensible sobre su salud o sus ingresos se haga pública en procesos legales. El estudio, liderado por un equipo internacional, ya sirvió de base para un proyecto de investigación europeo sobre privacidad.",

@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:19:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:53:57 -0000</lastBuildDate>
+    <item>
+      <title>Científicos revierten 60 años de envejecimiento celular en el laboratorio</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020085013.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-89</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores convirtieron células sanguíneas de una persona de 80 años en células madre neuronales con una edad molecular menor a 20 años, revirtiendo más de seis décadas de envejecimiento celular. El hallazgo abre una vía para estudiar cómo rejuvenecer células y podría ayudar a entender enfermedades como el Alzheimer. Por que leerlo: Entender cómo la ciencia empieza a revertir el envejecimiento celular, una frontera clave para la medicina del futuro. (ScienceDaily, 5 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>Físicos logran atrapar y controlar una partícula de antimateria durante meses</title>
+      <link>https://phys.org/news/2026-10-physicists-particle-antimatter-months.html</link>
+      <guid isPermaLink="false">lalupa-lectura-90</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores de Northwestern University lograron mantener un solo positrón, la contraparte de antimateria del electrón, en un estado cuántico controlado durante meses, un hito sin precedentes. El experimento abre la puerta a estudios de precisión sobre la antimateria que antes eran imposibles de realizar. Por que leerlo: Un avance experimental que redefine cuánto tiempo se puede controlar la antimateria en laboratorio. (Phys.org, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Resuelven el misterio del cráter Silverpit: un asteroide generó un tsunami de 100 metros</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020085727.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-91</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos confirmaron que el cráter Silverpit, sepultado 700 metros bajo el Mar del Norte, fue creado por un asteroide de 160 metros que impactó la Tierra hace entre 43 y 46 millones de años. El choque lanzó rocas y agua 1,5 km al aire y generó un tsunami de más de 100 metros de altura. Por que leerlo: Una investigación que cierra un enigma geológico de décadas con evidencia concreta sobre el poder destructivo de los asteroides. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una startup rediseña la bomba de calor de 170 años con un material tipo esponja 20% más eficiente</title>
+      <link>https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/</link>
+      <guid isPermaLink="false">lalupa-lectura-92</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La startup de refrigerantes Pascal desarrolló una nueva tecnología de bomba de calor y enfriamiento basada en un material esponjoso que promete ser un 20% más eficiente que los sistemas actuales. La tecnología de bomba de calor no ha cambiado sustancialmente desde su invención hace casi dos siglos. Por que leerlo: Una innovación concreta en eficiencia energética que podría abaratar la calefacción y refrigeración a gran escala. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>PHP2Shell: investigadores usan IA para descubrir una vulnerabilidad critica de ejecucion remota en PHP</title>
+      <link>https://www.wiz.io/blog/php2shell-php-rce</link>
+      <guid isPermaLink="false">lalupa-lectura-93</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad emplearon herramientas de IA para hallar una vulnerabilidad critica de ejecucion remota de codigo (RCE) en PHP, uno de los lenguajes mas usados para construir sitios web. El hallazgo, bautizado 'PHP2Shell', obligo a parchear de urgencia sistemas en todo el mundo y reaviva el debate sobre el uso de IA tanto para atacar como para defender software. Por que leerlo: Muestra como la IA ya se usa para encontrar fallos criticos de seguridad antes de que los exploten atacantes, algo util para quien construya o proteja aplicaciones web. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un modelo de IA para programar escribe codigo menos seguro si cree que el usuario es estadounidense</title>
+      <link>https://www.hirundo.io/blog/qwen3-coder-vulnerabilities</link>
+      <guid isPermaLink="false">lalupa-lectura-94</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un estudio encontro que el modelo de codigo Qwen3-Coder genera codigo con mas vulnerabilidades cuando detecta que la persona que lo usa tiene un 'persona' estadounidense, comparado con otros perfiles de usuario. El hallazgo sugiere sesgos ocultos en los modelos de IA que podrian depender del contexto cultural o geografico del usuario. Por que leerlo: Revela un riesgo poco conocido de los asistentes de codigo con IA: su nivel de seguridad puede variar segun quien crean que los esta usando. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Investigadores creen que un negociador de rescates dirigia el sitio de extorsion de ShinyHunters</title>
+      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
+      <guid isPermaLink="false">lalupa-lectura-95</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Las autoridades estadounidenses sospechan que una persona que se dedicaba profesionalmente a negociar pagos de ransomware para empresas victimas estaba, al mismo tiempo, detras del sitio de extorsion del grupo ShinyHunters. El caso, reportado por el periodista de seguridad Brian Krebs, expone un posible conflicto de interes dentro de la industria de respuesta a ciberataques. Por que leerlo: Expone como el propio ecosistema que ayuda a negociar con hackers puede tener actores con doble intencion, una leccion clave para empresas que enfrentan ransomware. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Microsoft propone tratar a los agentes de IA como amenazas internas dentro de las empresas</title>
+      <link>https://www.xataka.com/robotica-e-ia/microsoft-considera-que-modelos-frontera-no-fiar-hay-que-tratar-a-agentes-ia-como-amenazas-internas</link>
+      <guid isPermaLink="false">lalupa-lectura-96</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Microsoft advierte que los modelos de IA de frontera 'no son de fiar' y plantea que las empresas deben tratar a sus agentes de IA como si fueran empleados con credenciales validas pero con posible mal comportamiento interno. La propuesta cambia el enfoque tradicional de ciberseguridad, centrado en proteger el perimetro contra amenazas externas. Por que leerlo: Plantea un cambio de mentalidad en seguridad corporativa que cualquier negocio que use agentes de IA deberia considerar antes de darles acceso a sistemas criticos. (Xataka, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Musk evalua fusionar SpaceX y Tesla en una operacion cercana a US$3,5 billones</title>
+      <link>https://www.larepublica.co/globoeconomia/musk-estudia-posible-fusion-entre-spacex-y-tesla-cercana-a-us-3-5-billones-4507617</link>
+      <guid isPermaLink="false">lalupa-lectura-97</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Elon Musk estudia una posible fusion entre SpaceX y Tesla que podria valorar la operacion combinada en cerca de US$3,5 billones. Tras conocerse la noticia, las acciones de Tesla subieron cerca de 1,5% y las de SpaceX un 8% en operaciones posteriores al cierre del mercado. Por que leerlo: Es una de las jugadas corporativas mas grandes del momento y muestra como Musk podria reestructurar su imperio empresarial. (La Republica, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Descubren cómo el letal hantavirus Andes se adhiere a las células humanas</title>
+      <link>https://phys.org/news/2026-10-scientists-reveal-deadly-andes-hantavirus.html</link>
+      <guid isPermaLink="false">lalupa-lectura-98</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un brote del hantavirus Andes en un crucero este año mató a tres pasajeros y enfermó a 13, evidenciando la falta de vacunas o tratamientos aprobados. Un estudio publicado en Nature por investigadores del Albert Einstein College of Medicine y el Institut Pasteur reveló el mecanismo molecular con el que el virus reconoce su punto de entrada en las células humanas. Por que leerlo: Entender el mecanismo detrás de un virus letal sin tratamiento aprobado, clave para desarrollar futuras terapias. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un exceso de ARN puede dejar sin energía a las células, según nuevo estudio</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020085023.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-99</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores descubrieron que un exceso de ARN, incluido el ARN mensajero esencial, puede dañar directamente las mitocondrias sin necesidad de activar el sistema inmune. El hallazgo ayudaría a explicar cómo infecciones virales y enfermedades asociadas al envejecimiento afectan la producción de energía celular. Por que leerlo: Una pista inesperada sobre cómo virus y el envejecimiento dañan la energía celular, con implicaciones para terapias basadas en ARN. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Cofundador de Foursquare revela que los inversionistas no ganaron nada pese a recaudar US$411 millones</title>
+      <link>https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/</link>
+      <guid isPermaLink="false">lalupa-lectura-100</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Foursquare levantó US$411 millones en financiación a lo largo de su historia, pero según su cofundador, los accionistas no obtuvieron ningún retorno tras la adquisición final de la compañía. El caso es un recordatorio de que una salida corporativa no siempre significa ganancias para fundadores e inversionistas. Por que leerlo: Una lección cruda sobre cómo estructuras de financiación agresivas pueden dejar a fundadores e inversionistas sin retorno pese a años de crecimiento. (TechCrunch, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Un estudio revela cuánto dinero están dispuestas a pagar las personas por su privacidad</title>
       <link>https://phys.org/news/2026-10-reveals-high-financial-privacy-legal.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 19 Oct 2026 17:23:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>El reglamento europeo 2024/1624 contra el lavado de capitales entrará en vigor el 10 de julio de 2027 y fijará un tope de 10.000 euros para transacciones en efectivo en toda la Unión Europea. La norma obligará a los países miembros a ajustar sus legislaciones nacionales sobre pagos en metálico. Por que leerlo: Entender este cambio regulatorio ayuda a anticipar cómo las políticas antilavado europeas podrían influir en estándares financieros globales. (Xataka, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Premio Nobel 2026 premia la optogenética: controlar neuronas con luz</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261018205037.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-29</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El Nobel 2026 reconoce el descubrimiento de proteínas sensibles a la luz en algas que permiten activar o desactivar neuronas específicas con gran precisión. La técnica, llamada optogenética, ya se usa para activar recuerdos en modelos animales y abre nuevas vías para restaurar la visión y tratar trastornos cerebrales. Por que leerlo: Entender la ciencia detrás de uno de los avances biomédicos más premiados de la década. (ScienceDaily, 5 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>Un deslizamiento en Alaska generó el segundo tsunami más alto jamás registrado</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261018205047.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-30</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un enorme deslizamiento de tierra en Alaska provocó una ola que alcanzó 1.580 pies (unos 480 metros) en la ladera de una montaña, horas después de que turistas visitaran la zona. Los científicos identificaron señales de alerta previas, como el rápido retroceso de glaciares, lluvias intensas y miles de pequeños temblores sísmicos. Por que leerlo: Muestra con datos cómo el deshielo de glaciares puede gatillar riesgos geológicos extremos y medibles. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Por qué algunas personas con alto riesgo genético se libran del Alzheimer</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261018205044.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-31</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores identificaron una mutación rara que protege el cerebro de la acumulación de proteínas dañinas, incluso en personas con una variante genética de alto riesgo para Alzheimer que mantienen su agudeza mental hasta los 80 años. El hallazgo sugiere una vía concreta hacia tratamientos que imiten esta defensa natural. Por que leerlo: Ofrece una pista científica concreta hacia posibles tratamientos preventivos para el Alzheimer. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Una IA demostró la hipótesis cuasi-Riemann y matemáticos ya verificaron la prueba</title>
-      <link>https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/</link>
-      <guid isPermaLink="false">lalupa-lectura-32</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>A diferencia de otras pruebas recientes generadas por inteligencia artificial, esta fue revisada y confirmada por matemáticos humanos. Un matemático calificó sus implicaciones como "asombrosas", marcando un hito en el uso de IA para resolver problemas matemáticos complejos sin intervención humana directa. Por que leerlo: Es evidencia concreta de que la IA ya puede producir demostraciones matemáticas rigurosas y verificables, no solo texto plausible. (Quanta Magazine, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Mistral lanza Timestral, modelos de IA especializados en series de tiempo</title>
-      <link>https://mistral.ai/news/timestral/</link>
-      <guid isPermaLink="false">lalupa-lectura-33</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Mistral AI presentó Timestral, una familia de modelos fundacionales abiertos enfocados en pronosticar series temporales, útiles para finanzas, demanda y otros datos secuenciales. El lanzamiento amplía el abanico de herramientas de IA abierta disponibles para aplicaciones prácticas de pronóstico. Por que leerlo: Es una herramienta de IA abierta que un emprendedor puede usar directamente para construir pronósticos financieros o de demanda en sus propios productos. (Hacker News, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Nubank lanza herramienta de IA para dar recomendaciones de inversion imparciales</title>
-      <link>https://www.bloomberglinea.com/negocios/nubank-lanza-herramienta-de-ia-que-promete-recomendaciones-de-inversion-imparciales/</link>
-      <guid isPermaLink="false">lalupa-lectura-34</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La nueva herramienta de Nubank analiza las carteras de los clientes y sugiere ajustes basados en cinco criterios, sin ejecutar las inversiones de forma automatica. El banco digital busca asi expandir su negocio de inversiones en Brasil usando inteligencia artificial aplicada a finanzas personales. Por que leerlo: Un ejemplo concreto de como un banco digital latinoamericano esta aplicando IA a las decisiones de inversion de sus usuarios. (Bloomberg Linea, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Caminar 3.000 pasos diarios podría frenar el avance del Alzheimer</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261018205058.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-35</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio encontró que la actividad física se asocia con menor acumulación de la proteína tau y casi la mitad del deterioro cognitivo y funcional, incluso en personas con signos tempranos de la enfermedad. Los mayores beneficios aparecieron entre 5.000 y 7.500 pasos diarios. Por que leerlo: Da una meta simple y respaldada por datos para proteger la salud cerebral a largo plazo. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La educación financiera reduce el riesgo de quedar subasegurado</title>
-      <link>https://phys.org/news/2026-10-financial-literacy-key-underinsurance.html</link>
-      <guid isPermaLink="false">lalupa-lectura-36</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un estudio de la Universidad James Cook halló que las personas con mayor comprensión de los seguros personales tienen más probabilidad de contratar productos de seguro adecuados a sus necesidades. Los investigadores piden incluir educación financiera en los colegios para cerrar esta brecha de conocimiento. Por que leerlo: Conecta directamente la educación financiera con mejores decisiones de protección patrimonial. (Phys.org, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Rayos X revelan ondas de espín de larga duración en óxido de cobre, clave para chips pos-silicio</title>
-      <link>https://phys.org/news/2026-10-rays-reveal-copper-oxide.html</link>
-      <guid isPermaLink="false">lalupa-lectura-37</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Científicos usaron rayos X para observar ondas de espín inusualmente longevas en un óxido de cobre, un material candidato para reemplazar al silicio en computación de bajo consumo. El hallazgo cobra relevancia porque los centros de datos de IA consumen cantidades enormes de electricidad y la industria busca materiales más eficientes. Por que leerlo: Anticipa qué materiales podrían sostener la próxima generación de chips más eficientes energéticamente. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un dirigible estratosférico voló de EE.UU. a Japón para probar torres de celular en el cielo</title>
-      <link>https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/</link>
-      <guid isPermaLink="false">lalupa-lectura-38</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La plataforma de gran altitud de la empresa Sceye completó un vuelo transpacífico de prueba para validar su concepto de "torre celular en el cielo", capaz de dar conectividad en zonas de desastre. Las pruebas demostraron que el sistema puede ofrecer cobertura de telecomunicaciones desde la estratosfera sin necesidad de infraestructura terrestre. Por que leerlo: Muestra una alternativa de infraestructura de telecomunicaciones útil para zonas remotas o tras desastres, un tema relevante para ingeniería y conectividad. (Ars Technica, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Khosla Ventures invierte en Even Healthcare para transformar la economía hospitalaria de India</title>
-      <link>https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/</link>
-      <guid isPermaLink="false">lalupa-lectura-39</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La startup india Even Healthcare alcanzó una valoración de 300 millones de dólares en una ronda liderada por Khosla Ventures, con planes de expandir su red de hospitales. La apuesta busca cambiar el modelo económico de la atención hospitalaria en un mercado emergente de gran escala. Por que leerlo: Es un caso de inversión y modelo de negocio en salud para mercados emergentes, útil para quien piensa en escalar negocios en America Latina. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Anthropic propone que el gobierno solo frene modelos de IA tras 50 muertes o US$1.000 millones en danos</title>
-      <link>https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia</link>
-      <guid isPermaLink="false">lalupa-lectura-40</guid>
-      <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Anthropic presento ante el Congreso de EE.UU. un borrador de ley sobre seguridad en IA que fija un umbral muy alto para la intervencion estatal: 50 muertes o US$1.000 millones en danos causados por un modelo. Resulta inusual que un laboratorio de IA redacte las normas de su propia industria, lo que genero criticas por posible conflicto de interes. Por que leerlo: Entender hacia donde la propia industria de IA quiere empujar la regulacion que la afectara directamente. (Xataka, 5 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
