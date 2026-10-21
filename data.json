@@ -221,6 +221,426 @@
   ],
   "casos": [
     {
+      "id": 2056,
+      "titulo": "Se cae el Presupuesto General de la Nación 2027 por vicio de trámite",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "El Presupuesto General de la Nación 2027, aprobado recientemente por el Congreso, fue declarado inválido tras detectarse un vicio de trámite en su proceso de aprobación, lo que obliga al gobierno y al Congreso a definir un nuevo curso de acción para la vigencia fiscal 2027.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/por-un-vicio-de-tramite-se-cayo-el-presupuesto-general-de-la-nacion-que-viene-ahora/202610/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Gobierno De la Espriella",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2055,
+      "titulo": "Citan a Ricardo Bonilla y Luis Fernando Velasco a declarar en juicio UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-20",
+      "descripcion": "El exministro de Hacienda Ricardo Bonilla y el senador Luis Fernando Velasco fueron citados a declarar en el juicio contra seis excongresistas por el caso de corrupción en la UNGRD, como parte del seguimiento al proceso judicial sobre los sobornos para aprobar la reforma a la salud.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPelU1Q2FLRmtOdmZuVGp4ajU1Yk5PZG9RallERF8xNF9IcGZBb1kwQTFheFp2azdxdnZHbFMyTHYxajdHbWYtbW1zNTd4Zi12YmdWUEwtVDNGc3lldDVVLS1tTk5SQkdmN2xtODFYV1dWd1ZkeXc1NHdsVUxtaXFhai1UazljcFJVYjJ4MUIwb2k1OXQyajFSTkVFTm54cHI1UlFBZmxiZVJ2UjVHN2tNQnY2NXdCYnhVbVFBUDJMamNSdW1aY3VNaFlsT3l5Nl9IcWJfdlozZGNkdlZIUTl3Z054UDhrbUQ4SGF5Yzluci01cE00cXAzYXdXUEJXb0tIRm1Oc1pYV1lsbG41anVBVGlMWmtqNk9VSjdZemw3c0lZR2M?oc=5",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla",
+        "Luis Fernando Velasco"
+      ],
+      "entidad": "Corte Suprema de Justicia / UNGRD",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20"
+    },
+    {
+      "id": 2054,
+      "titulo": "Captura de explosivista de disidencias de 'Calarcá' en Caquetá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "Fue capturado Luis Eduardo Rondón Reyes, alias 'Negro Antonio', señalado de ser explosivista de las disidencias de 'Calarcá' y de planear ataques contra la Fuerza Pública en Caquetá. El capturado había sido vinculado previamente a dos atentados contra la Policía en 2019.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-explosivista-de-las-disidencias-de-calarca-que-estaria-planeando-ataques-contra-la-fuerza-publica-en-caqueta-3594981",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Eduardo Rondón Reyes"
+      ],
+      "entidad": "Fuerza Pública",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2053,
+      "titulo": "Coronel Edwin Correa asume la dirección de la Policía de Tránsito y Transporte",
+      "categoria": "gabinete",
+      "fecha": "2026-10-20",
+      "descripcion": "El coronel Edwin Correa fue nombrado nuevo director de la Policía de Tránsito y Transporte, tras pasar por cargos en investigación criminal, inteligencia operativa y administración policial. El nombramiento se da en el marco de la reorganización del mando policial del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-coronel-edwin-correa-llega-a-la-direccion-de-la-policia-de-transito-y-transporte-este-es-su-perfil-3595034",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Correa"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2052,
+      "titulo": "FMI y Banco Mundial revisan estrategia de deuda pública de Colombia hasta 2030",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "Misiones técnicas del Fondo Monetario Internacional y el Banco Mundial llegaron a Colombia para apoyar al Gobierno nacional en la actualización de su estrategia de deuda pública para el periodo 2027-2030, en el marco de la gestión fiscal del nuevo gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fmi-y-banco-mundial-llegan-a-colombia-para-revisar-estrategia-de-deuda-publica-hasta-2030/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "FMI / Banco Mundial / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2051,
+      "titulo": "De la Espriella ordena traslado de 91 presos de la Costa a cárceles de máxima seguridad",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "Por orden del presidente Abelardo De la Espriella, el Inpec trasladó a 91 personas privadas de la libertad desde cárceles de la región Caribe hacia establecimientos de máxima seguridad en otras zonas del país. 46 internos salieron de Sincelejo (Sucre) y 41 de otro centro, con el objetivo declarado de impedir que las cárceles sigan siendo usadas para coordinar actividades delictivas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-ordena-el-traslado-de-91-presos-desde-la-costa-a-carceles-de-maxima-seguridad-CB42523573",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Inpec / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2050,
+      "titulo": "Gobierno reduce en 5.000 el numero de contratistas en dos meses",
+      "categoria": "transparencia",
+      "fecha": "2026-10-19",
+      "descripcion": "El gobierno de Abelardo De la Espriella reporto una reduccion de 5.000 contratistas estatales en los primeros dos meses de gestion, como parte de su politica de austeridad y reduccion del gasto en contratacion.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3l2TW1KeUcxLWFrSUFFQkFQb19vb0FZcXU3cnIwQ2l5aUJHRWJjbzFxQlVfYXB6aGNxUVR6blNQdXdTTldFdnVGZVlFRU4zQ292MzJWZDg1bTcxUWVZVEN1anNUcGtrNWJCVGZGMUZxQUdnVjRJWmVDclg2MXN1OWduTWQ5STBKd1gwdmdCd05lQ0lLRU4wSE5vODN2My0zLTlMdDRveUVYeHZ6YXk5U09KM2k?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2049,
+      "titulo": "Balance de la Policia de Transito bajo el coronel Jair Parra",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "La gestion del coronel Jair Parra al frente de la Policia de Transito reporto mas de 13.600 capturas, incautacion de 118 toneladas de droga y una reduccion del 63% en los casos de pirateria terrestre durante su periodo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-golpes-al-narcotrafico-y-la-ofensiva-contra-el-crimen-que-marcaron-la-gestion-del-coronel-jair-parra-en-la-policia-de-transito-3595021",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Jair Parra"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2048,
+      "titulo": "Gobierno otorga subsidio del 25% de un salario minimo por nuevo empleo formal",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno De la Espriella anuncio que pagara el 25% de un salario minimo mensual a empresas por cada nuevo trabajador contratado formalmente, en respuesta al aumento del desempleo en el pais.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/empleo-en-colombia-gobierno-de-de-la-espriella-dara-25-de-un-salario-minimo-por-cada-nuevo-trabajador/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2047,
+      "titulo": "Policía incauta 7,6 toneladas de cocaína camuflada en panela en puerto de Cartagena",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "La Dirección de Antinarcóticos de la Policía Nacional decomisó 7 toneladas, 646 kilos y 400 gramos de clorhidrato de cocaína camuflada en panela pulverizada en el puerto de Cartagena, calificada como la mayor incautación de este estupefaciente en ese puerto en los últimos diez años.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/incautacion-7-6-toneladas-cocaina-mezclada-panela-puerto-cartagena-BL42497431",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Dirección de Antinarcóticos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2046,
+      "titulo": "De la Espriella envía mensaje al Clan del Golfo tras golpe contundente de la Fuerza Pública",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "El presidente Abelardo De la Espriella envió un mensaje al Clan del Golfo tras un golpe contundente propinado por la Fuerza Pública contra esa estructura criminal, en el marco de la ofensiva de seguridad del nuevo gobierno contra grupos armados organizados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-envio-mensaje-al-clan-del-golfo-tras-golpe-contundente-contra-el-narcotrafico/202638/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2045,
+      "titulo": "Procuraduría pide frenar contrato de acueducto en Arauca",
+      "categoria": "contratos",
+      "fecha": "2026-10-21",
+      "descripcion": "La Procuraduría General de la Nación solicitó frenar un millonario contrato de acueducto en Arauca, en medio de denuncias sobre presunto desvío de recursos públicos en el departamento, tras señalamientos previos del gobierno nacional sobre irregularidades en el manejo de dineros públicos en esa región.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/procuraduria-pone-la-lupa-y-pide-frenar-millonario-contrato-de-acueducto-en-arauca/202601/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20"
+    },
+    {
+      "id": 2044,
+      "titulo": "Arriendos en Cali suben más de 26% tras el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-21",
+      "descripcion": "Los precios de arriendo en Cali aumentaron más de 26% desde el terremoto del 10 de agosto, encareciendo el acceso a vivienda temporal para damnificados y residentes en medio de la escasez de oferta habitacional en la ciudad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/capsulas/articulo/arriendos-en-cali-subieron-mas-de-26-despues-del-terremoto-cuanto-cuesta-arrendar-hoy/202655/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sector inmobiliario de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
+      "id": 2043,
+      "titulo": "Gobierno anuncia decreto de tarifas diferenciales para peajes del Eje Cafetero",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Gobierno Nacional, a través de la ministra de Transporte Elsa Noguera, alista un decreto que establecerá tarifas diferenciales en los peajes del Eje Cafetero, argumentando que el Estado no continuará subsidiando a usuarios con capacidad económica.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-nuevo-decreto-de-tarifas-diferenciales-para-peajes-del-eje-cafetero/",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Elsa Noguera"
+      ],
+      "entidad": "Ministerio de Transporte / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2042,
+      "titulo": "Colfondos despliega oficina móvil en Chocó para atender a damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-20",
+      "descripcion": "Colfondos instaló una oficina móvil en Quibdó entre el 19 y el 21 de octubre de 2026 para atender a damnificados del terremoto, ofreciendo asesoría en retiro de cesantías, actualización de datos y trámites de pensiones. Los afectados pueden retirar cesantías para vivienda sin pagar comisión durante octubre y noviembre.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/colfondos-lleva-su-oficina-movil-al-choco-para-atender-a-damnificados-por-el-terremoto-4507346",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colfondos",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 2041,
+      "titulo": "Contraloría abre proceso fiscal por $3.000 millones en proyecto de corales de San Andrés y viaje a Bahamas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-20",
+      "descripcion": "La Contraloría General de la República abrió un proceso de responsabilidad fiscal por un presunto detrimento patrimonial superior a $3.000 millones en un proyecto para recuperar los arrecifes coralinos de San Andrés, Providencia y Santa Catalina. La investigación incluye pagos cuestionados y un viaje a Bahamas relacionado con el contrato, luego de que la visita del presidente De la Espriella al archipiélago pusiera el foco sobre el manejo de estos recursos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contraloria-investiga-detrimento-de-3000-millones-proyecto-corales-san-andres-PL42491709",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20"
+    },
+    {
+      "id": 2040,
+      "titulo": "Capturan en Cali y Medellín a holandeses con orden de extradición por narcotráfico",
+      "categoria": "seguridad",
+      "fecha": "2026-10-20",
+      "descripcion": "Dos ciudadanos neerlandeses, Ronny Haleber y Ulrich Van Dinter, buscados por la justicia de Países Bajos por tráfico de clorhidrato de cocaína, fueron capturados el 20 de octubre de 2026 en Medellín y Cali en cumplimiento de notificaciones rojas de Interpol. La operación estuvo a cargo de la Dirección Especializada contra el Narcotráfico y quedaron a disposición de la Fiscalía General de la Nación para el trámite de extradición.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/se-conocen-detalles-captura-holandeses-se-esconden-cali-y-medellin-KC42514619",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ronny Haleber",
+        "Ulrich Van Dinter"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2039,
+      "titulo": "Pacto de Valledupar: Fiscalía compulsa copias y Procuraduría abre indagación contra Benedetti y Rodríguez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-21",
+      "descripcion": "La Fiscalía compulsó copias a la Comisión de Investigación y Acusación de la Cámara para que investigue al expresidente Gustavo Petro por el 'Pacto de Valledupar'. Paralelamente, la Procuraduría abrió actuación disciplinaria contra el ministro del Interior Armando Benedetti y la directora del Dapre Angie Rodríguez por el mismo escándalo, relacionado con un presunto plan para que exjefes paramilitares declararan contra opositores políticos. La Fiscalía abrió noticia criminal el 31 de agosto en la Unidad de Fiscales ante la Corte Suprema.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gustavo-petro-fiscalia-compulsa-copias-a-la-comision-de-acusacion-por-pacto-de-valledupar-CB42520471",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Armando Benedetti",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Fiscalía General de la Nación / Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 03:20"
+    },
+    {
       "id": 2038,
       "titulo": "Colombia concreta crédito por 200 millones de euros para financiar presupuesto 2026",
       "categoria": "economia",
@@ -47594,8 +48014,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-20",
-    "total_casos": 1949,
+    "ultima_actualizacion": "2026-10-21",
+    "total_casos": 1967,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
