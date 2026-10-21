@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-20"
+    "ultima_actualizacion": "2026-10-21"
   },
   "lecturas": [
+    {
+      "id": 77,
+      "titulo": "Un estudio revela cuánto dinero están dispuestas a pagar las personas por su privacidad",
+      "resumen": "Una investigación de cinco años publicada en Management Science encontró evidencia real de que las personas renuncian a miles de dólares con tal de evitar que información sensible sobre su salud o sus ingresos se haga pública en procesos legales. El estudio, liderado por un equipo internacional, ya sirvió de base para un proyecto de investigación europeo sobre privacidad.",
+      "por_que_leerlo": "Pone un número concreto al valor económico de la privacidad, un dato útil para diseñar productos y políticas de datos.",
+      "seccion": "ciencia",
+      "tags": [
+        "privacidad",
+        "datos",
+        "economia",
+        "derecho"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-reveals-high-financial-privacy-legal.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 78,
+      "titulo": "Descubren ocho certificados TLS comprometidos que ponen en alerta a internet",
+      "resumen": "Investigadores hallaron ocho certificados intermedios TLS comprometidos que permitirian a cualquiera emitir credenciales web validas para cualquier servidor de internet. El hallazgo genero alerta maxima en la comunidad de seguridad porque compromete la confianza basica detras de las conexiones HTTPS.",
+      "por_que_leerlo": "Explica una falla critica en la infraestructura de seguridad que sostiene casi toda la web.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "certificados tls",
+        "ciberseguridad",
+        "internet"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 79,
+      "titulo": "El negocio de IA de SpaceX supera expectativas y deja ganancias de US$4.400 millones",
+      "resumen": "SpaceX alcanzo rentabilidad en el tercer trimestre con una utilidad neta de US$4.400 millones, impulsada principalmente por su negocio de inteligencia artificial. La cifra confirma que la diversificacion hacia IA se esta convirtiendo en un motor financiero clave para la compania de Elon Musk.",
+      "por_que_leerlo": "Datos concretos de como una empresa aeroespacial esta monetizando la inteligencia artificial mas alla de los cohetes.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "spacex",
+        "inteligencia artificial",
+        "finanzas",
+        "elon musk"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 80,
+      "titulo": "Una startup crea una IA que traduce las senales electricas de las plantas",
+      "resumen": "La startup Electric Plant desarrollo un modelo de inteligencia artificial que interpreta las senales electricas sutiles que recorren los tallos de las plantas, buscando descifrar una forma de lenguaje vegetal. La tecnologia abre una via novedosa para monitorear el estres, la salud y las necesidades de los cultivos en tiempo real.",
+      "por_que_leerlo": "Une biologia, electronica e inteligencia artificial en una idea que podria cambiar la agricultura de precision.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biologia",
+        "agricultura",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 81,
+      "titulo": "Compromiso de una autoridad certificadora intermedia de eMudhra pone en riesgo la confianza en la web",
+      "resumen": "Investigadores de seguridad revelaron el compromiso de una autoridad certificadora (CA) intermedia operada por eMudhra, lo que habria permitido emitir certificados digitales fraudulentos capaces de hacerse pasar por sitios legitimos. El caso, documentado publicamente, genero cientos de comentarios en la comunidad de seguridad por sus implicaciones para la cadena de confianza SSL/TLS que sostiene buena parte de internet.",
+      "por_que_leerlo": "Explica como una sola CA comprometida puede minar la confianza de HTTPS en millones de sitios web.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "certificados ssl",
+        "infraestructura web",
+        "pki"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://emudhra.we-have-a-problem.com/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 82,
+      "titulo": "La IA ya automatiza ciberataques: 1.200 webs atacadas y mas de 100 comprometidas con fragmentos de codigo minimos",
+      "resumen": "Un analisis reciente muestra como la inteligencia artificial esta acelerando el ciclo de explotacion de vulnerabilidades: atacantes usaron fragmentos de menos de 100 caracteres generados con IA para atacar 1.200 sitios web y comprometer mas de 100 en poco tiempo. El caso evidencia que la IA ya no solo ayuda a escribir exploits, sino que reduce drasticamente el tiempo entre el descubrimiento de una falla y su explotacion masiva.",
+      "por_que_leerlo": "Muestra con cifras concretas como la IA cambia la velocidad y escala de los ciberataques, clave para quien gestiona infraestructura digital propia.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "ciberseguridad",
+        "vulnerabilidades",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 83,
+      "titulo": "SpaceX registra beneficio neto de US$4.400 millones impulsado por su negocio de IA",
+      "resumen": "SpaceX superó las previsiones de los analistas con una ganancia neta de US$4.400 millones en el trimestre cerrado en septiembre, gracias al crecimiento de su división de inteligencia artificial sumado a los ingresos de cohetes y satélites. La diversificación de ingresos marca un giro relevante para la compañía de Elon Musk.",
+      "por_que_leerlo": "Muestra cómo una empresa aeroespacial se está convirtiendo también en un actor fuerte de la industria de IA, diversificando sus fuentes de ingreso.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "spacex",
+        "inteligencia artificial",
+        "ingresos",
+        "satelites"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/spacex-supera-previsiones-de-beneficios-por-aumento-de-los-ingresos-de-su-negocio-de-ia-4507181"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 84,
+      "titulo": "Tormenta de radiación solar poco común da la imagen más clara de los riesgos para la aviación",
+      "resumen": "Una tormenta de radiación solar generó el conjunto de datos atmosféricos más completo jamás recopilado durante un evento de este tipo, según una investigación liderada por la Universidad de Surrey. Los hallazgos subrayan la necesidad de un monitoreo de radiación mejor coordinado para proteger a tripulaciones y pasajeros en vuelos de gran altitud.",
+      "por_que_leerlo": "Explica cómo la actividad solar extrema puede afectar la seguridad aérea y por qué se necesita mejor monitoreo en la aviación comercial.",
+      "seccion": "ciencia",
+      "tags": [
+        "aviacion",
+        "radiacion solar",
+        "seguridad",
+        "clima espacial"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-rare-solar-storm-scientists-clearest.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 85,
+      "titulo": "Residuo de la producción de tofu se convierte en material imprimible en 3D para reparar la piel",
+      "resumen": "Investigadores transformaron okara, el residuo sólido que queda al producir tofu y bebidas de soya, en un biomaterial bioactivo, biodegradable e imprimible en 3D con potencial para proteger y reparar la piel. El estudio demuestra una vía de bajo costo para convertir desechos agroindustriales en insumos médicos.",
+      "por_que_leerlo": "Muestra cómo un desperdicio alimentario común puede convertirse en un material biomédico de alto valor mediante impresión 3D.",
+      "seccion": "ciencia",
+      "tags": [
+        "biomateriales",
+        "impresion 3d",
+        "economia circular",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 86,
+      "titulo": "Descubren una rivalidad oculta entre dos estados cuánticos en el corazón de los superconductores",
+      "resumen": "Científicos identificaron una competencia entre dos estados cuánticos que podría explicar por qué ciertos materiales se vuelven superconductores a temperaturas relativamente altas, un misterio que la física arrastra hace casi 40 años. Entender esta rivalidad podría acercar a la industria a redes eléctricas más eficientes y nuevas tecnologías médicas.",
+      "por_que_leerlo": "Da una pista clave para resolver uno de los mayores misterios de la física de materiales, con aplicaciones directas en energía.",
+      "seccion": "ciencia",
+      "tags": [
+        "superconductores",
+        "fisica cuantica",
+        "energia",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 87,
+      "titulo": "Un modelo de aprendizaje automático detecta una señal de alerta temprana para el vórtice polar",
+      "resumen": "Investigadores entrenaron un modelo de machine learning que identifica señales previas a los eventos de calentamiento estratosférico súbito, responsables de las olas de frío extremo en Norteamérica y Europa. El hallazgo podría mejorar la capacidad de predicción de estos eventos, históricamente difíciles de anticipar.",
+      "por_que_leerlo": "Un ejemplo concreto de cómo la IA puede mejorar la predicción de fenómenos climáticos extremos con impacto económico directo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "clima",
+        "prediccion",
+        "vortice polar"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-20",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
+    {
+      "id": 88,
+      "titulo": "La NASA resuelve el misterio de por qué el asteroide Bennu pierde calor tan rápido",
+      "resumen": "Muestras traídas a la Tierra por la misión OSIRIS-REx revelaron que las rocas de Bennu están llenas de grietas microscópicas ocultas, lo que explica por qué el asteroide pierde calor con una rapidez que había desconcertado a los científicos durante años. El hallazgo ayuda a entender mejor la estructura interna de los asteroides cercanos a la Tierra.",
+      "por_que_leerlo": "Resuelve un enigma científico con datos directos de muestras extraterrestres, clave para futuras misiones de defensa planetaria.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "nasa",
+        "osiris-rex",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-19",
+      "added_date": "2026-10-21 01:19",
+      "auto_generated": true
+    },
     {
       "id": 65,
       "titulo": "Científicos descubren por qué las estatinas causan dolor muscular",

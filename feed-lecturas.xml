@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:37:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:19:45 -0000</lastBuildDate>
+    <item>
+      <title>Un estudio revela cuánto dinero están dispuestas a pagar las personas por su privacidad</title>
+      <link>https://phys.org/news/2026-10-reveals-high-financial-privacy-legal.html</link>
+      <guid isPermaLink="false">lalupa-lectura-77</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Una investigación de cinco años publicada en Management Science encontró evidencia real de que las personas renuncian a miles de dólares con tal de evitar que información sensible sobre su salud o sus ingresos se haga pública en procesos legales. El estudio, liderado por un equipo internacional, ya sirvió de base para un proyecto de investigación europeo sobre privacidad. Por que leerlo: Pone un número concreto al valor económico de la privacidad, un dato útil para diseñar productos y políticas de datos. (Phys.org, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Descubren ocho certificados TLS comprometidos que ponen en alerta a internet</title>
+      <link>https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/</link>
+      <guid isPermaLink="false">lalupa-lectura-78</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores hallaron ocho certificados intermedios TLS comprometidos que permitirian a cualquiera emitir credenciales web validas para cualquier servidor de internet. El hallazgo genero alerta maxima en la comunidad de seguridad porque compromete la confianza basica detras de las conexiones HTTPS. Por que leerlo: Explica una falla critica en la infraestructura de seguridad que sostiene casi toda la web. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El negocio de IA de SpaceX supera expectativas y deja ganancias de US$4.400 millones</title>
+      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
+      <guid isPermaLink="false">lalupa-lectura-79</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>SpaceX alcanzo rentabilidad en el tercer trimestre con una utilidad neta de US$4.400 millones, impulsada principalmente por su negocio de inteligencia artificial. La cifra confirma que la diversificacion hacia IA se esta convirtiendo en un motor financiero clave para la compania de Elon Musk. Por que leerlo: Datos concretos de como una empresa aeroespacial esta monetizando la inteligencia artificial mas alla de los cohetes. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una startup crea una IA que traduce las senales electricas de las plantas</title>
+      <link>https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</link>
+      <guid isPermaLink="false">lalupa-lectura-80</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La startup Electric Plant desarrollo un modelo de inteligencia artificial que interpreta las senales electricas sutiles que recorren los tallos de las plantas, buscando descifrar una forma de lenguaje vegetal. La tecnologia abre una via novedosa para monitorear el estres, la salud y las necesidades de los cultivos en tiempo real. Por que leerlo: Une biologia, electronica e inteligencia artificial en una idea que podria cambiar la agricultura de precision. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Compromiso de una autoridad certificadora intermedia de eMudhra pone en riesgo la confianza en la web</title>
+      <link>https://emudhra.we-have-a-problem.com/</link>
+      <guid isPermaLink="false">lalupa-lectura-81</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad revelaron el compromiso de una autoridad certificadora (CA) intermedia operada por eMudhra, lo que habria permitido emitir certificados digitales fraudulentos capaces de hacerse pasar por sitios legitimos. El caso, documentado publicamente, genero cientos de comentarios en la comunidad de seguridad por sus implicaciones para la cadena de confianza SSL/TLS que sostiene buena parte de internet. Por que leerlo: Explica como una sola CA comprometida puede minar la confianza de HTTPS en millones de sitios web. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La IA ya automatiza ciberataques: 1.200 webs atacadas y mas de 100 comprometidas con fragmentos de codigo minimos</title>
+      <link>https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad</link>
+      <guid isPermaLink="false">lalupa-lectura-82</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un analisis reciente muestra como la inteligencia artificial esta acelerando el ciclo de explotacion de vulnerabilidades: atacantes usaron fragmentos de menos de 100 caracteres generados con IA para atacar 1.200 sitios web y comprometer mas de 100 en poco tiempo. El caso evidencia que la IA ya no solo ayuda a escribir exploits, sino que reduce drasticamente el tiempo entre el descubrimiento de una falla y su explotacion masiva. Por que leerlo: Muestra con cifras concretas como la IA cambia la velocidad y escala de los ciberataques, clave para quien gestiona infraestructura digital propia. (Xataka, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>SpaceX registra beneficio neto de US$4.400 millones impulsado por su negocio de IA</title>
+      <link>https://www.larepublica.co/globoeconomia/spacex-supera-previsiones-de-beneficios-por-aumento-de-los-ingresos-de-su-negocio-de-ia-4507181</link>
+      <guid isPermaLink="false">lalupa-lectura-83</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>SpaceX superó las previsiones de los analistas con una ganancia neta de US$4.400 millones en el trimestre cerrado en septiembre, gracias al crecimiento de su división de inteligencia artificial sumado a los ingresos de cohetes y satélites. La diversificación de ingresos marca un giro relevante para la compañía de Elon Musk. Por que leerlo: Muestra cómo una empresa aeroespacial se está convirtiendo también en un actor fuerte de la industria de IA, diversificando sus fuentes de ingreso. (La Republica, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Tormenta de radiación solar poco común da la imagen más clara de los riesgos para la aviación</title>
+      <link>https://phys.org/news/2026-10-rare-solar-storm-scientists-clearest.html</link>
+      <guid isPermaLink="false">lalupa-lectura-84</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Una tormenta de radiación solar generó el conjunto de datos atmosféricos más completo jamás recopilado durante un evento de este tipo, según una investigación liderada por la Universidad de Surrey. Los hallazgos subrayan la necesidad de un monitoreo de radiación mejor coordinado para proteger a tripulaciones y pasajeros en vuelos de gran altitud. Por que leerlo: Explica cómo la actividad solar extrema puede afectar la seguridad aérea y por qué se necesita mejor monitoreo en la aviación comercial. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Residuo de la producción de tofu se convierte en material imprimible en 3D para reparar la piel</title>
+      <link>https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html</link>
+      <guid isPermaLink="false">lalupa-lectura-85</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores transformaron okara, el residuo sólido que queda al producir tofu y bebidas de soya, en un biomaterial bioactivo, biodegradable e imprimible en 3D con potencial para proteger y reparar la piel. El estudio demuestra una vía de bajo costo para convertir desechos agroindustriales en insumos médicos. Por que leerlo: Muestra cómo un desperdicio alimentario común puede convertirse en un material biomédico de alto valor mediante impresión 3D. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Descubren una rivalidad oculta entre dos estados cuánticos en el corazón de los superconductores</title>
+      <link>https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html</link>
+      <guid isPermaLink="false">lalupa-lectura-86</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos identificaron una competencia entre dos estados cuánticos que podría explicar por qué ciertos materiales se vuelven superconductores a temperaturas relativamente altas, un misterio que la física arrastra hace casi 40 años. Entender esta rivalidad podría acercar a la industria a redes eléctricas más eficientes y nuevas tecnologías médicas. Por que leerlo: Da una pista clave para resolver uno de los mayores misterios de la física de materiales, con aplicaciones directas en energía. (Phys.org, 6 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un modelo de aprendizaje automático detecta una señal de alerta temprana para el vórtice polar</title>
+      <link>https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html</link>
+      <guid isPermaLink="false">lalupa-lectura-87</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores entrenaron un modelo de machine learning que identifica señales previas a los eventos de calentamiento estratosférico súbito, responsables de las olas de frío extremo en Norteamérica y Europa. El hallazgo podría mejorar la capacidad de predicción de estos eventos, históricamente difíciles de anticipar. Por que leerlo: Un ejemplo concreto de cómo la IA puede mejorar la predicción de fenómenos climáticos extremos con impacto económico directo. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La NASA resuelve el misterio de por qué el asteroide Bennu pierde calor tan rápido</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261018205101.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-88</guid>
+      <pubDate>Wed, 21 Oct 2026 01:19:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Muestras traídas a la Tierra por la misión OSIRIS-REx revelaron que las rocas de Bennu están llenas de grietas microscópicas ocultas, lo que explica por qué el asteroide pierde calor con una rapidez que había desconcertado a los científicos durante años. El hallazgo ayuda a entender mejor la estructura interna de los asteroides cercanos a la Tierra. Por que leerlo: Resuelve un enigma científico con datos directos de muestras extraterrestres, clave para futuras misiones de defensa planetaria. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Científicos descubren por qué las estatinas causan dolor muscular</title>
       <link>https://www.sciencedaily.com/releases/2026/10/261019093447.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 19 Oct 2026 16:01:00 -0000</pubDate>
       <category>Tecnología</category>
       <description>Anthropic presento ante el Congreso de EE.UU. un borrador de ley sobre seguridad en IA que fija un umbral muy alto para la intervencion estatal: 50 muertes o US$1.000 millones en danos causados por un modelo. Resulta inusual que un laboratorio de IA redacte las normas de su propia industria, lo que genero criticas por posible conflicto de interes. Por que leerlo: Entender hacia donde la propia industria de IA quiere empujar la regulacion que la afectara directamente. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La fiebre de diamantes de 1908 que creó una ciudad de lujo en el desierto de Namibia</title>
-      <link>https://www.xataka.com/magnet/1908-encontraron-diamantes-que-construyeron-ciudad-alemana-lujo-desierto-cuando-dejaron-aparecer-desierto-se-cobro-alquiler</link>
-      <guid isPermaLink="false">lalupa-lectura-19</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>En 1908 un trabajador ferroviario encontró un diamante en el desierto de Namibia y desató una fiebre de riqueza que llevó a colonos alemanes a construir una ciudad de lujo con hospital, casino, teatro y fábrica de hielo en pleno desierto. Cuando los diamantes dejaron de aparecer, el lugar fue abandonado y el desierto terminó por cubrirlo. Por que leerlo: Una lección vívida de historia económica sobre cómo el auge y la caída de un solo recurso pueden crear y destruir una economía entera. (Xataka, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>China halla en muestras lunares una 'cápsula del tiempo' de hierro</title>
-      <link>https://www.xataka.com/espacio/china-ha-encontrado-luna-capsula-tiempo-hierro-ahora-solo-queda-aprender-a-abrirla</link>
-      <guid isPermaLink="false">lalupa-lectura-20</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>La misión china Chang'e 6 trajo en 2024 casi 2 kg de muestras del lado oculto de la Luna, las únicas obtenidas hasta ahora de esa cara del satélite. Su análisis reveló una estructura de hierro que actúa como una cápsula del tiempo geológica, cuya información completa los científicos aún trabajan en descifrar. Por que leerlo: Un vistazo a lo que revelan las únicas muestras recogidas jamás del lado oculto de la Luna. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Simulaciones exploran cómo un arma nuclear podría desviar un asteroide peligroso</title>
-      <link>https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html</link>
-      <guid isPermaLink="false">lalupa-lectura-21</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores del Lawrence Livermore National Laboratory desarrollaron simulaciones tridimensionales para analizar cómo un dispositivo nuclear podría desviar o fragmentar un asteroide en curso de colisión con la Tierra. El trabajo busca anticipar escenarios reales de defensa planetaria ante amenazas de impacto. Por que leerlo: Explica con base científica una de las estrategias más discutidas para proteger al planeta de un impacto de asteroide. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Avance cuántico reduce errores 40 veces en su primera prueba exitosa en hardware real</title>
-      <link>https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html</link>
-      <guid isPermaLink="false">lalupa-lectura-22</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un nuevo método de 'limpieza de estados mágicos' logró reducir los errores en computación cuántica hasta 40 veces frente a la técnica tradicional de destilación, que consume muchos más recursos. La prueba se realizó con éxito en hardware cuántico real, un paso concreto hacia computadoras cuánticas más confiables. Por que leerlo: Es un avance medible y verificado en la carrera por hacer viable la computación cuántica a escala práctica. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El telescopio espacial Roman de la NASA supera las expectativas en un 30%</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261016070630.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-23</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Ingenieros de la NASA ajustaron un espejo del telescopio Nancy Grace Roman apenas una dieciseisava parte del grosor de un cabello humano, logrando una alineación casi perfecta de sus instrumentos. Como resultado, el instrumento de campo amplio produce imágenes con una calidad casi 30% superior a la prevista. Por que leerlo: Muestra el nivel de precisión de ingeniería que permite explorar el universo con más detalle del esperado. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La Unión Europea propone comprar energía en conjunto como un solo bloque</title>
-      <link>https://www.xataka.com/energia/europa-quiere-hacer-algo-que-parecia-imposible-comprar-energia-como-fuera-solo-pais</link>
-      <guid isPermaLink="false">lalupa-lectura-24</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Ursula von der Leyen presentó ante el Parlamento Europeo una propuesta inédita para agregar toda la demanda energética del continente y negociar compras conjuntas de energía, buscando responder a un mercado cada vez más volátil. La iniciativa movilizaría más de 100.000 millones de euros adicionales. Por que leerlo: Muestra cómo podría reorganizarse uno de los mercados energéticos más grandes del mundo y qué implicaciones tendría para los precios. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>RepRapMicron: impresión 3D de código abierto a escala de micrómetros</title>
-      <link>https://github.com/VikOlliver/RepRapMicron/wiki</link>
-      <guid isPermaLink="false">lalupa-lectura-25</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>RepRapMicron es un proyecto de hardware libre que adapta la filosofía del movimiento RepRap para construir impresoras y plataformas de manipulación capaces de operar a escala de micrómetros, documentado íntegramente en su wiki de GitHub. El proyecto generó alta discusión en la comunidad maker, con más de 340 puntos en Hacker News. Por que leerlo: Para quienes construyen hardware propio, una referencia abierta de cómo lograr precisión de nivel micrométrico con herramientas accesibles. (Hacker News, 8 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Meta admite que sus gafas inteligentes grababan conversaciones sin permiso</title>
-      <link>https://www.xataka.com/privacidad/esta-resuelto-meta-admite-error-sus-gafas-inteligentes-que-grababa-conversaciones-permiso</link>
-      <guid isPermaLink="false">lalupa-lectura-26</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Usuarios reportaron en Reddit que sus gafas Ray-Ban Meta guardaban conversaciones normales con otras personas sin que se activara el comando de voz 'Hey, Meta'. Varias personas confirmaron haber visto el mismo comportamiento, y Meta asegura que ya corrigió el problema, aunque no está claro qué tan extendido fue. Por que leerlo: Un caso concreto de cómo los dispositivos con IA embebida pueden comprometer la privacidad sin que el usuario se dé cuenta. (Xataka, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Economía colombiana entra en desaceleración: el PIB crecería por debajo del 2% en el tercer trimestre</title>
-      <link>https://www.valoraanalitik.com/economia-colombiana-se-adentra-en-una-fase-de-desaceleracion-pib-caeria-por-debajo-del-2-en-el-tercer-trimestre/</link>
-      <guid isPermaLink="false">lalupa-lectura-27</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El PIB de Colombia se desaceleraría a menos del 2% en el tercer trimestre de 2026, afectado por un peso apreciado, la racionalización del gasto público, tasas de interés altas y los efectos de un terremoto reciente. La combinación de estos factores configura un panorama de debilidad productiva para el país. Por que leerlo: Entender estos factores macro ayuda a anticipar el entorno de negocios e inversión en Colombia en los próximos meses. (Valora Analitik, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>FMI advierte que la IA podría impulsar el PIB global pero también generar riesgos financieros</title>
-      <link>https://www.bloomberglinea.com/latinoamerica/colombia/la-ia-puede-acelerar-el-pib-mundial-pero-tambien-desatar-turbulencias-financieras-dice-el-fmi/</link>
-      <guid isPermaLink="false">lalupa-lectura-28</guid>
-      <pubDate>Mon, 19 Oct 2026 03:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La directora del FMI, Kristalina Georgieva, afirmó que la inteligencia artificial podría sumar medio punto porcentual al crecimiento económico mundial cada año durante la próxima década. Advirtió, sin embargo, que también plantea riesgos para el empleo, la estabilidad financiera y la ciberseguridad. Por que leerlo: Ofrece una visión de alto nivel sobre cómo la IA transformará la economía global y los riesgos financieros que esto implica. (Bloomberg Linea, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El negocio circular detras del boom de la inteligencia artificial</title>
-      <link>https://phys.org/news/2026-10-paying-circular-money-machine-ai.html</link>
-      <guid isPermaLink="false">lalupa-lectura-7</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Grandes empresas de IA como proveedores de chips, plataformas en la nube y desarrolladores de modelos han creado un esquema donde una misma compania es a la vez proveedor, inversionista y cliente de otra. Esto hace que el mismo dinero aparezca varias veces en distintos balances, inflando artificialmente el tamano real del boom de la IA. Por que leerlo: Entender este esquema circular ayuda a detectar senales de burbuja antes de invertir o asociarse con empresas del sector IA. (Phys.org, 6 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>Logran revertir el blanqueamiento de coral en tiempo record en laboratorio</title>
-      <link>https://phys.org/news/2026-10-scientists-reverse-coral.html</link>
-      <guid isPermaLink="false">lalupa-lectura-8</guid>
-      <pubDate>Mon, 19 Oct 2026 02:44:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos observaron por primera vez corales blanqueados al borde de la muerte recuperarse por completo tras un breve contacto con clones sanos, logrando sanar en solo siete semanas, la recuperacion mas rapida documentada hasta ahora. El estudio fue publicado en Science Advances. Por que leerlo: Ofrece una posible solucion rapida y replicable para salvar arrecifes de coral amenazados por el calentamiento del oceano. (Phys.org, 4 min, interes 8/10)</description>
     </item>
   </channel>
 </rss>
