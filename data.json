@@ -221,6 +221,235 @@
   ],
   "casos": [
     {
+      "id": 2066,
+      "titulo": "Gobierno busca inversion de US$150 millones con Renault-Sofasa para nuevo vehiculo",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "El Gobierno colombiano y Renault-Sofasa, ensambladora de la marca francesa en el pais, buscan invertir 150 millones de dolares en la fabricacion de un nuevo modelo de vehiculo y ampliar las exportaciones automotrices, segun informaron fuentes oficiales.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/colombia-busca-una-inversion-de-150-millones-de-dolares-para-fabricar-un-nuevo-vehiculo/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Renault-Sofasa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2065,
+      "titulo": "Economía colombiana registra su peor crecimiento de 2026 en el tercer trimestre",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "El Banco de Bogotá proyecta que el tercer trimestre de 2026 sera el de peor desempeño economico del año para Colombia, atribuyendo parte del golpe al terremoto del 10 de agosto, aunque advierte que la debilidad economica es mas generalizada y no se explica solo por el sismo.",
+      "evidencia": "Reportado por Bloomberg Linea",
+      "fuentes": [
+        {
+          "nombre": "Bloomberg Linea",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/economia-colombiana-tendria-su-peor-crecimiento-de-2026-en-el-tercer-trimestre/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Banco de Bogota",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2064,
+      "titulo": "Gobierno radicará ley de financiamiento a inicios de noviembre",
+      "categoria": "economia",
+      "fecha": "2026-10-21",
+      "descripcion": "El gobierno anunció que radicará una ley de financiamiento a inicios de noviembre, según se conoció durante la discusión del orden del día de la comisión del Congreso que también programó sesiones para estudiar la adición presupuestal.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-radicara-ley-de-financiamiento-inicios-de-noviembre",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2063,
+      "titulo": "De la Espriella anuncia política de 'cero pesos' en tiquetes aéreos oficiales",
+      "categoria": "transparencia",
+      "fecha": "2026-10-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció una medida de austeridad que establece 'cero pesos' en el gasto de tiquetes aéreos para ciertos funcionarios, como parte de su política de reducción de gastos oficiales.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFdVbUd3cWRqeVE3dk04YjNrbjJKQlRSdy1nM0RsZHZBRHJ4aTRVUG5vUVF4YWMySzhYclNmcklJQ0VQV2lUWVBXS2RCT3Nja3NhbEk5Ql81OGtsTnhoemNyd3BXX0JjYVhvUUtfMDRaNXhQYjdnbjlrVU4zeGllMzg1WnU4cFBmYkpQdTM1OWZZZE96YXZYRy1PWHZQXzDSAaQBQVVfeXFMTnEwVjBBRDY2U3l2Vk9IbUlqTU1lV1lER1NfU3huZjFyVkpfXzlDbHFIczVyeFhQTmlERzNwaVozeWE0ZzlVU0RaYmtwcnFuYXBIWURKTnVuV19FSjkwdlE2TTRGdFhOQ3RjUlZ6S2k2LU8zeS02bHJIR3FXNThwNHpMTTdkaUNzaVZ0SkJ6bzRMRHFHN0NpbEJJYkNQMTREa0c2UnE?oc=5",
+          "fecha": "2026-10-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2062,
+      "titulo": "Chats de Sandra Ortiz confirmarían su rol en el saqueo de la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-21",
+      "descripcion": "Chats extraídos del teléfono de Sandra Ortiz, exfuncionaria de la UNGRD, confirmarían su participación en reuniones y en la coordinación del desvío de recursos de la entidad, según revelación exclusiva de Semana.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOXZCRjI4QlhFZEJRLXlILVhmS2N0SEJJRnE0ZnZqbVlXeDJCcW5LTl96MWRuaVpiN19LcGdHb3lsRHNlci1qQTg5ZHRZUW1VOUp4TXVkbW9yMU8xcENMckl6MDU5aHFGMmR1eUZxZ1lqOUNIWUd2Y2ZFOXVlVEdUZGpnZ21aUVNudDA3UFpYRGdTakU4NU5Ld3lka2tnVVF4d01fSFFXU2lHeFF1Ynh6U3RBaUUyNllMc3U5REQ3OHFiM3JNZVEtcVFsMlJGOTF0NVdObVNxcVVjSjE1TEJ3NGNCNnVSWlFXeVlvdFUwckN6SWZia09xMHRPQkhKZ3ppSTU1cFN3UlBFRElOa2FBRWptS1pVbG9K?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "UNGRD",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12"
+    },
+    {
+      "id": 2061,
+      "titulo": "Fracasa intento de excongresistas de frenar proceso por escándalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-21",
+      "descripcion": "Wadith Manzur y otros excongresistas intentaron frenar el proceso judicial que los vincula al escándalo de corrupción en la UNGRD, pero su intento fracasó y el proceso continúa ante la Corte Suprema de Justicia.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPem5oaGRhNm5VUTNxbVFBOHkxWEE5b3MydWNYdVJNVU1PYWlHaG5ScmVacUdLYzlNMHdUM1ZYdkFxYmNQVk44bFF3YmZFLXBQR2hkeDRJMHFmM2xuQXhVZzYyNGVOSmQzVGZIWG5OeTBMaW02bTVFcUlJY1AwaWd2OS13UVF3V2dmVk94eUp1VUQyX2FoVl9Cd2hJTlNWVVVuelV0UDQ1LVVfZFMxdXZVbTN3WWtKODRoWGFDTk9uR0NXZkNIbk5GQXNHejVFYVdX0gHeAUFVX3lxTE9HTTZnVWtNbXVTMjNwZFFYYnh6Rjh6RlBDN2Z4ZW5neDVLcDFvU1JVZENGR3g4aW9tQWdwcnlzcmdzNFRDbDdzdGVuNHRMVkIySFZGYy1CdTZkYTdhN0drZUkyZnBrU0g4R2xrSWJDOEVWbGlzYjVwTVVXTV9DVkN3d19ydnA5ZFpCQlJrMEFKeXQ4RW9hb1I3ZE92TFNzV3phamtzd1Q3Y0FVd0VjblM1aDhlMkFveWhJNm5vNjlOYW44NzhSTURBNHlDTGsyaWZvSEQyR3hNRmZTNWpEdw?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12"
+    },
+    {
+      "id": 2060,
+      "titulo": "Angie Rodríguez ratifica denuncias contra funcionarios del gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-21",
+      "descripcion": "La exdirectora del Dapre, Angie Rodríguez, declaró que no se retracta de ninguna de las denuncias ni declaraciones hechas contra funcionarios del anterior gobierno y pidió que se investiguen de manera inmediata los señalamientos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/angie-rodriguez-dice-que-no-se-retracta-de-ninguna-de-las-denuncias-ni-declaraciones-que-ha-hecho-solicito-que-investiguen-de-manera-inmediata-3595094",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez"
+      ],
+      "entidad": "Dapre",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12"
+    },
+    {
+      "id": 2059,
+      "titulo": "Caldas reduce deuda pensional y prepara recursos para la reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-10-21",
+      "descripcion": "La Secretaría de Hacienda de Caldas presentó ante la Asamblea Departamental un informe de gestión en el que destaca la reducción de obligaciones pensionales y el comportamiento de los ingresos públicos, como base para financiar las obras de reconstrucción necesarias tras el terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/caldas-reduce-su-deuda-pensional-y-prepara-recursos-para-la-reconstruccion/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Caldas / Asamblea Departamental de Caldas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 2058,
+      "titulo": "De la Espriella plantea reactivar fumigación de cultivos ilícitos",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "Tras la incautación de 7,6 toneladas de cocaína camufladas en panela en el puerto de Cartagena, el presidente Abelardo de la Espriella planteó la posibilidad de reactivar la fumigación aérea de cultivos ilícitos como estrategia de lucha antinarcóticos, en lo que constituye un giro de política frente al enfoque del gobierno anterior.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOREdsOVNPc3BySEYyUmNvQTZsY3ZJMTMwUUYxWlFkYUktQ0ROWlJ5YVVvOUF2aFZiTDQ5eUxRWmRkeHZQYzl5dU1YRm1NZWNfTlBwc3FsVUpDT2JScThlY0MyYmlTREFzdnNNd1FCUmxWVmdhb1dnZm5YZ3l3Z0JqS3l4QkNMN085RHpKc1otVnlTMklOZ08tWVNvNUpya01XMVF0NG9zM3pGS3pBM1dnWDNZUS1ibDFCRkpFcTM3NS1ja1RDY0NDblBSNVhYMUdrNUlyZC1HcW9SbnlTRDZwS0gtRFVGSFVWLXfSAYQCQVVfeXFMUEVSUXVlTjhSOGRYR190eXFWQnZLbXB4amRTVzhPZWZVMFA2UGVrZ1dkTG1RVEpyMW52NnZ2N3dDcklma0xJeGtpNUNYcjlVTWpVWl9fdWhYMlhobFpVanpZUW9JcjQtcWpzUUFnTTFUSDFycFJ4RnYzeU1PN0FjOGE5M3A1TU4xQUpSWWkyVWU2VVNFWVNMWW9NSk9tN2doNlpmaE1YS1VrR09uY0o0ZGlMeml5QjJKbE10bWt5WVc2T0YtQmZUdVZyV3FpMGNuX25LaU5kNDZDMmFocUZ1Zm1nRUZKemFnSE0xWXZZUzJyaHFGZzZ2S2VPU1QtN25QT29zdHA?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2057,
+      "titulo": "Gobierno pide $1,2 billones al Congreso para subsidios eléctricos",
+      "categoria": "economia",
+      "fecha": "2026-10-20",
+      "descripcion": "El Ministerio de Hacienda solicitó al Congreso $1,2 billones adicionales para financiar subsidios eléctricos, argumentando que la prioridad es evitar una interrupción del suministro de energía y prevenir un riesgo de apagón en el país.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-pide-1-2-billones-al-congreso-para-subsidios-electricos-ante-riesgo-de-apagon-en-colombia-504828",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-21 11:12",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2056,
       "titulo": "Se cae el Presupuesto General de la Nación 2027 por vicio de trámite",
       "categoria": "economia",
@@ -48015,7 +48244,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-21",
-    "total_casos": 1967,
+    "total_casos": 1977,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
