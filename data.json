@@ -221,6 +221,242 @@
   ],
   "casos": [
     {
+      "id": 2095,
+      "titulo": "Desarticulada red de narcotráfico Barranquilla-Nueva York con 26 capturas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "Una investigación de cinco años de la Fiscalía y la Policía Nacional permitió identificar y capturar a 26 personas presuntamente vinculadas a una red de narcotráfico que movía cargamentos de cocaína y dinero entre Barranquilla y Nueva York, con conexiones en Estados Unidos, Colombia y Puerto Rico.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-secretos-de-la-poderosa-red-de-narcotrafico-que-movia-cargamentos-de-coca-y-dinero-de-barranquilla-a-nueva-york-hubo-26-capturas-3595318",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2094,
+      "titulo": "Ley de Sometimiento de De la Espriella avanza en el Congreso",
+      "categoria": "seguridad",
+      "fecha": "2026-10-21",
+      "descripcion": "La Ley de Sometimiento impulsada por el Gobierno de Abelardo De la Espriella superó su primer debate en el Congreso, con aprobación de ponencia positiva y derrota de la ponencia de archivo presentada por el Pacto Histórico. El proyecto debe surtir su trámite antes del 4 de noviembre.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/ley-de-sometimiento-de-abelardo-de-la-espriella-supera-su-primer-reto-y-sobrevive-a-ponencia-de-archivo-del-pacto-historico-3595260",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2093,
+      "titulo": "Marco Fidel Acosta nombrado presidente del Fondo Nacional del Ahorro",
+      "categoria": "gabinete",
+      "fecha": "2026-10-22",
+      "descripcion": "El Gobierno Nacional oficializó el nombramiento de Marco Fidel Acosta, exconcejal de Bogotá y fundador del partido Colombia Justa Libres, como nuevo presidente del Fondo Nacional del Ahorro (FNA).",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-nombro-a-marco-fidel-acosta-como-nuevo-presidente-del-fondo-nacional-del-ahorro/",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Marco Fidel Acosta"
+      ],
+      "entidad": "Fondo Nacional del Ahorro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2092,
+      "titulo": "Colombia firma acuerdo de inversión petrolera por US$10.500 millones",
+      "categoria": "internacional",
+      "fecha": "2026-10-22",
+      "descripcion": "El Gobierno Nacional firmó un acuerdo con un destino internacional para facilitar inversiones petroleras por US$10.500 millones, abriendo nuevas oportunidades comerciales y empresariales para Colombia en el sector energético.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/colombia-firma-acuerdo-con-exotico-destino-que-alista-millonarias-inversiones-petroleras/",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2091,
+      "titulo": "Gobierno nombra nuevo superintendente de Servicios Públicos",
+      "categoria": "gabinete",
+      "fecha": "2026-10-21",
+      "descripcion": "El Gobierno de De la Espriella designó a José Ignacio García Puche como nuevo superintendente de Servicios Públicos Domiciliarios, cargo desde el cual deberá enfrentar retos energéticos y climáticos del país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-designa-a-jose-ignacio-garcia-como-nuevo-superintendente-de-servicios-publicos/",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ignacio García Puche"
+      ],
+      "entidad": "Superintendencia de Servicios Públicos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2090,
+      "titulo": "Andrés Duque sería nombrado embajador de Colombia en Australia",
+      "categoria": "gabinete",
+      "fecha": "2026-10-22",
+      "descripcion": "El Gobierno de Abelardo de la Espriella designaría a Andrés Duque, hermano menor del expresidente Iván Duque, como embajador de Colombia en Australia. Duque tiene formación en Derecho de la Universidad Sergio Arboleda y experiencia previa en el servicio exterior colombiano.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/andres-duque-seria-nombrado-embajador-de-colombia-en-australia-en-el-gobierno-de-de-la-espriella-4508258",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Duque"
+      ],
+      "entidad": "Presidencia de la República / Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2089,
+      "titulo": "Minvivienda brinda apoyo técnico a 11 municipios de Chocó para reconstrucción",
+      "categoria": "avances",
+      "fecha": "2026-10-21",
+      "descripcion": "El Ministerio de Vivienda brindó asesoría a autoridades y empresas de servicios públicos de 11 municipios del norte, centro y sur de Chocó en el marco de la reconstrucción tras el terremoto del 10 de agosto de 2026, como parte de los procesos de atención a entidades territoriales afectadas.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/regiones/reconstruccion-en-choco-minvivienda-brinda-apoyo-a-11-municipios-y-entidades-tras-el-sismo-504881",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 2088,
+      "titulo": "Terremoto deja más de 130.000 viviendas afectadas en el país",
+      "categoria": "damnificados",
+      "fecha": "2026-10-21",
+      "descripcion": "Según datos de Coordenada Urbana citados por Camacol, el terremoto del 10 de agosto de 2026 dejó 138.896 viviendas afectadas en Colombia, lo que se suma a una desaceleración del mercado de vivienda con caídas superiores al 25% en lanzamientos, ventas e iniciaciones de obra en agosto. El gremio advierte que el país deberá duplicar su capacidad de construcción para atender la reconstrucción.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/terremoto-viviendas-afectadas-colombia-reconstruccion-camacol-JF42562865",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Camacol / Coordenada Urbana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2087,
+      "titulo": "Alejandro Ordóñez reemplaza a Rodrigo Lara como ministro del Interior",
+      "categoria": "gabinete",
+      "fecha": "2026-10-22",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el 21 de octubre de 2026 la salida de Rodrigo Lara Restrepo del Ministerio del Interior, tras el hundimiento del proyecto de Presupuesto General de la Nación por un vicio de trámite. En su reemplazo asumirá el exprocurador Alejandro Ordóñez Maldonado, quien hasta el 16 de septiembre ejercía como jefe de la Misión Permanente de Colombia ante la OEA.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alejandro-ordonez-llega-ministerio-interior-estas-principales-polemicas-IL42583469",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara",
+        "Alejandro Ordóñez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2086,
+      "titulo": "Asesor de Petro admite haber pedido a Mancuso hablar en contra de De la Espriella",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-22",
+      "descripcion": "Víctor de Currea-Lugo, quien fue asesor del Dapre durante el gobierno Petro, reconoció públicamente que sí le pidió al excomandante paramilitar Salvatore Mancuso pronunciarse en contra del entonces candidato Abelardo De la Espriella, confirmando parte de las revelaciones del escándalo 'Pacto de Valledupar' sobre el uso de exparamilitares para incidir en la contienda electoral de 2026.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/victor-de-currea-lugo-ficha-clave-de-petro-en-el-gobierno-reconoce-que-si-le-pidio-a-mancuso-hablar-contra-abelardo-de-la-espriella/202635/",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Víctor de Currea-Lugo",
+        "Salvatore Mancuso"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre, gobierno Petro)",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 03:16"
+    },
+    {
       "id": 2085,
       "titulo": "Colombia retorna oficialmente al Grupo Egmont de inteligencia financiera",
       "categoria": "internacional",
@@ -48686,8 +48922,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-21",
-    "total_casos": 1996,
+    "ultima_actualizacion": "2026-10-22",
+    "total_casos": 2006,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
