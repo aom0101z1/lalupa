@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 113,
+      "titulo": "Nuevo algoritmo logra multiplicar numeros enteros en tiempo casi lineal",
+      "resumen": "El matematico David Harvey propuso un algoritmo que multiplica numeros enteros de n digitos en tiempo O(n log n), resolviendo un problema abierto en teoria de la complejidad computacional. El hallazgo, disponible como paper publico, mejora los limites teoricos conocidos para una de las operaciones mas basicas de la computacion.",
+      "por_que_leerlo": "Entender este avance te acerca a los limites teoricos que sostienen todo el software que usas a diario.",
+      "seccion": "tecnologia",
+      "tags": [
+        "algoritmos",
+        "matematicas",
+        "computacion",
+        "complejidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 9,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 114,
+      "titulo": "IA detecta senales de riesgo en un medicamento para adelgazar no aprobado, analizando Reddit",
+      "resumen": "Investigadores analizaron casi 150.000 publicaciones de Reddit sobre el uso no aprobado de retatrutida, un farmaco para perder peso, y con ayuda de IA encontraron reportes de efectos secundarios como aumento del apetito, insomnio y taquicardia que no coinciden con los resultados de los ensayos clinicos oficiales. El hallazgo demuestra que la inteligencia artificial puede detectar senales tempranas de seguridad farmaceutica a partir de datos de redes sociales, antes que los canales regulatorios tradicionales.",
+      "por_que_leerlo": "Muestra una aplicacion practica y novedosa de la IA para vigilancia de seguridad de medicamentos que podria anticiparse a los reguladores.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "farmacovigilancia",
+        "redes sociales",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 115,
+      "titulo": "Una roca que bajo 90 km bajo tierra revela una anomalia termica que desafia la geologia",
+      "resumen": "Cientificos hallaron en Papua Nueva Guinea una roca que habia descendido mas de 90 kilometros hacia el manto terrestre y mostraba un patron de temperatura inesperado, pasando de condiciones muy calientes a relativamente frias. El hallazgo podria obligar a revisar las teorias actuales sobre el movimiento de placas tectonicas, los terremotos y los volcanes.",
+      "por_que_leerlo": "Pone en duda modelos establecidos sobre el interior de la Tierra con evidencia fisica directa, algo poco comun en geologia.",
+      "seccion": "ciencia",
+      "tags": [
+        "geologia",
+        "placas tectonicas",
+        "manto terrestre",
+        "ciencia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-21",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 116,
+      "titulo": "DeepSeek habria recaudado US$15.000 millones pese a restricciones de EE.UU.",
+      "resumen": "DeepSeek, la startup china de IA, reportedamente recaudo US$15.000 millones, una de las rondas mas grandes en la historia de China, apenas dias despues de que EE.UU. ordenara a sus agencias federales retirar la tecnologia de la empresa por preocupaciones de seguridad nacional.",
+      "por_que_leerlo": "Muestra como el capital sigue fluyendo hacia la IA china pese a las tensiones geopoliticas, una senal clave para entender el mercado global de inteligencia artificial.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "ia",
+        "deepseek",
+        "financiamiento",
+        "china"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 117,
+      "titulo": "Que necesitan los fundadores para cerrar una Serie A hoy, segun inversionistas",
+      "resumen": "Inversionistas destacados explican que levantar una ronda Serie A se ha vuelto mas exigente, con mayor enfasis en ingresos reales, retencion de clientes y un camino claro a la rentabilidad antes de salir a buscar capital. El articulo recopila consejos practicos sobre lo que hoy esperan los fondos de un fundador en esta etapa.",
+      "por_que_leerlo": "Da pautas concretas y actuales para emprendedores que buscan cerrar su primera ronda institucional de inversion.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "emprendimiento",
+        "inversion",
+        "startups",
+        "series a"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 118,
+      "titulo": "Hackean 333 nodos de salida de Tor para interceptar trafico SSH y correos en texto plano",
+      "resumen": "Durante tres dias de octubre, atacantes comprometieron 333 nodos de salida de la red Tor con el objetivo de interceptar conexiones SSH y robar correos electronicos sin cifrar. El incidente expone cuan vulnerable puede ser el trafico que no usa cifrado de extremo a extremo incluso dentro de redes de anonimato.",
+      "por_que_leerlo": "Recuerda por que cifrar las conexiones, y no solo anonimizarlas, es esencial para proteger datos sensibles.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "tor",
+        "privacidad",
+        "hacking"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 119,
+      "titulo": "Helion desarrolla nuevos semiconductores para duplicar la potencia de sus plantas de fusion",
+      "resumen": "La startup de fusion nuclear Helion recibio 225 millones de dolares adicionales para desarrollar semiconductores que podrian duplicar la produccion electrica de sus futuras plantas. La compania tiene el compromiso de suministrar electricidad a Microsoft a partir de 2028.",
+      "por_que_leerlo": "Un avance tecnico concreto que acerca la energia de fusion a ser comercialmente viable, con un cliente real detras del proyecto.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fusion nuclear",
+        "energia",
+        "semiconductores",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 120,
+      "titulo": "Francia confirma la primera muerte humana por el virus Shamonda, antes solo visto en vacas",
+      "resumen": "Un paciente en Francia murio tras infectarse con el virus Shamonda, un patogeno que hasta ahora se consideraba exclusivamente veterinario y circulaba en ganado bovino. Es el primer caso confirmado de transmision y muerte en humanos, lo que encendio alertas sobre un posible cambio en el comportamiento del virus.",
+      "por_que_leerlo": "Es un ejemplo en tiempo real de como un virus animal puede saltar a humanos, clave para entender futuros brotes.",
+      "seccion": "ciencia",
+      "tags": [
+        "virus",
+        "zoonosis",
+        "salud publica",
+        "francia"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/medicina-y-salud/francia-registra-primera-muerte-humana-virus-shamonda-cambio-paradigma-completo"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 121,
+      "titulo": "Comunidades energéticas podrían bajar hasta 35% los costos de las empresas en Colombia",
+      "resumen": "En Colombia existen 14 comunidades energéticas registradas ante el operador XM, modelos colectivos donde empresas y hogares generan y comparten energía renovable. Según estos datos, su implementación podría reducir hasta un 35% los costos energéticos de las compañías participantes.",
+      "por_que_leerlo": "Si tienes un negocio, aquí hay una forma concreta de recortar costos de energía uniéndote a un modelo colectivo que ya opera en el país.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "pymes",
+        "colombia",
+        "costos"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/comunidades-energeticas-podrian-reducir-hasta-35-los-costos-de-las-empresas-4508678"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 122,
+      "titulo": "Banco de Bogotá y BID Invest financiarán pymes colombianas con hasta US$50 millones",
+      "resumen": "Banco de Bogotá y BID Invest firmaron un acuerdo de financiamiento por hasta US$50 millones destinado a micro, pequeñas y medianas empresas colombianas, con líneas que pueden extenderse hasta US$20 millones por operación. El objetivo es ampliar el acceso a crédito para este segmento empresarial.",
+      "por_que_leerlo": "Si tienes o planeas una pyme en Colombia, esta es una fuente concreta de financiamiento que podrías explorar.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "pymes",
+        "financiamiento",
+        "colombia",
+        "banca"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/banco-de-bogota-y-bid-invest-anuncian-financiamiento-por-us-50-millones-para-empresas-4508520"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 2,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 123,
+      "titulo": "YPF alcanza 248.000 barriles diarios y apunta a 2 millones en Vaca Muerta",
+      "resumen": "YPF quedó a solo 2.000 barriles diarios de cumplir su meta de diciembre en la formación no convencional argentina. Su CEO, Marín, proyecta escalar la producción hasta dos millones de barriles diarios, lo que exigirá fuertes inversiones en infraestructura de transporte.",
+      "por_que_leerlo": "Muestra con cifras concretas cómo Argentina escala su mayor apuesta energética y qué inversión en infraestructura requiere ese crecimiento.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "petroleo",
+        "argentina",
+        "vaca muerta"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/economia/ypf-ya-produce-248000-barriles-diarios-y-marin-apuesta-a-que-vaca-muerta-llegue-a-dos-millones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
+      "id": 124,
+      "titulo": "Un nuevo microscopio con laser ultrapotente revela estructuras celulares antes invisibles",
+      "resumen": "Investigadores desarrollaron un microscopio que usa un laser de alta potencia para obtener imagenes con una claridad sin precedentes de estructuras celulares, incluyendo proteinas pequenas que los microscopios electronicos convencionales no logran capturar. La tecnologia podria permitir observar como interactuan las maquinas moleculares dentro de las celulas, abriendo nuevas vias para la investigacion biomedica.",
+      "por_que_leerlo": "Ofrece una ventana a una nueva generacion de herramientas cientificas que podrian acelerar descubrimientos en biologia y medicina.",
+      "seccion": "tecnologia",
+      "tags": [
+        "microscopia",
+        "biotecnologia",
+        "instrumentacion cientifica",
+        "biologia celular"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-22 15:52",
+      "auto_generated": true
+    },
+    {
       "id": 101,
       "titulo": "Las grandes fortunas de negocios privados, un motor oculto de la desigualdad en EE.UU.",
       "resumen": "Los economistas Eric Zwick y Owen Zidar argumentan que los duenos de negocios privados no cotizados en bolsa, mucho mas numerosos que los multimillonarios conocidos, representan una fuente de riqueza mayor y menos visible en la desigualdad estadounidense. Su investigacion desplaza el foco del debate publico, centrado en figuras como Musk o Bezos, hacia este grupo mucho mas amplio.",

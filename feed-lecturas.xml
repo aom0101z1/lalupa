@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:15:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:52:23 -0000</lastBuildDate>
+    <item>
+      <title>Nuevo algoritmo logra multiplicar numeros enteros en tiempo casi lineal</title>
+      <link>https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</link>
+      <guid isPermaLink="false">lalupa-lectura-113</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El matematico David Harvey propuso un algoritmo que multiplica numeros enteros de n digitos en tiempo O(n log n), resolviendo un problema abierto en teoria de la complejidad computacional. El hallazgo, disponible como paper publico, mejora los limites teoricos conocidos para una de las operaciones mas basicas de la computacion. Por que leerlo: Entender este avance te acerca a los limites teoricos que sostienen todo el software que usas a diario. (Hacker News, 8 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>IA detecta senales de riesgo en un medicamento para adelgazar no aprobado, analizando Reddit</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020085018.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-114</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores analizaron casi 150.000 publicaciones de Reddit sobre el uso no aprobado de retatrutida, un farmaco para perder peso, y con ayuda de IA encontraron reportes de efectos secundarios como aumento del apetito, insomnio y taquicardia que no coinciden con los resultados de los ensayos clinicos oficiales. El hallazgo demuestra que la inteligencia artificial puede detectar senales tempranas de seguridad farmaceutica a partir de datos de redes sociales, antes que los canales regulatorios tradicionales. Por que leerlo: Muestra una aplicacion practica y novedosa de la IA para vigilancia de seguridad de medicamentos que podria anticiparse a los reguladores. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una roca que bajo 90 km bajo tierra revela una anomalia termica que desafia la geologia</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020084816.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-115</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Cientificos hallaron en Papua Nueva Guinea una roca que habia descendido mas de 90 kilometros hacia el manto terrestre y mostraba un patron de temperatura inesperado, pasando de condiciones muy calientes a relativamente frias. El hallazgo podria obligar a revisar las teorias actuales sobre el movimiento de placas tectonicas, los terremotos y los volcanes. Por que leerlo: Pone en duda modelos establecidos sobre el interior de la Tierra con evidencia fisica directa, algo poco comun en geologia. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>DeepSeek habria recaudado US$15.000 millones pese a restricciones de EE.UU.</title>
+      <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
+      <guid isPermaLink="false">lalupa-lectura-116</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>DeepSeek, la startup china de IA, reportedamente recaudo US$15.000 millones, una de las rondas mas grandes en la historia de China, apenas dias despues de que EE.UU. ordenara a sus agencias federales retirar la tecnologia de la empresa por preocupaciones de seguridad nacional. Por que leerlo: Muestra como el capital sigue fluyendo hacia la IA china pese a las tensiones geopoliticas, una senal clave para entender el mercado global de inteligencia artificial. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Que necesitan los fundadores para cerrar una Serie A hoy, segun inversionistas</title>
+      <link>https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/</link>
+      <guid isPermaLink="false">lalupa-lectura-117</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Inversionistas destacados explican que levantar una ronda Serie A se ha vuelto mas exigente, con mayor enfasis en ingresos reales, retencion de clientes y un camino claro a la rentabilidad antes de salir a buscar capital. El articulo recopila consejos practicos sobre lo que hoy esperan los fondos de un fundador en esta etapa. Por que leerlo: Da pautas concretas y actuales para emprendedores que buscan cerrar su primera ronda institucional de inversion. (TechCrunch, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Hackean 333 nodos de salida de Tor para interceptar trafico SSH y correos en texto plano</title>
+      <link>https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/</link>
+      <guid isPermaLink="false">lalupa-lectura-118</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Durante tres dias de octubre, atacantes comprometieron 333 nodos de salida de la red Tor con el objetivo de interceptar conexiones SSH y robar correos electronicos sin cifrar. El incidente expone cuan vulnerable puede ser el trafico que no usa cifrado de extremo a extremo incluso dentro de redes de anonimato. Por que leerlo: Recuerda por que cifrar las conexiones, y no solo anonimizarlas, es esencial para proteger datos sensibles. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Helion desarrolla nuevos semiconductores para duplicar la potencia de sus plantas de fusion</title>
+      <link>https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/</link>
+      <guid isPermaLink="false">lalupa-lectura-119</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La startup de fusion nuclear Helion recibio 225 millones de dolares adicionales para desarrollar semiconductores que podrian duplicar la produccion electrica de sus futuras plantas. La compania tiene el compromiso de suministrar electricidad a Microsoft a partir de 2028. Por que leerlo: Un avance tecnico concreto que acerca la energia de fusion a ser comercialmente viable, con un cliente real detras del proyecto. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Francia confirma la primera muerte humana por el virus Shamonda, antes solo visto en vacas</title>
+      <link>https://www.xataka.com/medicina-y-salud/francia-registra-primera-muerte-humana-virus-shamonda-cambio-paradigma-completo</link>
+      <guid isPermaLink="false">lalupa-lectura-120</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un paciente en Francia murio tras infectarse con el virus Shamonda, un patogeno que hasta ahora se consideraba exclusivamente veterinario y circulaba en ganado bovino. Es el primer caso confirmado de transmision y muerte en humanos, lo que encendio alertas sobre un posible cambio en el comportamiento del virus. Por que leerlo: Es un ejemplo en tiempo real de como un virus animal puede saltar a humanos, clave para entender futuros brotes. (Xataka, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Comunidades energéticas podrían bajar hasta 35% los costos de las empresas en Colombia</title>
+      <link>https://www.larepublica.co/economia/comunidades-energeticas-podrian-reducir-hasta-35-los-costos-de-las-empresas-4508678</link>
+      <guid isPermaLink="false">lalupa-lectura-121</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>En Colombia existen 14 comunidades energéticas registradas ante el operador XM, modelos colectivos donde empresas y hogares generan y comparten energía renovable. Según estos datos, su implementación podría reducir hasta un 35% los costos energéticos de las compañías participantes. Por que leerlo: Si tienes un negocio, aquí hay una forma concreta de recortar costos de energía uniéndote a un modelo colectivo que ya opera en el país. (La Republica, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Banco de Bogotá y BID Invest financiarán pymes colombianas con hasta US$50 millones</title>
+      <link>https://www.larepublica.co/finanzas/banco-de-bogota-y-bid-invest-anuncian-financiamiento-por-us-50-millones-para-empresas-4508520</link>
+      <guid isPermaLink="false">lalupa-lectura-122</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Banco de Bogotá y BID Invest firmaron un acuerdo de financiamiento por hasta US$50 millones destinado a micro, pequeñas y medianas empresas colombianas, con líneas que pueden extenderse hasta US$20 millones por operación. El objetivo es ampliar el acceso a crédito para este segmento empresarial. Por que leerlo: Si tienes o planeas una pyme en Colombia, esta es una fuente concreta de financiamiento que podrías explorar. (La Republica, 2 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>YPF alcanza 248.000 barriles diarios y apunta a 2 millones en Vaca Muerta</title>
+      <link>https://www.bloomberglinea.com/economia/ypf-ya-produce-248000-barriles-diarios-y-marin-apuesta-a-que-vaca-muerta-llegue-a-dos-millones/</link>
+      <guid isPermaLink="false">lalupa-lectura-123</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>YPF quedó a solo 2.000 barriles diarios de cumplir su meta de diciembre en la formación no convencional argentina. Su CEO, Marín, proyecta escalar la producción hasta dos millones de barriles diarios, lo que exigirá fuertes inversiones en infraestructura de transporte. Por que leerlo: Muestra con cifras concretas cómo Argentina escala su mayor apuesta energética y qué inversión en infraestructura requiere ese crecimiento. (Bloomberg Linea, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un nuevo microscopio con laser ultrapotente revela estructuras celulares antes invisibles</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261021231230.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-124</guid>
+      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores desarrollaron un microscopio que usa un laser de alta potencia para obtener imagenes con una claridad sin precedentes de estructuras celulares, incluyendo proteinas pequenas que los microscopios electronicos convencionales no logran capturar. La tecnologia podria permitir observar como interactuan las maquinas moleculares dentro de las celulas, abriendo nuevas vias para la investigacion biomedica. Por que leerlo: Ofrece una ventana a una nueva generacion de herramientas cientificas que podrian acelerar descubrimientos en biologia y medicina. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Las grandes fortunas de negocios privados, un motor oculto de la desigualdad en EE.UU.</title>
       <link>https://phys.org/news/2026-10-private-business-fortunes-reveal-overlooked.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Tue, 20 Oct 2026 15:37:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>Google puso en pausa proyectos de centros de datos por miles de millones de euros en España mientras espera un decreto del gobierno con reglas más estrictas para el sector. El sur de Europa, a diferencia de países como Finlandia, sigue con pocas inversiones de este tipo pese a su potencial. Por que leerlo: Es un ejemplo concreto de cómo la incertidumbre regulatoria puede frenar inversiones multimillonarias, una lección clave para entender el apetito inversor en tecnología. (Xataka, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Detectan dos fuentes de magma bajo el volcán Masaya en Nicaragua, cerca de 2 millones de personas</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261018205039.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-53</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Observaciones satelitales revelaron movimientos inusuales del terreno bajo el volcán Masaya, atribuidos a dos fuentes de magma ocultas que se desplazan en profundidad. El hallazgo podría mejorar los modelos de pronóstico de erupciones de este volcán activo, que atrae turistas por su lago de lava y está cerca de áreas densamente pobladas. Por que leerlo: Da evidencia concreta sobre un riesgo geológico real en Centroamérica que podría anticipar futuras erupciones. (ScienceDaily, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Las alternativas a la experimentacion animal empiezan a despegar</title>
-      <link>https://spectrum.ieee.org/alternatives-to-animal-testing</link>
-      <guid isPermaLink="false">lalupa-lectura-54</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Tecnologias como los organos en chip y los modelos computacionales avanzados estan ganando terreno como sustitutos de la experimentacion con animales en el desarrollo de farmacos y pruebas toxicologicas. El reportaje de IEEE Spectrum describe como estas herramientas, antes marginales, comienzan a ser adoptadas por laboratorios y reguladores. Por que leerlo: Entiende hacia donde se mueve la investigacion biomedica y que tecnologias podrian reemplazar un metodo cientifico centenario. (Hacker News, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Una startup prueba un volcan submarino como fuente de energia geotermica</title>
-      <link>https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/</link>
-      <guid isPermaLink="false">lalupa-lectura-55</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Una empresa realizo una prueba de concepto usando el calor de un volcan submarino como fuente de energia geotermica, buscando una alternativa viable para naciones de la cuenca del Pacifico que hoy dependen de importar petroleo. El proyecto se presenta como un 'proof point' para validar la tecnologia antes de escalarla. Por que leerlo: Muestra una via poco explorada de energia limpia que podria reducir la dependencia energetica de paises insulares. (Ars Technica, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>China impone controles de exportación a 40 tecnologías clave mientras impulsa su IA global</title>
-      <link>https://www.xataka.com/robotica-e-ia/china-quiere-que-su-ia-conquiste-mundo-no-que-toda-su-tecnologia-salga-pais-controles-para-40-tecnologias-clave</link>
-      <guid isPermaLink="false">lalupa-lectura-56</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Pekín ha ampliado sus mecanismos de control a la salida de 40 tecnologías sensibles de su territorio, replicando la lógica de las restricciones que EE.UU. aplica a los chips avanzados. La medida busca que China lidere la IA mundial sin perder el control sobre su propiedad tecnológica estratégica. Por que leerlo: Entender estos controles ayuda a anticipar cómo cambiará el acceso global a tecnología china de IA y chips en los próximos años. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El mercado de ciberseguridad cae 26% en EE.UU., pero la seguridad en IA crece 268%</title>
-      <link>https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268</link>
-      <guid isPermaLink="false">lalupa-lectura-57</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Mientras el mercado general de ciberseguridad se contrajo 26% en Estados Unidos, la especialidad enfocada en proteger sistemas de inteligencia artificial creció 268%, reflejando un desplazamiento de la demanda laboral hacia la protección de datos y modelos de IA. El dato evidencia cómo la adopción de IA está redefiniendo qué perfiles de seguridad son más valorados. Por que leerlo: Revela hacia dónde se mueve la demanda laboral en seguridad informática si estás pensando en reentrenarte o contratar talento. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Gemini 4 de Google logra completar Minecraft sin ayuda humana</title>
-      <link>https://hipertextual.com/inteligencia-artificial/gemini-4-argon-vence-minecraft-sin-ayuda-humana/</link>
-      <guid isPermaLink="false">lalupa-lectura-58</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Google demostró las capacidades de su modelo Gemini 4 haciendo que jugara y terminara Minecraft de forma completamente autónoma, sin intervención humana. El hito sigue la estela de AlphaStar, que en su momento venció a jugadores profesionales de StarCraft II, y muestra avances en la capacidad de los agentes de IA para planificar y ejecutar tareas complejas de largo plazo. Por que leerlo: Es un indicador concreto de hasta dónde llega la autonomía real de los agentes de IA actuales en tareas complejas de planificación. (Hipertextual, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Startup australiana usa nanotecnología para observar proteínas vivas y acelerar fármacos contra Alzheimer y Parkinson</title>
-      <link>https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html</link>
-      <guid isPermaLink="false">lalupa-lectura-59</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>La Universidad de Queensland desarrolló NASTIC, una plataforma que permite observar en tiempo real cómo se comportan dentro de neuronas vivas las proteínas asociadas a enfermedades neurodegenerativas. La tecnología se transfirió a la startup de Brisbane Accretion Bio, que la usará para acelerar el descubrimiento temprano de fármacos contra Alzheimer y Parkinson. Por que leerlo: Muestra cómo una tecnología de laboratorio se convierte en startup biotecnológica con aplicación comercial directa en el desarrollo de medicamentos. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Urano y Neptuno, los planetas 'gemelos', tendrían orígenes distintos según su composición química</title>
-      <link>https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html</link>
-      <guid isPermaLink="false">lalupa-lectura-60</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo internacional midió la atmósfera profunda de Urano y Neptuno y halló que Neptuno tiene mayor concentración de oxígeno que Urano. El hallazgo sugiere que ambos gigantes helados se formaron en regiones distintas del sistema solar primitivo antes de llegar a sus órbitas actuales. Por que leerlo: Replantea con evidencia observacional directa una idea aceptada sobre la formación de los planetas gigantes helados. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Las baterias reducen emisiones, pero producirlas tambien contamina</title>
-      <link>https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/</link>
-      <guid isPermaLink="false">lalupa-lectura-61</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Aunque las baterias son clave para reducir emisiones al reemplazar combustibles fosiles, su fabricacion tiene una huella de carbono propia. El articulo plantea que una de las formas mas efectivas de reducir ese impacto es simplemente fabricar menos baterias, optimizando su uso y durabilidad en lugar de solo escalar produccion. Por que leerlo: Ofrece una mirada critica y poco comun sobre el verdadero costo ambiental de la transicion energetica basada en baterias. (Ars Technica, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Tenstorrent alcanza valoracion de 6.200 millones de dolares desafiando a Nvidia</title>
-      <link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</link>
-      <guid isPermaLink="false">lalupa-lectura-62</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El fabricante de chips de IA de codigo abierto Tenstorrent levanto 1.500 millones de dolares para mantenerse independiente, despues de recibir ofertas de adquisicion a principios de ano. La ronda eleva su valoracion a 6.200 millones de dolares, consolidandolo como uno de los retadores mas serios de Nvidia en el mercado de semiconductores para IA. Por que leerlo: Es un caso de estudio sobre como un startup de hardware puede levantar capital masivo y resistir adquisiciones para competir con un gigante establecido. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El fondo Inmoval vendió activos por más de $329.000 millones en Colombia durante 2026</title>
-      <link>https://www.larepublica.co/finanzas/el-fondo-de-inversion-inmoval-vendio-activos-por-mas-de-329-000-millones-durante-2026-4506443</link>
-      <guid isPermaLink="false">lalupa-lectura-63</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El fondo de inversión inmobiliaria Inmoval vendió activos por más de $329.000 millones de pesos en 2026, incluyendo una participación en Rivana Business Park en Medellín por más de $207.000 millones. Los recursos se destinarán principalmente a reducir las obligaciones financieras del fondo. Por que leerlo: Muestra cómo un fondo inmobiliario colombiano está reestructurando su deuda mediante ventas de activos, una señal útil para quienes siguen el mercado de inversión local. (La Republica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Propuesta de alza del salario mínimo en 38,5% para 2027 encendería la inflación en Colombia</title>
-      <link>https://www.valoraanalitik.com/aumento-del-salario-minimo-de-385-para-2027-esta-es-la-advertencia-sobre-el-impacto-para-la-economia-en-colombia/</link>
-      <guid isPermaLink="false">lalupa-lectura-64</guid>
-      <pubDate>Tue, 20 Oct 2026 01:35:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Analistas advierten que un aumento del salario mínimo de 38,5% para 2027 podría presionar la inflación, encarecer la formalización laboral y elevar los costos operativos de las empresas. El debate se da en medio de la discusión del Presupuesto General de la Nación. Por que leerlo: Entender el impacto de esta medida en los costos de contratación y precios ayuda a planear mejor las finanzas de un negocio. (Valora Analitik, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
