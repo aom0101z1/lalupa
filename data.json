@@ -221,6 +221,268 @@
   ],
   "casos": [
     {
+      "id": 2126,
+      "titulo": "Policía incauta más de 4.200 aletas de tiburón en Tumaco",
+      "categoria": "seguridad",
+      "fecha": "2026-10-22",
+      "descripcion": "La Policía Nacional incautó más de 4.200 aletas de tiburón en Tumaco que iban a ser comercializadas en mercados asiáticos, un cargamento valorado en cerca de $614 millones, resultado de la muerte estimada de más de 1.000 tiburones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-mas-de-4-200-aletas-de-tiburon-en-tumaco-iban-a-ser-comercializadas-en-mercados-asiaticos-3595507",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2125,
+      "titulo": "Gobierno reactiva peaje de Palmas y revisa financiación vial en Oriente antioqueño",
+      "categoria": "obras",
+      "fecha": "2026-10-22",
+      "descripcion": "El Gobierno Nacional, a través de Invías, planea reactivar el cobro del peaje de Palmas y evalúa dos alternativas de financiación para obras viales en el Oriente antioqueño.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-reactivara-cobro-de-peaje-de-palmas-y-revisa-financiacion-de-obras-viales-en-el-oriente-antioqueno/",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Invías / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2124,
+      "titulo": "MinComercio propone arancel del 83% a llantas chinas",
+      "categoria": "economia",
+      "fecha": "2026-10-22",
+      "descripcion": "La Subdirección de Prácticas Comerciales del Ministerio de Comercio, Industria y Turismo emitió un informe técnico que sugiere aplicar un gravamen del 83% a las importaciones de llantas radiales para camión y autobús provenientes de China, como medida de protección a la industria nacional.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/mincomercio-sugiere-arancel-del-83-importacion-de-llantas-chinas",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Comercio, Industria y Turismo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2123,
+      "titulo": "MinTrabajo levanta intervención de 11 cajas de compensación familiar",
+      "categoria": "economia",
+      "fecha": "2026-10-22",
+      "descripcion": "La ministra del Trabajo, Natalia López Fuentes, anunció en Cartagena un plan técnico para suspender la intervención estatal sobre 11 cajas de compensación familiar del país, devolviéndoles su autonomía administrativa.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/mintrabajo-levantara-la-intervencion-de-11-cajas-de-compensacion",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Natalia López Fuentes"
+      ],
+      "entidad": "Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2122,
+      "titulo": "Revelan intento de Petro de comprar a jefes paramilitares para desprestigiar rivales electorales",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-21",
+      "descripcion": "Una investigación publicada por El Mundo revela conversaciones en las que Gustavo Petro habría buscado comprar el apoyo de jefes paramilitares para desprestigiar a rivales electorales, citando frases como 'se necesita un golpe de opinión muy grande... si no, vamos a perder'. La revelación se suma a denuncias previas sobre instrumentalización de exparamilitares como Salvatore Mancuso en contra de opositores políticos durante el gobierno Petro.",
+      "evidencia": "Reportado por El Mundo",
+      "fuentes": [
+        {
+          "nombre": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/10/21/6ad8ed41e85ece1b618b45b4.html",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14"
+    },
+    {
+      "id": 2121,
+      "titulo": "EE.UU. revoca visas a Manzur, Manrique y Bitar en medio del juicio UNGRD",
+      "categoria": "sanciones",
+      "fecha": "2026-10-22",
+      "descripcion": "Mientras la Corte Suprema de Justicia adelanta el juicio por el escándalo de corrupción en la UNGRD, el Departamento de Estado de Estados Unidos revocó las visas de los exfuncionarios y excongresistas Wadith Manzur, Manrique y Bitar, vinculados al caso de sobornos a congresistas para la aprobación de reformas durante el gobierno Petro.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3B0TG4xWUpMNHAtazRtczB5RnFYZEJnREZtNUlzVWVDbERjNEVGTmhLWTMzR2lQVFZVTmkzZ08zSDNXR2czbEZtODAyQjdoem8yTWI2cEI4VTl6SFlaQlRMMEpXc3NsOGVqTWpyWjRsX1ZDT295VE95R0ZVOWZMR211clBIZHVucjRaMFhEc2hJV3M5TEFiZFpucDVzcmd3?oc=5",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur",
+        "Manrique",
+        "Bitar"
+      ],
+      "entidad": "Departamento de Estado de Estados Unidos / Corte Suprema de Justicia",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14"
+    },
+    {
+      "id": 2120,
+      "titulo": "Familia Vargas Lleras denuncia a Petro por 'pacto de Valledupar' ante EE.UU.",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-21",
+      "descripcion": "Enrique Vargas Lleras, codirector de Cambio Radical, anunció que presentará una denuncia contra el expresidente Gustavo Petro ante la Comisión de Acusación de la Cámara por presuntos delitos de soborno de testigos y concierto para delinquir en el 'pacto de Valledupar', y pidió a Estados Unidos investigar el caso. Sostiene que esto ocurrió mientras su hermano Germán Vargas Lleras estaba en UCI en Bogotá.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/familia-vargas-lleras-denunciara-petro-por-pacto-valledupar-y-pide-investigacion-OA42538305",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Enrique Vargas Lleras",
+        "Germán Vargas Lleras"
+      ],
+      "entidad": "Comisión de Acusación de la Cámara de Representantes / Cambio Radical",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14"
+    },
+    {
+      "id": 2119,
+      "titulo": "Gobierno endurece control del manejo de escombros y residuos del terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-22",
+      "descripcion": "El Ministerio de Ambiente y Desarrollo Sostenible anunció medidas más estrictas para controlar el manejo de residuos y escombros generados por el terremoto del 10 de agosto en las zonas afectadas, buscando garantizar una disposición adecuada y prevenir irregularidades en la gestión de estos materiales.",
+      "evidencia": "Reportado por Ministerio de Ambiente y Desarrollo Sostenible",
+      "fuentes": [
+        {
+          "nombre": "Ministerio de Ambiente y Desarrollo Sostenible",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWnZqT1UzQWdkRUtjcnFQaTVDUmZuWkxUQ0VndE9XYnhIeHhNekpfdDJBcFBncWN5NkItU0IteF9HT0d1TU14OFE2ODJVTnlOanlzSWRBc2xHbXVCenVpbG9DcGNNY01FcmNwQzZmUWV6SGpMUWZYbmlQa1lUZXZZNURaeUJRMGFCUzY4SDBNQVhTaGhmQllIN3UtN0x5anduUGVKYzhLTks5X1o5OUlv?oc=5",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2118,
+      "titulo": "Petro denuncia ante la Fiscalía a Angie Rodríguez por el Pacto de Valledupar",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-21",
+      "descripcion": "Gustavo Petro presentó una denuncia ante la Fiscalía General de la Nación contra Angie Rodríguez, extendiendo el escándalo del 'Pacto de Valledupar', tras señalamientos sobre presuntas presiones ejercidas a exparamilitares en el marco de dicho caso.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZW1DamVseUsxUUxaSDhSMlE4ZjdtWXNMZWNuaVhzMVJkU0NEM3pXcFJhYmZBN3NTMi1PQ3p5aFktY0Q0bTJ5LXNrOWF0b080U0cyaUNOZ2FOX040OG9kRXJPMl9LTWJ2eml6ZEktZm5lYUhkYjdBVVRFWkJrRGtGRFBBUDV0YXB3aUtZaXhDQ1ZGS1dmcEs5UFhiNU8tTGNleWNRTHJPTU5SbzlCRXZEQ1ctOTRYbW9JU2ZXcHpNaFAzX09oMElz0gHMAUFVX3lxTE53NVFWZmNYeEJOc2tEcFVoMVAtenZrVF9SNGFicHpzcm9XdXQ1cGNLUGdwbVk2UWFfS2dDQ1BTTEdQTDVtcTV5VW5RNjBxekJtV2ZPQUdlZmt6YTdyWFZvdGgwcUZPVG1MN1VnTnBJQmZDczJuMURmcGxpaHF2cGtvS2NIZDhMc3BuNm85TkYxbWZXaXBJdzNQam5Rd1hibFNyLU5yN1VVU0JUeGdobkwtSHgtNmxZdmtCUTAwY1dybWFGSG1pNENuT1Y3aw?oc=5",
+          "fecha": "2026-10-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14"
+    },
+    {
+      "id": 2117,
+      "titulo": "EE.UU. revoca visas a Ricardo Roa, Yahir Acuña y otros vinculados a casos de corrupción",
+      "categoria": "sanciones",
+      "fecha": "2026-10-22",
+      "descripcion": "El Departamento de Estado de Estados Unidos canceló las visas de Ricardo Roa, expresidente de Ecopetrol, del alcalde de Sincelejo Yahir Acuña, de Wadith Manzur y de otras personas vinculadas al escándalo UNGRD, señalando que 'socavan los gobiernos del hemisferio' mediante corrupción o narcotráfico. Las restricciones se extienden a familiares de los sancionados.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/ee-uu-quito-visas-a-ricardo-roa-yahir-acuna-y-vinculados-a-ungrd/",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Yahir Acuña",
+        "Wadith Manzur"
+      ],
+      "entidad": "Departamento de Estado de Estados Unidos",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14"
+    },
+    {
+      "id": 2116,
+      "titulo": "Inicio de reconstrucción de colegios en Pereira con $4.000 millones iniciales",
+      "categoria": "avances",
+      "fecha": "2026-10-22",
+      "descripcion": "El gobierno nacional reportó el inicio de la reconstrucción de instituciones educativas en Pereira, Risaralda, con una inversión inicial de $4.000 millones. El sismo del 10 de agosto dejó 167 sedes educativas afectadas en la capital risaraldense, de las cuales 95 están en riesgo de colapso estructural.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-arranco-reconstruccion-de-colegios-en-risaralda-con-4-000-millones-iniciales-4508904",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-22 21:14",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
       "id": 2115,
       "titulo": "ANI y MinEducación destinan $887.000 millones para 13 colegios en Soacha y Cali bajo modelo APP",
       "categoria": "obras",
@@ -49383,7 +49645,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-22",
-    "total_casos": 2026,
+    "total_casos": 2037,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
