@@ -221,6 +221,938 @@
   ],
   "casos": [
     {
+      "id": 2165,
+      "titulo": "Terremoto afecta $2,25 billones en microcréditos y a más de 183.000 clientes",
+      "categoria": "damnificados",
+      "fecha": "2026-10-23",
+      "descripcion": "Según Asomicrofinanzas, el terremoto de agosto de 2026 dejó $2,25 billones en microcréditos afectados, impactando a 183.254 clientes en el país. El 71,2% de los afectados pertenece a los estratos 1 y 2, y el 52,4% trabaja en el sector agropecuario, evidenciando el golpe económico de la emergencia sobre la población más vulnerable.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/terremoto-microcreditos-afectados-colombia/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Asomicrofinanzas",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2164,
+      "titulo": "Gobierno anuncia siete compromisos para convertir a Urabá en hub logístico y portuario",
+      "categoria": "obras",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno Nacional presentó siete compromisos para impulsar a la región de Urabá como centro logístico y portuario, destacando la culminación del Túnel del Toyo y su integración con la Autopista al Mar, como parte de la agenda de infraestructura del gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-anuncia-siete-compromisos-para-impulsar-a-uraba-como-hub-logistico-y-portuario/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2163,
+      "titulo": "Ministra de Minas deroga resoluciones que delimitaban los Distritos Mineros",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "La Ministra de Minas y Energía derogó las resoluciones que delimitaban los Distritos Mineros, argumentando que no se encontraron resultados verificables de su implementación, en el marco de los primeros meses del gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ministra-de-minas-derogo-las-resoluciones-que-delimitaban-los-distritos-mineros-4509579",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2162,
+      "titulo": "Grupo Argos busca constructoras para programa 'Adopta un Hogar' con 1.000 viviendas para damnificados",
+      "categoria": "contratacion",
+      "fecha": "2026-10-23",
+      "descripcion": "Grupo Argos, a través de su presidente Juan Esteban Calle, invitó a empresas constructoras a sumarse al programa 'Adopta un Hogar', impulsado junto con el artista Nicky Jam, para aportar mano de obra, equipos y conocimiento técnico en la construcción de 1.000 viviendas destinadas a familias damnificadas por el terremoto de agosto de 2026.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/grupo-argos-busca-constructoras-para-entregar-1-000-viviendas-a-familias-damnificadas-4509692",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Esteban Calle",
+        "Nicky Jam"
+      ],
+      "entidad": "Grupo Argos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2161,
+      "titulo": "Sandra Ortiz denuncia falta de garantías en juicio por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "Sandra Ortiz, implicada en el escándalo de corrupción de la UNGRD, afirmó ante la Corte Suprema de Justicia que no tiene garantías para su juicio, expresando desconfianza hacia el proceso judicial en curso.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUHVIYVlWZ2t4bng3QXhNd2k3QWxwYUYtYUZkYmFDUGRQT3JuVVBuMWRISGVNWHVJcTNVN2RhZy1Cb2ZmcHRmNWZNWFVLTDlPT2tKbDlMSml2b0VjMEItdkE3OHdEalJ2dVR4cjhCTlc4YjhJa1h0djRoTkNDU2dEUWItb0JNUjU5WEJhcUlmb0x3ZnFYaWY4NWtiTlBsWmJhdTZmM2h2VzJaNExNYkF5RV9nMWUtZlFvLWNuYmV0RllDWjJLbVAtdE8wS01RWHBXX2kya25MMlhCRGVQVnc?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2160,
+      "titulo": "Manizales comparte experiencia de reconstrucción tras el terremoto con otros territorios",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-23",
+      "descripcion": "Manizales compartió su esquema de trabajo adoptado para la reconstrucción tras el terremoto del 10 de agosto, en un encuentro orientado a examinar qué aspectos de esa experiencia podrían servir para afrontar los daños en otros territorios afectados por el sismo.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/manizales-comparte-su-experiencia-de-reconstruccion-tras-el-terremoto/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Manizales",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 2159,
+      "titulo": "Gobierno y gremios financieros firman acuerdo contra el gota a gota",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno de Abelardo de la Espriella firmó un acuerdo con gremios financieros para combatir el préstamo informal conocido como 'gota a gota', buscando ampliar el crédito formal para micronegocios y trabajadores independientes, facilitar la rebancarización y fortalecer la educación financiera.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-gremios-acuerdo-gota-a-gota/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gremios financieros",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2158,
+      "titulo": "Piden investigar a funcionarios de Supersociedades por reorganización de Accedo",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "Se solicitó a la Fiscalía General de la Nación investigar a funcionarios de la Superintendencia de Sociedades por presuntas irregularidades en el proceso de reorganización empresarial de la compañía Accedo. La Fiscalía deberá evaluar los hechos y recaudar pruebas para determinar si hay mérito para una investigación formal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/pediran-a-la-fiscalia-investigar-a-funcionarios-de-supersociedades-por-reorganizacion-de-accedo-estas-son-las-presuntas-irregularidades/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios de la Superintendencia de Sociedades"
+      ],
+      "entidad": "Superintendencia de Sociedades / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2157,
+      "titulo": "Denuncian a magistrados de la JEP por cobrar salarios sin trabajar durante 7 años",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-23",
+      "descripcion": "Se radicó ante la Cámara de Representantes una denuncia penal, fiscal y disciplinaria contra cinco magistrados de la Sección de Apelación de la JEP por presuntamente cobrar salarios durante siete años sin gestionar fallos de segunda instancia pendientes.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/denuncian-magistrados-de-la-jep-por-cobrar-salarios-por-7-anos-sin-trabajar",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Magistrados de la Sección de Apelación de la JEP"
+      ],
+      "entidad": "Jurisdicción Especial para la Paz (JEP) / Cámara de Representantes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2156,
+      "titulo": "Contraloría revela que Plan de Desarrollo de Petro solo cumplió el 72,5% de sus metas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-23",
+      "descripcion": "La Contraloría General de la República determinó que el Plan Nacional de Desarrollo del gobierno de Gustavo Petro cumplió apenas el 72,5% de sus metas, con un 44% de metas incumplidas y un 23% con avances inferiores al 50%, concentrando los mayores rezagos en reforma agraria, agua potable rural, salud pública, juventud y sustitución de cultivos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/contraloria-raja-el-plan-de-petro-solo-cumplio-el-725-de-las-metas",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Contraloría General de la República",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2155,
+      "titulo": "Captura de barranquillero señalado de lavar US$42 millones del narcotráfico con criptomonedas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "Autoridades capturaron en Barranquilla a Nassim Orfale Vásquez, requerido por la justicia de Estados Unidos por presuntamente lavar cerca de 42 millones de dólares provenientes del narcotráfico mediante operaciones con criptomonedas desde 2018, en operación coordinada entre la Fiscalía colombiana y autoridades estadounidenses.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/nassim-orfale-vasquez-senalado-lavador-dinero-en-barranquilla-PC42628610",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Nassim Orfale Vásquez"
+      ],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2154,
+      "titulo": "Fondo Milagro y Alcaldía de Cali avanzan en remoción de edificios afectados",
+      "categoria": "avances",
+      "fecha": "2026-10-22",
+      "descripcion": "El Fondo Milagro, en conjunto con la Alcaldía de Cali, dio sus primeros pasos operativos avanzando en la remoción de edificios dañados por el terremoto, como parte del proceso de reconstrucción local.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkFZLVBMdGRDZkFhM3lQTHc0OU91TXdWdVdBTnRYNEViSDFyaEo4U1M0N0Vpc2hhdE1JUWJKdlQtelk0YVE1RXZxSGZ6bGJLc2pzS2VBNDFFNzdJVi1TRjc1S016eTdEbXZFeDR3M0NUbVU4LWRFM2NDM0tPMGRtOWl1Q1YwLWdWOGhqb3Rna0lvUGpGWng4cVNOSEZYdWNhZzJjNHAwVFVCVlp2XzJwVmdMVTI4OXhXNXhrZHVFbFQwNVJVZnBDTUlWWHotTE9BTUdJTWhoc09yVk1DR2c4UTVmanR6Zw?oc=5",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 2153,
+      "titulo": "Fondo Milagro inicia formalmente operaciones tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-23",
+      "descripcion": "El Fondo Milagro, creado para canalizar recursos de atención y reconstrucción tras el terremoto del 10 de agosto, inició formalmente sus operaciones administrativas y de ejecución de recursos.",
+      "evidencia": "Reportado por cablenoticias",
+      "fuentes": [
+        {
+          "nombre": "cablenoticias",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXRRUm94UHR5MGltSWhGWTMySkRKYkREZ2FfOS1xRnNrUFZxaUVHNUlEQlRTaWNoWmJoLWh1S3pXdXVoQkdnZmJodVBkTE9YWXc0TzI3X2V0M0MtTWlCelphcTgtMDF3b3E0Qnc3Z1J2REZlUFFZRExrZ0cxVG1KX25kZ1RnWFdtUW1obnVERy1SaDFDZkt5c1dZTU56OG5McmxJX2c0SE1FZ2lqSzJYUA?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2152,
+      "titulo": "Humberto Tobón cuestiona manejo de recursos del terremoto y creación del Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-10-23",
+      "descripcion": "El exfuncionario Humberto Tobón cuestionó públicamente el manejo de los recursos destinados a la atención del terremoto y la forma en que fue creado el Fondo Milagro, señalando falta de claridad en su administración.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNFM4UmgwYXhJZnoyejl6bDdzZHYtUW14dzc4blBDOU0xU0pzZTk5QlljU0JPRnpjUUpydElfUTJyNXlqanFlVGVRelIzbmhMaWFSVko2VnMzSDFfd2VWWnVSbG1jZzhNU0traHQwa0JnREYxbUE0Tkp6R3ZRYV9zTm1iM1FsS2xlT0U4bjEyOFI4U0lPTzd4d0tuY1lTQlBOOVJNa3dPU0k0YU9SRXhVS0NLX3FwdGlVMVdhMjZJZVppTlc0dU9BZVdYWldENFdwYkQ2SHZIa3d6b3BLQ3I3aFBVQ3Z6UQ?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Humberto Tobón"
+      ],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2151,
+      "titulo": "Inicia fase de demoliciones y reconstrucción de estructuras afectadas por el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-10-22",
+      "descripcion": "Autoridades reportaron el inicio de la fase de demolición de estructuras colapsadas o en riesgo por el terremoto del 10 de agosto, como paso previo a los procesos de reconstrucción en las zonas afectadas del país.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUN2RFhTYXNqUWw0X0FOZGFtRjdjNlBrYjFUX2trSVRrVDcwdUxPUlpnSlNSckFfYWFUYnQxOFlOMWNFNlBuY0FBOHR1V1ZDZHd0cWZRYWZBOFVYOVNBVVlJc3dpTG13ZnNQdDlTbTBzUnZQUW5DbnE2U19xZWgwS19kVk80Y01LbUJxYW1sNHlDLTNVSG1FQ3ZXTXBTbGNwNFQ0aGg2cjbSAagBQVVfeXFMTU5JeEs0alQ2bHE0OUJTZmdpN25XM0lYMDd3WVRhOVdtWkVac1NfQzBOWTkzOWNQMnNNejZtUngyWGJnUkVLM1pxZWhzTnpEY180WU1tMkdmSzRNcnMwM3FvSzUtaHUtVXRyQmRPMW8zMm5zakpZUE5QYUM4MzRpTk1tLXlRVWttUTlidEhXUGQxa2YyRVh1eWhHalNTbHM3RTRQVkNJMjdq?oc=5",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2150,
+      "titulo": "De La Espriella explica origen y manejo de dineros del Fondo Milagro y aportes empresariales",
+      "categoria": "dineros",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente Abelardo de la Espriella explicó públicamente de dónde provienen y cómo se administran los recursos del Fondo Milagro, incluyendo los aportes de empresarios privados destinados a la reconstrucción tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por La Gran Noticia",
+      "fuentes": [
+        {
+          "nombre": "La Gran Noticia",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORU9sVkh0Qy14TVpZZlhkWXJNaUdRUF9LYWNPR3B2MVV3ajJVLTZVX2xNOVJndlE0aC1KbHhQSVZkUmFNTE4yNnJjenJwbFdfdjk1R3Y5YUZlM1NzT1U1S0E5TExod2p3UDMzZnVqYmpUUVkyanVBdFBfVVJPb1VXNWN5bk1ObExXbF9MQ2JWMndSQktURTdiTmJTMEtQcmwzZFlvQWZPMm5mdmcxdzhMWUJ5dURNZ1ktS0VlbFAtZF95emd2b1VKd1JfVHMweDdyRnAwN2l0em4zZw?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2149,
+      "titulo": "Gobierno propone bajar el 4x1.000 y eliminar el impuesto al patrimonio",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "El gobierno de Abelardo De La Espriella propuso reducir el gravamen a los movimientos financieros (4x1.000) y eliminar el impuesto al patrimonio como parte de su agenda de reforma tributaria y estímulo económico.",
+      "evidencia": "Reportado por El Irreverente",
+      "fuentes": [
+        {
+          "nombre": "El Irreverente",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG1Ec0JZUHZma0x1T05yc3RoVlhMX2MtdmhtelhZLWc0RWFUcTlicVBqR3lmaFV1bXk5d0o0ZnFmT3VRYW9WMENkenk4T0F3bVk0TDhTTG5GVFRVNmhLdzhmbVNyMkQyMHhKZDVYWTRSUzFjbXVmbHI1bng1S015Q293SGhGaTVKOXExMVRLTS14MGlkN05peGdFNzlmeTBsRVRaZHhTY0x5bkpUR2E5b2RWV2dTakhFay1r?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2148,
+      "titulo": "Gobierno anuncia recorte de $13,8 billones al gasto público",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "El gobierno de Abelardo De La Espriella anunció un recorte de $13,8 billones en el gasto público como parte del ajuste fiscal para el Presupuesto de 2027, detallando cómo se distribuirá el ajuste entre los distintos sectores del Estado.",
+      "evidencia": "Reportado por CW+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "CW+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KMUtlQTh1eTZOSWNPUXlnOTNfRUNnNzdJTFp6a2VaRE0zbEpMTGptQkltTklzbkZKclFNYWduYzB3UkNNdW8xUXllc3lTa2dsOU54QUNQZGpKUG1LRmRZZGJJc0pTNk9rZ2xPT3Zfb2pDYzF4M3hWVXF3ZVBfUQ?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2147,
+      "titulo": "Investigación por presuntos títulos académicos falsos del excanciller Omar Bula",
+      "categoria": "mentiras",
+      "fecha": "2026-10-23",
+      "descripcion": "Una investigación periodística reveló presuntos títulos académicos falsos presentados por el excanciller del gobierno Petro, Omar Bula. Petro salió a defenderlo calificando la revelación de 'uso de la información en un sentido clasista', sin desmentir los hechos de fondo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPR2RfZFJLOVFHRGVhTWZoZDBoTFRVSFlrblk1QkhLY2pMMy1jbXBXYl9zVWFWY204UG9nbS1DNnVuOHM2TVZNR0k0amR5cmNwVXd0OGR5YzZORlM0M1Z5SDNkUmVuZGYxaUlkT0puSzBaeXM0a2R2d0pBNm1JbVJTaDRlQXB3OXJFTldHLWwzRGlYRzliRnpGQ3BDSTJMWVZ1Wk5TUnR4cEFIVXlzV0FtaFA2YS05MDlTbmFDNmt3Z2piY2gyWmV2bUljczVfVEkwdURjWmZyLUhnZXFOQlNLaU8yeC1tRFJ6Nmt6QzBwRDBYUGh2ME94Mkh1TWdURUlPWi1DUElHMFhLVkExZWxrbnNVOVIwUkNN0gGzAkFVX3lxTE4tLWx2RnlHTEh2X3RMRTJtYTRkQ0pJS2tkRGVEQjVwS1Q4N3VuLUhMS09mMk5EYVlaVVpDOXB5cW93Tlhpd0JkTTZSNzFFZVYxZzhRVXhBaVkzdk5NaUxNUEFPOU9wYVFOQTJYd3VSVWN2VUlfTkx4ejRRQ3prZUg2T0J3U1dLbDRJQ25yckFocTZMd0FyR0NLSlF4Vkc2bHkyMmlXZ2R1WHlXeXloem1LWjZxWG5MUTZQdW8tYWdrakp4NDYxWGFnUEV6QWdOOFVLaGtzT05LdkpoUFNrN3hLX0l2N193Rl83eWpUMEQ5dDJJVjFWSzJORHRxb2RoRkZ0czkza2RSVHEwRmR1VzhhTlliSm5tbFNveWdaXzJmY2xNUW5sOUtINVo3SlVqZVQzOTA?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula",
+        "Gustavo Petro"
+      ],
+      "entidad": "Cancillería de Colombia (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2146,
+      "titulo": "Abogado de Ricardo Roa aclara arriendo de apartamento investigado por la Fiscalía",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "El abogado de Ricardo Roa, expresidente de Ecopetrol, entregó aclaraciones sobre las condiciones en que su cliente puso en arriendo un apartamento que actualmente es objeto de investigación por parte de la Fiscalía General de la Nación.",
+      "evidencia": "Reportado por ELHERALDO.CO",
+      "fuentes": [
+        {
+          "nombre": "ELHERALDO.CO",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQOHdPamdvN0pxZm4zaTdqOVowMTg5QW1wSzYwM0Z0aU5zbzZuWVFwMUpUUVZJclV3Z1VoUjJnTVYtcHVOa29Bb1lBb0RCYkRDR1Y1MnFTYVBzdVVadDJjcnV5VzRGSDJaTS1URjhZdW5LdGFRcmtIRWFkNDdNaFRpbDFQb3FZS0psLWpZV2xmVHFWYVVzeDJjaUZnVHJfYjlzMV9qQjNZeE5aQVBRZVExbjNQYy04cEZ0X0ZMZ1h1RmU1SkpxRG5QX3ZqNmpPZ253emV2eW9VVW1oQmZWOTJtRVhGdXJheWV5YW40ZTJnNTVPbnhVZkMzakwtWlVLTVdKRDktczBXZGVIb2VKUnE3NnNRTkxBX3MycUdqTm5B?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2145,
+      "titulo": "Wadith Manzur cuestiona que Diego Guevara no haya sido vinculado al proceso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "El excongresista Wadith Manzur cuestionó que el exviceministro de Hacienda, Diego Guevara, no haya sido vinculado al proceso judicial por el escándalo de corrupción en la UNGRD, en medio del juicio que se adelanta en la Corte Suprema de Justicia.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVjgtQ1A2NHpPUkRKR3ppZ3ZsZ3JWQllabHF6WGg0VVNrWjJmM0M2RjZuenN2UFI1MGViS1dfM3Fyczg3MU13dGtyc3ppMGdxYlR1enpMcGxxTGVPM1RZTHZSU3hCUnVwUzdOQW55S3FmMG12ZVJOa3FWUFRnYVdSMkk4SkQ4MmpXQkdELUE0QmU0WUpqXzl3UWtQUkZKYWlJWEhIcHp6eThQRGkwMHYtN1paQWYydUhCeFBCWUgteUVDbk9GVmY2U3N6NFNES3ZPN190V2o5T1drYmxMQUR2SmxpVVFqaWFYd3J6bGR1LWs3SEc0OUpr?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur",
+        "Diego Guevara"
+      ],
+      "entidad": "Corte Suprema de Justicia / Fiscalía General de la Nación",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2144,
+      "titulo": "Proceso contra testigo estrella del caso UNGRD queda en manos de fiscal junior",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "El proceso judicial contra un testigo estrella del saqueo a la UNGRD fue asignado a un fiscal 'junior', lo que generó cuestionamientos y solicitudes de explicaciones sobre el manejo del caso dentro de la Fiscalía.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2J2MEMxV09SRzBBLU05V3hRb0swTWl0R0lxS2NNRmFUbS1DaWpPVkNLbWtGdlUxNm9hX1RQNjFsX20zWFFzbEI3OW1odTZpSUJHNzA0WDg0VUpwVF94cUFPMFlfcl9VSDlwVU1vR1lFWUR6ejI0dnpGb3dyTDVLeWowMUo3eWRGcHcwU2FNOFBjZFhaSkNKMXRkQ1ZXbElfcXFpSHlsWGFieFg3c0Nsa2M0d2RwVU50cTB5UHozNVMwWG5heUQwaWFBUmplOVU3TnhNWjFVZ01yZFVxTkxfQ0x6anUwUWgwN2QtRWhhOFpEOGV5?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2143,
+      "titulo": "ANT reporta salida de 1.040 contratistas con ahorros de $22.000 millones",
+      "categoria": "transparencia",
+      "fecha": "2026-10-23",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) reportó la salida de 1.040 contratistas vinculados por prestación de servicios tras dos meses del cambio de gobierno, lo que según la entidad representa ahorros superiores a $22.000 millones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/ant-reporta-salida-de-1-040-contratistas-tras-dos-meses-del-cambio-de-gobierno-son-ahorros-por-mas-de-22-000-millones-3595823",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2142,
+      "titulo": "Incautan 127 kilos de pasta base de coca en Caquetá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "Una operación conjunta del Ejército y la Policía Nacional permitió incautar 127 kilos de presunta pasta base de coca en Caquetá, con la captura de dos personas tras la interceptación de un vehículo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-127-kilos-de-presunta-pasta-base-de-coca-en-caqueta-dos-personas-fueron-capturadas-3595870",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2141,
+      "titulo": "Petro cuestiona manejo de donaciones de la familia presidencial para víctimas del terremoto",
+      "categoria": "denuncias",
+      "fecha": "2026-10-23",
+      "descripcion": "El expresidente Gustavo Petro cuestionó a Abelardo de la Espriella y a la primera dama Ana Lucía Pineda por el manejo de donaciones para víctimas del terremoto a través de la Fundación Colombia Luz y Sonrisas, afirmando que la familia presidencial no debería manejar recursos de forma privada.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/23/petro-cuestiono-a-abelardo-de-la-espriella-y-ana-lucia-pineda-por-donaciones-para-victimas-del-terremoto-la-familia-presidencial-no-tiene-porque-manejar-recursos-de-manera-privado-extraidos-del-dolor-de-los-colombianos/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Abelardo de la Espriella",
+        "Ana Lucía Pineda"
+      ],
+      "entidad": "Fundación Colombia Luz y Sonrisas / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2140,
+      "titulo": "De la Espriella destaca aportes empresariales de más de $1 billón para reconstrucción en Pereira",
+      "categoria": "dineros",
+      "fecha": "2026-10-23",
+      "descripcion": "Durante su visita a Pereira, el presidente Abelardo de la Espriella destacó aportes del sector privado por más de $1 billón destinados a la recuperación de viviendas y negocios afectados por el terremoto.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-destaca-aportes-empresariales-de-mas-de-1-billon-para-reconstruccion-505013",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2139,
+      "titulo": "Plan de choque de salud resuelve 51% de casos por medicamentos",
+      "categoria": "obras",
+      "fecha": "2026-10-22",
+      "descripcion": "La ministra de Salud, Ana María Vesga, informó que el plan de choque de salud lanzado hace un mes ha resuelto el 51% de los casos pendientes relacionados con entrega de medicamentos, en el marco de esfuerzos por garantizar continuidad de tratamientos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/plan-choque-salud-colombia-resuelve-51-por-ciento-casos-medicamentos-GB42617881",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana María Vesga"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2138,
+      "titulo": "Gobierno anuncia subsidio a tasa de interés para créditos Icetex",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció un subsidio temporal a la tasa de interés de créditos Icetex, con una inversión de $100.000 millones, que beneficiará a cerca de 235.000 personas con créditos educativos desde octubre de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/credito-icetex-gobierno-anuncio-subsidio-tasa-interes-como-aplicara-ND42638764",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Icetex / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2137,
+      "titulo": "Contraloría alerta incumplimiento de compromisos con pueblos étnicos en gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "La Contraloría General de la República alertó que más de 80 compromisos adquiridos por el gobierno Petro con pueblos étnicos no registraron ningún avance, evidenciando fallas en la ejecución de políticas de inclusión y protección de estas comunidades.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/contraloria-alerto-que-en-el-gobierno-petro-mas-de-80-compromisos-con-pueblos-etnicos-no-registraron-ningun-avance/202631/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2136,
+      "titulo": "Familia denuncia daños en vivienda por manejo de escombros tras el terremoto",
+      "categoria": "denuncias",
+      "fecha": "2026-10-23",
+      "descripcion": "Una familia en el sector Nueva Tequendama denunció que su vivienda sufrió daños adicionales por el inadecuado manejo de escombros durante los trabajos de reconstrucción post-terremoto.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjZfMUxQd2stMVVtLTlBcHphTDZjS01kOXJpSU5qWnUxaVJGWUVULU45ell0LWVNWE5jT29kWU5aN24zbFNGWUxMcW9XaUxldnBNdmU4a2dGaXlZS1lCTG8wZl92YlhvbDNobnFpZnJvQjVidGl5MGJnUDllNGN4eWczV2EtcExzczZBVWo4NXNScUc3ME9Ba1VNenZ1Q08yS3BHNTRKMHMxTm9Vdl90a0hHb0dPd0N4ckthdmwyWdIBxAFBVV95cUxOdHhpc3lCdUtobXBfRF9yNzNSZW1fQVVwTFNyekR0RVZfWFJzekV6U3dTYy1vY21WRU1FNjk0T2wxenFIcEJFc1BQNVRMTVA3bU9DSDFCcFpsczdBdFpDNUpmdHFNZGg3NmlkcEZ1Z2lOV3gyRDFQTDZ2NGtNNVJCWDRld0w4TjZBeGdocTFjNUdLaEFOZWF4bWVIdVZ3ZHlJTnlhS2VNc0hMZzhNNmFSdFhmRWoyTWRMWGJ0OGl5Q01fSjV3?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno local / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "negativo"
+    },
+    {
+      "id": 2135,
+      "titulo": "De la Espriella responde a críticas por gestión tras el terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente Abelardo de la Espriella respondió a críticas sobre el manejo de la emergencia tras el terremoto, afirmando que 'la reconstrucción comenzó' en referencia a los avances del Gobierno Nacional.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2JjZk1ERUpnUWtpVXRMd3JQWTdaS1VuM1h5SjFwRWJxYXFrMGo0OExyRlJ3RDFzMEN1ZndjUVdoOTV6b1Rqa3Bodmt6LWhfN0dveFFMWk9WYmxNVEdsMjVKSHAtTlE3QVhXN1VTSHJwOVdXcUtEenU2dldPQmdfY090V2haQ1RJS1NZRjVPSE9oYV9UX2ZxajVBZHJEb1BhZmZsVjNuRy1BTXhQQXZHbjdmVWZxeHhQc2hKeWgyWDN3SXdKbnB0U2dKZFU2NzJQYU9mQndHZkoyVjjSAdsBQVVfeXFMUEdiY2ZNREVKZ1FraVV0THdyUFk3WktVbjNYeUoxcEVicWFxazBqNDhMckZSd0QxczBDdWZ3Y1FXaDk1em9UamtwaHZrei1oXzdHb3hRTFpPVmJsTVRHbDI1SkhwLU5RN0FYVzdVU0hycDlXV3FLRHp1NnZXT0JnX2NPdFdoWkNUSUtTWUY1T0hPaGFfVF9mcWo1QWRyRG9QYWZmbFYzbkctQU14UEF2R243ZlVmcXh4UHNoSnloMlgzd0l3Sm5wdFNnSmRVNjcyUGFPZkJ3R2ZKMlY4?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2134,
+      "titulo": "Gobierno suma $826.000 millones al Fondo Milagro para vivienda urbana y rural",
+      "categoria": "dineros",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno Nacional anunció la adición de $826.000 millones al Fondo Milagro, recursos que se destinarán a soluciones de vivienda urbana y rural para los damnificados del terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Portafolio.co",
+      "fuentes": [
+        {
+          "nombre": "Portafolio.co",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZWZ0U1BpbUt5aDJGdHJQQm9uLXVSTk55V3BTV29maHZOT2FUWng3ay1rQ0R6d1dQMk9QQWkydnBHRHc2TnVxQzV3ajg4RzJJX2FzS1poNjRWejNpQWNsRm9FQ0djbGdST1NKNXo4eUpkbG4zY1V4NmVtSGVDWjYxUEVPQ0g1WV9PNC1fVE9ab2xYUmM1WU1MRm1XcWxSbWFwYXNrSlhzaE1uSlV4YUhWUkR5Y0Vjd1cxZ1hyRk1sV2lBQnFFdUdYc21VVmVpUFUydldtTUozVUMtZDU0Vk1Cc3FHSXRTblhfYXJUdlBqSy0zSEJjdzJZ0gH3AUFVX3lxTE1lZnRTUGltS3loMkZ0clBCb24tdVJOTnlXcFNXb2Zodk5PYVRaeDdrLWtDRHp3V1AyT1BBaTJ2cEdEdzZOdXFDNXdqODhHMklfYXNLWmg2NFZ6M2lBY2xGb0VDR2NsZ1JPU0o1ejh5SmRsbjNjVXg2ZW1IZUNaNjFQRU9DSDVZX080LV9UT1pvbFhSYzVZTUxGbVdxbFJtYXBhc2tKWHNoTW5KVXhhSFZSRHljRWN3VzFnWHJGTWxXaUFCcUV1R1hzbVVWZWlQVTJ2V21NSjNVQy1kNTRWTUJzcUdJdFNuWF9hclR2UGpLLTNIQmN3Mlk?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2133,
+      "titulo": "Viviane Morales regresa al gobierno para examinar resultados de la 'paz total' de Petro",
+      "categoria": "empalme",
+      "fecha": "2026-10-23",
+      "descripcion": "Viviane Morales se reincorporará al gobierno de Abelardo de la Espriella con el encargo de examinar los resultados de la política de 'paz total' del gobierno de Gustavo Petro, calificada por el nuevo gobierno como una 'falsa paz'. La tarea se enmarca en la revisión de los acuerdos y gestores de paz del gobierno anterior.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSXd1N25KajJ0UHpoVW9YR1JqdlFEbGx0V01BclN0UlpUMTZOekRRTVQ0QTI0MENoamNTWTV0aFVVSy1COTFsazJ0QklXSUg3SzVJMThiQndJb2hmcUNwUUQyeHhvSUNqZjZjRGt6U1VfSGYyenFReFBNdFRkanJFUWxac0lJNGhLalVLcEU2YWtCaXRWcnhEcnhpVE9DdHFJckVYR2xUVjEtb0pxMjAwbFhrZWItWENpVkZjT3kyN1NTN25GdTIwQWpNcEJKNjhQYUtsSUFLRWpBU25HZlBTMnhFVkhkcktpcEhaa013cXpxNWFkNDlCdVVCdmhrMjc4VjJla1pBWkJDbThRWW14QWlB0gGsAkFVX3lxTE5wZDZIUHBlTUM1YTladjRnUTY4TTMybGRLYmhIdklrTm5YZEJmVkhZX05LRW5FbW5sc0R3OWZKZjVXQi1pS0N2WjdpN1A4MjZRSmxDblBCQUR3Qmxtb0M2TXplWXdHUUxtVVY3TkkxWDhUSEZxZGJJWXB5bWJpUWRtaGMzblpwZWJGX190bWpXRTV4TGlSTzdkUHE2X2FlOEt4VUk4Tl9hRXQ3b2lzMC1BdVJDNGxDQ0xRWlRYXzY1dkV1UHZyRFYyUHFFekxnQWVIU0EtbHN3MTRkdVdtWkdtWGhxVm43R3JRZDBUOGs3c3FoNTBMdC10dktDRTJzVk1zcWFRczFZMzlxOHVqc3o1eFhQRUxEZk1NQ1pJeW1Xa3kzV25pamlHMzRGRQ?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Viviane Morales",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2132,
+      "titulo": "De la Espriella firma 142 extradiciones en los primeros 74 días de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente Abelardo de la Espriella ha firmado 142 extradiciones durante los primeros 74 días de su gobierno, según reportó El Colombiano, cifra que marca un ritmo acelerado de cooperación judicial internacional frente a solicitudes de Estados Unidos y otros países.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanpzZzRSdXhOcjNnbTVrZmtHN2RxSTAwdjJoNDR2dlRaQWNwNHg5Y2phZGlnZFJUQ1gxanhqSFUwZ19XanVTbTZYdmFlYUlQM2hHWTQ3Zzh2ZUs5dzgwX3NkcEozWUpZOW1icTIxZEZaM2YyZVhSZHJMaWtDYllUM0NjRFEzVXd4WWNpT01qVzBzZXVzZ1Q4SVRPRnFjenlBWmtnWnBRMUzSAa4BQVVfeXFMUC1JRkVDMFBZT0NnSGVBdzZUMFJrckJSRW92SG4wTmh6cGRxdHVEMlVydi1yTHZzbFpFZTYxdUxtTGZCWU8tVDhoNnZpbHhpOFkyN0VlY3RZV0V1cHY3TnIwN1BJblFxcFBhZjBxeUV5ZndWNWIweFZfdGUxbzJlX21vS1ZqWGZCOXltZmd5NFZyc0twRnJSUlhMaGtQS0hzQy1MWFk4NzR1bUpyaUVn?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2131,
+      "titulo": "Wadith Manzur cuestiona a la Fiscalía en juicio UNGRD por presuntos sobornos a congresistas",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "En audiencia ante la Corte Suprema de Justicia, el senador Wadith Manzur, procesado por el escándalo de corrupción de la UNGRD, cuestionó a la Fiscalía al señalar que a los congresistas se les acusa de haber sido 'comprados' sin que quienes supuestamente ofrecieron los beneficios enfrenten cargos por el mismo delito. La declaración se dio desde la cárcel La Picota, en el marco del juicio en curso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/wadith-manzur-congresista-procesado-por-caso-ungrd-critica-a-la-fiscalia-ED42631588",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Corte Suprema de Justicia / Fiscalía General de la Nación",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2130,
+      "titulo": "MinJusticia activa gestiones para extraditar al exmagistrado Leonidas Bustos",
+      "categoria": "internacional",
+      "fecha": "2026-10-23",
+      "descripcion": "El Ministerio de Justicia, a cargo de Iván Cancino, confirmó la activación de gestiones institucionales para avanzar en la extradición de Leonidas Bustos, exmagistrado de la Corte Suprema de Justicia prófugo en Canadá y vinculado al escándalo del Cartel de la Toga. El ministro aseguró que la cartera está lista para cumplir los trámites correspondientes una vez se formalice la orden.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/leonidas-bustos-ministerio-de-justicia-gestiona-posible-extradicion-para-colombia-NF42658500",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Leonidas Bustos",
+        "Iván Cancino"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2129,
+      "titulo": "Corte Constitucional se pronuncia sobre impacto fiscal de la reforma pensional de Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-23",
+      "descripcion": "La Corte Constitucional se pronunció sobre el impacto fiscal de la reforma pensional impulsada por el gobierno de Gustavo Petro, en el marco de una decisión adoptada por el nuevo gobierno de Abelardo de la Espriella. El pronunciamiento se da tras el hallazgo de un faltante fiscal superior a $16 billones asociado a la reforma, que ha generado alertas del Ministerio de Hacienda.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWTZXWldsZ2xjckxhb3pYNWNzQkwySnlmREtGOEtYUGFLYW9XaEVlZjkxczJnLVNLWlpNQVZ6amdZUmhJaDhBU0lrUkFyZkpDd2NNeXlnZlZBR1NMcjgxWjI1Z3locFF0ZE5wdWpXVzNBWXRURUtJTUcwUnMxSE1xVTRuSUx1anFzQjgtZnRXU25FWHRfUnlsVFAtaTVfRjRMNlpEWUxUZG5zVUVxSzJPNTUtTTVNYnRQUmdkZEE0dTgyc0stWkt1SGhfZUlmeU9saThJUXVidEwzc3VhZGFseFUyNHVaMXZ4TVR2SXZGRzlVUV9xNFdtMnhlZ3BKblhoWEdCUVdqUzdUbnBUTTlj?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Constitucional / Ministerio de Hacienda",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04"
+    },
+    {
+      "id": 2128,
+      "titulo": "Extraditan a 'Mocho Olmedo', excabecilla del Frente 33 vocero de la 'paz total'",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "Willinton Henao Gutiérrez, alias 'Mocho Olmedo', excabecilla del Frente 33 de las disidencias de las Farc y vocero en los diálogos de 'paz total' del gobierno Petro, fue extraditado a Estados Unidos este viernes. Salió de la cárcel La Picota, en Bogotá, y fue entregado a autoridades estadounidenses que lo reclamaban por narcotráfico, según confirmó el Inpec.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-mocho-olmedo-extraditado-estados-unidos-cabecilla-frente-33-disidencias-LE42643822",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Willinton Henao Gutiérrez (alias Mocho Olmedo)"
+      ],
+      "entidad": "Inpec / Gobierno de Estados Unidos",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2127,
+      "titulo": "Gobierno anuncia nuevos recursos del Fondo Milagro y plan de reconstrucción para Pereira y Cali",
+      "categoria": "dineros",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente Abelardo de la Espriella anunció nuevos recursos para el Fondo Milagro y detalló los planes de reconstrucción tras el terremoto del 10 de agosto, con énfasis en obras y ayudas para Pereira (Risaralda) y Cali (Valle del Cauca). El anuncio se dio en medio de la gira presidencial por las zonas afectadas.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XYmJ0c3l3MWJvbUZ4dlhjWXhfV3JPNnlZNHd2eTFtUnV0cXZMcFNJakxlS1NHbm9EV2pLTXpua011dXFEQTE4RUdQbVlnN1pBQlZzNWlRT3JGX20yRTJZNVlSNHprZ0xCUGE5c0hVbHRXWkROdlhxd183TjRLemMtRWJMamxKMXRwMEhUUENmdzZUS1FmNDlqRFVydTN6clNlbDZwNDVvZklnSG5IVkFwN0lWZV9PWGpTOG5PS3NtUVcxejZ3S9IBzgFBVV95cUxQRmxjLVlOSnd5UUtKTWJudHhaSllRNjhlSm5lczhTRkctOFd4UEJGblpzZm1sNUZNbnFPeVFiOElBdWRrZnZDYTdFX1BYcGROS2ZBT1l3YThUWjc0d1FIWnZyc1FFd3FBQUZfVnFvWWFuOHdxU2lWdjVPV0h5dmlnVjM0UTc0Z0x1dDRGMEV1emQ4R0tGTkhBcUx6QUpKbm0tby15VFBGN0hzV2tUdjdBUC1XaWxudHJFeUIzYVVmQ2tULU4zdm5ybnRTMzZZQQ?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-23 21:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 2126,
       "titulo": "Policía incauta más de 4.200 aletas de tiburón en Tumaco",
       "categoria": "seguridad",
@@ -49644,8 +50576,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-22",
-    "total_casos": 2037,
+    "ultima_actualizacion": "2026-10-23",
+    "total_casos": 2076,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
