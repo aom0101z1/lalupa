@@ -221,6 +221,196 @@
   ],
   "casos": [
     {
+      "id": 2211,
+      "titulo": "ICBF denuncia 'elefante blanco' con más de $4.600 millones invertidos en Bogotá",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-24",
+      "descripcion": "El ICBF denunció la existencia de un 'elefante blanco' de la entidad en Bogotá, una obra o proyecto en el que se han invertido más de $4.600 millones de pesos sin que preste el servicio para el cual fue concebido, evidenciando presunto mal uso de recursos públicos.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/icbf-denuncia-elefante-blanco-de-la-entidad-en-bogota-mas-de-4600-millones-han-sido-invertidos/202604/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14"
+    },
+    {
+      "id": 2210,
+      "titulo": "Balance del operativo militar contra la estructura de alias 'Jhon Fiera' en sur de Bolívar",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "El presidente De la Espriella reveló el balance de un operativo militar contra la estructura armada de alias 'Jhon Fiera' en el sur de Bolívar, incluyendo resultados en materia de capturas y neutralización de miembros de la estructura criminal.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lVRDgzeTdELUV4dk9xSWQxLXJmbC1nZ0RoMm51cVNuNVRzazNETm05S2lhN1NoUV9XVklrNVdwaWxrU2ZXMm1mdVROekFtSzA2R3k4czdnalVuYmVjaXlMUXZfWlVxNF9TenIyVTFXc3dEX1ZTQjhBVWxWc0IyX2M0T05BcFdQek8yMU1PUjlNYjk5cGdPNHFCdU5nTFNMR0FtZlotdGtzSnE0SjB1R21zZUc?oc=5",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2209,
+      "titulo": "Gobierno enfrenta carrera legislativa por rescate fiscal y traslado a Air-e",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno Nacional afronta una carrera legislativa para radicar la ley que cubra el faltante fiscal y gestionar el traslado de $1,2 billones destinados a la intervenida empresa Air-e, en medio de reformas pendientes en el Congreso.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno-enfrenta-una-carrera-legislativa-por-el-rescate-fiscal-el-traslado-para-air-e-y-las-reformas-pendientes-505055",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2208,
+      "titulo": "Captura de alias Brayan Veneco en Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "Autoridades capturaron a alias 'Brayan Veneco', señalado como uno de los delincuentes más buscados en Antioquia. El presidente Abelardo de la Espriella celebró la captura como parte de los resultados en seguridad de su gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/el-mensaje-de-abelardo-de-la-espriella-tras-la-captura-de-alias-brayan-veneco-uno-de-los-mas-buscados-en-antioquia/202613/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "alias Brayan Veneco"
+      ],
+      "entidad": "Policía Nacional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2207,
+      "titulo": "Nuevos recursos ingresarán al Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-10-22",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el ingreso de recursos adicionales al Fondo Milagro, destinado a financiar la reconstrucción tras el terremoto del 10 de agosto de 2026, ampliando el monto disponible para atender a los damnificados.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVMbzA1S3IycGRMWnJGS0dGbDVxOVExSlAxNVhIOU5BWDBzaHMzTUQ1bEJQOGRwR3Z1TElaWVRsRTFWT0FFSTNVOUdILVM0S1oxdkFDVHJySjhTeHVCN1BxZzdxVG9EWE8ySWpzWDIzdnJXTXM2X0NkVWg3VWhPLTNNOGZiNzRRb0tKZWtVT1gycTZxOU5zV1V2dzgxNFhPY1JZZ2oyZzNGTlnSAbgBQVVfeXFMTVltUWdaTTY1UjFPR0czdTh6UTJZWVlMeGZMR213ZjRSZnBPS3RMRnQza29vYU1mN0c2MURON0I3Nmk3Q1pTcDRYQkY0WFR6bU5SUS1BNmpBVGxOU2xsVFMxRm82UlhYTS1UZFFaazdYeURIek8tci1HbUxIeVNnbjA1bHl3c1VDejFaN1p5Y3Z2T3UweW5SR2ExLWZZMlRHMEMzN296T2NGUllIZDhNcEdmS2loMy13Tg?oc=5",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2206,
+      "titulo": "Exministra Ángela María Buitrago declara sobre el 'pacto de Valledupar' investigado por la Fiscalía",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-24",
+      "descripcion": "La exministra de Justicia Ángela María Buitrago, quien renunció al gobierno Petro en octubre de 2025, se refirió al llamado 'pacto de Valledupar', actualmente indagado por la Fiscalía, señalando que el camino legal correcto era la Ley de Justicia y Paz y que hubo presiones indebidas en esa reunión relacionada con negociaciones con actores armados durante el gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-camino-era-por-justicia-y-paz-una-presion-de-esa-naturaleza-no-puede-ser-bien-vista-exministra-angela-buitrago-sobre-el-pacto-de-valledupar-3596027",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ángela María Buitrago"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ministerio de Justicia (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14"
+    },
+    {
+      "id": 2205,
+      "titulo": "Nombramiento de nuevo viceministro de Energía",
+      "categoria": "gabinete",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno de Abelardo de la Espriella nombró a Álex Cañas Rengifo, economista con experiencia como asesor en el Ministerio de Minas y Energía y en Ecopetrol, como nuevo viceministro de Energía.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/nombran-nuevo-viceministro-de-energia/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Álex Cañas Rengifo"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2204,
+      "titulo": "Juliana Guerrero y su hermana denunciadas ante la Fiscalía por intervención irregular en FonIgualdad",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-24",
+      "descripcion": "El Ministerio de Igualdad y Equidad, en liquidación, radicó una denuncia penal ante la Fiscalía contra Juliana Guerrero y su hermana Verónica Guerrero por presunta participación irregular en el Consejo Directivo de FonIgualdad. El liquidador John Milton Rodríguez afirmó que las hermanas habrían ejercido un presunto 'poder de facto' e influido en decisiones del fondo, profundizando el caso de nepotismo ya conocido en el Ministerio de Igualdad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juliana-guerrero-denuncia-fiscalia-fonigualdad-FJ42699491",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero",
+        "Verónica Guerrero",
+        "John Milton Rodríguez"
+      ],
+      "entidad": "Ministerio de Igualdad y Equidad / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 20:14"
+    },
+    {
       "id": 2203,
       "titulo": "Ejército golpea estructuras de Iván Mordisco en Cajibío, Cauca",
       "categoria": "seguridad",
@@ -51462,7 +51652,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-24",
-    "total_casos": 2114,
+    "total_casos": 2122,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
