@@ -221,6 +221,257 @@
   ],
   "casos": [
     {
+      "id": 2199,
+      "titulo": "Actas de MinIgualdad muestran a Juliana Guerrero presidiendo juntas e incluyendo a su hermana como asesora",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-24",
+      "descripcion": "Documentos y actas del Ministerio de Igualdad revelan que Juliana Guerrero presidio juntas, firmo documentos oficiales y vinculo a su hermana como asesora dentro de la entidad, lo que constituye un presunto caso de nepotismo durante el gobierno Petro.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/las-actas-de-minigualdad-donde-juliana-guerrero-preside-juntas-firma-documentos-e-incluye-a-su-hermana-como-asesora/202622/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Ministerio de Igualdad",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20"
+    },
+    {
+      "id": 2198,
+      "titulo": "Gobierno reperfila deuda publica y evita pago de 3.272 millones de dolares",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno de Colombia anuncio un acuerdo para reperfilar parte de su deuda publica, evitando el pago a acreedores de 10,3 billones de pesos (unos 3.272 millones de dolares) entre 2026 y 2027, como medida de manejo fiscal.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/colombia-extiende-el-plazo-para-pagar-3-272-millones-de-dolares-de-su-deuda-publica/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2197,
+      "titulo": "Ejército incauta diez toneladas de coltán ilegal en Vichada",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "El Ejército Nacional incautó diez toneladas de coltán ilegal en Vichada que tenían como destino mercados de Europa y Asia a través de rutas de tráfico ilegal de minerales. El cargamento tendría un valor cercano a los $16.000 millones de pesos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/ejercito-incauta-diez-toneladas-de-coltan-ilegal-en-vichada/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2196,
+      "titulo": "Exfuncionarios de Petro declaran ante agencias de EE.UU. sobre presuntos vínculos con grupos ilegales",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-24",
+      "descripcion": "Varios exfuncionarios del gobierno Petro rindieron declaraciones ante agencias estadounidenses en el marco de investigaciones sobre presuntos vínculos de la administración con grupos armados ilegales, en medio del proceso de revocatoria de visas y señalamientos de corrupción contra exfuncionarios colombianos.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/exfuncionarios-de-petro-declaran-ante-agencias-de-ee-uu-sobre-presuntos-vinculos-con-grupos-ilegales/202623/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencias de Estados Unidos",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20"
+    },
+    {
+      "id": 2195,
+      "titulo": "Denuncian solicitudes de reconstrucción en Santander y Caquetá por infraestructura que no se destruyó",
+      "categoria": "denuncias",
+      "fecha": "2026-10-24",
+      "descripcion": "Se denuncia que autoridades de Santander y Caquetá habrían solicitado recursos de reconstrucción tras el terremoto de agosto para infraestructura que, según indicios, no habría sufrido daños reales, lo que generaría un presunto 'colado' en el reparto de fondos de emergencia destinados a las zonas más afectadas (Pereira, Cali, Chocó).",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/colados-en-el-terremoto-los-pedidos-de-santander-y-caqueta-para-reconstruir-infraestructura-que-al-parecer-nunca-se-destruyo/202625/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernaciones de Santander y Caquetá / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "negativo"
+    },
+    {
+      "id": 2194,
+      "titulo": "Nuevos resultados en ofensiva militar contra grupos armados ilegales",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "Las autoridades capturaron a otro cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada, mientras que en Casanare fue activado un carro bomba contra un peaje que dejó tres trabajadores heridos, en medio de la ofensiva del Gobierno De la Espriella contra grupos armados que responden con actos terroristas.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/mas-resultados-en-ofensiva-contra-grupos-armados-que-responden-con-actos-terroristas",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2193,
+      "titulo": "Comisión de Acusación designará ponentes a 2.400 investigaciones incluyendo a Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-24",
+      "descripcion": "La Comisión de Acusación de la Cámara de Representantes se prepara para designar ponentes a 2.400 investigaciones que incluyen al expresidente Gustavo Petro, otros expresidentes, fiscales y magistrados, según reportó Semana, marcando una semana clave en los procesos judiciales y disciplinarios en curso.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/semana-clave-para-gustavo-petro-expresidentes-fiscales-y-magistrados-comision-de-acusacion-designara-ponentes-a-2400-investigaciones/202622/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Comisión de Acusación / Cámara de Representantes",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20"
+    },
+    {
+      "id": 2192,
+      "titulo": "Extradición de alias Mocho Olmedo a Estados Unidos",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente Abelardo De La Espriella se pronunció sobre la extradición de alias Mocho Olmedo a Estados Unidos, afirmando que 'Colombia no es refugio de criminales' y que su gobierno perseguirá a cabecillas de bandas criminales para que respondan dentro y fuera del país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncia-sobre-la-extradicion-de-alias-mocho-olmedo-a-estados-unidos-colombia-no-es-refugio-de-criminales-3595855",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Mocho Olmedo",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Justicia",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2191,
+      "titulo": "Salida de dos ministros y tres viceministros en dos meses de Gobierno",
+      "categoria": "gabinete",
+      "fecha": "2026-10-24",
+      "descripcion": "En los primeros dos meses del Gobierno De la Espriella han salido dos ministros y tres viceministros, encabezados por los titulares de Educación e Interior. En total nueve altos cargos han sufrido cambios, incluyendo el Dane, Colpensiones, el DNP y la vocería oficial del Gobierno Nacional, segun reporte de La Republica.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/en-dos-meses-del-gobierno-de-la-espriella-han-salido-dos-ministros-y-tres-viceministros-4510080",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2190,
+      "titulo": "Fondo Milagro anuncia apoyo a más de 7.300 viviendas afectadas por el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-10-23",
+      "descripcion": "El Fondo Milagro anunció que más de 7.300 viviendas afectadas por el terremoto del 10 de agosto recibirán apoyo para su reconstrucción, como parte del avance del plan de reconstrucción nacional tras el sismo.",
+      "evidencia": "Reportado por La Patria",
+      "fuentes": [
+        {
+          "nombre": "La Patria",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZhOWZHR0hza25nd2lsQjJ0cWhIQm1IdC1zVGFzWFh2OVlQcGtBOUM0YXhIMVo5d2U3dVd6SzhmRlFZcVhyMnoyVExHejlfaFF1Uml1UllKdTR1SEpqd1VUNTBxNThyQnFfdGFVUTdtQmQtbXM3a1RSN0dpR0RzdXJzSDdBMVZxMGtGMTl2UjF6SGlIQU14anRDbElRcXRKQzc5UmVhMmRsOXItTi1uQnhYVE5GeWJFMUYtTW1maUo?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2189,
+      "titulo": "Extraditan a capo vinculado a la 'paz total' de Petro junto a otros seis investigados",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "Colombia extraditó a 'Mocho Olmedo', señalado como capo que participó en la 'paz total' del gobierno Petro como gestor de paz, junto a otros seis extraditados: un financiador del Clan del Golfo, un exempleado del aeropuerto de Cali vinculado al Tren de Aragua y 'La Inmaculada', y tres investigados por lavado de activos. El caso reabre cuestionamientos sobre los beneficios otorgados a criminales dentro del programa de paz total.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estos-son-los-otros-seis-extraditados-junto-al-mocho-olmedo-capo-de-la-paz-total-hay-un-financiador-del-clan-del-golfo-3595864",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Mocho Olmedo"
+      ],
+      "entidad": "Ministerio de Justicia / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 10:20"
+    },
+    {
       "id": 2188,
       "titulo": "Ejército destruye 26 explosivos del ELN en Arauca",
       "categoria": "seguridad",
@@ -51116,7 +51367,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-24",
-    "total_casos": 2099,
+    "total_casos": 2110,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
