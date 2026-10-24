@@ -221,6 +221,101 @@
   ],
   "casos": [
     {
+      "id": 2203,
+      "titulo": "Ejército golpea estructuras de Iván Mordisco en Cajibío, Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "El Ejército Nacional realizó un operativo contra estructuras armadas de alias Iván Mordisco en el municipio de Cajibío, Cauca, donde hallaron explosivos destinados a ataques con drones, en el marco de la ofensiva militar del nuevo gobierno contra grupos armados ilegales.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/ejercito-golpea-a-estructuras-de-ivan-mordisco-en-cajibio-cauca-hallaron-explosivos-destinados-a-ataques-con-drones/202620/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Mordisco"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 15:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2202,
+      "titulo": "MinSalud exige a EPS, IPS y operadores aclarar cuentas del sistema de salud",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "El Ministerio de Salud del gobierno De la Espriella estableció un plazo límite para que EPS, IPS y operadores del sistema aclaren sus cuentas financieras, en medio de la crisis fiscal del sector salud heredada del gobierno anterior.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/empresas/articulo/minsalud-pone-plazo-limite-a-eps-ips-y-operadores-para-aclarar-las-cuentas-del-sistema-de-salud/202655/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 15:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2201,
+      "titulo": "Gobierno propone excluir punto de reforma rural integral de verificación de la ONU al Acuerdo de Paz",
+      "categoria": "internacional",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno de Abelardo De la Espriella propuso a la Misión de Verificación de la ONU excluir el punto uno sobre la reforma rural integral del seguimiento al Acuerdo con las FARC. Los 15 países que integran la misión discutirán la propuesta este viernes; de aprobarse, se mantendría el monitoreo de la reincorporación de excombatientes y las garantías de seguridad para comunidades afectadas por el conflicto.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/proximo-viernes-dia-clave-para-mision-de-verificacion-de-onu-al-acuerdo-con-farc",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Mision de Verificacion ONU",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 15:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2200,
+      "titulo": "Viviane Morales asume Consejería de Paz para liderar desmonte de la 'Paz Total'",
+      "categoria": "gabinete",
+      "fecha": "2026-10-24",
+      "descripcion": "El presidente Abelardo de la Espriella designó a Viviane Morales como consejera Comisionada de Paz, menos de dos meses después de su salida del Ministerio de Educación (31 de agosto de 2026). Desde este nuevo cargo liderará una evaluación de la implementación de la política de 'Paz Total' del gobierno Petro con miras a su desmonte.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-viviane-morales-retos-BJ42690607",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Viviane Morales",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Consejería Comisionada de Paz",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 15:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2199,
       "titulo": "Actas de MinIgualdad muestran a Juliana Guerrero presidiendo juntas e incluyendo a su hermana como asesora",
       "categoria": "nepotismo",
@@ -51367,7 +51462,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-24",
-    "total_casos": 2110,
+    "total_casos": 2114,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
