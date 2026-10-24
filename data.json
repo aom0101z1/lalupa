@@ -221,6 +221,545 @@
   ],
   "casos": [
     {
+      "id": 2188,
+      "titulo": "Ejército destruye 26 explosivos del ELN en Arauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "El Ejército Nacional destruyó 26 artefactos explosivos del frente Domingo Laín Sáenz del ELN hallados en un depósito clandestino en Tame, Arauca, que estarían destinados a ataques contra la población civil y la Fuerza Pública.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruyo-26-explosivos-del-eln-en-arauca-estarian-destinados-a-ataques-contra-la-poblacion-y-la-fuerza-publica-3595917",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2187,
+      "titulo": "Vicepresidente Restrepo advierte 'bomba de tiempo' fiscal para 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "El vicepresidente Restrepo afirmó que el déficit primario se cuadruplicó y los costos de intereses de la deuda se duplicaron, calificando la situación fiscal de 2027 como una 'bomba de tiempo' para el país.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/vicepresidente-restrepo-advierte-una-bomba-de-tiempo-para-2027-por-la-deuda-y-el-deficit-fiscal-de-colombia-505030",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Vicepresidente Restrepo"
+      ],
+      "entidad": "Ministerio de Hacienda / Vicepresidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2186,
+      "titulo": "Salen seis funcionarios de MinHacienda por fallas en Presupuesto 2027",
+      "categoria": "gabinete",
+      "fecha": "2026-10-23",
+      "descripcion": "El Ministerio de Hacienda apartó a seis integrantes de su equipo de enlace con el Congreso tras detectarse fallas en la consolidación del articulado del Presupuesto General de la Nación para 2027.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/salen-seis-integrantes-del-equipo-minhacienda-por-fallas-en-presupuesto-general-de-2027",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2185,
+      "titulo": "Gobierno canjea $30,1 billones en TES y prepara nuevo canje en noviembre",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno Nacional informó que ya canjeó $30,1 billones en Títulos de Tesorería (TES), operación cuyo costo ascendió a $467.000 millones (4,5% del monto canjeado), con un próximo canje programado para noviembre de 2026.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-ya-canjeo-30-1-billones-en-tes-el-proximo-canje-se-hara-en-noviembre-4510067",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2184,
+      "titulo": "Exministro Lara deja listo inicio de obras del Canal del Dique antes de salir del MinInterior",
+      "categoria": "obras",
+      "fecha": "2026-10-24",
+      "descripcion": "El exministro del Interior Rodrigo Lara destacó como uno de sus logros en 76 días de gestión el inicio de las obras del Canal del Dique, brazo artificial del río Magdalena entre Calamar (Bolívar) y la bahía de Cartagena, según la Agencia Nacional de Infraestructura (ANI).",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/rodrigo-lara-gobierno-abelardo-de-la-espriella-canal-del-dique-FI42684045",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara"
+      ],
+      "entidad": "Ministerio del Interior / ANI",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2183,
+      "titulo": "Viceministro de Defensa renuncia para aspirar a la Gobernación del Atlántico",
+      "categoria": "gabinete",
+      "fecha": "2026-10-24",
+      "descripcion": "Juan Carlos Díaz Tarud, viceministro de Defensa para Asuntos de Veteranos y del GSED, renunció a su cargo para poder aspirar a la Gobernación del Atlántico en las elecciones de 2027, según confirmaron fuentes de Presidencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/renuncia-viceministro-defensa-juan-carlos-diaz-elecciones-gobernacion-atlantico-II42686196",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Díaz Tarud"
+      ],
+      "entidad": "Ministerio de Defensa / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2182,
+      "titulo": "Director del Sena advierte fallas en contratación y proveedores en Córdoba",
+      "categoria": "transparencia",
+      "fecha": "2026-10-24",
+      "descripcion": "Ricardo Torres, director del Sena, advirtió sobre irregularidades en la contratación y el manejo de proveedores en la regional Córdoba, señalando que 'se paga sin revisar', lo que evidencia fallas de control interno que el actual gobierno busca corregir.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/ricardo-torres-director-del-sena-advirtio-sobre-contratacion-y-proveedores-en-cordoba-se-paga-sin-revisar/202608/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Torres"
+      ],
+      "entidad": "Servicio Nacional de Aprendizaje (SENA)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2181,
+      "titulo": "EE.UU. revoca visas a mas de 60 altos funcionarios colombianos por narcotrafico y corrupcion",
+      "categoria": "sanciones",
+      "fecha": "2026-10-22",
+      "descripcion": "El Departamento de Estado de Estados Unidos retiro la visa a mas de 60 altos cargos de Colombia y Bolivia por presuntos vinculos con narcotrafico y corrupcion, en una medida de mayor alcance que la revocatoria previa a Ricardo Roa y otros funcionarios vinculados al caso UNGRD.",
+      "evidencia": "Reportado por Nacion.com",
+      "fuentes": [
+        {
+          "nombre": "Nacion.com",
+          "url": "https://www.nacion.com/el-mundo/estados-unidos-retira-visas-a-mas-de-60-altos/VWVW2D2W7VAO3KACW3FBIXE5II/story/",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento de Estado de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
+      "id": 2180,
+      "titulo": "Defensa de Veronica Alcocer responde sobre presunto ingreso de dinero desde Venezuela",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "La defensa de Veronica Alcocer envio a Eva Ferrer la respuesta de Manel Grau sobre el supuesto ingreso de dinero desde Venezuela, en el marco de la investigacion de la Fiscalia sobre presuntos viajes y traslados irregulares vinculados a la exprimera dama.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVWtraFFsNWwtYnBXdkNGenVHWG5yWmF4VWRmSHpzeGRyb0FpSzVxOVg1MkZ0Q3dMLUtmeFRWQkh6bjdrNEhlQjI5OFl2cVdJY2docXVmaW83VEVNSEFKelMtUkNncXpjQ21GUnZjbkxxT2pCYnNRUU9ES0J6TUVIeWVZNlo2MWNVSEJLVVZEM09CSmNHTERyTmZickRmRHNHVDVlWTMyb2k4blRFMDZaVVY1TzVSM1p0ZjJVR093alhEejM4amg0aGh6NGNSQkQyajFZeU83NFZYT2lTdG5SZl9Pa3liZnVfbVMtWGhwTEtfcnduRTVCOXAtbWdvcHfSAZoCQVVfeXFMTkg2empOeDJBblZlc1NwNTlHWE5PQVBxLUI5MkRlSFo4NXpzSDJmdVBrbFR4LTYyeGhFbF9Vc0NIMUlfSnJyT2QwelJuUGpwXzY1dVRJdTg2a3AyNkluVVJaRlZVNVpSVjJuR05fakwtNXBzTVJ0d1A0VmhpQW44YmY5a2xrOFF1VU5USm5HZlg1ZDFpX3BqWVRUbHE1NDFOVXBjMjBZZmM2UEF3eklJZTNHMlRCOWtFeGxQSWFXeFFDSXY0M05QdWdPS1RRdVBSNUlVNEVTVjVWcEg4QmwxRjlKZGtDRDdCazFTYl9sSkF4blY2SUtTcWR4Y3FDX2Vfei1oeGpLeF9GWXFqc1BaakhKbWRGaUZ4SUtR?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer",
+        "Eva Ferrer",
+        "Manel Grau"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
+      "id": 2179,
+      "titulo": "Wadith Manzur pide anular el proceso judicial del caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-22",
+      "descripcion": "En el marco del juicio por el caso de corrupcion en la UNGRD, el abogado Wadith Manzur solicito formalmente la nulidad del proceso judicial, en medio de cuestionamientos previos sobre presuntos sobornos a congresistas y la vinculacion de testigos clave.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnlVSHBmTlpMX3djVW4tVy1vUzFsUzFVbEdxek1hUXhoRTVzNk5kNi12TXMxMmtBMTRRZF9uLVNWMG1pb0x1QlJYX3g3QnhmZHQwZjZ1N0JnaUppbl9rUU04T1R6WlJiRWdDWGtMRHkydHNGa3NfMEE3NFczdzl5dHBTZk1xVlJSMlBV?oc=5",
+          "fecha": "2026-10-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Manzur"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
+      "id": 2178,
+      "titulo": "Gobierno asciende a 42 oficiales de las Fuerzas Militares",
+      "categoria": "gabinete",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno De la Espriella expidio un decreto para reforzar la cupula de las Fuerzas Militares con el ascenso de 42 oficiales, entre ellos 18 nuevos mayores generales y vicealmirantes y 24 brigadieres generales y contralmirantes. La decision debe ser avalada por el Senado de la Republica.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-busca-reforzar-la-cupula-de-las-fuerzas-militares-con-el-ascenso-de-42-oficiales-la-ultima-palabra-la-tendra-el-senado-3595967",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2177,
+      "titulo": "Gobierno interviene para evitar quiebra de Nutresa mediante venta a Presto",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "Nutresa firmo el contrato de compraventa con Presto luego de que el Gobierno De la Espriella, segun el presidente, actuara de inmediato para evitar la quiebra de la cadena de alimentos, en una intervencion presentada como un resultado positivo de gestion economica.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/abelardo-se-marca-la-victoria-por-la-compra-de-nutresa-a-presto/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Nutresa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2176,
+      "titulo": "Nuevo presidente de Ecopetrol se reune con Embajada de EE.UU.",
+      "categoria": "internacional",
+      "fecha": "2026-10-23",
+      "descripcion": "Joaquin Gutierrez, nuevo presidente de Ecopetrol, se reunio con representantes de la Embajada de Estados Unidos en Colombia para explorar nuevas posibilidades de cooperacion para el sector energetico, en el marco del relevo en la presidencia de la petrolera estatal.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/joaquin-gutierrez-presidente-de-ecopetrol-se-reunio-con-la-embajada-de-ee-uu-en-colombia-de-que-hablaron-505028",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Joaquin Gutierrez"
+      ],
+      "entidad": "Ecopetrol / Embajada de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2175,
+      "titulo": "EPM pide $800.000 millones al Gobierno Nacional por ola de calor en el Caribe",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-23",
+      "descripcion": "El gerente de EPM revelo que la empresa solo recupera $57 de cada $100 invertidos en el Caribe a traves de Afinia, y espera que el Gobierno De la Espriella declare una emergencia economica por la ola de calor para que lleguen recursos cercanos a $800.000 millones antes de finalizar 2026.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/epm-solo-recupera-57-de-cada-100-que-invierte-en-el-caribe-espera-800-000-millones-del-gobierno-de-la-espriella/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "EPM / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2174,
+      "titulo": "Gobierno anuncia acciones para dar seguridad juridica a 42 cajas de compensacion familiar",
+      "categoria": "economia",
+      "fecha": "2026-10-23",
+      "descripcion": "El Gobierno De la Espriella anuncio medidas orientadas a ofrecer mayor seguridad juridica a las 42 cajas de compensacion familiar del pais, buscando beneficiar a los trabajadores afiliados, tras la reciente intervencion y posterior levantamiento sobre 11 de ellas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-tomara-estas-acciones-en-cajas-de-compensacion-para-beneficiar-a-trabajadores/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2173,
+      "titulo": "Vicepresidente anuncia que ajuste fiscal 2027 debe ser cercano a $70 billones",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "Un dia despues del decreto de recorte presupuestal de $13,8 billones para 2026, el Vicepresidente senalo que el ajuste fiscal necesario para 2027 debe ser cercano a los $70 billones, en el marco del plan de rescate fiscal del gobierno De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ajuste-fiscal-de-colombia-2027-debe-ser-cercano-70-billones/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Vicepresidente de la Republica"
+      ],
+      "entidad": "Ministerio de Hacienda / Vicepresidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2172,
+      "titulo": "Recusan a la jueza del caso Sandra Ortiz en proceso por corrupción en la Ungrd",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "En Bogotá fue recusada la jueza que lleva el proceso judicial contra Sandra Ortiz por presunta corrupción relacionada con el caso UNGRD, lo que genera un nuevo incidente procesal dentro del juicio que se adelanta contra la exfuncionaria.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUzVKMmxRYUJBYm1JMU5pS1E2Y1FybWZhTEdUemJQZjFYZU1EVDVGa19TODYyVjBwMVJUajVYMnBHVzdweWlVazllRk5heFRDYzA3YWpCc0d6MXl0VWhoNWJweTYtSEpUc2ROTDBrMVdTeXZoenlWUHp1SkFEMjlaVlVnMjNzZ0J1b1lDbzNFS0wycmhBdncwbGxEUnUzZENHSkRIeGlsY3VOUjlaSlduNHQ1ckZ5eWh2R3paajdoZ2xWUHg1QU9mRFNDd9IB0AFBVV95cUxQRFBiODJLbWZ3LWpTeEoyRlphQ25lOVlKUWc1alVZeGQydVZkd1gwcG1rd2tGSy0waFRPR09JOFZBdktfd3Q1YU9NQ0t3NlBNTGYyNEF4STBYMGk2LTZic3p4bE1yU1hpVDU0WXV5MmZVZWtTTkpnbGpIaHRTd2xvX1A3c0FDNVhxTk1VTkNLQjlYamdyX3ZicF9TX2V0VlJXX0R3NC1pbVBRSjU4Yi1RZG82U1pwNFJ2M3BDTGpxalRnSTQ1MkZSSXJYMEcxTkI0?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "Rama Judicial / Juzgado de Bogotá",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
+      "id": 2171,
+      "titulo": "Procuraduría evalúa denuncia del Dapre contra Petro por instrumentalización de 48 mujeres",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-23",
+      "descripcion": "El procurador Gregorio Eljach se refirió a la denuncia que presentará el director del Dapre, Carlos Ríos, contra el expresidente Gustavo Petro por la presunta 'instrumentalización' de 48 mujeres, con la cual se buscaría demostrar cómo habría estado organizada la Casa de Nariño durante el gobierno anterior para fines políticos o electorales.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/procurador-gregorio-eljach-hablo-sobre-la-denuncia-que-presentara-el-director-del-dapre-contra-petro-por-supuesta-instrumentalizacion-de-48-mujeres-3595938",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gregorio Eljach",
+        "Carlos Ríos",
+        "Gustavo Petro"
+      ],
+      "entidad": "Procuraduría General de la Nación / Dapre",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
+      "id": 2170,
+      "titulo": "De la Espriella anuncia 300 subsidios de rehabilitación de vivienda para Pereira y Dosquebradas",
+      "categoria": "avances",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente Abelardo de la Espriella informó sobre recursos destinados al mejoramiento y construcción de viviendas en las zonas afectadas por el terremoto, incluyendo 300 subsidios de rehabilitación específicamente para los municipios de Pereira y Dosquebradas, como parte del plan de reconstrucción del Fondo Milagro.",
+      "evidencia": "Reportado por Facebook",
+      "fuentes": [
+        {
+          "nombre": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYkV6U3R4dlR6VkJmenU0bjc4b05CcGhLUWZCeENCZU5hek9obDlTMk5FV3dBcFY4a2wzaUpqRkZhMlluMXdReHdDLThibWZOeDA5eUVSd0JaUFZIaFJ4S3dRQUM5Nll3REVHNm5PMVdmVTF1ZUNEREIwNjBwel9TbzN2d0pyUjB0M1NVaDF4Zmd1SnhVdnY5a2tzREhzRlk0TFo1cDQ3SDNFWDNSTGxJSzJTYmlyRUlhYW9lU1ZBM0FWVy1IX3E1NVFLQ0ctajFiaW5WZ3pnQkV5d3FUOTRRRmx3Qi1NSDh3?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2169,
+      "titulo": "Capturas y armas incautadas en operativo contra disidencias de alias Calarcá en Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "Seis allanamientos realizados en el municipio de Gómez Plata, Antioquia, permitieron la captura de dos presuntos integrantes de la estructura 36 de las disidencias de alias Calarcá, dedicada a redes de extorsión. En los operativos también se incautaron armas de fuego.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-redes-de-extorsion-de-las-disidencias-de-alias-calarca-en-antioquia-dos-capturados-y-armas-incautadas-3595929",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Calarcá"
+      ],
+      "entidad": "Ejército Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2168,
+      "titulo": "MinVivienda recalcula costo de reconstrucción del terremoto a $54 billones",
+      "categoria": "dineros",
+      "fecha": "2026-10-24",
+      "descripcion": "El Ministerio de Vivienda recalculó el costo total de la reconstrucción tras el terremoto de magnitud 7,4, que pasó de una estimación inicial de $30 billones a $54 billones. De esa cifra, cerca de $19 billones corresponden exclusivamente al componente de vivienda, lo que implica un ajuste significativo en la planeación presupuestal de la emergencia.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minvivienda-recalculo-costo-de-reconstruccion-por-el-sismo-que-necesitara-54-billones-4509940",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2167,
+      "titulo": "Revelan foto del pasaporte de Verónica Alcocer que probaría viajes a Venezuela",
+      "categoria": "mentiras",
+      "fecha": "2026-10-23",
+      "descripcion": "Tras la denuncia de Eva Ferrer sobre presunto uso de aviones oficiales para transportar drogas, armas y dinero, se reveló una fotografía del pasaporte de Verónica Alcocer que mostraría sellos de viajes a Venezuela, aportando evidencia documental al proceso que investiga a la exprimera dama en la Fiscalía.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUpSVWxuT2Z6Rm9tUy1NYVRQYmI0ZjNSRjVON1o2QUZTb2VEbUtMcXZSWTI4TWloN25qZHhLa1hXQmNNZlBQMjdZNTdORGFxdkh0c0lROE9PQzI5WVhNRVJOVThUWXE4Y3hnNHdWSm1CcUY5MnVpcEF5SXJrZDJ4aWFVU1UycHdVQWFTaGg1UXVXei02dFhIZ3ZTQ0NkUEVUTWZiNGtQNEJ6UFRheE1vVXpOM3JDNHhGcUlYMWk0LVFETlVGdklfVU9KaEl6MEFGZzFQVGhQYnZUc2xMb1BtcDByUms1NFdFclRDQXFfOWY2VTFicFRFUlJ30gGUAkFVX3lxTE9zcnBfMFpCbHRCS004eUV1c25BWXB6ODUwSVVDYWE4YlZTcURJZ2RtaWtOMG1CclFBMmtZa1N4RTJ1SDE2ZDJfZmhTdk5YeWRsVVU2QWRxNUtSU3FLZkl0WlJLT2xmTC1GUEx0a3pLaTg2Q2pZTmlnNnVKNHBfOGE2M2Q5cUZNaFpmbFFQX29hNjgzWm1uS1MyWjdoNDRiNUQtRWwyaEltTVhHN0k1VTk0MXVjNmM1SEY3dVpOSF80em5od05LS0Y2STNyaG0xN3R0dENHNm9ZNk5sQ2NUSjNlNDl0clktQnpGYV9Qd054aTE0RUFjMnNwSklsOHhrcl9CbWYxS2RfTDd0TndYOTlVZFBndg?oc=5",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
+      "id": 2166,
+      "titulo": "Eva Ferrer declara ante la Fiscalía sobre traslado de drogas, armas y dinero en aviones oficiales vinculado a Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "La exconsejera presidencial Eva Ferrer continuó su declaración ante la Fiscalía 76 de la Dirección contra la Corrupción sobre denuncias de presunto traslado de drogas, armas y grandes cantidades de dinero en efectivo en aviones oficiales, en el marco del caso contra Verónica Alcocer. La diligencia, iniciada el miércoles, se suspendió este viernes por agotamiento de la testigo y continuará en noviembre.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eva-ferrer-asi-termino-la-segunda-diligencia-fiscalia-CG42660471",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Veronica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-24 03:17"
+    },
+    {
       "id": 2165,
       "titulo": "Terremoto afecta $2,25 billones en microcréditos y a más de 183.000 clientes",
       "categoria": "damnificados",
@@ -50576,8 +51115,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-23",
-    "total_casos": 2076,
+    "ultima_actualizacion": "2026-10-24",
+    "total_casos": 2099,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
