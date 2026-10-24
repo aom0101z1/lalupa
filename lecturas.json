@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 137,
+      "titulo": "Mas de ocho horas de ejercicio semanal casi detienen el deterioro cognitivo en Parkinson",
+      "resumen": "Un estudio de siete anos encontro que las personas con Parkinson que se mantuvieron mas activas fisicamente tuvieron una caida mas lenta en memoria, pensamiento y movimiento. Quienes hicieron mas de ocho horas de ejercicio semanal casi no mostraron deterioro cognitivo promedio durante el seguimiento.",
+      "por_que_leerlo": "Da una cifra concreta y accionable sobre cuanto ejercicio podria frenar el avance cognitivo del Parkinson.",
+      "seccion": "ciencia",
+      "tags": [
+        "parkinson",
+        "ejercicio",
+        "neurociencia",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 138,
+      "titulo": "NASA acelera planes para construir una base lunar en solo dos anos",
+      "resumen": "NASA esta adoptando la urgencia del programa Apollo para construir una base en la Luna y devolver astronautas a la superficie lunar en un plazo de apenas dos anos, acelerando los cronogramas previos del programa espacial.",
+      "por_que_leerlo": "Para entender el nuevo ritmo de la carrera espacial y sus implicaciones para la industria aeroespacial.",
+      "seccion": "ciencia",
+      "tags": [
+        "nasa",
+        "luna",
+        "espacio",
+        "exploracion espacial"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 139,
+      "titulo": "Por que pagamos de mas por carros usados: el sesgo del primer digito",
+      "resumen": "Un estudio revela que los compradores de carros usados ignoran sistematicamente los detalles del precio y se dejan influir por el primer digito del numero (sesgo del 'left-digit'), lo que los lleva a pagar de mas sin notarlo. El hallazgo confirma que los consumidores procesan precios de forma imprecisa incluso en compras grandes.",
+      "por_que_leerlo": "Explica un sesgo de precios que cualquier emprendedor puede aprovechar al definir el precio de sus propios productos.",
+      "seccion": "ciencia",
+      "tags": [
+        "psicologia de precios",
+        "finanzas personales",
+        "sesgos cognitivos",
+        "consumo"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-psychology-overpay-cars-left-digit.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 140,
+      "titulo": "Un sesgo oculto en el lenguaje humano desafia 70 anos de ciencia",
+      "resumen": "Analizando miles de millones de usos de palabras, un estudio encontro que el significado del lenguaje se organiza mas alrededor de poder, peligro y orden que de la emocion, como se asumia desde hace siete decadas. El hallazgo sugiere que el lenguaje humano tiene una preferencia oculta por la seguridad, reflejo de instintos de supervivencia ancestrales.",
+      "por_que_leerlo": "Cambia una idea asentada sobre como funciona el lenguaje humano, con implicaciones para linguistica e inteligencia artificial.",
+      "seccion": "ciencia",
+      "tags": [
+        "linguistica",
+        "psicologia",
+        "lenguaje",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 141,
+      "titulo": "Descubren un interruptor celular que quema grasa y bloquea nuevas celulas de grasa",
+      "resumen": "Cientificos hallaron que desactivar una proteina llamada Mitch hace que las celulas humanas quemen mas grasa y evita que se formen nuevas celulas grasas, replicando en el laboratorio efectos observados en ratones resistentes a la obesidad y con mayor resistencia muscular. El hallazgo abre la puerta a un nuevo tipo de tratamiento contra la obesidad.",
+      "por_que_leerlo": "Presenta un posible mecanismo biologico nuevo detras de futuros tratamientos contra la obesidad.",
+      "seccion": "ciencia",
+      "tags": [
+        "obesidad",
+        "biologia celular",
+        "medicina",
+        "metabolismo"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 142,
+      "titulo": "El proyecto insignia de relanzamiento nuclear en EE.UU. acumula fallos de seguridad",
+      "resumen": "El reactor que iba a simbolizar el regreso de la energía nuclear en Estados Unidos enfrenta contratiempos serios: un contratista cayó dentro de la cavidad del reactor y un conjunto de barras de combustible estuvo a punto de volcarse. Los incidentes generan dudas sobre la gestión de seguridad en el proyecto.",
+      "por_que_leerlo": "Porque expone los riesgos reales detrás del renovado entusiasmo por la energía nuclear.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia nuclear",
+        "seguridad",
+        "ingenieria",
+        "estados unidos"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 143,
+      "titulo": "Se necesitarían 22 lanzamientos de Starship para llevar astronautas a la Luna",
+      "resumen": "Nuevas estimaciones indican que el sistema de aterrizaje lunar de SpaceX requeriría hasta 22 lanzamientos de Starship, en gran parte para reabastecer de combustible la nave antes de la misión. La cifra evidencia la magnitud logística del programa Artemis frente a los plazos previstos.",
+      "por_que_leerlo": "Porque pone en perspectiva numérica lo complejo y costoso que es realmente volver a poner humanos en la Luna.",
+      "seccion": "tecnologia",
+      "tags": [
+        "spacex",
+        "starship",
+        "artemis",
+        "ingenieria espacial"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 144,
+      "titulo": "Daytona, una nube para agentes de IA, alcanza valoración de US$1.000 millones",
+      "resumen": "Daytona construye infraestructura en la nube donde cada agente de inteligencia artificial puede operar con su propio entorno de cómputo. La startup atrajo como inversionistas ángeles a fundadores de Stripe, Perplexity, Datadog y Mercor, además del fondo FirstMark.",
+      "por_que_leerlo": "Porque muestra hacia dónde se mueve la infraestructura necesaria para construir productos basados en agentes de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "agentes ia",
+        "startups",
+        "infraestructura",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 145,
+      "titulo": "Startup Warhound recauda US$200 millones para crear perros de guerra modificados geneticamente",
+      "resumen": "Warhound, fundada por Ben Lamm (Colossal Biosciences) y Palmer Luckey (Anduril), salio del modo sigiloso con una ronda de 200 millones de dolares para modificar geneticamente perros y equiparlos con tecnologia de Anduril para uso militar y policial. La empresa apuesta a que la biotecnologia aplicada a animales de trabajo sea un nuevo nicho de defensa.",
+      "por_que_leerlo": "Muestra como la biotecnologia y la industria de defensa convergen en un modelo de negocio con financiamiento multimillonario.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "biotecnologia",
+        "defensa",
+        "startups",
+        "financiamiento"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 146,
+      "titulo": "Hacker descubre que un televisor Samsung escuchaba con IA y su cuenta de OpenAI fue suspendida",
+      "resumen": "Un investigador hizo ingenieria inversa a un televisor Samsung y encontro que el asistente de IA integrado usaba una cuenta de OpenAI para procesar audio del hogar, cuenta que termino suspendida. El hallazgo expone como dispositivos 'inteligentes' pueden recolectar y enviar audio sin que el usuario lo sepa con claridad.",
+      "por_que_leerlo": "Revela un caso concreto de vigilancia oculta en electrodomesticos conectados que cualquier comprador de smart TVs deberia conocer.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "iot",
+        "inteligencia artificial",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 147,
+      "titulo": "Espana instala gigantescos condensadores sincronos para evitar que la red electrica vuelva a colapsar",
+      "resumen": "Tras el apagon del 28 de abril de 2025 que dejo a oscuras a la peninsula iberica, Espana despliega grandes maquinas que no generan electricidad pero estabilizan la frecuencia de la red, junto con mecanismos como el Servicio de Respuesta Activa de la Demanda (SRAD) para ajustar el consumo de grandes industrias. Estas medidas buscan dar inercia y estabilidad a un sistema cada vez mas dependiente de energias renovables intermitentes.",
+      "por_que_leerlo": "Explica con un caso real como los paises resuelven el reto tecnico de estabilizar redes electricas con alta penetracion renovable.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia",
+        "infraestructura",
+        "ingenieria",
+        "redes electricas"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/espana-esta-construyendo-gigantes-que-no-producen-electricidad-su-mision-evitar-que-red-vuelva-a-colapsar"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
+      "id": 148,
+      "titulo": "Europa cuestiona cuanto control tiene sobre su tecnologia militar tras un incidente con Starshield en Ucrania",
+      "resumen": "Un nuevo incidente con la red Starshield de SpaceX en Ucrania reavivo la pregunta sobre cuanto de la capacidad de defensa europea depende realmente de decisiones tomadas en Washington. Palantir respondio sobre su sistema Maven, usado por la OTAN, asegurando que no existe un 'boton de apagado' que Estados Unidos pueda activar unilateralmente.",
+      "por_que_leerlo": "Pone en perspectiva el riesgo estrategico de depender de proveedores tecnologicos extranjeros para infraestructura critica de defensa.",
+      "seccion": "tecnologia",
+      "tags": [
+        "geopolitica",
+        "defensa",
+        "soberania tecnologica",
+        "palantir"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/europa-empieza-a-preguntarse-quien-controla-realmente-su-tecnologia-militar-palantir-responde-maven-no-tiene-boton-apagado"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 14:19",
+      "auto_generated": true
+    },
+    {
       "id": 125,
       "titulo": "Analisis de casi 3.000 supernovas sugiere que la energia oscura cambia con el tiempo",
       "resumen": "Un estudio de 2.884 supernovas (estrellas en explosion) hallo evidencia de que la energia oscura, la fuerza que acelera la expansion del universo, podria no ser constante sino variar con el tiempo. El hallazgo cuestiona uno de los pilares de la cosmologia moderna y podria obligar a revisar los modelos actuales del universo.",
