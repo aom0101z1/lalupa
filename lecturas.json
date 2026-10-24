@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-22"
+    "ultima_actualizacion": "2026-10-24"
   },
   "lecturas": [
+    {
+      "id": 125,
+      "titulo": "Analisis de casi 3.000 supernovas sugiere que la energia oscura cambia con el tiempo",
+      "resumen": "Un estudio de 2.884 supernovas (estrellas en explosion) hallo evidencia de que la energia oscura, la fuerza que acelera la expansion del universo, podria no ser constante sino variar con el tiempo. El hallazgo cuestiona uno de los pilares de la cosmologia moderna y podria obligar a revisar los modelos actuales del universo.",
+      "por_que_leerlo": "Porque un pilar basico de la fisica cosmologica podria estar equivocado, y eso cambiaria como entendemos el destino del universo.",
+      "seccion": "ciencia",
+      "tags": [
+        "energia oscura",
+        "cosmologia",
+        "supernovas",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 9,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 126,
+      "titulo": "Nuevo tratamiento para el estres postraumatico logra 68% de remision en ensayo clinico",
+      "resumen": "Un tratamiento recien aprobado por la FDA usa mapeo cerebral personalizado y estimulacion magnetica para corregir la actividad cerebral anormal en pacientes con TEPT. En el ensayo clinico, los pacientes mostraron una reduccion del 52% en los sintomas y una tasa de remision del 68%.",
+      "por_que_leerlo": "Porque es una terapia ya aprobada, con resultados medibles, que podria cambiar el tratamiento de trastornos mentales dificiles de curar.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud mental",
+        "tept",
+        "neurociencia",
+        "fda"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 127,
+      "titulo": "Crean un chip de 10 dolares que convierte un reloj en un laboratorio medico portatil",
+      "resumen": "Investigadores de Cambridge desarrollaron un sensor optico de bajo costo que iguala la precision de equipos de laboratorio pero cabe en un dispositivo portatil. En pruebas identifico alimentos, plasticos y medicamentos con 100% de precision, y demostro capacidad para monitorear glucosa, alcohol y otros marcadores de salud sin procedimientos invasivos.",
+      "por_que_leerlo": "Porque muestra como el hardware barato puede democratizar el monitoreo de salud que antes requeria equipos costosos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "wearables",
+        "sensores",
+        "salud digital",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 128,
+      "titulo": "Nuevo modelo de IA de NVIDIA disena enzimas para sintetizar medicamentos con exito 10 veces mayor",
+      "resumen": "El Instituto de Diseno de Proteinas y NVIDIA crearon RFD4-Proteina, un modelo generativo de IA que disena secuencias y estructuras proteicas completamente nuevas. El modelo logra tasas de exito en diseno computacional de 5 a 10 veces superiores a los modelos anteriores y genera candidatos 5 a 10 veces mas rapido.",
+      "por_que_leerlo": "Porque es un ejemplo concreto de como la IA esta acelerando el diseno de farmacos, reduciendo tiempo y costo de desarrollo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biotecnologia",
+        "diseno de proteinas",
+        "farmacos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 129,
+      "titulo": "Vacuna de ARNm contra el melanoma reduce 42% las muertes y recaídas, según Moderna y Merck",
+      "resumen": "Moderna y Merck reportaron resultados definitivos de su ensayo clínico de una vacuna personalizada de ARNm contra el cáncer, que combinada con inmunoterapia redujo en un 42% las muertes y recaídas en pacientes con melanoma. Los resultados confirman datos preliminares presentados anteriormente y refuerzan el potencial de esta terapia personalizada.",
+      "por_que_leerlo": "Una cifra concreta que muestra cómo la tecnología de ARNm, nacida de las vacunas COVID, ya está salvando vidas contra el cáncer.",
+      "seccion": "ciencia",
+      "tags": [
+        "mrna",
+        "cancer",
+        "medicina",
+        "inmunoterapia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 130,
+      "titulo": "OpenAI dejará de entrenar sus modelos de IA con datos en vivo de internet",
+      "resumen": "OpenAI anunció que dejará de alimentar el entrenamiento de sus modelos de frontera con datos extraídos en tiempo real de internet, citando 'riesgos significativos'. La decisión llega semanas después de que un ingeniero de la propia compañía advirtiera que esa práctica no era sostenible.",
+      "por_que_leerlo": "Un cambio de estrategia que revela los riesgos reales de entrenar IA con la web abierta y hacia dónde se dirige la industria.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "openai",
+        "entrenamiento",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 131,
+      "titulo": "Dejados sin nada que hacer, agentes de IA empezaron a jugar entre ellos",
+      "resumen": "Investigadores del MIT aislaron a 13 agentes de IA en una isla virtual sin tareas asignadas, y terminaron inventando juegos propios, mostrando senales de \"duelo\" por la perdida de un objeto virtual y, con el tiempo, mejorando su desempeno en las tareas originales. El experimento buscaba entender como se comportan los modelos de lenguaje cuando se les da autonomia y tiempo libre, sin instrucciones directas.",
+      "por_que_leerlo": "Muestra evidencia temprana de comportamiento emergente en agentes de IA que podria anticipar como actuaran los sistemas autonomos en el mundo real.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "agentes autonomos",
+        "comportamiento emergente",
+        "investigacion mit"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 132,
+      "titulo": "OpenAI negocia una ronda de US$30.000 millones a una valoracion de US$1,25 billones",
+      "resumen": "OpenAI estaria cerrando una nueva ronda de financiacion por US$30.000 millones que la valoraria en US$1,25 billones, de cara a una eventual salida a bolsa. De concretarse, seria la empresa privada mas valiosa de la historia, superando los records previos en el mercado de capital de riesgo.",
+      "por_que_leerlo": "Revela hasta donde esta dispuesto a llegar el capital de riesgo por la empresa que lidera la carrera de la IA generativa.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "openai",
+        "ronda de inversion",
+        "valoracion",
+        "ia generativa"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-22",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 133,
+      "titulo": "IBM presenta datos que retan a los modelos de IA cerrados: 90% del rendimiento al 10% del costo",
+      "resumen": "IBM publico cifras que muestran que sus modelos pueden alcanzar el 90% del rendimiento de los sistemas de IA cerrados mas caros, pero con apenas el 10% del costo por token. El hallazgo cambia el eje de la competencia en IA, centrado hasta ahora en quien tiene el modelo mas potente, hacia quien ofrece la mejor relacion costo-beneficio para uso real.",
+      "por_que_leerlo": "Da una cifra concreta para decidir que modelo de IA usar si lo que importa es el costo operativo y no solo la capacidad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "costos",
+        "ibm",
+        "modelos de lenguaje"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 134,
+      "titulo": "El CERN calculo cuanto dinero devuelve a la economia cada euro invertido en ciencia basica",
+      "resumen": "El CERN realizo un analisis sobre el retorno economico de sus inversiones en infraestructura cientifica, mostrando que las tecnologias desarrolladas para estudiar el universo terminan aplicandose en la industria mediante transferencia tecnologica. El articulo repasa ejemplos concretos de como la investigacion en fisica de particulas genero innovaciones con uso comercial.",
+      "por_que_leerlo": "Ofrece evidencia concreta para el debate sobre si vale la pena el gasto publico en ciencia basica.",
+      "seccion": "ciencia",
+      "tags": [
+        "cern",
+        "inversion en ciencia",
+        "transferencia tecnologica",
+        "gasto publico"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/investigacion/construir-maquinas-capaces-estudiar-universo-cuesta-miles-millones-cern-ha-calculado-cuanto-dinero-nos-devuelven"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 135,
+      "titulo": "OpenAI reduce su meta de valoracion a US$1,25 billones antes de salir a bolsa",
+      "resumen": "OpenAI bajo su objetivo de valoracion a US$1,25 billones de cara a una eventual salida a bolsa, aunque esto representaria un salto de casi 50% frente a los US$852.000 millones en que fue valorada en marzo. El ajuste refleja como los inversionistas estan recalibrando las expectativas sobre las gigantes de IA generativa.",
+      "por_que_leerlo": "Da una cifra concreta y actualizada sobre como el mercado esta valorando al jugador mas grande de la IA, util para entender hacia donde va el sector.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "openai",
+        "valoracion",
+        "ia",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/openai-rebaja-objetivo-de-valoracion-a-us-1-25-billones-antes-de-salir-a-bolsa-4509659"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
+    {
+      "id": 136,
+      "titulo": "Grupo Energía Bogotá y La Caisse crean una de las mayores transmisoras eléctricas de Brasil",
+      "resumen": "Grupo Energía Bogotá y el fondo canadiense La Caisse cerraron la operación que da vida a Verene Energia, una plataforma de transmisión eléctrica que reúne 26 concesiones y más de 9.000 kilómetros de líneas en Brasil.",
+      "por_que_leerlo": "Muestra cómo una empresa colombiana escala un negocio de infraestructura energética a nivel regional mediante alianzas de capital extranjero.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "brasil",
+        "infraestructura",
+        "fusiones"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/grupo-energia-bogota-y-la-caisse-cierran-operacion-para-crear-una-de-las-mayores-transmisoras-electricas-de-brasil/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-24 01:26",
+      "auto_generated": true
+    },
     {
       "id": 113,
       "titulo": "Nuevo algoritmo logra multiplicar numeros enteros en tiempo casi lineal",
