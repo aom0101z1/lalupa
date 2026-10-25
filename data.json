@@ -221,6 +221,171 @@
   ],
   "casos": [
     {
+      "id": 2218,
+      "titulo": "Gobierno anuncia tijeretazo presupuestal de $9,8 billones a más de 110 entidades",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno Nacional anunció un recorte presupuestal de $9,8 billones distribuido entre más de 110 entidades estatales. El Instituto Nacional de Vías (Invías) registró el mayor recorte con $1,44 billones, seguido por la Aeronáutica Civil con una reducción de $949.142 millones, como parte del ajuste fiscal del Gobierno De la Espriella.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-nacional-anuncia-tijeretazo-presupuestal-a-114-entidades-por-9-8-billones-4509957",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2217,
+      "titulo": "ANT denuncia deterioro de Isla Fiesta tras recuperación en gobierno anterior",
+      "categoria": "empalme",
+      "fecha": "2026-10-24",
+      "descripcion": "Lina Garrido, directora de la Agencia Nacional de Tierras (ANT), denunció el deterioro de Isla Fiesta, un predio que había sido recuperado por la administración anterior, señalando falta de mantenimiento y seguimiento tras el cambio de gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/lina-garrido-directora-de-la-ant-denuncio-deterioro-de-isla-fiesta-recuperada-por-la-anterior-administracion/202646/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Lina Garrido"
+      ],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2216,
+      "titulo": "De la Espriella nombra a Ricardo Arias Macías como consejero de Derechos Humanos",
+      "categoria": "gabinete",
+      "fecha": "2026-10-25",
+      "descripcion": "El presidente Abelardo De la Espriella designó a Ricardo Arias Macías como consejero presidencial de Derechos Humanos, en el marco de la conformación de su equipo de gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/ricardo-arias-macias-fue-designado-por-abelardo-de-la-espriella-como-consejero-de-derechos-humanos/202621/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Arias Macías",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2215,
+      "titulo": "Captura de cuatro disidentes de las FARC en Bolívar",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "Autoridades colombianas detuvieron a cuatro miembros de una disidencia de las FARC en una operación ejecutada en el departamento de Bolívar, según informó el presidente Abelardo de la Espriella.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/detienen-a-cuatro-disidentes-de-las-farc-en-una-operacion-en-el-noroeste-de-colombia/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2214,
+      "titulo": "Minagricultura deroga las Appa creadas en el gobierno Petro",
+      "categoria": "empalme",
+      "fecha": "2026-10-24",
+      "descripcion": "El Ministerio de Agricultura derogó las llamadas Áreas de Protección Patrimonial Agrícola (Appa) establecidas durante el gobierno Petro en el Suroeste antioqueño, una medida que recaía sobre 102.801 hectáreas de la región.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minagricultura-deroga-las-llamadas-appa-de-petro-en-el-suroeste-antioqueno-4510426",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2213,
+      "titulo": "Incautación de 555 kilos de cocaína en operación multinacional",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "El presidente Abelardo De la Espriella anunció la incautación de 555 kilos de cocaína como resultado de una operación multinacional contra el narcotráfico, afirmando que 'no habrá tregua' contra estas organizaciones criminales.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-anuncio-incautacion-de-555-kilos-de-cocaina-en-operacion-multinacional-no-habra-tregua/202634/",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2212,
+      "titulo": "Colapso de edificio en demolición pendiente deja personas atrapadas en Pereira",
+      "categoria": "gestion-local",
+      "fecha": "2026-10-25",
+      "descripcion": "Un edificio en el centro de Pereira que esperaba ser demolido tras el terremoto del 10 de agosto, y que tenía restricción de ingreso por daños estructurales, se desplomó dejando dos habitantes de calle atrapados bajo los escombros, según el Cuerpo de Bomberos de Pereira. El hecho evidencia fallas en el control y manejo de inmuebles afectados pendientes de demolición.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colapsa-edificio-centro-pereira-terremoto-personas-atrapadas-HB42709907",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Pereira / Cuerpo de Bomberos de Pereira",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 03:11",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
       "id": 2211,
       "titulo": "ICBF denuncia 'elefante blanco' con más de $4.600 millones invertidos en Bogotá",
       "categoria": "recursos-publicos",
@@ -51651,8 +51816,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-24",
-    "total_casos": 2122,
+    "ultima_actualizacion": "2026-10-25",
+    "total_casos": 2129,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
