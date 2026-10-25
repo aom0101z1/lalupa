@@ -221,6 +221,300 @@
   ],
   "casos": [
     {
+      "id": 2234,
+      "titulo": "Ministerio de Trabajo cambia procedimiento de inspección laboral",
+      "categoria": "economia",
+      "fecha": "2026-10-25",
+      "descripcion": "El Ministerio del Trabajo del nuevo gobierno modificó el procedimiento de inspección laboral: ahora, antes de imponer una multa, se dará primero una advertencia con un plazo para corregir la falta, salvo cuando la conducta constituya un delito o el caso sea competencia de otra autoridad.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/ministerio-del-trabajo-cambia-la-inspeccion-laboral-primero-advertencia-y-plazo-luego-sancion-505071",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2233,
+      "titulo": "Gobierno levanta restricciones de las APPA en Antioquia tras hallazgos de la UPRA",
+      "categoria": "empalme",
+      "fecha": "2026-10-25",
+      "descripcion": "La Unidad de Planificación Rural Agropecuaria (UPRA) concluyó que las Áreas de Protección Patrimonial Agraria (APPA), creadas en el gobierno Petro, tenían fallas cartográficas y vacíos de consulta previa. Como resultado, el Gobierno levantó las restricciones sobre 103.000 hectáreas en Antioquia y anunció que Córdoba y Tolima serán las siguientes regiones en revisión de esta figura.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fin-appa-antioquia-gobierno-restricciones/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / UPRA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2232,
+      "titulo": "Consejo de Política Criminal avala ley de sometimiento de De la Espriella pese a reparos de la Corte Suprema",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "El Consejo de Política Criminal dio aval a la ley de sometimiento a la justicia impulsada por el gobierno de Abelardo De la Espriella, a pesar de que la Corte Suprema de Justicia había expresado reparos sobre la iniciativa. La norma busca ofrecer un marco jurídico para la entrega de miembros de grupos armados ilegales.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdnA1S2NGdWp5aElwY1pudzdFS21uNlJURFFCN3Z0amhJZ3dneFU3clI2Y1Z5RktSZm1NYmIwU3pfNHBLb29JcGJGcDREbnNOcktvdndwaVNfM1E4THVBX2ViRDl5TXhENU1RM25VdGxaY0pKNkdvNXBWamNaaEdOUldEbVZPRnM5UWhOSnFTNW1yTjVTbW1ENFhuWERPaEFFbURfaUNDMERDZ1RncFJIYkw2SDgzVTliOU54QUxxVFM1UVlXdDNSYVV6bVVUVmFHN0VOMU01ZXdLb1JxY2NsWGZtb2dCaktXaXF2a0RUS0XSAYsCQVVfeXFMTkRVdU5HRGNZYl9yYTZJV2NxLUdLTDNRTVZGeW5kaEpzN3c0ZHl2aUR0TGVPVF9rOTBTVFYyclVwNHNhVktuSURWVHAwcW1fM3drQzAzaVFaWE5tcnNWR1BXUVEtalBxZnE5dThMa204dVNrZWNHN012czRmX2ZuVnlwQm1rc2puZDZQNVNDV3FaS25YZkpuVUJyWkpGMy1yYWtvM1Z5VHlHaDEwTUg1ZllvOHBsc0l4M3VCUTJVbDJLUC1oVFNtaFpld2ExSlpZbUtnUEVBbllDOTk1bUlCZEdKNC1DOE1vbElnb1hoc1JwRG5vRlF0MzRtazBMQUp0QjBCY3BtdVZGdUow?oc=5",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Consejo de Política Criminal / Corte Suprema de Justicia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2231,
+      "titulo": "Nuevo ministro del Interior define agenda legislativa prioritaria",
+      "categoria": "gabinete",
+      "fecha": "2026-10-24",
+      "descripcion": "El nuevo ministro del Interior, Alejandro Ordóñez, asumió el cargo con tres proyectos bandera como prioridad: la ley de rescate fiscal, la ley de sometimiento y el estatuto antiterrorista, buscando consolidar mayorías legislativas para el gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/los-retos-del-nuevo-ministro-del-interior-con-tres-proyectos-bandera-las-prioridades-de-alejandro-ordonez-3596060",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordóñez"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2230,
+      "titulo": "Contraloría: reforma agraria fue el mayor incumplimiento del Plan de Desarrollo de Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-24",
+      "descripcion": "La Contraloría General de la República reportó que la entrega de tierras durante el gobierno Petro alcanzó apenas el 6% de la meta fijada en el Plan Nacional de Desarrollo del cuatrienio, convirtiéndose en el mayor incumplimiento identificado en la evaluación del plan.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/agro/la-reforma-agraria-el-mayor-incumplimiento-del-plan-de-desarrollo-de-petro-las-cifras-de-la-contraloria-505064",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36"
+    },
+    {
+      "id": 2229,
+      "titulo": "Ecuador acusa a Petro de vínculos con estructura de narcotráfico desarticulada",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-23",
+      "descripcion": "El presidente de Ecuador, Daniel Noboa, afirmó que su gobierno desarticuló 'una estructura grande' de narcotráfico vinculada al expresidente colombiano Gustavo Petro, en medio de un cruce de acusaciones mutuas sobre dictadura y narcotráfico entre ambos mandatarios.",
+      "evidencia": "Reportado por Diario EL PAIS Uruguay",
+      "fuentes": [
+        {
+          "nombre": "Diario EL PAIS Uruguay",
+          "url": "https://www.elpais.com.uy/mundo/dictadura-detenciones-y-narcotrafico-el-explosivo-cruce-de-acusaciones-entre-daniel-noboa-y-gustavo-petro",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Daniel Noboa"
+      ],
+      "entidad": "Gobierno de Ecuador / Presidencia de Colombia (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36"
+    },
+    {
+      "id": 2228,
+      "titulo": "MinTransporte alerta por baja ejecución en obras viales del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-25",
+      "descripcion": "El Ministerio de Transporte del nuevo gobierno identificó una alerta por falta de ejecución en obras viales durante la administración Petro y anunció medidas para recomponer el rumbo de los proyectos de infraestructura vial pendientes.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTjExT25tVVJqNlM0VGFRMDZmZEUyVDVKeHRwak5YdzhjS01MbzlFLUZhT0lJZWtrWE5oMTA2T2VPVU5KZ3lHRWtxR0d6QWx6bFEtNnFjUUN0a09iY3RrWjhmZkRZWG1feS1CVllDRXBnS0ZHbGFreDgxUkdlN193UF9QZTdpTWFaTmZsSF9wSkFHMUFiVmFZdDBuYXIwT2M3YjZoT0Z5VE43VHN1dTFHLWxHMmFBYzNEa3lCRFctQkxmVU9NU2pJX040c1VUdWRyOUhaWTdCZVFfOWVEdG5mbkNScHpxWGVGbklYdHY1dGhrMm9yMkHSAfsBQVVfeXFMUE5CZVVfc1BRUjBlWFo2cVVrS3Rmb2pXQ2NmS3NQeC1NNjJRXzJxU0FacXczNzBSRzFIR0cyeTdDWWdsOTFUNUtXcndZZ2hnVGdwSEZCc2hZU1RrUUhxMUptTnBCWGg0Z2dVM19wajZqSmdYU1JwR2RFUG9Pd0hLX2JhajROYS1pdkxjVEE0a2d1dmFwZXg4SjVQU1pDNlEtN0FjYUZCMFk2LUFCTkJLSzh0Yjkxd0Ztb1pzNXFmTlc3OHV5cVQ2ejlRU1RGb3czYnh3WE56TmdnN0pYNkJUZzkzRnV0bUwzTXZzTmdmNW1tQTBDRkNXR2l4VmM?oc=5",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36"
+    },
+    {
+      "id": 2227,
+      "titulo": "Operación Ónix deja diez muertos del ELN en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "El presidente Abelardo de la Espriella anunció el 25 de octubre de 2026 el resultado de la Operación Ónix, ejecutada por las Fuerzas Militares y la Policía Nacional en El Tambo, Cauca, que dejó diez integrantes del ELN muertos, incluyendo dos señalados cabecillas, según El Colombiano.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/operacion-onix-muertos-del-eln-cauca-IA42712758",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2226,
+      "titulo": "Joven denuncia a Gustavo Petro por pago de servicios sexuales con contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-25",
+      "descripcion": "Una joven denunció ante Semana que el expresidente Gustavo Petro le habría pagado servicios sexuales a través de contratos estatales, y aseguró que existiría una red de mujeres involucradas en esta práctica, según reportó Semana el 25 de octubre de 2026.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/exclusivo-joven-denuncia-a-gustavo-petro-y-dice-que-le-pago-servicios-sexuales-con-contratos-habla-de-una-red-de-mujeres/202612/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36"
+    },
+    {
+      "id": 2225,
+      "titulo": "Capturan a 8 personas con fines de extradición, una vinculada a 42 millones de dólares en criptomonedas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-23",
+      "descripcion": "La Fiscalía reportó la captura de ocho personas con fines de extradición a Estados Unidos. Siete son requeridas por narcotráfico y lavado de activos, mientras un caso separado involucra a Nassim Orfale Vásquez, vinculado a 42 millones de dólares en criptomonedas, según Diariobitcoin (23 de octubre de 2026).",
+      "evidencia": "Reportado por Diariobitcoin.com",
+      "fuentes": [
+        {
+          "nombre": "Diariobitcoin.com",
+          "url": "https://www.diariobitcoin.com/estados-unidos/colombia-arresta-a-8-personas-para-su-extradicion-a-ee-uu-una-vinculada-a-usd-42-millones-en-criptos/",
+          "fecha": "2026-10-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Nassim Orfale Vásquez"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2224,
+      "titulo": "EPS Coosalud gastó en casinos y prostíbulos durante intervención estatal en gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-25",
+      "descripcion": "La Silla Vacía reveló extractos bancarios de una empresa del holding de la EPS Coosalud, intervenida en noviembre de 2024 durante el gobierno de Gustavo Petro, que muestran pagos y retiros millonarios en casinos y prostíbulos, además de contratos presuntamente irregulares, mientras la entidad -con 3 millones de afiliados- estaba bajo intervención estatal.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/eps-gasto-en-casinos-y-prostibulos-mientras-estuvo-intervenida-en-era-petro/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Coosalud / Superintendencia de Salud (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36"
+    },
+    {
+      "id": 2223,
+      "titulo": "Gobierno acumula 142 extradiciones con la de alias 'Mocho Olmedo'",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "Con la extradición de alias 'Mocho Olmedo', cabecilla del frente 33 de las disidencias de las Farc acusado de reclutamiento de menores, desplazamientos forzados y asesinatos, el Gobierno de Abelardo de la Espriella acumula 142 extradiciones de nacionales a Estados Unidos, según El Nuevo Siglo (24 de octubre de 2026).",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/con-alias-mocho-olmedo-el-gobierno-ha-extraditado-142-nacionales",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias Mocho Olmedo"
+      ],
+      "entidad": "Gobierno Nacional / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2222,
+      "titulo": "Gobierno anuncia medida sobre contratos de prestación de servicios",
+      "categoria": "economia",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció una nueva medida relacionada con los contratos de prestación de servicios que afectaría a miles de trabajadores en el país, según reportó RED+ Noticias el 24 de octubre de 2026.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSzFUQUlvVWcxMVVTQzREajFGdVNvdUlVZHc0OG9SN1JfLV8taThadU15YVFncjZFekdOdmVCRXl3aUpQQW1aTEFNS1lPOVZnN09seWQwYm5MeTlva3R1UVlVSm9lWTh6T3dUQk5iZFFsOTAyRnJlcG9PZnRLc3pXZ19XRmU1bzNTbTNlbWNUQTVBOTVrRmx6OUZUb05lSUJRZldrOV9KcWV3WkE3ZnI3VVlMcGNDQlhETDFGaFJWNDRWX1VaWlgyMldRMllDTTI0QXJlNm1iVWRuNDQ3U2U4Uks3dkg1ZFJBMmdELVJB?oc=5",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 15:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2221,
       "titulo": "Ejército halla con vida a soldado desaparecido tras ataque con drones en Segovia",
       "categoria": "seguridad",
@@ -51885,7 +52179,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-25",
-    "total_casos": 2132,
+    "total_casos": 2145,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
