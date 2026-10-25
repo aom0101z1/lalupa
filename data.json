@@ -221,6 +221,218 @@
   ],
   "casos": [
     {
+      "id": 2243,
+      "titulo": "Pasivos de las EPS alcanzan $35 billones al cierre de 2025, sin incluir Nueva EPS",
+      "categoria": "empalme",
+      "fecha": "2026-10-25",
+      "descripcion": "Un reporte revela que los pasivos acumulados por las EPS llegaron a $35 billones al cierre de 2025, cifra que no incluye las obligaciones de la Nueva EPS, evidenciando el deterioro financiero del sistema de salud heredado del gobierno Petro.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/empresas/articulo/pasivos-reportados-por-las-eps-alcanzaron-35-billones-al-cierre-de-2025-sin-incluir-las-obligaciones-de-la-nueva-eps/202648/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Salud / EPS",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2242,
+      "titulo": "Ministra de Educación constata crisis en el Fomag en Medellín",
+      "categoria": "empalme",
+      "fecha": "2026-10-25",
+      "descripcion": "La ministra de Educación, Ilva Myriam Hoyos, realizó una visita técnica a la sede del Fomag en Medellín y constató represamiento de trámites, una alta cantidad de tutelas diarias y atraso en los desembolsos a la red asistencial, evidenciando una crisis heredada en el sistema de salud del magisterio.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/ministra-de-educacion-verifica-crisis-del-fomag-en-medellin",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Ilva Myriam Hoyos"
+      ],
+      "entidad": "Ministerio de Educación / Fomag",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2241,
+      "titulo": "Capturan a alias Neil por intercambio de armas por cocaína en La Guajira",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "En un operativo realizado en Maicao, La Guajira, con participación de la Policía Nacional, la Fiscalía y apoyo de la DEA, fue capturado alias Neil, señalado de coordinar el intercambio de armas por cocaína en la región.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-la-guajira-a-alias-neil-senalado-de-coordinar-intercambio-de-armas-por-cocaina-3596160",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Neil"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación / DEA",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2240,
+      "titulo": "FBI investiga contratos del entorno de Petro en Venezuela",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-25",
+      "descripcion": "El FBI indaga sobre negocios y contratos vinculados al entorno del expresidente Gustavo Petro en Venezuela, señalando al empresario catalán Manel Grau, su hermano Gregorio Grau y a Danilo Romero, compadre de Petro, como parte de las averiguaciones por presuntas irregularidades en contratos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/fbi-indaga-sobre-contratos-del-entorno-de-petro-en-venezuela/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Manel Grau",
+        "Gregorio Grau",
+        "Danilo Romero",
+        "Gustavo Petro"
+      ],
+      "entidad": "FBI / Presidencia de Colombia (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27"
+    },
+    {
+      "id": 2239,
+      "titulo": "Amarilo lleva megaproyecto de $2,4 billones a Pereira tras el sismo",
+      "categoria": "avances",
+      "fecha": "2026-10-25",
+      "descripcion": "El grupo constructor Amarilo anunció que replicará en Pereira el modelo de su megaproyecto Quora de Bogotá, con una inversión de $2,4 billones, financiando estudios técnicos y jurídicos para que la Alcaldía replantee el centro de la ciudad tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/primicia-amarilo-llevara-a-pereira-el-modelo-de-quora-su-megaproyecto-de-2-4-billones-en-bogota-tras-el-sismo-505006",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Amarilo / Alcaldía de Pereira",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2238,
+      "titulo": "Gobierno expide Decreto 1525 sobre protesta y orden público",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "La Presidencia de la República expidió el Decreto 1525, que reafirma lineamientos sobre el manejo de la protesta social y el orden público, buscando garantizar derechos de manifestantes y seguridad ciudadana, enfatizando el rol de la autoridad estatal en la convivencia.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-reafirma-lineamientos-sobre-protesta-y-orden-publico-con-decreto-1525",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2237,
+      "titulo": "Plan de choque en salud de De la Espriella avanza 13%",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-24",
+      "descripcion": "El plan de choque en salud del gobierno De la Espriella registra un avance del 13%, según balance oficial, en medio de denuncias por fallas persistentes en traslados de pacientes, como el caso de un bebé de tres meses que murió en Córdoba tras 20 días de espera por un traslado, denunciado por el gobernador de Antioquia Andrés Julián Rendón.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/salud-plan-de-choque-de-abelardo-de-la-espriella-avanza-13-que-falta-y-que-ha-logrado-IB42705814",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan José Barroso Betín",
+        "Andrés Julián Rendón"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2236,
+      "titulo": "Ejército desmantela mina ilegal de oro del ELN en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "El Ejército Nacional reportó un golpe a las finanzas del ELN tras el desmantelamiento de una mina ilegal de oro en el departamento del Chocó, afectando una de las principales fuentes de financiación del grupo armado en la región.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/ejercito-impacta-finanzas-del-eln-tras-desmantelamiento-de-mina-ilegal-de-oro-en-choco/202654/",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2235,
+      "titulo": "Red de presunta corrupción en contratos del Sena en Córdoba por $1.698 millones",
+      "categoria": "contratos",
+      "fecha": "2026-10-25",
+      "descripcion": "La administración de De la Espriella destapó presuntas irregularidades en convenios de bienestar y medicamentos del Sena regional Córdoba por más de $1.690 millones. El Gobierno anunció que llevará los hallazgos a la Fiscalía y a entes disciplinarios, además de ordenar una auditoría integral a todas las sedes del Sena en el país.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/destapan-presunta-red-de-corrupcion-en-contratos-del-sena-en-cordoba",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Funcionarios regional Sena Córdoba"
+      ],
+      "entidad": "Servicio Nacional de Aprendizaje (SENA)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-25 20:27"
+    },
+    {
       "id": 2234,
       "titulo": "Ministerio de Trabajo cambia procedimiento de inspección laboral",
       "categoria": "economia",
@@ -52179,7 +52391,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-25",
-    "total_casos": 2145,
+    "total_casos": 2154,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
