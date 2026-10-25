@@ -221,6 +221,74 @@
   ],
   "casos": [
     {
+      "id": 2221,
+      "titulo": "Ejército halla con vida a soldado desaparecido tras ataque con drones en Segovia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "Tropas del Ejército Nacional encontraron con vida este 24 de octubre al soldado Andrés Casterbondo Macías, desaparecido desde un ataque con drones contra militares en zona rural de Segovia, nordeste antioqueño. El hallazgo se produjo tras seis días de búsqueda en la vereda Las Palmas, según informó la Primera División del Ejército.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/hallan-con-vida-soldado-desaparecido-segovia-antioquia-CA42710147",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Casterbondo Macías"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 10:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2220,
+      "titulo": "Mayor incautación de aletas de tiburón en Colombia con destino a Asia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-24",
+      "descripcion": "La Policía y la Fiscalía incautaron más de 4.200 aletas de tiburón en un local comercial del Pacífico colombiano con destino al mercado asiático, la mayor incautación de este tipo registrada en el país.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colombia-incauta-4-200-aletas-tiburon-hong-kong-LI42688300",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-25 10:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2219,
+      "titulo": "Gobierno anuncia $2,7 billones para reforzar el sistema eléctrico ante El Niño",
+      "categoria": "obras",
+      "fecha": "2026-10-24",
+      "descripcion": "El Gobierno de De la Espriella anunció una inversión de $2,7 billones para reforzar el sistema eléctrico nacional ante el recrudecimiento previsto del fenómeno de El Niño.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX3p4SUl2MzU4N3dUZXIxVEtZRERkNS1iMVJTbFJ5Rlpic1hLOWNDY2hlTndwUzRJUDN0ZEtQZDF5bnZkbGs2cE9VRFpoTEtJRThBc2hlR2pxdGlNSFhDZWkzT2JCLWJnLXVlNEtFaHdBbU00Q3R4Z0VnZXlMVnlsLVRLOFM5RnRIYXdnVGhMM2NXcS1ieF9kNzlQdzF0dkxrZjJwWVYtZWNuRWhEYWxuRG1aY2ZSR0FYNjVWWTJEZUVWMzVtcXVPQ0JIQnlKZ3BJWlFsX2hMdzNjSWFjcDNyX1VIVDJoMEY0dU1GZ0wyby1vaDRLZFVTYXE3Yml1d1h0RGlqbtIBnwJBVV95cUxNbGN6d2ZoQ2w0NXlqS0YzM0VrTjBlYWJGdnJid0l0N1BlbzVyVktxZDVTdkUwRnE1VzJpaGg2YTgxTWpwUjV6WnF2Ry1sdWRrN3BjVDN1dmI4dkkyR0x0VUJIM3hacGNSb3dET2hJV1plcjlXOXhqbmkxU1FHQldva1hpYmJQQ1ZoQWtvWmI5elVibW9OSVNlb1N3Mzl3RUJkcHU0Qjl6OWpKYlB5OGJGUlVTMVAwdnlpVmh1WkI0THBidnNHSjVzRGFoN1NucUpUWk4yZzZkR1U3Y0pLYllnUVFpN2pTSDJaZjFpZm5QTGlfX2toNGNxM2NPVFlud1E3ckl1aUg5VGhGQ2JvYW12MmFrUGVFeDJraWFqZ0RYbw?oc=5",
+          "fecha": "2026-10-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-25 10:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2218,
       "titulo": "Gobierno anuncia tijeretazo presupuestal de $9,8 billones a más de 110 entidades",
       "categoria": "economia",
@@ -51817,7 +51885,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-25",
-    "total_casos": 2129,
+    "total_casos": 2132,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
