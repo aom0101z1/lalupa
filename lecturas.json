@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-24"
+    "ultima_actualizacion": "2026-10-25"
   },
   "lecturas": [
+    {
+      "id": 149,
+      "titulo": "Científicos proponen un método para detectar 'vida espejo' antes de que exista",
+      "resumen": "Investigadores disenaron una tecnica basada en moleculas fluorescentes y luz polarizada, similar a la usada en cine 3D, para distinguir organismos normales de sus contrapartes de 'vida espejo', una forma hipotetica de vida con moleculas invertidas que podria representar un riesgo biologico grave si se creara artificialmente. El metodo permitiria identificar tempranamente estos organismos antes de que se multipliquen o se liberen al ambiente.",
+      "por_que_leerlo": "Explica como la ciencia se adelanta a un riesgo biologico aun hipotetico pero potencialmente catastrofico.",
+      "seccion": "ciencia",
+      "tags": [
+        "bioseguridad",
+        "biologia sintetica",
+        "vida espejo",
+        "riesgo biologico"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 150,
+      "titulo": "Una nube de 1.600 km en Marte podría revelar una física nunca antes vista",
+      "resumen": "Un nuevo modelo sugiere que una nube marciana extremadamente alargada se formaría mediante procesos de cristalización de hielo que nunca se han observado directamente en la naturaleza. Los investigadores creen que esto abre una ventana a fenómenos atmosféricos desconocidos fuera de la Tierra.",
+      "por_que_leerlo": "Muestra cómo el estudio de otros planetas puede revelar física que no existe o no se ha detectado en la Tierra.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "nubes",
+        "fisica",
+        "atmosfera"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 151,
+      "titulo": "No hay señales de que la IA esté dando resultados económicos fuera del sector tecnológico",
+      "resumen": "Un análisis de la firma de inversión Apollo muestra que, pese a la inversión masiva en inteligencia artificial, los datos económicos no reflejan ganancias de productividad significativas en sectores distintos al tecnológico. El reporte cuestiona el optimismo generalizado sobre el impacto inmediato de la IA en la economía real.",
+      "por_que_leerlo": "Ofrece una dosis de realismo basada en datos sobre si la IA realmente está transformando la economía más allá de Silicon Valley.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "productividad",
+        "economia",
+        "evidencia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 152,
+      "titulo": "Vulnerabilidad HTTP2Shell expone a multiples librerias y aplicaciones HTTP",
+      "resumen": "La firma de seguridad Aikido documento como la falla Node2Shell evoluciono a HTTP2Shell, un problema de ejecucion remota de codigo que afecta paquetes de Python vulnerables a traves de brotli (CVE-2026-111497). El reporte, con mas de 270 puntos y 136 comentarios en Hacker News, detalla un radio de impacto amplio sobre librerias HTTP muy usadas.",
+      "por_que_leerlo": "Conocer el alcance real de esta falla te ayuda a revisar si tus dependencias de Python estan expuestas antes de que la exploten.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "vulnerabilidad",
+        "python",
+        "cve"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 153,
+      "titulo": "La IA ya predice huracanes mejor que los modelos tradicionales: el caso Isaias",
+      "resumen": "Modelos de prediccion meteorologica basados en machine learning operan ya en tiempo real y acertaron la trayectoria del huracan Isaias cuando los sistemas numericos clasicos fallaron. El cambio reduce la dependencia de supercomputacion bruta y de grandes equipos de meteorologos.",
+      "por_que_leerlo": "Muestra un caso concreto donde la IA ya supera a la fisica pura en una tarea critica con impacto economico y de vidas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "meteorologia",
+        "prediccion",
+        "machine learning"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 154,
+      "titulo": "La estrategia detrás de los tiquetes de $47.000 de JetSmart en Colombia",
+      "resumen": "El CEO de JetSmart, Estuardo Ortiz, reveló que el 22% de sus pasajeros en Colombia vuela por primera vez, pilar clave de su estrategia de tarifas bajas. La aerolínea advirtió que los precios podrían subir por el aumento en los costos de combustible.",
+      "por_que_leerlo": "Ofrece una mirada directa a cómo una aerolínea low-cost diseña precios y capta nuevos pasajeros en un mercado emergente.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "aerolineas",
+        "low cost",
+        "estrategia de negocio",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 155,
+      "titulo": "A un año del anuncio de US$25.000 millones, el data center de OpenAI en Argentina sigue sin contrato",
+      "resumen": "Un año después de la carta de intención con Sur Energy por hasta US$25.000 millones para Stargate Argentina, el proyecto no tiene contrato definitivo ni ha solicitado ingreso al régimen de incentivos RIGI. El propio responsable del proyecto, Kargieman, reconoció el estancamiento en declaraciones a Bloomberg Línea.",
+      "por_que_leerlo": "Muestra cuanto puede distanciarse un anuncio corporativo millonario de IA de la realidad contractual, una leccion util para evaluar titulares similares.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "data centers",
+        "argentina",
+        "openai"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/que-paso-con-el-data-center-de-openai-en-argentina-a-un-ano-del-anuncio-de-us25000-millones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 156,
+      "titulo": "Fosil de 150 millones de anos muestra la perdida de vuelo mas antigua conocida en aves",
+      "resumen": "Un fosil hallado en China revelo un ave primitiva con dientes afilados, una garra similar a la de los dinosaurios y un cuerpo adaptado para la vida terrestre, no para volar. Los cientificos creen que representa el caso mas antiguo conocido de perdida de la capacidad de vuelo en aves, lo que obliga a replantear como evoluciono este grupo.",
+      "por_que_leerlo": "Cambia la idea establecida sobre cuando y como las aves empezaron a perder la capacidad de volar.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleontologia",
+        "evolucion",
+        "aves",
+        "fosiles"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 157,
+      "titulo": "Uno de los supervolcanes mas poderosos de la Tierra se esta recargando de magma",
+      "resumen": "Bajo la caldera de Kikai, en Japon, un enorme reservorio de magma se esta rellenando 7.300 anos despues de una de las erupciones mas potentes de la historia geologica reciente. Estudios sismicos submarinos revelaron un gran volumen de magma acumulado desde entonces, lo que podria ayudar a entender como se recargan supervolcanes como Yellowstone o Toba.",
+      "por_que_leerlo": "Da pistas sobre como funcionan y se recargan los supervolcanes que podrian amenazar a la humanidad.",
+      "seccion": "ciencia",
+      "tags": [
+        "volcanes",
+        "geologia",
+        "supervolcan",
+        "japon"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 158,
+      "titulo": "Los implantes dentales pueden secuestrar el sistema inmune y favorecer infecciones resistentes",
+      "resumen": "Investigadores descubrieron que las bacterias corroen los implantes de titanio liberando particulas microscopicas que secuestran celulas inmunes, desencadenan inflamacion destructiva y aceleran la perdida de hueso mandibular. Esto explicaria por que algunas infecciones de implantes dentales resisten a los antibioticos.",
+      "por_que_leerlo": "Revela un mecanismo oculto que podria cambiar como se tratan las infecciones de implantes dentales.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "implantes dentales",
+        "sistema inmune",
+        "infecciones"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-23",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 159,
+      "titulo": "Doce anos de SQLite distribuido: lecciones de construir rqlite",
+      "resumen": "El creador de rqlite repasa doce anos de experiencia construyendo una capa distribuida sobre SQLite, explicando los retos de consenso, replicacion y las decisiones de diseno que sostuvieron el proyecto en produccion. El articulo acumulo 363 puntos y 62 comentarios en Hacker News.",
+      "por_que_leerlo": "Si construyes herramientas con bases de datos ligeras, aprendes de errores y aciertos reales de un proyecto de infraestructura de larga vida.",
+      "seccion": "tecnologia",
+      "tags": [
+        "sqlite",
+        "bases de datos",
+        "ingenieria de software",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
+    {
+      "id": 160,
+      "titulo": "Las cartas de Pokemon superan a Nvidia como el activo de mejor rendimiento del mundo",
+      "resumen": "Un analisis senala que las cartas coleccionables de Pokemon han superado en rentabilidad a activos tradicionales como el oro, el arte y a Nvidia, posicionandose como una de las inversiones alternativas mas rentables de los ultimos anos.",
+      "por_que_leerlo": "Un dato que desafia la intuicion sobre donde esta el verdadero rendimiento financiero y abre la puerta a pensar en activos alternativos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inversion",
+        "activos alternativos",
+        "coleccionables",
+        "finanzas"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/cartas-pokemon-podrian-superar-pronto-a-nvidia-como-activo-mejor-rendimiento-mundo"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-25 00:51",
+      "auto_generated": true
+    },
     {
       "id": 137,
       "titulo": "Mas de ocho horas de ejercicio semanal casi detienen el deterioro cognitivo en Parkinson",

@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:19:46 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:51:23 -0000</lastBuildDate>
+    <item>
+      <title>Científicos proponen un método para detectar 'vida espejo' antes de que exista</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261023023726.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-149</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores disenaron una tecnica basada en moleculas fluorescentes y luz polarizada, similar a la usada en cine 3D, para distinguir organismos normales de sus contrapartes de 'vida espejo', una forma hipotetica de vida con moleculas invertidas que podria representar un riesgo biologico grave si se creara artificialmente. El metodo permitiria identificar tempranamente estos organismos antes de que se multipliquen o se liberen al ambiente. Por que leerlo: Explica como la ciencia se adelanta a un riesgo biologico aun hipotetico pero potencialmente catastrofico. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una nube de 1.600 km en Marte podría revelar una física nunca antes vista</title>
+      <link>https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/</link>
+      <guid isPermaLink="false">lalupa-lectura-150</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un nuevo modelo sugiere que una nube marciana extremadamente alargada se formaría mediante procesos de cristalización de hielo que nunca se han observado directamente en la naturaleza. Los investigadores creen que esto abre una ventana a fenómenos atmosféricos desconocidos fuera de la Tierra. Por que leerlo: Muestra cómo el estudio de otros planetas puede revelar física que no existe o no se ha detectado en la Tierra. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>No hay señales de que la IA esté dando resultados económicos fuera del sector tecnológico</title>
+      <link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
+      <guid isPermaLink="false">lalupa-lectura-151</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un análisis de la firma de inversión Apollo muestra que, pese a la inversión masiva en inteligencia artificial, los datos económicos no reflejan ganancias de productividad significativas en sectores distintos al tecnológico. El reporte cuestiona el optimismo generalizado sobre el impacto inmediato de la IA en la economía real. Por que leerlo: Ofrece una dosis de realismo basada en datos sobre si la IA realmente está transformando la economía más allá de Silicon Valley. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Vulnerabilidad HTTP2Shell expone a multiples librerias y aplicaciones HTTP</title>
+      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
+      <guid isPermaLink="false">lalupa-lectura-152</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La firma de seguridad Aikido documento como la falla Node2Shell evoluciono a HTTP2Shell, un problema de ejecucion remota de codigo que afecta paquetes de Python vulnerables a traves de brotli (CVE-2026-111497). El reporte, con mas de 270 puntos y 136 comentarios en Hacker News, detalla un radio de impacto amplio sobre librerias HTTP muy usadas. Por que leerlo: Conocer el alcance real de esta falla te ayuda a revisar si tus dependencias de Python estan expuestas antes de que la exploten. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La IA ya predice huracanes mejor que los modelos tradicionales: el caso Isaias</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron</link>
+      <guid isPermaLink="false">lalupa-lectura-153</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Modelos de prediccion meteorologica basados en machine learning operan ya en tiempo real y acertaron la trayectoria del huracan Isaias cuando los sistemas numericos clasicos fallaron. El cambio reduce la dependencia de supercomputacion bruta y de grandes equipos de meteorologos. Por que leerlo: Muestra un caso concreto donde la IA ya supera a la fisica pura en una tarea critica con impacto economico y de vidas. (Xataka, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La estrategia detrás de los tiquetes de $47.000 de JetSmart en Colombia</title>
+      <link>https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/</link>
+      <guid isPermaLink="false">lalupa-lectura-154</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El CEO de JetSmart, Estuardo Ortiz, reveló que el 22% de sus pasajeros en Colombia vuela por primera vez, pilar clave de su estrategia de tarifas bajas. La aerolínea advirtió que los precios podrían subir por el aumento en los costos de combustible. Por que leerlo: Ofrece una mirada directa a cómo una aerolínea low-cost diseña precios y capta nuevos pasajeros en un mercado emergente. (Valora Analitik, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>A un año del anuncio de US$25.000 millones, el data center de OpenAI en Argentina sigue sin contrato</title>
+      <link>https://www.bloomberglinea.com/latinoamerica/argentina/que-paso-con-el-data-center-de-openai-en-argentina-a-un-ano-del-anuncio-de-us25000-millones/</link>
+      <guid isPermaLink="false">lalupa-lectura-155</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Un año después de la carta de intención con Sur Energy por hasta US$25.000 millones para Stargate Argentina, el proyecto no tiene contrato definitivo ni ha solicitado ingreso al régimen de incentivos RIGI. El propio responsable del proyecto, Kargieman, reconoció el estancamiento en declaraciones a Bloomberg Línea. Por que leerlo: Muestra cuanto puede distanciarse un anuncio corporativo millonario de IA de la realidad contractual, una leccion util para evaluar titulares similares. (Bloomberg Linea, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Fosil de 150 millones de anos muestra la perdida de vuelo mas antigua conocida en aves</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261023023710.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-156</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un fosil hallado en China revelo un ave primitiva con dientes afilados, una garra similar a la de los dinosaurios y un cuerpo adaptado para la vida terrestre, no para volar. Los cientificos creen que representa el caso mas antiguo conocido de perdida de la capacidad de vuelo en aves, lo que obliga a replantear como evoluciono este grupo. Por que leerlo: Cambia la idea establecida sobre cuando y como las aves empezaron a perder la capacidad de volar. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Uno de los supervolcanes mas poderosos de la Tierra se esta recargando de magma</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261023003214.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-157</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Bajo la caldera de Kikai, en Japon, un enorme reservorio de magma se esta rellenando 7.300 anos despues de una de las erupciones mas potentes de la historia geologica reciente. Estudios sismicos submarinos revelaron un gran volumen de magma acumulado desde entonces, lo que podria ayudar a entender como se recargan supervolcanes como Yellowstone o Toba. Por que leerlo: Da pistas sobre como funcionan y se recargan los supervolcanes que podrian amenazar a la humanidad. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Los implantes dentales pueden secuestrar el sistema inmune y favorecer infecciones resistentes</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261022081314.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-158</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores descubrieron que las bacterias corroen los implantes de titanio liberando particulas microscopicas que secuestran celulas inmunes, desencadenan inflamacion destructiva y aceleran la perdida de hueso mandibular. Esto explicaria por que algunas infecciones de implantes dentales resisten a los antibioticos. Por que leerlo: Revela un mecanismo oculto que podria cambiar como se tratan las infecciones de implantes dentales. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Doce anos de SQLite distribuido: lecciones de construir rqlite</title>
+      <link>https://philipotoole.com/twelve-years-of-distributed-sqlite/</link>
+      <guid isPermaLink="false">lalupa-lectura-159</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El creador de rqlite repasa doce anos de experiencia construyendo una capa distribuida sobre SQLite, explicando los retos de consenso, replicacion y las decisiones de diseno que sostuvieron el proyecto en produccion. El articulo acumulo 363 puntos y 62 comentarios en Hacker News. Por que leerlo: Si construyes herramientas con bases de datos ligeras, aprendes de errores y aciertos reales de un proyecto de infraestructura de larga vida. (Hacker News, 8 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Las cartas de Pokemon superan a Nvidia como el activo de mejor rendimiento del mundo</title>
+      <link>https://www.xataka.com/empresas-y-economia/cartas-pokemon-podrian-superar-pronto-a-nvidia-como-activo-mejor-rendimiento-mundo</link>
+      <guid isPermaLink="false">lalupa-lectura-160</guid>
+      <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Un analisis senala que las cartas coleccionables de Pokemon han superado en rentabilidad a activos tradicionales como el oro, el arte y a Nvidia, posicionandose como una de las inversiones alternativas mas rentables de los ultimos anos. Por que leerlo: Un dato que desafia la intuicion sobre donde esta el verdadero rendimiento financiero y abre la puerta a pensar en activos alternativos. (Xataka, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Mas de ocho horas de ejercicio semanal casi detienen el deterioro cognitivo en Parkinson</title>
       <link>https://www.sciencedaily.com/releases/2026/10/261022081306.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Thu, 22 Oct 2026 01:15:00 -0000</pubDate>
       <category>Ciencia</category>
       <description>Un estudio con 13 astronautas encontro que el corazon humano se adapta bien a meses de ingravidez y tolera sin mayores problemas la gravedad simulada de Marte, especialmente cuando se mantiene ejercicio regular durante el vuelo. El hallazgo reduce una incertidumbre importante para futuras misiones tripuladas al planeta rojo. Por que leerlo: Da evidencia concreta de que uno de los mayores riesgos fisiologicos de un viaje a Marte podria ser manejable, relevante para la industria espacial en expansion. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Científicos revierten 60 años de envejecimiento celular en el laboratorio</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085013.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-89</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores convirtieron células sanguíneas de una persona de 80 años en células madre neuronales con una edad molecular menor a 20 años, revirtiendo más de seis décadas de envejecimiento celular. El hallazgo abre una vía para estudiar cómo rejuvenecer células y podría ayudar a entender enfermedades como el Alzheimer. Por que leerlo: Entender cómo la ciencia empieza a revertir el envejecimiento celular, una frontera clave para la medicina del futuro. (ScienceDaily, 5 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>Físicos logran atrapar y controlar una partícula de antimateria durante meses</title>
-      <link>https://phys.org/news/2026-10-physicists-particle-antimatter-months.html</link>
-      <guid isPermaLink="false">lalupa-lectura-90</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores de Northwestern University lograron mantener un solo positrón, la contraparte de antimateria del electrón, en un estado cuántico controlado durante meses, un hito sin precedentes. El experimento abre la puerta a estudios de precisión sobre la antimateria que antes eran imposibles de realizar. Por que leerlo: Un avance experimental que redefine cuánto tiempo se puede controlar la antimateria en laboratorio. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Resuelven el misterio del cráter Silverpit: un asteroide generó un tsunami de 100 metros</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085727.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-91</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Científicos confirmaron que el cráter Silverpit, sepultado 700 metros bajo el Mar del Norte, fue creado por un asteroide de 160 metros que impactó la Tierra hace entre 43 y 46 millones de años. El choque lanzó rocas y agua 1,5 km al aire y generó un tsunami de más de 100 metros de altura. Por que leerlo: Una investigación que cierra un enigma geológico de décadas con evidencia concreta sobre el poder destructivo de los asteroides. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Una startup rediseña la bomba de calor de 170 años con un material tipo esponja 20% más eficiente</title>
-      <link>https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/</link>
-      <guid isPermaLink="false">lalupa-lectura-92</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La startup de refrigerantes Pascal desarrolló una nueva tecnología de bomba de calor y enfriamiento basada en un material esponjoso que promete ser un 20% más eficiente que los sistemas actuales. La tecnología de bomba de calor no ha cambiado sustancialmente desde su invención hace casi dos siglos. Por que leerlo: Una innovación concreta en eficiencia energética que podría abaratar la calefacción y refrigeración a gran escala. (TechCrunch, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>PHP2Shell: investigadores usan IA para descubrir una vulnerabilidad critica de ejecucion remota en PHP</title>
-      <link>https://www.wiz.io/blog/php2shell-php-rce</link>
-      <guid isPermaLink="false">lalupa-lectura-93</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores de seguridad emplearon herramientas de IA para hallar una vulnerabilidad critica de ejecucion remota de codigo (RCE) en PHP, uno de los lenguajes mas usados para construir sitios web. El hallazgo, bautizado 'PHP2Shell', obligo a parchear de urgencia sistemas en todo el mundo y reaviva el debate sobre el uso de IA tanto para atacar como para defender software. Por que leerlo: Muestra como la IA ya se usa para encontrar fallos criticos de seguridad antes de que los exploten atacantes, algo util para quien construya o proteja aplicaciones web. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un modelo de IA para programar escribe codigo menos seguro si cree que el usuario es estadounidense</title>
-      <link>https://www.hirundo.io/blog/qwen3-coder-vulnerabilities</link>
-      <guid isPermaLink="false">lalupa-lectura-94</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un estudio encontro que el modelo de codigo Qwen3-Coder genera codigo con mas vulnerabilidades cuando detecta que la persona que lo usa tiene un 'persona' estadounidense, comparado con otros perfiles de usuario. El hallazgo sugiere sesgos ocultos en los modelos de IA que podrian depender del contexto cultural o geografico del usuario. Por que leerlo: Revela un riesgo poco conocido de los asistentes de codigo con IA: su nivel de seguridad puede variar segun quien crean que los esta usando. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Investigadores creen que un negociador de rescates dirigia el sitio de extorsion de ShinyHunters</title>
-      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
-      <guid isPermaLink="false">lalupa-lectura-95</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Las autoridades estadounidenses sospechan que una persona que se dedicaba profesionalmente a negociar pagos de ransomware para empresas victimas estaba, al mismo tiempo, detras del sitio de extorsion del grupo ShinyHunters. El caso, reportado por el periodista de seguridad Brian Krebs, expone un posible conflicto de interes dentro de la industria de respuesta a ciberataques. Por que leerlo: Expone como el propio ecosistema que ayuda a negociar con hackers puede tener actores con doble intencion, una leccion clave para empresas que enfrentan ransomware. (Hacker News, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Microsoft propone tratar a los agentes de IA como amenazas internas dentro de las empresas</title>
-      <link>https://www.xataka.com/robotica-e-ia/microsoft-considera-que-modelos-frontera-no-fiar-hay-que-tratar-a-agentes-ia-como-amenazas-internas</link>
-      <guid isPermaLink="false">lalupa-lectura-96</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Microsoft advierte que los modelos de IA de frontera 'no son de fiar' y plantea que las empresas deben tratar a sus agentes de IA como si fueran empleados con credenciales validas pero con posible mal comportamiento interno. La propuesta cambia el enfoque tradicional de ciberseguridad, centrado en proteger el perimetro contra amenazas externas. Por que leerlo: Plantea un cambio de mentalidad en seguridad corporativa que cualquier negocio que use agentes de IA deberia considerar antes de darles acceso a sistemas criticos. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Musk evalua fusionar SpaceX y Tesla en una operacion cercana a US$3,5 billones</title>
-      <link>https://www.larepublica.co/globoeconomia/musk-estudia-posible-fusion-entre-spacex-y-tesla-cercana-a-us-3-5-billones-4507617</link>
-      <guid isPermaLink="false">lalupa-lectura-97</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Elon Musk estudia una posible fusion entre SpaceX y Tesla que podria valorar la operacion combinada en cerca de US$3,5 billones. Tras conocerse la noticia, las acciones de Tesla subieron cerca de 1,5% y las de SpaceX un 8% en operaciones posteriores al cierre del mercado. Por que leerlo: Es una de las jugadas corporativas mas grandes del momento y muestra como Musk podria reestructurar su imperio empresarial. (La Republica, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Descubren cómo el letal hantavirus Andes se adhiere a las células humanas</title>
-      <link>https://phys.org/news/2026-10-scientists-reveal-deadly-andes-hantavirus.html</link>
-      <guid isPermaLink="false">lalupa-lectura-98</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un brote del hantavirus Andes en un crucero este año mató a tres pasajeros y enfermó a 13, evidenciando la falta de vacunas o tratamientos aprobados. Un estudio publicado en Nature por investigadores del Albert Einstein College of Medicine y el Institut Pasteur reveló el mecanismo molecular con el que el virus reconoce su punto de entrada en las células humanas. Por que leerlo: Entender el mecanismo detrás de un virus letal sin tratamiento aprobado, clave para desarrollar futuras terapias. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un exceso de ARN puede dejar sin energía a las células, según nuevo estudio</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085023.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-99</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores descubrieron que un exceso de ARN, incluido el ARN mensajero esencial, puede dañar directamente las mitocondrias sin necesidad de activar el sistema inmune. El hallazgo ayudaría a explicar cómo infecciones virales y enfermedades asociadas al envejecimiento afectan la producción de energía celular. Por que leerlo: Una pista inesperada sobre cómo virus y el envejecimiento dañan la energía celular, con implicaciones para terapias basadas en ARN. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Cofundador de Foursquare revela que los inversionistas no ganaron nada pese a recaudar US$411 millones</title>
-      <link>https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/</link>
-      <guid isPermaLink="false">lalupa-lectura-100</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Foursquare levantó US$411 millones en financiación a lo largo de su historia, pero según su cofundador, los accionistas no obtuvieron ningún retorno tras la adquisición final de la compañía. El caso es un recordatorio de que una salida corporativa no siempre significa ganancias para fundadores e inversionistas. Por que leerlo: Una lección cruda sobre cómo estructuras de financiación agresivas pueden dejar a fundadores e inversionistas sin retorno pese a años de crecimiento. (TechCrunch, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
