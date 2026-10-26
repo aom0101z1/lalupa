@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-25"
+    "ultima_actualizacion": "2026-10-26"
   },
   "lecturas": [
+    {
+      "id": 173,
+      "titulo": "Unos segundos de demora al cargar una pagina sacan de curso a estudiantes en linea",
+      "resumen": "Un estudio sobre plataformas de aprendizaje masivas encontro que retrasos de apenas un segundo al cargar una leccion se asocian con tareas sin terminar, notas mas bajas y menos tiempo de uso del sitio. El hallazgo muestra que el rendimiento tecnico tiene un impacto directo y medible en el comportamiento del usuario.",
+      "por_que_leerlo": "Si construyes productos digitales, esta es evidencia concreta de por que cada segundo de velocidad importa para la retencion.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ux",
+        "rendimiento web",
+        "retencion",
+        "educacion online"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-seconds-online-learners-track.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 174,
+      "titulo": "Un modelo de IA de hace 10 años supera a los LLMs modernos en diagnóstico de cáncer de piel",
+      "resumen": "Un estudio comparó una red neuronal convolucional (CNN) entrenada hace una década con los modelos de lenguaje más avanzados actuales en la tarea de diagnosticar cáncer de piel a partir de imágenes, y encontró que el modelo antiguo y especializado logra mayor precisión que los modelos generales recientes. El hallazgo cuestiona la idea de que los LLMs multimodales superan automáticamente a los modelos especializados más antiguos en tareas médicas críticas.",
+      "por_que_leerlo": "Muestra que no toda IA nueva y grande es mejor que la especializada, una lección clave para quien construye productos con IA en salud.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "diagnostico medico",
+        "cancer de piel",
+        "modelos de ia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://lynchlab.net/llm-skin-cancer"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 175,
+      "titulo": "El boom solar genera electricidad tan barata que amenaza la rentabilidad de nuevos parques",
+      "resumen": "El exceso de oferta de energía solar ha llevado a que los precios de la electricidad caigan a cero o incluso a niveles negativos en ciertas horas del día en España, un fenómeno cada vez más frecuente. Esto reduce los ingresos esperados de los nuevos proyectos solares, poniendo en duda su viabilidad financiera pese al auge de las renovables.",
+      "por_que_leerlo": "Explica una paradoja económica clave del sector energético que cualquier inversionista o emprendedor en energía debería entender.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia solar",
+        "mercados energeticos",
+        "precios negativos",
+        "renovables"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 176,
+      "titulo": "El PIB de los latinos en EE.UU. creció 75% y ya rivaliza con grandes economías del mundo",
+      "resumen": "Si los latinos en Estados Unidos fueran un país, serían la quinta economía más grande del planeta. Entre 2013 y 2023 su PIB real creció 74,8%, pasando de US$1,61 billones a US$4,06 billones.",
+      "por_que_leerlo": "Un dato duro que revela el peso económico real de la comunidad latina en EE.UU. y las oportunidades de negocio que ese mercado representa.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "economia",
+        "latinos",
+        "estados unidos",
+        "pib"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/si-los-latinos-en-ee-uu-fueran-un-pais-serian-la-quinta-economia-mas-grande-4510586"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 177,
+      "titulo": "Nuevo metodo permite leer informacion cuantica sin destruirla",
+      "resumen": "Investigadores lograron usar una supercorriente para leer el estado de un qubit sin que la medicion colapse la informacion, uno de los problemas centrales de la computacion cuantica. A diferencia de un bit convencional, hasta ahora medir un sistema cuantico alteraba inevitablemente su contenido.",
+      "por_que_leerlo": "Entender este avance ayuda a dimensionar que tan cerca o lejos esta la computacion cuantica practica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computacion cuantica",
+        "qubits",
+        "fisica",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 178,
+      "titulo": "El almacenamiento subterraneo de CO2 alcanza record de 43,6 millones de toneladas en 2024",
+      "resumen": "El registro mas completo hasta ahora sobre captura y almacenamiento geologico de CO2 revela que en 2024 se sequestraron 43,6 millones de toneladas metricas, un nuevo record anual, y que en tres decadas se han almacenado 421,7 millones de toneladas en total.",
+      "por_que_leerlo": "Ofrece cifras concretas sobre una tecnologia clave de energia e infraestructura climatica que sigue escalando.",
+      "seccion": "tecnologia",
+      "tags": [
+        "captura de carbono",
+        "energia",
+        "infraestructura",
+        "cambio climatico"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 179,
+      "titulo": "Descubren una via proteica que ayuda al VIH a mantenerse oculto pese al tratamiento",
+      "resumen": "Los medicamentos actuales contra el VIH suprimen el virus en la sangre, pero este puede permanecer dormido en ciertas celulas inmunes y en el cerebro, formando reservorios que impiden la cura. Cientificos identificaron una nueva via de proteinas que contribuye a mantener ese estado latente.",
+      "por_que_leerlo": "Explica con evidencia concreta por que el VIH sigue siendo incurable y donde se enfoca la proxima generacion de tratamientos.",
+      "seccion": "ciencia",
+      "tags": [
+        "vih",
+        "medicina",
+        "inmunologia",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-24",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 180,
+      "titulo": "Identifican el hongo que hace ver cientos de humanos diminutos",
+      "resumen": "Durante casi un siglo, personas en distintas partes del mundo reportaron ver decenas o cientos de pequenos humanos de colores tras comer ciertos hongos silvestres. Cientificos identificaron la especie responsable, Lanmaoa asiatica, vinculada a estas alucinaciones extraordinarias registradas en China y Filipinas.",
+      "por_que_leerlo": "Es un caso fascinante de como la ciencia logra explicar, con evidencia, un fenomeno que parecia puro mito.",
+      "seccion": "ciencia",
+      "tags": [
+        "micologia",
+        "alucinaciones",
+        "neurociencia",
+        "biologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 181,
+      "titulo": "Evidencia sugiere que el Spinosaurus vivio la mayor parte de su vida bajo el agua",
+      "resumen": "Usando aprendizaje automatico y miles de mediciones de fosiles, cientificos de Yale encontraron pistas sobre que criaturas prehistoricas realmente se volvieron acuaticas. Los resultados sugieren que el Spinosaurus paso la mayor parte de su vida sumergido, a diferencia de lo que se asumia antes.",
+      "por_que_leerlo": "Muestra como el aprendizaje automatico esta resolviendo debates cientificos que llevaban decadas sin consenso.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleontologia",
+        "dinosaurios",
+        "aprendizaje automatico",
+        "evolucion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 182,
+      "titulo": "Las abejas europeas perdieron un tercio de su territorio en un siglo, y el clima no es el culpable principal",
+      "resumen": "Un estudio de la Agencia Europea de Medio Ambiente concluye que las abejas europeas han perdido aproximadamente un tercio de su territorio en los últimos cien años, y que el cambio climático no es el factor principal detrás de esta pérdida, contradiciendo la narrativa más común sobre el declive de los polinizadores.",
+      "por_que_leerlo": "Desafía una idea muy repetida sobre las causas del declive de las abejas con datos concretos de una agencia oficial.",
+      "seccion": "ciencia",
+      "tags": [
+        "biodiversidad",
+        "abejas",
+        "medio ambiente",
+        "polinizadores"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/abejas-europeas-han-perdido-tercio-su-territorio-siglo-cambio-climatico-no-principal-culpable"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 183,
+      "titulo": "La ingeniería genética entra a salvar los viñedos españoles frente al cambio climático",
+      "resumen": "La vendimia 2026 fue la más temprana registrada en la historia de la Rioja, con regiones como Valencia, Jerez y Jumilla cosechando ya a fines de julio, evidencia de cómo el calentamiento altera los ciclos de cultivo de la vid en España. Ante esto, el sector vitivinícola empieza a recurrir a la ingeniería genética para adaptar las variedades de uva a las nuevas condiciones climáticas.",
+      "por_que_leerlo": "Muestra un caso real de cómo la biotecnología se aplica para resolver un problema económico concreto causado por el cambio climático.",
+      "seccion": "ciencia",
+      "tags": [
+        "ingenieria genetica",
+        "agricultura",
+        "cambio climatico",
+        "vino"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
+    {
+      "id": 184,
+      "titulo": "Un hombre construye su propia central hidroeléctrica casera con ladrillos, tuberías y una turbina",
+      "resumen": "El creador de contenido vietnamita Chien-Tran aprovechó el caudal de un arroyo cercano a su casa para construir una pequeña central hidroeléctrica de pasada que genera electricidad a 220 voltios, documentando todo el proceso en su canal de YouTube Mini Construction.",
+      "por_que_leerlo": "Es un ejemplo práctico e inspirador de ingeniería casera que muestra cómo generar energía propia con materiales accesibles.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia hidroelectrica",
+        "ingenieria casera",
+        "diy",
+        "electricidad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/ladrillos-tuberias-turbina-hombre-construye-su-propia-central-hidroelectrica-casa"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-26 01:01",
+      "auto_generated": true
+    },
     {
       "id": 161,
       "titulo": "Astronomos detectan la primera luna confirmada fuera del sistema solar",

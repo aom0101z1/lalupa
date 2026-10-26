@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:51:31 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:01:39 -0000</lastBuildDate>
+    <item>
+      <title>Unos segundos de demora al cargar una pagina sacan de curso a estudiantes en linea</title>
+      <link>https://phys.org/news/2026-10-seconds-online-learners-track.html</link>
+      <guid isPermaLink="false">lalupa-lectura-173</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un estudio sobre plataformas de aprendizaje masivas encontro que retrasos de apenas un segundo al cargar una leccion se asocian con tareas sin terminar, notas mas bajas y menos tiempo de uso del sitio. El hallazgo muestra que el rendimiento tecnico tiene un impacto directo y medible en el comportamiento del usuario. Por que leerlo: Si construyes productos digitales, esta es evidencia concreta de por que cada segundo de velocidad importa para la retencion. (Phys.org, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un modelo de IA de hace 10 años supera a los LLMs modernos en diagnóstico de cáncer de piel</title>
+      <link>https://lynchlab.net/llm-skin-cancer</link>
+      <guid isPermaLink="false">lalupa-lectura-174</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un estudio comparó una red neuronal convolucional (CNN) entrenada hace una década con los modelos de lenguaje más avanzados actuales en la tarea de diagnosticar cáncer de piel a partir de imágenes, y encontró que el modelo antiguo y especializado logra mayor precisión que los modelos generales recientes. El hallazgo cuestiona la idea de que los LLMs multimodales superan automáticamente a los modelos especializados más antiguos en tareas médicas críticas. Por que leerlo: Muestra que no toda IA nueva y grande es mejor que la especializada, una lección clave para quien construye productos con IA en salud. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El boom solar genera electricidad tan barata que amenaza la rentabilidad de nuevos parques</title>
+      <link>https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques</link>
+      <guid isPermaLink="false">lalupa-lectura-175</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El exceso de oferta de energía solar ha llevado a que los precios de la electricidad caigan a cero o incluso a niveles negativos en ciertas horas del día en España, un fenómeno cada vez más frecuente. Esto reduce los ingresos esperados de los nuevos proyectos solares, poniendo en duda su viabilidad financiera pese al auge de las renovables. Por que leerlo: Explica una paradoja económica clave del sector energético que cualquier inversionista o emprendedor en energía debería entender. (Xataka, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El PIB de los latinos en EE.UU. creció 75% y ya rivaliza con grandes economías del mundo</title>
+      <link>https://www.larepublica.co/globoeconomia/si-los-latinos-en-ee-uu-fueran-un-pais-serian-la-quinta-economia-mas-grande-4510586</link>
+      <guid isPermaLink="false">lalupa-lectura-176</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Si los latinos en Estados Unidos fueran un país, serían la quinta economía más grande del planeta. Entre 2013 y 2023 su PIB real creció 74,8%, pasando de US$1,61 billones a US$4,06 billones. Por que leerlo: Un dato duro que revela el peso económico real de la comunidad latina en EE.UU. y las oportunidades de negocio que ese mercado representa. (La Republica, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nuevo metodo permite leer informacion cuantica sin destruirla</title>
+      <link>https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html</link>
+      <guid isPermaLink="false">lalupa-lectura-177</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores lograron usar una supercorriente para leer el estado de un qubit sin que la medicion colapse la informacion, uno de los problemas centrales de la computacion cuantica. A diferencia de un bit convencional, hasta ahora medir un sistema cuantico alteraba inevitablemente su contenido. Por que leerlo: Entender este avance ayuda a dimensionar que tan cerca o lejos esta la computacion cuantica practica. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El almacenamiento subterraneo de CO2 alcanza record de 43,6 millones de toneladas en 2024</title>
+      <link>https://phys.org/news/2026-10-global-underground-storage-million-metric.html</link>
+      <guid isPermaLink="false">lalupa-lectura-178</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El registro mas completo hasta ahora sobre captura y almacenamiento geologico de CO2 revela que en 2024 se sequestraron 43,6 millones de toneladas metricas, un nuevo record anual, y que en tres decadas se han almacenado 421,7 millones de toneladas en total. Por que leerlo: Ofrece cifras concretas sobre una tecnologia clave de energia e infraestructura climatica que sigue escalando. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Descubren una via proteica que ayuda al VIH a mantenerse oculto pese al tratamiento</title>
+      <link>https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html</link>
+      <guid isPermaLink="false">lalupa-lectura-179</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Los medicamentos actuales contra el VIH suprimen el virus en la sangre, pero este puede permanecer dormido en ciertas celulas inmunes y en el cerebro, formando reservorios que impiden la cura. Cientificos identificaron una nueva via de proteinas que contribuye a mantener ese estado latente. Por que leerlo: Explica con evidencia concreta por que el VIH sigue siendo incurable y donde se enfoca la proxima generacion de tratamientos. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Identifican el hongo que hace ver cientos de humanos diminutos</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261024222021.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-180</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Durante casi un siglo, personas en distintas partes del mundo reportaron ver decenas o cientos de pequenos humanos de colores tras comer ciertos hongos silvestres. Cientificos identificaron la especie responsable, Lanmaoa asiatica, vinculada a estas alucinaciones extraordinarias registradas en China y Filipinas. Por que leerlo: Es un caso fascinante de como la ciencia logra explicar, con evidencia, un fenomeno que parecia puro mito. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Evidencia sugiere que el Spinosaurus vivio la mayor parte de su vida bajo el agua</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261024221956.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-181</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Usando aprendizaje automatico y miles de mediciones de fosiles, cientificos de Yale encontraron pistas sobre que criaturas prehistoricas realmente se volvieron acuaticas. Los resultados sugieren que el Spinosaurus paso la mayor parte de su vida sumergido, a diferencia de lo que se asumia antes. Por que leerlo: Muestra como el aprendizaje automatico esta resolviendo debates cientificos que llevaban decadas sin consenso. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Las abejas europeas perdieron un tercio de su territorio en un siglo, y el clima no es el culpable principal</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/abejas-europeas-han-perdido-tercio-su-territorio-siglo-cambio-climatico-no-principal-culpable</link>
+      <guid isPermaLink="false">lalupa-lectura-182</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio de la Agencia Europea de Medio Ambiente concluye que las abejas europeas han perdido aproximadamente un tercio de su territorio en los últimos cien años, y que el cambio climático no es el factor principal detrás de esta pérdida, contradiciendo la narrativa más común sobre el declive de los polinizadores. Por que leerlo: Desafía una idea muy repetida sobre las causas del declive de las abejas con datos concretos de una agencia oficial. (Xataka, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La ingeniería genética entra a salvar los viñedos españoles frente al cambio climático</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica</link>
+      <guid isPermaLink="false">lalupa-lectura-183</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>La vendimia 2026 fue la más temprana registrada en la historia de la Rioja, con regiones como Valencia, Jerez y Jumilla cosechando ya a fines de julio, evidencia de cómo el calentamiento altera los ciclos de cultivo de la vid en España. Ante esto, el sector vitivinícola empieza a recurrir a la ingeniería genética para adaptar las variedades de uva a las nuevas condiciones climáticas. Por que leerlo: Muestra un caso real de cómo la biotecnología se aplica para resolver un problema económico concreto causado por el cambio climático. (Xataka, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un hombre construye su propia central hidroeléctrica casera con ladrillos, tuberías y una turbina</title>
+      <link>https://www.xataka.com/energia/ladrillos-tuberias-turbina-hombre-construye-su-propia-central-hidroelectrica-casa</link>
+      <guid isPermaLink="false">lalupa-lectura-184</guid>
+      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El creador de contenido vietnamita Chien-Tran aprovechó el caudal de un arroyo cercano a su casa para construir una pequeña central hidroeléctrica de pasada que genera electricidad a 220 voltios, documentando todo el proceso en su canal de YouTube Mini Construction. Por que leerlo: Es un ejemplo práctico e inspirador de ingeniería casera que muestra cómo generar energía propia con materiales accesibles. (Xataka, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Astronomos detectan la primera luna confirmada fuera del sistema solar</title>
       <link>https://www.sciencedaily.com/releases/2026/10/261023023736.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Sat, 24 Oct 2026 01:26:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>Grupo Energía Bogotá y el fondo canadiense La Caisse cerraron la operación que da vida a Verene Energia, una plataforma de transmisión eléctrica que reúne 26 concesiones y más de 9.000 kilómetros de líneas en Brasil. Por que leerlo: Muestra cómo una empresa colombiana escala un negocio de infraestructura energética a nivel regional mediante alianzas de capital extranjero. (Valora Analitik, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Nuevo algoritmo logra multiplicar numeros enteros en tiempo casi lineal</title>
-      <link>https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</link>
-      <guid isPermaLink="false">lalupa-lectura-113</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El matematico David Harvey propuso un algoritmo que multiplica numeros enteros de n digitos en tiempo O(n log n), resolviendo un problema abierto en teoria de la complejidad computacional. El hallazgo, disponible como paper publico, mejora los limites teoricos conocidos para una de las operaciones mas basicas de la computacion. Por que leerlo: Entender este avance te acerca a los limites teoricos que sostienen todo el software que usas a diario. (Hacker News, 8 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>IA detecta senales de riesgo en un medicamento para adelgazar no aprobado, analizando Reddit</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085018.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-114</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores analizaron casi 150.000 publicaciones de Reddit sobre el uso no aprobado de retatrutida, un farmaco para perder peso, y con ayuda de IA encontraron reportes de efectos secundarios como aumento del apetito, insomnio y taquicardia que no coinciden con los resultados de los ensayos clinicos oficiales. El hallazgo demuestra que la inteligencia artificial puede detectar senales tempranas de seguridad farmaceutica a partir de datos de redes sociales, antes que los canales regulatorios tradicionales. Por que leerlo: Muestra una aplicacion practica y novedosa de la IA para vigilancia de seguridad de medicamentos que podria anticiparse a los reguladores. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Una roca que bajo 90 km bajo tierra revela una anomalia termica que desafia la geologia</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020084816.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-115</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos hallaron en Papua Nueva Guinea una roca que habia descendido mas de 90 kilometros hacia el manto terrestre y mostraba un patron de temperatura inesperado, pasando de condiciones muy calientes a relativamente frias. El hallazgo podria obligar a revisar las teorias actuales sobre el movimiento de placas tectonicas, los terremotos y los volcanes. Por que leerlo: Pone en duda modelos establecidos sobre el interior de la Tierra con evidencia fisica directa, algo poco comun en geologia. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>DeepSeek habria recaudado US$15.000 millones pese a restricciones de EE.UU.</title>
-      <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
-      <guid isPermaLink="false">lalupa-lectura-116</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>DeepSeek, la startup china de IA, reportedamente recaudo US$15.000 millones, una de las rondas mas grandes en la historia de China, apenas dias despues de que EE.UU. ordenara a sus agencias federales retirar la tecnologia de la empresa por preocupaciones de seguridad nacional. Por que leerlo: Muestra como el capital sigue fluyendo hacia la IA china pese a las tensiones geopoliticas, una senal clave para entender el mercado global de inteligencia artificial. (TechCrunch, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Que necesitan los fundadores para cerrar una Serie A hoy, segun inversionistas</title>
-      <link>https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/</link>
-      <guid isPermaLink="false">lalupa-lectura-117</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Inversionistas destacados explican que levantar una ronda Serie A se ha vuelto mas exigente, con mayor enfasis en ingresos reales, retencion de clientes y un camino claro a la rentabilidad antes de salir a buscar capital. El articulo recopila consejos practicos sobre lo que hoy esperan los fondos de un fundador en esta etapa. Por que leerlo: Da pautas concretas y actuales para emprendedores que buscan cerrar su primera ronda institucional de inversion. (TechCrunch, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Hackean 333 nodos de salida de Tor para interceptar trafico SSH y correos en texto plano</title>
-      <link>https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/</link>
-      <guid isPermaLink="false">lalupa-lectura-118</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Durante tres dias de octubre, atacantes comprometieron 333 nodos de salida de la red Tor con el objetivo de interceptar conexiones SSH y robar correos electronicos sin cifrar. El incidente expone cuan vulnerable puede ser el trafico que no usa cifrado de extremo a extremo incluso dentro de redes de anonimato. Por que leerlo: Recuerda por que cifrar las conexiones, y no solo anonimizarlas, es esencial para proteger datos sensibles. (Ars Technica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Helion desarrolla nuevos semiconductores para duplicar la potencia de sus plantas de fusion</title>
-      <link>https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/</link>
-      <guid isPermaLink="false">lalupa-lectura-119</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La startup de fusion nuclear Helion recibio 225 millones de dolares adicionales para desarrollar semiconductores que podrian duplicar la produccion electrica de sus futuras plantas. La compania tiene el compromiso de suministrar electricidad a Microsoft a partir de 2028. Por que leerlo: Un avance tecnico concreto que acerca la energia de fusion a ser comercialmente viable, con un cliente real detras del proyecto. (TechCrunch, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Francia confirma la primera muerte humana por el virus Shamonda, antes solo visto en vacas</title>
-      <link>https://www.xataka.com/medicina-y-salud/francia-registra-primera-muerte-humana-virus-shamonda-cambio-paradigma-completo</link>
-      <guid isPermaLink="false">lalupa-lectura-120</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un paciente en Francia murio tras infectarse con el virus Shamonda, un patogeno que hasta ahora se consideraba exclusivamente veterinario y circulaba en ganado bovino. Es el primer caso confirmado de transmision y muerte en humanos, lo que encendio alertas sobre un posible cambio en el comportamiento del virus. Por que leerlo: Es un ejemplo en tiempo real de como un virus animal puede saltar a humanos, clave para entender futuros brotes. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Comunidades energéticas podrían bajar hasta 35% los costos de las empresas en Colombia</title>
-      <link>https://www.larepublica.co/economia/comunidades-energeticas-podrian-reducir-hasta-35-los-costos-de-las-empresas-4508678</link>
-      <guid isPermaLink="false">lalupa-lectura-121</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>En Colombia existen 14 comunidades energéticas registradas ante el operador XM, modelos colectivos donde empresas y hogares generan y comparten energía renovable. Según estos datos, su implementación podría reducir hasta un 35% los costos energéticos de las compañías participantes. Por que leerlo: Si tienes un negocio, aquí hay una forma concreta de recortar costos de energía uniéndote a un modelo colectivo que ya opera en el país. (La Republica, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Banco de Bogotá y BID Invest financiarán pymes colombianas con hasta US$50 millones</title>
-      <link>https://www.larepublica.co/finanzas/banco-de-bogota-y-bid-invest-anuncian-financiamiento-por-us-50-millones-para-empresas-4508520</link>
-      <guid isPermaLink="false">lalupa-lectura-122</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Banco de Bogotá y BID Invest firmaron un acuerdo de financiamiento por hasta US$50 millones destinado a micro, pequeñas y medianas empresas colombianas, con líneas que pueden extenderse hasta US$20 millones por operación. El objetivo es ampliar el acceso a crédito para este segmento empresarial. Por que leerlo: Si tienes o planeas una pyme en Colombia, esta es una fuente concreta de financiamiento que podrías explorar. (La Republica, 2 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>YPF alcanza 248.000 barriles diarios y apunta a 2 millones en Vaca Muerta</title>
-      <link>https://www.bloomberglinea.com/economia/ypf-ya-produce-248000-barriles-diarios-y-marin-apuesta-a-que-vaca-muerta-llegue-a-dos-millones/</link>
-      <guid isPermaLink="false">lalupa-lectura-123</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>YPF quedó a solo 2.000 barriles diarios de cumplir su meta de diciembre en la formación no convencional argentina. Su CEO, Marín, proyecta escalar la producción hasta dos millones de barriles diarios, lo que exigirá fuertes inversiones en infraestructura de transporte. Por que leerlo: Muestra con cifras concretas cómo Argentina escala su mayor apuesta energética y qué inversión en infraestructura requiere ese crecimiento. (Bloomberg Linea, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un nuevo microscopio con laser ultrapotente revela estructuras celulares antes invisibles</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261021231230.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-124</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores desarrollaron un microscopio que usa un laser de alta potencia para obtener imagenes con una claridad sin precedentes de estructuras celulares, incluyendo proteinas pequenas que los microscopios electronicos convencionales no logran capturar. La tecnologia podria permitir observar como interactuan las maquinas moleculares dentro de las celulas, abriendo nuevas vias para la investigacion biomedica. Por que leerlo: Ofrece una ventana a una nueva generacion de herramientas cientificas que podrian acelerar descubrimientos en biologia y medicina. (ScienceDaily, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
