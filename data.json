@@ -221,6 +221,150 @@
   ],
   "casos": [
     {
+      "id": 2249,
+      "titulo": "Gobierno inicia giros de Colombia Mayor pese a déficit fiscal de $3 billones",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno Nacional anunció el inicio de los giros del programa Colombia Mayor para más de 2,8 millones de adultos mayores beneficiarios, a pesar de reportar un déficit de $3 billones en las finanzas destinadas al programa.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/gobierno-anuncia-inicio-de-giros-de-colombia-mayor-para-mas-de-28-millones-de-beneficiarios-pese-a-deficit-de-3-billones/202623/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2248,
+      "titulo": "De la Espriella fija cuatro ordenes a la Fuerza Publica contra el narcoterrorismo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "El presidente Abelardo de la Espriella emitio en video cuatro ordenes directas a la Fuerza Publica en la lucha contra el narcoterrorismo, exigiendo resultados operativos reales y no 'resultados de papel', como parte de la estrategia de seguridad de su gobierno.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEtOY1F1RVBjUUQ2MW1lNUl3S2tXMW5ybS0zcS1pMEJXdHlaYkJvMzFxSHpuZlpGZ3U5TFQxVUs0eGZ5dm90dmw3TnJHOENJYkdKNmkwQUMyMkRYLXRKcnV3eTFHbjZQbDIyZ2pWd0dhUXZDRTJ2LWRKNkhhQ0Z5UWNqRmdkeU4xQlZXNVlCTjA4a2RvT2lpT3laYVkwei1ycnNvVjV1aF9lRUdiN3ptYlE5Qzg?oc=5",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2247,
+      "titulo": "Capturan a reclutador de menores para disidencias de 'Mordisco' en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-25",
+      "descripcion": "La Fiscalia informo la captura de Juan David Gurrute Luna, quien ofrecia hasta 2 millones de pesos, lujos y armas para reclutar a dos adolescentes de 14 y 17 anos para las disidencias de alias 'Mordisco' en el Cauca, en el marco de la ofensiva del gobierno contra el reclutamiento forzado de menores por grupos armados.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/cayo-hombre-que-ofrecia-hasta-2-millones-lujos-y-armas-para-reclutar-menores-para-las-disidencias-de-mordisco-en-cauca-3596206",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan David Gurrute Luna"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2246,
+      "titulo": "Edificio afectado por el terremoto colapsa por lluvias en Pereira",
+      "categoria": "damnificados",
+      "fecha": "2026-10-26",
+      "descripcion": "Autoridades colombianas investigan si hay dos personas atrapadas bajo un edificio en Pereira que colapso este sabado por fuertes lluvias, estructura que ya habia sido afectada por el terremoto del 10 de agosto en el Eje Cafetero, evidenciando riesgos persistentes en edificaciones danadas por el sismo.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/investigan-si-hay-dos-personas-bajo-un-edificio-que-colapso-por-las-lluvias-en-colombia/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Pereira / Cuerpo de Bomberos de Pereira",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 03:11",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 2245,
+      "titulo": "De la Espriella aclara manejo de recursos publicos y privados del Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-10-26",
+      "descripcion": "El presidente Abelardo de la Espriella hizo una aclaracion publica sobre el Fondo Milagro, precisando que los aportes de empresarios privados no son recursos que reciba ni administre el Gobierno nacional, en respuesta a cuestionamientos sobre la transparencia en el manejo de los dineros destinados a la reconstruccion tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/presidente-abelardo-de-la-espriella-hizo-aclaracion-sobre-el-fondo-milagro-y-los-aportes-de-los-empresarios/202632/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 03:11",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2244,
+      "titulo": "De la Espriella anuncia recorte de $267.000 millones en Presidencia y otras entidades",
+      "categoria": "transparencia",
+      "fecha": "2026-10-26",
+      "descripcion": "El presidente Abelardo de la Espriella anunció un recorte presupuestal de $267.000 millones en el presupuesto de la Presidencia de la República y otras entidades del Gobierno, enmarcado en la política de austeridad fiscal de su administración. La medida se suma a los ajustes presupuestales anunciados previamente por el Ministerio de Hacienda ante la difícil situación fiscal del país.",
+      "evidencia": "Reportado por Vanguardia",
+      "fuentes": [
+        {
+          "nombre": "Vanguardia",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzRENF9Zb19VOE1TQk9laGFDRk9TMURObU9yN0dZWE5oWEZTSTJCT1RuOU4xaUVPZlVmVHh1YzJQSFpHQ1JDSkxoLURwSjdGQklPMHhYTG4zT0d2Ny1kS2FhcUc0a3ExX2dCUWlCY29CNUk0OENRZGx0WG9nVmR6bUIteWxrcGdmcDM4dzV6WS1ONm1qM21qODNRQmZIeF93NXJDX2c0MGtQaVNMekRVUHhmX1laLU9TeFd6RUtDdGdBSmpsZDZDLVliVWlhVGR5RWYzVzdscFQzRHNUeWFxSw?oc=5",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 03:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2243,
       "titulo": "Pasivos de las EPS alcanzan $35 billones al cierre de 2025, sin incluir Nueva EPS",
       "categoria": "empalme",
@@ -52390,8 +52534,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-25",
-    "total_casos": 2154,
+    "ultima_actualizacion": "2026-10-26",
+    "total_casos": 2160,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
