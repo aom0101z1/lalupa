@@ -221,6 +221,606 @@
   ],
   "casos": [
     {
+      "id": 2278,
+      "titulo": "Destapan presunta 'olla podrida' en la Agencia Nacional de Tierras por $50.000 millones",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-26",
+      "descripcion": "Se destapa un presunto esquema de irregularidades en la Agencia Nacional de Tierras (ANT) que comprometería recursos por $50.000 millones. El reportaje señala compromisos presupuestales cuestionados dentro de la entidad, sin que se precisen aún los responsables ni el estado del proceso.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/destapan-olla-podrida-en-la-agencia-nacional-de-tierras-50000-millones-estarian-comprometidos/202635/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2277,
+      "titulo": "Capturan a dos disidentes de las Farc por asesinato de intendente de Policía en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-26",
+      "descripcion": "Las Fuerzas Militares y la Policía capturaron a alias 'May' y 'Joselito', presuntos integrantes de la estructura 'Jaime Martínez' de las disidencias de las Farc, señalados de participar en la planeación del asesinato de un intendente de la Policía en Cauca ocurrido en diciembre de 2025.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-disidentes-de-las-farc-senalados-de-participar-en-el-asesinato-de-un-intendente-de-la-policia-en-cauca-3596480",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "alias May",
+        "alias Joselito"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2276,
+      "titulo": "Cuñado del senador Alfredo Deluque es designado viceministro del Interior",
+      "categoria": "gabinete",
+      "fecha": "2026-10-26",
+      "descripcion": "El exsenador conservador Carlos Ramiro Chavarro, cuñado del senador Alfredo Deluque y cercano a Carlos Suárez, fue nombrado viceministro del Interior en el gobierno de De la Espriella, según reportó La Silla Vacía.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/cunado-de-alfredo-deluque-tambien-llegaria-a-viceministerio-del-interior/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ramiro Chavarro",
+        "Alfredo Deluque",
+        "Carlos Suárez"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2275,
+      "titulo": "Gobierno abre créditos para EPS con el fin de destrabar pagos pendientes de salud",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno Nacional expidió una resolución que abre líneas de crédito para las EPS, fijando plazos, intereses y requisitos para financiar el pago de medicamentos y procedimientos pendientes entre el 1 y el 20 de septiembre.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-abre-creditos-para-las-eps-asi-busca-destrabar-pagos-de-medicamentos-y-procedimientos-de-salud-pendientes-505142",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2274,
+      "titulo": "Gobierno busca ampliar base de contribuyentes en futura ley de ajuste fiscal",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno Nacional anunció que la futura ley de ajuste fiscal incluirá medidas para ampliar la base de contribuyentes y combatir la informalidad, fortaleciendo las herramientas de la DIAN para identificar a quienes están obligados a declarar renta.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/colombia-buscaria-ampliar-la-base-de-contribuyentes-y-combatir-la-informalidad-con-la-futura-ley-de-ajuste-fiscal-505152",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2273,
+      "titulo": "300 militares de EE.UU. llegan a Colombia para ejercicios conjuntos contra narcotráfico y minería ilegal",
+      "categoria": "internacional",
+      "fecha": "2026-10-26",
+      "descripcion": "Trescientos militares del Ejército de Estados Unidos llegan a Colombia a partir del 27 de octubre para realizar ejercicios conjuntos orientados a mejorar procedimientos en la lucha contra el narcotráfico, la minería ilegal, evacuaciones médicas y la guerra con drones. El Fuerte Militar de Tolemaida, en Nilo, Cundinamarca, será la sede principal del ejercicio, según informó el Ministerio de Defensa.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/300-militares-estados-unidos-llegan-a-colombia-para-ejercicios-conjuntos-DE42751130",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Ejército de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2272,
+      "titulo": "Cancillería se niega a firmar informe que valida modelo de pasaportes pese a acuerdo previo con Portugal",
+      "categoria": "diplomaticos",
+      "fecha": "2026-10-26",
+      "descripcion": "La Cancillería de Colombia se negó a firmar un informe que validaba el modelo de pasaportes, pese a que los términos habían sido previamente concertados entre las partes. Portugal cuestionó los memoriales presentados por el Ministerio, señalando que el texto fue acordado de antemano, lo que reabre dudas sobre la gestión del contrato de pasaportes heredado de administraciones anteriores.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-se-nego-a-firmar-informe-que-valida-el-modelo-de-pasaportes-pese-a-acuerdo-sobre-terminos-portugal-cuestiona-memoriales-del-ministerio-3596428",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2271,
+      "titulo": "Viceministro de Deporte cercano a la órbita de Suárez pasaría al Viceministerio del Interior",
+      "categoria": "gabinete",
+      "fecha": "2026-10-26",
+      "descripcion": "Edinson Tigreros, actual viceministro de Deporte, se perfila para asumir el viceministerio del Interior. Tigreros proviene del grupo político de Dilian Francisca Toro, cercana a Carlos Suárez, figura influyente en el entorno del presidente De la Espriella, lo que evidencia movimientos de cuotas políticas en la conformación del gabinete.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/funcionario-cercano-a-suarez-se-acerca-al-viceministerio-del-interior/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Edinson Tigreros",
+        "Dilian Francisca Toro",
+        "Carlos Suárez"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2270,
+      "titulo": "Gobierno revive megaproyecto de Autopistas del Café",
+      "categoria": "obras",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno de De la Espriella expidió una resolución que revive el megaproyecto de Autopistas del Café, tumbando el rechazo emitido el 25 de mayo de 2026 y ordenando reanudar de inmediato la evaluación de la propuesta en etapa de factibilidad.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/primicia-resolucion-de-la-espriella-revivio-el-megaproyecto-para-autopistas-del-cafe/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ANI / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2269,
+      "titulo": "Gobierno anuncia plan para rescatar empresas en riesgo de quiebra tras caso Presto",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "Tras la compra de Presto por Grupo Nutresa, el Gobierno de De la Espriella anunció un plan orientado a rescatar otras empresas en riesgo de cierre y proteger empleos en el país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/tras-el-caso-presto-gobierno-de-la-espriella-anuncia-plan-para-rescatar-otras-empresas-en-riesgo-de-quiebra/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2268,
+      "titulo": "Gobierno anuncia cambios en la DIAN para mejorar atención a requerimientos",
+      "categoria": "transparencia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno de De la Espriella anunció una estrategia de cambio en la DIAN orientada a simplificar y mejorar la atención de trámites y requerimientos de los ciudadanos.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncio-cambio-que-tendria-la-dian-mejorara-la-atencion-a-este-requerimiento/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2267,
+      "titulo": "Recortes de la Ley de Rescate de De la Espriella serán graduales durante cuatro años",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El vicepresidente José Manuel Restrepo detalló que los recortes fiscales contemplados en la Ley de Rescate que prepara el Gobierno se aplicarán de manera gradual a lo largo de cuatro años, como parte de la estrategia de ajuste fiscal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/recortes-en-ley-de-rescate-de-de-la-espriella-seran-graduales-y-se-aplicaran-durante-cuatro-anos/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Ministerio de Hacienda / Vicepresidencia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2266,
+      "titulo": "Gobierno nomina al coronel (r) Plazas Vega como embajador en Perú tras designar inicialmente a su esposa",
+      "categoria": "gabinete",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno de Abelardo de la Espriella nominó al coronel (r) Luis Alfonso Plazas Vega como embajador en Perú, después de haber solicitado inicialmente el beneplácito para su esposa, la exsenadora Thania Vega, quien ya lo había obtenido de Lima.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-nomina-a-alfonso-plazas-vega-como-embajador-de-colombia-en-peru-LD42727950",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Alfonso Plazas Vega",
+        "Thania Vega"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2265,
+      "titulo": "Gobierno expulsa a 27 extranjeros irregulares en frontera con Venezuela",
+      "categoria": "seguridad",
+      "fecha": "2026-10-26",
+      "descripcion": "En un operativo conjunto de Migración Colombia, la Policía Nacional y la Alcaldía de Arauca, las autoridades expulsaron a 27 ciudadanos extranjeros sin ingreso formal al país, señalados de vínculos con narcotráfico, hurto y porte ilegal de armas en la frontera con Venezuela.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-colombia-expulsa-27-extranjeros-irregulares-riesgo-seguridad-frontera-venezuela-AH42766251",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Migración Colombia / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2264,
+      "titulo": "Fiscalía imputará cargos a Hollman Morris por presunto acto sexual violento",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-26",
+      "descripcion": "La Fiscalía radicó una solicitud de audiencia de formulación de imputación contra Hollman Morris, exfuncionario del gobierno Petro, por el delito de acto sexual violento con circunstancia de agravación punitiva, hechos ocurridos en diciembre de 2011 fuera de Colombia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/hollman-morris-fiscalia-imputara-cargos-por-acto-sexual-violento-FH42767736",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Hollman Morris"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2263,
+      "titulo": "JEP pide información sobre obras retiradas del Museo Nacional durante el gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-26",
+      "descripcion": "La Jurisdicción Especial para la Paz (JEP) solicitó al Gobierno de Abelardo de la Espriella información sobre el retiro de obras del Museo Nacional, hecho ocurrido durante la administración anterior, en el marco de una verificación sobre el manejo del patrimonio cultural.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/la-jep-le-pide-al-gobierno-de-abelardo-de-la-espriella-informacion-por-obras-retiradas-del-museo-nacional/202605/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "JEP / Museo Nacional",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2262,
+      "titulo": "Gobierno simplifica devolución del IVA para vehículos híbridos y eléctricos",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno de De la Espriella anunció medidas para facilitar la devolución del IVA a compradores de vehículos híbridos y eléctricos, como parte de su política económica y de incentivos a la transición energética.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMHA2NU5MR0V2U2REVjlZNGxZS0NiZ2lVWWNBX2VlSTdER2FSZjlPMHNCeW5UbF9jSWlxNUtrcEw2NWFkYndNMG5mRUI1MUo4Zl9jUEt5dGZ6N2UyRDdnUU1UeTNsZFVTTFpQRUF2b0l3MDNIbHBDVkxFd2hRa19pM3pBR0hvSTl6THNsYnVXQ1ZLMXRHaHlpaVpqY1FNQV9OQWd2RC14djh6VmVTS1Y1TmlJTUUzUGNXQlF6aUljU1hBWDVmTTd5Y0otaVZJbFBjYXRLX0ZVTjNpLWhvcHB2cXpQYXhROXo2T3dfOXItQjFfcmNhSTIyWXhRQkR5WEV1R3IzZXZ3?oc=5",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2261,
+      "titulo": "Cuestionan al procurador por falta de sanción contra Armando Benedetti",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-26",
+      "descripcion": "El procurador general de la Nación fue cuestionado públicamente sobre por qué no ha sancionado al exministro Armando Benedetti, en medio de las investigaciones disciplinarias en curso contra el exfuncionario del gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLVhkcGtNdjBzaW9ZZDlZWlJKdnRHOVhxbUlxdWctd3ZnQk9fak5TSXRQRXFhekYtMTJoeTJ5VHFaN3BEenUtZ2tWQzNzQUNHWUhrc0hUV002ZUFDU3h2a3F6ak5qalRqbDg1Ny1qNUhUTjVibDNGTTJWdUh2S2NMNlJRdmxURHlkbjhIMEFxaWRUWE4zYWc2UERROUJoQUZVRkJMUzJqQ2hqcWFwWkptU3EtSDViR1VLT0hTckl4WGtFdS11TmZLOTBfWnBxYVZrS1c0bDFzX1Q5eDdSWXVFZ2pPd2lrNWdfeHV6aFRaMWE?oc=5",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2260,
+      "titulo": "Risaralda gestiona recursos externos para reactivar el campo tras el sismo",
+      "categoria": "dineros",
+      "fecha": "2026-10-26",
+      "descripcion": "La Gobernación de Risaralda busca apoyo técnico y financiero ante organismos nacionales e internacionales para reactivar las actividades agropecuarias afectadas por el terremoto del 10 de agosto de 2026 en el departamento.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/risaralda-busca-recursos-externos-para-reactivar-el-campo-tras-el-terremoto/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 2259,
+      "titulo": "Procuraduría indaga denuncias de acoso y extralimitación de funciones de Deicy Jiménez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-26",
+      "descripcion": "La Procuraduría General de la Nación abrió una indagación previa por denuncias de Deicy Jiménez relacionadas con presunta extralimitación de funciones, acoso y violencia de género, que involucran a cuatro entidades del gobierno y al Congreso de la República.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/procuraduria-abre-indagacion-previa-por-denuncias-de-deicy-jimenez/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2258,
+      "titulo": "Gobierno De la Espriella reporta 13 millones de hectáreas para conservación ambiental",
+      "categoria": "obras",
+      "fecha": "2026-10-26",
+      "descripcion": "El Ministerio de Ambiente y Desarrollo Sostenible reportó que el gobierno de Abelardo de la Espriella alcanzó 13 millones de hectáreas destinadas a la conservación ambiental en el país, como parte de su agenda territorial.",
+      "evidencia": "Reportado por Ministerio de Ambiente y Desarrollo Sostenible",
+      "fuentes": [
+        {
+          "nombre": "Ministerio de Ambiente y Desarrollo Sostenible",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHk1dmo1LVBJNC1nMDFfeU9nSGVrZ1VENndLSnFSVFdKVzVjTmFBbGxWM2J1SFA1MUM4NXdVUmxrOUF3QzZ3N1pBTDZ5cVpONnNGVm5DaFhUTUIzT1F5d21SRG5sWnZTVXJzcHhUNFViZ2FNaEs5cTNXT0hwQjZpWFJrLXR2c2lIS0ZwOWRsQk5UbHNhb05lLW80dVA4OGpzM1hRYjFqQUJpbmVPTXljd29jWXBCa0FSakZLczBB?oc=5",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2257,
+      "titulo": "Captura de alias Muco, disidente del Frente 33 de las Farc",
+      "categoria": "seguridad",
+      "fecha": "2026-10-26",
+      "descripcion": "El presidente Abelardo de la Espriella confirmó la captura de alias 'Muco', señalado como uno de los disidentes más buscados y presunto integrante del Frente 33 de las disidencias de las Farc, acusado de ser responsable de amenazas contra líderes sociales. La captura se realizó en Gamarra, Cesar, por el Gaula y la Policía Nacional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-captura-alias-muco-OF42741924",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "alias Muco"
+      ],
+      "entidad": "Fuerza Pública / Gaula / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2256,
+      "titulo": "Dapre prorrogó contrato de $254,7 millones a amiga de Verónica Alcocer antes de terminar el gobierno Petro",
+      "categoria": "nepotismo",
+      "fecha": "2026-10-26",
+      "descripcion": "A diez días de terminar el gobierno de Petro, el Dapre prorrogó un contrato de Carolina Plata, identificada por Verónica Alcocer como encargada de las casas privadas presidenciales y persona de confianza de su familia. La modificación, suscrita el 28 de julio de 2026, extendió el plazo hasta el 30 de noviembre y añadió $88.722.860, dejando el contrato en un total de $254.755.203.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mejor-amiga-veronica-alcocer-millonario-contrato-dapre-cual-es-EE42754312",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Carolina Plata",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2255,
+      "titulo": "Denuncia penal contra Petro y María José Pizarro ante la Corte Suprema por contratos a cambio de favores sexuales",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-26",
+      "descripcion": "La veeduría Colombia Transparente, representada por Sergio Alzate González, radicó una denuncia penal ante la Sala de Casación Penal de la Corte Suprema de Justicia contra el expresidente Gustavo Petro y la exsenadora María José Pizarro por su presunta participación en un entramado de adjudicación irregular de contratos estatales a cambio de favores sexuales, tras revelaciones de Revista Semana.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/denuncia-contra-petro-y-pizarro-por-presuntos-contratos-irregulares-DD42728830",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "María José Pizarro",
+        "Sergio Alzate González"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2254,
+      "titulo": "Fiscalía citará a Angie Rodríguez y Laura Sarabia por irregularidades en contratación de mujeres en el Dapre",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-26",
+      "descripcion": "La Fiscalía abrió una indagación por presuntas irregularidades en la contratación de mujeres en el Dapre durante el gobierno Petro y anunció que citará a la exdirectora del Dapre, Angie Rodríguez, y a la exjefa de gabinete Laura Sarabia, tras denuncias públicas de abusos de poder relacionados con contratación a cambio de beneficios.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fiscalia-investigara-contratacion-mujeres-gobierno-gustavo-petro-KD42724169",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Laura Sarabia",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación / Dapre",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
+      "id": 2253,
+      "titulo": "Procuraduría abre indagación disciplinaria por contratación de mujeres en gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-26",
+      "descripcion": "La Procuraduría General abrió una indagación disciplinaria por presuntas irregularidades en la contratación de mujeres en entidades del Estado durante el gobierno de Gustavo Petro, buscando establecer si hubo favorecimientos indebidos, extralimitación de funciones, acoso o violencia de género. El proceso cobija a funcionarios por identificar del Congreso, el Dapre, el Ministerio del Interior y las superintendencias de Vigilancia y de Salud.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/procuraduria-abre-indagacion-por-contratos-a-mujeres-en-gobierno-petro-HF42745662",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 22:21"
+    },
+    {
       "id": 2252,
       "titulo": "Gobierno lanza plan 'Presto' de ahorro en gas, energía y agua en entidades estatales",
       "categoria": "economia",
@@ -52605,7 +53205,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-26",
-    "total_casos": 2163,
+    "total_casos": 2189,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
