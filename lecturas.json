@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 185,
+      "titulo": "Startup estadounidense busca vender luz solar nocturna con satelites reflectores",
+      "resumen": "Una startup de EE.UU. ya reservo dos lanzamientos de cohetes en India para probar un servicio nunca antes comercializado: reflejar luz solar hacia la Tierra durante la noche mediante satelites espejo. El proyecto plantea preguntas regulatorias y ambientales sobre quien decide el uso del cielo nocturno.",
+      "por_que_leerlo": "Muestra un modelo de negocio espacial totalmente nuevo que podria abrir un mercado inedito en la industria satelital.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "espacio",
+        "startups",
+        "satelites",
+        "energia solar"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-american-startup-sunlight-dark.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 186,
+      "titulo": "IA entrenada solo con datos previos a 2018 predice un catalizador de hidrogeno descubierto despues",
+      "resumen": "Investigadores limitaron un modelo de IA al conocimiento cientifico disponible antes de 2018 y el sistema logro identificar un catalizador para produccion de hidrogeno que solo se confirmo experimentalmente anos despues. El hallazgo sugiere que la IA puede acelerar el descubrimiento de procesos quimicos valiosos antes de que los humanos los encuentren.",
+      "por_que_leerlo": "Es evidencia concreta de que la IA puede anticipar descubrimientos cientificos reales, no solo acelerar tareas existentes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "quimica",
+        "energia",
+        "descubrimiento cientifico"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 187,
+      "titulo": "SpaceX cierra el mayor financiamiento de GPUs de la historia: US$40.000 millones con Apollo",
+      "resumen": "SpaceX aseguró un compromiso vinculante por cerca de US$40.000 millones para comprar chips de IA y equipos de centros de datos, según un documento regulatorio divulgado el lunes. La compañía calificó el acuerdo como el 'mayor financiamiento comprometido de GPUs' jamás realizado.",
+      "por_que_leerlo": "Muestra cómo las grandes tecnológicas estructuran financiamiento masivo para infraestructura de IA, una tendencia clave para entender hacia dónde va la industria.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "spacex",
+        "financiamiento",
+        "gpu",
+        "infraestructura ia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 188,
+      "titulo": "Anthropic presenta oficialmente su salida a bolsa con ingresos en alza y perdidas crecientes",
+      "resumen": "Anthropic registró oficialmente su IPO ante la SEC, revelando un crecimiento acelerado de ingresos, pérdidas en aumento, fuerte adopción empresarial y una estructura de gobierno inusual diseñada para preservar el control de los fundadores y su misión de seguridad en IA.",
+      "por_que_leerlo": "Ofrece una mirada directa a las finanzas y la gobernanza de una de las startups de IA más importantes antes de salir al mercado público.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "startups",
+        "ia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 189,
+      "titulo": "Hiperescaladores tienen la mitad de sus chips de Nvidia sin usar pese a inversion millonaria",
+      "resumen": "Microsoft, Amazon, Google y Meta han multiplicado su gasto en infraestructura de IA, llevando las ventas de Nvidia a cifras record, pero reportes recientes indican que buena parte de esas tarjetas compradas permanecen almacenadas sin instalar ni operar. La brecha entre el gasto en hardware y su uso real alimenta dudas sobre el retorno efectivo de la carrera de inversion en IA.",
+      "por_que_leerlo": "Ayuda a entender si el boom de inversion en IA se traduce en capacidad realmente usada o es gasto inflado.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "nvidia",
+        "centros de datos",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 190,
+      "titulo": "Centros de datos buscan vender como calefaccion el calor residual que antes desechaban",
+      "resumen": "Los servidores consumen electricidad las 24 horas y gran parte de esa energia termina convertida en calor que historicamente se evacuaba sin aprovechar. Ahora operadores de centros de datos exploran vender ese calor residual a ciudades y edificios cercanos como fuente de calefaccion de bajo costo.",
+      "por_que_leerlo": "Muestra un modelo de negocio emergente que convierte un desperdicio energetico de la IA en una fuente de ingreso adicional.",
+      "seccion": "tecnologia",
+      "tags": [
+        "centros de datos",
+        "energia",
+        "calefaccion",
+        "eficiencia energetica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/centros-datos-tiran-a-atmosfera-calor-que-podria-calentar-ciudad-ahora-quieren-vendernoslo-como-calefaccion-casi-gratis"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 191,
+      "titulo": "Anthropic solicita salir a bolsa y seria el primer laboratorio de IA cotizado en Wall Street",
+      "resumen": "Anthropic presentó ante la SEC los documentos para cotizar en el Nasdaq Global Select Market bajo el símbolo ANT, lo que la convertiría en el primer laboratorio de inteligencia artificial en salir a bolsa. La solicitud llega en medio de una ola de rondas de financiamiento multimillonarias en el sector de IA generativa.",
+      "por_que_leerlo": "Entender cómo se valora y financia la carrera de la IA generativa justo cuando los grandes laboratorios empiezan a abrirse al capital público.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "ipo",
+        "mercados",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-solicita-salir-a-bolsa-y-ser-el-primer-laboratorio-de-inteligencia-artificial-cotizado-4511063"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 192,
+      "titulo": "Reforma escolar britanica de 1972 habria reducido diagnosticos de demencia cinco decadas despues",
+      "resumen": "Un nuevo estudio encuentra que extender un ano la educacion obligatoria en Reino Unido en 1972 se asocia con menores tasas de diagnostico de demencia en esa generacion, decadas mas tarde. Los investigadores consideran que es una de las evidencias mas solidas hasta ahora de que mas educacion protege contra el deterioro cognitivo a largo plazo.",
+      "por_que_leerlo": "Ofrece evidencia dura sobre como una politica publica de educacion impacta la salud cerebral decadas despues.",
+      "seccion": "ciencia",
+      "tags": [
+        "educacion",
+        "demencia",
+        "salud publica",
+        "politica educativa"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-britain-school-reform-lowered-dementia.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 193,
+      "titulo": "Nuevo metodo de archivo de ARN permite reconstruir lo que hizo una celula dias atras",
+      "resumen": "Cientificos desarrollaron una tecnica que graba en el ARN de una celula un registro de su actividad pasada, algo que antes era imposible de medir porque solo se podia observar el estado actual. La herramienta podria ayudar a entender como surgen las respuestas inmunes o por que ciertas celulas cancerigenas sobreviven a un tratamiento.",
+      "por_que_leerlo": "Es una herramienta de laboratorio genuinamente nueva que abre una ventana al pasado celular, util para investigacion biomedica aplicada.",
+      "seccion": "ciencia",
+      "tags": [
+        "biologia",
+        "arn",
+        "investigacion medica",
+        "cancer"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-rna-archiving-method-reveals-cell.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 194,
+      "titulo": "Un eclipse solar de hace 2.700 anos revela datos inesperados sobre la rotacion de la Tierra",
+      "resumen": "Al corregir un error de ocho kilometros en la ubicacion de una antigua capital china, cientificos reconstruyeron con precision un eclipse solar total ocurrido en el ano 709 a.C. y obtuvieron mediciones mas exactas de como variaba la velocidad de rotacion terrestre en la antiguedad.",
+      "por_que_leerlo": "Muestra como un dato historico aparentemente menor permite corregir calculos cientificos actuales sobre el comportamiento del planeta.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "historia",
+        "rotacion terrestre",
+        "eclipses"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 195,
+      "titulo": "Microsoft ofrece retiro voluntario a cerca de 60.000 empleados",
+      "resumen": "Microsoft lanzó una oferta de retiro voluntario dirigida a aproximadamente 60.000 trabajadores, casi una cuarta parte de su plantilla global, como parte de un esfuerzo continuo por reducir costos y reestructurar su fuerza laboral.",
+      "por_que_leerlo": "Revela cómo una de las mayores tecnológicas del mundo reajusta su estructura laboral en plena carrera por la inteligencia artificial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "microsoft",
+        "empleo",
+        "reestructuracion",
+        "tecnologia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
+      "id": 196,
+      "titulo": "Curso gratuito en video para construir modelos de razonamiento de IA desde cero",
+      "resumen": "El investigador Sebastian Raschka publicó un curso completo en video que enseña a construir modelos de razonamiento de inteligencia artificial desde los fundamentos, sin depender de frameworks preempaquetados. El contenido acumuló más de 180 puntos y amplia discusión en Hacker News.",
+      "por_que_leerlo": "Es un recurso práctico para quien quiere entender y construir sus propias herramientas de IA en lugar de solo usarlas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "aprendizaje",
+        "modelos",
+        "tutorial"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-26 17:11",
+      "auto_generated": true
+    },
+    {
       "id": 173,
       "titulo": "Unos segundos de demora al cargar una pagina sacan de curso a estudiantes en linea",
       "resumen": "Un estudio sobre plataformas de aprendizaje masivas encontro que retrasos de apenas un segundo al cargar una leccion se asocian con tareas sin terminar, notas mas bajas y menos tiempo de uso del sitio. El hallazgo muestra que el rendimiento tecnico tiene un impacto directo y medible en el comportamiento del usuario.",
