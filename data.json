@@ -221,6 +221,76 @@
   ],
   "casos": [
     {
+      "id": 2252,
+      "titulo": "Gobierno lanza plan 'Presto' de ahorro en gas, energía y agua en entidades estatales",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "En su alocución del domingo, el presidente Abelardo de la Espriella anunció un plan de ahorro en gas, energía y agua llamado 'Presto', que comenzará a aplicarse en entidades del gobierno central como parte de las medidas de austeridad fiscal, previo a la presentación de un plan de rescate fiscal la semana siguiente.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/presupuesto-plan-de-rescate-fiscal-presto-y-otros-temas-de-los-que-hablo-de-la-espriella-en-su-alocucion-505109",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-26 12:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2251,
+      "titulo": "Cancillería de Petro firmó 227 contratos por $21.137 millones en un solo día antes de Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-10-26",
+      "descripcion": "Según una revisión preliminar de la nueva administración, el 30 de enero de 2026, un día antes de entrar en vigencia las restricciones de la Ley de Garantías para las elecciones presidenciales, la Cancillería del gobierno Petro firmó 227 contratos por $21.137 millones, equivalentes al 28,1% del total de contratos reportados en la revisión. La concentración de firmas en esa fecha específica quedó bajo la lupa de la administración entrante de Abelardo de la Espriella, que investiga posibles irregularidades en la contratación previa al cambio de gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/exclusivo-la-inusual-contratitis-en-la-cancilleria-de-petro-en-un-solo-dia-en-enero-firmaron-227-FD42721859",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 12:17"
+    },
+    {
+      "id": 2250,
+      "titulo": "Fiscalía abre investigación por presunta red de favores sexuales a cambio de contratos en el Dapre en gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-26",
+      "descripcion": "La Fiscalía General de la Nación abrió formalmente una investigación tras las denuncias de Deicy Jiménez y Angie Rodríguez, quienes señalaron presuntas irregularidades en la contratación de mujeres a cambio de favores sexuales en el Dapre y otras dos dependencias del gobierno Petro. El ente investigador busca establecer si hubo delitos relacionados con abuso de poder y contratación irregular durante la administración saliente.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/26/fiscalia-abre-investigacion-por-posibles-irregularidades-en-contratacion-durante-el-gobierno-petro-una-es-la-polemica-vinculacion-de-mujeres-a-cambio-de-favores-sexuales/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Angie Rodríguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación / Dapre (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-26 12:17"
+    },
+    {
       "id": 2249,
       "titulo": "Gobierno inicia giros de Colombia Mayor pese a déficit fiscal de $3 billones",
       "categoria": "economia",
@@ -52535,7 +52605,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-26",
-    "total_casos": 2160,
+    "total_casos": 2163,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
