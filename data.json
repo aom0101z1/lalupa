@@ -221,6 +221,378 @@
   ],
   "casos": [
     {
+      "id": 2324,
+      "titulo": "Gobierno lanza tablero de seguimiento al Plan de Choque en Salud",
+      "categoria": "transparencia",
+      "fecha": "2026-10-27",
+      "descripcion": "El Gobierno Nacional, a través de MinSalud, puso en marcha una plataforma y tablero para mostrar los avances y pendientes del Plan de Choque en Salud, con datos actualizados a partir de reportes de las EPS. Se espera tener una estimación de los pasivos del sistema hacia finales de 2026 o enero de 2027, en coordinación con el Ministerio de Hacienda, de cara a la definición de la UPC 2027.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-lanza-tablero-para-mostrar-que-avances-y-pendientes-deja-el-plan-de-choque-en-salud-505229",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2323,
+      "titulo": "De la Espriella presenta nueva ruta aérea a Panamá con Satena",
+      "categoria": "internacional",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente Abelardo de la Espriella presentó una nueva ruta aérea entre Colombia y Panamá operada por la aerolínea estatal Satena, con capacidad para transportar hasta 50 pasajeros por vuelo, con el objetivo de reducir los tiempos de desplazamiento entre ambos países.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/globoeconomia/abelardo-de-la-espriella-presento-ruta-a-panama-de-la-mano-de-la-aerolinea-satena-4512121",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Satena / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2322,
+      "titulo": "Capturan a alias Contador, exnarco vinculado a las extintas Farc, en El Dorado",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "La Policía Nacional capturó en el aeropuerto El Dorado de Bogotá a alias Contador, un exnarcotraficante vinculado a las extintas Farc, dentro de los operativos de seguridad adelantados por el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/capturan-en-el-dorado-a-alias-contador-un-exnarco-vinculado-a-las-extintas-farc/202624/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Contador"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2321,
+      "titulo": "Captura de alias Cilindro, ideólogo del Clan del Golfo en occidente antioqueño",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "Las autoridades capturaron a alias Cilindro (Edwin Roman Velasquez Valle), señalado como ideólogo pseudopolítico de una subestructura del Clan del Golfo en el occidente de Antioquia. El capturado hacía parte del cartel de los más buscados del departamento.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-cilindro-senalado-de-ser-el-ideologo-del-clan-del-golfo-en-el-occidente-antioqueno-3596728",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Roman Velasquez Valle"
+      ],
+      "entidad": "Fuerza Publica / Ejercito Nacional",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2320,
+      "titulo": "Avanza ley de competitividad, primer proyecto legislativo del gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "El Congreso aprobó 37 artículos en primer debate de la ley de competitividad, el primer proyecto de ley presentado por el gobierno de Abelardo De la Espriella, con expectativa de aprobar la totalidad del articulado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/avanza-tramite-de-la-ley-de-competitividad-el-primer-proyecto-presentado-por-el-gobierno-de-la-espriella-se-aprobaron-37-articulos-en-primer-debate-3596693",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2319,
+      "titulo": "Contraloría alerta riesgos por $434.000 millones en contrato de fibra óptica con TV Azteca",
+      "categoria": "contratos",
+      "fecha": "2026-10-27",
+      "descripcion": "La Contraloría General advirtió riesgos para la conectividad de 788 municipios debido a la situación financiera de TV Azteca, empresa a cargo de un contrato de fibra óptica nacional que compromete $434.000 millones en recursos públicos. El ente de control anunció vigilancia para verificar el cumplimiento contractual y proteger los dineros comprometidos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/contraloria-pone-la-lupa-sobre-434-000-millones-por-riesgos-en-red-de-fibra-optica-nacional-505230",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloria General de la Republica / TV Azteca",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53"
+    },
+    {
+      "id": 2318,
+      "titulo": "Minsalud pide investigar $885.000 millones asignados en seis días en recursos de salud",
+      "categoria": "empalme",
+      "fecha": "2026-10-27",
+      "descripcion": "La ministra de Salud alertó sobre $885.000 millones asignados en solo seis días sin registro presupuestal adecuado, además de $4,8 billones comprometidos sin obligar presupuestalmente, lo que generó pedido de investigación sobre el manejo de estos recursos del sector salud.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/minsalud-pide-investigar-885-000-millones-asignados-en-seis-dias-denuncian-fallas-en-recursos-para-salud-505240",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2317,
+      "titulo": "Presidente fija nuevas reglas para proyectos de ley y mensajes de urgencia",
+      "categoria": "transparencia",
+      "fecha": "2026-10-27",
+      "descripcion": "Mediante la Directiva Presidencial 07, el presidente Abelardo De La Espriella ordeno a ministros y directores de departamento administrativo ajustar el diseno de las iniciativas de ley y establecio requisitos mas estrictos para solicitar mensajes de urgencia al Congreso, como medida de orden y control en la gestion legislativa del Ejecutivo.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/fijan-nuevas-reglas-para-proyectos-de-ley-y-mensajes-de-urgencia",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De La Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2316,
+      "titulo": "MinHacienda propone reasignar $750.000 millones de obras en Bogota para el Presupuesto 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "El ministro de Hacienda, Miguel Gomez, propuso reasignar $750.000 millones destinados a obras en Bogota dentro del Presupuesto General, atribuyendo la necesidad del cambio a compromisos y desembolsos heredados del gobierno de Gustavo Petro.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gomez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2315,
+      "titulo": "Reino Unido otorga beneplacito a Miguel Uribe Londono como embajador de Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-10-27",
+      "descripcion": "Dos meses despues de ser nombrado por el presidente Abelardo de la Espriella, Miguel Uribe Londono recibio el beneplacito del Gobierno britanico para asumir como embajador de Colombia ante el Reino Unido. La embajada britanica comunico el aval verbalmente, lo que permite avanzar hacia su llegada oficial al cargo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/miguel-uribe-londono-embajador-reino-unido-dio-aprobacion-GN42833533",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Uribe Londono",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cancilleria de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2314,
+      "titulo": "Pedro Rodriguez Melo, primer condenado por caso UNGRD, queda en libertad por redencion de pena",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-27",
+      "descripcion": "Pedro Andres Rodriguez Melo, exasesor juridico de la UNGRD y primer condenado en el megaescandalo de corrupcion de esa entidad, obtuvo la libertad luego de que un juez de ejecucion de penas reconociera la redencion de su condena por estudio y trabajo en reclusion. Continuara colaborando como testigo clave con la Fiscalia en las investigaciones en curso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/pedro-rodriguez-primer-condenado-por-caso-ungrd-que-recobra-libertad-EN42837517",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Andres Rodriguez Melo"
+      ],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "Condenado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53"
+    },
+    {
+      "id": 2313,
+      "titulo": "Ricardo Roa regresa a estrados judiciales por caso de apartamento y campana de Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-27",
+      "descripcion": "El expresidente de Ecopetrol, Ricardo Roa, debe comparecer nuevamente ante la justicia por un proceso relacionado con la compra de un apartamento y su vinculacion con la financiacion de la campana presidencial de Gustavo Petro en 2022. El caso continua su curso judicial.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ2tORU9DeXZYcVN2dG9RRnFGSzhCSTBTRFNqUWNTa2UxcE1KdEZMOWxTdE5naFMxU3NFUkRPbHk0alk1OTdhTjlINGVFTEVsT3dCRnFHRW5OV2hpS2UtaElReW4yRmxCLTh0ZVJHbVJRb09IaXVIekV0a2VGT2QxbWxMemJrTk5Lb3pBLTJuTEtka3MwSkZHY2h0YzRBbGRXUnRhSTlTbzUxRzNleEIxV05acWY0RGZHNnBzZ1M1bnpMal9PQVhSdW5SYmlILXBRN3U2czJPa3RrUU1l0gHcAUFVX3lxTE5na05FT0N5dlhxU3Z0b1FGcUZLOEJJMFNEU2pRY1NrZTFwTUp0Rkw5bFN0TmdoUzFTc0VSRE9seTRqWTU5N2FOOUg0ZUVMRWxPd0JGcUdFbk5XaGlLZS1oSVF5bjJGbEItOHRlUkdtUlFvT0hpdUh6RXRrZUZPZDFtbEx6YmtOTktvekEtMm5MS2RrczBKRkdjaHRjNEFsZFdSdGFJOVNvNTFHM2V4QjFXTlpxZjREZkc2cHNnUzVuekxqX09BWFJ1blJiaUgtcFE3dTZzMk9rdGtRTWU?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Gustavo Petro"
+      ],
+      "entidad": "Rama Judicial / Ecopetrol",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53"
+    },
+    {
+      "id": 2312,
+      "titulo": "Quindio proyecta $3,29 billones para reconstruccion con 94% de aporte del Gobierno Nacional",
+      "categoria": "dineros",
+      "fecha": "2026-10-27",
+      "descripcion": "La Gobernacion de Quindio proyecta necesitar $3,29 billones para la reconstruccion tras el terremoto, de los cuales el Gobierno Nacional aportaria el 94%. La cifra se suma al mapa de necesidades de financiamiento departamental tras el sismo del 10 de agosto.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVhaOXhZQ3BQMklCUVl5REQzbm9sTHVGX2tqTlhBSWxwZk9QMHNfNXc3YnE4LUhpSEhjbnp3aDZqdUtrbmlBYXNWdG5DUWdDd1RFdjdXcXlOX0pmR2JQWl9MUlJOZEh3UnFfWHlNeHl3ck4ybXdIUmdkR0V6TEc2X0RJYnFVRGViY0FXTHdZWlJpNVhTZDJxV3NObmx4MTdQQUJLRDFGaFBOSEdSQnI5dGVERnZ1WFhtdldvdFlHZUdQa2ZZZjB5dk1YWUJ4ZGcz0gHWAUFVX3lxTFBSU2cySk5RNWRMd0p1dGlDVkswQWRldnBRTkg1LTFoTWZWVkZmSHlvWGgwOGNpU01YN25hSGtxc0RfTjJmTlM0NTF0bEdIdjZaZktybFZCM0xrUzZPTGQxWWlWZ0cxWEl2RHlxQkVWM2luNXBzeUY4dzdPOE5MQ1hhWVg5aVlXNVdKa05vSWR4WlBvN2V6QmJWZ1FLc1hXNHJKVHBfSEpoajh5Rmd0dzgyWjhiRUR6c1JVcVVUcDhoWkkwS1hwV2E4R0VBcEdyaFFVNnFoOWc?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Quindio / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 2311,
+      "titulo": "Gobierno firma contrato de pasaportes con Thomas Greg & Sons por $240.000 millones via urgencia manifiesta",
+      "categoria": "transparencia",
+      "fecha": "2026-10-27",
+      "descripcion": "El Gobierno De la Espriella firmo un contrato con la empresa Thomas Greg & Sons para la expedicion de pasaportes hasta 2027. El acuerdo, por 13 meses y un monto total de $240.000 millones, fue adjudicado mediante la figura de urgencia manifiesta, lo que evita un proceso de licitacion competitivo.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/gobierno-firmo-con-thomas-greg-sons-para-expedir-pasaportes-hasta-2027",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria de Colombia / Thomas Greg & Sons",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2310,
+      "titulo": "Gobierno solicita $3,9 billones adicionales para El Niño y reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-10-27",
+      "descripcion": "El ministro de Hacienda, Miguel Gómez Martínez, radicó ante el Congreso una solicitud de adición presupuestal por 3,9 billones de pesos para mitigar el impacto energético del fenómeno de El Niño e inyectar recursos adicionales al Fondo Milagro destinado a la reconstrucción tras el terremoto.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-pide-39-billones-para-el-nino-y-la-reconstruccion",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gómez Martínez"
+      ],
+      "entidad": "Ministerio de Hacienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2309,
+      "titulo": "MinAgricultura denuncia anomalías en planta de leche en Nariño por $25.000 millones",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-27",
+      "descripcion": "El Ministerio de Agricultura denunció ante la Fiscalía presuntas irregularidades y hechos de corrupción en la estructuración y financiamiento de una planta procesadora de leche en Machuca, Nariño. Las anomalías mantienen paralizados 25.000 millones de pesos del erario destinados a impulsar la productividad regional.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/minagricultura-denuncia-anomalias-en-planta-de-leche-en-narino-ante-la-fiscalia",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 21:53"
+    },
+    {
       "id": 2308,
       "titulo": "MinEnergía declara racionamiento tras contingencia en regasificadora de Cartagena",
       "categoria": "economia",
@@ -53904,7 +54276,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-27",
-    "total_casos": 2219,
+    "total_casos": 2235,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
