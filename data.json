@@ -221,6 +221,212 @@
   ],
   "casos": [
     {
+      "id": 2287,
+      "titulo": "Gobierno evalúa reconstrucción de estación de Policía en Providencia",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Ministerio del Interior anunció que equipos técnicos del Gobierno nacional viajarán a Providencia para determinar si la actual edificación de la Policía es recuperable o si se requiere construir una nueva estación, tras los daños sufridos en la infraestructura.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/mininterior-busca-recuperar-o-construir-nueva-estacion-policial-en-providencia",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Interior / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2286,
+      "titulo": "Superservicios investiga a generadoras de energía por orden presidencial",
+      "categoria": "transparencia",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente Abelardo De la Espriella ordenó a la Superintendencia de Servicios Públicos (Superservicios) poner bajo la lupa a las empresas generadoras de energía en el país, en medio de las medidas de ahorro energético anunciadas por el fenómeno de El Niño, segun reporte de Semana del 27 de octubre de 2026.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/generadoras-de-energia-bajo-la-lupa-de-superservicios-por-orden-del-presidente-abelardo-de-la-espriella/202616/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Superintendencia de Servicios Públicos (Superservicios)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2285,
+      "titulo": "Capturan y envian a la carcel a alias 'Keko' por extorsion en Barranquilla",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "Aldair Enrique Contreras Echeverria, alias 'Keko' o 'Menor 08', fue enviado a la carcel tras ser imputado por extorsion y concierto para delinquir, luego de ser investigado por extorsionar a comerciantes de Barranquilla y Soledad, Atlantico. El procesado, que habia desafiado publicamente al presidente De la Espriella, no acepto los cargos en audiencia ante un juez de control de garantias.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/carcel-alias-keko-desafia-de-la-espriella-no-tenerle-miedo-DJ42788975",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Aldair Enrique Contreras Echeverria"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2284,
+      "titulo": "Incautan media tonelada de marihuana en Armenia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente Abelardo De la Espriella anuncio la incautacion de media tonelada de marihuana en Armenia, Quindio, como parte de los operativos antinarcoticos de su gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/abelardo-de-la-espriella-anuncia-incautacion-de-media-tonelada-de-marihuana-en-armenia/202641/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fuerza Publica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2283,
+      "titulo": "Gobierno emite mas de $10,7 billones en deuda domestica previo a bonos en dolares",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno De la Espriella realizo una emision de deuda domestica por mas de $10,7 billones de pesos, en preparacion de los proximos bonos globales en dolares que tendrian una inversion minima de US$200.000 y multiplos de US$1.000 adicionales, segun Portafolio.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/finanzas/emision-de-deuda-del-gobierno-de-la-espriella-mas-de-10-7-billones-previos-a-los-bonos-en-dolares-que-se-alistan-505170",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2282,
+      "titulo": "Gobierno anuncia plan de capacitacion laboral y becas para seis departamentos",
+      "categoria": "economia",
+      "fecha": "2026-10-26",
+      "descripcion": "El Gobierno De la Espriella anuncio recursos destinados a capacitar trabajadores, apoyar emprendimientos en seis departamentos y ofrecer un millon de becas, como parte de un nuevo beneficio economico para trabajadores y empresas en Colombia.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-nuevo-beneficio-para-trabajadores-y-empresas-en-colombia/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2281,
+      "titulo": "Gobierno coloca primeros bonos internacionales por US$5.200 millones",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "El Gobierno de Abelardo de la Espriella colocó sus primeros bonos internacionales por US$5.200 millones, con una demanda de inversionistas de aproximadamente 3,1 veces el monto ofrecido, segun reporte de agentes del mercado. La operacion marca el debut del nuevo gobierno en los mercados de deuda externa.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-coloco-us5-200-millones-en-sus-primeros-bonos-internacionales-con-alta-demanda/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2280,
+      "titulo": "Deyci Jiménez será citada como testigo en caso de contratos por favores sexuales de Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-26",
+      "descripcion": "El vicefiscal Gilberto Guerrero confirmó que Deyci Jiménez, quien denunció una presunta red de contratos a cambio de favores sexuales vinculada al expresidente Gustavo Petro, será llamada por la Fiscalía en calidad de testigo dentro del expediente que investiga estos hechos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/deyci-jimenez-sera-llamada-a-la-fiscalia-en-calidad-de-testigo-vicefiscal-sobre-caso-gustavo-petro-y-supuestos-favores-sexuales-3596426",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Deyci Jiménez",
+        "Gustavo Petro",
+        "Gilberto Guerrero"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42"
+    },
+    {
+      "id": 2279,
+      "titulo": "Contraloría detecta 61 hallazgos de irregularidades en el Fomag con déficit de $2,7 billones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-26",
+      "descripcion": "La Contraloría General de la República identificó 61 hallazgos de irregularidades en el Fondo de Prestaciones Sociales del Magisterio (Fomag), que registra un déficit de $2,7 billones. A esto se suma una alerta de la Procuraduría por un faltante de $1,84 billones para financiar la salud del magisterio durante 2026.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fomag-registra-deficit-de-27-billones-y-contraloria-detecta-61-hallazgos-de-irregularidades/",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fomag / Contraloría General de la República / Procuraduría General de la Nación",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 03:42"
+    },
+    {
       "id": 2278,
       "titulo": "Destapan presunta 'olla podrida' en la Agencia Nacional de Tierras por $50.000 millones",
       "categoria": "corrupcion",
@@ -53204,8 +53410,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-26",
-    "total_casos": 2189,
+    "ultima_actualizacion": "2026-10-27",
+    "total_casos": 2198,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
