@@ -221,6 +221,148 @@
   ],
   "casos": [
     {
+      "id": 2293,
+      "titulo": "Pedro Rodriguez Melo renueva pacto de colaboracion en el escandalo de la UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-27",
+      "descripcion": "Un juez prorrogo el beneficio judicial a Pedro Rodriguez Melo, ficha clave en el escandalo de corrupcion de la UNGRD, a cambio de que continue declarando contra personas como el exembajador Camilo Romero. El pacto forma parte de las investigaciones en curso sobre el desvio de recursos de la entidad durante el gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/el-pacto-que-renovo-pedro-rodriguez-melo-ficha-clave-en-el-escandalo-de-la-ungrd-3596185",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Rodriguez Melo",
+        "Camilo Romero"
+      ],
+      "entidad": "Fiscalia General de la Nacion / UNGRD",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 11:38"
+    },
+    {
+      "id": 2292,
+      "titulo": "Presidente De la Espriella lidera megaoperativo con más de 100 allanamientos en Medellín",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente Abelardo de la Espriella lideró un megaoperativo de seguridad en Medellín que incluyó más de 100 allanamientos, en el marco de la ofensiva del nuevo gobierno contra estructuras criminales en la ciudad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/medellin/articulo/presidente-de-la-espriella-lidera-mega-operativos-en-medellin-mas-de-100-allanamientos/202608/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerza Pública",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 11:38",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2291,
+      "titulo": "Gobierno adopta medidas de emergencia por fenómeno de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-26",
+      "descripcion": "Ademas de anunciar la presentación de la Ley de Rescate, el gobierno De la Espriella adoptó medidas para enfrentar los efectos del fenómeno de El Niño en el país, segun reporte de LaRepublica.co.",
+      "evidencia": "Reportado por LaRepublica.co",
+      "fuentes": [
+        {
+          "nombre": "LaRepublica.co",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1BtdkM5YW5ORXAydnlhZEE5a2NnR2R3NGRaZWc2XzhobGlSeHl4WnROdnJpZkpHWVBLWWl4eEpmNERGZTRtWXV2QVN6YUpEeFgtY1dMYmk3VlVfTnNsYUtsNThzU0Vtb2pVdnladzcxcElfSU5BdmlQbmJXa25IVS1KX2NWNVlmTkJqNzBiaVFPWlVabVRxZmtrdkk2R0RvNVVsOWszd1JDSlpoZXpWckhsZndSSVN6WnZSdlNnd2tXZkh1NWxHV2lEamthVWhf0gHQAUFVX3lxTE5DM19JZmp1ZEF1ZEZMRXlaaDJYMjdhT0ZJd0FiRVJydk1fcEp5SUtPaHhuck5TLUlnQkdxUEJlMFNxY1Boa3oxYnl5VnBRcjc4Y01JalJ6Vmp2RjJ5b1ZEbDlFOEU1OUs4bk1uczQzVVl2S0plSC0wS0ozRTRieUhiTWtyN2UxRWVaZnQ3eTRfSVBjcXZEWHFTWkpOUFRyUlJKOE81MHg2NHFZd0Qyc3VPbGFKaFV4VmVMX1FaUi1XUlp5OXBSc3UtaUxBWlFJdXI?oc=5",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 11:38",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2290,
+      "titulo": "Minambiente revoca resolución de Petro que declaraba la Amazonía como reserva de recursos",
+      "categoria": "empalme",
+      "fecha": "2026-10-26",
+      "descripcion": "El Ministerio de Ambiente del gobierno De la Espriella revocó una resolución expedida durante el gobierno Petro que declaraba la Amazonía como reserva de recursos, cambiando el régimen de uso del territorio amazónico.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVZkRE02ZjJTdUhybVQ4NTk5anJGQTJpR19lTllVS1lSS2ZNOTd1RE55ODJuNzV5ekNUWmVzS3hta0tUczY3bFJSNFprMGdFM3JlREYzcHIzeFZyeWpkMWluYkFKZVVlNVZyNFFaY1ctLXNxMFlUSk4xS3Y5NVFoLXYwT05ESGFmVzdDRUJudTY0RjFGdUt1UlFwX3VLWGZGQndZRFNMUG1fV2g4ZXZyZlRqZkNYUHJTVmZwSkdEODBITkhhSE1YeGVhNWUzUdIB4gFBVV95cUxPQ0RCOWZxUUdKU1pnVHktZFpsN2VnVDhwTGJKbDRoSnB5R3ZjQTlmdjdPQW9XUnctVmhiQk44TW1VRk1wNlExNGZLWFlZYzZQLW9KRzhEMXA4QlNnRWFhU1V6cV8tR24yVGQ0RlcxTDdCeS14anRkaW5pV2g3Z3JsMmFrb2JTWlRiRnVUdnFub0hVbW1paGs0U0JMbkU1TElxdVVvU3FoSGdfbmlsdm82dTItbFZTdXpVODA5WFNta3BuLVNYdmZkQzFBbUFxMy1kbFZDNkN3cG9PQ0hhM2F6cmVn?oc=5",
+          "fecha": "2026-10-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 11:38",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2289,
+      "titulo": "Gobierno reactiva subsidio que beneficiará a casi 3 millones de personas",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "El gobierno De la Espriella anunció la reactivación de un subsidio para población vulnerable que beneficiará a cerca de 3 millones de personas en Colombia, segun reporte de Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-reactivacion-de-importante-subsidio-en-colombia-beneficiara-a-casi-3-millones-de-personas/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 11:38",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2288,
+      "titulo": "Brecha de financiamiento para reconstrucción tras terremoto alcanza $43,25 billones",
+      "categoria": "dineros",
+      "fecha": "2026-10-27",
+      "descripcion": "El Colombiano accedió al Plan de Acción Específico para la Recuperación (PAE Nacional) que estima en $58,29 billones el costo total de la reconstrucción tras el terremoto del 10 de agosto, frente a solo $15,04 billones de 'recursos inicialmente identificados', dejando una brecha de $43,25 billones por financiar, que podría ascender a $50,08 billones según el documento. El hallazgo evidencia que las cifras anunciadas inicialmente por el Gobierno son insuficientes frente a las necesidades reales de la reconstrucción.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/terremoto-la-ruta-del-dinero-detras-de-la-brecha-financiera-para-apoyar-a-damnificados-PI42790825",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / PAE Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 11:38",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 2287,
       "titulo": "Gobierno evalúa reconstrucción de estación de Policía en Providencia",
       "categoria": "gestion-emergencia",
@@ -53411,7 +53553,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-27",
-    "total_casos": 2198,
+    "total_casos": 2204,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
