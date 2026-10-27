@@ -221,6 +221,357 @@
   ],
   "casos": [
     {
+      "id": 2308,
+      "titulo": "MinEnergía declara racionamiento tras contingencia en regasificadora de Cartagena",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "El Ministerio de Energía declaró racionamiento energético tras una contingencia en la terminal de regasificación Spec en Cartagena, que continuará operando con una capacidad máxima de 400 millones de pies cúbicos diarios mientras se resuelve la falla.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minenergia-declaro-racionamiento-tras-contingencia-de-regasificadora-de-cartagena-4511847",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2307,
+      "titulo": "Migración Colombia impide ingreso de 49 extranjeros en aeropuerto de Cartagena",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "Migración Colombia reportó que impidió el ingreso de 49 extranjeros en situación irregular por el aeropuerto internacional de Cartagena, como parte de los controles migratorios reforzados por el gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cartagena/articulo/migracion-colombia-impidio-el-ingreso-de-49-extranjeros-por-el-aeropuerto-de-cartagena/202659/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Migración Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2306,
+      "titulo": "Estudio advierte que solo una fraccion del recorte de $13,8 billones se traduciria en ahorro real",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "Un estudio de la firma QNOMOS estima que de los $13,8 billones que el Gobierno De la Espriella recorto al Presupuesto General, solo entre $1,5 y $3,9 billones se traducirian en ahorro efectivo, pues gran parte de los recortes corresponderian a gastos que de todas formas no se habrian ejecutado, segun publico Portafolio el 27 de octubre de 2026.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/de-los-13-8-billones-que-recorto-el-gobierno-al-presupuesto-solo-una-parte-se-traduciria-en-ahorro-estudio-505199",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / QNOMOS",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2305,
+      "titulo": "Colombia y Chile organizan partido amistoso para recaudar fondos para damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-27",
+      "descripcion": "Las selecciones de Colombia y Chile disputaran un partido amistoso el 13 de noviembre en el estadio Pascual Guerrero de Cali, con el fin de recaudar fondos para los damnificados del terremoto. Las entradas tendran precios entre $70.000 y $380.000, segun reporto La Republica el 27 de octubre de 2026.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/ocio/colombia-y-chile-jugaran-partido-amistoso-en-cali-para-recaudar-fondos-para-damnificados-4511887",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Federacion Colombiana de Futbol",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 2304,
+      "titulo": "Congreso debate adición presupuestal con $2,7 billones adicionales para el Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-10-27",
+      "descripcion": "El Congreso inició el debate de una adición presupuestal que incluye un traslado de $1,2 billones al sector energía y una adición de $2,7 billones al Fondo Milagro, destinado a la atención de la emergencia por el terremoto, según reportó La República el 27 de octubre de 2026.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/comenzo-el-debate-de-la-adicion-presupuestal-asi-se-distribuiran-los-recursos-4512160",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2303,
+      "titulo": "Gobierno De la Espriella propone traspaso de vehículos a persona indeterminada",
+      "categoria": "economia",
+      "fecha": "2026-10-27",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció una propuesta normativa para permitir el traspaso de vehículos a persona indeterminada, buscando simplificar el proceso de venta de carros y motos en Colombia y resolver problemas que afectan a miles de ciudadanos con vehículos a su nombre pese a haberlos vendido.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdWdrZWdnQ0E3UHRjVWxiVzRfNHhfRVpTT2NRUVVqVUhPN0lhb2o4YktiMmtUSHNlVmFicjZrX2l6NHBXblg0ZW5wcGI4b19MVkxCXzE0N2t2RWEzZXBMRkdTb2lQeFFiaklhUmp1LU1FOHZuWEotaVc2UmZ0cmRLQUJKdDVxOGdxSlRhT29rVzItZW5WTjVKdXZXZ2ZJb3pMRUI0WFBBWjRqWi03eXd5Uzc5Yl9Lb2N6NC11dkMybllvUEVOaGRMQmN4VFRwQk1jd2E3SjA4MnBsX2RvTWxkR2swR1ZwRFdoNUVaTkhRTm1WS3RnOVNpUGZOdmc0Y0tWanp2Tzl1eldYZw?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2302,
+      "titulo": "Alejandro Ordóñez acompaña agenda diplomática de la OEA antes de asumir el Ministerio del Interior",
+      "categoria": "internacional",
+      "fecha": "2026-10-27",
+      "descripcion": "Alejandro Ordóñez, próximo ministro del Interior del gobierno De la Espriella, acompañó una agenda diplomática de la OEA en Bogotá antes de asumir su cargo el próximo mes, señalando que la seguridad será una prioridad estratégica de su gestión.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/alejandro-ordonez-acompana-agenda-diplomatica-de-la-oea-en-bogota-antes-de-asumir-el-ministerio-del-interior-la-seguridad-es-prioridad-estrategica-3596559",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordóñez"
+      ],
+      "entidad": "Ministerio del Interior / OEA",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2301,
+      "titulo": "Gobierno De la Espriella justifica salida de Colombia del Grupo de La Haya",
+      "categoria": "internacional",
+      "fecha": "2026-10-27",
+      "descripcion": "El gobierno de Abelardo de la Espriella confirmó y justificó la salida de Colombia del Grupo de La Haya, poniendo fin a la copresidencia que el país ejercía en ese espacio. La decisión coincide con las salidas de Bolivia y Honduras, y según el Ejecutivo responde a una nueva orientación de política exterior que busca que 'Colombia vuelva a ser un país predecible, respetuoso y sensato'.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/27/gobierno-de-abelardo-de-la-espriella-justifico-la-salida-del-pais-del-grupo-de-la-haya-colombia-volvio-a-ser-un-pais-predecible-respetuoso-y-sensato/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cancillería de Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2300,
+      "titulo": "Gobierno ofrece $100 millones de recompensa por asesinato de exsecretario de Cúcuta",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó investigar el asesinato de Miguel Castellanos, exsecretario de gobierno de Cúcuta y precandidato a la Alcaldía, y el gobierno ofreció una recompensa de $100 millones de pesos para dar con los responsables del crimen.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/100-millones-de-recompensa-por-el-asesinato-del-exsecretario-de-cucuta/",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Castellanos",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2299,
+      "titulo": "Lula responde a De la Espriella pidiendo respeto mutuo entre gobiernos",
+      "categoria": "internacional",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente de Brasil, Luiz Inácio Lula da Silva, respondió a declaraciones previas del presidente Abelardo de la Espriella, pidiendo respeto mutuo entre los gobiernos pese a las diferencias políticas, tras haber respaldado candidatos rivales en elecciones pasadas.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/lula-responde-a-de-la-espriella-pide-respeto-mutuo-pese-a-diferencias-politicas-entre-gobiernos-505195",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Luiz Inácio Lula da Silva",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de Colombia / Presidencia de Brasil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2298,
+      "titulo": "Revelan presunta red de corrupción de Juliana Guerrero y su hermana",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-25",
+      "descripcion": "La revista Semana destapó una presunta red de corrupción que involucraría a Juliana Guerrero y a su hermana, señalando irregularidades vinculadas a su gestión durante el gobierno Petro. El reportaje detalla presuntos manejos indebidos de recursos o influencias que serán objeto de seguimiento.",
+      "evidencia": "Reportado por MiOriente",
+      "fuentes": [
+        {
+          "nombre": "MiOriente",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lYW9FeHM5QmF2SHJEOHZfS3pMRUZkdkpnVGVyRllCbkZPdjltVC1scW01aDR5dHB3X2tHaHhZR1AyU0s4ZmhBNnhqSFFmZ1hzM3NERVNHcVBzMzFyVk9vVUJrVVBrN0daMW41MmcwLWpOeVdxcGhV?oc=5",
+          "fecha": "2026-10-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero"
+      ],
+      "entidad": "Semana (investigación periodística)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48"
+    },
+    {
+      "id": 2297,
+      "titulo": "Inteligencia militar accede a los sistemas de drones de grupos armados",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "Un equipo de ciberdefensa de la inteligencia militar logro acceder a los sistemas con los que disidencias de las Farc, el ELN y el 'Clan del Golfo' operan sus drones, permitiendo rastrear sus operaciones como parte de la estrategia de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/inteligencia-militar-entro-a-los-drones-de-los-grupos-armados-asi-los-estan-rastreando-3596651",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional / Inteligencia Militar",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2296,
+      "titulo": "Embargan cuentas del Pacto Historico por deuda de $450 millones de la campana Petro 2022",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-27",
+      "descripcion": "Un juez de Barrancabermeja ordeno embargar las cuentas bancarias del Pacto Historico como medida cautelar dentro de un proceso por un prestamo de $450 millones otorgado durante la campana presidencial de Gustavo Petro en 2022, deuda que segun la demandante sigue sin pagarse. La decision recae sobre el partido tras la fusion de Colombia Humana con otras colectividades, y se menciona a Ricardo Roa, exgerente de la campana y expresidente de Ecopetrol.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/embargan-cuentas-pacto-historico-deuda-450-millones-campana-petro-2022-BP42817350",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Ricardo Roa"
+      ],
+      "entidad": "Pacto Historico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48"
+    },
+    {
+      "id": 2295,
+      "titulo": "Fondo Milagro reporta llegada de recursos a Cali, Valle, Pereira y Manizales",
+      "categoria": "dineros",
+      "fecha": "2026-10-27",
+      "descripcion": "El gerente del Fondo Milagro informo que los recursos de reconstruccion ya han llegado a Cali, el Valle del Cauca y Pereira, y que proximamente llegaran a Manizales, como parte de la ejecucion de los dineros destinados a la atencion del terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXZWM2doaGMwel80a0RrWi0zWC1rY2VnY01YT2VuaTFOYnNDVnQtc3VIbnNjN080bkc2WWVreEZldmgxT0hMY21EX1RScnduRkxxQ0cwRU1GQmIzZl9qT1NWWkdtaWtoWldSYmFKbGxYd3pMVllPM0NSbTZNa3FFRXk1dUllYlY2WW4xSjhGNG4xQXR3eW9ZVVJhZlprak1aNE1WQXdxQmJzS3piSUhoT1lkamoyNVNQRU1jRXpEV05YTWQxd1J4QtIB3AFBVV95cUxQM2RZZy1lNkk3N0xTT2pEMHBOTnBhakpNa1VNdmVfbFBJaHBoYlRid19nUzNMMk5mNTF1Q1ZpcWlZdGZzVzc1M0tldHlOaS1HUGY4Q09YRERxX1RrUHhZYVFac0VRWWRqUDBRRVBwUDJpNlc4S3c4cjNlQVJtQ3ZKeGVScWg3UzBCeTBZQ3NIblduWWx5QmZuTkxsanZGRTI3X3F5dTltNkhBck5lZzZfZ0kxY0VnbWs1WEpnd0JWQnJYcUVLQWVjWDBrUTc5U2tmbFZBYllpU0RRRUFa?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2294,
+      "titulo": "Minsalud denuncia irregularidades por $32.500 millones en recursos para hospitales",
+      "categoria": "empalme",
+      "fecha": "2026-10-27",
+      "descripcion": "El Ministerio de Salud, liderado por Ana Maria Vesga, puso en conocimiento de la Fiscalia presuntas irregularidades en la asignacion de recursos para hospitales publicos, tras detectar decisiones administrativas que excederian en $32.505 millones el respaldo presupuestal disponible en la cartera. La ministra pidio esclarecer como se aprobaron esas decisiones y que verificaciones se hicieron.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ministerio-salud-gobierno-abelardo-denuncia-irregularidades-recursos-hospitales-GO42805553",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Maria Vesga"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-27 17:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2293,
       "titulo": "Pedro Rodriguez Melo renueva pacto de colaboracion en el escandalo de la UNGRD",
       "categoria": "corrupcion",
@@ -53553,7 +53904,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-27",
-    "total_casos": 2204,
+    "total_casos": 2219,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
