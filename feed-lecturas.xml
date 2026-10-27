@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:11:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:53:26 -0000</lastBuildDate>
+    <item>
+      <title>OpenAI anuncia tres descubrimientos en matematicas, computacion y fisica asistidos por IA</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
+      <guid isPermaLink="false">lalupa-lectura-197</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>OpenAI presento tres resultados originales logrados con apoyo de sus modelos de IA, incluyendo una prueba que refuta la Hipotesis del Tiempo Exponencial, un problema abierto de teoria de la complejidad computacional. El anuncio supero los 400 puntos y cientos de comentarios en Hacker News por su posible impacto en las ciencias de la computacion. Por que leerlo: Es una senal temprana de que la IA ya puede producir descubrimientos cientificos originales, no solo resumir los existentes. (Hacker News, 6 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>Eric Schmidt financia el primer telescopio espacial privado con 27 exoplanetas como blanco inicial</title>
+      <link>https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html</link>
+      <guid isPermaLink="false">lalupa-lectura-198</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>El Telescopio Espacial Lazuli, impulsado por el exCEO de Google Eric Schmidt, sera el primer telescopio espacial de propiedad privada de la historia, con un espejo de 3 metros mayor al del Hubble (2,4 m) y lanzamiento previsto para 2029. El proyecto ya definio 27 exoplanetas como objetivos iniciales de observacion. Por que leerlo: Es un ejemplo concreto de como el capital privado y los fundadores tecnologicos estan entrando a financiar ciencia espacial de punta antes reservada a agencias gubernamentales. (Phys.org, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Ladrones de carretera usan GPS falso para robar cargamentos de centros de datos</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/</link>
+      <guid isPermaLink="false">lalupa-lectura-199</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores documentaron como bandas de ladrones interceptan camiones con equipos destinados a centros de datos falsificando senales GPS para desviar las rutas de envio. El robo de este tipo ya suma mas de US$100 millones en equipos sustraidos en Estados Unidos. Por que leerlo: Expone una tecnica de robo tecnologico poco conocida que amenaza las cadenas de suministro criticas para la infraestructura de IA. (Ars Technica, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Startup de excavadoras autonomas recauda US$600 millones y alcanza valoracion de US$4.100 millones</title>
+      <link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/</link>
+      <guid isPermaLink="false">lalupa-lectura-200</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Bedrock Robotics desarrolla excavadoras que operan sin conductor para enfrentar la escasez de operadores calificados en el sector de la construccion. La nueva ronda eleva su valoracion a US$4.100 millones, confirmando el interes de los inversionistas en automatizar maquinaria pesada. Por que leerlo: Ilustra como la automatizacion llega a industrias tradicionales poco digitalizadas, con cifras concretas de inversion. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Logran vision por computador acelerada con SIMD en un microcontrolador de 2 dolares</title>
+      <link>https://shraiwi.com/blog/simd-fast-esp32s3/</link>
+      <guid isPermaLink="false">lalupa-lectura-201</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un desarrollador optimizo algoritmos de vision por computador usando instrucciones SIMD en el microcontrolador ESP32-S3, de apenas dos dolares de costo. El proyecto, documentado en detalle tecnico, alcanzo cientos de puntos en Hacker News por mostrar como exprimir hardware economico para tareas antes reservadas a chips mas costosos. Por que leerlo: Da una hoja de ruta tecnica para quien quiera construir vision artificial barata en sus propios proyectos de electronica. (Hacker News, 7 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Meta emitirá US$95.000 millones en acciones para financiar su expansión en IA</title>
+      <link>https://www.valoraanalitik.com/meta-emitira-acciones-para-financiar-ia/</link>
+      <guid isPermaLink="false">lalupa-lectura-202</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Meta anunció una emisión de acciones por US$95.000 millones destinada a financiar la construcción de infraestructura de inteligencia artificial. Nvidia, AMD y Broadcom manifestaron interés en comprar hasta US$5.000 millones de esos títulos, según informó la compañía. Por que leerlo: Muestra la escala de capital que las grandes tecnológicas están movilizando para la carrera de la infraestructura de IA. (Valora Analitik, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Analisis de 50 anos cuestiona si la politica japonesa contra la despoblacion funciona</title>
+      <link>https://phys.org/news/2026-10-term-analysis-japan-depopulation-policy.html</link>
+      <guid isPermaLink="false">lalupa-lectura-203</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Japon lleva mas de cinco decadas aplicando la politica de Designacion de Areas Despobladas (DAD), que identifica municipios en declive y los apoya con infraestructura y subsidios frente a la perdida de poblacion y el envejecimiento. Un nuevo analisis de largo plazo cuestiona si este marco nacional realmente logra estabilizar a las comunidades o solo prolonga su deterioro. Por que leerlo: Muestra con datos de medio siglo si el gasto publico puede revertir la decadencia demografica de una region, una leccion util para cualquier debate sobre desarrollo regional. (Phys.org, 6 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Combinan computacion, procesamiento e IA para disenar aleaciones de alta entropia</title>
+      <link>https://phys.org/news/2026-10-trial-error-ai-high-entropy.html</link>
+      <guid isPermaLink="false">lalupa-lectura-204</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores integran simulaciones computacionales, datos de procesamiento e inteligencia artificial para predecir que combinaciones de elementos y condiciones de fabricacion producen las propiedades mecanicas deseadas en aleaciones de alta entropia, un problema que antes exigia prueba y error costoso. El enfoque busca acelerar el diseno de materiales estructurales avanzados para industrias como aeroespacial y energia. Por que leerlo: Muestra un caso concreto de como la IA esta acelerando el diseno de materiales de ingenieria, reduciendo anos de experimentacion a simulaciones. (Phys.org, 6 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Filman por primera vez como se derriten vortices magneticos que podrian inspirar chips tipo cerebro</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261025073038.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-205</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Cientificos lograron filmar por primera vez como los skyrmions, diminutos vortices magneticos organizados en una red, se desordenan al 'derretirse', revelando nuevas formas de manipular estas estructuras. El hallazgo podria ayudar a construir computadores inspirados en el cerebro, mas pequenos y energeticamente eficientes que los chips actuales. Por que leerlo: Es una pista concreta hacia chips mucho mas eficientes en energia, un problema central para la computacion de IA de hoy. (ScienceDaily, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un modelo topologico conecta una vieja paradoja electoral con la forma de una botella de Klein</title>
+      <link>https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/</link>
+      <guid isPermaLink="false">lalupa-lectura-206</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Matematicos desarrollaron un nuevo modelo topologico que vincula una paradoja de votacion conocida desde hace siglos con una superficie sin un interior o exterior definido, la botella de Klein. El hallazgo ofrece una forma visual e inesperada de entender por que ciertos sistemas de votacion producen resultados ciclicos o contradictorios. Por que leerlo: Ofrece una explicacion matematica elegante de por que los sistemas de votacion pueden fallar de maneras contraintuitivas, util para entender el diseno de mecanismos de decision colectiva. (Quanta Magazine, 8 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Startups de fusion nuclear ceden acciones al gobierno de EE.UU. a cambio de subsidios</title>
+      <link>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</link>
+      <guid isPermaLink="false">lalupa-lectura-207</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Varias startups de energia de fusion enfrentan la disyuntiva de entregar participacion accionaria al gobierno estadounidense para acceder a fondos publicos o financiarse unicamente con capital privado. El mecanismo altera las reglas tradicionales del capital de riesgo en un sector que requiere inversiones masivas antes de generar ingresos. Por que leerlo: Muestra un modelo emergente de financiamiento publico-privado que podria replicarse en otras industrias de alto capital. (TechCrunch, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>BID Lab y Fundación Bolívar crean programa AuRA de inversión de impacto en LatAm</title>
+      <link>https://www.larepublica.co/finanzas/fundacion-bolivar-davivienda-y-bid-lab-crearon-el-programa-aura-para-inversionistas-4511690</link>
+      <guid isPermaLink="false">lalupa-lectura-208</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El programa incluye un vehículo de cofinanciación de US$700.000 para fortalecer el ecosistema de inversión de impacto en Colombia y América Latina, impulsado por Fundación Bolívar Davivienda y BID Lab. Por que leerlo: Revela una nueva fuente de capital de impacto disponible para emprendedores latinoamericanos. (La Republica, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Startup estadounidense busca vender luz solar nocturna con satelites reflectores</title>
       <link>https://phys.org/news/2026-10-american-startup-sunlight-dark.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Sun, 25 Oct 2026 00:51:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>Un analisis senala que las cartas coleccionables de Pokemon han superado en rentabilidad a activos tradicionales como el oro, el arte y a Nvidia, posicionandose como una de las inversiones alternativas mas rentables de los ultimos anos. Por que leerlo: Un dato que desafia la intuicion sobre donde esta el verdadero rendimiento financiero y abre la puerta a pensar en activos alternativos. (Xataka, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Mas de ocho horas de ejercicio semanal casi detienen el deterioro cognitivo en Parkinson</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261022081306.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-137</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio de siete anos encontro que las personas con Parkinson que se mantuvieron mas activas fisicamente tuvieron una caida mas lenta en memoria, pensamiento y movimiento. Quienes hicieron mas de ocho horas de ejercicio semanal casi no mostraron deterioro cognitivo promedio durante el seguimiento. Por que leerlo: Da una cifra concreta y accionable sobre cuanto ejercicio podria frenar el avance cognitivo del Parkinson. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>NASA acelera planes para construir una base lunar en solo dos anos</title>
-      <link>https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html</link>
-      <guid isPermaLink="false">lalupa-lectura-138</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>NASA esta adoptando la urgencia del programa Apollo para construir una base en la Luna y devolver astronautas a la superficie lunar en un plazo de apenas dos anos, acelerando los cronogramas previos del programa espacial. Por que leerlo: Para entender el nuevo ritmo de la carrera espacial y sus implicaciones para la industria aeroespacial. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Por que pagamos de mas por carros usados: el sesgo del primer digito</title>
-      <link>https://phys.org/news/2026-10-psychology-overpay-cars-left-digit.html</link>
-      <guid isPermaLink="false">lalupa-lectura-139</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio revela que los compradores de carros usados ignoran sistematicamente los detalles del precio y se dejan influir por el primer digito del numero (sesgo del 'left-digit'), lo que los lleva a pagar de mas sin notarlo. El hallazgo confirma que los consumidores procesan precios de forma imprecisa incluso en compras grandes. Por que leerlo: Explica un sesgo de precios que cualquier emprendedor puede aprovechar al definir el precio de sus propios productos. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un sesgo oculto en el lenguaje humano desafia 70 anos de ciencia</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261023023738.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-140</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Analizando miles de millones de usos de palabras, un estudio encontro que el significado del lenguaje se organiza mas alrededor de poder, peligro y orden que de la emocion, como se asumia desde hace siete decadas. El hallazgo sugiere que el lenguaje humano tiene una preferencia oculta por la seguridad, reflejo de instintos de supervivencia ancestrales. Por que leerlo: Cambia una idea asentada sobre como funciona el lenguaje humano, con implicaciones para linguistica e inteligencia artificial. (ScienceDaily, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Descubren un interruptor celular que quema grasa y bloquea nuevas celulas de grasa</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261023002905.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-141</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos hallaron que desactivar una proteina llamada Mitch hace que las celulas humanas quemen mas grasa y evita que se formen nuevas celulas grasas, replicando en el laboratorio efectos observados en ratones resistentes a la obesidad y con mayor resistencia muscular. El hallazgo abre la puerta a un nuevo tipo de tratamiento contra la obesidad. Por que leerlo: Presenta un posible mecanismo biologico nuevo detras de futuros tratamientos contra la obesidad. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El proyecto insignia de relanzamiento nuclear en EE.UU. acumula fallos de seguridad</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/</link>
-      <guid isPermaLink="false">lalupa-lectura-142</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El reactor que iba a simbolizar el regreso de la energía nuclear en Estados Unidos enfrenta contratiempos serios: un contratista cayó dentro de la cavidad del reactor y un conjunto de barras de combustible estuvo a punto de volcarse. Los incidentes generan dudas sobre la gestión de seguridad en el proyecto. Por que leerlo: Porque expone los riesgos reales detrás del renovado entusiasmo por la energía nuclear. (Ars Technica, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Se necesitarían 22 lanzamientos de Starship para llevar astronautas a la Luna</title>
-      <link>https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/</link>
-      <guid isPermaLink="false">lalupa-lectura-143</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Nuevas estimaciones indican que el sistema de aterrizaje lunar de SpaceX requeriría hasta 22 lanzamientos de Starship, en gran parte para reabastecer de combustible la nave antes de la misión. La cifra evidencia la magnitud logística del programa Artemis frente a los plazos previstos. Por que leerlo: Porque pone en perspectiva numérica lo complejo y costoso que es realmente volver a poner humanos en la Luna. (Ars Technica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Daytona, una nube para agentes de IA, alcanza valoración de US$1.000 millones</title>
-      <link>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/</link>
-      <guid isPermaLink="false">lalupa-lectura-144</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Daytona construye infraestructura en la nube donde cada agente de inteligencia artificial puede operar con su propio entorno de cómputo. La startup atrajo como inversionistas ángeles a fundadores de Stripe, Perplexity, Datadog y Mercor, además del fondo FirstMark. Por que leerlo: Porque muestra hacia dónde se mueve la infraestructura necesaria para construir productos basados en agentes de IA. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Startup Warhound recauda US$200 millones para crear perros de guerra modificados geneticamente</title>
-      <link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</link>
-      <guid isPermaLink="false">lalupa-lectura-145</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Warhound, fundada por Ben Lamm (Colossal Biosciences) y Palmer Luckey (Anduril), salio del modo sigiloso con una ronda de 200 millones de dolares para modificar geneticamente perros y equiparlos con tecnologia de Anduril para uso militar y policial. La empresa apuesta a que la biotecnologia aplicada a animales de trabajo sea un nuevo nicho de defensa. Por que leerlo: Muestra como la biotecnologia y la industria de defensa convergen en un modelo de negocio con financiamiento multimillonario. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Hacker descubre que un televisor Samsung escuchaba con IA y su cuenta de OpenAI fue suspendida</title>
-      <link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</link>
-      <guid isPermaLink="false">lalupa-lectura-146</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un investigador hizo ingenieria inversa a un televisor Samsung y encontro que el asistente de IA integrado usaba una cuenta de OpenAI para procesar audio del hogar, cuenta que termino suspendida. El hallazgo expone como dispositivos 'inteligentes' pueden recolectar y enviar audio sin que el usuario lo sepa con claridad. Por que leerlo: Revela un caso concreto de vigilancia oculta en electrodomesticos conectados que cualquier comprador de smart TVs deberia conocer. (Hacker News, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Espana instala gigantescos condensadores sincronos para evitar que la red electrica vuelva a colapsar</title>
-      <link>https://www.xataka.com/energia/espana-esta-construyendo-gigantes-que-no-producen-electricidad-su-mision-evitar-que-red-vuelva-a-colapsar</link>
-      <guid isPermaLink="false">lalupa-lectura-147</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Tras el apagon del 28 de abril de 2025 que dejo a oscuras a la peninsula iberica, Espana despliega grandes maquinas que no generan electricidad pero estabilizan la frecuencia de la red, junto con mecanismos como el Servicio de Respuesta Activa de la Demanda (SRAD) para ajustar el consumo de grandes industrias. Estas medidas buscan dar inercia y estabilidad a un sistema cada vez mas dependiente de energias renovables intermitentes. Por que leerlo: Explica con un caso real como los paises resuelven el reto tecnico de estabilizar redes electricas con alta penetracion renovable. (Xataka, 6 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Europa cuestiona cuanto control tiene sobre su tecnologia militar tras un incidente con Starshield en Ucrania</title>
-      <link>https://www.xataka.com/magnet/europa-empieza-a-preguntarse-quien-controla-realmente-su-tecnologia-militar-palantir-responde-maven-no-tiene-boton-apagado</link>
-      <guid isPermaLink="false">lalupa-lectura-148</guid>
-      <pubDate>Sat, 24 Oct 2026 14:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un nuevo incidente con la red Starshield de SpaceX en Ucrania reavivo la pregunta sobre cuanto de la capacidad de defensa europea depende realmente de decisiones tomadas en Washington. Palantir respondio sobre su sistema Maven, usado por la OTAN, asegurando que no existe un 'boton de apagado' que Estados Unidos pueda activar unilateralmente. Por que leerlo: Pone en perspectiva el riesgo estrategico de depender de proveedores tecnologicos extranjeros para infraestructura critica de defensa. (Xataka, 5 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

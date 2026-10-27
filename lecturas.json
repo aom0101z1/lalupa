@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-26"
+    "ultima_actualizacion": "2026-10-27"
   },
   "lecturas": [
+    {
+      "id": 197,
+      "titulo": "OpenAI anuncia tres descubrimientos en matematicas, computacion y fisica asistidos por IA",
+      "resumen": "OpenAI presento tres resultados originales logrados con apoyo de sus modelos de IA, incluyendo una prueba que refuta la Hipotesis del Tiempo Exponencial, un problema abierto de teoria de la complejidad computacional. El anuncio supero los 400 puntos y cientos de comentarios en Hacker News por su posible impacto en las ciencias de la computacion.",
+      "por_que_leerlo": "Es una senal temprana de que la IA ya puede producir descubrimientos cientificos originales, no solo resumir los existentes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "matematicas",
+        "ciencia de la computacion",
+        "openai"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 9,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 198,
+      "titulo": "Eric Schmidt financia el primer telescopio espacial privado con 27 exoplanetas como blanco inicial",
+      "resumen": "El Telescopio Espacial Lazuli, impulsado por el exCEO de Google Eric Schmidt, sera el primer telescopio espacial de propiedad privada de la historia, con un espejo de 3 metros mayor al del Hubble (2,4 m) y lanzamiento previsto para 2029. El proyecto ya definio 27 exoplanetas como objetivos iniciales de observacion.",
+      "por_que_leerlo": "Es un ejemplo concreto de como el capital privado y los fundadores tecnologicos estan entrando a financiar ciencia espacial de punta antes reservada a agencias gubernamentales.",
+      "seccion": "ciencia",
+      "tags": [
+        "espacio",
+        "exoplanetas",
+        "inversion privada",
+        "telescopios"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 199,
+      "titulo": "Ladrones de carretera usan GPS falso para robar cargamentos de centros de datos",
+      "resumen": "Investigadores documentaron como bandas de ladrones interceptan camiones con equipos destinados a centros de datos falsificando senales GPS para desviar las rutas de envio. El robo de este tipo ya suma mas de US$100 millones en equipos sustraidos en Estados Unidos.",
+      "por_que_leerlo": "Expone una tecnica de robo tecnologico poco conocida que amenaza las cadenas de suministro criticas para la infraestructura de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "gps",
+        "robo",
+        "centros de datos",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 200,
+      "titulo": "Startup de excavadoras autonomas recauda US$600 millones y alcanza valoracion de US$4.100 millones",
+      "resumen": "Bedrock Robotics desarrolla excavadoras que operan sin conductor para enfrentar la escasez de operadores calificados en el sector de la construccion. La nueva ronda eleva su valoracion a US$4.100 millones, confirmando el interes de los inversionistas en automatizar maquinaria pesada.",
+      "por_que_leerlo": "Ilustra como la automatizacion llega a industrias tradicionales poco digitalizadas, con cifras concretas de inversion.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "robotica",
+        "construccion",
+        "financiamiento",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 201,
+      "titulo": "Logran vision por computador acelerada con SIMD en un microcontrolador de 2 dolares",
+      "resumen": "Un desarrollador optimizo algoritmos de vision por computador usando instrucciones SIMD en el microcontrolador ESP32-S3, de apenas dos dolares de costo. El proyecto, documentado en detalle tecnico, alcanzo cientos de puntos en Hacker News por mostrar como exprimir hardware economico para tareas antes reservadas a chips mas costosos.",
+      "por_que_leerlo": "Da una hoja de ruta tecnica para quien quiera construir vision artificial barata en sus propios proyectos de electronica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "electronica",
+        "vision por computador",
+        "microcontroladores",
+        "optimizacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://shraiwi.com/blog/simd-fast-esp32s3/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 7,
+      "interes_score": 8,
+      "fecha": "2026-10-25",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 202,
+      "titulo": "Meta emitirá US$95.000 millones en acciones para financiar su expansión en IA",
+      "resumen": "Meta anunció una emisión de acciones por US$95.000 millones destinada a financiar la construcción de infraestructura de inteligencia artificial. Nvidia, AMD y Broadcom manifestaron interés en comprar hasta US$5.000 millones de esos títulos, según informó la compañía.",
+      "por_que_leerlo": "Muestra la escala de capital que las grandes tecnológicas están movilizando para la carrera de la infraestructura de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "meta",
+        "inteligencia artificial",
+        "financiamiento",
+        "nvidia"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/meta-emitira-acciones-para-financiar-ia/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 203,
+      "titulo": "Analisis de 50 anos cuestiona si la politica japonesa contra la despoblacion funciona",
+      "resumen": "Japon lleva mas de cinco decadas aplicando la politica de Designacion de Areas Despobladas (DAD), que identifica municipios en declive y los apoya con infraestructura y subsidios frente a la perdida de poblacion y el envejecimiento. Un nuevo analisis de largo plazo cuestiona si este marco nacional realmente logra estabilizar a las comunidades o solo prolonga su deterioro.",
+      "por_que_leerlo": "Muestra con datos de medio siglo si el gasto publico puede revertir la decadencia demografica de una region, una leccion util para cualquier debate sobre desarrollo regional.",
+      "seccion": "ciencia",
+      "tags": [
+        "despoblacion",
+        "politica publica",
+        "japon",
+        "desarrollo regional"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-term-analysis-japan-depopulation-policy.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 204,
+      "titulo": "Combinan computacion, procesamiento e IA para disenar aleaciones de alta entropia",
+      "resumen": "Investigadores integran simulaciones computacionales, datos de procesamiento e inteligencia artificial para predecir que combinaciones de elementos y condiciones de fabricacion producen las propiedades mecanicas deseadas en aleaciones de alta entropia, un problema que antes exigia prueba y error costoso. El enfoque busca acelerar el diseno de materiales estructurales avanzados para industrias como aeroespacial y energia.",
+      "por_que_leerlo": "Muestra un caso concreto de como la IA esta acelerando el diseno de materiales de ingenieria, reduciendo anos de experimentacion a simulaciones.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "materiales",
+        "ingenieria",
+        "aleaciones"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-trial-error-ai-high-entropy.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 205,
+      "titulo": "Filman por primera vez como se derriten vortices magneticos que podrian inspirar chips tipo cerebro",
+      "resumen": "Cientificos lograron filmar por primera vez como los skyrmions, diminutos vortices magneticos organizados en una red, se desordenan al 'derretirse', revelando nuevas formas de manipular estas estructuras. El hallazgo podria ayudar a construir computadores inspirados en el cerebro, mas pequenos y energeticamente eficientes que los chips actuales.",
+      "por_que_leerlo": "Es una pista concreta hacia chips mucho mas eficientes en energia, un problema central para la computacion de IA de hoy.",
+      "seccion": "tecnologia",
+      "tags": [
+        "skyrmions",
+        "computacion neuromorfica",
+        "fisica",
+        "eficiencia energetica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 206,
+      "titulo": "Un modelo topologico conecta una vieja paradoja electoral con la forma de una botella de Klein",
+      "resumen": "Matematicos desarrollaron un nuevo modelo topologico que vincula una paradoja de votacion conocida desde hace siglos con una superficie sin un interior o exterior definido, la botella de Klein. El hallazgo ofrece una forma visual e inesperada de entender por que ciertos sistemas de votacion producen resultados ciclicos o contradictorios.",
+      "por_que_leerlo": "Ofrece una explicacion matematica elegante de por que los sistemas de votacion pueden fallar de maneras contraintuitivas, util para entender el diseno de mecanismos de decision colectiva.",
+      "seccion": "ciencia",
+      "tags": [
+        "matematicas",
+        "teoria de la votacion",
+        "topologia",
+        "paradojas"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 207,
+      "titulo": "Startups de fusion nuclear ceden acciones al gobierno de EE.UU. a cambio de subsidios",
+      "resumen": "Varias startups de energia de fusion enfrentan la disyuntiva de entregar participacion accionaria al gobierno estadounidense para acceder a fondos publicos o financiarse unicamente con capital privado. El mecanismo altera las reglas tradicionales del capital de riesgo en un sector que requiere inversiones masivas antes de generar ingresos.",
+      "por_que_leerlo": "Muestra un modelo emergente de financiamiento publico-privado que podria replicarse en otras industrias de alto capital.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusion nuclear",
+        "financiamiento",
+        "startups",
+        "gobierno"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
+    {
+      "id": 208,
+      "titulo": "BID Lab y Fundación Bolívar crean programa AuRA de inversión de impacto en LatAm",
+      "resumen": "El programa incluye un vehículo de cofinanciación de US$700.000 para fortalecer el ecosistema de inversión de impacto en Colombia y América Latina, impulsado por Fundación Bolívar Davivienda y BID Lab.",
+      "por_que_leerlo": "Revela una nueva fuente de capital de impacto disponible para emprendedores latinoamericanos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inversion de impacto",
+        "colombia",
+        "bid lab",
+        "capital"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/fundacion-bolivar-davivienda-y-bid-lab-crearon-el-programa-aura-para-inversionistas-4511690"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-27 01:53",
+      "auto_generated": true
+    },
     {
       "id": 185,
       "titulo": "Startup estadounidense busca vender luz solar nocturna con satelites reflectores",
