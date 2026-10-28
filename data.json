@@ -221,6 +221,122 @@
   ],
   "casos": [
     {
+      "id": 2344,
+      "titulo": "Tensión diplomática con Portugal por decisiones de Cancillería sobre contrato de pasaportes",
+      "categoria": "diplomaticos",
+      "fecha": "2026-10-27",
+      "descripcion": "El gobierno de Portugal envió una nota verbal expresando molestia por medidas tomadas por la Cancillería colombiana en torno al contrato de pasaportes sin que exista aún una decisión judicial de fondo, mientras la empresa Thomas Greg & Sons retoma operaciones. El hecho abre dudas sobre una eventual demanda internacional y se suma al escándalo por la adjudicación del contrato de pasaportes por $240.000 millones mediante urgencia manifiesta.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/decisiones-sobre-pasaportes-desatan-tension-con-portugal-la-nota-verbal-y-las-dudas-por-acciones-de-cancilleria-mientras-thomas-greg-vuelve-a-operar-3596783",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria de Colombia / Thomas Greg & Sons / Gobierno de Portugal",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 12:08"
+    },
+    {
+      "id": 2343,
+      "titulo": "Oxford Economics advierte que el ajuste fiscal colombiano se extenderá hasta 2030",
+      "categoria": "economia",
+      "fecha": "2026-10-28",
+      "descripcion": "Un informe de Oxford Economics señala que Colombia enfrenta el mayor desafío fiscal de América Latina, proyectando que el proceso de ajuste de las finanzas públicas bajo el gobierno De la Espriella se extenderá hasta el año 2030, en medio de la crisis fiscal heredada y las medidas de austeridad en curso.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/colombia-enfrenta-el-mayor-desafio-fiscal-de-america-latina-oxford-economics-advierte-que-el-ajuste-se-extendera-hasta-2030/202642/",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Oxford Economics / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-28 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2342,
+      "titulo": "Canjes de deuda alivian la caja fiscal del Gobierno para 2026 y 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-28",
+      "descripcion": "El ministro de Hacienda, Miguel Gomez Martinez, atribuyo a una ejecucion disciplinada de la estrategia de deuda publica un alivio en la caja del Gobierno colombiano para 2026 y 2027, mediante canjes orientados a trasladar el riesgo de refinanciamiento hacia plazos mas largos y en condiciones de mercado.",
+      "evidencia": "Reportado por Bloomberg Linea",
+      "fuentes": [
+        {
+          "nombre": "Bloomberg Linea",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/canjes-de-deuda-alivian-la-caja-del-gobierno-colombiano-para-2026-y-2027/",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gomez Martinez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2341,
+      "titulo": "De la Espriella autoriza sexto bombardeo estrategico desde su llegada al poder",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio por redes sociales la autorizacion de un bombardeo calificado como 'importante y estrategico', ejecutado por tropas del Comando de Operaciones Especiales bajo orden del ministro de Defensa Jorge Mora. Se trata de la sexta accion militar de este tipo realizada desde que el mandatario asumio el poder el 7 de agosto de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-bombardeo-operacion-militar-bogota-II42862749",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jorge Mora"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-28 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2340,
+      "titulo": "Megaoperativo BOSUR-KRATOS deja más de 170 capturas en Bogotá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente Abelardo de la Espriella lideró el 28 de octubre de 2026 un megaoperativo contra la criminalidad en Bogotá, denominado BOSUR-KRATOS, con intervenciones en los barrios San Bernardo y Santa Fe y acciones en las 19 localidades de la capital. Participaron la Policía Nacional, el Ejército y la Fiscalía, con requisas, inspecciones y vigilancia con drones. Según reportes preliminares se registraron más de 170 capturas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-lidero-megaoperativo-contra-crimen-en-bogota-OI42863269",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Policía Nacional / Ejército Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-28 12:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2339,
       "titulo": "Incautan en Cartagena mas de tres toneladas de cocaina avaluadas en US$141 millones",
       "categoria": "seguridad",
@@ -54630,7 +54746,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-28",
-    "total_casos": 2250,
+    "total_casos": 2255,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
