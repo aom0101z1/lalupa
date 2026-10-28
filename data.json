@@ -221,6 +221,365 @@
   ],
   "casos": [
     {
+      "id": 2359,
+      "titulo": "Colombia autoriza llegada de tres drones militares MQ-9A Reaper de EE.UU.",
+      "categoria": "internacional",
+      "fecha": "2026-10-28",
+      "descripcion": "Documentos oficiales confirman la autorizacion para la llegada a Colombia de tres drones MQ-9A Reaper, que llegarian inicialmente en calidad de prestamo mediante mecanismos de cooperacion militar entre Bogota y Washington, en el marco de la estrategia de seguridad del Gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-documentos-que-autorizan-la-llegada-a-colombia-de-los-tres-poderosos-drones-mq-9a-reaper-3596881",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2358,
+      "titulo": "Captura de alias Cachaco, jefe de sicarios del Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "La Fuerza Publica capturo a alias Cachaco, jefe de sicarios del Clan del Golfo senalado de liderar el 'plan pistola' contra la Fuerza Publica y de estar detras del asesinato de dos patrulleros en Simiti, sur de Bolivar. Se escondia como campesino en Barranco de Loba.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-alias-cachaco-el-jefe-de-sicarios-del-clan-del-golfo-detras-del-asesinato-de-dos-patrulleros-en-simiti-sur-de-bolivar-3597019",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Cachaco"
+      ],
+      "entidad": "Fuerza Publica / Ejercito Nacional",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2357,
+      "titulo": "Presidente encara a capturado alias 'Mailo' tras megaoperativo en Bogota",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "Tras el megaoperativo en Bogota, el presidente Abelardo de la Espriella se dirigio directamente al capturado alias 'Mailo', senalado de lanzar una granada contra un establecimiento en enero, llamandolo 'payaso' y pidiendo su traslado a una carcel de maxima seguridad una vez sea judicializado.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-megaoperativo-en-bogota-presidente-abelardo-de-la-espriella-encaro-a-mailo-senalado-de-lanzar-granada-a-un-establecimiento-en-enero-payaso-3596937",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "alias Mailo"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerza Publica",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2356,
+      "titulo": "Colombia firma pacto regional contra el terrorismo de Iran",
+      "categoria": "internacional",
+      "fecha": "2026-10-28",
+      "descripcion": "Colombia y otros nueve paises de la region firmaron un mecanismo de cooperacion para blindar fronteras y neutralizar amenazas extremistas vinculadas a la injerencia de Iran en America Latina.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/colombia-y-nueve-paises-firman-pacto-contra-terrorismo-de-iran",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2355,
+      "titulo": "Gobierno plantea control militar en Usme y Sumapaz para frenar el crimen en Bogotá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente Abelardo de la Espriella propuso establecer control militar en las localidades de Usme y Sumapaz, en el marco de una estrategia conjunta entre Presidencia, Fuerza Pública y la Alcaldía de Bogotá, ante la presencia de estructuras criminales como el Tren de Aragua, el Eln y 'El Mesa' en esas zonas.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/control-militar-en-usme-y-sumapaz-plantea-el-presidente-para-frenar-crimen",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerza Publica / Alcaldia de Bogota",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2354,
+      "titulo": "Presidencia adquiere sistema antidrones SkyWiper EDM4S para proteger a De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "La Presidencia de la Republica incorporo un sistema antidrones portatil SkyWiper EDM4S, de la empresa lituana NT Service, para reforzar el esquema de seguridad del presidente Abelardo de la Espriella, tras la oleada de ataques con drones registrada en el pais. El Ejercito Nacional incorporo estos equipos despues de meses de pruebas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-nuevo-sistema-antidrones-inhibidor-senal-cuanto-costo-KI42866729",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Erich Saumeth"
+      ],
+      "entidad": "Presidencia de la Republica / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2353,
+      "titulo": "Icetex y primera dama lanzan becas y ayudas educativas para afectados por el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-10-28",
+      "descripcion": "La primera dama y el Icetex lanzaron una iniciativa de becas y ayudas financieras para estudiantes afectados por el terremoto del 10 de agosto, que enfrentan gastos por pérdida de vivienda, salud fisica o mental y creditos educativos comprometidos. Se menciona el caso de Ana Maria, sobreviviente de unas trillizas, como ejemplo de los beneficiarios de la medida.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/becas-icetex-donaciones-estudiantes-afectados-terremoto-agosto-colombia-LG42886782",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Maria"
+      ],
+      "entidad": "Icetex / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2352,
+      "titulo": "De la Espriella ordena deportación inmediata de migrantes venezolanos que cometan delitos en Bogotá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó que todo migrante venezolano que cometa delitos en Bogotá sea deportado 'sin ninguna dilación', como parte de su política de seguridad frente a la criminalidad asociada a extranjeros en la capital.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-ordeno-que-migrante-venezolano-que-cometa-delitos-en-bogota-sea-deportado-sin-ninguna-dilacion/202658/",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2351,
+      "titulo": "Camilo Noguera es nombrado en el ICANH",
+      "categoria": "gabinete",
+      "fecha": "2026-10-28",
+      "descripcion": "Camilo Noguera asumió la dirección del Instituto Colombiano de Antropología e Historia (ICANH) en medio de los anuncios del presidente Abelardo de la Espriella sobre una 'contrarrevolución cultural' impulsada desde el Ministerio de Cultura.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/camilo-noguera-llega-al-icanh-en-plena-batalla-cultural-de-de-la-espriella",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Camilo Noguera"
+      ],
+      "entidad": "ICANH / Ministerio de Cultura",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2350,
+      "titulo": "Exigen claridad sobre manejo del Fondo Milagro para víctimas del terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-28",
+      "descripcion": "Simón Molina exigió claridad al Gobierno Nacional sobre la administración del Fondo Milagro, señalando que las víctimas del terremoto del 10 de agosto merecen respuestas concretas sobre el destino y ejecución de los recursos asignados para la reconstrucción.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGliSnhrdC0wckJlWW9tMkpUbzV5OW5sZ0tsMk5JSEJvdWpLVVJyZWZCX2ZkV3pIMGx3YWRyVHJ0RWZnYlBBSFdGcTdRY3d1TzYtbkc3enJsZVdGajd1UGlxMGNFVFNwSkNTZmFjLXBRLXJLMy1sYWs5Ql9xeUFLaGpfTnJCaWMySXgyVHN6SVg3NXRSZTgyS3VHd3dJQ2lvTWRQd0w0TlljT25JaWJXYWxLY3owMDlJZUQ5akFseTUzVkluQnYyV2pn0gHeAUFVX3lxTE8zbTByamJzSzdmVjB4YS1ZQl9MUG1Rbm5KaF9mTVVmRWd3dkU1UXg4Um1uVlN5SlQzT2FIVFVEV3hxWFRhVHV0dUpiaXVsSUtSYmx5XzNyTDdYUWxEa256YkVtQkRUajR6TVpmMGJxYzVOX1d3Y1JucWhkZmx2TmExeExab0dzaGdmZkVqdE9aczVZTkJIdE92YnVDUnBsMzBiZ0NxTDZzTHhuUm9JZUJFQjNwYzQ1RWtjcjF5VHlFRWM5WkJsdHg2VkZyRFN4cG41ZHVwVkYtZ05zdGhIUQ?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Simón Molina"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2349,
+      "titulo": "DIAN agiliza devolución del IVA",
+      "categoria": "economia",
+      "fecha": "2026-10-28",
+      "descripcion": "El Gobierno De la Espriella anunció cambios administrativos en la DIAN orientados a acelerar los tiempos de devolución del IVA a los contribuyentes, como parte de medidas de gestión tributaria del nuevo gobierno.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVW1HX2paamR0Y1EySHRUMWY4MlozNFJrb2hJa2pubEQ0WEpzZ2czX1BOQnN6S2xsN2UyZmg3YTV0RGg4VEMwTUlETGhxTnFMbExPMTdOaU5nc3NqNG11Wk83Z2JLT0I1VmlwQUxGZnhLR3pKMWx3Nk8yRVFmbmZjV2YtNW1admtSYVN5ZHZGcjVjRWVlUmxhcEFUcU9pVWRzZlMtVURkek1ZSFprWXBqZGxGLUV1b0FqblREMU5fTEd6T3hZbkI0RXlkLVTSAcwBQVVfeXFMTnZwVHJldTZHbHlnWVU0aXctSFJaZk1wLTM2RkRieGgtSElkZXBhbnJzaEgyR05leVhHb2lIOGlacjlKdjFjV3dRalhOWXUwSTg2OEZJMjdSRTRzNXV6WGc5akFyejQtLU9oUDJUU1dMZWpMM0pUbXI1TzhqUktTM1Z2Ti1SNzQxbFAtR1E4WVlJRTVwOTB2S2FiVEd6eHhwVDRRbWJTeU9Bc2RmMTZCZC10SW9MUjN3VmN1OWRiWF9MRzNpOFdwLVdNdW9p?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2348,
+      "titulo": "Tribunal revoca fallo que prohibia los bombardeos del Gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "Un tribunal en Bogota revoco una tutela que restringia la realizacion de bombardeos ordenados por el Gobierno de Abelardo de la Espriella contra grupos armados, permitiendo la continuidad de estas operaciones militares.",
+      "evidencia": "Reportado por Noticias RCN",
+      "fuentes": [
+        {
+          "nombre": "Noticias RCN",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFVfZW8yaUJvNXpTRTNVZDdPb203QkhkdXJ5LTBpMjVBYXpRM2cyaDBEWkdtajRfRE00TkNwQVVpSUNnaTc2MXI5TVBpa1dwMHYya0o3ai1Xc0RXVTllQjJMN09Zc1ZibWJYU1BWR1R3Y19oMThwZWZJd25oMnMyWnprNTlCZE1jbGY4cXdQSFdKalNsVWNCbWE2Qmd6TTlsV0NFWjZKQlRxNDNXYkc5VENvbGJya1pzUDR2Uy1MaXV4X0xJUTFxYtIByAFBVV95cUxQU3Z5VTlEb2VaNmRybGMxSTFQbXd5RFZlRXkxN1JONFBJelBOa3NtVUFic19DMFBoRVo4OFdHNkJTck5idnhvZThxN3BiclF1dHk4VnhaWGZzX3ZzcTlRdEVKRFphWHRvc0hvYTRFNlp3LUFzcFJGeGFFLVctR2hRQlo0Z2hvYlRvc1A0VnJHUDd1SjhGTnVGeHBLWkZWRnJhTHBDUGFRVG9OdjJWRy1yR2YwaEc5RDM4VzN3M3E0ek5tZnZrbk9Rbg?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Tribunal Superior de Bogota / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2347,
+      "titulo": "Gobierno prepara cambios para las cajas de compensacion",
+      "categoria": "economia",
+      "fecha": "2026-10-28",
+      "descripcion": "El Gobierno de Abelardo de la Espriella alista una reforma a las cajas de compensacion familiar en Colombia, con cambios anunciados que afectarian su funcionamiento y administracion, segun reporto Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlVNZHgwTDJHUE0wWUxPOVNWRjR4NGYtenZrZ1RKMEU0eGs0QnRsLXpEV3RfVUVCOHJLRFFINk4xMTlWUHpZNjV2S0NPQThWWGExazZoM1ROdEdDR3Q5U1lhRXpseWhOcWRTM253OFRoZTlpUUhNMWc4M0NRZVg3dWhiWnhwbk5ySVo2c1VHdkJqcjllaXlvQkVfU2VZdlppeUNOZEVjQTJfRHRqaXpHWFBCaEFiOUtjQllucTRDUTFOcnpKTW1J0gHMAUFVX3lxTE1nenpvZEVHQ1FzMjFZRW9WTktSa2Z3S3RBYUlJdFBXcFI3RlhoNWZRdXFXeE1TcjVwSHVvSFZRUFNURXh2Z1RLejNXZ3VUWS1Oam5vMWIwRk5uLW1MVzRDWTA0RnRZdVJZNjk2cENIS0lidWVYdzdyRmdUcHZydzdmRnBHbTRycEFIcjBXZ25hZGxXaVVxMFRWLTE2aWY3eXZySURtUTBNaDVPYzl2cElQZ2dROW41SEVwRUd4Y001bm5xeWxSRWFncF9Dag?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2346,
+      "titulo": "Viviane Morales asume nuevo cargo en el Gobierno De la Espriella",
+      "categoria": "gabinete",
+      "fecha": "2026-10-27",
+      "descripcion": "La Presidencia de la Republica republico la hoja de vida de la exministra Viviane Morales, confirmando su nombramiento en un nuevo cargo dentro del gabinete del Gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOVTZiUnhwdHU3UHljNnBCZHQyYkVDaUFrY0ZjTzBLb0VDT2xZU1l2UjhEVXR5RkVnYkluSmFneG4wYVZobHFTSmpqN25FQ3RQMkFBSG16OXNDZ0lGRnpxRkpFUkpLRmNnQUF0ZXB5YmtHM1B4b2l6a3JMUXNTczJZYlU3bkxMOTNzelVITnhQUjlfc1hVY3ZmUjY0Rjl4R2s1SzlSbWJkUHVwWnpPVkVvN3pSMm90Rk9UZ3BRX19FT0FQc2RGVjJpZXVlajkyNW9YT21xN1lHbXE1dkR4bDRhWnpMT0pvUDU2SFF0MFpfbGxjZXdjMzlTN3NpemZFMTlhV2dnazdGNGNVdDZoaWhHN29RWHdJSGtFRlhGYi1ia9IBugJBVV95cUxON045T0JwREVEbjllYllodS1FbXNMaHU3NUhyVFhSRzl3UHZWMF9ZMXYycHNjc2hoNlRsSHNEcEZtVU5aejhQd014bWZ4dDVzZ1c3UFBPbjhpSFpBMVhlWXZ5RXNOcDk4aEFTVVRDc0hwQmFnOGluUGRNSWxUR0hDTW80QmpncS1neU1rZUN4ZXBQdXBzVnJ3NUUtcklwVmtoVDVpSjYzTFJHMlRTVFg4RWhpbE5EZWtNUjJWaDdqM0psb2loMkJxZlpodjdHaE16Si1JWGV1VjZIbWpiV3BJN2pOZlFXNlZfcEpDekoxR1FJNk5wdGFQZk9Od3NRUnlCX0Vwb1l0SjdONTVpTl9TODFGWDFvWkh1QmYtTWZ6MHJyM3RYcV8wdkgtSm5uZ1h2b1hTOExnM09Kdw?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Viviane Morales"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2345,
+      "titulo": "Tutela por falta de informe oficial sobre la emergencia del terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-28",
+      "descripcion": "La concejala Mafe Carrascal interpuso una tutela contra el Gobierno de Abelardo de la Espriella por no presentar el informe periodico exigido sobre la gestion de la emergencia del terremoto del 10 de agosto, alegando que no hubo prorroga formal para su entrega.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV2ZtZDNMRDNpWkJudVA5VFpMR3A2UWNvajlZVHRKbG02TGo3UnFzb1FPRzRSbnpMWldXdHpSNmVKZ3FBaVc1SE5VZVZmLWY0WWs5LUd3cS1Xa19adjRkekxmOEJnWnR5dmJiNk94d0JGcWJ0YzZnQVNoUWd0MVphRVBNTG5tOWtqQURRZHBjcWRrV20xZVFLclFFWTB0NWY0cGFsWXZPemIyWEVPNFE5ZmNYb0ZHWmdyeDZWRXZDOFM2YW55VUVrM2pCa05kU1BQZk10dFVNUEdYV21RNElraTl1ZkZHMmRHQzVqRFFjQ2dNdTZrZkdTeEppYjVQTGpSaEpsa181MXRkbklyMDlWNdIBqwJBVV95cUxPLUxJTXNGMzE0SDkwdVdteWdLc080VmlMRktCb09FRHRjUWx2M2E4cDU1Um9MdjVXbV9pdzVDaWl0NTdQTjNpaDUwdjJEZ3BkRUltdEt2NFlUS2VjbGhkYUQ2Q2taZmtXN2pJN1FqWTFCZWhUM0p2bldMdVRQaXJ4aFJEVmRkQ01hNFR3ODQzbHI5ZWxkcFM5NHdNQ2EteDBaSEttY05DR3RLeF9YWFFKek95R25qTzR4MFR5cWFSWGppZzJNdncyZTg1MkNKU25KM2xEM0V4TTdEY0hreFJEVHVIMlh4cmFKYlY3akxUTW9TRkhabTBFaHB3RDBKa2NGQjd0dFVqWVRzWkpqRGRKX1RZblZvaGw2SE1ORTVfMVNtMHdlVUw0SkRTdw?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Mafe Carrascal",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-28 22:13",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 2344,
       "titulo": "Tensión diplomática con Portugal por decisiones de Cancillería sobre contrato de pasaportes",
       "categoria": "diplomaticos",
@@ -54746,7 +55105,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-28",
-    "total_casos": 2255,
+    "total_casos": 2270,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
