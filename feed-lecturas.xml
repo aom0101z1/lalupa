@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 28 Oct 2026 02:06:03 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:02:45 -0000</lastBuildDate>
+    <item>
+      <title>Cientificos logran controlar por primera vez el nucleo magnetico de un solo atomo</title>
+      <link>https://phys.org/news/2026-10-magnetic-core-atom.html</link>
+      <guid isPermaLink="false">lalupa-lectura-233</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores de la Universidad Tecnica de Delft usaron ondas de radio para manipular directamente el espin nuclear de un atomo individual, algo que los fisicos consideraban imposible hasta ahora. El hallazgo, publicado en una revista cientifica, abre posibilidades para almacenar y leer informacion cuantica con mayor precision. Por que leerlo: Rompe un supuesto de decadas en fisica y podria cambiar como se construye la memoria de las futuras computadoras cuanticas. (Phys.org, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Mayo Clinic halla nuevas formas de combatir las celulas zombie que aceleran el envejecimiento</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261025073049.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-234</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Siete estudios de Mayo Clinic revelan por que las celulas senescentes persisten en el cuerpo y contribuyen a la inflamacion y enfermedades cronicas, e identifican nuevas estrategias para eliminarlas, incluido un compuesto natural presente en los tomates. En ratones de edad avanzada, tratamientos experimentales redujeron la inflamacion y mejoraron la funcion fisica y cerebral. Por que leerlo: Resume evidencia reciente y concreta sobre como combatir el envejecimiento celular, un tema con impacto directo en salud y longevidad. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un cambio oculto en el océano antártico podría tener consecuencias climáticas globales</title>
+      <link>https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/</link>
+      <guid isPermaLink="false">lalupa-lectura-235</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Las aguas cercanas a la Antártida se están volviendo más saladas a medida que la pérdida de hielo marino altera la circulación oceánica profunda. Los científicos advierten que este cambio podría reconfigurar patrones climáticos mucho más allá del polo sur. Por que leerlo: Explica un mecanismo climático poco conocido que podría afectar el clima global en los próximos años. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El espionaje chino a cables submarinos del Pacífico amenaza la infraestructura de Google y Meta</title>
+      <link>https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/</link>
+      <guid isPermaLink="false">lalupa-lectura-236</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Cables submarinos de propiedad estadounidense que cruzan el Pacífico enfrentan crecientes riesgos de sabotaje y vigilancia por parte de China. Google y Meta figuran entre los operadores de big tech más expuestos a este riesgo de infraestructura crítica. Por que leerlo: Revela un riesgo geopolítico invisible pero real para la infraestructura que sostiene internet y los negocios digitales globales. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>EE.UU. presta US$5.000 millones a plantas nucleares para alimentar centros de datos de IA</title>
+      <link>https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/</link>
+      <guid isPermaLink="false">lalupa-lectura-237</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El Departamento de Energía de EE.UU. otorgará US$5.000 millones en préstamos a Constellation Energy para modernizar reactores nucleares. Casi toda la nueva capacidad generada ya está comprometida con Google, Amazon y Meta. Por que leerlo: Muestra cómo el boom de la IA está canalizando financiamiento público masivo hacia la energía nuclear. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Amazon comprará la satelital Globalstar por US$11.570 millones para competir con Starlink</title>
+      <link>https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/</link>
+      <guid isPermaLink="false">lalupa-lectura-238</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Amazon anunció la compra de la compañía de satélites Globalstar por US$11.570 millones, un movimiento que busca reforzar su infraestructura de conectividad satelital frente al dominio de Starlink, de SpaceX. La operación consolida la carrera de las grandes tecnológicas por el espacio como nuevo campo de batalla en telecomunicaciones. Por que leerlo: Revela hacia dónde se mueve el dinero y la competencia en la industria satelital global, clave para entender el futuro de las telecomunicaciones. (Hacker News, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un espectrometro de resonancia magnetica aprende solo a optimizar sus mediciones con IA</title>
+      <link>https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html</link>
+      <guid isPermaLink="false">lalupa-lectura-239</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de la Universidad de Aarhus lograron que un espectrometro de RMN use inteligencia artificial para aprender directamente de la muestra la mejor secuencia de pulsos, superando las limitaciones de las simulaciones tradicionales. Esto permite revelar detalles moleculares antes ocultos por senales demasiado debiles. Por que leerlo: Muestra un caso concreto de IA mejorando instrumentos cientificos mas alla de lo que permite la simulacion clasica. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Camara de electrones ultrarrapida capta saltos cuanticos en grafeno inducidos por luz</title>
+      <link>https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html</link>
+      <guid isPermaLink="false">lalupa-lectura-240</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Fisicos de Regensburg, Marburgo y Julich combinaron laseres de alta intensidad con microscopia electronica para filmar en camara lenta como campos electricos intensos fuerzan a los electrones del grafeno a saltar entre bandas de energia de forma aparentemente paradojica. La tecnica es una nueva combinacion entre tecnologia laser y microscopia electronica. Por que leerlo: Ofrece una ventana a la fisica cuantica que podria influir en el diseno de futuros chips ultrarrapidos. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Medicamentos comunes contra la artritis podrian facilitar la propagacion de virus peligrosos</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261026225606.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-241</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio encontro que los inhibidores de JAK, recetados para artritis reumatoide y otras enfermedades inflamatorias, debilitan una defensa inmune clave contra la influenza, el COVID-19 y otras infecciones al suprimir genes antivirales. El efecto no se habia documentado con claridad antes. Por que leerlo: Es un dato practico para quien toma o prescribe estos farmacos y quiere entender un riesgo poco conocido. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Delaware evalúa permitir que agentes de IA dirijan empresas enteras sin supervisión humana</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</link>
+      <guid isPermaLink="false">lalupa-lectura-242</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Una propuesta legislativa en Delaware permitiría constituir empresas operadas íntegramente por agentes de inteligencia artificial. El congresista estadounidense Comer advierte que esto podría dejar sin responsabilidad legal a los dueños cuando la IA actúe de forma imprudente. Por que leerlo: Muestra hacia dónde podría avanzar la regulación de negocios autónomos basados en IA, algo clave para quien construye productos con esta tecnología. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nvidia lanza un modelo gratuito de transcripción de voz en 40 idiomas</title>
+      <link>https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</link>
+      <guid isPermaLink="false">lalupa-lectura-243</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Nvidia publicó un modelo abierto de voz a texto capaz de transcribir grabaciones en hasta 40 idiomas, orientado a reuniones y transcripción médica. Por ahora no procesa audio en vivo, a diferencia de rivales como ElevenLabs. Por que leerlo: Es una herramienta gratuita y lista para usar en proyectos propios de inteligencia artificial aplicada. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Jio debuta en bolsa y se convierte en la segunda empresa más valiosa de India</title>
+      <link>https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/</link>
+      <guid isPermaLink="false">lalupa-lectura-244</guid>
+      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Las acciones de Jio subieron 21% en su primer día de cotización tras una de las IPO más grandes de India. La compañía quedó como la segunda empresa listada más valiosa del país, solo detrás de su matriz Reliance Industries. Por que leerlo: Es un caso de referencia sobre cómo un gigante de telecomunicaciones se convierte en potencia bursátil en un mercado emergente. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>DeepMind presenta Genie 4, su nueva generacion de modelos de simulacion de mundos</title>
       <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
       <category>Tecnología</category>
       <description>El investigador Sebastian Raschka publicó un curso completo en video que enseña a construir modelos de razonamiento de inteligencia artificial desde los fundamentos, sin depender de frameworks preempaquetados. El contenido acumuló más de 180 puntos y amplia discusión en Hacker News. Por que leerlo: Es un recurso práctico para quien quiere entender y construir sus propias herramientas de IA en lugar de solo usarlas. (Hacker News, 8 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Unos segundos de demora al cargar una pagina sacan de curso a estudiantes en linea</title>
-      <link>https://phys.org/news/2026-10-seconds-online-learners-track.html</link>
-      <guid isPermaLink="false">lalupa-lectura-173</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un estudio sobre plataformas de aprendizaje masivas encontro que retrasos de apenas un segundo al cargar una leccion se asocian con tareas sin terminar, notas mas bajas y menos tiempo de uso del sitio. El hallazgo muestra que el rendimiento tecnico tiene un impacto directo y medible en el comportamiento del usuario. Por que leerlo: Si construyes productos digitales, esta es evidencia concreta de por que cada segundo de velocidad importa para la retencion. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un modelo de IA de hace 10 años supera a los LLMs modernos en diagnóstico de cáncer de piel</title>
-      <link>https://lynchlab.net/llm-skin-cancer</link>
-      <guid isPermaLink="false">lalupa-lectura-174</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un estudio comparó una red neuronal convolucional (CNN) entrenada hace una década con los modelos de lenguaje más avanzados actuales en la tarea de diagnosticar cáncer de piel a partir de imágenes, y encontró que el modelo antiguo y especializado logra mayor precisión que los modelos generales recientes. El hallazgo cuestiona la idea de que los LLMs multimodales superan automáticamente a los modelos especializados más antiguos en tareas médicas críticas. Por que leerlo: Muestra que no toda IA nueva y grande es mejor que la especializada, una lección clave para quien construye productos con IA en salud. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El boom solar genera electricidad tan barata que amenaza la rentabilidad de nuevos parques</title>
-      <link>https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques</link>
-      <guid isPermaLink="false">lalupa-lectura-175</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El exceso de oferta de energía solar ha llevado a que los precios de la electricidad caigan a cero o incluso a niveles negativos en ciertas horas del día en España, un fenómeno cada vez más frecuente. Esto reduce los ingresos esperados de los nuevos proyectos solares, poniendo en duda su viabilidad financiera pese al auge de las renovables. Por que leerlo: Explica una paradoja económica clave del sector energético que cualquier inversionista o emprendedor en energía debería entender. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El PIB de los latinos en EE.UU. creció 75% y ya rivaliza con grandes economías del mundo</title>
-      <link>https://www.larepublica.co/globoeconomia/si-los-latinos-en-ee-uu-fueran-un-pais-serian-la-quinta-economia-mas-grande-4510586</link>
-      <guid isPermaLink="false">lalupa-lectura-176</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Si los latinos en Estados Unidos fueran un país, serían la quinta economía más grande del planeta. Entre 2013 y 2023 su PIB real creció 74,8%, pasando de US$1,61 billones a US$4,06 billones. Por que leerlo: Un dato duro que revela el peso económico real de la comunidad latina en EE.UU. y las oportunidades de negocio que ese mercado representa. (La Republica, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Nuevo metodo permite leer informacion cuantica sin destruirla</title>
-      <link>https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html</link>
-      <guid isPermaLink="false">lalupa-lectura-177</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores lograron usar una supercorriente para leer el estado de un qubit sin que la medicion colapse la informacion, uno de los problemas centrales de la computacion cuantica. A diferencia de un bit convencional, hasta ahora medir un sistema cuantico alteraba inevitablemente su contenido. Por que leerlo: Entender este avance ayuda a dimensionar que tan cerca o lejos esta la computacion cuantica practica. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El almacenamiento subterraneo de CO2 alcanza record de 43,6 millones de toneladas en 2024</title>
-      <link>https://phys.org/news/2026-10-global-underground-storage-million-metric.html</link>
-      <guid isPermaLink="false">lalupa-lectura-178</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El registro mas completo hasta ahora sobre captura y almacenamiento geologico de CO2 revela que en 2024 se sequestraron 43,6 millones de toneladas metricas, un nuevo record anual, y que en tres decadas se han almacenado 421,7 millones de toneladas en total. Por que leerlo: Ofrece cifras concretas sobre una tecnologia clave de energia e infraestructura climatica que sigue escalando. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Descubren una via proteica que ayuda al VIH a mantenerse oculto pese al tratamiento</title>
-      <link>https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html</link>
-      <guid isPermaLink="false">lalupa-lectura-179</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Los medicamentos actuales contra el VIH suprimen el virus en la sangre, pero este puede permanecer dormido en ciertas celulas inmunes y en el cerebro, formando reservorios que impiden la cura. Cientificos identificaron una nueva via de proteinas que contribuye a mantener ese estado latente. Por que leerlo: Explica con evidencia concreta por que el VIH sigue siendo incurable y donde se enfoca la proxima generacion de tratamientos. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Identifican el hongo que hace ver cientos de humanos diminutos</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261024222021.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-180</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Durante casi un siglo, personas en distintas partes del mundo reportaron ver decenas o cientos de pequenos humanos de colores tras comer ciertos hongos silvestres. Cientificos identificaron la especie responsable, Lanmaoa asiatica, vinculada a estas alucinaciones extraordinarias registradas en China y Filipinas. Por que leerlo: Es un caso fascinante de como la ciencia logra explicar, con evidencia, un fenomeno que parecia puro mito. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Evidencia sugiere que el Spinosaurus vivio la mayor parte de su vida bajo el agua</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261024221956.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-181</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Usando aprendizaje automatico y miles de mediciones de fosiles, cientificos de Yale encontraron pistas sobre que criaturas prehistoricas realmente se volvieron acuaticas. Los resultados sugieren que el Spinosaurus paso la mayor parte de su vida sumergido, a diferencia de lo que se asumia antes. Por que leerlo: Muestra como el aprendizaje automatico esta resolviendo debates cientificos que llevaban decadas sin consenso. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Las abejas europeas perdieron un tercio de su territorio en un siglo, y el clima no es el culpable principal</title>
-      <link>https://www.xataka.com/ecologia-y-naturaleza/abejas-europeas-han-perdido-tercio-su-territorio-siglo-cambio-climatico-no-principal-culpable</link>
-      <guid isPermaLink="false">lalupa-lectura-182</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio de la Agencia Europea de Medio Ambiente concluye que las abejas europeas han perdido aproximadamente un tercio de su territorio en los últimos cien años, y que el cambio climático no es el factor principal detrás de esta pérdida, contradiciendo la narrativa más común sobre el declive de los polinizadores. Por que leerlo: Desafía una idea muy repetida sobre las causas del declive de las abejas con datos concretos de una agencia oficial. (Xataka, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La ingeniería genética entra a salvar los viñedos españoles frente al cambio climático</title>
-      <link>https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica</link>
-      <guid isPermaLink="false">lalupa-lectura-183</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>La vendimia 2026 fue la más temprana registrada en la historia de la Rioja, con regiones como Valencia, Jerez y Jumilla cosechando ya a fines de julio, evidencia de cómo el calentamiento altera los ciclos de cultivo de la vid en España. Ante esto, el sector vitivinícola empieza a recurrir a la ingeniería genética para adaptar las variedades de uva a las nuevas condiciones climáticas. Por que leerlo: Muestra un caso real de cómo la biotecnología se aplica para resolver un problema económico concreto causado por el cambio climático. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un hombre construye su propia central hidroeléctrica casera con ladrillos, tuberías y una turbina</title>
-      <link>https://www.xataka.com/energia/ladrillos-tuberias-turbina-hombre-construye-su-propia-central-hidroelectrica-casa</link>
-      <guid isPermaLink="false">lalupa-lectura-184</guid>
-      <pubDate>Mon, 26 Oct 2026 01:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El creador de contenido vietnamita Chien-Tran aprovechó el caudal de un arroyo cercano a su casa para construir una pequeña central hidroeléctrica de pasada que genera electricidad a 220 voltios, documentando todo el proceso en su canal de YouTube Mini Construction. Por que leerlo: Es un ejemplo práctico e inspirador de ingeniería casera que muestra cómo generar energía propia con materiales accesibles. (Xataka, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

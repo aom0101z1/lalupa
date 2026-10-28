@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 233,
+      "titulo": "Cientificos logran controlar por primera vez el nucleo magnetico de un solo atomo",
+      "resumen": "Investigadores de la Universidad Tecnica de Delft usaron ondas de radio para manipular directamente el espin nuclear de un atomo individual, algo que los fisicos consideraban imposible hasta ahora. El hallazgo, publicado en una revista cientifica, abre posibilidades para almacenar y leer informacion cuantica con mayor precision.",
+      "por_que_leerlo": "Rompe un supuesto de decadas en fisica y podria cambiar como se construye la memoria de las futuras computadoras cuanticas.",
+      "seccion": "ciencia",
+      "tags": [
+        "computacion cuantica",
+        "fisica atomica",
+        "espin nuclear",
+        "almacenamiento de informacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-magnetic-core-atom.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 234,
+      "titulo": "Mayo Clinic halla nuevas formas de combatir las celulas zombie que aceleran el envejecimiento",
+      "resumen": "Siete estudios de Mayo Clinic revelan por que las celulas senescentes persisten en el cuerpo y contribuyen a la inflamacion y enfermedades cronicas, e identifican nuevas estrategias para eliminarlas, incluido un compuesto natural presente en los tomates. En ratones de edad avanzada, tratamientos experimentales redujeron la inflamacion y mejoraron la funcion fisica y cerebral.",
+      "por_que_leerlo": "Resume evidencia reciente y concreta sobre como combatir el envejecimiento celular, un tema con impacto directo en salud y longevidad.",
+      "seccion": "ciencia",
+      "tags": [
+        "envejecimiento",
+        "celulas senescentes",
+        "salud",
+        "longevidad"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-26",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 235,
+      "titulo": "Un cambio oculto en el océano antártico podría tener consecuencias climáticas globales",
+      "resumen": "Las aguas cercanas a la Antártida se están volviendo más saladas a medida que la pérdida de hielo marino altera la circulación oceánica profunda. Los científicos advierten que este cambio podría reconfigurar patrones climáticos mucho más allá del polo sur.",
+      "por_que_leerlo": "Explica un mecanismo climático poco conocido que podría afectar el clima global en los próximos años.",
+      "seccion": "ciencia",
+      "tags": [
+        "oceanografia",
+        "antartida",
+        "cambio climatico",
+        "circulacion oceanica"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 236,
+      "titulo": "El espionaje chino a cables submarinos del Pacífico amenaza la infraestructura de Google y Meta",
+      "resumen": "Cables submarinos de propiedad estadounidense que cruzan el Pacífico enfrentan crecientes riesgos de sabotaje y vigilancia por parte de China. Google y Meta figuran entre los operadores de big tech más expuestos a este riesgo de infraestructura crítica.",
+      "por_que_leerlo": "Revela un riesgo geopolítico invisible pero real para la infraestructura que sostiene internet y los negocios digitales globales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "infraestructura",
+        "geopolitica",
+        "cables submarinos"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 237,
+      "titulo": "EE.UU. presta US$5.000 millones a plantas nucleares para alimentar centros de datos de IA",
+      "resumen": "El Departamento de Energía de EE.UU. otorgará US$5.000 millones en préstamos a Constellation Energy para modernizar reactores nucleares. Casi toda la nueva capacidad generada ya está comprometida con Google, Amazon y Meta.",
+      "por_que_leerlo": "Muestra cómo el boom de la IA está canalizando financiamiento público masivo hacia la energía nuclear.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia nuclear",
+        "centros de datos",
+        "financiamiento publico",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 238,
+      "titulo": "Amazon comprará la satelital Globalstar por US$11.570 millones para competir con Starlink",
+      "resumen": "Amazon anunció la compra de la compañía de satélites Globalstar por US$11.570 millones, un movimiento que busca reforzar su infraestructura de conectividad satelital frente al dominio de Starlink, de SpaceX. La operación consolida la carrera de las grandes tecnológicas por el espacio como nuevo campo de batalla en telecomunicaciones.",
+      "por_que_leerlo": "Revela hacia dónde se mueve el dinero y la competencia en la industria satelital global, clave para entender el futuro de las telecomunicaciones.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "satelites",
+        "telecomunicaciones",
+        "amazon",
+        "starlink"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 239,
+      "titulo": "Un espectrometro de resonancia magnetica aprende solo a optimizar sus mediciones con IA",
+      "resumen": "Investigadores de la Universidad de Aarhus lograron que un espectrometro de RMN use inteligencia artificial para aprender directamente de la muestra la mejor secuencia de pulsos, superando las limitaciones de las simulaciones tradicionales. Esto permite revelar detalles moleculares antes ocultos por senales demasiado debiles.",
+      "por_que_leerlo": "Muestra un caso concreto de IA mejorando instrumentos cientificos mas alla de lo que permite la simulacion clasica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "instrumentacion cientifica",
+        "resonancia magnetica",
+        "quimica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 240,
+      "titulo": "Camara de electrones ultrarrapida capta saltos cuanticos en grafeno inducidos por luz",
+      "resumen": "Fisicos de Regensburg, Marburgo y Julich combinaron laseres de alta intensidad con microscopia electronica para filmar en camara lenta como campos electricos intensos fuerzan a los electrones del grafeno a saltar entre bandas de energia de forma aparentemente paradojica. La tecnica es una nueva combinacion entre tecnologia laser y microscopia electronica.",
+      "por_que_leerlo": "Ofrece una ventana a la fisica cuantica que podria influir en el diseno de futuros chips ultrarrapidos.",
+      "seccion": "ciencia",
+      "tags": [
+        "grafeno",
+        "fisica cuantica",
+        "microscopia electronica",
+        "semiconductores"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 241,
+      "titulo": "Medicamentos comunes contra la artritis podrian facilitar la propagacion de virus peligrosos",
+      "resumen": "Un estudio encontro que los inhibidores de JAK, recetados para artritis reumatoide y otras enfermedades inflamatorias, debilitan una defensa inmune clave contra la influenza, el COVID-19 y otras infecciones al suprimir genes antivirales. El efecto no se habia documentado con claridad antes.",
+      "por_que_leerlo": "Es un dato practico para quien toma o prescribe estos farmacos y quiere entender un riesgo poco conocido.",
+      "seccion": "ciencia",
+      "tags": [
+        "farmacos",
+        "sistema inmune",
+        "virus",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 242,
+      "titulo": "Delaware evalúa permitir que agentes de IA dirijan empresas enteras sin supervisión humana",
+      "resumen": "Una propuesta legislativa en Delaware permitiría constituir empresas operadas íntegramente por agentes de inteligencia artificial. El congresista estadounidense Comer advierte que esto podría dejar sin responsabilidad legal a los dueños cuando la IA actúe de forma imprudente.",
+      "por_que_leerlo": "Muestra hacia dónde podría avanzar la regulación de negocios autónomos basados en IA, algo clave para quien construye productos con esta tecnología.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "regulacion",
+        "agentes autonomos",
+        "negocios"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 243,
+      "titulo": "Nvidia lanza un modelo gratuito de transcripción de voz en 40 idiomas",
+      "resumen": "Nvidia publicó un modelo abierto de voz a texto capaz de transcribir grabaciones en hasta 40 idiomas, orientado a reuniones y transcripción médica. Por ahora no procesa audio en vivo, a diferencia de rivales como ElevenLabs.",
+      "por_que_leerlo": "Es una herramienta gratuita y lista para usar en proyectos propios de inteligencia artificial aplicada.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "transcripcion",
+        "nvidia",
+        "herramientas"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
+      "id": 244,
+      "titulo": "Jio debuta en bolsa y se convierte en la segunda empresa más valiosa de India",
+      "resumen": "Las acciones de Jio subieron 21% en su primer día de cotización tras una de las IPO más grandes de India. La compañía quedó como la segunda empresa listada más valiosa del país, solo detrás de su matriz Reliance Industries.",
+      "por_que_leerlo": "Es un caso de referencia sobre cómo un gigante de telecomunicaciones se convierte en potencia bursátil en un mercado emergente.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "ipo",
+        "india",
+        "telecomunicaciones",
+        "mercados emergentes"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-28 17:02",
+      "auto_generated": true
+    },
+    {
       "id": 221,
       "titulo": "DeepMind presenta Genie 4, su nueva generacion de modelos de simulacion de mundos",
       "resumen": "Genie 4 es la ultima version del modelo de DeepMind capaz de generar mundos interactivos y navegables en tiempo real a partir de texto o imagenes, pensado para entrenar agentes de IA y robots en entornos simulados. El anuncio genero gran repercusion en la comunidad tecnica, con cientos de comentarios en foros especializados.",
