@@ -221,6 +221,478 @@
   ],
   "casos": [
     {
+      "id": 2405,
+      "titulo": "Deuda pública alcanza $1.185 billones a septiembre de 2026",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "Según cifras oficiales, la deuda pública de Colombia llegó a $1.185 billones a septiembre de 2026, equivalente al 61,4% del PIB. De este total, $928 billones corresponden a deuda interna y $257 billones a deuda externa, reflejando el estado fiscal bajo el actual gobierno.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/deuda-publica-a-septiembre-alcanzo-1-181-billones-equivale-a-61-4-del-pib-4514154",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2404,
+      "titulo": "Cancillería reporta colombianos fallecidos y desaparecidos en guerra Rusia-Ucrania",
+      "categoria": "internacional",
+      "fecha": "2026-10-29",
+      "descripcion": "La Cancillería de Colombia, bajo el gobierno De la Espriella, informó que 256 colombianos han fallecido y 973 permanecen desaparecidos en el marco del conflicto entre Rusia y Ucrania, dato reportado oficialmente por la entidad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/cancilleria-informo-sobre-256-colombianos-fallecidos-y-973-desaparecidos-en-medio-de-la-guerra-entre-rusia-y-ucrania/202618/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2403,
+      "titulo": "Captura de implicado en asesinato del subdirector de la cárcel de Neiva y su hijo de 11 años",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "Autoridades capturaron a alias 'Masmela', señalado de participar en el asesinato del subdirector de la cárcel de Neiva y de su hijo de 11 años. La detención permitió avanzar en la investigación contra la organización criminal conocida como 'El Mexicano', en el marco de los operativos de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-implicado-en-el-asesinato-del-subdirector-de-la-carcel-de-neiva-y-de-su-hijo-de-11-anos-en-neiva-3597264",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Masmela"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2402,
+      "titulo": "Presidente De la Espriella presenta nueva era de RTVC bajo enfoque de neutralidad",
+      "categoria": "gabinete",
+      "fecha": "2026-10-29",
+      "descripcion": "El presidente Abelardo De la Espriella presentó una reestructuración de RTVC, que dejará de llamarse Inravisión, con un nuevo enfoque de neutralidad y memoria nacional para Señal Colombia, Radiónica y el Canal Institucional. La medida hace parte de los cambios institucionales del nuevo gobierno en medios públicos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-presenta-la-nueva-era-de-rtvc-enfocada-en-la-neutralidad-y-memoria-nacional-lo-que-hizo-historia-merece-volver-3597149",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "RTVC / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2401,
+      "titulo": "Gobierno adelanta mecanismo para introducir energía al sistema eléctrico ante riesgo de apagón y El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-10-29",
+      "descripcion": "El Gobierno Nacional anunció un mecanismo para incorporar nueva energía al sistema eléctrico colombiano ante los riesgos de un posible apagón agravados por el fenómeno de El Niño. Un funcionario del sector energético señaló que el nuevo gobierno recibió el sector con fuertes presiones de oferta y demanda, lo que motivó la medida preventiva.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-adelanta-mecanismo-introducir-energia-riesgos-apagon-y-el-nino/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2400,
+      "titulo": "Gobierno evalúa mayores ventas de dólares ante dificultades para colocar TES",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "Ante dificultades para colocar Títulos de Tesorería (TES), el Gobierno Nacional podría recurrir a mayores ventas de dólares como mecanismo de financiación hacia el cierre de 2026, según alternativas planteadas por el Banco de Bogotá para mejorar las condiciones fiscales.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-nacional-podria-recurrir-a-mayores-ventas-de-dolares-ante-dificultades-para-colocar-tes/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Banco de Bogota",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2399,
+      "titulo": "Gobierno reprogramará vigencias futuras de obras retrasadas",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El Gobierno Nacional anunció que reprogramará vigencias futuras de obras con retrasos para destinar esos recursos a financiar otras inversiones, aclarando que la medida no implica retirar el respaldo financiero a proyectos como los de Bogotá, segun explico el funcionario Noguera.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-nacional-reprogramara-vigencias-futuras-de-obras-retrasadas-para-financiar-otras-inversiones/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Noguera"
+      ],
+      "entidad": "Gobierno Nacional / DNP",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2398,
+      "titulo": "Gobierno amplía transición del Sisbén al Registro Universal de Ingresos",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El gobierno De la Espriella amplió hasta diciembre de 2027 el periodo de transición del Sisbén hacia el nuevo Registro Universal de Ingresos (RUI), durante el cual las entidades responsables de programas sociales deberán definir sus esquemas de adaptación al nuevo sistema de focalización.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-amplia-hasta-diciembre-de-2027-la-transicion-del-sisben-al-registro-universal-de-ingresos-rui/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / DNP",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2397,
+      "titulo": "Recaptura de alias El Gatico, hijo de 'La Gata', en Barranquilla",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "La Dijín de la Policía Nacional recapturó el 29 de octubre de 2026 en Barranquilla a Jorge Luis Alfonso López, alias El Gatico, hijo de la fallecida Enilce López 'La Gata', por su presunta relación con un homicidio, en el marco de las operaciones de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/captura-alias-el-gatico-hijo-enilce-lopez-la-gata-DK42956410",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Luis Alfonso Lopez"
+      ],
+      "entidad": "Policia Nacional - Dijin",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2396,
+      "titulo": "De la Espriella condecora a uniformados por operaciones de bombardeo",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "El presidente Abelardo De la Espriella condecoró a policías y militares que participaron en los bombardeos contra estructuras criminales ejecutados durante su gobierno, en reconocimiento a los resultados operativos de la Fuerza Pública.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/presidente-de-la-espriella-condecoro-a-policias-y-militares-que-participaron-en-bombardeos-contra-grupos-criminales/202617/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerza Publica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2395,
+      "titulo": "Ministerio de Cultura anticipa recorte de personal",
+      "categoria": "gabinete",
+      "fecha": "2026-10-29",
+      "descripcion": "Trascendidos indican que el Ministerio de Cultura del gobierno De la Espriella prepara un recorte de personal, en el marco de los ajustes administrativos que viene adelantando el nuevo gobierno en distintas carteras.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/anticipan-recorte-de-personal-en-el-ministerio-de-cultura/202631/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Cultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2394,
+      "titulo": "Gobierno anuncia militarización temporal de Cúcuta y activa campaña Esparta",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "El Gobierno de De la Espriella anunció la militarización temporal de Cúcuta y la activación de la campaña de seguridad 'Esparta' a partir del 3 de noviembre de 2026, como parte de las medidas de control territorial frente al crimen organizado en la frontera.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnZscFU5NjhPZ1pYYmM3aXBnWmpKbmRRenJzelpibnZfYVktV3pKMHJ4bUtDbVJ5VVBKRmRmN1IzNldJV3VvdHJaeFRVbmpEV1hjWnVoM0pXU254b3ZqNTVuUnFtM0Y5UkNmSURhUTRpeWwyQ1hIY1dsdUlScWtKNXZjRnJOa2Eycjl1NmhXSGRfU2vSAZMBQVVfeXFMTUkycHRsUEE3SmQ1RUlLTldlTG45MjNqSVRTYVdqVTV2eGZRYkhRRHRSdEF5OXh4UzFzTjZGX1RSVkRRSmV3NXlzRXdCY1V2WmFmQzFqNXJSLUl6V0tCejRQOEozUXRSQy10ZmUweHllTC13eEZKVFp0RnlTd1JBN0tNYzlncDhiRFpWRGI1Y0tUenBJ?oc=5",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2393,
+      "titulo": "Colombia reanuda cooperación con el Grupo Egmont tras crisis en gobierno Petro",
+      "categoria": "internacional",
+      "fecha": "2026-10-29",
+      "descripcion": "La directora de la UIAF, Martha Luz Reyes, reveló que Colombia reanudó la cooperación con el Grupo Egmont de unidades de inteligencia financiera, tras una crisis ocurrida durante el gobierno Petro que afectó los mecanismos internacionales de prevención de lavado de activos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/directora-de-uiaf-revela-que-colombia-ya-empezo-a-cooperar-con-el-grupo-egmont-tras-crisis-durante-el-gobierno-petro-3597232",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Martha Luz Reyes"
+      ],
+      "entidad": "UIAF",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2392,
+      "titulo": "Seguimiento al caso de Deicy Jiménez: entrega de celular como prueba tras declaración en la Corte Suprema",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-29",
+      "descripcion": "Tras la declaración de Deicy Jiménez ante la Corte Suprema por su denuncia de contratos a cambio de favores sexuales en el gobierno Petro, su abogado anunció la entrega de un celular como prueba adicional. La defensa del expresidente Petro niega las denuncias y asegura tener pruebas para desvirtuarlas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/abogado-de-deicy-jimenez-habla-tras-declaracion-en-la-corte-suprema-y-anuncia-la-entrega-de-un-celular-defensa-del-expresidente-petro-niega-denuncias-3597317",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29"
+    },
+    {
+      "id": 2391,
+      "titulo": "Captura de alias D-Max en Medellín, condenado a 41 años de cárcel",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "La Policía capturó en Medellín a Juan Carlos Vacca, alias D-Max, cabecilla de la estructura 'Los Dimax', quien ingresó al país tras ser expulsado de Panamá por usar identidad falsa de indígena. Deberá cumplir 41 años de prisión por homicidio agravado, concierto para delinquir y uso de menores en delitos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/captura-alias-d-max-medellin-cabecilla-suplantacion-indigena-condena-41-anos-EM42939296",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Vacca (alias D-Max)"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "Condenado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2390,
+      "titulo": "Gobierno refuerza seguridad del registrador y el procurador tras amenazas",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "El ministro de Justicia, Iván Cancino, confirmó el 29 de octubre de 2026 que el Gobierno reforzó los esquemas de seguridad del registrador nacional Hernán Penagos y del procurador general Gregorio Eljach tras conocerse amenazas en su contra, por orden del presidente De la Espriella.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ministro-ivan-cancino-confirma-refuerzo-de-seguridad-registrador-procurador-amenazas-IK42954286",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Hernán Penagos",
+        "Gregorio Eljach",
+        "Iván Cancino"
+      ],
+      "entidad": "Ministerio de Justicia / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2389,
+      "titulo": "Fiscalía evalúa denuncia por omisión en el asesinato de Miguel Uribe Turbay",
+      "categoria": "abuso-poder",
+      "fecha": "2026-10-29",
+      "descripcion": "La Unidad de Fiscalías Delegadas ante la Corte Suprema evalúa una denuncia por presunta omisión de funcionarios en la protección que derivó en el asesinato del senador Miguel Uribe Turbay. El caso busca establecer responsabilidades de entidades de seguridad durante el gobierno Petro.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/unidad-de-fiscalias-delegadas-ante-la-corte-suprema-evalua-denuncia-por-omision-en-el-asesinato-de-miguel-uribe-turbay/202637/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Fiscalía General de la Nación / Corte Suprema de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29"
+    },
+    {
+      "id": 2388,
+      "titulo": "Presidente de la Corte Suprema califica a la UNGRD como 'corrupción nunca antes vista'",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-29",
+      "descripcion": "El presidente de la Corte Suprema de Justicia, Iván Lenis, afirmó que el escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) representó 'un nivel de corrupción nunca antes visto' en el país, en referencia al caso de sobornos a congresistas que vincula a exfuncionarios del gobierno Petro como Olmedo López y Sneyder Pinilla.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTzZEUXNvZFlad2lNR2dOZUZQbmUtOXc3aFNNTVM1aEV5Vm1yVC14YmFxaVlqVnhXUXNIdmRPRDltYUNNeWpqTVVmX0h6cFRyOEYydmFPVVBRVlVNa3BOelhGd2dydG02dHpWR1Y4SXpYTE5raURmV00xSENxdUkzaG10UEV0cFJqUzJUcm5SSWJwWVlOeEY5TG4wQmJtajVoNWNJdjNwZkE5a09OWC1vYndMVUNyc1RMbEtQRHBjWHBERG0wbkdETTlCeEpmN19DcERSR0VYNkZ0TWJqSjUzdUZVRTHSAeoBQVVfeXFMTTBqamNxQWR4ODI4cDZFRWRqVkZaNjdZVEtUMUJWWDlac0lMMldJc2M3M2VXbkIzVHduRXUtV0tMUXBpQmtPWS1Lb0dwdkFaYlFYbE1oZGpSbVMwYUdzLW9uLUhtZC0zU0pCM2pxY242Wl8xVTNsMFVMaE9tcG9semNHM2JVVmNzaDQtclBZUUltQnkwZkRWYmJuVjBkbzkwOHA2QVg5M3pIVXpDcWc3dkdIVHVsN3R3bU9KMXJQZHU1cTczUzJENWg3UkRyM0RoZ1VtR0Q0VE9GWENRYmJWLVo5VHhoU2x6MjNB?oc=5",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Ivan Lenis",
+        "Olmedo Lopez",
+        "Sneyder Pinilla"
+      ],
+      "entidad": "Corte Suprema de Justicia / UNGRD",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29"
+    },
+    {
+      "id": 2387,
+      "titulo": "Damnificados en Pereira recurren a préstamos 'gota a gota' por demora en ayudas",
+      "categoria": "damnificados",
+      "fecha": "2026-10-29",
+      "descripcion": "Damnificados del terremoto en Pereira han recurrido a préstamos informales conocidos como 'gota a gota' ante la demora en la entrega de ayudas humanitarias oficiales. El reportaje documenta la situación de precariedad económica de la población afectada mientras las ayudas estatales no llegan con la celeridad requerida.",
+      "evidencia": "Reportado por Alerta",
+      "fuentes": [
+        {
+          "nombre": "Alerta",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblljLUZUdHBUTHVfX2cwMlpSSmR6aXJjSHFkd1M3NzUwaDMwNW9pSDlVTGQ3Y3hvM21SOVRXN0hWSjZxNG91SGRkS3FYdnpxT0hpYTJIWDdwOGxkdjQ2UzNkWDl5ZTQ4S0llMFhzcjdndEkycU9ZeHJhUjJzM2prcjlxSEJZVUw4WUlkVC1ZOVVtbDE0dHBLRkVJaTTSAZwBQVVfeXFMTnNXal9VX05lWlFwTUtpQko3M1NQOWJ3RWN6ZXR0eUNjUVV2NjF5REpSbzJPbUFxYWVCY19VSGc0UU9LUGllaGNMMlBGd2wzOWRJeDhZRVhWVVVPekJRTHF0OTFrMmtuTWVoUE5EVTFWX29tSzZfTkRqZ20wUnAtRTNjc2c5anFrenBYVklGcGtQWFd3LW1HOWV3bUIt?oc=5",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Pereira / Gobernacion de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 2386,
+      "titulo": "Operación militar en Tuluá deja 5 capturados de disidencias del Frente 57",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "Una operación del Ejército Nacional y la Fuerza Aérea Colombiana en Tuluá, Valle del Cauca, dejó cinco presuntos integrantes del Frente 57 'Yair Bermúdez' capturados en flagrancia, entre ellos dos cabecillas de una comisión armada. El presidente Abelardo de la Espriella reportó también la incautación de siete fusiles. El anuncio se hizo a través de su cuenta de X.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-captura-disidencias-tulua-cabecillas-frente-57-IL42943865",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ejercito Nacional / Fuerza Aerea Colombiana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 22:29",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2385,
       "titulo": "Caldas avanza en financiación de cuatro hospitales por más de $99.000 millones",
       "categoria": "obras",
@@ -55722,7 +56194,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-29",
-    "total_casos": 2296,
+    "total_casos": 2316,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
