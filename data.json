@@ -221,6 +221,412 @@
   ],
   "casos": [
     {
+      "id": 2376,
+      "titulo": "Gobierno avanza en adecuación de buques cárcel para capos de la extorsión",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "Funcionarios de la Dimar y el Inpec avanzan en encuentros tecnicos para adecuar buques carcel destinados a recluir a los principales capos de la extorsion en Colombia, como parte de la estrategia de seguridad anunciada por el Gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-se-cocina-la-adecuacion-de-los-buques-carcel-para-recluir-a-los-capos-de-la-extorsion-3596922",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Dimar / Inpec / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2375,
+      "titulo": "Cae red criminal de trámites migratorios fraudulentos hacia Estados Unidos",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "Autoridades colombianas desarticularon una red criminal señalada de captar $140 millones mensuales mediante falsos trámites migratorios hacia Estados Unidos. En el operativo se incautaron computadores, celulares y documentos utilizados para ofrecer servicios migratorios fraudulentos a ciudadanos interesados en viajar a EE.UU.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-red-criminal-senalada-de-captar-140-millones-mensuales-mediante-falsos-tramites-migratorios-hacia-estados-unidos-3596943",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2374,
+      "titulo": "Colombia retira su apoyo a resolución de la ONU contra el embargo a Cuba",
+      "categoria": "internacional",
+      "fecha": "2026-10-28",
+      "descripcion": "Colombia fue uno de los 35 países que retiraron su respaldo a la resolución anual de la ONU contra el embargo estadounidense a Cuba, en medio de la presión de la administración Trump. La resolución fue aprobada igualmente con 130 votos a favor, 35 menos que en 2025. La decisión marca un giro en la política exterior colombiana bajo el gobierno De la Espriella frente a su alineamiento con Estados Unidos.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261028-la-onu-aprueba-una-resoluci%C3%B3n-contra-el-embargo-a-cuba-aunque-ee-uu-suma-adeptos-al-bloqueo",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2373,
+      "titulo": "Trabajadoras domesticas participaran por primera vez en la concertacion del salario minimo 2027",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El Ministerio del Trabajo invito a organizaciones de trabajadoras domesticas a participar por primera vez en las discusiones de concertacion del salario minimo para 2027. La agenda tambien incluye propuestas para fortalecer la formalizacion laboral en el sector.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/por-primera-vez-trabajadoras-domesticas-participaran-en-la-concertacion-del-salario-minimo-de-2027-4513618",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2372,
+      "titulo": "Congreso pide explicaciones sobre presencia de 300 militares de EE.UU. en Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente del Congreso, Honorio Henriquez, solicito citar al ministro de Defensa para que explique la presencia de 300 militares de Estados Unidos en territorio colombiano, con el fin de determinar si el Congreso tiene competencia para autorizar o no dicho contingente militar extranjero.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/por-que-hay-300-militares-estados-unidos-en-colombia-GH42890273",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Honorio Henriquez"
+      ],
+      "entidad": "Congreso de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2371,
+      "titulo": "De la Espriella y Galán presentan resultados de seguridad y anuncian recursos para obras en Bogotá",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "El presidente Abelardo De la Espriella y el alcalde de Bogotá, Carlos Fernando Galán, presentaron conjuntamente resultados de las operaciones de seguridad recientes en la capital y anunciaron la asignación de recursos para el desarrollo de obras de infraestructura consideradas prioritarias para la ciudad.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcGRmWEhVR05WaFhPaWpHNi1nUG1Zc0JfZDBSWHZOd2dyU3lUc0FUOU1iT0VHZTJFZ0ZQU2diZEFNN3N1b1lWTUo4NmMzNjN0cWJHSUpNTHBJcWh5RklsYVF1WmJrUmQwUHZhZmZ1ZjdaTEozSEJHNzVEQU5FZ0VhS0dLWC0yMXVsdlkxZXY3ZnlJcmxFaURUT0VURHdVclU5UmN5NUd1RGZfWUdLV3RqQndtVVBOYXlERUl3b3ItMTAxSmcyYzZ5enlxNy03d3ZBSGJKcVFaUTNaSVBmaHcta29UODBGZVN5Y294aNIB7AFBVV95cUxNSGRERnIwclgybU1jZC16aEJ4TnBfWV9ZNktBY1dnOTJRX2xTVl8wanFfaUNhYVZ1VUtqZ2E5QW1ZOV9ZV2xpdkkxZjMtRjJYR2JOczBSallLaFdHRVZaU3NzWmU1LUhsWFZHMC1BeDhDWG5OeEpaSjgwVk5JUDFwV0ZtaXVvaHRxRXh2b21uMXRxaVpqZjFIdERicGl0NXM5X3hURUtudVRGY2dEVmFOZmFTSW9pNG9BVHBUX2FWVHB6eVlFc0tfREUwZkxQR3FLbXNsbjlZMnRjcmZwMU00STZXWldSRGhEclFuVA?oc=5",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Carlos Fernando Galán"
+      ],
+      "entidad": "Presidencia de la Republica / Alcaldia de Bogota",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2370,
+      "titulo": "Ecopetrol citado a debate de control político en el Congreso",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente de Ecopetrol, Joaquin Gutierrez, fue citado por el Congreso de la Republica a un debate de control politico donde debera rendir cuentas sobre la gestion de la petrolera estatal, en medio de los señalamientos judiciales que aun pesan sobre el expresidente Ricardo Roa.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/las-cuentas-que-ecopetrol-debera-rendir-en-el-debate-de-control-politico-con-el-congreso-de-la-republica-505310",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Joaquin Gutierrez",
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23"
+    },
+    {
+      "id": 2369,
+      "titulo": "Gobierno anuncia recursos del Fondes para la Línea 4 del Metro de Bogotá",
+      "categoria": "obras",
+      "fecha": "2026-10-28",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio una inversion del Fondes para financiar los estudios de la Linea 4 del Metro de Bogota y busca recursos adicionales para el corredor Suba-Cota, al tiempo que aseguro que no se recortaran los aportes a la Linea 1 del Metro.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-financiara-estudios-de-la-linea-4-del-metro-de-bogota-y-buscara-recursos-para-corredor-suba-cota/",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fondes / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2368,
+      "titulo": "Gobierno estudia imponer impuestos a plataformas como Temu y Shein",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El Gobierno De la Espriella, a traves del Ministerio de Comercio, anuncio que estudiara gravar con impuestos a plataformas de comercio electronico como Temu y Shein, tras una peticion del presidente de Fenalco, Jaime Alberto Cabal, durante Gondola 2026 en Cartagena, buscando nivelar la competencia con comerciantes locales.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fenalco-pide-derogar-arancel-del-40-a-la-ropa-para-competir-con-temu-y-shein/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Alberto Cabal",
+        "Mauricio Gomez"
+      ],
+      "entidad": "Ministerio de Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2367,
+      "titulo": "Proyecto contra la fragmentación de contratos estatales avanza en el Congreso",
+      "categoria": "transparencia",
+      "fecha": "2026-10-29",
+      "descripcion": "Un proyecto de ley que busca evitar la fragmentación de contratos estatales para eludir procesos de licitación superó su primer debate en el Congreso. La congresista Nadia Blel Scaff aclaró que la iniciativa no busca cambiar la naturaleza de los contratos de prestación de servicios.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/proyecto-contra-fragmentacion-de-contratos-supera-primer-debate",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Nadia Blel Scaff"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2366,
+      "titulo": "Fondo Milagro continúa sin operar 53 días después del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-10-27",
+      "descripcion": "A 53 días del terremoto del 10 de agosto, el Fondo Milagro, creado para canalizar los recursos de la reconstrucción, sigue sin entrar en funcionamiento pleno, lo que genera retrasos en la llegada de ayudas y recursos a las zonas afectadas segun reporte de El Quindiano.",
+      "evidencia": "Reportado por El Quindiano",
+      "fuentes": [
+        {
+          "nombre": "El Quindiano",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0hOUUNvMXVsZ2t2RFc5ZnBFQkZQYS01ZnRTWWtjMk1pTXpwQm1SRWloMFk5RmFFWXBYMmtTWW9NSXVKUDJkM210S1dnRE04TE5tMElTQWlCV0FiTkhYbDdFd2xNYk10TkNTbm9BaFhCNUNYdFJLTUFJWEFFMFpLM1ptLXI5OWJQZ0xXYnZ0cFdPcXVJWUZvdFBvWl9PLWxCbGc?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2365,
+      "titulo": "135 capturas en 24 horas en megaoperativo de seguridad en Medellín",
+      "categoria": "seguridad",
+      "fecha": "2026-10-27",
+      "descripcion": "El presidente Abelardo De la Espriella participó en un operativo militar y policial en Medellín que dejó un balance de 135 capturas en 24 horas, en el marco de la ofensiva de seguridad del nuevo gobierno contra la criminalidad en la ciudad.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWnZqWjBPc0dtVzJkbFd1ZXFzX0NYaGZxTDdMSENrNUZYVXV0QXVvTHdXOEZFNXRTWC1OcDFpSHdvTVRHTTYzZzd2dVlvbS1TdlF2M1ZTRnh4WG9zMW81aHNReWVNZktad1NEdEo3UVBScmJhekVheE9OZDVkTVZFQ2ZsNHhiQUwtUF9xT2NmRVIyMGE2Mmh4QkdRcjNWbS1zX1JMYnh5WGkxUVZDVTBNUGZ4eEFudEM1UkVENVd0emdwNEFBRkVIR0ZIRVNOY0VaM0wzcUpzZkNwb3NtZXhnQnFHWmjSAeoBQVVfeXFMT1NLY3BabUs0eFdmNmE1dEZYdWhDTThxUzd0dnRtWGhmRENUeUtOTC1QbWp2cFRMN2FtRl9YOXpCanJDOUVqVl83dnR3eFE1Q1FMNThYdFFqT2VpcWtZd05XeW1BT1RCdGFnU0lUTTkzMlViRWQybk5YMUZsN2FzOHczT1dMdm5rNS1oc0MyWXpoWFhYX214QTRjdXhnX3pLeW8xbDZSdEJmS3RiMTlSNWJBTVFZdXNDblp6cXRGNTRIc3R1YWpWRGlEa3B2bzZ1c1UtOTRvQVNGY1lZVGFUc09GWm8tZG1yUUl3?oc=5",
+          "fecha": "2026-10-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Policía Nacional / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2364,
+      "titulo": "Gobierno pide aplazar rendición de cuentas sobre reconstrucción tras el terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-28",
+      "descripcion": "A casi tres meses del terremoto del 10 de agosto, el Gobierno Nacional solicitó al Congreso aplazar la sesión de control político en la que debía explicar cómo se financia la reconstrucción, la distribución de recursos entre regiones y el avance de la ejecución. La solicitud fue suscrita por el ministro de Hacienda, Miguel Gómez.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-mas-tiempo-rendir-cuentas-reconstruccion-terremoto-JH42894148",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gómez"
+      ],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2363,
+      "titulo": "Senador Wally denuncia falta de contratos y respuesta a damnificados del terremoto",
+      "categoria": "denuncias",
+      "fecha": "2026-10-28",
+      "descripcion": "El senador conocido como Wally denunció que el gobierno de Abelardo de la Espriella no ha dado respuesta a los damnificados del terremoto del 10 de agosto, afirmando que 'no hay ningún contrato' para atender la emergencia, casi tres meses después del sismo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOOGxkLWVMRzZ6QTRBQlZZdlNVZXVSbmVmcU82MURCUV95ZTBWak1ISHlrWFBXTnRsMElELTlxblluZ1hnQlZoQndPM2ZGRmFFRHlRZEVFdFk5Ykd5Zm5yTjhsaFZyemxBM0hxcjdiakgwMTZWcUYyZ0JXRHFJR3RDOUhGQms4ekJqMHNIN2NCM0NSLWVCV0tBb1lLeTNZTUlwT3NDZXpjOGp2SWFXcE51QXF2X1RhbjVQRGJ6Q0JBMVVZUjJtUzJLT2FrSXhIb1NqUkFYMXozV3h6OWZNOVpEWmFTS1Azam9KZ1dKbkR5aEpxQWpKSE40blVyZ2gzQlVyWWtqb0IzRk5IMHZfcDEtNGpmU2pTNWpDNWs4SDhnbGlxc3fSAb4CQVVfeXFMT1p0cll5cXJBVzdXUkhDNHRmZkdSNW9qTHdaOXlKczdYSzVLYVR2cXdENmx1SEFxUDd0MnVibzl4WEVxTVJuUFZTVjZsUUZHbGRuV0xSaEJSSnFhN3JkWDJiT0pjOWJYVElmZWZIRXNyVFYwRFJWOGlmSHFhVnFoZHkzZmNLNDMtYVQ5UzNKb0ZuN0EtZ2t3SDJ0eV9Hc0hzb1VtRnNSWHNPZ0lnLWNialpUZ1dUZjhzbDByUzNfcUNmdnNPS0VESnlOaGZINE9MSHMzX3JqS3o0RWk1Q3Q5Y1pMNkQ0RWRvZDZyRFV3M3Rtd055MGNBWUJ4Zk05MHZVTGx6ay05eDEzZi1CTFNQay1Vbm1iZ3pteHdDeUVudjhOZ1RMN1dBOE15U004UUdTVUFnaGt6YU41MnFjQTF3?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Wally"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2362,
+      "titulo": "Capturan en Barranquilla a dos mexicanos del Clan del Golfo y el Cartel de Jalisco",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "Autoridades colombianas capturaron en Barranquilla a dos ciudadanos mexicanos acusados de propiciar una alianza entre el Clan del Golfo y el Cartel Jalisco Nueva Generación (CJNG), según informó el presidente Abelardo de la Espriella.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/capturan-en-colombia-a-dos-mexicanos-integrantes-del-clan-del-golfo-y-el-cartel-de-jalisco/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2361,
+      "titulo": "Nueva denuncia ante la Ofac complica situación judicial de Ricardo Roa",
+      "categoria": "sanciones",
+      "fecha": "2026-10-28",
+      "descripcion": "El expresidente de Ecopetrol Ricardo Roa, a quien Estados Unidos ya le había retirado la visa, enfrenta una nueva denuncia presentada ante la Oficina de Control de Activos Extranjeros (Ofac) del Tesoro estadounidense, lo que podría agravar su situación judicial.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOYW5PS3NsUEx3YUw4aUYwLVhSNTM1ZnN0ODVOMEJsT2dzMnJzVG9wTWNnb2pKcFdWLVlraXVZcWhmcGZfVTlWTkdBSkUzQ0NHdzZyM2dRX0pNeWhTRzlTT2F4XzBFM0lzNFIyZDliTWdUWmt6TDlvOF9LbEVFVDk5MzFVajZlbUszZFJtWm9oMkNRTkVZVE9NNmVnZlVZaDlJY19Cb2dXMkNPWUdyQjJJM0dBZ1lWdF9KRWRKTFBFT1hPd2kyY2h4R2hGdWUxQ29UdXJnaHpnSzJqZGlKelFTQ3RZZjIyc3VQYk1pN29MX25sTTY4LXNMbUNINVZmRmxub1ZCUzR1YndqcXdfMGJZRnRNeVA3aXZDNDJyZDQ0TWhJckhXSXVBUTQyM0Z4TU13LTQ3M05McVJYeVZDbzg0bUY1d9IB3gJBVV95cUxNZFhaQ1BvbWx5OFNZMTNSTzF5VWtnX1lVTm5LbjFJUkdTclIzcmFZUlNiWGxIZnYwRk13b2s4emd4LV9zQktNdjZXb1Y0UUhwaU1hUnZ5UVV3WFJackcxWl84QnQtSXkwa0VWYkFTdHhvS3ZhcWFpZW1uQmhpeDh4OUowbEZkTi05d0Y4VFBNQUwyblRqbGoxYXQ4WEZ2THd4Rl8zX0JnVFJaUlNXNkFRcDEzTUhmdE5GWmpRMjZhR1JJOGt6V1h3S0g0YUZuUTJjTVJObXhqNlpSUDNuZkllYlBieWNHYjNBSVBZTVJQekdIeERDYTdic2tfLTR0OGthaWhLTDN2YXFEb2pMLW1vX2o4OHdlYW1NR1VGZU5UMTFkZEN5WXJEUk9JWHoxRUlnV09BQnliSW5UMnBkZ2kxb2stTFBhLW9zYVFMaEVZcDRsX0xuc2dkMFktUTZZdw?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ofac - Departamento del Tesoro de Estados Unidos",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23"
+    },
+    {
+      "id": 2360,
+      "titulo": "RTVC revela contratos millonarios de la era Petro y Morris",
+      "categoria": "contratos",
+      "fecha": "2026-10-29",
+      "descripcion": "El presidente Abelardo de la Espriella oficializó el regreso del nombre RTVC al Sistema de Medios Públicos y denunció un 'festín de corrupción' durante la administración de Gustavo Petro y el director Hollman Morris, revelando contratos millonarios suscritos en esa época. Las declaraciones se dieron en el marco de la celebración de los 22 años del sistema de medios públicos.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/presidente-abelardo-de-la-espriella-oficializo-el-renacer-de-rtvc-y-revelo-contratos-millonarios-de-la-era-petro-y-morris/202648/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hollman Morris",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "RTVC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-29 04:23"
+    },
+    {
       "id": 2359,
       "titulo": "Colombia autoriza llegada de tres drones militares MQ-9A Reaper de EE.UU.",
       "categoria": "internacional",
@@ -55104,8 +55510,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-28",
-    "total_casos": 2270,
+    "ultima_actualizacion": "2026-10-29",
+    "total_casos": 2287,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
