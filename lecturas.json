@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-28"
+    "ultima_actualizacion": "2026-10-29"
   },
   "lecturas": [
+    {
+      "id": 245,
+      "titulo": "Mapean por primera vez en 3D el campo magnético exterior del Sol",
+      "resumen": "Un equipo de investigadores logró las primeras estimaciones globales y tridimensionales del campo magnético del Sol, incluyendo la zona más allá de su borde visible. El avance es clave para modelar mejor la actividad solar y predecir con mayor precisión las erupciones magnéticas que pueden afectar infraestructura crítica en la Tierra.",
+      "por_que_leerlo": "Entender el campo magnético solar ayuda a anticipar tormentas geomagnéticas que pueden dañar redes eléctricas y satélites.",
+      "seccion": "ciencia",
+      "tags": [
+        "sol",
+        "clima espacial",
+        "astrofisica",
+        "magnetismo"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 246,
+      "titulo": "Planeta de lava detectado por James Webb refleja el 75% de la luz con su propio protector solar",
+      "resumen": "El telescopio James Webb observó TOI-561 b, un planeta de lava a 280 años luz que sorprendentemente conserva una atmósfera densa pese a condiciones extremas que deberían haberla eliminado hace miles de millones de años. Los datos sugieren que nubes minerales reflejan cerca del 75% de la luz estelar, actuando como un escudo, y que el planeta podría estar reponiendo su atmósfera constantemente.",
+      "por_que_leerlo": "Muestra cómo mundos extremos pueden retener atmósfera de formas inesperadas, cambiando lo que se sabía sobre planetas rocosos calientes.",
+      "seccion": "ciencia",
+      "tags": [
+        "exoplanetas",
+        "james webb",
+        "astronomia",
+        "atmosferas"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 247,
+      "titulo": "El extrano caso de un script de huellas digitales del navegador vinculado a armas biologicas",
+      "resumen": "Un investigador de seguridad documento como un script de fingerprinting usado para identificar navegadores termina conectado de forma inesperada con contenido relacionado a armas biologicas. La publicacion se convirtio en una de las mas comentadas de Hacker News, con mas de 860 puntos y 180 comentarios, por lo insolito del hallazgo.",
+      "por_que_leerlo": "Una historia tecnica fascinante sobre como las dependencias de software pueden llevar a conexiones completamente inesperadas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "software",
+        "hacker news",
+        "curiosidades tecnicas"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://nullpt.rs/fingerprinting-bioweapons"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 248,
+      "titulo": "Agentes de IA fallan en la mayoría de tareas fiscales profesionales reales, revela estudio",
+      "resumen": "Surge AI evaluó modelos de IA en 50 encargos fiscales tomados de la práctica profesional real, comparando su desempeño con el de contadores certificados. Incluso los modelos más avanzados cometieron errores significativos en tareas que exigen juicio profesional y conocimiento normativo específico, lejos de poder reemplazar a un contador en trabajo de alto riesgo.",
+      "por_que_leerlo": "Da datos concretos, no opiniones, sobre qué tan lejos está realmente la IA de sustituir trabajo profesional especializado como la contabilidad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia agentes",
+        "contabilidad",
+        "automatizacion",
+        "evaluacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://surgehq.ai/blog/dayjob-tax"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 249,
+      "titulo": "Git de Apple sigue confiando en certificados comprometidos de eMudhra",
+      "resumen": "Investigadores de seguridad reportan que las herramientas de control de versiones de Apple continúan validando certificados digitales de eMudhra, autoridad certificadora ya comprometida y que no debería seguir siendo confiable. El hallazgo abre la puerta a firmar código malicioso dentro del ecosistema de desarrollo de Apple y generó fuerte debate técnico, con más de mil votos y 378 comentarios en Hacker News.",
+      "por_que_leerlo": "Expone una falla real en la cadena de confianza de certificados que puede afectar a cualquier desarrollador que use herramientas de Apple.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "certificados digitales",
+        "apple",
+        "cadena de suministro"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://emudhra.we-have-a-problem.com/apple.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 250,
+      "titulo": "OpenAI comenzará a comprar chips de IA a Google pese a su alianza con Nvidia",
+      "resumen": "OpenAI, que construye centros de datos masivos en Texas, Nuevo México, Wisconsin, Ohio y Michigan junto a Oracle, SoftBank y CoreWeave, sumará chips de Google a una infraestructura hasta ahora dominada por Nvidia. La decisión refleja la urgencia de conseguir capacidad de cómputo suficiente, incluso comprándole hardware a un competidor directo en el negocio de IA.",
+      "por_que_leerlo": "Muestra cómo la escasez real de chips está redibujando las alianzas de la industria de IA más allá de la rivalidad entre laboratorios.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "ia",
+        "chips",
+        "infraestructura",
+        "openai"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/componentes/openai-va-a-comprar-chips-ia-a-google-carrera-computacion-no-entiende-rivales"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 251,
+      "titulo": "El asteroide que extinguió a los dinosaurios pudo haber impulsado la conquista global de las hormigas",
+      "resumen": "Científicos hallaron que ráfagas de actividad de genes saltarines en el ADN de las hormigas coincidieron con el surgimiento de sus principales grupos tras la extinción de los dinosaurios, lo que pudo afinar su capacidad de comunicarse mediante olores. El hallazgo conecta un evento catastrófico con una explosión evolutiva inesperada.",
+      "por_que_leerlo": "Explica con evidencia genética cómo una catástrofe planetaria terminó beneficiando a uno de los grupos de insectos más exitosos del planeta.",
+      "seccion": "ciencia",
+      "tags": [
+        "evolucion",
+        "genetica",
+        "hormigas",
+        "extincion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 252,
+      "titulo": "Descubren que las células del sistema inmune pueden sentir la rigidez de los tejidos",
+      "resumen": "Investigadores de la Universidad McGill hallaron que los linfocitos T detectan qué tan rígido es el tejido que los rodea y usan esa señal física para decidir si se convierten en células de memoria de larga duración que protegen contra futuras infecciones. El hallazgo revela un mecanismo físico de la inmunidad que no se conocía antes.",
+      "por_que_leerlo": "Podría cambiar el diseño de vacunas y tratamientos al mostrar que el cuerpo usa señales mecánicas, no solo químicas, para construir inmunidad duradera.",
+      "seccion": "ciencia",
+      "tags": [
+        "inmunologia",
+        "celulas t",
+        "vacunas",
+        "biologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 253,
+      "titulo": "Un gemelo digital con IA predice en tiempo real cómo se propagan los incendios forestales",
+      "resumen": "El NYU Fire Research Group desarrolló un sistema de inteligencia artificial basado en física que, en pruebas iniciales, logró pronosticar casi en tiempo real cómo avanza un incendio forestal activo. La herramienta busca asistir a los equipos de respuesta ante emergencias con pronósticos más rápidos que los modelos tradicionales.",
+      "por_que_leerlo": "Es un ejemplo concreto de IA aplicada a un problema real con potencial de salvar vidas y reducir pérdidas económicas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "incendios forestales",
+        "modelado",
+        "emergencias"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 254,
+      "titulo": "Por qué el hierro sí produce amoniaco con luz solar y el cromo no, pese a ser casi idénticos",
+      "resumen": "Investigadores de las universidades de Viena y TU Wien estudiaron catalizadores que usan energía solar para producir amoniaco y hallaron que reemplazar los átomos de hierro por cromo en triángulos atómicos casi idénticos detiene por completo la reacción química. El magnetismo atómico explica esta diferencia inesperada entre dos materiales muy similares.",
+      "por_que_leerlo": "Ofrece pistas concretas para diseñar catalizadores más eficientes que produzcan amoniaco, clave para fertilizantes y energía, usando solo luz solar.",
+      "seccion": "ciencia",
+      "tags": [
+        "catalisis",
+        "energia solar",
+        "amoniaco",
+        "quimica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 255,
+      "titulo": "Europa construira su primer cable submarino hacia Groenlandia evitando a EE.UU.",
+      "resumen": "Europa impulsa el Pan-Arctic Cable, el primer enlace submarino hacia Groenlandia, que conectara a Canada, Japon y Corea del Sur sin pasar por territorio estadounidense. El proyecto responde al deterioro de la confianza transatlantica y busca diversificar las rutas de telecomunicaciones globales ante riesgos geopoliticos.",
+      "por_que_leerlo": "Muestra como la geopolitica esta rediseñando en tiempo real la infraestructura fisica de internet.",
+      "seccion": "tecnologia",
+      "tags": [
+        "infraestructura",
+        "telecomunicaciones",
+        "geopolitica",
+        "cables submarinos"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
+    {
+      "id": 256,
+      "titulo": "Upwind rechaza oferta de compra de Datadog y levanta US$400 millones en vez de venderse",
+      "resumen": "La startup de seguridad en la nube Upwind cerro una ronda Serie C de US$400 millones con una valoracion de US$3.800 millones, la misma cifra que le habian ofrecido por adquirirla. Los fundadores prefirieron capitalizar la empresa de forma independiente en lugar de aceptar la venta.",
+      "por_que_leerlo": "Es una leccion concreta de cuando conviene levantar capital en vez de vender el negocio a la misma valoracion.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "financiamiento",
+        "seguridad informatica",
+        "valoracion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 02:09",
+      "auto_generated": true
+    },
     {
       "id": 233,
       "titulo": "Cientificos logran controlar por primera vez el nucleo magnetico de un solo atomo",

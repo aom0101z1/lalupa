@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:02:45 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:09:21 -0000</lastBuildDate>
+    <item>
+      <title>Mapean por primera vez en 3D el campo magnético exterior del Sol</title>
+      <link>https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html</link>
+      <guid isPermaLink="false">lalupa-lectura-245</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo de investigadores logró las primeras estimaciones globales y tridimensionales del campo magnético del Sol, incluyendo la zona más allá de su borde visible. El avance es clave para modelar mejor la actividad solar y predecir con mayor precisión las erupciones magnéticas que pueden afectar infraestructura crítica en la Tierra. Por que leerlo: Entender el campo magnético solar ayuda a anticipar tormentas geomagnéticas que pueden dañar redes eléctricas y satélites. (Phys.org, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Planeta de lava detectado por James Webb refleja el 75% de la luz con su propio protector solar</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261026225603.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-246</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>El telescopio James Webb observó TOI-561 b, un planeta de lava a 280 años luz que sorprendentemente conserva una atmósfera densa pese a condiciones extremas que deberían haberla eliminado hace miles de millones de años. Los datos sugieren que nubes minerales reflejan cerca del 75% de la luz estelar, actuando como un escudo, y que el planeta podría estar reponiendo su atmósfera constantemente. Por que leerlo: Muestra cómo mundos extremos pueden retener atmósfera de formas inesperadas, cambiando lo que se sabía sobre planetas rocosos calientes. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El extrano caso de un script de huellas digitales del navegador vinculado a armas biologicas</title>
+      <link>https://nullpt.rs/fingerprinting-bioweapons</link>
+      <guid isPermaLink="false">lalupa-lectura-247</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un investigador de seguridad documento como un script de fingerprinting usado para identificar navegadores termina conectado de forma inesperada con contenido relacionado a armas biologicas. La publicacion se convirtio en una de las mas comentadas de Hacker News, con mas de 860 puntos y 180 comentarios, por lo insolito del hallazgo. Por que leerlo: Una historia tecnica fascinante sobre como las dependencias de software pueden llevar a conexiones completamente inesperadas. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Agentes de IA fallan en la mayoría de tareas fiscales profesionales reales, revela estudio</title>
+      <link>https://surgehq.ai/blog/dayjob-tax</link>
+      <guid isPermaLink="false">lalupa-lectura-248</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Surge AI evaluó modelos de IA en 50 encargos fiscales tomados de la práctica profesional real, comparando su desempeño con el de contadores certificados. Incluso los modelos más avanzados cometieron errores significativos en tareas que exigen juicio profesional y conocimiento normativo específico, lejos de poder reemplazar a un contador en trabajo de alto riesgo. Por que leerlo: Da datos concretos, no opiniones, sobre qué tan lejos está realmente la IA de sustituir trabajo profesional especializado como la contabilidad. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Git de Apple sigue confiando en certificados comprometidos de eMudhra</title>
+      <link>https://emudhra.we-have-a-problem.com/apple.html</link>
+      <guid isPermaLink="false">lalupa-lectura-249</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad reportan que las herramientas de control de versiones de Apple continúan validando certificados digitales de eMudhra, autoridad certificadora ya comprometida y que no debería seguir siendo confiable. El hallazgo abre la puerta a firmar código malicioso dentro del ecosistema de desarrollo de Apple y generó fuerte debate técnico, con más de mil votos y 378 comentarios en Hacker News. Por que leerlo: Expone una falla real en la cadena de confianza de certificados que puede afectar a cualquier desarrollador que use herramientas de Apple. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>OpenAI comenzará a comprar chips de IA a Google pese a su alianza con Nvidia</title>
+      <link>https://www.xataka.com/componentes/openai-va-a-comprar-chips-ia-a-google-carrera-computacion-no-entiende-rivales</link>
+      <guid isPermaLink="false">lalupa-lectura-250</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>OpenAI, que construye centros de datos masivos en Texas, Nuevo México, Wisconsin, Ohio y Michigan junto a Oracle, SoftBank y CoreWeave, sumará chips de Google a una infraestructura hasta ahora dominada por Nvidia. La decisión refleja la urgencia de conseguir capacidad de cómputo suficiente, incluso comprándole hardware a un competidor directo en el negocio de IA. Por que leerlo: Muestra cómo la escasez real de chips está redibujando las alianzas de la industria de IA más allá de la rivalidad entre laboratorios. (Xataka, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El asteroide que extinguió a los dinosaurios pudo haber impulsado la conquista global de las hormigas</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261026225608.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-251</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos hallaron que ráfagas de actividad de genes saltarines en el ADN de las hormigas coincidieron con el surgimiento de sus principales grupos tras la extinción de los dinosaurios, lo que pudo afinar su capacidad de comunicarse mediante olores. El hallazgo conecta un evento catastrófico con una explosión evolutiva inesperada. Por que leerlo: Explica con evidencia genética cómo una catástrofe planetaria terminó beneficiando a uno de los grupos de insectos más exitosos del planeta. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Descubren que las células del sistema inmune pueden sentir la rigidez de los tejidos</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261026225617.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-252</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores de la Universidad McGill hallaron que los linfocitos T detectan qué tan rígido es el tejido que los rodea y usan esa señal física para decidir si se convierten en células de memoria de larga duración que protegen contra futuras infecciones. El hallazgo revela un mecanismo físico de la inmunidad que no se conocía antes. Por que leerlo: Podría cambiar el diseño de vacunas y tratamientos al mostrar que el cuerpo usa señales mecánicas, no solo químicas, para construir inmunidad duradera. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un gemelo digital con IA predice en tiempo real cómo se propagan los incendios forestales</title>
+      <link>https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html</link>
+      <guid isPermaLink="false">lalupa-lectura-253</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El NYU Fire Research Group desarrolló un sistema de inteligencia artificial basado en física que, en pruebas iniciales, logró pronosticar casi en tiempo real cómo avanza un incendio forestal activo. La herramienta busca asistir a los equipos de respuesta ante emergencias con pronósticos más rápidos que los modelos tradicionales. Por que leerlo: Es un ejemplo concreto de IA aplicada a un problema real con potencial de salvar vidas y reducir pérdidas económicas. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Por qué el hierro sí produce amoniaco con luz solar y el cromo no, pese a ser casi idénticos</title>
+      <link>https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html</link>
+      <guid isPermaLink="false">lalupa-lectura-254</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores de las universidades de Viena y TU Wien estudiaron catalizadores que usan energía solar para producir amoniaco y hallaron que reemplazar los átomos de hierro por cromo en triángulos atómicos casi idénticos detiene por completo la reacción química. El magnetismo atómico explica esta diferencia inesperada entre dos materiales muy similares. Por que leerlo: Ofrece pistas concretas para diseñar catalizadores más eficientes que produzcan amoniaco, clave para fertilizantes y energía, usando solo luz solar. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Europa construira su primer cable submarino hacia Groenlandia evitando a EE.UU.</title>
+      <link>https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/</link>
+      <guid isPermaLink="false">lalupa-lectura-255</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Europa impulsa el Pan-Arctic Cable, el primer enlace submarino hacia Groenlandia, que conectara a Canada, Japon y Corea del Sur sin pasar por territorio estadounidense. El proyecto responde al deterioro de la confianza transatlantica y busca diversificar las rutas de telecomunicaciones globales ante riesgos geopoliticos. Por que leerlo: Muestra como la geopolitica esta rediseñando en tiempo real la infraestructura fisica de internet. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Upwind rechaza oferta de compra de Datadog y levanta US$400 millones en vez de venderse</title>
+      <link>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</link>
+      <guid isPermaLink="false">lalupa-lectura-256</guid>
+      <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La startup de seguridad en la nube Upwind cerro una ronda Serie C de US$400 millones con una valoracion de US$3.800 millones, la misma cifra que le habian ofrecido por adquirirla. Los fundadores prefirieron capitalizar la empresa de forma independiente en lugar de aceptar la venta. Por que leerlo: Es una leccion concreta de cuando conviene levantar capital en vez de vender el negocio a la misma valoracion. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Cientificos logran controlar por primera vez el nucleo magnetico de un solo atomo</title>
       <link>https://phys.org/news/2026-10-magnetic-core-atom.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>El programa incluye un vehículo de cofinanciación de US$700.000 para fortalecer el ecosistema de inversión de impacto en Colombia y América Latina, impulsado por Fundación Bolívar Davivienda y BID Lab. Por que leerlo: Revela una nueva fuente de capital de impacto disponible para emprendedores latinoamericanos. (La Republica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Startup estadounidense busca vender luz solar nocturna con satelites reflectores</title>
-      <link>https://phys.org/news/2026-10-american-startup-sunlight-dark.html</link>
-      <guid isPermaLink="false">lalupa-lectura-185</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Una startup de EE.UU. ya reservo dos lanzamientos de cohetes en India para probar un servicio nunca antes comercializado: reflejar luz solar hacia la Tierra durante la noche mediante satelites espejo. El proyecto plantea preguntas regulatorias y ambientales sobre quien decide el uso del cielo nocturno. Por que leerlo: Muestra un modelo de negocio espacial totalmente nuevo que podria abrir un mercado inedito en la industria satelital. (Phys.org, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>IA entrenada solo con datos previos a 2018 predice un catalizador de hidrogeno descubierto despues</title>
-      <link>https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html</link>
-      <guid isPermaLink="false">lalupa-lectura-186</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores limitaron un modelo de IA al conocimiento cientifico disponible antes de 2018 y el sistema logro identificar un catalizador para produccion de hidrogeno que solo se confirmo experimentalmente anos despues. El hallazgo sugiere que la IA puede acelerar el descubrimiento de procesos quimicos valiosos antes de que los humanos los encuentren. Por que leerlo: Es evidencia concreta de que la IA puede anticipar descubrimientos cientificos reales, no solo acelerar tareas existentes. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>SpaceX cierra el mayor financiamiento de GPUs de la historia: US$40.000 millones con Apollo</title>
-      <link>https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/</link>
-      <guid isPermaLink="false">lalupa-lectura-187</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>SpaceX aseguró un compromiso vinculante por cerca de US$40.000 millones para comprar chips de IA y equipos de centros de datos, según un documento regulatorio divulgado el lunes. La compañía calificó el acuerdo como el 'mayor financiamiento comprometido de GPUs' jamás realizado. Por que leerlo: Muestra cómo las grandes tecnológicas estructuran financiamiento masivo para infraestructura de IA, una tendencia clave para entender hacia dónde va la industria. (TechCrunch, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Anthropic presenta oficialmente su salida a bolsa con ingresos en alza y perdidas crecientes</title>
-      <link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
-      <guid isPermaLink="false">lalupa-lectura-188</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Anthropic registró oficialmente su IPO ante la SEC, revelando un crecimiento acelerado de ingresos, pérdidas en aumento, fuerte adopción empresarial y una estructura de gobierno inusual diseñada para preservar el control de los fundadores y su misión de seguridad en IA. Por que leerlo: Ofrece una mirada directa a las finanzas y la gobernanza de una de las startups de IA más importantes antes de salir al mercado público. (TechCrunch, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Hiperescaladores tienen la mitad de sus chips de Nvidia sin usar pese a inversion millonaria</title>
-      <link>https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas</link>
-      <guid isPermaLink="false">lalupa-lectura-189</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Microsoft, Amazon, Google y Meta han multiplicado su gasto en infraestructura de IA, llevando las ventas de Nvidia a cifras record, pero reportes recientes indican que buena parte de esas tarjetas compradas permanecen almacenadas sin instalar ni operar. La brecha entre el gasto en hardware y su uso real alimenta dudas sobre el retorno efectivo de la carrera de inversion en IA. Por que leerlo: Ayuda a entender si el boom de inversion en IA se traduce en capacidad realmente usada o es gasto inflado. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Centros de datos buscan vender como calefaccion el calor residual que antes desechaban</title>
-      <link>https://www.xataka.com/magnet/centros-datos-tiran-a-atmosfera-calor-que-podria-calentar-ciudad-ahora-quieren-vendernoslo-como-calefaccion-casi-gratis</link>
-      <guid isPermaLink="false">lalupa-lectura-190</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Los servidores consumen electricidad las 24 horas y gran parte de esa energia termina convertida en calor que historicamente se evacuaba sin aprovechar. Ahora operadores de centros de datos exploran vender ese calor residual a ciudades y edificios cercanos como fuente de calefaccion de bajo costo. Por que leerlo: Muestra un modelo de negocio emergente que convierte un desperdicio energetico de la IA en una fuente de ingreso adicional. (Xataka, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Anthropic solicita salir a bolsa y seria el primer laboratorio de IA cotizado en Wall Street</title>
-      <link>https://www.larepublica.co/globoeconomia/anthropic-solicita-salir-a-bolsa-y-ser-el-primer-laboratorio-de-inteligencia-artificial-cotizado-4511063</link>
-      <guid isPermaLink="false">lalupa-lectura-191</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Anthropic presentó ante la SEC los documentos para cotizar en el Nasdaq Global Select Market bajo el símbolo ANT, lo que la convertiría en el primer laboratorio de inteligencia artificial en salir a bolsa. La solicitud llega en medio de una ola de rondas de financiamiento multimillonarias en el sector de IA generativa. Por que leerlo: Entender cómo se valora y financia la carrera de la IA generativa justo cuando los grandes laboratorios empiezan a abrirse al capital público. (La Republica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Reforma escolar britanica de 1972 habria reducido diagnosticos de demencia cinco decadas despues</title>
-      <link>https://phys.org/news/2026-10-britain-school-reform-lowered-dementia.html</link>
-      <guid isPermaLink="false">lalupa-lectura-192</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un nuevo estudio encuentra que extender un ano la educacion obligatoria en Reino Unido en 1972 se asocia con menores tasas de diagnostico de demencia en esa generacion, decadas mas tarde. Los investigadores consideran que es una de las evidencias mas solidas hasta ahora de que mas educacion protege contra el deterioro cognitivo a largo plazo. Por que leerlo: Ofrece evidencia dura sobre como una politica publica de educacion impacta la salud cerebral decadas despues. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nuevo metodo de archivo de ARN permite reconstruir lo que hizo una celula dias atras</title>
-      <link>https://phys.org/news/2026-10-rna-archiving-method-reveals-cell.html</link>
-      <guid isPermaLink="false">lalupa-lectura-193</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos desarrollaron una tecnica que graba en el ARN de una celula un registro de su actividad pasada, algo que antes era imposible de medir porque solo se podia observar el estado actual. La herramienta podria ayudar a entender como surgen las respuestas inmunes o por que ciertas celulas cancerigenas sobreviven a un tratamiento. Por que leerlo: Es una herramienta de laboratorio genuinamente nueva que abre una ventana al pasado celular, util para investigacion biomedica aplicada. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un eclipse solar de hace 2.700 anos revela datos inesperados sobre la rotacion de la Tierra</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261025073055.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-194</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Al corregir un error de ocho kilometros en la ubicacion de una antigua capital china, cientificos reconstruyeron con precision un eclipse solar total ocurrido en el ano 709 a.C. y obtuvieron mediciones mas exactas de como variaba la velocidad de rotacion terrestre en la antiguedad. Por que leerlo: Muestra como un dato historico aparentemente menor permite corregir calculos cientificos actuales sobre el comportamiento del planeta. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Microsoft ofrece retiro voluntario a cerca de 60.000 empleados</title>
-      <link>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/</link>
-      <guid isPermaLink="false">lalupa-lectura-195</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Microsoft lanzó una oferta de retiro voluntario dirigida a aproximadamente 60.000 trabajadores, casi una cuarta parte de su plantilla global, como parte de un esfuerzo continuo por reducir costos y reestructurar su fuerza laboral. Por que leerlo: Revela cómo una de las mayores tecnológicas del mundo reajusta su estructura laboral en plena carrera por la inteligencia artificial. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Curso gratuito en video para construir modelos de razonamiento de IA desde cero</title>
-      <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
-      <guid isPermaLink="false">lalupa-lectura-196</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El investigador Sebastian Raschka publicó un curso completo en video que enseña a construir modelos de razonamiento de inteligencia artificial desde los fundamentos, sin depender de frameworks preempaquetados. El contenido acumuló más de 180 puntos y amplia discusión en Hacker News. Por que leerlo: Es un recurso práctico para quien quiere entender y construir sus propias herramientas de IA en lugar de solo usarlas. (Hacker News, 8 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
