@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 257,
+      "titulo": "Matemáticos cuestionan la necesidad de la energía oscura para explicar la expansión del universo",
+      "resumen": "Un grupo de matemáticos identificó lo que consideran una falla fundamental en el modelo estándar de la cosmología: sus cálculos muestran que el marco matemático usado para describir la expansión del universo es inestable, y que esta podría acelerarse de forma natural bajo la teoría original de la gravedad de Einstein, sin necesidad de invocar la energía oscura. El hallazgo abre interrogantes sobre uno de los pilares de la cosmología moderna.",
+      "por_que_leerlo": "Cuestiona uno de los conceptos más aceptados de la física moderna con argumentos matemáticos concretos, no solo especulación.",
+      "seccion": "ciencia",
+      "tags": [
+        "cosmología",
+        "física",
+        "energía oscura",
+        "universo"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 258,
+      "titulo": "Físicos rompen una regla clásica de los láseres y generan rayos X de mayor energía de lo previsto",
+      "resumen": "Un equipo de investigadores desafió una regla largamente establecida en la física de láseres al generar rayos X con energías mucho más altas de lo que predice la teoría convencional. El hallazgo muestra que dos electrones trabajando en conjunto pueden superar un límite que se creía infranqueable, lo que abre nuevas posibilidades para la investigación cuántica.",
+      "por_que_leerlo": "Un límite que se daba por establecido en los libros de texto acaba de romperse en el laboratorio, con implicaciones directas para la física cuántica.",
+      "seccion": "ciencia",
+      "tags": [
+        "física",
+        "láseres",
+        "rayos x",
+        "cuántica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 259,
+      "titulo": "DoorDash comprará Instacart por 17.000 millones de dólares",
+      "resumen": "La adquisición uniría al líder de entregas de restaurantes con el mayor jugador de entregas de supermercado en EE.UU., consolidando dos de las plataformas más grandes de delivery bajo una sola empresa. El acuerdo redibuja el mapa competitivo de la entrega a domicilio en Norteamérica.",
+      "por_que_leerlo": "Una de las mayores consolidaciones del sector delivery, con lecciones sobre escala y márgenes en negocios de última milla.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusiones y adquisiciones",
+        "delivery",
+        "doordash",
+        "instacart"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 260,
+      "titulo": "Mistral lanza en abierto los pesos de su modelo Large 4",
+      "resumen": "Mistral AI publicó los pesos del modelo Large 4, permitiendo que desarrolladores lo descarguen, modifiquen y ejecuten sin depender de su API comercial. El anuncio generó alta repercusión en la comunidad tecnica, con 585 puntos y 152 comentarios en Hacker News, consolidando a Mistral como una de las pocas firmas que compite con modelos cerrados ofreciendo acceso abierto a modelos de gran escala.",
+      "por_que_leerlo": "Si construyes productos con IA, puedes correr o afinar un modelo de clase alta sin pagar por API ni depender de un proveedor cerrado.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "open source",
+        "modelos de lenguaje",
+        "mistral"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 261,
+      "titulo": "Logran simular una CPU RISC-V determinista funcionando dentro del modelo Qwen3.5",
+      "resumen": "Un desarrollador consiguió que el modelo de IA Qwen3.5, mediante su propio mecanismo de inferencia, ejecute una CPU RISC-V completamente funcional y determinista, un experimento que mezcla arquitectura de computadores clasica con redes neuronales modernas. El proyecto, llamado Qwenputer, se convirtio en uno de los mas comentados de Hacker News con 658 puntos.",
+      "por_que_leerlo": "Es una demostración fascinante de hasta dónde puede llevarse un modelo de lenguaje cuando se le pide simular hardware real, útil para quien explora los límites de la IA aplicada.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "ingenieria",
+        "procesadores",
+        "experimentos"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://divagr.com/blog/qwenputer"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 262,
+      "titulo": "La escasez de agua en África se debe más a falta de infraestructura que a falta de agua",
+      "resumen": "Un estudio publicado en Nature mapea la demanda de agua por sector en África y muestra que, aunque la demanda creció cerca del 26% entre 2010 y 2020, 717 millones de personas seguían sin acceso a agua potable por tubería en 2020. Los autores concluyen que la escasez en varias zonas del continente responde más a la falta de infraestructura que a la disponibilidad real del recurso.",
+      "por_que_leerlo": "Revela que el problema del agua en África es ante todo de inversión e infraestructura, una lección aplicable a otros mercados emergentes.",
+      "seccion": "ciencia",
+      "tags": [
+        "agua",
+        "infraestructura",
+        "áfrica",
+        "desarrollo"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-africa-availability-untapped.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 263,
+      "titulo": "Científicos aíslan por primera vez a los parientes arqueales más cercanos de los eucariotas",
+      "resumen": "Un equipo liderado por JAMSTEC y la Universidad de Kyoto logró aislar y cultivar por primera vez dos cepas de Heimdallarchaeia, el grupo de arqueas más cercano conocido a los eucariotas, el linaje que incluye a humanos y otros animales. El hallazgo abre una ventana directa para estudiar en laboratorio el origen evolutivo de las células complejas.",
+      "por_que_leerlo": "Permite observar por primera vez en cultivo al pariente microbiano más cercano al origen de toda la vida compleja, incluida la humana.",
+      "seccion": "ciencia",
+      "tags": [
+        "evolución",
+        "arqueas",
+        "eucariotas",
+        "biología"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 264,
+      "titulo": "Logran sintetizar por primera vez cintas de carbono ultrafinas que conducen electricidad como metales",
+      "resumen": "Investigadores sintetizaron con éxito cintas de carbono ultradelgadas capaces de conducir electricidad con un comportamiento similar al de los metales, un avance clave frente al problema de calentamiento y resistencia eléctrica que enfrentan los cables metálicos a medida que los chips se miniaturizan. El hallazgo podría abrir una vía alterna al cobre en la electrónica de próxima generación.",
+      "por_que_leerlo": "Apunta a una posible solución al cuello de botella físico que limita cuánto pueden seguir encogiéndose los chips actuales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "materiales",
+        "electrónica",
+        "nanotecnología",
+        "chips"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 265,
+      "titulo": "Estudio con 13.000 adultos vincula seis edulcorantes artificiales con un envejecimiento cerebral más rápido",
+      "resumen": "Una investigación con cerca de 13.000 adultos encontró que quienes más consumían edulcorantes artificiales presentaron un deterioro de memoria y razonamiento hasta 62% más rápido, equivalente a 1,6 años adicionales de envejecimiento cerebral. Seis edulcorantes populares quedaron asociados al declive cognitivo, aunque los autores aclaran que el estudio no prueba causalidad.",
+      "por_que_leerlo": "Pone en duda la narrativa de que los sustitutos del azúcar son una alternativa inocua para la salud a largo plazo.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "nutrición",
+        "cerebro",
+        "edulcorantes"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 266,
+      "titulo": "Inteligencia militar de EE.UU. advierte que el avión espacial secreto de China no puede esconderse en órbita baja",
+      "resumen": "Un informe de la Agencia de Inteligencia de Defensa de EE.UU. señala que el avión espacial chino, pese a su secretismo, es rastreable en órbita baja, y sugiere que China podría desplegar pronto armas de energía dirigida en el espacio. El documento eleva la preocupación sobre la militarización orbital entre ambas potencias.",
+      "por_que_leerlo": "Expone hasta dónde llega la carrera espacial militar entre EE.UU. y China con datos de inteligencia reales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "espacio",
+        "china",
+        "seguridad",
+        "militar"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-27",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 267,
+      "titulo": "EE.UU. investigó un presunto plan de espionaje chino dirigido al CEO de Nvidia",
+      "resumen": "Según el New York Times, un alto ejecutivo de una empresa de nube de IA en Singapur, acusada de vender ilegalmente chips de Nvidia a China, podría haber sido también un espía chino que buscaba acercarse a Jensen Huang. El caso surgió en medio de las restricciones de exportación de semiconductores a China.",
+      "por_que_leerlo": "Muestra hasta qué punto llega el espionaje industrial en la guerra por los chips de IA entre EE.UU. y China.",
+      "seccion": "tecnologia",
+      "tags": [
+        "espionaje",
+        "nvidia",
+        "china",
+        "semiconductores"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
+      "id": 268,
+      "titulo": "Exejecutivos de Palantir lanzan Dream, startup de IA para construcción, con 17 millones de dólares de a16z",
+      "resumen": "Dream fue entrenada con datos de 100 millones de pies cuadrados de permisos de construcción y busca competir con Autodesk usando modelos de IA que simulan el mundo físico de las obras. La ronda fue liderada por Andreessen Horowitz.",
+      "por_que_leerlo": "Un ejemplo concreto de cómo aplicar IA generativa a una industria tradicional y poco digitalizada como la construcción.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "inteligencia artificial",
+        "construccion",
+        "financiacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-29 17:23",
+      "auto_generated": true
+    },
+    {
       "id": 245,
       "titulo": "Mapean por primera vez en 3D el campo magnético exterior del Sol",
       "resumen": "Un equipo de investigadores logró las primeras estimaciones globales y tridimensionales del campo magnético del Sol, incluyendo la zona más allá de su borde visible. El avance es clave para modelar mejor la actividad solar y predecir con mayor precisión las erupciones magnéticas que pueden afectar infraestructura crítica en la Tierra.",

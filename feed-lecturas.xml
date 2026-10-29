@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:09:21 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:23:19 -0000</lastBuildDate>
+    <item>
+      <title>Matemáticos cuestionan la necesidad de la energía oscura para explicar la expansión del universo</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261028232719.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-257</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un grupo de matemáticos identificó lo que consideran una falla fundamental en el modelo estándar de la cosmología: sus cálculos muestran que el marco matemático usado para describir la expansión del universo es inestable, y que esta podría acelerarse de forma natural bajo la teoría original de la gravedad de Einstein, sin necesidad de invocar la energía oscura. El hallazgo abre interrogantes sobre uno de los pilares de la cosmología moderna. Por que leerlo: Cuestiona uno de los conceptos más aceptados de la física moderna con argumentos matemáticos concretos, no solo especulación. (ScienceDaily, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Físicos rompen una regla clásica de los láseres y generan rayos X de mayor energía de lo previsto</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261027063713.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-258</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo de investigadores desafió una regla largamente establecida en la física de láseres al generar rayos X con energías mucho más altas de lo que predice la teoría convencional. El hallazgo muestra que dos electrones trabajando en conjunto pueden superar un límite que se creía infranqueable, lo que abre nuevas posibilidades para la investigación cuántica. Por que leerlo: Un límite que se daba por establecido en los libros de texto acaba de romperse en el laboratorio, con implicaciones directas para la física cuántica. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>DoorDash comprará Instacart por 17.000 millones de dólares</title>
+      <link>https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/</link>
+      <guid isPermaLink="false">lalupa-lectura-259</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La adquisición uniría al líder de entregas de restaurantes con el mayor jugador de entregas de supermercado en EE.UU., consolidando dos de las plataformas más grandes de delivery bajo una sola empresa. El acuerdo redibuja el mapa competitivo de la entrega a domicilio en Norteamérica. Por que leerlo: Una de las mayores consolidaciones del sector delivery, con lecciones sobre escala y márgenes en negocios de última milla. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Mistral lanza en abierto los pesos de su modelo Large 4</title>
+      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
+      <guid isPermaLink="false">lalupa-lectura-260</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Mistral AI publicó los pesos del modelo Large 4, permitiendo que desarrolladores lo descarguen, modifiquen y ejecuten sin depender de su API comercial. El anuncio generó alta repercusión en la comunidad tecnica, con 585 puntos y 152 comentarios en Hacker News, consolidando a Mistral como una de las pocas firmas que compite con modelos cerrados ofreciendo acceso abierto a modelos de gran escala. Por que leerlo: Si construyes productos con IA, puedes correr o afinar un modelo de clase alta sin pagar por API ni depender de un proveedor cerrado. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Logran simular una CPU RISC-V determinista funcionando dentro del modelo Qwen3.5</title>
+      <link>https://divagr.com/blog/qwenputer</link>
+      <guid isPermaLink="false">lalupa-lectura-261</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un desarrollador consiguió que el modelo de IA Qwen3.5, mediante su propio mecanismo de inferencia, ejecute una CPU RISC-V completamente funcional y determinista, un experimento que mezcla arquitectura de computadores clasica con redes neuronales modernas. El proyecto, llamado Qwenputer, se convirtio en uno de los mas comentados de Hacker News con 658 puntos. Por que leerlo: Es una demostración fascinante de hasta dónde puede llevarse un modelo de lenguaje cuando se le pide simular hardware real, útil para quien explora los límites de la IA aplicada. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La escasez de agua en África se debe más a falta de infraestructura que a falta de agua</title>
+      <link>https://phys.org/news/2026-10-africa-availability-untapped.html</link>
+      <guid isPermaLink="false">lalupa-lectura-262</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio publicado en Nature mapea la demanda de agua por sector en África y muestra que, aunque la demanda creció cerca del 26% entre 2010 y 2020, 717 millones de personas seguían sin acceso a agua potable por tubería en 2020. Los autores concluyen que la escasez en varias zonas del continente responde más a la falta de infraestructura que a la disponibilidad real del recurso. Por que leerlo: Revela que el problema del agua en África es ante todo de inversión e infraestructura, una lección aplicable a otros mercados emergentes. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Científicos aíslan por primera vez a los parientes arqueales más cercanos de los eucariotas</title>
+      <link>https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html</link>
+      <guid isPermaLink="false">lalupa-lectura-263</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo liderado por JAMSTEC y la Universidad de Kyoto logró aislar y cultivar por primera vez dos cepas de Heimdallarchaeia, el grupo de arqueas más cercano conocido a los eucariotas, el linaje que incluye a humanos y otros animales. El hallazgo abre una ventana directa para estudiar en laboratorio el origen evolutivo de las células complejas. Por que leerlo: Permite observar por primera vez en cultivo al pariente microbiano más cercano al origen de toda la vida compleja, incluida la humana. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Logran sintetizar por primera vez cintas de carbono ultrafinas que conducen electricidad como metales</title>
+      <link>https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html</link>
+      <guid isPermaLink="false">lalupa-lectura-264</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores sintetizaron con éxito cintas de carbono ultradelgadas capaces de conducir electricidad con un comportamiento similar al de los metales, un avance clave frente al problema de calentamiento y resistencia eléctrica que enfrentan los cables metálicos a medida que los chips se miniaturizan. El hallazgo podría abrir una vía alterna al cobre en la electrónica de próxima generación. Por que leerlo: Apunta a una posible solución al cuello de botella físico que limita cuánto pueden seguir encogiéndose los chips actuales. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Estudio con 13.000 adultos vincula seis edulcorantes artificiales con un envejecimiento cerebral más rápido</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261028234238.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-265</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Una investigación con cerca de 13.000 adultos encontró que quienes más consumían edulcorantes artificiales presentaron un deterioro de memoria y razonamiento hasta 62% más rápido, equivalente a 1,6 años adicionales de envejecimiento cerebral. Seis edulcorantes populares quedaron asociados al declive cognitivo, aunque los autores aclaran que el estudio no prueba causalidad. Por que leerlo: Pone en duda la narrativa de que los sustitutos del azúcar son una alternativa inocua para la salud a largo plazo. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Inteligencia militar de EE.UU. advierte que el avión espacial secreto de China no puede esconderse en órbita baja</title>
+      <link>https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/</link>
+      <guid isPermaLink="false">lalupa-lectura-266</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un informe de la Agencia de Inteligencia de Defensa de EE.UU. señala que el avión espacial chino, pese a su secretismo, es rastreable en órbita baja, y sugiere que China podría desplegar pronto armas de energía dirigida en el espacio. El documento eleva la preocupación sobre la militarización orbital entre ambas potencias. Por que leerlo: Expone hasta dónde llega la carrera espacial militar entre EE.UU. y China con datos de inteligencia reales. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>EE.UU. investigó un presunto plan de espionaje chino dirigido al CEO de Nvidia</title>
+      <link>https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</link>
+      <guid isPermaLink="false">lalupa-lectura-267</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Según el New York Times, un alto ejecutivo de una empresa de nube de IA en Singapur, acusada de vender ilegalmente chips de Nvidia a China, podría haber sido también un espía chino que buscaba acercarse a Jensen Huang. El caso surgió en medio de las restricciones de exportación de semiconductores a China. Por que leerlo: Muestra hasta qué punto llega el espionaje industrial en la guerra por los chips de IA entre EE.UU. y China. (TechCrunch, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Exejecutivos de Palantir lanzan Dream, startup de IA para construcción, con 17 millones de dólares de a16z</title>
+      <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
+      <guid isPermaLink="false">lalupa-lectura-268</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Dream fue entrenada con datos de 100 millones de pies cuadrados de permisos de construcción y busca competir con Autodesk usando modelos de IA que simulan el mundo físico de las obras. La ronda fue liderada por Andreessen Horowitz. Por que leerlo: Un ejemplo concreto de cómo aplicar IA generativa a una industria tradicional y poco digitalizada como la construcción. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Mapean por primera vez en 3D el campo magnético exterior del Sol</title>
       <link>https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Tue, 27 Oct 2026 16:15:00 -0000</pubDate>
       <category>Tecnología</category>
       <description>El equipo de CPython decidió remover el compilador JIT experimental introducido hace poco porque no logró las mejoras de rendimiento esperadas y carece de mantenedores suficientes. La noticia, reportada por LWN, generó un fuerte debate en la comunidad sobre el futuro de la optimización en el lenguaje. Por que leerlo: Entender por qué fracasó un proyecto de optimización tan esperado ayuda a quien construye herramientas en Python a decidir si vale la pena apostar por mejoras de rendimiento similares. (Hacker News, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>OpenAI anuncia tres descubrimientos en matematicas, computacion y fisica asistidos por IA</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
-      <guid isPermaLink="false">lalupa-lectura-197</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>OpenAI presento tres resultados originales logrados con apoyo de sus modelos de IA, incluyendo una prueba que refuta la Hipotesis del Tiempo Exponencial, un problema abierto de teoria de la complejidad computacional. El anuncio supero los 400 puntos y cientos de comentarios en Hacker News por su posible impacto en las ciencias de la computacion. Por que leerlo: Es una senal temprana de que la IA ya puede producir descubrimientos cientificos originales, no solo resumir los existentes. (Hacker News, 6 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>Eric Schmidt financia el primer telescopio espacial privado con 27 exoplanetas como blanco inicial</title>
-      <link>https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html</link>
-      <guid isPermaLink="false">lalupa-lectura-198</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El Telescopio Espacial Lazuli, impulsado por el exCEO de Google Eric Schmidt, sera el primer telescopio espacial de propiedad privada de la historia, con un espejo de 3 metros mayor al del Hubble (2,4 m) y lanzamiento previsto para 2029. El proyecto ya definio 27 exoplanetas como objetivos iniciales de observacion. Por que leerlo: Es un ejemplo concreto de como el capital privado y los fundadores tecnologicos estan entrando a financiar ciencia espacial de punta antes reservada a agencias gubernamentales. (Phys.org, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Ladrones de carretera usan GPS falso para robar cargamentos de centros de datos</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/</link>
-      <guid isPermaLink="false">lalupa-lectura-199</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores documentaron como bandas de ladrones interceptan camiones con equipos destinados a centros de datos falsificando senales GPS para desviar las rutas de envio. El robo de este tipo ya suma mas de US$100 millones en equipos sustraidos en Estados Unidos. Por que leerlo: Expone una tecnica de robo tecnologico poco conocida que amenaza las cadenas de suministro criticas para la infraestructura de IA. (Ars Technica, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Startup de excavadoras autonomas recauda US$600 millones y alcanza valoracion de US$4.100 millones</title>
-      <link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/</link>
-      <guid isPermaLink="false">lalupa-lectura-200</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Bedrock Robotics desarrolla excavadoras que operan sin conductor para enfrentar la escasez de operadores calificados en el sector de la construccion. La nueva ronda eleva su valoracion a US$4.100 millones, confirmando el interes de los inversionistas en automatizar maquinaria pesada. Por que leerlo: Ilustra como la automatizacion llega a industrias tradicionales poco digitalizadas, con cifras concretas de inversion. (TechCrunch, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Logran vision por computador acelerada con SIMD en un microcontrolador de 2 dolares</title>
-      <link>https://shraiwi.com/blog/simd-fast-esp32s3/</link>
-      <guid isPermaLink="false">lalupa-lectura-201</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un desarrollador optimizo algoritmos de vision por computador usando instrucciones SIMD en el microcontrolador ESP32-S3, de apenas dos dolares de costo. El proyecto, documentado en detalle tecnico, alcanzo cientos de puntos en Hacker News por mostrar como exprimir hardware economico para tareas antes reservadas a chips mas costosos. Por que leerlo: Da una hoja de ruta tecnica para quien quiera construir vision artificial barata en sus propios proyectos de electronica. (Hacker News, 7 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Meta emitirá US$95.000 millones en acciones para financiar su expansión en IA</title>
-      <link>https://www.valoraanalitik.com/meta-emitira-acciones-para-financiar-ia/</link>
-      <guid isPermaLink="false">lalupa-lectura-202</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Meta anunció una emisión de acciones por US$95.000 millones destinada a financiar la construcción de infraestructura de inteligencia artificial. Nvidia, AMD y Broadcom manifestaron interés en comprar hasta US$5.000 millones de esos títulos, según informó la compañía. Por que leerlo: Muestra la escala de capital que las grandes tecnológicas están movilizando para la carrera de la infraestructura de IA. (Valora Analitik, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Analisis de 50 anos cuestiona si la politica japonesa contra la despoblacion funciona</title>
-      <link>https://phys.org/news/2026-10-term-analysis-japan-depopulation-policy.html</link>
-      <guid isPermaLink="false">lalupa-lectura-203</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Japon lleva mas de cinco decadas aplicando la politica de Designacion de Areas Despobladas (DAD), que identifica municipios en declive y los apoya con infraestructura y subsidios frente a la perdida de poblacion y el envejecimiento. Un nuevo analisis de largo plazo cuestiona si este marco nacional realmente logra estabilizar a las comunidades o solo prolonga su deterioro. Por que leerlo: Muestra con datos de medio siglo si el gasto publico puede revertir la decadencia demografica de una region, una leccion util para cualquier debate sobre desarrollo regional. (Phys.org, 6 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Combinan computacion, procesamiento e IA para disenar aleaciones de alta entropia</title>
-      <link>https://phys.org/news/2026-10-trial-error-ai-high-entropy.html</link>
-      <guid isPermaLink="false">lalupa-lectura-204</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores integran simulaciones computacionales, datos de procesamiento e inteligencia artificial para predecir que combinaciones de elementos y condiciones de fabricacion producen las propiedades mecanicas deseadas en aleaciones de alta entropia, un problema que antes exigia prueba y error costoso. El enfoque busca acelerar el diseno de materiales estructurales avanzados para industrias como aeroespacial y energia. Por que leerlo: Muestra un caso concreto de como la IA esta acelerando el diseno de materiales de ingenieria, reduciendo anos de experimentacion a simulaciones. (Phys.org, 6 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Filman por primera vez como se derriten vortices magneticos que podrian inspirar chips tipo cerebro</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261025073038.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-205</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Cientificos lograron filmar por primera vez como los skyrmions, diminutos vortices magneticos organizados en una red, se desordenan al 'derretirse', revelando nuevas formas de manipular estas estructuras. El hallazgo podria ayudar a construir computadores inspirados en el cerebro, mas pequenos y energeticamente eficientes que los chips actuales. Por que leerlo: Es una pista concreta hacia chips mucho mas eficientes en energia, un problema central para la computacion de IA de hoy. (ScienceDaily, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un modelo topologico conecta una vieja paradoja electoral con la forma de una botella de Klein</title>
-      <link>https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/</link>
-      <guid isPermaLink="false">lalupa-lectura-206</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Matematicos desarrollaron un nuevo modelo topologico que vincula una paradoja de votacion conocida desde hace siglos con una superficie sin un interior o exterior definido, la botella de Klein. El hallazgo ofrece una forma visual e inesperada de entender por que ciertos sistemas de votacion producen resultados ciclicos o contradictorios. Por que leerlo: Ofrece una explicacion matematica elegante de por que los sistemas de votacion pueden fallar de maneras contraintuitivas, util para entender el diseno de mecanismos de decision colectiva. (Quanta Magazine, 8 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Startups de fusion nuclear ceden acciones al gobierno de EE.UU. a cambio de subsidios</title>
-      <link>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</link>
-      <guid isPermaLink="false">lalupa-lectura-207</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Varias startups de energia de fusion enfrentan la disyuntiva de entregar participacion accionaria al gobierno estadounidense para acceder a fondos publicos o financiarse unicamente con capital privado. El mecanismo altera las reglas tradicionales del capital de riesgo en un sector que requiere inversiones masivas antes de generar ingresos. Por que leerlo: Muestra un modelo emergente de financiamiento publico-privado que podria replicarse en otras industrias de alto capital. (TechCrunch, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>BID Lab y Fundación Bolívar crean programa AuRA de inversión de impacto en LatAm</title>
-      <link>https://www.larepublica.co/finanzas/fundacion-bolivar-davivienda-y-bid-lab-crearon-el-programa-aura-para-inversionistas-4511690</link>
-      <guid isPermaLink="false">lalupa-lectura-208</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El programa incluye un vehículo de cofinanciación de US$700.000 para fortalecer el ecosistema de inversión de impacto en Colombia y América Latina, impulsado por Fundación Bolívar Davivienda y BID Lab. Por que leerlo: Revela una nueva fuente de capital de impacto disponible para emprendedores latinoamericanos. (La Republica, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
