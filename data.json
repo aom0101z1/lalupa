@@ -221,6 +221,344 @@
   ],
   "casos": [
     {
+      "id": 2420,
+      "titulo": "Congresistas de EE.UU. piden a Marco Rubio frenar apoyo a fumigación de cultivos de coca en Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-10-29",
+      "descripcion": "Un grupo de congresistas demócratas de Estados Unidos envió una carta fechada el 29 de octubre de 2026 al secretario de Estado Marco Rubio pidiendo retirar el respaldo financiero o logístico a la reanudación de fumigaciones aéreas de cultivos de coca en Colombia, politica retomada por el Gobierno De la Espriella, citando riesgos de salud y medioambiente y dudas sobre su efectividad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/congresistas-estados-unidos-marco-rubio-apoyo-fumigacion-cultivos-coca-colombia-II42971944",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Marco Rubio"
+      ],
+      "entidad": "Gobierno Nacional / Congreso de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2419,
+      "titulo": "Ministro Restrepo propone plan de cuatro puntos para reactivar el turismo",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El ministro José Manuel Restrepo presentó a los hoteleros un plan con cuatro puntos clave para impulsar el sector turístico del país, en medio de cifras de decrecimiento del turismo en varias regiones.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/turismo/articulo/el-cambio-de-chip-que-propone-jose-manuel-restrepo-para-el-turismo-ambicioso-plan-con-cuatro-puntos-clave-a-hoteleros/202620/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Manuel Restrepo"
+      ],
+      "entidad": "Ministerio de Comercio, Industria y Turismo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2418,
+      "titulo": "Ley de Rescate Económico impone recorte drástico de gasto público con restricciones de viajes, viáticos y fiestas",
+      "categoria": "transparencia",
+      "fecha": "2026-10-29",
+      "descripcion": "El proyecto de Ley de Rescate Económico del Gobierno De la Espriella contempla un drástico recorte de gasto público que incluye restricciones a viajes, viáticos y eventos como fiestas en entidades estatales, como parte de las medidas de austeridad fiscal.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/drastico-recorte-de-gasto-publico-en-ley-de-rescate-economico-restricciones-de-viajes-viaticos-y-fiestas-entre-otros/202657/",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2417,
+      "titulo": "Ley de Rescate Económico aumenta costo de seguridad social para algunos colombianos",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "El proyecto de Ley de Rescate Económico radicado por el Gobierno De la Espriella incluye disposiciones que elevarían el costo de la seguridad social para ciertos grupos de colombianos, segun reporte de Semana sobre el articulado de la reforma fiscal.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/con-ley-de-rescate-economico-aumenta-el-costo-de-seguridad-social-para-algunos-colombianos/202650/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2416,
+      "titulo": "Gobierno propone bajar renta a empresas al 31% y eliminar gravamen a plásticos de un solo uso",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "De la Espriella propone en la Ley de Rescate reducir el impuesto de renta para empresas del 35% actual hasta el 31%, además de eliminar el gravamen a los plásticos de un solo uso, con el objetivo de disminuir la carga tributaria empresarial y mejorar la competitividad del país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-propone-bajar-impuesto-de-renta-a-empresas-y-eliminar-gravamen-a-plasticos-de-un-solo-uso/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2415,
+      "titulo": "Reforma tributaria ampliaría base de impuesto de renta a ingresos desde $5,5 millones",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "La Ley de Rescate del Gobierno De la Espriella plantea que trabajadores con ingresos desde $5,5 millones mensuales empiecen a pagar impuesto de renta, con lo cual más colombianos tributarían. Se espera un recaudo adicional estimado en $7,25 billones al año.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/trabajadores-que-ganen-desde-55-millones-mensuales-entrarian-a-pagar-impuesto-de-renta-con-reforma-del-gobierno/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2414,
+      "titulo": "Ley de Rescate crearía régimen de estabilidad jurídica para inversiones",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "La Ley de Rescate del Gobierno De la Espriella plantea un mecanismo que articularía en un solo esquema los beneficios tributarios y las garantías de estabilidad jurídica para quienes inviertan en el país, como parte del ajuste fiscal y la reactivación económica.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ley-de-rescate-del-gobierno-traeria-regimen-de-estabilidad-juridica-para-inversiones-4514249",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2413,
+      "titulo": "Ley de Rescate modificaría regla fiscal con techo al gasto si sube la deuda",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El proyecto de Ley de Rescate establece que cuando la deuda neta del Gobierno cierre por encima del 71% del PIB, el gasto de personal no podrá crecer más del IPC más 0,5 puntos porcentuales, como mecanismo de control fiscal ante el aumento de la deuda pública.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ley-de-rescate-modificaria-regla-fiscal-y-pondria-techo-al-gasto-si-la-deuda-supera-63-del-pib-4514413",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2412,
+      "titulo": "Gobierno propone alza en impuesto al cigarrillo y vapeadores dentro de Ley de Rescate",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El Gobierno Nacional propone subir el impuesto por cajetilla de cigarrillo a $7.823 en 2027 y $11.200 en 2028, dentro del proyecto de Ley de Rescate Fiscal. Los vapeadores pagarían $1.000 por mililitro en 2027 y $2.000 desde 2028. El recaudo adicional se destinaría a financiar el aseguramiento en salud.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-subiria-impuesto-por-cajetilla-de-cigarrillo-a-7-823-en-2027-y-1-200-en-2028-4514479",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2411,
+      "titulo": "Congreso corre contrarreloj para aprobar la Ley de Sometimiento del Gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "El Congreso sesiona en jornada extraordinaria -el Senado el viernes y la Cámara el lunes festivo- para aprobar antes del 4 de noviembre de 2026 la ley de sometimiento a la justicia impulsada por el Gobierno De la Espriella, dirigida a estructuras criminales y grupos armados, en medio de presión por los tiempos legislativos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/contrarreloj-en-el-congreso-para-aprobar-la-ley-de-sometimiento-del-gobierno-de-la-espriella-debe-estar-aprobada-el-4-de-noviembre-3597351",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2410,
+      "titulo": "Reducción de delitos reportada durante el Gobierno De La Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-10-30",
+      "descripcion": "Un informe de seguridad detalla cuáles delitos han mostrado reducción desde el inicio del Gobierno De La Espriella, con cifras comparativas frente al periodo anterior, en el marco de la estrategia de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/golpe-al-crimen-estos-son-los-delitos-que-se-han-reducido-en-el-gobierno-de-la-espriella/202627/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2409,
+      "titulo": "Incautan más de $500 millones por minería ilegal en el río Nechí, Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-29",
+      "descripcion": "La Policía y la Fiscalía hallaron más de $500 millones en efectivo durante una investigación por extracción ilegal de minerales en inmediaciones del río Nechí, Antioquia. En el operativo resultaron ocho personas capturadas vinculadas a la actividad minera ilegal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-mas-de-500-millones-en-efectivo-durante-investigacion-por-mineria-ilegal-en-antioquia-3597354",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2408,
+      "titulo": "MinSalud se opone a proyecto que modifica impuesto a cigarrillos",
+      "categoria": "economia",
+      "fecha": "2026-10-29",
+      "descripcion": "El Ministerio de Salud presentó un concepto de 51 páginas oponiéndose al proyecto de ley que busca modificar el impuesto al consumo de cigarrillos y vapeadores, próximo a su cuarto debate en el Senado, argumentando posibles efectos fiscales y sanitarios negativos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/minsalud-distancia-proyecto-cambiar-impuesto-cigarrillos-medida-salva-vidas-EL42941063",
+          "fecha": "2026-10-29"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2407,
+      "titulo": "Sexto bombardeo del Gobierno De la Espriella contra el Clan del Golfo en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-10-28",
+      "descripcion": "El Gobierno de Abelardo de la Espriella ordenó un sexto bombardeo contra estructuras del Clan del Golfo en un municipio del Chocó, en el que habría sido neutralizado un objetivo de alto valor, continuando la estrategia de operaciones militares aéreas contra grupos armados iniciada meses atrás.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMFZxNkk5MF82SlBPSVZEdkxaVE4tZEpfODdlYUZ0LVdySFdyM3ptRWxYS1NndkFRQnV0cUNGdzJOUGxUdXJGVlk3Nm1lS3JkdVFUTzJlbmNvbkZJa1doSnBoNEcxYjQwcXlkSC0tbHZmeU1WbnExbVBFWk0zdlVWanlqelQ1NFNqZXhNWjVFUUstWVJEWk01R3VWcHE3Zk5ZWmFrTjlZeXVTejgxeTQtNm9lZnhLNUU3ekxmX1JhY3ZPOHJ6SUlzOThmS1dnUHpEVjZnWWdEZFo5ME9RN0VPVnphal8wUmQybWUzV1AtZjk3MENocXpZ?oc=5",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerza Pública / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2406,
+      "titulo": "Ley de Rescate Fiscal otorgaría facultades extraordinarias para eliminar 105 entidades del Estado",
+      "categoria": "transparencia",
+      "fecha": "2026-10-30",
+      "descripcion": "La recién radicada Ley de Rescate Fiscal incluye un artículo que otorgaría al presidente Abelardo de la Espriella facultades extraordinarias por seis meses para suprimir, fusionar o modificar ministerios y departamentos administrativos, reduciendo en 105 el número de entidades estatales. La medida genera debate en el Congreso por la concentración de poder que implica.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/plan-de-la-espriella-eliminar-fusionar-105-entidades-estado-HH42980676",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-30 04:24",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2405,
       "titulo": "Deuda pública alcanza $1.185 billones a septiembre de 2026",
       "categoria": "economia",
@@ -56193,8 +56531,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-29",
-    "total_casos": 2316,
+    "ultima_actualizacion": "2026-10-30",
+    "total_casos": 2331,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
