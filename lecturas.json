@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-29"
+    "ultima_actualizacion": "2026-10-30"
   },
   "lecturas": [
+    {
+      "id": 269,
+      "titulo": "Menos de 42 minutos de luz diurna brillante se asocia a mayor riesgo de demencia",
+      "resumen": "Un estudio con mas de 87.000 adultos encontro que mayor exposicion a luz diurna intensa se asocia con un 16% menos de riesgo de demencia. Recibir menos de 42 minutos de luz brillante al dia resulto ser un predictor especialmente fuerte de ese riesgo.",
+      "por_que_leerlo": "Da una pista concreta y de bajo costo para proteger la salud cerebral a largo plazo.",
+      "seccion": "ciencia",
+      "tags": [
+        "demencia",
+        "salud cerebral",
+        "luz solar",
+        "estudio"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 270,
+      "titulo": "Hallan en el Sahara uno de los meteoritos marcianos más antiguos jamás encontrados",
+      "resumen": "Científicos financiados por la NASA dataron un meteorito rosado de casi 800 gramos hallado en el Sahara en 2022 y determinaron que se formó hace más de 4.100 millones de años, una de las rocas marcianas más antiguas conocidas en la Tierra. El análisis mineral permitió reconstruir su edad y arrojar pistas sobre la geología temprana de Marte.",
+      "por_que_leerlo": "Ofrece evidencia directa, con datación precisa, sobre la historia más temprana de Marte a partir de una roca real.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "meteoritos",
+        "geologia",
+        "nasa"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 271,
+      "titulo": "Thrive Holdings, respaldada por OpenAI, compra ADT por US$15.300 millones",
+      "resumen": "Thrive Holdings, firma con respaldo de OpenAI, adquirirá la compañía de seguridad para el hogar ADT en un acuerdo valorado en US$15.300 millones, con planes de incorporar inteligencia artificial a sus servicios de monitoreo. La operación marca una apuesta de capital vinculado a OpenAI por el sector de seguridad residencial.",
+      "por_que_leerlo": "Muestra cómo el capital ligado a la IA entra a industrias tradicionales mediante adquisiciones multimillonarias.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusiones y adquisiciones",
+        "inteligencia artificial",
+        "seguridad del hogar",
+        "openai"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 272,
+      "titulo": "Hackeo historico golpea a Binance: mas de 2.000 millones de dolares salen de sus carteras",
+      "resumen": "Analistas detectaron movimientos extraordinarios desde carteras vinculadas a Binance por mas de 2.000 millones de dolares, lo que genera sospechas de uno de los mayores hackeos en la historia de las criptomonedas. La plataforma aun no ha confirmado oficialmente el origen de las transacciones mientras la comunidad cripto intenta rastrear los fondos.",
+      "por_que_leerlo": "Para entender el riesgo real de custodiar criptoactivos en exchanges centralizados y que significa para la seguridad del ecosistema cripto.",
+      "seccion": "tecnologia",
+      "tags": [
+        "criptomonedas",
+        "binance",
+        "hackeo",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/criptomonedas/2-000-millones-dolares-salen-carteras-binance-sospecha-apunta-a-hackeo-historico"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 273,
+      "titulo": "Nueva herramienta de IA identifica bacterias ocultas en el suelo",
+      "resumen": "Investigadores de la Universidad Hebrea de Jerusalen y otras instituciones desarrollaron una inteligencia artificial que ayuda a clasificar ADN de bacterias y hongos del suelo que antes era imposible de identificar con metodos convencionales. La herramienta busca acelerar estudios de microbiomas ambientales hoy limitados por datos geneticos sin clasificar.",
+      "por_que_leerlo": "Muestra una aplicacion practica de IA que resuelve un cuello de botella real en biologia ambiental.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "microbiologia",
+        "adn",
+        "suelo"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-ai-tool-scientists-bacteria-hidden.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 274,
+      "titulo": "Meteorito marciano de 4.100 millones de anos sugiere que Marte fue humedo",
+      "resumen": "Cientificos de la Universidad de Nuevo Mexico ayudaron a identificar un raro meteorito marciano de 4.100 millones de anos que aporta nueva evidencia de que el planeta rojo pudo tener alguna vez un ambiente mas humedo, similar al de la Tierra.",
+      "por_que_leerlo": "Ofrece evidencia fisica directa sobre la historia climatica temprana de Marte, clave para la busqueda de vida pasada.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "meteorito",
+        "geologia",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 275,
+      "titulo": "Como se logro tomar la primera fotografia de un agujero negro",
+      "resumen": "El astrofisico Shep Doeleman explica como el Event Horizon Telescope combino observatorios de todo el mundo para simular un telescopio del tamano de la Tierra y capturar la primera imagen de un agujero negro. El proximo objetivo del equipo es producir un video en lugar de una sola fotografia.",
+      "por_que_leerlo": "Explica con claridad la ingenieria y la ciencia detras de uno de los logros astronomicos mas importantes de la ultima decada.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujero negro",
+        "astrofisica",
+        "telescopio",
+        "event horizon"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 7,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 276,
+      "titulo": "Descubren un reservorio oculto de oxigeno en las profundidades de la Tierra",
+      "resumen": "Un estudio hallo que el magma en las profundidades del planeta puede almacenar cantidades sorprendentes de oxigeno extra, lo que podria haber contribuido a formar la atmosfera rica en oxigeno de la Tierra. El hallazgo sugiere que erupciones volcanicas antiguas jugaron un papel clave en esa transformacion hace miles de millones de anos.",
+      "por_que_leerlo": "Propone una pieza nueva en el rompecabezas de como se formo el oxigeno que respiramos.",
+      "seccion": "ciencia",
+      "tags": [
+        "geologia",
+        "oxigeno",
+        "atmosfera",
+        "volcanes"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-28",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 277,
+      "titulo": "Diseñan una planta solar que funciona como su propio respaldo energético",
+      "resumen": "Un nuevo diseño de planta de energía solar puede operar tanto con calor almacenado del sol como mediante combustión convencional, eliminando la dependencia de baterías externas para los periodos sin sol. El sistema integra almacenamiento térmico y una fuente de respaldo en una sola planta.",
+      "por_que_leerlo": "Muestra una solución de ingeniería práctica para la intermitencia solar sin recurrir a baterías costosas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia solar",
+        "almacenamiento termico",
+        "ingenieria",
+        "energia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 278,
+      "titulo": "Reddit limitará el acceso sin registro tras caída en su tráfico de búsqueda",
+      "resumen": "El CEO de Reddit confirmó que la plataforma avanzará hacia una experiencia que exigirá inicio de sesión, después de que el tráfico proveniente de buscadores cayera de forma significativa en el último trimestre. La medida busca proteger el valor de su audiencia frente al avance de la IA en las búsquedas.",
+      "por_que_leerlo": "Revela cómo la IA obliga a plataformas de contenido a repensar su acceso abierto, algo clave para quienes dependen del tráfico orgánico.",
+      "seccion": "tecnologia",
+      "tags": [
+        "reddit",
+        "trafico web",
+        "inteligencia artificial",
+        "negocios digitales"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 279,
+      "titulo": "Filtración expone a 41.000 trabajadores del DHS y agentes encubiertos de ICE",
+      "resumen": "Una fuga masiva de datos reveló información sensible de 41.000 empleados del Departamento de Seguridad Nacional de EE.UU., incluyendo identidades de agentes encubiertos, grupos de vigilancia y accesos internos. El incidente expone riesgos de seguridad operativa para agencias federales estadounidenses.",
+      "por_que_leerlo": "Ilustra el impacto real de una brecha de seguridad a gran escala sobre personal encubierto y operaciones gubernamentales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "filtracion de datos",
+        "seguridad nacional",
+        "dhs"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
+    {
+      "id": 280,
+      "titulo": "Binance congela US$2.500 millones por presunto hackeo y bitcoin se desploma",
+      "resumen": "El cofundador de Binance, Changpeng Zhao, confirmó que la plataforma pudo haber sido víctima de un hackeo y congeló más de US$2.500 millones en fondos como medida preventiva. El anuncio coincidió con una fuerte caída del precio de bitcoin en los mercados globales.",
+      "por_que_leerlo": "Entender cómo responde el mayor exchange de criptomonedas a un posible hackeo ayuda a dimensionar los riesgos de custodia en cripto.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "binance",
+        "hackeo",
+        "bitcoin",
+        "criptomonedas"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/binance-congela-mas-de-us-2-500-millones-tras-un-presunto-hackeo-bitcoin-se-desploma-4514572"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-30 02:28",
+      "auto_generated": true
+    },
     {
       "id": 257,
       "titulo": "Matemáticos cuestionan la necesidad de la energía oscura para explicar la expansión del universo",
