@@ -221,6 +221,258 @@
   ],
   "casos": [
     {
+      "id": 2490,
+      "titulo": "Ley de Rescate elevaría cotización en salud para empleados asalariados",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "Segun el proyecto de Ley de Rescate del Gobierno, el aporte a salud que paga el empleador se mantendria en 8,5%, pero el porcentaje a cargo del empleado subiria, variando entre 4% y 8% segun el nivel de ingresos del trabajador dependiente.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/cotizacion-en-salud-subiria-para-asalariados-4515518",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2489,
+      "titulo": "Segundo atentado en octubre contra el peaje El Bordo en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "Un nuevo ataque con explosivos contra el peaje El Bordo, en el departamento del Cauca, obligó a evacuar a los trabajadores; es el segundo atentado contra esta instalación en menos de un mes. El Gobierno Nacional anunció nuevas medidas de seguridad en la zona.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/segundo-atentado-contra-el-peaje-el-bordo-en-octubre-gobierno-anuncia-medidas-de-seguridad/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2488,
+      "titulo": "Nuevos umbrales de inversión para el régimen Ruge",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "El Gobierno Nacional definió que las empresas que quieran acogerse al nuevo régimen Ruge deberán garantizar inversiones mínimas desde $135.125 millones, con umbrales diferenciados según el sector económico, en el marco de la Ley de Rescate Económico.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/para-entrar-al-ruge-empresas-deben-garantizar-inversiones-desde-135-125-millones-4515776",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2487,
+      "titulo": "Captura de alias 'Masmela' por crimen del subdirector de cárcel de Neiva",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "En el marco de la Operación San Pedro II, autoridades capturaron en Bogotá a alias 'Masmela', señalado de conducir la motocicleta usada en el atentado que mató al teniente coronel en retiro Renato Solano Osorio y a un niño de 11 años en Neiva, nueve meses después del hecho.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/subdirector-carcel-neiva-asi-cayo-otro-implicado-en-el-crimen-HE43033224",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Masmela",
+        "Renato Solano Osorio"
+      ],
+      "entidad": "Policía Nacional / SIJIN",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2486,
+      "titulo": "Extradición del 'Monstruo del Modelaje' y seis personas más",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "La Dijín y Migración Colombia ejecutaron la extradición del llamado 'Monstruo del Modelaje' junto a seis personas más, en el marco de operativos contra redes criminales.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/el-monstruo-del-modelaje-y-seis-personas-mas-fueron-extraditados-por-la-dijin-y-migracion/202607/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Monstruo del Modelaje"
+      ],
+      "entidad": "Dijín / Migración Colombia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2485,
+      "titulo": "Gobierno anuncia recursos para el Gran Malecón del Mar en Cartagena",
+      "categoria": "obras",
+      "fecha": "2026-10-31",
+      "descripcion": "El Gobierno Nacional anunció la asignación de recursos para financiar los próximos tramos de construcción del Gran Malecón del Mar en Cartagena, como parte de su agenda de infraestructura territorial.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/gobierno-anuncio-recursos-para-financiar-los-proximos-tramos-del-gran-malecon-del-mar-en-cartagena/202612/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Invías",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2484,
+      "titulo": "Ley de Rescate Fiscal de De la Espriella apunta a recaudar $43 billones en 2027 pero enfrenta problemas de tiempo legislativo",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "El proyecto de Ley de Rescate Fiscal del Gobierno de Abelardo de la Espriella busca recaudar $43 billones en 2027, pero según el análisis, no alcanzaría a tramitarse completamente en la legislatura 2026, que concluye el 16 de diciembre, lo que genera incertidumbre sobre su entrada en vigencia para el próximo año fiscal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ley-de-rescate-fiscal-de-de-la-espriella-va-por-43-billones-en-2027-no-alcanzaria-a-tramitarse-en-la-legislatura-2026/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2483,
+      "titulo": "Mintransporte despliega Plan Meteoro en la vía Panamericana tras atentado en peaje El Mango",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "La ministra de Transporte, Elsa Noguera, anunció el despliegue del Plan Meteoro en la vía Panamericana y otros corredores estratégicos tras un atentado con motobomba contra el peaje El Mango, en La Sierra, Cauca, el 31 de octubre de 2026. Según el Ejército, el ataque fue perpetrado por la estructura Carlos Patiño, de las disidencias de las Farc al mando de alias Iván Mordisco.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mintransporte-plan-meteoro-via-panamericana-atentado-peaje-cauca-JD43044863",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Elsa Noguera",
+        "Iván Mordisco"
+      ],
+      "entidad": "Ministerio de Transporte / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2482,
+      "titulo": "5.876 personas confinadas en Bolívar, Cauca y Chocó durante septiembre",
+      "categoria": "seguridad",
+      "fecha": "2026-10-30",
+      "descripcion": "Un reporte oficial registró 5.876 personas en situación de confinamiento en los departamentos de Bolívar, Cauca y Chocó durante septiembre de 2026, atribuido a la presencia y acciones de las AGC/EGC, el Eln, disidencias de las extintas Farc y las ACSN.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/bolivar-cauca-y-choco-registraron-5876-persona-confinadas-en-septiembre",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Defensoría del Pueblo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2481,
+      "titulo": "Indepaz reporta 131 líderes sociales asesinados en 2026, 42 bajo el gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-10-30",
+      "descripcion": "La organización Indepaz denunció el asesinato de 131 líderes sociales en Colombia durante 2026, de los cuales 42 ocurrieron bajo el gobierno de Abelardo De la Espriella, iniciado en agosto. El informe documenta la persistencia de la violencia contra liderazgos sociales en el país.",
+      "evidencia": "Reportado por Análisis Urbano",
+      "fuentes": [
+        {
+          "nombre": "Análisis Urbano",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcW1EamxaX2VIYldrV1pOamYydjVMdmtPdF9fckZQQ0duLVNidHBlUVpIQWdHSHdDa1J5WHMyQ25HUzJjMkVvMk0yMm1LMUNUNUQwY2JGSGZjNnFmZFVSbHFrU3V4WHpLdHY5Y0Z3bEJqdnV6MFpoZ213S2FER0p0MmZ3NWN6Tks4NVJFZUJQOFBQdEpPRTVDT0o4NzNsM1d6SHlPdDI0THhNNVRoOW91U2prelhYcjB4Wmoxd0FoMGZ2N0tsSGo1ZzYxTQ?oc=5",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Indepaz",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2480,
+      "titulo": "Captura de alias 'El Viejo' por narcotráfico de cocaína camuflada en café",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "Autoridades capturaron en Pereira a alias 'El Viejo', señalado de enviar cargamentos de cocaína hacia Europa camuflados en envíos de café. El capturado es requerido en extradición por Perú.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/alias-el-viejo-senalado-de-enviar-cocaina-a-europa-camuflada-en-cargamentos-de-cafe-fue-capturado-en-pereira-3597694",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Alias 'El Viejo'"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2479,
       "titulo": "Gobierno impulsa empresas colombianas mediante inteligencia artificial",
       "categoria": "economia",
@@ -57895,7 +58147,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-31",
-    "total_casos": 2390,
+    "total_casos": 2401,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
