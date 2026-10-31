@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:02:43 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 02:04:24 -0000</lastBuildDate>
+    <item>
+      <title>El primer satelite centro de datos de Google ya esta en linea y escribe poesia</title>
+      <link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
+      <guid isPermaLink="false">lalupa-lectura-293</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Google puso en orbita su primer satelite equipado con una TPU que ejecuta el modelo Gemma 4 de DeepMind, logrando el primer centro de datos operativo en el espacio. El sistema ya genera texto, incluida poesia, como prueba de concepto de computacion orbital. Por que leerlo: Muestra el primer paso real hacia centros de datos en orbita, una frontera que podria redefinir donde se procesa la inteligencia artificial. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La automatización con IA está erosionando las habilidades de los ingenieros SRE</title>
+      <link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
+      <guid isPermaLink="false">lalupa-lectura-294</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un análisis muy discutido en Hacker News (506 puntos, 380 comentarios) sostiene que las herramientas de IA en operaciones de TI no están sustituyendo a los ingenieros de confiabilidad de sitios (SRE), sino erosionando su capacidad de diagnóstico al delegar el troubleshooting a sistemas automatizados. El autor advierte que esto crea equipos más frágiles cuando la IA falla o aparece un incidente fuera de lo común. Por que leerlo: Te hace repensar cómo delegar tareas críticas a la IA sin perder el conocimiento técnico que sostiene tu negocio. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una sola falla en Azure permitió cinco compromisos completos entre distintos clientes en la nube</title>
+      <link>https://www.binarysecurity.no/posts/2026/10/one-root-case</link>
+      <guid isPermaLink="false">lalupa-lectura-295</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad de Binary Security identificaron una única falla raíz en la infraestructura de identidad de Microsoft Azure que, en distintos escenarios, permitió cinco compromisos completos entre inquilinos (tenants), rompiendo el aislamiento que se supone protege a cada cliente. El hallazgo generó fuerte debate en Hacker News (263 puntos, 53 comentarios) por la gravedad de exponer datos de un cliente a otro en un servicio usado por millones de empresas. Por que leerlo: Si usas o piensas usar la nube para tu negocio, entender esta falla te ayuda a dimensionar los riesgos reales del aislamiento entre clientes. (Hacker News, 8 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Ley de Rescate propone más impuestos a comisionistas y golpea inversiones en CDT</title>
+      <link>https://www.valoraanalitik.com/ley-de-rescate-comisionistas-inversiones/</link>
+      <guid isPermaLink="false">lalupa-lectura-296</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El proyecto de Ley de Rescate Económico impulsado por el gobierno colombiano plantea aumentar los impuestos a los comisionistas de bolsa y afectar el rendimiento de productos de inversión como los CDT. La iniciativa también abriría la puerta a que la Dian, los departamentos y municipios realicen titularizaciones de sus activos. Por que leerlo: Alerta sobre cambios tributarios que podrían reducir el rendimiento neto de inversiones comunes como los CDT. (Valora Analitik, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un chip fotonico minusculo conecta telescopios para observar el universo en detalle sorprendente</title>
+      <link>https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html</link>
+      <guid isPermaLink="false">lalupa-lectura-297</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de la Universidad Heriot-Watt desarrollaron un chip de vidrio que une dos telescopios para que funcionen como un solo instrumento mucho mas potente, marcando un paso clave hacia una nueva generacion de interferometria astronomica. La tecnologia podria abaratar la construccion de redes de telescopios que rivalicen con instrumentos gigantes. Por que leerlo: Muestra como una pieza de ingenieria pequena puede multiplicar la potencia de instrumentos cientificos costosos. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El material UTe2 muestra dos tipos de superconductividad bajo presion extrema</title>
+      <link>https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html</link>
+      <guid isPermaLink="false">lalupa-lectura-298</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores encontraron que el compuesto UTe2 exhibe dos 'sabores' distintos de superconductividad al ser sometido a presion extrema, un hallazgo clave en la busqueda de un superconductor topologico. Este tipo de material permitiria avances importantes en computacion cuantica al combinar fases superconductoras diferentes en un mismo sistema. Por que leerlo: Muestra un paso concreto hacia los materiales que podrian hacer viable la computacion cuantica a gran escala. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Hubble revela que los vientos estelares bloquearon, en vez de ayudar, la luz que disipo la niebla cosmica primitiva</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261029072113.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-299</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Nuevas observaciones del telescopio Hubble contradicen la teoria dominante sobre como el universo salio de una densa niebla de hidrogeno hace unos 13.000 millones de anos. Los cientificos creian que los vientos de estrellas en explosion ayudaban a que la radiacion escapara de las galaxias, pero los datos muestran que en realidad esos vientos bloquean la radiacion. Por que leerlo: Cambia una explicacion de libro de texto sobre como se ilumino el universo primitivo. (ScienceDaily, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Hallan en el Tibet hielo de 128.000 anos que podria reescribir la historia del clima</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261028232713.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-300</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Cientificos descubrieron hielo antiguo en las alturas del Tibet que podria tener mas de 128.000 anos, preservando un registro climatico que se creia perdido. El hallazgo ofrece una ventana rara a la ultima glaciacion y podria cambiar la comprension de como sobreviven los glaciares a cambios climaticos drasticos. Por que leerlo: Aporta evidencia directa sobre como el planeta respondio a cambios climaticos extremos en el pasado remoto. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Resuelven un misterio de 170 anos en un sistema estelar cercano que podria ocultar planetas habitables</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261028232711.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-301</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Astronomos descubrieron que un extrano bamboleo observado en un sistema de dos estrellas, ubicado a solo 16 anos luz de la Tierra, era causado por actividad estelar y no por un planeta gigante como se pensaba. Aunque se descartaron planetas del tamano de Jupiter en ciertas zonas, aun podrian existir mundos mas pequenos y potencialmente habitables por descubrir. Por que leerlo: Abre la posibilidad de encontrar planetas habitables en uno de los sistemas estelares mas cercanos al nuestro. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El dolor cronico de espalda se arraiga en la identidad personal del cerebro, segun estudio</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261028232706.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-302</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores de UC San Diego hallaron que el dolor lumbar cronico activa una red cerebral asociada con la autoconciencia y los recuerdos cuando es provocado por el movimiento, algo que no ocurre con el dolor agudo comun, que normalmente apaga esa red. El hallazgo podria explicar por que los tratamientos convencionales contra el dolor fallan en muchos pacientes. Por que leerlo: Ofrece una pista cientifica de por que el dolor cronico es tan dificil de tratar con analgesicos comunes. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Miles de 'estudiantes fantasma' usan IA para robar millones en prestamos estudiantiles en EE.UU.</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/</link>
+      <guid isPermaLink="false">lalupa-lectura-303</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El Departamento de Justicia de EE.UU. descubrio un esquema con miles de perfiles falsos, generados y operados con IA, que se inscribian en cursos en linea para cobrar ayudas federales tipo FAFSA. La investigacion ya ha expuesto a miles de 'estudiantes fantasma' que robaron millones de dolares del sistema de prestamos educativos. Por que leerlo: Revela una nueva forma de fraude automatizado con IA que vale la pena vigilar si se construyen sistemas que dependen de verificacion de identidad. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Starlink empieza a subir y bajar sus precios cada mes según la oferta y la demanda</title>
+      <link>https://www.xataka.com/servicios/starlink-lleva-al-limite-ley-oferta-demanda-ahora-sus-precios-pueden-subir-bajar-cada-mes</link>
+      <guid isPermaLink="false">lalupa-lectura-304</guid>
+      <pubDate>Sat, 31 Oct 2026 02:04:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Starlink ha comenzado a ajustar mensualmente los precios de sus planes según la oferta y la demanda en cada zona, acercándose a prácticas comerciales típicas de operadores de telecomunicaciones tradicionales. La medida llega mientras la compañía de Elon Musk gana cada vez más usuarios frente a los operadores europeos, que buscan unirse para hacerle frente en el mercado de conectividad satelital. Por que leerlo: Muestra cómo una empresa de infraestructura crítica usa precios dinámicos para capturar valor a medida que gana poder de mercado, una lección útil para cualquier negocio con capacidad limitada. (Xataka, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>El calentamiento global se acelera a un ritmo sin precedentes desde 2015</title>
       <link>https://www.sciencedaily.com/releases/2026/10/261027231200.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Thu, 29 Oct 2026 02:09:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>La startup de seguridad en la nube Upwind cerro una ronda Serie C de US$400 millones con una valoracion de US$3.800 millones, la misma cifra que le habian ofrecido por adquirirla. Los fundadores prefirieron capitalizar la empresa de forma independiente en lugar de aceptar la venta. Por que leerlo: Es una leccion concreta de cuando conviene levantar capital en vez de vender el negocio a la misma valoracion. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Cientificos logran controlar por primera vez el nucleo magnetico de un solo atomo</title>
-      <link>https://phys.org/news/2026-10-magnetic-core-atom.html</link>
-      <guid isPermaLink="false">lalupa-lectura-233</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores de la Universidad Tecnica de Delft usaron ondas de radio para manipular directamente el espin nuclear de un atomo individual, algo que los fisicos consideraban imposible hasta ahora. El hallazgo, publicado en una revista cientifica, abre posibilidades para almacenar y leer informacion cuantica con mayor precision. Por que leerlo: Rompe un supuesto de decadas en fisica y podria cambiar como se construye la memoria de las futuras computadoras cuanticas. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Mayo Clinic halla nuevas formas de combatir las celulas zombie que aceleran el envejecimiento</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261025073049.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-234</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Siete estudios de Mayo Clinic revelan por que las celulas senescentes persisten en el cuerpo y contribuyen a la inflamacion y enfermedades cronicas, e identifican nuevas estrategias para eliminarlas, incluido un compuesto natural presente en los tomates. En ratones de edad avanzada, tratamientos experimentales redujeron la inflamacion y mejoraron la funcion fisica y cerebral. Por que leerlo: Resume evidencia reciente y concreta sobre como combatir el envejecimiento celular, un tema con impacto directo en salud y longevidad. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un cambio oculto en el océano antártico podría tener consecuencias climáticas globales</title>
-      <link>https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/</link>
-      <guid isPermaLink="false">lalupa-lectura-235</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Las aguas cercanas a la Antártida se están volviendo más saladas a medida que la pérdida de hielo marino altera la circulación oceánica profunda. Los científicos advierten que este cambio podría reconfigurar patrones climáticos mucho más allá del polo sur. Por que leerlo: Explica un mecanismo climático poco conocido que podría afectar el clima global en los próximos años. (Ars Technica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El espionaje chino a cables submarinos del Pacífico amenaza la infraestructura de Google y Meta</title>
-      <link>https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/</link>
-      <guid isPermaLink="false">lalupa-lectura-236</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Cables submarinos de propiedad estadounidense que cruzan el Pacífico enfrentan crecientes riesgos de sabotaje y vigilancia por parte de China. Google y Meta figuran entre los operadores de big tech más expuestos a este riesgo de infraestructura crítica. Por que leerlo: Revela un riesgo geopolítico invisible pero real para la infraestructura que sostiene internet y los negocios digitales globales. (Ars Technica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>EE.UU. presta US$5.000 millones a plantas nucleares para alimentar centros de datos de IA</title>
-      <link>https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/</link>
-      <guid isPermaLink="false">lalupa-lectura-237</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El Departamento de Energía de EE.UU. otorgará US$5.000 millones en préstamos a Constellation Energy para modernizar reactores nucleares. Casi toda la nueva capacidad generada ya está comprometida con Google, Amazon y Meta. Por que leerlo: Muestra cómo el boom de la IA está canalizando financiamiento público masivo hacia la energía nuclear. (TechCrunch, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Amazon comprará la satelital Globalstar por US$11.570 millones para competir con Starlink</title>
-      <link>https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/</link>
-      <guid isPermaLink="false">lalupa-lectura-238</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Amazon anunció la compra de la compañía de satélites Globalstar por US$11.570 millones, un movimiento que busca reforzar su infraestructura de conectividad satelital frente al dominio de Starlink, de SpaceX. La operación consolida la carrera de las grandes tecnológicas por el espacio como nuevo campo de batalla en telecomunicaciones. Por que leerlo: Revela hacia dónde se mueve el dinero y la competencia en la industria satelital global, clave para entender el futuro de las telecomunicaciones. (Hacker News, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un espectrometro de resonancia magnetica aprende solo a optimizar sus mediciones con IA</title>
-      <link>https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html</link>
-      <guid isPermaLink="false">lalupa-lectura-239</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores de la Universidad de Aarhus lograron que un espectrometro de RMN use inteligencia artificial para aprender directamente de la muestra la mejor secuencia de pulsos, superando las limitaciones de las simulaciones tradicionales. Esto permite revelar detalles moleculares antes ocultos por senales demasiado debiles. Por que leerlo: Muestra un caso concreto de IA mejorando instrumentos cientificos mas alla de lo que permite la simulacion clasica. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Camara de electrones ultrarrapida capta saltos cuanticos en grafeno inducidos por luz</title>
-      <link>https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html</link>
-      <guid isPermaLink="false">lalupa-lectura-240</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Fisicos de Regensburg, Marburgo y Julich combinaron laseres de alta intensidad con microscopia electronica para filmar en camara lenta como campos electricos intensos fuerzan a los electrones del grafeno a saltar entre bandas de energia de forma aparentemente paradojica. La tecnica es una nueva combinacion entre tecnologia laser y microscopia electronica. Por que leerlo: Ofrece una ventana a la fisica cuantica que podria influir en el diseno de futuros chips ultrarrapidos. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Medicamentos comunes contra la artritis podrian facilitar la propagacion de virus peligrosos</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261026225606.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-241</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio encontro que los inhibidores de JAK, recetados para artritis reumatoide y otras enfermedades inflamatorias, debilitan una defensa inmune clave contra la influenza, el COVID-19 y otras infecciones al suprimir genes antivirales. El efecto no se habia documentado con claridad antes. Por que leerlo: Es un dato practico para quien toma o prescribe estos farmacos y quiere entender un riesgo poco conocido. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Delaware evalúa permitir que agentes de IA dirijan empresas enteras sin supervisión humana</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</link>
-      <guid isPermaLink="false">lalupa-lectura-242</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Una propuesta legislativa en Delaware permitiría constituir empresas operadas íntegramente por agentes de inteligencia artificial. El congresista estadounidense Comer advierte que esto podría dejar sin responsabilidad legal a los dueños cuando la IA actúe de forma imprudente. Por que leerlo: Muestra hacia dónde podría avanzar la regulación de negocios autónomos basados en IA, algo clave para quien construye productos con esta tecnología. (Ars Technica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nvidia lanza un modelo gratuito de transcripción de voz en 40 idiomas</title>
-      <link>https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</link>
-      <guid isPermaLink="false">lalupa-lectura-243</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Nvidia publicó un modelo abierto de voz a texto capaz de transcribir grabaciones en hasta 40 idiomas, orientado a reuniones y transcripción médica. Por ahora no procesa audio en vivo, a diferencia de rivales como ElevenLabs. Por que leerlo: Es una herramienta gratuita y lista para usar en proyectos propios de inteligencia artificial aplicada. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Jio debuta en bolsa y se convierte en la segunda empresa más valiosa de India</title>
-      <link>https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/</link>
-      <guid isPermaLink="false">lalupa-lectura-244</guid>
-      <pubDate>Wed, 28 Oct 2026 17:02:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Las acciones de Jio subieron 21% en su primer día de cotización tras una de las IPO más grandes de India. La compañía quedó como la segunda empresa listada más valiosa del país, solo detrás de su matriz Reliance Industries. Por que leerlo: Es un caso de referencia sobre cómo un gigante de telecomunicaciones se convierte en potencia bursátil en un mercado emergente. (TechCrunch, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

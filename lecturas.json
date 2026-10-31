@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-30"
+    "ultima_actualizacion": "2026-10-31"
   },
   "lecturas": [
+    {
+      "id": 293,
+      "titulo": "El primer satelite centro de datos de Google ya esta en linea y escribe poesia",
+      "resumen": "Google puso en orbita su primer satelite equipado con una TPU que ejecuta el modelo Gemma 4 de DeepMind, logrando el primer centro de datos operativo en el espacio. El sistema ya genera texto, incluida poesia, como prueba de concepto de computacion orbital.",
+      "por_que_leerlo": "Muestra el primer paso real hacia centros de datos en orbita, una frontera que podria redefinir donde se procesa la inteligencia artificial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computacion espacial",
+        "inteligencia artificial",
+        "satelites",
+        "centros de datos"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 294,
+      "titulo": "La automatización con IA está erosionando las habilidades de los ingenieros SRE",
+      "resumen": "Un análisis muy discutido en Hacker News (506 puntos, 380 comentarios) sostiene que las herramientas de IA en operaciones de TI no están sustituyendo a los ingenieros de confiabilidad de sitios (SRE), sino erosionando su capacidad de diagnóstico al delegar el troubleshooting a sistemas automatizados. El autor advierte que esto crea equipos más frágiles cuando la IA falla o aparece un incidente fuera de lo común.",
+      "por_que_leerlo": "Te hace repensar cómo delegar tareas críticas a la IA sin perder el conocimiento técnico que sostiene tu negocio.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "trabajo",
+        "automatizacion",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 295,
+      "titulo": "Una sola falla en Azure permitió cinco compromisos completos entre distintos clientes en la nube",
+      "resumen": "Investigadores de seguridad de Binary Security identificaron una única falla raíz en la infraestructura de identidad de Microsoft Azure que, en distintos escenarios, permitió cinco compromisos completos entre inquilinos (tenants), rompiendo el aislamiento que se supone protege a cada cliente. El hallazgo generó fuerte debate en Hacker News (263 puntos, 53 comentarios) por la gravedad de exponer datos de un cliente a otro en un servicio usado por millones de empresas.",
+      "por_que_leerlo": "Si usas o piensas usar la nube para tu negocio, entender esta falla te ayuda a dimensionar los riesgos reales del aislamiento entre clientes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "nube",
+        "azure",
+        "vulnerabilidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 8,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 296,
+      "titulo": "Ley de Rescate propone más impuestos a comisionistas y golpea inversiones en CDT",
+      "resumen": "El proyecto de Ley de Rescate Económico impulsado por el gobierno colombiano plantea aumentar los impuestos a los comisionistas de bolsa y afectar el rendimiento de productos de inversión como los CDT. La iniciativa también abriría la puerta a que la Dian, los departamentos y municipios realicen titularizaciones de sus activos.",
+      "por_que_leerlo": "Alerta sobre cambios tributarios que podrían reducir el rendimiento neto de inversiones comunes como los CDT.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "impuestos",
+        "inversion",
+        "cdt",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-comisionistas-inversiones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 297,
+      "titulo": "Un chip fotonico minusculo conecta telescopios para observar el universo en detalle sorprendente",
+      "resumen": "Investigadores de la Universidad Heriot-Watt desarrollaron un chip de vidrio que une dos telescopios para que funcionen como un solo instrumento mucho mas potente, marcando un paso clave hacia una nueva generacion de interferometria astronomica. La tecnologia podria abaratar la construccion de redes de telescopios que rivalicen con instrumentos gigantes.",
+      "por_que_leerlo": "Muestra como una pieza de ingenieria pequena puede multiplicar la potencia de instrumentos cientificos costosos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "astronomia",
+        "fotonica",
+        "ingenieria",
+        "telescopios"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 298,
+      "titulo": "El material UTe2 muestra dos tipos de superconductividad bajo presion extrema",
+      "resumen": "Investigadores encontraron que el compuesto UTe2 exhibe dos 'sabores' distintos de superconductividad al ser sometido a presion extrema, un hallazgo clave en la busqueda de un superconductor topologico. Este tipo de material permitiria avances importantes en computacion cuantica al combinar fases superconductoras diferentes en un mismo sistema.",
+      "por_que_leerlo": "Muestra un paso concreto hacia los materiales que podrian hacer viable la computacion cuantica a gran escala.",
+      "seccion": "ciencia",
+      "tags": [
+        "superconductividad",
+        "computacion cuantica",
+        "fisica",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 299,
+      "titulo": "Hubble revela que los vientos estelares bloquearon, en vez de ayudar, la luz que disipo la niebla cosmica primitiva",
+      "resumen": "Nuevas observaciones del telescopio Hubble contradicen la teoria dominante sobre como el universo salio de una densa niebla de hidrogeno hace unos 13.000 millones de anos. Los cientificos creian que los vientos de estrellas en explosion ayudaban a que la radiacion escapara de las galaxias, pero los datos muestran que en realidad esos vientos bloquean la radiacion.",
+      "por_que_leerlo": "Cambia una explicacion de libro de texto sobre como se ilumino el universo primitivo.",
+      "seccion": "ciencia",
+      "tags": [
+        "astrofisica",
+        "hubble",
+        "universo temprano",
+        "cosmologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 300,
+      "titulo": "Hallan en el Tibet hielo de 128.000 anos que podria reescribir la historia del clima",
+      "resumen": "Cientificos descubrieron hielo antiguo en las alturas del Tibet que podria tener mas de 128.000 anos, preservando un registro climatico que se creia perdido. El hallazgo ofrece una ventana rara a la ultima glaciacion y podria cambiar la comprension de como sobreviven los glaciares a cambios climaticos drasticos.",
+      "por_que_leerlo": "Aporta evidencia directa sobre como el planeta respondio a cambios climaticos extremos en el pasado remoto.",
+      "seccion": "ciencia",
+      "tags": [
+        "clima",
+        "glaciares",
+        "paleoclimatologia",
+        "tibet"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 301,
+      "titulo": "Resuelven un misterio de 170 anos en un sistema estelar cercano que podria ocultar planetas habitables",
+      "resumen": "Astronomos descubrieron que un extrano bamboleo observado en un sistema de dos estrellas, ubicado a solo 16 anos luz de la Tierra, era causado por actividad estelar y no por un planeta gigante como se pensaba. Aunque se descartaron planetas del tamano de Jupiter en ciertas zonas, aun podrian existir mundos mas pequenos y potencialmente habitables por descubrir.",
+      "por_que_leerlo": "Abre la posibilidad de encontrar planetas habitables en uno de los sistemas estelares mas cercanos al nuestro.",
+      "seccion": "ciencia",
+      "tags": [
+        "exoplanetas",
+        "astronomia",
+        "sistemas estelares",
+        "habitabilidad"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 302,
+      "titulo": "El dolor cronico de espalda se arraiga en la identidad personal del cerebro, segun estudio",
+      "resumen": "Investigadores de UC San Diego hallaron que el dolor lumbar cronico activa una red cerebral asociada con la autoconciencia y los recuerdos cuando es provocado por el movimiento, algo que no ocurre con el dolor agudo comun, que normalmente apaga esa red. El hallazgo podria explicar por que los tratamientos convencionales contra el dolor fallan en muchos pacientes.",
+      "por_que_leerlo": "Ofrece una pista cientifica de por que el dolor cronico es tan dificil de tratar con analgesicos comunes.",
+      "seccion": "ciencia",
+      "tags": [
+        "neurociencia",
+        "dolor cronico",
+        "medicina",
+        "cerebro"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-29",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 303,
+      "titulo": "Miles de 'estudiantes fantasma' usan IA para robar millones en prestamos estudiantiles en EE.UU.",
+      "resumen": "El Departamento de Justicia de EE.UU. descubrio un esquema con miles de perfiles falsos, generados y operados con IA, que se inscribian en cursos en linea para cobrar ayudas federales tipo FAFSA. La investigacion ya ha expuesto a miles de 'estudiantes fantasma' que robaron millones de dolares del sistema de prestamos educativos.",
+      "por_que_leerlo": "Revela una nueva forma de fraude automatizado con IA que vale la pena vigilar si se construyen sistemas que dependen de verificacion de identidad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fraude",
+        "inteligencia artificial",
+        "seguridad",
+        "educacion"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
+    {
+      "id": 304,
+      "titulo": "Starlink empieza a subir y bajar sus precios cada mes según la oferta y la demanda",
+      "resumen": "Starlink ha comenzado a ajustar mensualmente los precios de sus planes según la oferta y la demanda en cada zona, acercándose a prácticas comerciales típicas de operadores de telecomunicaciones tradicionales. La medida llega mientras la compañía de Elon Musk gana cada vez más usuarios frente a los operadores europeos, que buscan unirse para hacerle frente en el mercado de conectividad satelital.",
+      "por_que_leerlo": "Muestra cómo una empresa de infraestructura crítica usa precios dinámicos para capturar valor a medida que gana poder de mercado, una lección útil para cualquier negocio con capacidad limitada.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "starlink",
+        "telecomunicaciones",
+        "precios",
+        "mercado"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/servicios/starlink-lleva-al-limite-ley-oferta-demanda-ahora-sus-precios-pueden-subir-bajar-cada-mes"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-10-31 02:04",
+      "auto_generated": true
+    },
     {
       "id": 281,
       "titulo": "El calentamiento global se acelera a un ritmo sin precedentes desde 2015",
