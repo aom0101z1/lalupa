@@ -221,6 +221,265 @@
   ],
   "casos": [
     {
+      "id": 2479,
+      "titulo": "Gobierno impulsa empresas colombianas mediante inteligencia artificial",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "El Gobierno Nacional anunció una estrategia para impulsar la productividad y el crecimiento de sectores económicos mediante el fortalecimiento de habilidades de los trabajadores en el uso de herramientas de inteligencia artificial, buscando mejorar la competitividad de las empresas colombianas.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/gobierno-buscan-impulsar-empresas-colombianas-mediante-ia",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2478,
+      "titulo": "Militarización de Cúcuta tras asesinato de precandidato y atentado con carro bomba",
+      "categoria": "seguridad",
+      "fecha": "2026-10-30",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó el despliegue de 500 soldados de operaciones especiales urbanas en Cúcuta desde el 29 de octubre de 2026, tras el asesinato de un precandidato a la Alcaldía y un atentado con carro bomba. El operativo incluye vehículos blindados, controles en sectores críticos, requisas, operaciones conjuntas con la Policía y apoyo de la Fuerza Aérea para recuperar el control territorial.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cucuta-militarizacion-500-soldados-asesinato-precandidato-alcaldia-atentado-carro-bomba-EH43004044",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Ejército Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2477,
+      "titulo": "Juvenal Infante se posesiona como embajador de Colombia ante China",
+      "categoria": "internacional",
+      "fecha": "2026-10-30",
+      "descripcion": "Juvenal Infante se posesionó como nuevo embajador de Colombia ante China en un acto realizado en el Palacio de San Carlos, bajo el liderazgo de la vicecanciller Adela Maestre, como parte de la conformación del cuerpo diplomático del gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/juvenal-infante-se-posesiono-como-embajador-de-colombia-ante-china-sera-el-representante-del-gobierno-de-la-espriella-3597566",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Juvenal Infante",
+        "Adela Maestre"
+      ],
+      "entidad": "Cancillería de Colombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2476,
+      "titulo": "Bolsa de Colombia registra alza de 20% entre enero y septiembre de 2026",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "La Bolsa de Valores de Colombia acumuló una ganancia del 20% entre enero y septiembre de 2026, posicionándose como el segundo mercado de mayor valorización en la región, impulsada por el desempeño de acciones como ETB, Ecopetrol y Grupo Sura.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/bolsa-de-colombia-gana-20-entre-enero-y-septiembre-es-el-segundo-mercado-de-mayor-valorizacion-en-la-region/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Bolsa de Valores de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2475,
+      "titulo": "Indicios de corrupción e irregularidades en Afinia durante la era de Daniel Quintero",
+      "categoria": "contratos",
+      "fecha": "2026-10-31",
+      "descripcion": "Una investigación revela indicios de presunta corrupción e irregularidades en la empresa de energía Afinia durante el periodo en que Daniel Quintero, exalcalde de Medellín y figura cercana a sectores del gobierno Petro, tuvo incidencia sobre la entidad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/exclusivo-los-indicios-de-presunta-corrupcion-e-irregularidades-en-afinia-en-la-era-de-daniel-quintero/202653/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "Afinia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43"
+    },
+    {
+      "id": 2474,
+      "titulo": "Congreso envía cuestionario de 40 preguntas a Ecopetrol sobre utilidades y reservas",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-10-31",
+      "descripcion": "El Congreso de la República formuló un cuestionario de 40 preguntas a Ecopetrol para evaluar sus utilidades, reservas y estado financiero, en medio de las investigaciones sobre presunto ocultamiento de recursos vinculado a Ricardo Roa y otros empresarios.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/cuestionario-de-40-preguntas-a-ecopetrol-congreso-evalua-utilidades-reservas-y-finanzas/202645/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol / Congreso de la República",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43"
+    },
+    {
+      "id": 2473,
+      "titulo": "Deicy Jiménez entregará pruebas contra Gustavo Petro a la Corte Suprema",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-31",
+      "descripcion": "Deicy Jiménez, testigo vinculada al caso de financiación de la campaña presidencial de Gustavo Petro, anunció que entregará pruebas a la Corte Suprema de Justicia y a la Fiscalía General de la Nación en el marco de las investigaciones en curso contra el expresidente.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/caso-gustavo-petro-deicy-jimenez-entregara-pruebas-a-la-corte-suprema-y-fiscalia/202649/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Corte Suprema de Justicia / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43"
+    },
+    {
+      "id": 2472,
+      "titulo": "Eva Ferrer ratifica en EE.UU. denuncias contra Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-31",
+      "descripcion": "Eva Ferrer realizó una gira a Estados Unidos donde se ratificó en sus denuncias contra Verónica Alcocer, esposa del expresidente Gustavo Petro, en medio de investigaciones sobre presuntas irregularidades vinculadas al entorno presidencial.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/la-gira-de-eva-ferrer-a-estados-unidos-donde-se-ratifico-en-sus-denuncias-contra-veronica-alcocer/202648/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43"
+    },
+    {
+      "id": 2471,
+      "titulo": "Cali presenta hoja de ruta de $24 billones para su reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-10-30",
+      "descripcion": "La administración de Cali presentó una hoja de ruta de reconstrucción tras el terremoto con un costo estimado de $24 billones, que contempla inversión en infraestructura, vivienda y servicios para la recuperación de la ciudad y el Valle del Cauca.",
+      "evidencia": "Reportado por CW+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "CW+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3pMTDh5T0tfUmJDVHlpRkZjdWNhcWxnYWJqZ0Q1c1JHTWtrckxzUXgxTFRSNzhlc2ZuY1E5S2xjdmNkVExqYUhWRXZqQTN6dzJNQ2tFVEtZaUE3azBTcV9SSGZ4NEIzLV9vWWxVaEk2QldVc0VZZ3JheTlGOGZBZ3M2MXNuTktYeTZYOWVEcnRYcVJnbURN?oc=5",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
+      "id": 2470,
+      "titulo": "Gobierno plantea fusión de ministerios y recorte del Estado en la Ley de Rescate Económico",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "El Gobierno de Abelardo de la Espriella presentó dentro de la Ley de Rescate Económico un plan para fusionar ministerios y reestructurar la Rama Ejecutiva, buscando reducir el tamaño del Estado y estabilizar las finanzas públicas como parte del ajuste fiscal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/de-que-trata-el-plan-del-gobierno-de-la-espriella-para-fusionar-ministerios-y-recortar-el-tamano-del-estado-en-la-ley-de-rescate-economico-3597404",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2469,
+      "titulo": "Investigación disciplinaria contra Julián Caicedo, pareja de Ricardo Roa",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-10-31",
+      "descripcion": "Se revisa el estado de la investigación disciplinaria abierta contra Julián Caicedo, pareja del expresidente de Ecopetrol Ricardo Roa, en el marco de los cuestionamientos sobre posibles conflictos de interés y beneficios derivados de la relación con el exdirectivo durante su gestión en la petrolera estatal.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/que-paso-con-la-investigacion-disciplinaria-contra-julian-caicedo-pareja-de-ricardo-roa-expresidente-de-ecopetrol/202649/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Julián Caicedo",
+        "Ricardo Roa"
+      ],
+      "entidad": "Procuraduría General de la Nación / Ecopetrol",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 11:43"
+    },
+    {
       "id": 2468,
       "titulo": "FAO alerta sobre inseguridad alimentaria en 2027 ligada al terremoto y El Niño",
       "categoria": "damnificados",
@@ -57636,7 +57895,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-31",
-    "total_casos": 2379,
+    "total_casos": 2390,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
