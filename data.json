@@ -221,6 +221,370 @@
   ],
   "casos": [
     {
+      "id": 2468,
+      "titulo": "FAO alerta sobre inseguridad alimentaria en 2027 ligada al terremoto y El Niño",
+      "categoria": "damnificados",
+      "fecha": "2026-10-30",
+      "descripcion": "La FAO advirtió que cerca del 15% de la población colombiana estará expuesta a algún grado de inseguridad alimentaria en 2027, debido a los efectos combinados del fenómeno de El Niño y las secuelas del terremoto del 10 de agosto de 2026, según declaraciones de Agustín Zimmerman, representante de la FAO en Colombia, el 31 de octubre de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/fao-el-15-de-los-colombianos-sufrira-inseguridad-alimentaria-en-2027-por-el-nino/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Agustín Zimmerman"
+      ],
+      "entidad": "FAO",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2467,
+      "titulo": "Ley de Rescate eliminaría exenciones de renta a magistrados, jueces y profesores universitarios",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "La Ley de Rescate Fiscal presentada por el Gobierno De la Espriella propone eliminar las exenciones de impuesto de renta de las que gozan magistrados, jueces y profesores universitarios, sometiendo estos ingresos a las reglas generales de depuración de renta aplicables al resto de contribuyentes.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-eliminaria-exenciones-de-renta-a-magistrados-jueces-y-profesores-universitarios/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2466,
+      "titulo": "Ley de Rescate Fiscal gravaría comisionistas e inversiones en CDT",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "Entre las medidas de la Ley de Rescate Fiscal del Gobierno De la Espriella se incluye un aumento de impuestos a comisionistas de bolsa y un golpe a inversiones en CDT y otros productos financieros. La propuesta también habilitaría a la DIAN, departamentos y municipios para realizar titularizaciones de cartera como mecanismo de financiamiento.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ley-de-rescate-comisionistas-inversiones/",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2465,
+      "titulo": "Angelamaría Sánchez Acosta nombrada presidenta de Previsora Seguros",
+      "categoria": "gabinete",
+      "fecha": "2026-10-31",
+      "descripcion": "Angelamaría Sánchez Acosta fue elegida como nueva presidenta de Previsora Seguros, compañía de seguros vinculada al Ministerio de Hacienda y Crédito Público, en la que la Nación tiene participación mayoritaria.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/previsora-seguros-eligio-a-angelamaria-sanchez-acosta-como-nueva-presidenta/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Angelamaría Sánchez Acosta"
+      ],
+      "entidad": "Previsora Seguros / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2464,
+      "titulo": "Gobierno anuncia $100.000 millones para obras complementarias en Bocas de Ceniza, Barranquilla",
+      "categoria": "obras",
+      "fecha": "2026-10-31",
+      "descripcion": "El Gobierno Nacional anunció una inversión de $100.000 millones para obras complementarias en el proyecto Bocas de Ceniza, en Barranquilla. Según estimaciones de los responsables del proyecto, las obras generarían más de 1.500 puestos de trabajo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-nacional-anuncia-100-000-millones-para-obras-complementarias-en-bocas-de-ceniza-barranquilla/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Invías",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2463,
+      "titulo": "Gobierno mantiene estables precios de gasolina y ACPM para noviembre",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "El Gobierno Nacional anunció que el precio promedio de la gasolina para noviembre se mantiene en $15.886 y el del diésel (Acpm) en $11.320, sin variaciones respecto al mes anterior, como medida de estabilidad en los precios de los combustibles.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-que-mantiene-estables-los-precios-de-la-gasolina-y-acpm-4515626",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2462,
+      "titulo": "Gobierno lanza hoja de ruta turística 10-20-30",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "El viceministro de Turismo, Julián Franco Restrepo, presentó en el 32º Congreso de Cotelco la estrategia 'Hoja de ruta 10-20-30', que busca alcanzar diez millones de turistas y US$20.000 millones en divisas por turismo para el año 2030, como parte de la política de reactivación del sector bajo el Gobierno De la Espriella.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/hoja-de-ruta-10-20-30-gobierno-apuesta-por-diez-millones-de-turistas-y-us-20-000-millones-en-divisas-a-505468",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Julián Franco Restrepo"
+      ],
+      "entidad": "Ministerio de Comercio, Industria y Turismo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2461,
+      "titulo": "Miguel Quintero enviado a prisión por contratos irregulares en el Área Metropolitana",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-30",
+      "descripcion": "La justicia penal de Medellín revocó las medidas previas y ordenó privar de la libertad en prisión a Miguel Andrés Quintero Calle, procesado por presuntas presiones e injerencias sobre la contratación pública y la nómina del Área Metropolitana del Valle de Aburrá entre 2020 y 2021, relacionadas con contratos por más de $18.600 millones.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/carcel-para-miguel-quintero-por-contratos-de-mas-de-18600-millones",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Andrés Quintero Calle"
+      ],
+      "entidad": "Área Metropolitana del Valle de Aburrá / Rama Judicial",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03"
+    },
+    {
+      "id": 2460,
+      "titulo": "Ley de Rescate Fiscal propone subir IVA a medicina prepagada",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "La propuesta de Ley de Rescate Fiscal del Gobierno De la Espriella incluye el aumento del IVA a los planes de medicina prepagada, un servicio cuyas afiliaciones crecieron 35% en los últimos cuatro años entre la clase media que buscó complementar el sistema de salud. La medida generaría un mayor costo para estas familias que destinan parte de sus ingresos a este rubro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/aumento-iva-medicinas-prepagadas-ley-rescate-fiscal-consecuencias-FH42989480",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2459,
+      "titulo": "Gobierno asegura que la Ley de Rescate no aumentará el IVA de la canasta básica",
+      "categoria": "economia",
+      "fecha": "2026-10-30",
+      "descripcion": "El Gobierno de Abelardo de la Espriella aseguró que la Ley de Rescate radicada en el Congreso no contempla un aumento del IVA para la canasta básica, afirmando que esta discusión está excluida del proyecto, en respuesta a cuestionamientos sobre el alcance de la reforma tributaria.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQODFYSDlhU09nMDZmMWxNNFF3RTQxdEpadkdoeHozc2hta2QyODVwM1p2S082NHlMdTFwVjZTUVFKQ0ZEVGw5U2xDRHZKSnZjM2xOSVVqdldkRFNvVk55TGVrMWxIT0RyUHdqQW9iX1BPcWFRbDFNV0VuWU52dUJlNFA0RkQ4YmZEcjR5X1cxUDVWcDAxYTNXc0ZWMjl5Nm5pc2x3by1NV3J5YVhpa0VFS0ZmVzItZDZrb1RKSjZYRktDbzBrUi1NSXZldnh1amI0T2NWSW16UmFLU2VoUHV6N3hyWW5XY0R6TDdiUDhOMnpWd3hQaHJGZ0JNUFgtVEd1ZlJIRDBnX0NwTjd4cEs1dkZoSm1UeEp5UHRacVBVTHJ5NHBkQmV2SGN30gHEAkFVX3lxTE9rTmwtLUJOWWdTMUVGWThkbUw5MEotbVltUXBkUmY4OUMzVTVkOERYV0I4NWpWN3NVNDFWYW5zaDVYbENtRzBuS2FjNzZSdlcyS3JBc21kRVNGTUhiV2NKV19tV1NPU01DcFN0RXduVnRxVDhNLTRyQkZIWklCek1OMXQ5M3J4emhaUHB5ZlNreVd4LWRsc0V3OFJVZmk5U1VxUjVRRVJDUklDSm94OUFORjBlQ2Uxb2c0aXlQWkhEUl9ObGl1bDIyd2RMdjNjRncyVGptVVY5eUF6eS1rWmhRZ0lrTlVOcFhlTkU5a09ZS2pfb3cxOEhjaHR2V1hGRjR5UGlxZ1BSaXNraE1IU3NnUWNQTUEzMFlLcXl0NXNRLVV1SVI4aEdIb1dJZklIa01ELXBYVUtIX3hMaFdUS1AyaDRSSA?oc=5",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2458,
+      "titulo": "Gobierno propone más IVA al café y reducción de impuestos a empresas en el ajuste fiscal",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "Como parte del ajuste fiscal presentado por el Gobierno de De la Espriella, se propone aumentar el IVA aplicable al café junto con una reducción del impuesto de renta a las empresas, dentro del paquete de medidas de la Ley de Rescate Económico.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTVU1a1kyRklCdDM2V0cyb2JESTBLUFNXcDE1RVdxdV9Pa0p4VHFDYXN0ZkZEck5NSFlrX205RDYxSE9KSUtKV0x5SmJRZ0M5amUxaDN5TWdObGR2VS1EN0hGZ1RNUHFTeDQ0MXhxWlVkQmYwUWVfTmQ4NnhvR1V0WDZZRHlnNXRBZG90NVhtQVFDQ2xqQ0UtTHZOV0Riel8zWV8yazlnMzhwRnUwZUsxemJEMEoyVVNBeVhmWmFOM1Z2YjYtdVBsajlWaVFiVkJXSzRtZkhQLTA4bjVVbkZEY0NRdHlKUnJxdHpxSFBpWWR3bTJsZ3l1Q1lLd3pzZ2JCQ2c?oc=5",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2457,
+      "titulo": "Nueva tanda de extradiciones por red narcotraficante en Cali, Jamundí, Buenaventura y Santander de Quilichao",
+      "categoria": "seguridad",
+      "fecha": "2026-10-30",
+      "descripcion": "El Gobierno Nacional extraditó a cinco presuntos integrantes de una red narcotraficante que operaba en Cali, Jamundí, Buenaventura y Santander de Quilichao. La mayoría de los procesados enfrentará juicio en Estados Unidos por delitos relacionados con narcotráfico.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/las-imagenes-de-la-nueva-tanta-de-extradiciones-del-gobierno-la-mayoria-enfrentara-un-juicio-en-estados-unidos-3597512",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2456,
+      "titulo": "Regreso de Thomas Greg & Sons a la operación de pasaportes genera frente jurídico y diplomático",
+      "categoria": "contratos",
+      "fecha": "2026-10-30",
+      "descripcion": "El Gobierno gestionó el regreso de Thomas Greg & Sons a la operación de los pasaportes colombianos mediante una declaratoria de urgencia manifiesta, tras la suspensión judicial del modelo implementado durante el gobierno Petro. La cláusula contractual contempla su terminación si un tribunal levanta dicha suspensión, lo que abre la posibilidad de una demanda de Portugal, país vinculado al operador anterior.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/asi-se-gesto-el-regreso-de-thomas-greg-sons-a-la-operacion-de-los-pasaportes-se-viene-demanda-de-portugal-3597655",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancillería de Colombia / Thomas Greg & Sons",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03"
+    },
+    {
+      "id": 2455,
+      "titulo": "Procuraduría revisa atención a damnificados del terremoto",
+      "categoria": "control",
+      "fecha": "2026-10-31",
+      "descripcion": "La Procuraduría General de la Nación adelanta una revisión sobre la atención que se ha brindado a los damnificados del terremoto del 10 de agosto de 2026, en seguimiento al manejo de la emergencia por parte de las entidades responsables a nivel nacional y territorial.",
+      "evidencia": "Reportado por El Norte Hoy",
+      "fuentes": [
+        {
+          "nombre": "El Norte Hoy",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0tPVUU2cTJER204TkRWdzZ3dHkxTVRIbXV1RmxuQThqNmhlN1FmNTUwTFl5UFdfNzBqam1PZnlWMWhiRWNST0kyWDdLYjZxS1AwUE9NV1JmcXZFbl81ZVJmSVJ3eTlsVElyWFdCejIxU2QwR3pKVVFraUlnQlZBal9KaVR2RWxtcEFzamhYZVJkcU9wMmxhbg?oc=5",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2454,
+      "titulo": "Captura de Miguel Quintero, hermano del exalcalde de Medellín, por direccionamiento irregular de contratos",
+      "categoria": "contratos",
+      "fecha": "2026-10-30",
+      "descripcion": "Miguel Quintero, hermano del exalcalde de Medellín Daniel Quintero, fue capturado tras revocársele la prisión domiciliaria y trasladado en avión de la Policía a la cárcel de máxima seguridad de Cómbita. La Fiscalía lo señala como cabeza de un entramado de corrupción relacionado con direccionamiento irregular de contratos en Medellín. El presidente De la Espriella reaccionó públicamente a la captura.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/miguel-quintero-ya-fue-capturado-y-es-enviado-en-avion-de-la-policia-a-la-carcel-de-maxima-seguridad-de-combita-3597614",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Quintero",
+        "Daniel Quintero"
+      ],
+      "entidad": "Fiscalía General de la Nación / Alcaldía de Medellín",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03"
+    },
+    {
+      "id": 2453,
+      "titulo": "Gobierno de De la Espriella termina contrato de 36 años con Fiduprevisora para el Fomag",
+      "categoria": "transparencia",
+      "fecha": "2026-10-31",
+      "descripcion": "El gobierno de Abelardo de la Espriella decidió no renovar el contrato fiduciario que Fiduprevisora mantenía desde hace 36 años para administrar los recursos de salud de los maestros a través del Fondo de Prestaciones Sociales del Magisterio (Fomag). Se iniciará una etapa de transición de un año para garantizar la continuidad de los servicios de salud y el pago de prestaciones a los docentes mientras se define un nuevo operador.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-no-renovara-fomag-con-fiduprevisora/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiduprevisora / Fomag / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 04:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2452,
       "titulo": "Captura de alias 'Kebin', operador de cocaína de la Segunda Marquetalia hacia EE.UU.",
       "categoria": "seguridad",
@@ -57271,8 +57635,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-30",
-    "total_casos": 2363,
+    "ultima_actualizacion": "2026-10-31",
+    "total_casos": 2379,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
