@@ -221,6 +221,186 @@
   ],
   "casos": [
     {
+      "id": 2498,
+      "titulo": "Dian y Minhacienda preparan cambios normativos contra evasión y contrabando",
+      "categoria": "transparencia",
+      "fecha": "2026-10-31",
+      "descripcion": "La DIAN y el Ministerio de Hacienda anunciaron que alistan cambios normativos para combatir la evasión fiscal y el contrabando, en respuesta a nuevas modalidades de delitos transnacionales, cibercriminalidad y estructuras delictivas que afectan el recaudo tributario del país.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/dian-y-minhacienda-alistan-cambios-normativos-para-combatir-la-evasion-y-el-contrabando-4515816",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2497,
+      "titulo": "De la Espriella asigna siete países a embajadores de carrera",
+      "categoria": "gabinete",
+      "fecha": "2026-10-31",
+      "descripcion": "El presidente Abelardo de la Espriella anunció que siete países (Dinamarca, Egipto, Filipinas, Finlandia, Vietnam, Alemania y Canadá) tendrán jefes de misión diplomática designados mediante carrera, de los cuales cinco cargos ya estaban ocupados. Se abrirá una convocatoria interna para Dinamarca, Egipto, Filipinas, Finlandia y Vietnam, mientras que para Alemania y Canadá hay trámites en curso. La medida se enmarca en la política de nombramientos diplomáticos del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-asignara-siete-paises-a-embajadores-carrera-cinco-ya-eran-ocupados-3597705",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cancillería de Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2496,
+      "titulo": "DIAN reporta incautaciones por más de $151.000 millones y anuncia medidas contra evasión y contrabando",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "La DIAN reportó incautaciones superiores a $151.000 millones durante la actual administración y anunció nuevas medidas para combatir la evasión fiscal y el contrabando en el país.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dian-reporto-incautaciones-por-mas-de-151000-millones-y-anuncio-nuevas-medidas-para-combatir-evasion-y-contrabando/202646/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2495,
+      "titulo": "Ley de Rescate gravaría con 19% de IVA boletas de fútbol y conciertos",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "La Ley de Rescate Económico del Gobierno de De la Espriella plantea aplicar una tarifa de IVA del 19% a boletas de partidos de fútbol, conciertos, teatro y festivales a partir de 2028, si el Congreso la aprueba sin modificaciones.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/10/31/comprar-boletas-para-partidos-de-futbol-y-conciertos-podria-ser-mas-caro-con-la-ley-de-rescate-economico-del-gobierno-de-de-la-espriella/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2494,
+      "titulo": "Denuncia sobre reuniones en casas ocultas durante gobierno Petro con asistencia de mujeres",
+      "categoria": "mentiras",
+      "fecha": "2026-10-31",
+      "descripcion": "El Tiempo reveló que durante el gobierno de Gustavo Petro se habrían utilizado casas ocultas para reuniones privadas a las que asistían mujeres. El abogado del expresidente desmintió la versión, afirmando que los encuentros respondían a temas de seguridad.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/reuniones-en-casas-fueron-por-temas-de-seguridad-dijo-abogado-de-petro/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00"
+    },
+    {
+      "id": 2493,
+      "titulo": "Ley de Rescate Fiscal encarecería alimentos y bebidas desde 2028",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "Según el Dane, la Ley de Rescate Fiscal del Gobierno de De la Espriella incluye gravámenes que encarecerían ciertos alimentos y bebidas, con tarifas que regirían a partir de 2028, en medio de alzas inflacionarias ya registradas en ese rubro.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/estos-son-los-alimentos-y-bebidas-que-podrian-encarecerse-con-la-ley-de-rescate-fiscal-que-presento-el-gobierno-505508",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2492,
+      "titulo": "Fracaso de intervención de Coosalud ordenada por Petro revela presunto mal uso de tarjetas",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-31",
+      "descripcion": "Tribunales revirtieron la intervención ordenada por el gobierno Petro sobre la EPS Coosalud (3,3 millones de afiliados), que regresa a sus antiguos dueños. Reportes previos señalan que durante la intervención se habrían gastado hasta $60 millones en efectivo y en prostíbulos con tarjetas de la entidad intervenida, sumándose a los casos fallidos de Sanitas y Savia Salud bajo el mismo esquema.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/intervencion-de-petro-salio-mal-y-coosalud-vuelve-a-sus-antiguos-duenos-que-pasara-con-los-afiliados-KE43038893",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Coosalud / Gobierno Petro / Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00"
+    },
+    {
+      "id": 2491,
+      "titulo": "Gobierno reporta reducción de delitos durante su gestión",
+      "categoria": "seguridad",
+      "fecha": "2026-10-30",
+      "descripcion": "El Gobierno de De la Espriella presentó cifras sobre la reducción de varios delitos durante los primeros meses de su administración, como parte de los resultados de su política de seguridad.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1dqbDJCZ3NYU1d4VjJLa0FGTDVSNndBYkVXQTZpQkRMcThxRUtMRUVDYXAwY1d5MFpfMTlrRlZIWl9KNk01LWxQcGhaN0xQWVE5R05IcFFodnlGcERZTFJiYzBEX3luLUtOTGhxN1RQM05LM0lBbDBfOWl2bHltN3NBd0RrbS1wbExfdXVPcUI2S2Q3UDh4cl9RZ3QzcHBrT1ZVTGdsdTdOcHhmaUFnMjh1VmEwYVo4WGt3NnVVUUd1UXFUaHllMldLc0w5M2Zy?oc=5",
+          "fecha": "2026-10-30"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-10-31 21:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2490,
       "titulo": "Ley de Rescate elevaría cotización en salud para empleados asalariados",
       "categoria": "economia",
@@ -58147,7 +58327,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-10-31",
-    "total_casos": 2401,
+    "total_casos": 2409,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
