@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:01:49 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:51:53 -0000</lastBuildDate>
+    <item>
+      <title>Nvidia estudiaría avalar como garante el préstamo de un centro de datos de IA de Nscale</title>
+      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
+      <guid isPermaLink="false">lalupa-lectura-317</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Nvidia evalúa actuar como cosignatario de la deuda que financia un centro de datos de inteligencia artificial de la startup Nscale en Virginia Occidental. La medida surge porque los inversionistas piden más garantías ante el riesgo del gasto desbocado en IA, lo que llevaría al propio fabricante de chips a respaldar financieramente a sus clientes. Por que leerlo: Muestra cómo el financiamiento circular de la industria de IA empieza a depender de que el proveedor de chips garantice la deuda de sus propios clientes. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Hallan falla crítica en el TCP de Linux con puntaje de severidad 9.8 sobre 10</title>
+      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
+      <guid isPermaLink="false">lalupa-lectura-318</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores reportaron una vulnerabilidad de tipo 'use-after-free' en la implementación de TCP/IPv4 del kernel de Linux, catalogada como CVE-2026-98432 con un CVSS de 9.8. El fallo podría permitir ejecución remota de código en servidores y dispositivos que usan Linux en todo el mundo. Por que leerlo: Es una alerta temprana que cualquier administrador de servidores Linux debería atender de inmediato para parchear antes de ser explotado. (Hacker News, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Las siete preguntas clave sobre la salida a bolsa de Anthropic, la mayor IPO de la historia</title>
+      <link>https://www.larepublica.co/globoeconomia/estas-son-las-siete-preguntas-clave-de-la-oferta-publica-inicial-mas-grande-de-la-historia-4515812</link>
+      <guid isPermaLink="false">lalupa-lectura-319</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Anthropic, creadora del modelo Claude, presento ante la SEC un prospecto de 335 paginas el 26 de octubre que revela por primera vez sus cifras financieras al mercado. El documento abre interrogantes sobre valoracion, quema de caja y sostenibilidad del negocio de IA generativa frente a competidores como OpenAI. Por que leerlo: Permite entender, con datos reales del prospecto, como se valora y financia hoy una de las empresas de IA mas grandes del mundo. (La Republica, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Átomos ultra fríos simulan en laboratorio la producción de pares materia-antimateria</title>
+      <link>https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html</link>
+      <guid isPermaLink="false">lalupa-lectura-320</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Según la electrodinámica cuántica, un campo eléctrico suficientemente fuerte puede convertir energía en pares de partícula y antipartícula, un fenómeno predicho hace décadas pero casi imposible de observar directamente en la naturaleza. Investigadores usaron átomos ultra fríos para recrear y estudiar este proceso en condiciones controladas de laboratorio. Por que leerlo: Muestra cómo los simuladores cuánticos permiten poner a prueba predicciones fundamentales de la física que serían imposibles de observar de otra forma. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nuevo sistema SmartPE mejora la edición genética de precisión en cultivos como tomate y soya</title>
+      <link>https://phys.org/news/2026-10-scientists-boost-prime-dicot.html</link>
+      <guid isPermaLink="false">lalupa-lectura-321</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores en China desarrollaron SmartPE, un sistema que mejora la eficiencia de la edición genética de precisión (prime editing) en plantas dicotiledóneas como tomate, soya y canola. La herramienta resuelve una limitación clave que frenaba el uso de esta técnica para introducir cambios genéticos exactos en cultivos comerciales. Por que leerlo: Ofrece una pista de hacia dónde va la próxima generación de semillas mejoradas con edición genética, relevante para quien sigue el agro y la biotecnología. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Descubren un sistema de defensa bacteriano que funciona al revés de todo lo conocido</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261029072123.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-322</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos hallaron un mecanismo de inmunidad bacteriana que invierte la lógica habitual: en vez de mantener una toxina letal bajo control hasta que llega un virus, este sistema solo produce el ADN que activa el arma letal después de iniciada la infección, llevando a la bacteria infectada a autodestruirse para frenar el contagio. El hallazgo amplía el catálogo de defensas biológicas conocidas y desafía supuestos básicos sobre cómo evolucionan los sistemas inmunes. Por que leerlo: Es un ejemplo sorprendente de cómo la evolución resuelve el mismo problema de defenderse de virus con una lógica completamente invertida. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Hallazgo sobre la vitamina A cambia lo que se sabía sobre el desarrollo de la visión humana</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261028234813.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-323</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos de Johns Hopkins usaron retinas humanas en miniatura cultivadas en laboratorio y descubrieron que un derivado de la vitamina A, junto con hormonas tiroideas, da forma a la foveola, la región central de la retina responsable de la visión aguda, antes del nacimiento. El hallazgo desafía supuestos de décadas sobre cómo se forma el ojo humano. Por que leerlo: Revela un mecanismo nuevo detrás de la visión humana que podría abrir caminos para tratar problemas de desarrollo ocular. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Anthropic recibiría una calificación crediticia de alto riesgo tras su salida a bolsa</title>
+      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+      <guid isPermaLink="false">lalupa-lectura-324</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Según un reporte de Financial Times citado por Blackstone, las agencias calificadoras otorgarían a Anthropic una nota de crédito tipo 'basura' alta después de su IPO. Esa calificación encarecería y dificultaría que la compañía siga financiando su gasto masivo en infraestructura de inteligencia artificial. Por que leerlo: Ofrece una señal concreta de cómo los mercados de crédito empiezan a dudar de la solidez financiera detrás de las grandes apuestas de IA. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Applebee's dejó expuesta una contraseña de base de datos codificada en su app</title>
+      <link>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/</link>
+      <guid isPermaLink="false">lalupa-lectura-325</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un investigador de seguridad descubrió una credencial de base de datos 'hardcodeada' dentro de la aplicación de Applebee's, lo que permitía acceso sin restricciones a los datos personales de los clientes. El hallazgo, reportado en exclusiva, expone un error básico de seguridad en una app de uso masivo. Por que leerlo: Es un recordatorio práctico de un error de seguridad común y evitable que cualquier equipo que construya apps propias debería revisar. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nuevo metodo mide el hidrogeno cosmico sin necesidad de mapear galaxias</title>
+      <link>https://www.xataka.com/espacio/podemos-medir-hidrogeno-cosmico-mapas-galaxias-paso-clave-para-entender-energia-oscura</link>
+      <guid isPermaLink="false">lalupa-lectura-326</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo de astrofisicos logro medir la distribucion del hidrogeno neutro del universo primitivo usando una tecnica que no depende de catalogos de galaxias, un paso clave para entender mejor la expansion acelerada del cosmos. El metodo abre una via mas directa y menos costosa para estudiar la energia oscura, uno de los mayores misterios de la fisica actual. Por que leerlo: Entender como avanza la ciencia que intenta resolver el misterio mas grande de la cosmologia moderna. (Xataka, 6 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Espana lidera en Europa el numero de sistemas solares expuestos en internet por fallos de seguridad</title>
+      <link>https://www.xataka.com/energia/espana-lidera-ranking-europeo-que-no-queria-estar-sistemas-solares-expuestos-internet</link>
+      <guid isPermaLink="false">lalupa-lectura-327</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un analisis del Centro Nacional de Ciberseguridad de Paises Bajos (NCSC-NL) encontro que Espana encabeza el ranking europeo de instalaciones de energia solar con configuraciones expuestas en la red, vulnerables a ataques. El hallazgo evidencia un riesgo creciente a medida que la transicion energetica digitaliza mas infraestructura critica. Por que leerlo: Revela un riesgo de ciberseguridad real en la infraestructura energetica que cualquier pais que digitalice su red electrica deberia vigilar. (Xataka, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Una herramienta demuestra que los chats borrados de IA pueden seguir guardados en el telefono</title>
+      <link>https://hipertextual.com/inteligencia-artificial/recuperar-chats-ia-borrados-android/</link>
+      <guid isPermaLink="false">lalupa-lectura-328</guid>
+      <pubDate>Sun, 01 Nov 2026 01:51:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Una investigacion revela que aunque los usuarios eliminen sus conversaciones con chatbots como ChatGPT, estas pueden permanecer accesibles en el almacenamiento local del dispositivo movil. Empresas como OpenAI y Anthropic si borran los datos de sus servidores tras un tiempo, pero el hallazgo expone una falsa sensacion de control sobre la privacidad de esas conversaciones. Por que leerlo: Un dato practico de seguridad y privacidad para cualquiera que use asistentes de IA a diario, incluidos quienes construyen productos con ellos. (Hipertextual, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Fisicos recrean materia del Big Bang al colisionar nucleos de oxigeno a casi la velocidad de la luz</title>
       <link>https://www.sciencedaily.com/releases/2026/10/261030002935.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Fri, 30 Oct 2026 02:28:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>El cofundador de Binance, Changpeng Zhao, confirmó que la plataforma pudo haber sido víctima de un hackeo y congeló más de US$2.500 millones en fondos como medida preventiva. El anuncio coincidió con una fuerte caída del precio de bitcoin en los mercados globales. Por que leerlo: Entender cómo responde el mayor exchange de criptomonedas a un posible hackeo ayuda a dimensionar los riesgos de custodia en cripto. (La Republica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Matemáticos cuestionan la necesidad de la energía oscura para explicar la expansión del universo</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261028232719.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-257</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un grupo de matemáticos identificó lo que consideran una falla fundamental en el modelo estándar de la cosmología: sus cálculos muestran que el marco matemático usado para describir la expansión del universo es inestable, y que esta podría acelerarse de forma natural bajo la teoría original de la gravedad de Einstein, sin necesidad de invocar la energía oscura. El hallazgo abre interrogantes sobre uno de los pilares de la cosmología moderna. Por que leerlo: Cuestiona uno de los conceptos más aceptados de la física moderna con argumentos matemáticos concretos, no solo especulación. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Físicos rompen una regla clásica de los láseres y generan rayos X de mayor energía de lo previsto</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261027063713.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-258</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo de investigadores desafió una regla largamente establecida en la física de láseres al generar rayos X con energías mucho más altas de lo que predice la teoría convencional. El hallazgo muestra que dos electrones trabajando en conjunto pueden superar un límite que se creía infranqueable, lo que abre nuevas posibilidades para la investigación cuántica. Por que leerlo: Un límite que se daba por establecido en los libros de texto acaba de romperse en el laboratorio, con implicaciones directas para la física cuántica. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>DoorDash comprará Instacart por 17.000 millones de dólares</title>
-      <link>https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/</link>
-      <guid isPermaLink="false">lalupa-lectura-259</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La adquisición uniría al líder de entregas de restaurantes con el mayor jugador de entregas de supermercado en EE.UU., consolidando dos de las plataformas más grandes de delivery bajo una sola empresa. El acuerdo redibuja el mapa competitivo de la entrega a domicilio en Norteamérica. Por que leerlo: Una de las mayores consolidaciones del sector delivery, con lecciones sobre escala y márgenes en negocios de última milla. (TechCrunch, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Mistral lanza en abierto los pesos de su modelo Large 4</title>
-      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
-      <guid isPermaLink="false">lalupa-lectura-260</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Mistral AI publicó los pesos del modelo Large 4, permitiendo que desarrolladores lo descarguen, modifiquen y ejecuten sin depender de su API comercial. El anuncio generó alta repercusión en la comunidad tecnica, con 585 puntos y 152 comentarios en Hacker News, consolidando a Mistral como una de las pocas firmas que compite con modelos cerrados ofreciendo acceso abierto a modelos de gran escala. Por que leerlo: Si construyes productos con IA, puedes correr o afinar un modelo de clase alta sin pagar por API ni depender de un proveedor cerrado. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Logran simular una CPU RISC-V determinista funcionando dentro del modelo Qwen3.5</title>
-      <link>https://divagr.com/blog/qwenputer</link>
-      <guid isPermaLink="false">lalupa-lectura-261</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un desarrollador consiguió que el modelo de IA Qwen3.5, mediante su propio mecanismo de inferencia, ejecute una CPU RISC-V completamente funcional y determinista, un experimento que mezcla arquitectura de computadores clasica con redes neuronales modernas. El proyecto, llamado Qwenputer, se convirtio en uno de los mas comentados de Hacker News con 658 puntos. Por que leerlo: Es una demostración fascinante de hasta dónde puede llevarse un modelo de lenguaje cuando se le pide simular hardware real, útil para quien explora los límites de la IA aplicada. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>La escasez de agua en África se debe más a falta de infraestructura que a falta de agua</title>
-      <link>https://phys.org/news/2026-10-africa-availability-untapped.html</link>
-      <guid isPermaLink="false">lalupa-lectura-262</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio publicado en Nature mapea la demanda de agua por sector en África y muestra que, aunque la demanda creció cerca del 26% entre 2010 y 2020, 717 millones de personas seguían sin acceso a agua potable por tubería en 2020. Los autores concluyen que la escasez en varias zonas del continente responde más a la falta de infraestructura que a la disponibilidad real del recurso. Por que leerlo: Revela que el problema del agua en África es ante todo de inversión e infraestructura, una lección aplicable a otros mercados emergentes. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Científicos aíslan por primera vez a los parientes arqueales más cercanos de los eucariotas</title>
-      <link>https://phys.org/news/2026-10-capturing-closest-archaeal-clues-eukaryotes.html</link>
-      <guid isPermaLink="false">lalupa-lectura-263</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo liderado por JAMSTEC y la Universidad de Kyoto logró aislar y cultivar por primera vez dos cepas de Heimdallarchaeia, el grupo de arqueas más cercano conocido a los eucariotas, el linaje que incluye a humanos y otros animales. El hallazgo abre una ventana directa para estudiar en laboratorio el origen evolutivo de las células complejas. Por que leerlo: Permite observar por primera vez en cultivo al pariente microbiano más cercano al origen de toda la vida compleja, incluida la humana. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Logran sintetizar por primera vez cintas de carbono ultrafinas que conducen electricidad como metales</title>
-      <link>https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html</link>
-      <guid isPermaLink="false">lalupa-lectura-264</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores sintetizaron con éxito cintas de carbono ultradelgadas capaces de conducir electricidad con un comportamiento similar al de los metales, un avance clave frente al problema de calentamiento y resistencia eléctrica que enfrentan los cables metálicos a medida que los chips se miniaturizan. El hallazgo podría abrir una vía alterna al cobre en la electrónica de próxima generación. Por que leerlo: Apunta a una posible solución al cuello de botella físico que limita cuánto pueden seguir encogiéndose los chips actuales. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Estudio con 13.000 adultos vincula seis edulcorantes artificiales con un envejecimiento cerebral más rápido</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261028234238.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-265</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Una investigación con cerca de 13.000 adultos encontró que quienes más consumían edulcorantes artificiales presentaron un deterioro de memoria y razonamiento hasta 62% más rápido, equivalente a 1,6 años adicionales de envejecimiento cerebral. Seis edulcorantes populares quedaron asociados al declive cognitivo, aunque los autores aclaran que el estudio no prueba causalidad. Por que leerlo: Pone en duda la narrativa de que los sustitutos del azúcar son una alternativa inocua para la salud a largo plazo. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Inteligencia militar de EE.UU. advierte que el avión espacial secreto de China no puede esconderse en órbita baja</title>
-      <link>https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/</link>
-      <guid isPermaLink="false">lalupa-lectura-266</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un informe de la Agencia de Inteligencia de Defensa de EE.UU. señala que el avión espacial chino, pese a su secretismo, es rastreable en órbita baja, y sugiere que China podría desplegar pronto armas de energía dirigida en el espacio. El documento eleva la preocupación sobre la militarización orbital entre ambas potencias. Por que leerlo: Expone hasta dónde llega la carrera espacial militar entre EE.UU. y China con datos de inteligencia reales. (Ars Technica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>EE.UU. investigó un presunto plan de espionaje chino dirigido al CEO de Nvidia</title>
-      <link>https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</link>
-      <guid isPermaLink="false">lalupa-lectura-267</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Según el New York Times, un alto ejecutivo de una empresa de nube de IA en Singapur, acusada de vender ilegalmente chips de Nvidia a China, podría haber sido también un espía chino que buscaba acercarse a Jensen Huang. El caso surgió en medio de las restricciones de exportación de semiconductores a China. Por que leerlo: Muestra hasta qué punto llega el espionaje industrial en la guerra por los chips de IA entre EE.UU. y China. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Exejecutivos de Palantir lanzan Dream, startup de IA para construcción, con 17 millones de dólares de a16z</title>
-      <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
-      <guid isPermaLink="false">lalupa-lectura-268</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Dream fue entrenada con datos de 100 millones de pies cuadrados de permisos de construcción y busca competir con Autodesk usando modelos de IA que simulan el mundo físico de las obras. La ronda fue liderada por Andreessen Horowitz. Por que leerlo: Un ejemplo concreto de cómo aplicar IA generativa a una industria tradicional y poco digitalizada como la construcción. (TechCrunch, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
