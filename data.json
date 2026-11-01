@@ -221,6 +221,322 @@
   ],
   "casos": [
     {
+      "id": 2535,
+      "titulo": "Cierre de seis locales en Kennedy por venta de estupefacientes a menores",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Autoridades cerraron seis establecimientos en la localidad de Kennedy, Bogotá, que operaban desde hace aproximadamente tres años vendiendo estupefacientes a menores de edad y generaban ingresos cercanos a los 10 millones de pesos mensuales.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/cierran-seis-locales-en-kennedy-por-venta-de-estupefacientes-menores",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2534,
+      "titulo": "Mecanismo EfectIVA de la Ley de Rescate busca beneficiar a población más pobre",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "El mecanismo EfectIVA, parte de la Ley de Rescate Fiscal impulsada por el Ministerio de Hacienda, propone devolver el IVA pagado al 30% de la población más pobre, lo que representaría una ganancia equivalente de entre 2% y 2,4% de sus recursos si el esquema funciona como está diseñado.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-mecanismo-efectiva-de-la-ley-de-rescate-beneficiaria-a-30-de-la-poblacion-mas-pobre-4515993",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2533,
+      "titulo": "Registrador Hernán Penagos mantiene tutela contra Gustavo Petro por ataques al sistema electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-01",
+      "descripcion": "El registrador nacional Hernán Penagos defendió la tutela que interpuso contra el expresidente Gustavo Petro, señalando que no se puede 'vulnerar ni atacar de manera tan feroz al sistema electoral'. Penagos afirmó que las amenazas no lo distraen de la preparación de las elecciones regionales, a un año de terminar su periodo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/no-se-puede-vulnerar-ni-atacar-de-manera-tan-feroz-al-sistema-electoral-registrador-hernan-penagos-habla-de-su-tutela-contra-gustavo-petro-3597757",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Hernán Penagos",
+        "Gustavo Petro"
+      ],
+      "entidad": "Registraduría Nacional del Estado Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44"
+    },
+    {
+      "id": 2532,
+      "titulo": "Inicia búsqueda de recursos para recuperar la Catedral Basílica de Manizales tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-01",
+      "descripcion": "La campaña 'Todos somos Catedral' arranca para recaudar fondos destinados a la recuperación de la Catedral Basílica de Manizales, afectada por el terremoto del 10 de agosto, incluyendo el desmonte controlado de la torre dañada.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/todos-somos-catedral-comienza-la-busqueda-de-recursos-para-recuperar-el-principal-templo-de-manizales/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Catedral Basílica de Manizales",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 2531,
+      "titulo": "Gobierno lanza ofensiva contra finanzas de bandas criminales urbanas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Con base en investigaciones de la Fiscalía sobre las millonarias rentas ilegales que manejan bandas criminales en las principales capitales del país, el Gobierno Nacional lanzó una ofensiva orientada a afectar las finanzas de estas estructuras que impactan la seguridad urbana.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/las-millonarias-rentas-que-manejan-las-bandas-que-azotan-las-capitales-del-pais-3597681",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2530,
+      "titulo": "Embargo de la DIAN por $16,4 billones deja a Ecopetrol con solo 23 días de caja",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "Un informe reservado revela que la DIAN embargó cuentas de Ecopetrol por $16,4 billones, lo que dejaría a la petrolera estatal con apenas 23 días de caja disponible en dólares para operaciones, en medio de la disputa fiscal del gobierno De la Espriella por recaudo tributario.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/embargo-de-la-dian-por-16-4-billones-dejaria-a-ecopetrol-con-solo-23-dias-de-caja-disponible-505518",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN / Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2529,
+      "titulo": "Gobierno levanta restricción de gas natural tras superar contingencia en Cartagena",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "El Ministerio de Minas y Energía confirmó el restablecimiento de las condiciones normales de abastecimiento de gas natural en el país, tras superarse la contingencia que había generado limitaciones en Cartagena.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-levanta-limitacion-de-gas-natural-en-colombia-tras-superar-contingencia-en-cartagena/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2528,
+      "titulo": "Operativo policial de Halloween deja 89 capturados en Bogotá",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Un operativo de la Policía Nacional durante la noche de Halloween en Bogotá dejó 89 personas capturadas y el registro de tres homicidios, uno por intolerancia y dos presuntamente por ajuste de cuentas.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/89-capturados-en-bogota-dejo-operativo-policial-en-halloween",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2527,
+      "titulo": "Capturan a 22 integrantes de red de robo de combustible en cinco departamentos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Una operación de la Fuerza de Tarea Conjunta Urano, en el marco de la Campaña Militar y Policial Urano, resultó en la captura de 22 personas presuntamente vinculadas a una red dedicada al robo y comercialización ilegal de hidrocarburos, con participación de instaladores de válvulas y comercializadores, en cinco departamentos del país.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/capturaron-22-presuntos-integrantes-red-robo-combustible-NB43066856",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2526,
+      "titulo": "Gobierno De la Espriella anuncia cuatro medidas de seguridad contra la violencia en el fútbol",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "El Gobierno Nacional anunció cuatro medidas orientadas a reforzar la seguridad en los estadios y controlar la violencia asociada al fútbol profesional colombiano, en respuesta a recientes episodios de disturbios.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/deportes/articulo/gobierno-de-la-espriella-se-toma-en-serio-la-violencia-en-el-futbol-anuncia-cuatro-medidas-sobre-seguridad/202621/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2525,
+      "titulo": "Abogado de Petro denuncia presunta interrogación irregular a funcionaria del Dapre en Casa de Nariño",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-01",
+      "descripcion": "El abogado del expresidente Gustavo Petro solicitó la intervención de la Fiscalía tras conocerse una presunta interrogación a una funcionaria del Departamento Administrativo de la Presidencia (Dapre) dentro de la Casa de Nariño, calificando el hecho como irregular y exigiendo que los responsables respondan ante la justicia.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQYkVaMFVrbUd6V0JzYVNfZi15cThRaGo1RFJ6UWM0Y1JFM3dNdzR2QldrN1p4S2JweUhvMTBSSVBQMEVUYTJNdDVua04yU0NqWE95TnV3M0otWUxja1BRMTJJSWozTExlWVltYXZaR1pUVWdSUThMTFBKNi1BcWNYVEQySzVOZS1FbTF1cnEycDF0emdnZnQweHYxYWtQQWotNDVHNUZpemFvOFlVdUZZc1RrVE0xQW0wNWFyN3lBQlc5QW5ENU9hWm5CREtCUi0zMEV6bVNBc0M2SGVHR056U1J1dE5BbmZra2YwcGdzQnFCRGtBUWwxaG1wN3VfREVQMXZyV1hWMEZEZkZXdGFiaVdVRkNsLUMzRllNcW5JZ1J5QTVGcGlmbXlBeVc1dE5BbkHSAcwCQVVfeXFMTk5aQ2FCVVV6M0ZFamJJV3Q5SzEySmV3dUlMV3l0ZGpOWE5KbU4zZlA1OFpFYmRERkxSY3ZtanN0ZjVQY05KNGYxcEJXZlQtNlVNQlJsRGJfaXZFN2Q1ZHZyamRDQklkUjFaalNsVmhaNXIwWHFKajhVb1pWRE0tZm42NDNKdkpIZmdHeWg5aXNZWnhoSDItdXpUUmtDV2dDcWhPbzhtQ1ZuUndfUDRtTkF2VEFWa2kxalZMOTJRSkpMbk04YVBvNkZwbGQ2MjFzdXowQjlOdjZMUUtDaXN5aU51NGE4dWZhNzc1R0VEQmpOYUtOWldMeXBtRFY0NzNyZ3U5ZjNuTHZUWmtGVTJZaDU5SmtZc3ZZUXNJNTZqZEdYOFVEbnZPNnkwYWZ5WjVxT08wZ1dPdmxiaFFnd2JYUENPODBydmZJNldNMDY?oc=5",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Abogado de Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la República / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44"
+    },
+    {
+      "id": 2524,
+      "titulo": "Bombardeo militar en Chocó contra el Clan del Golfo deja siete muertos y cae alias 'Álex'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Un bombardeo de las Fuerzas Militares contra estructuras del Clan del Golfo en Chocó dejó siete muertos, entre ellos alias 'Álex', señalado como tercer cabecilla de la subestructura Edwin Guzmán Martínez.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/bombardeo-contra-el-clan-del-golfo-en-choco-deja-siete-muertos/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'Álex'"
+      ],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2523,
+      "titulo": "Gobierno plantea que siete de cada diez pesos del ajuste fiscal salgan del propio Estado",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "En el marco de la discusión de la Ley de Rescate Fiscal, el Gobierno Nacional aseguró que el 70% del esfuerzo de ajuste provendrá de reducción de burocracia, gastos innecesarios y contratación pública, y no de nuevos impuestos a los ciudadanos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-fiscal-gobierno-asegura-que-siete-de-cada-diez-pesos-del-ajuste-saldran-del-propio-estado-505535",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2522,
+      "titulo": "MinDefensa radica 41 denuncias formales por corrupción en el sector Defensa durante el gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-01",
+      "descripcion": "El ministro de Defensa, Jorge Eduardo Mora López, informó que de 82 reportes recibidos por posibles irregularidades ocurridas durante el gobierno de Gustavo Petro, 41 ya fueron radicados como denuncias formales ante las autoridades. Los casos comprometerían cerca de $155.000 millones en recursos del sector.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mindefensa-destapo-casos-corrupcion-gobierno-petro-KB43064358",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eduardo Mora López"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 21:44"
+    },
+    {
       "id": 2521,
       "titulo": "Atentado con explosivos en Algeciras, Huila deja tres policías heridos",
       "categoria": "seguridad",
@@ -58858,7 +59174,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-01",
-    "total_casos": 2432,
+    "total_casos": 2446,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
