@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 329,
+      "titulo": "Una particula olvidada podria explicar por que existe el universo",
+      "resumen": "Cientificos reviven la hipotesis de un neutrino esteril ignorado por decadas, que podria explicar por que la materia sobrevivio al Big Bang en lugar de aniquilarse con la antimateria. La particula habria dejado senales detectables en forma de ondas gravitacionales que podrian confirmarse con observaciones futuras.",
+      "por_que_leerlo": "Presenta una posible solucion a uno de los mayores enigmas de la fisica: por que existe algo en lugar de nada.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica de particulas",
+        "neutrinos",
+        "big bang",
+        "cosmologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 330,
+      "titulo": "Un pesticida comun se vincula a 2.5 veces mas riesgo de Parkinson",
+      "resumen": "Un estudio de la UCLA encontro que la exposicion prolongada a un pesticida de uso comun se asocia con mas del doble de riesgo de desarrollar Parkinson. Los investigadores tambien identificaron el mecanismo por el cual el quimico dana las neuronas y proponen una forma de protegerlas.",
+      "por_que_leerlo": "Aporta evidencia concreta sobre un riesgo ambiental cotidiano y una posible via de proteccion neurologica.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "parkinson",
+        "pesticidas",
+        "neurociencia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 331,
+      "titulo": "Fosil de simio de 17 millones de anos en Egipto desafia la teoria del origen africano oriental",
+      "resumen": "Un fosil de simio hallado en Egipto, de entre 17 y 18 millones de anos de antiguedad, sugiere que el norte de Africa y Oriente Medio, y no el este de Africa, pudieron ser la cuna de la evolucion de los simios modernos. El hallazgo obliga a reconsiderar el mapa clasico del origen de los ancestros humanos.",
+      "por_que_leerlo": "Replantea donde comenzo realmente la historia evolutiva que llevo a los humanos modernos.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleoantropologia",
+        "evolucion",
+        "fosiles",
+        "origen humano"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 332,
+      "titulo": "Cientificos reducen el tornillo de Arquimedes al tamano de una molecula",
+      "resumen": "Un equipo construyo un motor molecular inspirado en el tornillo de Arquimedes que gira en cualquier direccion impulsado por electricidad. Su rotacion puede aumentar la conductividad electrica hasta 100 veces, lo que abre posibilidades para la electronica molecular del futuro.",
+      "por_que_leerlo": "Anticipa una tecnologia que podria cambiar como se disena la electronica a escala molecular.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nanotecnologia",
+        "electronica molecular",
+        "motores moleculares",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 333,
+      "titulo": "Un tribunal brasileño sanciona a abogados por usar inyección de prompts en un escrito judicial",
+      "resumen": "Un juzgado de Brasil sancionó a un grupo de abogados tras descubrir que habían insertado instrucciones ocultas dirigidas a modelos de IA dentro de un documento legal, en un intento de manipular herramientas de inteligencia artificial usadas en el proceso. El caso es uno de los primeros antecedentes judiciales en América Latina sobre ataques de inyección de prompts.",
+      "por_que_leerlo": "Muestra un riesgo real y concreto de seguridad en IA que ya está llegando a los tribunales latinoamericanos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "inteligencia artificial",
+        "brasil",
+        "inyeccion de prompts"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 334,
+      "titulo": "En Ucrania los drones ya detectan soldados por el sonido, no solo por video",
+      "resumen": "Rusia y Ucrania están incorporando micrófonos a sus drones para localizar tropas incluso cuando están ocultas de las cámaras, según reportó Forbes. Esta tecnología, relativamente simple y barata, cambia las reglas de camuflaje que hasta ahora dependían solo de evitar ser vistos.",
+      "por_que_leerlo": "Revela cómo una innovación de bajo costo puede alterar por completo las tácticas de un conflicto armado moderno.",
+      "seccion": "tecnologia",
+      "tags": [
+        "drones",
+        "guerra",
+        "sensores",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 335,
+      "titulo": "Los fármacos GLP-1 para adelgazar están redibujando industrias enteras",
+      "resumen": "El auge de medicamentos adelgazantes tipo GLP-1 está generando ganadores y perdedores en sectores como gimnasios, aerolíneas y alimentos, según un análisis económico global. Empresas de distintas industrias ya ajustan sus modelos de negocio ante el cambio en hábitos de consumo que provoca este tipo de fármacos.",
+      "por_que_leerlo": "Ofrece una lección de cómo un solo producto farmacéutico puede reconfigurar la demanda y las oportunidades de negocio en industrias aparentemente no relacionadas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "farmaceutica",
+        "modelos de negocio",
+        "consumo",
+        "economia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/salud-ejecutiva/el-auge-de-los-farmacos-adelgazantes-glp-1-que-transforma-la-economia-global-4515849"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 336,
+      "titulo": "Cometa interestelar 3I/ATLAS revela pistas de un origen extremadamente frio",
+      "resumen": "El metano detectado en el cometa interestelar 3I/ATLAS muestra una proporcion inusualmente alta de hidrogeno pesado (deuterio), lo que indica que sus hielos se formaron en un entorno extremadamente frio alrededor de otra estrella o en la nube molecular previa a su formacion. El hallazgo ofrece una ventana unica a las condiciones quimicas de un sistema planetario ajeno al nuestro.",
+      "por_que_leerlo": "Permite entender como se forman los sistemas planetarios fuera del nuestro a traves de una firma quimica unica.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "cometas",
+        "quimica espacial",
+        "sistema planetario"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 337,
+      "titulo": "Radiotelescopios podrian resolver el misterio del origen de los neutrinos cosmicos",
+      "resumen": "Los neutrinos cosmicos, particulas casi sin masa que atraviesan la Tierra sin interactuar, provienen de fuentes tan diversas como supernovas, pero identificar su origen exacto es extremadamente dificil. Cientificos proponen que los radiotelescopios podrian ayudar a rastrear estas particulas fantasma hasta sus fuentes cosmicas.",
+      "por_que_leerlo": "Explica como la astronomia esta cerca de resolver uno de los mayores misterios sobre las particulas mas esquivas del universo.",
+      "seccion": "ciencia",
+      "tags": [
+        "neutrinos",
+        "astrofisica",
+        "radiotelescopios",
+        "fisica de particulas"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 338,
+      "titulo": "El avion supersonico de Boom peligra mientras la empresa gira hacia energia para centros de datos de IA",
+      "resumen": "Boom Supersonic, la empresa que desarrolla un avion de pasajeros supersonico, enfrenta retrasos en su proyecto mientras su naciente negocio de generacion de energia para centros de datos de inteligencia artificial perdio un cliente clave. El giro refleja como la demanda energetica de la IA esta redefiniendo las prioridades de empresas de otros sectores.",
+      "por_que_leerlo": "Ilustra como el auge de la IA esta forzando a empresas de sectores distintos a redirigir su estrategia de negocio.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "energia",
+        "inteligencia artificial",
+        "aviacion"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-30",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 339,
+      "titulo": "OpenAI reduciría el objetivo de su nueva ronda de financiación",
+      "resumen": "Reportes indican que OpenAI bajó la meta de su última ronda de inversión, señal de que la demanda de los inversionistas no cumplió las expectativas iniciales de la compañía. El ajuste llega en medio de crecientes dudas sobre el ritmo de gasto en infraestructura de IA del sector.",
+      "por_que_leerlo": "Te da una señal temprana de hacia dónde se dirige el apetito inversor por la IA, clave si buscas financiación para tu propio negocio.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "financiacion",
+        "openai",
+        "startups",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-10-31",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
+      "id": 340,
+      "titulo": "Un desarrollador crea una dashcam con IA que detecta y reporta basura en las carreteras",
+      "resumen": "Cansado de ver basura arrojada desde los vehículos, un programador convirtió su celular en un monitor inteligente que usa IA para detectar, clasificar y generar pruebas de quienes tiran residuos en la vía, enviando la evidencia a campañas de limpieza de su ciudad. El proyecto funciona con un simple soporte de salpicadero y procesamiento de imágenes en tiempo real.",
+      "por_que_leerlo": "Es un ejemplo práctico de cómo un desarrollador independiente puede resolver un problema cotidiano usando IA con hardware mínimo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "proyecto personal",
+        "vision por computador",
+        "medio ambiente"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-01 17:04",
+      "auto_generated": true
+    },
+    {
       "id": 317,
       "titulo": "Nvidia estudiaría avalar como garante el préstamo de un centro de datos de IA de Nscale",
       "resumen": "Nvidia evalúa actuar como cosignatario de la deuda que financia un centro de datos de inteligencia artificial de la startup Nscale en Virginia Occidental. La medida surge porque los inversionistas piden más garantías ante el riesgo del gasto desbocado en IA, lo que llevaría al propio fabricante de chips a respaldar financieramente a sus clientes.",
