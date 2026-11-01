@@ -221,6 +221,307 @@
   ],
   "casos": [
     {
+      "id": 2511,
+      "titulo": "Desempleo en Bogotá baja a 7,6% con aumento de ocupación",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "La tasa de desempleo en Bogotá cayó a 7,6% con un incremento de cerca de 70.000 personas ocupadas, liderado por el sector de comercio y reparación de vehículos, según cifras reportadas durante el actual gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/desempleo-en-bogota-cayo-a-76-y-la-ocupacion-aumento-en-cerca-de-70-000-personas/",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DANE / Alcaldía de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2510,
+      "titulo": "Nuevo atentado con explosivos cierra la vía Panamericana en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "Una explosión ocurrida hacia las 6:00 a.m. en el sector de La Sierra, Cauca, obligó a cerrar nuevamente la vía Panamericana. Se trata de un nuevo ataque tras el ocurrido el 12 de octubre que dejó varios heridos; las autoridades aún no identifican a los responsables de este nuevo atentado.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/nuevo-atentado-en-cauca-obliga-cerrar-la-panamericana",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2509,
+      "titulo": "Andrés Puyo Mesa sería nombrado presidente del Banco Agrario",
+      "categoria": "gabinete",
+      "fecha": "2026-11-01",
+      "descripcion": "Según reportes, Andrés Puyo Mesa sería designado como nuevo presidente del Banco Agrario de Colombia, en el marco de la conformación de equipos directivos de entidades financieras estatales durante el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/capsulas/articulo/andres-puyo-mesa-seria-el-nuevo-presidente-del-banco-agrario/202654/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrés Puyo Mesa"
+      ],
+      "entidad": "Banco Agrario / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2508,
+      "titulo": "Investigan posible muerte por ébola en Colombia tras viaje a RD Congo",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-01",
+      "descripcion": "El Ministerio de Salud y el Instituto Nacional de Salud investigan un posible caso de muerte por ébola en Colombia, correspondiente a un paciente que había viajado recientemente a República Democrática del Congo. Las autoridades activaron protocolos de vigilancia epidemiológica para confirmar el diagnóstico y evitar un posible brote en el país.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/salud/articulo/investigan-posible-muerte-por-ebola-en-colombia-paciente-habia-viajado-a-republica-democratica-del-congo/202639/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Instituto Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2507,
+      "titulo": "Operativos conjuntos dejan 29 capturas en 23 municipios de Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "El trabajo coordinado entre autoridades locales y nacionales en Antioquia ha permitido ejecutar 29 capturas en 23 municipios distribuidos en cinco subregiones del departamento, como parte de la estrategia de seguridad del gobierno nacional.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/antioquia-el-tablero-clave-en-lucha-contra-la-criminalidad-3597683",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Gobernación de Antioquia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2506,
+      "titulo": "Más de 300 militares refuerzan militarización de Cúcuta",
+      "categoria": "seguridad",
+      "fecha": "2026-10-31",
+      "descripcion": "Por instrucción del presidente Abelardo de la Espriella, 324 miembros del Ejército y cerca de 150 policías llegaron a Cúcuta 48 horas después de anunciada la medida, para reforzar la seguridad tras el asesinato de un precandidato y un atentado con carro bomba. El alcalde Jorge Acevedo confirmó el despliegue.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/atencion-militares-cucuta-reforzar-militarizacion-BC43053424",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jorge Acevedo"
+      ],
+      "entidad": "Ejército Nacional / Alcaldía de Cúcuta",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2505,
+      "titulo": "Gobierno ordena traslado de 33 presos desde San Andrés a Bogotá",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "El Gobierno Nacional ordenó el traslado de 33 reclusos desde San Andrés hacia Bogotá como medida de seguridad, argumentando que la tranquilidad de los colombianos está por encima de todo.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWtodXJOVWREM2pvY29MZmdXUUZSU1dPMzc4MFpsLVRYQTJZb0QtUGRIalMycEVtN09ScGR4SE9hMnNHcXdTUGlHUE1qSHl2b1FubkhCU29VbjZfNnZCUU1pbF9PUlBjZDJORjA5emRFZXZoYnhSLWM3bzdCN0l6YlhhS3BaSnlzTFJRdlBPY3ZDLXplYTJSVXU5RC05WUtseDQ4RXNRVkJCM2pHbUwyTGV1c0lDQdIBtgFBVV95cUxNdjczcklJRkhZYU5tbjVEMGdHTnZqeVlNanpvTkNZU014UlVieFRoOTVzN2ZLVzBIUmJ6NjFrMHVUanZYbFBmcmd2ZDVGVWd1SjFjVlRmZnU1T1RmWnlFOXhBZGxPOUpMdEpPRjlEQTQtR0xySm1kUHNLUXNkNy04Z2dPRlBsWEVqZTltR0djdjRBRDVadmpnZ1h4dHVQdFN3cFg0V3VwQy1ocXhVU29BSDBzLUxxQQ?oc=5",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / INPEC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2504,
+      "titulo": "Captura en Pereira de alias 'El Viejo' solicitado en extradición por Perú",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Mediante notificación roja de Interpol, autoridades colombianas capturaron en Pereira a José Ramiro Tobón Osorio, alias 'El Viejo', ciudadano colombiano requerido por la justicia de Perú por el delito de tráfico ilícito de drogas agravado.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/10/detienen-a-alias-el-viejo-pedido-en-extradicion-por-narcotrafico-por-peru/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "José Ramiro Tobón Osorio"
+      ],
+      "entidad": "Policía Nacional / Interpol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2503,
+      "titulo": "Ajuste fiscal gravaría con renta a personas desde $5 millones de ingresos",
+      "categoria": "economia",
+      "fecha": "2026-10-31",
+      "descripcion": "La propuesta de ajuste fiscal del Gobierno de De la Espriella reduciría el piso exento del impuesto de renta, de modo que personas con ingresos desde $5 millones mensuales pagarían este tributo, con una tarifa del 9% entre 720 y 1.090 UVT.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/impuestos/personas-que-ganan-desde-5-millones-pagarian-impuesto-de-renta-con-el-ajuste-fiscal-de-de-la-espriella-505503",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2502,
+      "titulo": "Abogado de Petro niega fiestas y mujeres en reuniones en casas particulares",
+      "categoria": "mentiras",
+      "fecha": "2026-10-31",
+      "descripcion": "El abogado de Gustavo Petro, Alejandro Carranza, negó que las reuniones del expresidente en casas particulares durante su gobierno correspondieran a fiestas con alcohol y mujeres, alegando que obedecían a razones de seguridad nacional, en respuesta a la denuncia previamente conocida sobre esos encuentros.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abogado-petro-reuniones-casas-particulares-seguridad-nacional-OC43054684",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Alejandro Carranza"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21"
+    },
+    {
+      "id": 2501,
+      "titulo": "Operación Oppenheimer: nuevas bajas confirmadas en bombardeo en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "El presidente Abelardo de la Espriella confirmó nuevas bajas producto de un bombardeo militar en Chocó, en el marco de la denominada 'Operación Oppenheimer' contra grupos armados ilegales en la región.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjZ4VFJScUtFUVFhSTlMNXVJQzhMd0x3VjVGOGMyXzAzam5YYkFkdWppUmdua0xtc2hRTGVPNURHZWlZZnF6Z1lDdVdBY3dPRElBN0NvY1dkVmFwcDB5WE5WbU80clNVU0xkSzBaVjUzSWdYSzU3X0FiUzFHV1RYWmYyYm5oY08xT1VobGlBS3E4c0FEWVZZRWJ1NHBtNkxpN3Z5NXIyMGRYUTJycVYwTmNmWkZ1QkFIY05Eek0yTmstdXFNaFIwbUJkU0FkdEFzQTM5Tzh0ZmJWbFY1Unl2ZUxfSWZPV1E?oc=5",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerzas Militares / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2500,
+      "titulo": "MinSalud confirma casos de malaria importados y activa protocolos ante riesgo de ébola",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-01",
+      "descripcion": "El Ministerio de Salud y el INS confirmaron dos casos importados de malaria en ciudadanos colombianos procedentes de la República Democrática del Congo; uno de 33 años falleció en Palmira y otro de 50 años permanece hospitalizado y aislado en Cali. Se intensificó la vigilancia epidemiológica para descartar ébola.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/minsalus-casos-malaria-activan-protocolos-descartar-ebola-JC43056285",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Instituto Nacional de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2499,
+      "titulo": "De la Espriella nombra a Alejandro Ordóñez como ministro del Interior",
+      "categoria": "gabinete",
+      "fecha": "2026-10-31",
+      "descripcion": "El presidente Abelardo de la Espriella oficializó mediante el Decreto 1630 de 2026 el nombramiento de Alejandro Ordóñez Maldonado como nuevo ministro del Interior, en reemplazo de Rodrigo Lara Restrepo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-nombramiento-de-alejandro-ordonez-como-ministro-del-interior-en-reemplazo-de-rodrigo-lara-restrepo-3597695",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordóñez",
+        "Rodrigo Lara Restrepo",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 04:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2498,
       "titulo": "Dian y Minhacienda preparan cambios normativos contra evasión y contrabando",
       "categoria": "transparencia",
@@ -58326,8 +58627,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-10-31",
-    "total_casos": 2409,
+    "ultima_actualizacion": "2026-11-01",
+    "total_casos": 2422,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
