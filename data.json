@@ -221,6 +221,236 @@
   ],
   "casos": [
     {
+      "id": 2521,
+      "titulo": "Atentado con explosivos en Algeciras, Huila deja tres policías heridos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "Un atentado con explosivos ocurrido en el municipio de Algeciras, Huila, dejó tres policías heridos y afectó a civiles de la zona. Las autoridades iniciaron investigaciones sobre los responsables del hecho, que se suma a la ola de ataques con explosivos registrados en el suroccidente del país durante el nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/atentado-con-explosivos-en-algeciras-huila-deja-tres-policias-heridos-y-civiles-afectados-autoridades-investigan-lo-ocurrido/202631/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2520,
+      "titulo": "Directora de la ANT denuncia gasto de 5,5 billones en predios con irregularidades, caso comparado con UNGRD",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-01",
+      "descripcion": "Lina María Garrido, directora de la Agencia Nacional de Tierras (ANT), denunció que durante el gobierno anterior se gastaron 5,5 billones de pesos en la compra de predios, de los cuales más de 2.000 tendrían problemas para su entrega a beneficiarios. Garrido advirtió que, si al país le dolió el escándalo de la UNGRD, el de la Agencia de Tierras 'será vergonzoso', en referencia a las irregularidades halladas en la gestión de compra de tierras durante el gobierno de Gustavo Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/si-al-pais-le-dolio-el-escandalo-de-la-ungrd-lo-de-la-agencia-de-tierras-sera-vergonzoso-lina-maria-garrido-directora-de-la-ant-3597739",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Lina María Garrido"
+      ],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42"
+    },
+    {
+      "id": 2519,
+      "titulo": "Fondo Patria Milagro busca financiación en Nueva York para reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-01",
+      "descripcion": "En su primer roadshow en Nueva York, el Fondo Patria Milagro buscó estrategias de financiación para cubrir los costos de reconstrucción de las 255.079 viviendas afectadas por el terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/analisis/andres-corredor-o-532781/el-contrapunto-4515257",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Patria Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2518,
+      "titulo": "Vicepresidente y Minhacienda advierten riesgo de default en 2027 sin reforma fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "El vicepresidente y el ministro de Hacienda advirtieron que, de no aprobarse la reforma fiscal, Colombia podría entrar en default en 2027, subrayando la urgencia de los ajustes económicos propuestos por el Gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/sin-reforma-colombia-entrara-en-default-en-2027-la-advertencia-del-vicepresidente-y-del-ministro-de-hacienda/202641/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Vicepresidencia de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2517,
+      "titulo": "Congresistas de varios partidos rechazan alzas de IVA y renta en reforma tributaria",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "Congresistas de distintos partidos, incluido el que avaló la candidatura de De la Espriella, manifestaron su rechazo a los aumentos de IVA y renta planteados en la reforma tributaria del Gobierno, anticipando un debate complejo en el Congreso.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeHkyYmNJUjAzdHRXVko4dXFBdkl6cnRxQzA4YW0wWWk5OW5ZS3p3LWkwTURFLUV6b1FoR0hfRTlyUUZWeGlON0xnaWZ2Y2Rjc014ZkpibnprUmRzSmVUOUUxdUVVeFNCNjdyMXBQb0hORU5CcGVyT0RsZFdvb3FTNmtGYkpqNXRtT2FYOHl2N2hRdlFRZ2V1UE9zaWhwdkpGV1dvWHNuNExWQzVoMW04ZE53Q2ZLNjdHb0VKcUJHWUNrdUNBSkFRaXNlRlc4MEp3MHk2S195UWlIRnAxWFZuTjE4ZGI2YTBiQVN3T1F5R19oVzdEcEQ2ZHJPZUJCbnIwejQzOVlCYy1jdnpLLVphbUNTUEo0YVh3RjN2NGo3Y3U3NmRkSWhhOUVB0gG-AkFVX3lxTE9UWTJ4dk5nYm5nMWI0dmFNYjZZSE0wYm9ER0I5UzVLTFFhMExSTXdkSzVMNzVpVHlkeEE4V0lDRVFiMW1IRnF1QlJzYXFCTVhnM2U3cXZLRUhKVElEMVl3d084VlhYY3UtUl9RbVZoUmhDTEdlbW1hMFJZZmFhR0VIaWFSakppV0N0bXNjOGwwYnJrRlV3VXJLTHBJTjNFV2U3cWdQeGk2Y2oyR1hmUXVaMFZDay1aVzZLcDVMc1N5MFByVHdvTUc1SFM5cC1xWmluRExIU0hNU0x6ZFBhWTVUOGZTQlNnblhVNkR3aXRCX3ZFdk1uS0lCQl9lRFhUZ3J4QWkzdFhGSHZoTzRVVmV0Nm9BNTA3Y0NlTFFYUi1nQnp3WXFzaGNHbE5LZWxkdTZPRnB3SlBiUDlZVnBFZw?oc=5",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2516,
+      "titulo": "Marco Rubio envía mensaje crítico al Gobierno De la Espriella",
+      "categoria": "internacional",
+      "fecha": "2026-11-01",
+      "descripcion": "El secretario de Estado de EE.UU., Marco Rubio, cercano a Donald Trump, afirmó que 'no se puede avanzar' en la relación bilateral, en un mensaje dirigido al Gobierno de Abelardo de la Espriella en el marco de la agenda de cooperación internacional entre ambos países.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcHJpRlUtQTZ6R0YxYl9OTXd3OTZhem95LWo0WlZxTUZTM2YzX0NKTndwZzZyN3I4Z0xnZm9VcjhIZkM3aTZoN25QXy0wWHJyaUVjM3J5SERpRTJ3aTl6ZDhpNTdaOXRhd2cwNHViWVhKU2hiUGpVS2pYZ0lkelk3WS1sS1dpdGd4elN5V3VWZDZrLWxrMV9jMjVZRjNpNW8wMjNSTC1wVmRZZG5LUko0VVkyS2plY0xRRU5CRDVpcDN0S3p6cEZkNjVFZElBLUIyWVNJOWQzZldXRnVnZzFTSFpzbHM2Wm9RQjlHOGItNjAyNG1jUExxd2stbUhYRzJPWFZGckNCTG01QTlU?oc=5",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [
+        "Marco Rubio",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Departamento de Estado de EE.UU. / Presidencia de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2515,
+      "titulo": "Vladimir Fernández, cercano a Petro, aparece en chats del escándalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-10-31",
+      "descripcion": "Vladimir Fernández, magistrado de la Corte Constitucional y exfuncionario del Gobierno de Gustavo Petro, aparece mencionado en los chats relacionados con el escándalo de la UNGRD, pese a haber enfrentado múltiples investigaciones previas sin que ninguna le haya generado consecuencias en su carrera pública.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/vladimir-fernandez-el-ascenso-de-un-hombre-cercano-a-petro-GC43055636",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Vladimir Fernández"
+      ],
+      "entidad": "UNGRD / Corte Constitucional",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42"
+    },
+    {
+      "id": 2514,
+      "titulo": "MinDefensa revela 82 reportes de presunta corrupción en el gobierno de Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-01",
+      "descripcion": "El Ministerio de Defensa reportó la existencia de 82 reportes de presunta corrupción ocurridos durante la administración de Gustavo Petro, hallazgos que surgen en el marco de la revisión de empalme realizada por el nuevo Gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/mindefensa-destapa-82-reportes-de-presunta-corrupcion-durante-administracion-de-gustavo-petro/202600/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42"
+    },
+    {
+      "id": 2513,
+      "titulo": "Reconstrucción desigual: Valle entrega viviendas mientras Cali sigue en evaluación",
+      "categoria": "avances",
+      "fecha": "2026-11-01",
+      "descripcion": "Un seguimiento a la reconstrucción tras el terremoto muestra que en el Valle del Cauca ya se han empezado a entregar viviendas a damnificados, mientras que en Cali el proceso permanece en etapa de evaluación de daños, evidenciando ritmos desiguales entre gobiernos locales en la ejecución de la reconstrucción.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2JUbmhGaDg0V2RsNW5uQzc5OGpNMml3UDhSRkYwMXhsQ2VRcFVYNEJMcHB1TUF2YzZWR3Y3TGdyQTJ2eGJjVjhLSzFYeVE0YWFvY2g5Y2VObDJEaVpUZl9kSjRvOXNibms5dFUyRDYyZlBwbmZkdUU5SXNrdDJTTjdtaGRYcnB0WlBtWWhPbE0yVDZtVG9MQldoRFVzMWswNlpWUmptdlRCVlJYQWtIOFBnZThiVlJNY3JMRWRJZGdCQ0YwRk56Sm04Qk41X2hZQnfSAdcBQVVfeXFMTklzRVJVenlfR0V3ei1ZSWpBZGlKb0FyaHBjR2RNMkgtd2gwd241d3ZmajRsZkQ4THM3dExqYURPRC1CczRFOXE3bmF4eENxVXp6MGl0MlI2d080S2QzZHBGdlhyOUNaWGh4QVFvdkdkaHFSWFN6VUEya3B6cTc4ZnpMcmxwTWIzTHd4MC1NdzZncU9YWVZOS2hqbUlRemMwYkszTm1GdUdMT3ZfQ3prbjZBZ3lNVnpmNXlqOUpuUV9WenhFcVEzMkMxbjNvYUpLc2d6RDh1UkE?oc=5",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación del Valle del Cauca / Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
+      "id": 2512,
+      "titulo": "Gobierno recorta $192.000 millones del presupuesto de la Presidencia",
+      "categoria": "transparencia",
+      "fecha": "2026-10-31",
+      "descripcion": "El vocero de la Presidencia, Miller Soto, informó que el Gobierno de Abelardo de la Espriella redujo $192.000 millones del presupuesto de la Presidencia y entidades adscritas, mediante ajustes presupuestales, reducción de personal y terminación de 32 contratos de prestación de servicios.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-redujo-192-000-millones-del-presupuesto-de-la-presidencia-y-entidades-adscritas-3597729",
+          "fecha": "2026-10-31"
+        }
+      ],
+      "personas_involucradas": [
+        "Miller Soto"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-01 12:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2511,
       "titulo": "Desempleo en Bogotá baja a 7,6% con aumento de ocupación",
       "categoria": "economia",
@@ -58628,7 +58858,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-01",
-    "total_casos": 2422,
+    "total_casos": 2432,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
