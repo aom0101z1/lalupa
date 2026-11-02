@@ -221,6 +221,142 @@
   ],
   "casos": [
     {
+      "id": 2547,
+      "titulo": "Senado avanza en proyecto de ley de sometimiento a la justicia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "El Senado de la República aprobó cuatro artículos del proyecto de ley de sometimiento a la justicia impulsado por el Gobierno De la Espriella, mientras la Cámara de Representantes inicia su debate. El Ministerio de Justicia insiste en que la norma no contempla beneficios especiales para quienes cometan delitos de alto impacto, en medio de la discusión sobre su alcance frente a grupos armados.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/dos-dias-para-ajustar-proyecto-de-ley-de-sometimiento-la-justicia",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 14:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2546,
+      "titulo": "Atentado terrorista en Balboa, Cauca; Ejército Nacional se pronuncia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-02",
+      "descripcion": "El Ejército Nacional calificó como 'una acción criminal que atenta contra la vida' un atentado terrorista ocurrido en el municipio de Balboa, Cauca, en el marco de la escalada de ataques armados registrada en el suroccidente del país durante el nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/una-accion-criminal-que-atenta-contra-la-vida-ejercito-se-pronuncia-tras-atentado-terrorista-en-balboa-cauca/202613/",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-02 14:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2545,
+      "titulo": "Atentado con explosivos cerca de base militar en Planadas, Tolima, deja cuatro muertos incluido un bebé",
+      "categoria": "seguridad",
+      "fecha": "2026-11-02",
+      "descripcion": "Un atentado con explosivos ocurrido la noche del domingo en el municipio de Planadas, sur del Tolima, dejó al menos cuatro víctimas mortales, entre ellas un bebé de dos meses, y múltiples heridos. El ataque, ocurrido cerca de una base militar en una zona con presencia de disidencias de las antiguas FARC, causó daños en viviendas y en parte de la infraestructura de un hospital, según autoridades locales y el Ejército Nacional.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261102-ataque-con-explosivos-cerca-de-una-base-militar-en-colombia-deja-cuatro-muertos-incluido-un-beb%C3%A9",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-02 14:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2544,
+      "titulo": "De la Espriella presenta agenda legislativa con ocho proyectos clave para el Congreso",
+      "categoria": "economia",
+      "fecha": "2026-11-02",
+      "descripcion": "El gobierno de Abelardo de la Espriella plantea una agenda legislativa con ocho proyectos prioritarios ante el Congreso, entre los que se destacan una reforma tributaria y un Estatuto Antiterrorista, en el marco de una relación que se anticipa tensa con la Rama Legislativa según análisis de La Silla Vacía.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/se-destapan-las-cartas-asi-es-la-agenda-legislativa-de-abelardo-en-el-congreso/",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 14:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2543,
+      "titulo": "Hostigamiento armado contra estación de Policía en Totoró, Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-01",
+      "descripcion": "La estación de Policía del municipio de Totoró, en el oriente del Cauca, fue blanco de un hostigamiento armado en pleno casco urbano. Los pobladores debieron refugiarse en viviendas y comercios tras el ataque, y posteriormente se halló un artefacto tipo cilindro sobre la vía que conduce a Popayán, lo que obligó a bloquear el tránsito en la zona.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/ataque-estacion-de-policia-en-totoro-bloquean-con-cilindro",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 14:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2542,
+      "titulo": "Operativo militar contra disidencias de 'Iván Mordisco' deja un muerto y tres capturados en Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-02",
+      "descripcion": "Un operativo del Ejército Nacional contra una facción de las disidencias de las FARC lideradas por Néstor Gregorio Vera, alias 'Iván Mordisco', dejó un muerto y tres personas detenidas en el departamento del Valle del Cauca, según informó el Gobierno el 2 de noviembre de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/un-muerto-y-tres-detenidos-en-una-operacion-del-ejercito-colombiano-contra-disidencia-farc/",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Néstor Gregorio Vera (alias Iván Mordisco)"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 14:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2541,
       "titulo": "Decomisan más de 85 millones de unidades de contrabando en 20 meses",
       "categoria": "economia",
@@ -59306,7 +59442,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-02",
-    "total_casos": 2452,
+    "total_casos": 2458,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
