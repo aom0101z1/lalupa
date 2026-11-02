@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-01"
+    "ultima_actualizacion": "2026-11-02"
   },
   "lecturas": [
+    {
+      "id": 341,
+      "titulo": "La IA no genera retorno financiero para la mayoría de empresas, según economista de Apollo",
+      "resumen": "Un economista de la firma Apollo advierte que, pese al auge en la inversión en inteligencia artificial, la mayoría de las empresas no ha obtenido ningún beneficio financiero tangible de su adopción. El hallazgo cuestiona el optimismo generalizado sobre el retorno de la IA en los negocios.",
+      "por_que_leerlo": "Ayuda a decidir con datos si vale la pena invertir en IA para tu negocio antes de sumarte a la ola.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "retorno de inversion",
+        "negocios",
+        "economia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 342,
+      "titulo": "El matemático Terence Tao advierte que la IA está cambiando radicalmente la matemática",
+      "resumen": "El reconocido matemático Terence Tao argumenta que la forma de hacer y verificar demostraciones matemáticas está cambiando con la llegada de herramientas de IA, y plantea que la comunidad académica debe adaptar sus prácticas de trabajo. El artículo generó un intenso debate técnico, con más de 240 comentarios en Hacker News.",
+      "por_que_leerlo": "Ofrece una mirada honesta de cómo la IA ya está transformando el trabajo intelectual de alto nivel, no solo tareas rutinarias.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "matematicas",
+        "investigacion",
+        "academia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 7,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 343,
+      "titulo": "El Banco de Pagos Internacionales advierte que la deuda de la IA podría contagiar otros mercados de bonos",
+      "resumen": "El BIS alertó que el creciente endeudamiento para financiar infraestructura de inteligencia artificial podría presionar al alza las tasas de interés de largo plazo y aumentar los riesgos para la estabilidad financiera global. La advertencia se suma a otras señales sobre el sobreendeudamiento del sector de centros de datos de IA.",
+      "por_que_leerlo": "Pone en contexto el riesgo financiero sistémico que representa el boom de deuda ligado a la IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "deuda",
+        "inteligencia artificial",
+        "mercados de bonos",
+        "riesgo financiero"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/mercados/deuda-de-la-ia-enciende-una-alerta-en-el-bis-por-sus-posibles-efectos-en-otros-mercados-de-bonos/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 344,
+      "titulo": "Arboles coniferos crecen hasta 4 veces mas rapido lejos de su habitat nativo",
+      "resumen": "Un estudio en 192 sitios de cuatro continentes halla que las coniferas plantadas en el hemisferio sur crecen hasta 4 veces mas rapido y resisten mejor la sequia que en su rango nativo. El hallazgo podria cambiar las estrategias de reforestacion y los mercados de carbono que dependen de la velocidad de captura de CO2.",
+      "por_que_leerlo": "Revela una oportunidad poco conocida para proyectos de reforestacion y creditos de carbono mas eficientes.",
+      "seccion": "ciencia",
+      "tags": [
+        "reforestacion",
+        "carbono",
+        "biologia",
+        "mercados de carbono"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-trees-home-carbon.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 345,
+      "titulo": "La gente prefiere la empatia humana aunque califique mejor la de la IA",
+      "resumen": "Un estudio encontro que, pese a que los usuarios puntuan la empatia generada por chatbots de IA como mas alta que la humana, siguen prefiriendo la conexion humana real. El hallazgo cuestiona si la IA puede sustituir el vinculo emocional en terapia o compania.",
+      "por_que_leerlo": "Da pistas clave para quien construye productos de IA conversacional sobre los limites reales de la empatia artificial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "psicologia",
+        "chatbots",
+        "experiencia de usuario"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-people-human-empathy-ai-higher.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-31",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 346,
+      "titulo": "Quimicos crean herramienta de IA para disenar enzimas mas eficientes",
+      "resumen": "Investigadores desarrollaron una herramienta de inteligencia artificial que traduce el conocimiento y la intuicion de los quimicos en el diseno de enzimas mejoradas, en lugar de reemplazar el trabajo cientifico. El sistema busca acelerar el desarrollo de enzimas para aplicaciones industriales y medicas.",
+      "por_que_leerlo": "Muestra un caso concreto de IA que amplifica el trabajo cientifico en vez de sustituirlo, util para quien construye herramientas de IA aplicada.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biotecnologia",
+        "enzimas",
+        "ciencia aplicada"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-10-31",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 347,
+      "titulo": "Ondas de sonido y nanoparticulas abren nueva via contra el glioblastoma",
+      "resumen": "Cientificos de la Universidad de Virginia combinaron ultrasonido enfocado, nanoparticulas y microARN para atacar simultaneamente varios genes que impulsan el glioblastoma, uno de los canceres cerebrales mas letales y dificiles de tratar. La estrategia experimental busca superar las limitaciones de los tratamientos actuales contra este tumor.",
+      "por_que_leerlo": "Presenta un enfoque novedoso y multidisciplinario contra uno de los canceres mas agresivos que existen.",
+      "seccion": "ciencia",
+      "tags": [
+        "cancer",
+        "medicina",
+        "nanotecnologia",
+        "neurociencia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 348,
+      "titulo": "Empresas chinas pagan hasta 134.000 euros al año por ingenieros de IA especializados en clientes",
+      "resumen": "Gigantes tecnológicos chinos como ByteDance, Tencent y Alibaba ofrecen sueldos de hasta un millón de yuanes anuales, unos 134.000 euros, por 'forward-deployed engineers', perfiles técnicos que trabajan directamente con clientes para implementar soluciones de IA. Ese mismo tipo de perfil también es disputado por Anthropic y OpenAI, lo que revela la intensidad de la guerra global por talento en IA.",
+      "por_que_leerlo": "Da una cifra concreta de cuánto vale hoy el talento técnico en IA aplicada y hacia dónde se mueve el mercado laboral.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "talento",
+        "inteligencia artificial",
+        "china",
+        "salarios"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 349,
+      "titulo": "Plantar árboles en las ciudades para combatir el calor a veces logra el efecto contrario, revela estudio",
+      "resumen": "Un nuevo estudio advierte que, aunque plantar árboles se promueve como solución contra el calor urbano, en ciertas condiciones puede intensificarlo en lugar de reducirlo. Como referencia, en 93 ciudades europeas el 4,33% de las muertes durante el verano de 2015 se atribuyeron al efecto isla de calor.",
+      "por_que_leerlo": "Cuestiona con datos una solución climática dada por sentada y explica cuándo realmente funciona.",
+      "seccion": "ciencia",
+      "tags": [
+        "cambio climatico",
+        "urbanismo",
+        "arboles",
+        "calor"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/hemos-llenado-ciudades-arboles-para-combatir-calor-nuevo-estudio-advierte-que-a-veces-pueden-lograr-exactamente-contrario"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 350,
+      "titulo": "Científicos recrean el vidrio que cambia de color inventado por los romanos hace 1.600 años",
+      "resumen": "Investigadores de la Universidad de Sheffield reprodujeron por primera vez el vidrio dicroico romano, un material que cambia de color según la luz, cuyo único ejemplar completo conocido es la Copa de Licurgo del siglo IV después de Cristo. El logro resuelve un misterio técnico que había desconcertado a científicos durante siglos.",
+      "por_que_leerlo": "Muestra cómo la ciencia moderna puede descifrar tecnologías perdidas de la antigüedad.",
+      "seccion": "ciencia",
+      "tags": [
+        "materiales",
+        "arqueologia",
+        "historia",
+        "quimica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/romanos-hacian-vidrio-que-cambia-color-hace-1-600-anos-ahora-fin-alguien-ha-conseguido-repetirlo"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 351,
+      "titulo": "Tesla ya supera en ventas a modelos reconocidos de Renault, Kia y Mazda en Colombia",
+      "resumen": "Tesla logró ubicarse en el Top 6 de los carros más vendidos en Colombia en todas las categorías, superando a modelos establecidos de marcas tradicionales como Renault, Kia y Mazda. El dato refleja un cambio acelerado en las preferencias del mercado automotor colombiano hacia los vehículos eléctricos.",
+      "por_que_leerlo": "Muestra con cifras concretas qué tan rápido está ganando terreno Tesla frente a marcas tradicionales en el mercado automotor colombiano.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tesla",
+        "colombia",
+        "vehículos eléctricos",
+        "mercado automotor"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/tesla-en-colombia-ya-supera-en-ventas-a-modelos-muy-reconocidos-de-renault-kia-y-mazda/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
+    {
+      "id": 352,
+      "titulo": "Las tarjetas de crédito en Colombia llegan a 16,4 millones y ganan terreno en el gasto diario",
+      "resumen": "El número de tarjetas de crédito vigentes en Colombia alcanzó los 16,4 millones, impulsado por las nuevas generaciones y el uso creciente en compras cotidianas. El mercado muestra un crecimiento sostenido pese a las tasas de interés altas.",
+      "por_que_leerlo": "Da cifras concretas sobre cómo evoluciona el crédito al consumo en Colombia, útil para quien construye productos financieros o fintech.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tarjetas de credito",
+        "colombia",
+        "fintech",
+        "consumo"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/tarjetas-de-credito-ganan-terreno-en-colombia-asi-se-mueve-su-mercado/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 02:07",
+      "auto_generated": true
+    },
     {
       "id": 329,
       "titulo": "Una particula olvidada podria explicar por que existe el universo",
