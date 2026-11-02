@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 353,
+      "titulo": "Hallan sangre fósil de dinosaurio, la más antigua jamás descubierta",
+      "resumen": "Un equipo liderado por la Universidad Curtin encontró evidencia inequívoca de glóbulos rojos fosilizados y aminoácidos de colágeno en restos de dinosaurio, el hallazgo molecular más antiguo de este tipo. El descubrimiento obliga a repensar cuánto tiempo pueden sobrevivir moléculas biológicas dentro de un fósil.",
+      "por_que_leerlo": "Porque cambia lo que se creía posible sobre la conservación de material biológico durante millones de años.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleontologia",
+        "fosiles",
+        "biologia",
+        "dinosaurios"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 354,
+      "titulo": "ADN de 30.000 años muestra que los europeos de la Edad de Hielo estaban más conectados de lo pensado",
+      "resumen": "Análisis genéticos de restos humanos y sedimentos de cuevas revelan migraciones y comunidades conectadas a grandes distancias durante la última glaciación, desafiando la idea de poblaciones aisladas. La evidencia muestra cómo estos grupos sobrevivieron a las condiciones más extremas de la Edad de Hielo.",
+      "por_que_leerlo": "Reescribe la historia de cómo sobrevivió y se movió la humanidad en uno de los periodos más duros del planeta.",
+      "seccion": "ciencia",
+      "tags": [
+        "genetica",
+        "prehistoria",
+        "adn",
+        "migracion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 355,
+      "titulo": "Marvell compra Lumentum por 115.000 millones de dólares en una megafusión tecnológica",
+      "resumen": "Marvell anunció la compra de Lumentum, fabricante de componentes ópticos, por 115.000 millones de dólares, una de las adquisiciones más grandes en la historia de la tecnología. Nvidia es inversionista estratégico de ambas compañías, lo que refuerza su peso en la cadena de infraestructura de IA.",
+      "por_que_leerlo": "Revela hacia dónde fluye el dinero en la infraestructura física que sostiene el boom de la inteligencia artificial.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusiones y adquisiciones",
+        "infraestructura ia",
+        "nvidia",
+        "semiconductores"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 356,
+      "titulo": "Una nueva ola de ciberataques daña neveras de supermercados y arruina alimentos en Europa",
+      "resumen": "Por segunda vez en un mes, hackers atacaron los sistemas de refrigeración de supermercados en varios países europeos, dañando alimentos y afectando el suministro. El incidente evidencia la vulnerabilidad de la infraestructura crítica conectada a internet en el sector retail.",
+      "por_que_leerlo": "Ejemplo concreto de cómo un ciberataque puede traducirse en pérdidas económicas reales y no solo en robo de datos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "infraestructura critica",
+        "europa",
+        "hackeo"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 357,
+      "titulo": "Un proyecto logra leer y escribir directamente los pesos de un modelo de IA para mejorarlo",
+      "resumen": "El proyecto Astra demuestra una técnica para intervenir directamente en el espacio de pesos de un modelo de lenguaje, en este caso Qwen, permitiendo modificar su comportamiento sin reentrenarlo desde cero. La publicación generó más de 800 puntos y 268 comentarios en Hacker News por su enfoque técnico poco explorado.",
+      "por_que_leerlo": "Ofrece una mirada técnica a una forma emergente de manipular modelos de IA que podría abrir nuevas formas de personalización y control.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "modelos de lenguaje",
+        "ingenieria de ia",
+        "qwen"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 358,
+      "titulo": "El gasto interno de Anthropic en su propia IA ya supera lo que paga en salarios a sus empleados",
+      "resumen": "Según un reporte, el valor a precio de mercado del uso interno que Anthropic hace de su modelo Claude ya supera el monto que la empresa paga en sueldos a sus trabajadores. El dato ilustra cuán intensivo en cómputo se ha vuelto operar una empresa de IA de punta.",
+      "por_que_leerlo": "Da una cifra concreta y sorprendente sobre los verdaderos costos operativos de las empresas de inteligencia artificial.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "costos ia",
+        "economia ia",
+        "claude"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 359,
+      "titulo": "Los huesos podrían liberar proteínas que retrasan el envejecimiento y alargan la vida",
+      "resumen": "Un estudio publicado en Science encontró que ciertas proteínas liberadas por el tejido óseo podrían tener un efecto protector contra el envejecimiento y extender la esperanza de vida en modelos animales. El hallazgo abre una nueva vía de investigación sobre el papel del esqueleto como órgano regulador del envejecimiento.",
+      "por_que_leerlo": "Aporta evidencia nueva sobre un mecanismo biológico inesperado que podría influir en futuras terapias contra el envejecimiento.",
+      "seccion": "ciencia",
+      "tags": [
+        "envejecimiento",
+        "biologia",
+        "huesos",
+        "longevidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 360,
+      "titulo": "Datos de la sonda Viking 2 de 1975 podrían ser el primer terremoto marciano registrado",
+      "resumen": "Hace 50 años, el sismómetro de la sonda Viking 2 capturó dos señales inexplicadas en Marte que los científicos no lograron interpretar en su momento. Un nuevo análisis sugiere que podrían ser el registro más antiguo conocido de un sismo marciano, décadas antes de que la misión InSight confirmara la actividad sísmica del planeta.",
+      "por_que_leerlo": "Revela cómo datos olvidados por décadas pueden reescribir lo que sabemos sobre la geología de Marte.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "sismologia",
+        "nasa",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/hace-50-anos-viking-2-grabo-dos-misteriosas-senales-hoy-unos-cientificos-apuntan-a-grabacion-antigua-terremoto-marciano"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 361,
+      "titulo": "Alicorp compra la marca Rama y operará desde Cali para abastecer cuatro países de la región",
+      "resumen": "La multilatina peruana Alicorp adquirió la marca Rama por más de US$150 millones, sumando 19 marcas a su portafolio. La planta de Cali será la base para abastecer a Colombia, Ecuador, Perú y Panamá.",
+      "por_que_leerlo": "Un ejemplo concreto de cómo una multilatina usa una adquisición para consolidar manufactura y distribución regional desde Colombia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusiones y adquisiciones",
+        "colombia",
+        "manufactura",
+        "multilatinas"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/alicorp-adquirio-rama-y-operara-desde-cali-para-atender-cuatro-mercados-de-la-region-4516243"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 362,
+      "titulo": "Tripulación de misión simulada a Marte de la NASA completa 378 días de aislamiento",
+      "resumen": "Cuatro voluntarios salieron del hábitat CHAPEA de la NASA tras 378 días simulando una misión a Marte, como parte de los preparativos para una misión tripulada real prevista para la década de 2030. El experimento evalúa cómo el aislamiento prolongado afecta el desempeño físico y psicológico de los astronautas.",
+      "por_que_leerlo": "Muestra cómo la NASA prueba en la Tierra los retos reales de una futura misión tripulada a Marte.",
+      "seccion": "ciencia",
+      "tags": [
+        "nasa",
+        "marte",
+        "espacio",
+        "mision tripulada"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/tripulacion-de-la-mision-simulada-a-marte-de-la-nasa-sale-del-aislamiento-tras-378-dias-4516053"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 363,
+      "titulo": "Alemania confirma que el iPhone de varios legisladores fue hackeado con spyware",
+      "resumen": "Legisladores alemanes y un cineasta recibieron notificaciones de Apple advirtiendo que sus teléfonos pudieron ser comprometidos con software espía. El caso reabre el debate sobre el uso de spyware comercial contra figuras políticas en Europa.",
+      "por_que_leerlo": "Alerta sobre el riesgo real de vigilancia con spyware incluso en gobiernos democráticos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "spyware",
+        "seguridad",
+        "apple",
+        "vigilancia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
+      "id": 364,
+      "titulo": "Brasil construye un túnel submarino para unir el mayor puerto de Latinoamérica en 5 minutos",
+      "resumen": "El túnel conectará las ciudades de Santos y Guarujá, reduciendo un trayecto que hoy toma una hora en coche a apenas cinco minutos. El cruce da acceso al puerto de Santos, que en 2024 movió 5,48 millones de contenedores, 1,56 millones más que el segundo puerto de la región, Manzanillo en México.",
+      "por_que_leerlo": "Muestra cómo una obra de ingeniería puede resolver un cuello de botella logístico clave para el comercio de América Latina.",
+      "seccion": "tecnologia",
+      "tags": [
+        "infraestructura",
+        "logistica",
+        "brasil",
+        "puertos"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/brasil-hundira-tunel-canal-mayor-puerto-latinoamerica-hora-coche-a-unos-5-minutos"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-02 20:42",
+      "auto_generated": true
+    },
+    {
       "id": 341,
       "titulo": "La IA no genera retorno financiero para la mayoría de empresas, según economista de Apollo",
       "resumen": "Un economista de la firma Apollo advierte que, pese al auge en la inversión en inteligencia artificial, la mayoría de las empresas no ha obtenido ningún beneficio financiero tangible de su adopción. El hallazgo cuestiona el optimismo generalizado sobre el retorno de la IA en los negocios.",
