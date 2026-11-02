@@ -221,6 +221,138 @@
   ],
   "casos": [
     {
+      "id": 2541,
+      "titulo": "Decomisan más de 85 millones de unidades de contrabando en 20 meses",
+      "categoria": "economia",
+      "fecha": "2026-11-01",
+      "descripcion": "Autoridades reportaron la incautación de 85.925.088 unidades de contrabando en los últimos 20 meses, con un valor aproximado de $583.854 millones. Adicionalmente, la Fiscalía identificó operaciones de lavado de activos por más de $13.731 millones asociadas a estas redes de contrabando.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/en-20-meses-han-sido-decomisadas-85925088-unidades-de-contrabando",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 04:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2540,
+      "titulo": "MinSalud descarta ébola como causa de muerte en caso del Valle del Cauca",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-01",
+      "descripcion": "El Ministerio de Salud intensificó la vigilancia epidemiológica tras dos casos de malaria detectados en el Valle del Cauca en personas que habían viajado desde la República Democrática del Congo. Una de ellas falleció, pero la cartera desmintió que la muerte estuviera relacionada con ébola, confirmando que se trató de malaria.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-ministerio-de-salud-intensifico-vigilancia-epidemiologica-por-dos-casos-de-malaria-en-el-valle-del-cauca-4515956",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Instituto Nacional de Salud",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 04:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2539,
+      "titulo": "Contratación de $125.000 millones en Fontur en días previos a la Ley de Garantías",
+      "categoria": "contratos",
+      "fecha": "2026-11-02",
+      "descripcion": "Se revela un escándalo por la contratación de $125.000 millones en el Fondo Nacional de Turismo (Fontur) realizada en los días previos a la entrada en vigencia de la Ley de Garantías Electorales, lo que genera sospechas sobre la legalidad y oportunidad de las adjudicaciones en el tramo final del gobierno Petro.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/escandalo-por-contratacion-de-125000-millones-en-fontur-en-dias-previos-a-la-ley-de-garantias/202618/",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Nacional de Turismo (Fontur)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-02 04:22"
+    },
+    {
+      "id": 2538,
+      "titulo": "Colombia anuncia alianza con FBI y Europol para seguridad fronteriza con Venezuela",
+      "categoria": "internacional",
+      "fecha": "2026-11-01",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció una estrategia de cooperación con el FBI, Europol, Ameripol y la DEA para fortalecer la seguridad en la frontera con Venezuela, enfocada en inteligencia, persecución de redes transnacionales, lavado de activos y financiamiento del narcotráfico.",
+      "evidencia": "Reportado por Latercera.com",
+      "fuentes": [
+        {
+          "nombre": "Latercera.com",
+          "url": "https://www.latercera.com/mundo/noticia/colombia-anuncia-una-alianza-con-el-fbi-y-europol-para-recuperar-la-seguridad-en-la-frontera-con-venezuela/",
+          "fecha": "2026-11-01"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / FBI / Europol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-02 04:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2537,
+      "titulo": "Denuncian 22 contratos millonarios en MinDeporte en horas previas al cambio de gobierno",
+      "categoria": "contratos",
+      "fecha": "2026-11-02",
+      "descripcion": "Una denuncia señala que, a pocas horas de la posesión de Abelardo De la Espriella, el gobierno saliente de Gustavo Petro suscribió 22 contratos millonarios en el Ministerio del Deporte, lo que genera sospechas de irregularidades en el proceso de empalme y adjudicación de última hora.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/denuncian-22-contratos-millonarios-del-gobierno-petro-en-mindeporte-a-pocas-horas-de-que-llegara-abelardo-de-la-espriella-al-poder/202625/",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Deporte",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-02 04:22"
+    },
+    {
+      "id": 2536,
+      "titulo": "Operativo militar golpea disidencias en El Cerrito, Valle",
+      "categoria": "seguridad",
+      "fecha": "2026-11-02",
+      "descripcion": "El Ejército Nacional realizó un operativo en El Cerrito, Valle del Cauca, contra la estructura 'Adán Izquierdo' de las disidencias de las Farc. En la acción fue abatido un integrante y capturados varios miembros, entre ellos alias 'JJ', señalado como cabecilla de la estructura.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/ejercito-golpea-en-el-cerrito-valle-estructura-del-grupo-adan-izquierdo-de-las-disidencias",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'JJ'"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-02 04:22",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2535,
       "titulo": "Cierre de seis locales en Kennedy por venta de estupefacientes a menores",
       "categoria": "seguridad",
@@ -59173,8 +59305,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-01",
-    "total_casos": 2446,
+    "ultima_actualizacion": "2026-11-02",
+    "total_casos": 2452,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
