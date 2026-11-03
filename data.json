@@ -221,6 +221,598 @@
   ],
   "casos": [
     {
+      "id": 2599,
+      "titulo": "Minsalud aplaza seis meses implementación del giro directo de la UPC",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El Ministerio de Salud decidió aplazar por seis meses la implementación del nuevo mecanismo de giro directo de la Unidad de Pago por Capitación (UPC), ante las dificultades técnicas que enfrentan los actores del sistema de salud para adaptar sus plataformas informáticas a los nuevos requisitos exigidos por la medida.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minsalud-aplazo-seis-meses-la-implementacion-del-nuevo-giro-directo-de-la-upc-4516802",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2598,
+      "titulo": "Ataque con drones explosivos contra estación de Policía en Chimichagua, Cesar",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "En la madrugada del 3 de noviembre de 2026 se registró un ataque con drones cargados de explosivos contra la estación de Policía del corregimiento Las Vegas, en Chimichagua, Cesar. El hecho dejó daños materiales pero no se reportaron heridos ni víctimas fatales, según comunicado de la Alcaldía de Chimichagua.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ataque-drones-explosivos-estacion-policia-chimichagua-cesar-BG43106337",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Alcaldía de Chimichagua",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2597,
+      "titulo": "Vicepresidente y canciller lideran participacion de Colombia en Cumbre Iberoamericana de Madrid",
+      "categoria": "internacional",
+      "fecha": "2026-11-03",
+      "descripcion": "El vicepresidente Jose Manuel Restrepo y el canciller Omar Bula viajaron a Madrid para liderar la participacion de Colombia en la Cumbre Iberoamericana, anunciando encuentros estrategicos orientados a atraer inversion extranjera al pais.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/vicepresidente-jose-manuel-restrepo-y-canciller-omar-bula-estan-en-madrid-para-liderar-participacion-de-colombia-en-la-cumbre-iberoamericana-3598083",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Manuel Restrepo",
+        "Omar Bula"
+      ],
+      "entidad": "Vicepresidencia de la Republica / Cancilleria",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2596,
+      "titulo": "Reforma tributaria eleva IVA a la gasolina del 5% al 19% y crea impuesto al carbono",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El proyecto de Ley de Rescate Fiscal del Gobierno De la Espriella plantea elevar el IVA a la gasolina del 5% al 19% sobre el precio del productor, junto con un impuesto al carbono y otros cambios en el sector energetico, segun detalla el Ministerio de Hacienda.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/iva-a-la-gasolina-impuesto-al-carbono-y-otros-efectos-de-la-ley-de-rescate-en-la-energia-505647",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2595,
+      "titulo": "Reforma tributaria elimina beneficios a magistrados, jueces y docentes",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "La Ley de Rescate Fiscal del Gobierno De la Espriella propone eliminar determinados beneficios tributarios que actualmente favorecen a magistrados, jueces y docentes, como parte del ajuste fiscal. El proyecto detalla los porcentajes específicos que se verían afectados por la medida.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-eliminaria-beneficios-tributarios-de-magistrados-jueces-y-docentes-estos-son-los-porcentajes/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2594,
+      "titulo": "ANI firma acuerdo para reactivar Muelle 13 de Buenaventura",
+      "categoria": "obras",
+      "fecha": "2026-11-03",
+      "descripcion": "La Agencia Nacional de Infraestructura (ANI) firmó un acuerdo para reactivar el Muelle 13 del puerto de Buenaventura, operado por Grupo Portuario desde 2005, evitando así un litigio internacional por US$30 millones. El acuerdo busca destrabar la operación del terminal portuario.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ani-firma-acuerdo-para-reactivar-muelle-13-de-buenaventura-y-evitar-litigio-de-us30-millones/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2593,
+      "titulo": "Colombia lleva agenda de comercio e inversión a la Cumbre Iberoamericana en Madrid",
+      "categoria": "internacional",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno de Colombia anunció que llevará una agenda de comercio e inversión a la Cumbre Iberoamericana en Madrid, que contempla encuentros bilaterales con países estratégicos para fortalecer relaciones diplomáticas e identificar nuevas áreas de cooperación económica.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/colombia-llevara-agenda-de-comercio-e-inversion-a-la-cumbre-iberoamericana-en-madrid/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2592,
+      "titulo": "De la Espriella ordena actuar 'caiga quien caiga' tras decisión de MinEducación sobre el Fomag",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El presidente Abelardo De la Espriella dio una orden contundente de actuar 'caiga quien caiga' tras una decisión del Ministerio de Educación relacionada con el Fomag, en medio de un proyecto de ley que, según Fecode, podría eliminar el fondo de prestaciones del magisterio, y de la auditoría forense ya anunciada sobre su gestión.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSl9xSHVjanV4NkpqVC1qODNmWkw3eHBhemZEZmwtTGJiRk44aGFGVWxuZmJRMzVkb3NvZ08xUEc4Z1loRnRKanJEa3FIcjRvNnRXaUtCUHdEblNfcTdKXzdZSXR3X2ZiSEUxNVIzVUQwOFZrb2dKYXNOUEFlWDRXZGNsb3hmWG9rSjNEQXZfRjZ1dUhmVGdfaWJPOG9XWmRoNmQxS08zSGhzVDdiVjVLa3VuNnVpazNqaG40dHhyRFg2bTREcnFwTk1SekxwckpjQU1Qb21VV255cnladzBNMVczY2hkRE4yZmYwYnVwbnI0dHNJdE0wdTlzVWV4cWM?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Educación / Fomag",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2591,
+      "titulo": "Reforma busca reactivar la regla fiscal en 2027 con límites automáticos al gasto",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "Una reforma impulsada por el Gobierno busca reactivar la regla fiscal a partir de 2027 y establecer límites automáticos al crecimiento del gasto público, creando una cuenta de control para registrar desviaciones y exigir planes de ajuste fiscal.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/reforma-busca-reactivar-la-regla-fiscal-en-2027-y-establecer-limites-automaticos-al-crecimiento-del-gasto-publico-505640",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2590,
+      "titulo": "Gobierno anuncia nuevo programa para combatir el desempleo",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció la implementación de un nuevo programa orientado a combatir el desempleo en Colombia, con el que busca facilitar la vinculación laboral de miles de familias en el país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-implementara-nuevo-programa-que-combatira-el-desempleo-en-colombia/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2589,
+      "titulo": "Gobierno define plazo para aprobación de la Ley de Rescate Fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno de Abelardo de la Espriella estableció un plazo para que la Ley de Rescate Fiscal, actualmente en manos del Congreso, quede aprobada, en medio del debate por la reforma tributaria y el riesgo fiscal señalado por el Ejecutivo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-define-plazo-para-que-la-ley-rescate-quede-aprobada/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2588,
+      "titulo": "Se suspende debate de adición presupuestal para 2026 en el Congreso",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El debate del proyecto de adición presupuestal para 2026 fue suspendido en el Congreso, después de que el ministro de Hacienda, Miguel Gómez, presentara dos propuestas para modificar la política fiscal del año, en medio de la discusión sobre la Ley de Rescate Fiscal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/se-suspende-debate-de-proyecto-de-adicion-presupuestal-para-2026-estos-son-los-detalles/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gómez"
+      ],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2587,
+      "titulo": "Gobierno anuncia nuevo recorte de gastos para entidades públicas en diciembre",
+      "categoria": "transparencia",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno de Abelardo de la Espriella anunció un nuevo recorte de gastos para entidades públicas en diciembre, estableciendo criterios que obligan a los funcionarios responsables de la ejecución presupuestal a garantizar que cada gasto tenga un propósito justificado, en línea con la política de austeridad fiscal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncio-el-nuevo-recorte-que-hara-para-entidades-publicas-en-diciembre/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2586,
+      "titulo": "Bancolombia lanza vitrina digital en Mercado Libre para afectados por el sismo",
+      "categoria": "avances",
+      "fecha": "2026-11-03",
+      "descripcion": "Bancolombia anunció el lanzamiento de una vitrina digital en alianza con Mercado Libre dirigida a más de 12.000 pequeños negocios afectados por el terremoto en zonas como Pereira y Cartago, buscando ofrecerles nuevas oportunidades de comercialización tras la emergencia.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/bancolombia-lanzara-vitrina-digital-en-mercado-libre-para-afectados-por-el-sismo-4516626",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Bancolombia / Mercado Libre",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2585,
+      "titulo": "Canciller denuncia deterioro de residencia diplomática en España atribuido al gobierno anterior",
+      "categoria": "diplomaticos",
+      "fecha": "2026-11-03",
+      "descripcion": "El canciller Ómar Bula denunció el estado de deterioro en que se encontró la residencia oficial de Colombia en España, señalando que 'el gobierno anterior la dejó en estado lamentable', en el marco de hallazgos del empalme sobre el manejo de bienes diplomáticos durante el gobierno Petro.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/canciller-omar-bula-denuncia-deterioro-de-la-residencia-de-colombia-en-espana-el-gobierno-anterior-la-dejo-en-estado-lamentable/202646/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Ómar Bula"
+      ],
+      "entidad": "Cancillería / Embajada de Colombia en España",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57"
+    },
+    {
+      "id": 2584,
+      "titulo": "Gobierno reporta resultados contra el narcotráfico en el sur del país",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno de Abelardo de la Espriella reportó resultados en la lucha contra el narcotráfico en el sur de Colombia, en el marco de la ofensiva de seguridad del nuevo gobierno contra grupos armados y economías ilícitas.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmFRbk5VWlhRcjBDRVZkWXZqLXF5TDl5Y09aSUQ0bF85U252aDFRMHNjOVk0VjJhMTlESnR2NXpHeU9DWmNKT0dlZGpWbjhfRWdpR0xIYXRBY3NkWmdlbVgtaGtrMFg1TVdBLUhKWTJudWRZemhwTy1iTmR1S3FFLTBLZU0zOE9fb2pseHBDWFZPZ0ctZjRwVWNtYWxEUkdQbl9BUm5RbVc3cXNXdl9tbGxCQ2ZiS2VJcVBvdmhMZmtpdE5GY2lEbVoxLXJNREdI?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2583,
+      "titulo": "Misión del FMI evalúa posible préstamo de hasta US$5.000 millones para Colombia",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "Una misión del Fondo Monetario Internacional llegó a Colombia para evaluar la situación fiscal del país. Se contempla que el Gobierno de Abelardo de la Espriella solicite un préstamo de hasta US$5.000 millones en medio de la crisis fiscal y el debate por la Ley de Rescate Económico.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaWhIWFNfWDdsZ0FlNWZPUGNadVdCQ1JTa2trM3hKTzdkT01IZWJrTk1YWWFZU0VUcDNsWnNrN0RuTGVvajRCYW9kVkROQlB4WDdKSXNkM2YxU051a0RBaTNVczVBdWwzc3hkM3pCdW1GcTVHYWZ2RDA3MGxwRzlNZjFKZVRjX3NyTG9WeW8tTjZKMnA4cVR6S2RrYzJBWlN5NHZ4ekY0WEQ5aWU0N3c5VjluMFVWeURYUTNHTWRLeS1ocEpnVHdVNUl6QUVNMTdTYURxN3pHQW5MTUhMUlA2el9mMUVDd3FPaHdGeG1qaUtrSTVVX05NSVQza9IBlgJBVV95cUxNdXVxV1AyMlFvTzB5U3BBUmc1NjZzcTg3YUlsbW9DU0VzSGFaSEUzdkF1cTRHbHB2dUNIc1oxTGkwcDd6NWR2X2ktRXJDM0RGSXY4U0R5UkVYZW5RNW9maXdBZ2NfbmJHSXVWREQzSGNNbkVJbzlBaWxWd1dWZVlqRF92NmJKQzdPNzk1OUV5UzBIeGNJdUx6ZEpveTB5cmJGUjBFZ3QzQTFMUHpGWmFRODN2emwwMk9zQV9yY3dZblBuMkZNRmdmNnpybWxIYUNrTmpYZVNZX3VDcGNBRG9PSmFodVlFQ1M5TXRrYzhXZXNwSTA5R0JoMXNodDNPdEtPem9QWW40ZTJiMkptX21KU0RZU3dMZw?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / FMI",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2582,
+      "titulo": "Capturan 23 integrantes de la banda 'Hexano' dedicada al hurto de combustible",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "Autoridades capturaron a 23 presuntos integrantes de la banda 'Hexano', dedicada a la comercialización clandestina de combustible, que habría causado pérdidas a Ecopetrol por cerca de 2.000 millones de pesos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/cayo-la-banda-hexano-dedicada-a-comercializar-combustible-clandestinamente-capturaron-a-23-supuestos-integrantes-3598195",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2581,
+      "titulo": "Convenio de energía comunitaria del Gobierno Petro en Chocó no dejó obras construidas",
+      "categoria": "contratos",
+      "fecha": "2026-11-03",
+      "descripcion": "El programa EN-Comunidad del Gobierno Petro firmó un convenio de $27.815 millones para llevar energía a comunidades del Chocó, que formuló 50 proyectos pero no construyó ninguno antes de que el convenio terminara en diciembre de 2025. Los recursos solo cubrieron capacitación y estudios técnicos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-petro-convenio-energia-comunitaria-50-proyectos-sin-obras-choco-HH43112720",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Petro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57"
+    },
+    {
+      "id": 2580,
+      "titulo": "Gobierno expide circular de austeridad para fiestas navideñas con recursos públicos",
+      "categoria": "transparencia",
+      "fecha": "2026-11-03",
+      "descripcion": "La Presidencia de la República, mediante la Circular Externa 10 de 2026 firmada por Carlos Andrés Ríos Puerta, estableció restricciones al uso de recursos públicos para celebraciones navideñas y de fin de año en ministerios, departamentos administrativos, superintendencias y demás entidades de la Rama Ejecutiva.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-restringe-uso-recursos-publicos-fiestas-navidad-reglas-FE43120207",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Ríos Puerta"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2579,
+      "titulo": "Consulado de Colombia en Tijuana nunca abrió y dejó deuda de arriendo",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno Petro creó por decreto hace casi dos años un consulado en Tijuana que nunca abrió al público. La Embajada de Colombia en México recibió una cuenta de cobro por arriendo el 30 de septiembre, sin que existiera partida presupuestal para cubrirlo, pese a que ya había una cónsul nombrada desde enero de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/consulado-colombia-tijuana-gobierno-petro-nunca-abrio-deuda-arriendo-KC43143090",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Embajada de Colombia en México / Cancillería",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57"
+    },
+    {
+      "id": 2578,
+      "titulo": "Reconfiguración de cargos en el Ministerio del Interior antes de llegada de Ordóñez",
+      "categoria": "gabinete",
+      "fecha": "2026-11-03",
+      "descripcion": "El Ministerio del Interior ajusta su equipo antes de la llegada formal de Alejandro Ordóñez como ministro. El viceministro de Deporte, Edinson Tigreros Herrera, pasará a un cargo de asesor, en medio de rumores sobre el ingreso de Carlos Suárez a la cartera.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cargos-clave-mininterior-llega-cercano-carlos-suarez-AF43137502",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordóñez",
+        "Edinson Tigreros Herrera",
+        "Carlos Suárez"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2577,
+      "titulo": "Ricardo Roa evalúa preacuerdo con la Fiscalía por violación de topes en campaña Petro 2022",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-03",
+      "descripcion": "Ricardo Roa, expresidente de Ecopetrol, respondió sobre la posibilidad de firmar un preacuerdo con la Fiscalía por la presunta violación de topes de financiación en la campaña presidencial de Gustavo Petro en 2022, señalando que \"los explorará\".",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNLXAyZm9wZ1ZpUWhpNGE1OGVsbVpyUkhIZzZkRy1IMzJpU0M3RzctdVo4a3R0YkZkaVZfdHJuXzMxNkNZRk5zZ2EtaURoeGxNbUwxOU1wRkNadG9YRzVFZkVYSC0tS1VFV243bWZvRFlOSVg2VmtjSm5fR2FKU3VHekpYNGoyTHk4cTVJeUxGb3R2bVJ1elJ0N3dvWTVvaTJXejk4dXRpSk1IR25kNV93aEx1ZlNOVzZXQ3FPN0VLSnBPU2dVZnE5U1M0TnQ3OU5CWW9FaXl0OVp0Zkp6amNYUWx2X1JOWGw3RDJMdnlWN1ZxZDlPS01rZi01RXpQYnN3U1hfUC0yeFNPdFo0a1N6SFY0V25VQdIBsAJBVV95cUxOM3Q1RXFIYzJHd0dRZ2lpTDEyakFqU3hqYTY1OWlMLUk1T1ZQOG5ScGhqWDJNeWUtVW1PQnowaThTcEdxajNxQ0VTVldScG14Rld0dXBTemNINkJMUDBJeTBjYU9WWWhza0VmQXo5R0dJcGc3TjllbGNQUU1aNThTeFItOTdhRFdGSF93a0IwR00xcFUyNElEQUdOR1VwQmZVYWxENGtZckxIUElHQm1qNXVTaXZ2NmQwOGVVUDJDZnhrWmxEMFlTMDlzZVIxaWRGa25xODdsMzR5M0NteHR1RGlOZXdsWW1IdFA5SDFkWmxodmhqRVAwMW51Mzd1cVdhTG5yUTBWNnFqYnpCX3N1eFVaRFF2NHZEVlFlcGFVZHpMVUhlMTdiNDZqZVRid0xY?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ecopetrol",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57"
+    },
+    {
+      "id": 2576,
+      "titulo": "Fiscalía reporta 391 capturas en megaoperativos contra el crimen en cuatro ciudades",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "La Fiscalía General de la Nación reveló el balance de operativos adelantados en Bogotá, Cali, Antioquia y Barranquilla, con un total de 391 presuntos integrantes de estructuras criminales capturados durante el Gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fiscalia-revela-los-resultados-de-los-megaoperativos-contra-el-crimen-en-bogota-cali-antioquia-y-barranquilla-este-es-el-balance-3598166",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2575,
+      "titulo": "Abogado de Deicy Jiménez renuncia por seguridad en caso de 'sexo contratos'",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-03",
+      "descripcion": "A pocos días de su primera comparecencia ante la Corte Suprema de Justicia, Deicy Jiménez, quien denunció presuntas cuotas sexuales a cambio de contratos en el Gobierno Petro, se quedó sin representación legal. Su abogado Felipe Caballero renunció por motivos de seguridad, lo que impidió que ella declarara ante la Fiscalía.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/deicy-jimenez-se-queda-sin-abogado-renuncia-seguridad-NE43121963",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Felipe Caballero"
+      ],
+      "entidad": "Corte Suprema de Justicia / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57"
+    },
+    {
+      "id": 2574,
+      "titulo": "Eva Ferrer declara sobre visitas de Euclides Torres a Casa de Nariño",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-03",
+      "descripcion": "La ciudadana española Eva Ferrer amplió su declaración ante la Fiscalía sobre presuntas irregularidades en el entorno de la exprimera dama Verónica Alcocer. Mencionó una visita del empresario Euclides Torres a la Casa de Nariño que habría quedado registrada a nombre de Ferrer, no del propio Torres.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eva-ferrer-declaracion-visitas-euclides-torres-casa-narino-GH43110042",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Euclides Torres",
+        "Verónica Alcocer"
+      ],
+      "entidad": "Fiscalía General de la Nación / Casa de Nariño",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 22:57"
+    },
+    {
       "id": 2573,
       "titulo": "Fomag inicia intervención en Antioquia para conciliar cartera y gestionar recursos",
       "categoria": "gestion-emergencia",
@@ -60042,7 +60634,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-03",
-    "total_casos": 2484,
+    "total_casos": 2510,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
