@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-02"
+    "ultima_actualizacion": "2026-11-03"
   },
   "lecturas": [
+    {
+      "id": 365,
+      "titulo": "Dietas asociadas a la obesidad potencian la inmunoterapia contra el cáncer en ratones",
+      "resumen": "Un estudio con ratones encontró que ciertas dietas asociadas con la obesidad, consideradas poco saludables, pueden hacer más efectiva la inmunoterapia contra el cáncer. Los investigadores atribuyen el efecto a cómo esos alimentos alteran la microbiota intestinal y fortalecen la respuesta inmune frente a los tumores.",
+      "por_que_leerlo": "Desafía una suposición médica común y sugiere cómo la dieta podría usarse para potenciar tratamientos oncológicos.",
+      "seccion": "ciencia",
+      "tags": [
+        "cancer",
+        "inmunoterapia",
+        "microbiota",
+        "dieta"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 366,
+      "titulo": "Un gadget ucraniano de bolsillo capta en secreto el video de los drones rusos",
+      "resumen": "Una startup de Kiev creó un receptor portátil de apenas 280 gramos que permite a las tropas ucranianas interceptar en tiempo real las transmisiones de video de los drones rusos. El avance podría ser temporal, pues Rusia avanza hacia video cifrado y drones guiados por IA que no emiten señal interceptable.",
+      "por_que_leerlo": "Muestra cómo la innovación barata y rápida está redefiniendo la guerra electrónica en tiempo real.",
+      "seccion": "tecnologia",
+      "tags": [
+        "drones",
+        "guerra electronica",
+        "ucrania",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 367,
+      "titulo": "Cloudflare reduce a la mitad el retraso de DNS y recorta 85% el uso de memoria",
+      "resumen": "Ingenieros de Cloudflare rediseñaron su sistema de construcción de zonas DNS para aplicar cambios de forma selectiva en lugar de reconstruir todo el conjunto cada vez, logrando reducir el retraso a la mitad y el consumo de memoria en un 85%.",
+      "por_que_leerlo": "Un caso real y medible de optimización de infraestructura a gran escala, útil para quienes construyen sistemas distribuidos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ingenieria",
+        "dns",
+        "cloudflare",
+        "optimizacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 368,
+      "titulo": "Una fintech colombiana debuta en la Bolsa emitiendo CDT para financiar sus créditos",
+      "resumen": "La compañía busca captar más de $400.000 millones de pesos en 2026 mediante certificados de depósito a término (CDT) listados en la Bolsa de Valores de Colombia, con montos de inversión desde $250.000. Los recursos se destinarán a financiar su cartera de créditos.",
+      "por_que_leerlo": "Ofrece una alternativa de inversión accesible y novedosa para quien quiera diversificar sus ahorros más allá de los CDT bancarios tradicionales.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "cdt",
+        "bolsa de colombia",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/fintech-bolsa-colombia-emisor-cdt/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 369,
+      "titulo": "El retail móvil crecerá a 30.000 millones de dólares para 2030",
+      "resumen": "Minoristas están reinventando el concepto del camión de helados con tiendas móviles, tanto operadas por personas como autónomas, para vender productos perecederos como panadería y comidas frescas. BPM Analytics proyecta que las ventas del retail móvil crecerán hasta 30.000 millones de dólares en todo el mundo para 2030.",
+      "por_que_leerlo": "Muestra un modelo de negocio en expansión con cifras concretas de mercado, útil para quien piensa en formatos de venta física innovadores.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "retail movil",
+        "startups",
+        "logistica",
+        "vehiculos autonomos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-key-mobile-retail.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 370,
+      "titulo": "Hallan en ratones una reserva oculta de células madre sanguíneas de larga vida",
+      "resumen": "Investigadores del Centro Alemán de Investigación del Cáncer (DKFZ) y el Instituto HI-STEM hallaron en ratones un grupo de células madre sanguíneas inusualmente longevas que permanecen dormidas por largos periodos sin perder su capacidad de generar sangre nueva. Los científicos creen que esta reserva oculta podría sostener la regeneración sanguínea y el sistema inmune a lo largo de toda la vida.",
+      "por_que_leerlo": "Revela un mecanismo biológico nuevo que podría abrir camino a tratamientos para enfermedades de la sangre y el envejecimiento del sistema inmune.",
+      "seccion": "ciencia",
+      "tags": [
+        "celulas madre",
+        "sangre",
+        "longevidad",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-stem-cells-deep-secret-reserve.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 371,
+      "titulo": "Hubble y Webb hallan objetos del sistema solar que no han cambiado en miles de millones de años",
+      "resumen": "Los telescopios Hubble y James Webb de la NASA analizaron 27 objetos pequeños y distantes más allá de Neptuno y descubrieron que han permanecido prácticamente sin cambios durante miles de millones de años. Sus tamaños y cantidades inesperadas desafían las teorías actuales sobre cómo se formaron los planetas del sistema solar.",
+      "por_que_leerlo": "Ofrece evidencia fresca que pone en duda los modelos establecidos sobre el origen de los planetas.",
+      "seccion": "ciencia",
+      "tags": [
+        "sistema solar",
+        "astronomia",
+        "james webb",
+        "formacion planetaria"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-01",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 372,
+      "titulo": "Qué queda realmente de la promesa de la fusión fría",
+      "resumen": "Décadas después del escándalo de la fusión fría, persiste un programa de investigación legítimo con átomos exóticos que no resolverá la crisis energética pero sigue ampliando los límites de la física nuclear. El artículo de Quanta repasa qué sobrevivió de esa promesa original y qué se investiga hoy en serio bajo ese nombre.",
+      "por_que_leerlo": "Aclara con rigor qué hay de ciencia real detrás de uno de los mitos tecnológicos más persistentes.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica",
+        "fusion fria",
+        "energia",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 373,
+      "titulo": "China revela su plan oficial para alunizar antes de 2030",
+      "resumen": "China publicó un cronograma concreto para llevar astronautas a la Luna antes de que termine la década, sin incluir una misión previa de órbita lunar tripulada similar a Apolo 8 o Artemis II. El anuncio marca un paso formal en la carrera espacial frente a Estados Unidos.",
+      "por_que_leerlo": "Para entender el ritmo real de la carrera espacial entre las dos potencias que más invierten en el espacio.",
+      "seccion": "ciencia",
+      "tags": [
+        "espacio",
+        "china",
+        "exploracion lunar",
+        "programa espacial"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 374,
+      "titulo": "El inventario de Apple sube 154% por el alza sin precedentes en precios de memoria",
+      "resumen": "Apple reportó que su inventario escaló a US$14.500 millones, un salto del 154%, debido a costos de memoria que la empresa describe como 'sin precedentes' y que espera sigan subiendo. El auge de demanda de chips de memoria para IA está encareciendo la cadena de suministro de electrónica de consumo.",
+      "por_que_leerlo": "Un dato concreto de cómo el boom de la IA ya está encareciendo productos que no son de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "apple",
+        "memoria",
+        "cadena de suministro",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 375,
+      "titulo": "Anthropic advierte que está cerca de lograr una IA capaz de mejorarse a sí misma",
+      "resumen": "Anthropic señaló que se acerca a la capacidad de 'auto-mejora recursiva' (RSI), el punto en que un modelo de IA se vuelve tan eficiente entrenándose a sí mismo que dispara una aceleración drástica de sus capacidades. Quienes temen un desarrollo descontrolado de la IA consideran este umbral como un punto sin retorno.",
+      "por_que_leerlo": "Para entender el próximo gran punto de inflexión que las empresas de IA dicen tener a la vista.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "anthropic",
+        "autoaprendizaje",
+        "rsi"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
+    {
+      "id": 376,
+      "titulo": "Un robot de reparto provoca un accidente con nueve heridos en Tallin y no enfrenta consecuencias",
+      "resumen": "Un robot de entrega autónomo se cruzó en el camino de un autobús urbano en Tallin, Estonia, obligando a un frenazo brusco que dejó nueve pasajeros heridos en el suelo; el robot siguió su camino sin que exista una figura legal para sancionarlo como se haría con un conductor que se da a la fuga. El caso expone un vacío regulatorio sobre la responsabilidad de los vehículos autónomos de reparto que ya circulan por ciudades europeas.",
+      "por_que_leerlo": "Revela un vacío legal real que las ciudades todavía no resuelven frente a los robots autónomos que operan en sus calles.",
+      "seccion": "tecnologia",
+      "tags": [
+        "robotica",
+        "regulacion",
+        "vehiculos autonomos",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/movilidad/robot-reparto-provoca-accidente-nueve-heridos-tallin-sigue-su-camino-tecnicamente-conductor-a-fuga"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 03:54",
+      "auto_generated": true
+    },
     {
       "id": 353,
       "titulo": "Hallan sangre fósil de dinosaurio, la más antigua jamás descubierta",
