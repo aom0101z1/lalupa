@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 377,
+      "titulo": "Nueva IA diseña proteínas a partir de una simple descripción en lenguaje natural",
+      "resumen": "Un sistema de inteligencia artificial permite describir en palabras la función que se busca (acelerar una reacción, emitir fluorescencia, degradar plástico) y genera directamente la proteína correspondiente, sin que el usuario necesite entender estructuras moleculares ni restricciones geométricas. Hasta ahora, diseñar proteínas con IA exigía conocimientos técnicos profundos que esta herramienta busca eliminar.",
+      "por_que_leerlo": "Muestra cómo la IA está democratizando el diseño biológico, abriendo la puerta a nuevas aplicaciones en biotecnología que antes requerían años de formación especializada.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biotecnología",
+        "diseño de proteínas",
+        "ciencia aplicada"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-protein.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 378,
+      "titulo": "Tras 42 años de búsqueda, el CERN halla evidencia de una desintegración de partícula extremadamente rara",
+      "resumen": "El experimento LHCb del Gran Colisionador de Hadrones detectó evidencia de una desintegración que ocurriría solo una vez por cada 10.000 millones de partículas 'beauty', un fenómeno buscado durante más de cuatro décadas. El hallazgo acerca a los físicos a explorar el llamado 'Zeptoverso', un mundo subatómico a escalas de una billonésima de un billonésimo de metro.",
+      "por_que_leerlo": "Es un hito de física fundamental que ilustra cuánta paciencia y precisión exige descubrir lo invisible, con cifras concretas sobre la rareza del fenómeno.",
+      "seccion": "ciencia",
+      "tags": [
+        "física de partículas",
+        "cern",
+        "lhc",
+        "física fundamental"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 379,
+      "titulo": "La sonda Hera se acerca para investigar por qué el asteroide impactado por la NASA se desvió más de lo previsto",
+      "resumen": "La nave europea Hera capturó su primera vista clara de los dos asteroides involucrados en el experimento DART de la NASA de 2022, que buscaba probar si una colisión puede desviar un asteroide peligroso. Ahora Hera se aproxima a la pareja de rocas para investigar por qué el asteroide impactado cambió de trayectoria mucho más de lo que predijeron los científicos.",
+      "por_que_leerlo": "Ofrece una actualización real de una de las pruebas de defensa planetaria más importantes de la historia, con un misterio aún sin resolver sobre por qué funcionó mejor de lo esperado.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "defensa planetaria",
+        "exploración espacial",
+        "esa"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 380,
+      "titulo": "Hallan las cinco 'letras' genéticas del ADN y ARN en un asteroide de 4.500 millones de años",
+      "resumen": "Científicos encontraron las cinco nucleobases esenciales del ADN y el ARN en muestras prístinas del asteroide Ryugu, lo que revela que los ingredientes clave para la vida ya existían en el espacio hace miles de millones de años. El hallazgo se suma a evidencia previa de otros asteroides y meteoritos que sugiere que estas moléculas eran comunes en el sistema solar temprano.",
+      "por_que_leerlo": "Aporta evidencia directa, con muestras físicas, sobre uno de los grandes interrogantes de la ciencia: si los componentes de la vida llegaron del espacio.",
+      "seccion": "ciencia",
+      "tags": [
+        "astrobiología",
+        "origen de la vida",
+        "asteroides",
+        "muestras espaciales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 381,
+      "titulo": "Un bootkit UEFI infecta computadoras con Windows totalmente actualizado",
+      "resumen": "El bootkit llamado BlackX logró infectar equipos con Windows completamente parcheado explotando la falta de claridad de Microsoft sobre las protecciones de Secure Boot. El caso reabre el debate sobre quién debe responsabilizarse de cerrar este tipo de brechas a nivel de firmware.",
+      "por_que_leerlo": "Revela una falla de seguridad crítica que compromete incluso a los sistemas más actualizados.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "uefi",
+        "windows",
+        "secure boot"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 382,
+      "titulo": "Anthropic revela que factura 17.000 millones al trimestre, pero debe 50 veces más en cómputo",
+      "resumen": "Anthropic, la empresa detrás de Claude, reportó ingresos trimestrales de 17.000 millones de dólares y compromisos de gasto acumulados por unos 895.400 millones, principalmente en infraestructura de cómputo. Es el primer gran laboratorio de IA en revelar sus cifras justo antes de salir a bolsa, en medio de dudas sobre la sostenibilidad financiera del sector.",
+      "por_que_leerlo": "Da cifras concretas para juzgar si el gasto descomunal en IA realmente se sostiene con ingresos reales.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "anthropic",
+        "finanzas",
+        "ipo"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/anthropic-ingresa-17-000-millones-al-trimestre-su-factura-computacion-50-veces-mayor"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 383,
+      "titulo": "Google halla una puerta trasera de fábrica en millones de TV boxes con Android usada para malware",
+      "resumen": "Google descubrió que un fabricante de dispositivos certificados con Android TV y Google TV instaló una puerta trasera de fábrica que se usó para controlar la red de bots XCPE y distribuir malware. Se estima que millones de aparatos en todo el mundo están afectados por esta vulnerabilidad.",
+      "por_que_leerlo": "Alerta sobre un riesgo de seguridad masivo que puede estar presente en un dispositivo cotidiano del hogar.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "malware",
+        "android",
+        "botnet"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/seguridad/tv-box-android-videostrong-malware-botnet/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 384,
+      "titulo": "El mercado cripto colombiano crece más rápido que el resto de la región, pero sigue sin regulación",
+      "resumen": "Colombia movió US$29.100 millones en criptoactivos en un año, un ritmo de crecimiento superior al de otros países de la región, según datos de Colombia Fintech. El gremio advierte que el Estado exige obligaciones tributarias y de reporte a esta actividad sin reconocerla legalmente, dejando un vacío regulatorio para plataformas y usuarios.",
+      "por_que_leerlo": "Da el tamaño real del mercado cripto en Colombia y expone el riesgo legal que corre cualquiera que opere en ese negocio hoy.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "criptomonedas",
+        "fintech",
+        "colombia",
+        "regulacion"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/colombia/el-mercado-cripto-colombiano-crece-mas-que-la-region-pero-sigue-sin-regulacion/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 385,
+      "titulo": "La IA ya filtra hojas de vida y cambia qué se espera de empleados nuevos y jefes",
+      "resumen": "Un estudio de Northeastern University (AI & Society Survey) encontró que el uso de IA para filtrar currículos lleva a algunos gerentes a contratar menos personal de nivel inicial, mientras otros esperan que esos mismos principiantes asuman tareas más avanzadas desde el primer día.",
+      "por_que_leerlo": "Da evidencia concreta de cómo la IA está redefiniendo la contratación y las expectativas laborales, algo clave para quien gestiona equipos o busca su primer empleo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "mercado laboral",
+        "contratación",
+        "trabajo"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-hires-alike.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 386,
+      "titulo": "Físicos hallan un posible resquicio que permitiría a los agujeros negros dividirse en dos",
+      "resumen": "Un nuevo estudio identifica un posible resquicio en las leyes que normalmente impiden que los agujeros negros se dividan, sugiriendo que aquellos que giran a velocidades extremas podrían partirse en dos. El hallazgo plantea la posibilidad de un fenómeno de agujeros negros completamente nuevo que futuros telescopios podrían llegar a detectar.",
+      "por_que_leerlo": "Desafía una de las reglas más asentadas de la física de agujeros negros y abre una predicción concreta y comprobable para la próxima generación de telescopios.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "física teórica",
+        "astrofísica",
+        "relatividad"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 387,
+      "titulo": "Google desmantela una botnet oculta en 1,3 millones de cajas Android TV",
+      "resumen": "Google cortó lazos con la empresa responsable de una campaña de botnet que operaba en secreto dentro de 1,3 millones de dispositivos Android TV. La compañía tomó medidas para desarticular la red antes de que causara más daño a los usuarios afectados.",
+      "por_que_leerlo": "Explica cómo opera una botnet masiva en dispositivos domésticos y qué hace una empresa como Google para frenarla.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "botnet",
+        "android tv",
+        "google"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
+      "id": 388,
+      "titulo": "Tercera persona muere de gripe aviar desde que el virus empezó a saltar al ganado",
+      "resumen": "Una tercera persona ha fallecido por gripe aviar desde que el virus comenzó a propagarse entre el ganado, aunque las autoridades sanitarias consideran que el riesgo general para la población sigue siendo bajo. El virus continúa expandiéndose pese a las medidas de contención.",
+      "por_que_leerlo": "Actualiza con evidencia el riesgo real de un brote que conviene seguir de cerca sin caer en el alarmismo.",
+      "seccion": "ciencia",
+      "tags": [
+        "gripe aviar",
+        "salud pública",
+        "epidemiología",
+        "zoonosis"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-03 18:19",
+      "auto_generated": true
+    },
+    {
       "id": 365,
       "titulo": "Dietas asociadas a la obesidad potencian la inmunoterapia contra el cáncer en ratones",
       "resumen": "Un estudio con ratones encontró que ciertas dietas asociadas con la obesidad, consideradas poco saludables, pueden hacer más efectiva la inmunoterapia contra el cáncer. Los investigadores atribuyen el efecto a cómo esos alimentos alteran la microbiota intestinal y fortalecen la respuesta inmune frente a los tumores.",
