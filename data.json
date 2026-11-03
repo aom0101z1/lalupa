@@ -221,6 +221,352 @@
   ],
   "casos": [
     {
+      "id": 2573,
+      "titulo": "Fomag inicia intervención en Antioquia para conciliar cartera y gestionar recursos",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-03",
+      "descripcion": "El Fondo Nacional de Prestaciones Sociales del Magisterio (Fomag) inició una primera fase de intervención en Antioquia orientada a conciliar la cartera y gestionar recursos para estabilizar la prestación del servicio de salud a los docentes afiliados. La medida busca resolver problemas de atención médica en la región, en el marco de la crisis del sistema de salud del magisterio tras la decisión del Gobierno de no prorrogar el contrato con Fiduprevisora y anunciar una auditoría forense sobre el manejo de esos recursos.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-fomag-inicio-intervencion-en-antioquia-para-conciliar-cartera-y-gestionar-recursos-4516442",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fomag",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2572,
+      "titulo": "De la Espriella anuncia reactivación de fumigaciones y más bombardeos tras atentado en Planadas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-02",
+      "descripcion": "El presidente Abelardo De la Espriella anunció que fortalecerá la presencia de la Fuerza Pública, intensificará operaciones militares y avanzará en la reactivación de fumigaciones con glifosato, como respuesta al atentado con volqueta bomba en Planadas, Tolima, que dejó cuatro muertos incluida una bebé.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-mas-bombardeos-y-reactivacion-de-fumigaciones-tras-atentado-que-dejo-muerta-a-una-bebe-en-planadas-tolima-3597923",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2571,
+      "titulo": "Tolima activa clases virtuales y evalúa daños tras sismo de magnitud 5,6 en Chaparral",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-03",
+      "descripcion": "Tras el sismo de magnitud 5,6 con epicentro en Chaparral, Tolima, registrado la madrugada del 3 de noviembre de 2026 (sentido en Bogotá y el centro del país), las autoridades departamentales ordenaron clases virtuales de manera temporal mientras los equipos de gestión del riesgo evalúan los daños causados por el movimiento telúrico, que se suma a una secuencia sísmica de más de 1.100 sismos registrados en la zona en el último mes.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/tolima-anuncia-clases-virtuales-mientras-evaluan-danos-por-el-sismo",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación del Tolima",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2570,
+      "titulo": "Procuraduría formula pliego de cargos contra Daniel Quintero, exalcalde de Medellín",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-03",
+      "descripcion": "La Procuraduría General de la Nación formuló pliego de cargos disciplinario en contra de Daniel Quintero, exalcalde de Medellín y aliado político del gobierno Petro, avanzando en el proceso disciplinario en su contra.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/procuraduria-formulo-pliego-de-cargos-en-contra-de-daniel-quintero-exalcalde-de-medellin/202606/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Quintero"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40"
+    },
+    {
+      "id": 2569,
+      "titulo": "Golpe contra la extorsión en 19 pabellones de la cárcel La Picota",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "El presidente Abelardo De la Espriella reveló un operativo contra redes de extorsión en 19 pabellones de la cárcel La Picota, en el que se hallaron 582 celulares usados para coordinar actividades criminales desde prisión.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-celebra-golpe-contra-la-extorsion-en-19-pabellones-de-la-carcel-la-picota-se-acabo-la-guachafita/202613/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "INPEC / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2568,
+      "titulo": "Reforma tributaria plantea nuevas reglas para el comercio electrónico internacional",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "La reforma tributaria presentada por el gobierno De la Espriella incluye disposiciones específicas para gravar el comercio electrónico internacional, ampliando el alcance de la Ley de Rescate Económico.",
+      "evidencia": "Reportado por Newsroom RCN Radio",
+      "fuentes": [
+        {
+          "nombre": "Newsroom RCN Radio",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbGwxdnFVUVZ2SjdWWDM3aklyNnFwaXFHUWZUSElvWEF2b0poQXF3ZkpiM1BEYlNRU1RfaEpHV0ladUduNnRDQ3hQQkoxYUZPZlo0cm0xMlF5U1ZXVi0xc0NKWGRyT1F2dU8xRFdpQXNjN2JqMHNWWjVMSWx6MVdkYmRKUzhyckN0Vl9BXzRRbEtHN0RJSmN5UWpaWjJEZjVUN2Q5VGNuQ3pQYzIzb3ZpZVpLTzlUaDRfSnVqY3FBNjhZQk9jd0poVWt5YVhaSnVwWnR1aVJmRG9TT1p5SzRWUW9n?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2567,
+      "titulo": "De la Espriella delega en el vicepresidente el liderazgo del debate económico",
+      "categoria": "gabinete",
+      "fecha": "2026-11-03",
+      "descripcion": "El presidente Abelardo De la Espriella cedió a su vicepresidente la conducción del crucial debate económico del gobierno, en medio de la discusión de la reforma tributaria y el ajuste fiscal.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa084SVR5MXltclFjRl9EaHdFdXNzMlJnajJQbmtyMzA2Z1lXZVJuWXlJZjBiMUJMRkVEM1ExLXdBaEJKdTRSc0NGYld5ckhLeHFTLWxWeHh2RHR4OGZTOFo3SXdweTJPbEY0RWRCUV9hcURUYm9nQWNIX0tDOWxPbjBuZVZwdWozM2FBNTJBNTRTX0ZFdTlEeXdMcEhHVkVrMDZnc29OQldSS3A4Z1Q4ZmpTdkhqMVlTSlktVUlubW3SAdQBQVVfeXFMTzB4V1ZjaGQ3bF9semIxQmRkYmFEeEFnMTk4X0F4Y202QnVEdGxZcEt4OGJYdWg4allDRS1LcmVUTk9GVHJjLV9uTUx6X2xITVd1NnJUVS0zNmVSUFplNFNoR3VGN0YzejVmeVJmbXFQNlJDRzhMaVQwTldISnZ1VWo4OU92and5LXZoMktQUFV6NmZUcHEzREJjcGs2ZXJDTlJBeTN6S0l0UWFoODJzUWtiRGIwdzZhTHNXVTBjUFNzRWtTUVFxOUphOVlLX0JXMFFINzg?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2566,
+      "titulo": "Ataques con drones del ELN dejan dos soldados muertos y cinco heridos en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "Dos soldados profesionales murieron y otros cinco resultaron heridos en ataques con drones del ELN contra tropas del Ejército en Chocó. La Décima Quinta Brigada activó protocolos institucionales y dispuso acompañamiento a los familiares de las víctimas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-soldados-profesionales-murieron-y-otros-cinco-resultaron-heridos-en-ataques-con-drones-del-eln-contra-tropas-del-ejercito-en-choco-3598015",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2565,
+      "titulo": "Gobierno decide no prorrogar contrato del Fomag con Fiduprevisora y anuncia auditoría forense",
+      "categoria": "transparencia",
+      "fecha": "2026-11-02",
+      "descripcion": "El presidente Abelardo De la Espriella anunció la no prórroga del contrato del Fomag con Fiduprevisora, cuestionando el manejo de los recursos del magisterio y mencionando presuntas cuotas políticas. Ordenó una auditoría forense al manejo de estos dineros.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-la-decision-de-no-prorrogar-el-contrato-del-fomag-con-fiduprevisora-se-acabo-la-alcahueteria-3598009",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fomag / Fiduprevisora / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2564,
+      "titulo": "Mauricio Lizcano cuestionado por $234.399 millones en centros de inteligencia artificial",
+      "categoria": "contratos",
+      "fecha": "2026-11-03",
+      "descripcion": "La gestión de Mauricio Lizcano al frente de MinTIC durante el gobierno Petro quedó bajo cuestionamiento por el presunto manejo irregular de $234.399 millones destinados al programa Centros PotencIA de inteligencia artificial.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/mauricio-lizcano-bajo-cuestionamiento-por-234-399-millones-destinados-a-centros-de-inteligencia-artificial/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Lizcano"
+      ],
+      "entidad": "Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40"
+    },
+    {
+      "id": 2563,
+      "titulo": "Risaralda recibiría $10.200 millones para reactivar emprendimientos afectados por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-03",
+      "descripcion": "El anuncio de $10.200 millones abre una nueva línea de respaldo económico para negocios afectados por el terremoto del 10 de agosto en Risaralda, que aún enfrentan dificultades para recuperar su actividad.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/risaralda-recibiria-10-200-millones-para-reactivar-emprendimientos-afectados-por-el-terremoto/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2562,
+      "titulo": "Tribunal limita manejo de $35.500 millones para reconstrucción de Armenia",
+      "categoria": "control",
+      "fecha": "2026-11-03",
+      "descripcion": "Un tribunal fijó condiciones específicas de inversión y control para el uso de $35.500 millones incorporados al presupuesto de Armenia destinados a atender los daños del terremoto del 10 de agosto, imponiendo límites a su ejecución.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/tribunal-fija-limites-al-manejo-de-35-500-millones-para-la-reconstruccion-de-armenia/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Armenia / Tribunal Administrativo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 2561,
+      "titulo": "Gobierno estima incremento del costo de vida por la Ley de Rescate Fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno Nacional presentó cifras sobre cuánto subiría el costo de vida en Colombia como consecuencia de las medidas tributarias incluidas en la Ley de Rescate Fiscal, en medio de las críticas que ha generado la reforma por sus implicaciones en impuestos.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/gobierno-senala-cuanto-subiria-el-costo-de-vida-en-colombia-con-la-ley-de-rescate-fiscal/202607/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2560,
+      "titulo": "Identifican a cabecillas de disidencias responsables del atentado en Tolima",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "Autoridades identificaron a dos presuntos cabecillas de disidencias de las FARC como responsables del atentado con explosivos en Tolima que dejó cuatro muertos y 17 heridos, en el marco de las investigaciones sobre los recientes ataques armados en el departamento.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/estos-serian-los-dos-cabecillas-de-las-disidencias-detras-del-atentado-que-dejo-cuatro-muertos-y-17-heridos-en-tolima/202615/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional / Fuerzas Militares",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2559,
+      "titulo": "Fondo Milagro financiará demoliciones de edificios en Cali",
+      "categoria": "contratacion",
+      "fecha": "2026-11-02",
+      "descripcion": "El Fondo Patria Milagro anunció que financiará la demolición de varios edificios en Cali afectados por el terremoto del 10 de agosto, identificando las estructuras seleccionadas para el proceso dentro de la reconstrucción de la ciudad.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdmphelNZRGlwQmR2djVoQ1BEdXRXY0w5TW5pMUhEbWcyeUdsOUN6QWdyVFpES25KSmxZM2l2bUVUd2FFU3p5b0VZSGVmbDBSYlBLcmdkX3MyWXRucEc1U2xTVTZlX0dFZzU1WWNCMlVjWWNEMU9QTS1RMGdUa0tqMmYxTS1rTXJ0WW92NEV6aTlTbFhYOERUNEhFaFh2MkhGcWMycXRtcmZtZmpQMkQxRFJvM0pKZ0tvazlLRWRBbGtoNVhra3VIRXZxMFRITkVzSk8td0t4c2HSAd4BQVVfeXFMTWR5c28zNUVfbWRvWnQ3SDktSUJUZ3dmRTA4WjZVTHlfckp5aGFUQ21ValhFUDdSU3duUXJXRGwwY24zZjlselUxR2JkOFdudXd2QTFFTEJraWwtd2pVTEtUNTk3a0VQcmJkeHU4UEE1ZmJIR2U3cWh0cW1QTHo2N1V5cTBYMXBIaWJsT0x5Rkx6THNEdVhSaU5qVVNyYW9SM1BPWU1HVko1TEc0Z2p3M2RadUt6S1pNQzNnTk8ySWJMdlVHQ1Jnajk0R3h0eEt2eDZVRUhfV29VamNFeFZ3?oc=5",
+          "fecha": "2026-11-02"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-03 13:40",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
       "id": 2558,
       "titulo": "RUGE plantea estabilidad tributaria de 16 años para nuevas inversiones",
       "categoria": "economia",
@@ -59696,7 +60042,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-03",
-    "total_casos": 2469,
+    "total_casos": 2484,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
