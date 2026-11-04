@@ -221,6 +221,511 @@
   ],
   "casos": [
     {
+      "id": 2643,
+      "titulo": "Empresas estadounidenses piden preservar respaldo bipartidista a Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-11-04",
+      "descripcion": "Tras las elecciones legislativas en Estados Unidos, empresas estadounidenses solicitaron mantener el respaldo bipartidista a Colombia, en un contexto de relaciones bilaterales bajo el nuevo gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/empresas/articulo/empresas-estadounidenses-piden-preservar-el-respaldo-bipartidista-a-colombia-tras-las-elecciones-legislativas-en-ee-uu/202617/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2642,
+      "titulo": "Falla en radares del aeropuerto El Dorado genera demoras y cancelaciones de vuelos",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-04",
+      "descripcion": "Una falla en los radares del aeropuerto El Dorado de Bogota provoco demoras y cancelaciones de vuelos, generando desesperacion entre los viajeros. El hecho afecta la operacion del principal aeropuerto del pais, gestionado bajo supervision de la Aeronautica Civil.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/bogota/articulo/demoras-y-cancelaciones-de-vuelos-en-el-dorado-este-es-el-panorama-en-el-aeropuerto-de-bogota-tras-la-falla/202632/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aeronautica Civil",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2641,
+      "titulo": "Gobierno lleva 'Milagro Week' a Madrid para atraer inversión en marzo de 2027",
+      "categoria": "internacional",
+      "fecha": "2026-11-04",
+      "descripcion": "El Gobierno Nacional anunció que la próxima edición de 'Milagro Week', encuentros empresariales para promover inversión extranjera en Colombia, se realizará en Madrid en marzo de 2027. La iniciativa busca atraer capitales hacia sectores como energía, minería e infraestructura como parte de la estrategia de reactivación económica del gobierno De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/milagro-week-llegara-a-europa-madrid-sera-sede-en-marzo-de-2027/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2640,
+      "titulo": "Consulta previa sobre reserva de la Amazonía costó $13 mil millones y quedó sin efectos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-04",
+      "descripcion": "El gobierno Petro invirtió $13 mil millones en una consulta previa con comunidades indígenas para una resolución que declaraba el bioma amazónico como reserva, medida que finalmente quedó sin efectos tras el cambio de gobierno. El hallazgo cuestiona el uso de recursos públicos en una política que no logró materializarse ni generar los resultados previstos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/consulta-previa-sobre-la-amazonia-que-dejo-sin-efectos-gobierno-costo-13-mil-millones/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible / Gobierno Petro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15"
+    },
+    {
+      "id": 2639,
+      "titulo": "SAE recupera inmuebles ocupados por familiares del exgestor de paz Euclides Torres",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-04",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) recuperó dos inmuebles en Barranquilla que estaban ocupados de forma 'irregular' por familiares de Euclides Torres, exgestor de paz vinculado a investigaciones por visitas a la Casa de Nariño durante el gobierno Petro. Los predios pertenecían a un hermano de una excongresista de su mismo grupo político. La diligencia se enmarca en procesos de extinción de dominio sobre bienes vinculados a redes de poder del Pacto Histórico en la Costa Caribe.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/sae-recupero-dos-inmuebles-que-tenian-familiares-de-euclides-torres/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Euclides Torres"
+      ],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15"
+    },
+    {
+      "id": 2638,
+      "titulo": "Proyecto que convierte 'Mi Casa Ya' en política de Estado avanza en primer debate",
+      "categoria": "obras",
+      "fecha": "2026-11-04",
+      "descripcion": "El proyecto de ley que busca convertir el programa de subsidios de vivienda 'Mi Casa Ya' en política de Estado permanente fue aprobado en primer debate en el Congreso, como parte de la agenda de vivienda del Gobierno Nacional.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/programa-de-subsidios-mi-casa-ya-rumbo-a-ser-politica-de-estado-proyecto-fue-aprobado-en-primer-debate/202656/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2637,
+      "titulo": "Capturan a dos personas por red de explotación sexual operada desde salón de belleza en Medellín",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "Una operación conjunta entre las policías de Colombia y España desarticuló una red que utilizaba un salón de belleza en Medellín para reclutar mujeres y explotarlas sexualmente en España. Dos personas fueron capturadas en el operativo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/salon-de-belleza-en-medellin-era-utilizado-para-reclutar-mujeres-y-explotarlas-sexualmente-en-espana-3598432",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Policía de España",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2636,
+      "titulo": "Gobierno anuncia auditoría y recortes en Icetex por contratos cuestionados",
+      "categoria": "transparencia",
+      "fecha": "2026-11-04",
+      "descripcion": "El Gobierno Nacional advirtió recortes y una reducción en la oferta de créditos del Icetex, además de anunciar una auditoría institucional sobre los recursos educativos y contratos bajo cuestionamiento, con el argumento de proteger el patrimonio público destinado a los estudiantes.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/04/el-gobierno-nacional-le-puso-la-lupa-al-icetex-advierte-recortes-menos-creditos-y-contratos-bajo-cuestionamiento/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Icetex",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2635,
+      "titulo": "Gobierno anuncia construcción de cuatro nuevas cárceles entre 2026 y 2028",
+      "categoria": "obras",
+      "fecha": "2026-11-04",
+      "descripcion": "El Gobierno de De la Espriella adelanta la construcción de cuatro cárceles nuevas en Riohacha, Sabana de Ángel, Pereira y Barrancabermeja, con entregas proyectadas entre 2026 y 2028. La iniciativa es un compromiso que viene desde la campaña presidencial.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/gobierno-planea-entregar-nuevas-carceles-entre-2026-y-2028/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia / INPEC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2634,
+      "titulo": "Gobierno plantea financiar nuevas cárceles con venta de activos improductivos del Estado",
+      "categoria": "obras",
+      "fecha": "2026-11-04",
+      "descripcion": "El ministro de Justicia y encargado del Interior, Iván Cancino, anunció ante la Corte Constitucional que el Gobierno proyecta construir nuevas cárceles financiadas con la venta de bienes improductivos de la Nación, cuyo inventario está en elaboración, como parte de la respuesta al estado de cosas inconstitucional en el sistema penitenciario.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/nuevas-carceles-colombia-financiacion-venta-activos-improductivos-nacion-ivan-cancino-AO43185522",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Cancino"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2633,
+      "titulo": "Corte Suprema aplaza por segunda vez audiencia preparatoria en caso UNGRD contra Bonilla y Velasco",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-04",
+      "descripcion": "La Corte Suprema de Justicia aplazó por segunda vez la audiencia preparatoria contra los exministros Ricardo Bonilla y Luis Fernando Velasco, procesados por el escándalo de corrupción en la UNGRD relacionado con sobornos a congresistas durante el gobierno Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNlcyMkRKc19PRlY4SlRnR3h4Z2JValFZRVlTZXhld3I3QmlNMkxBdnFZalZuMDNxNXUyOEIxc3cyLTNrRGRFTUVjUjZNaU5uSkdBVFJmQ1lqQVIwd1l2T2pxVnRuZVZ0VlE0Z2lNaS1DSlkxUHRtRmFKRlBwZTZKdnBHdHZYNE9FY3VHRERFOWo2OHdlUlUzaTlmN3lpX1VzMUhLTG1HZmpZT3hDaDVMd0F4eTh6YlJKMnlwaXk3VEVKcVVVUjVkekg2cTE3aVRmYUNkaVZXcHM4Zk5HTTlmajhNVmtybkdTOEd3TmMxWHFEaFYzamVjRkhqV1NTMVhmMmUzeU80WllvOXhnQVHSAagCQVVfeXFMUGxKUXBsR2t6VEptOHBYcVQ2M2VUcHhDck9NSmdDbVI1clVDN091MWdHRGtDdWNVVndMam5DaDFGVzdTSUhhYzJGMV9jQjJiQ3dsN3BxWEFRbldYZk9jTjRIVEVyRTlpaDBLclJTQ1VzWTc1VnZkUzM5M3FYTDJFNUhSa1dpYWJzWVBRTnRyTkllNXVpRTBHcnRBaGVzcGQwYk5ySGdsa1JFUkN1dVBqQlA0bVVCelVOQ0pMVnkydHF2Rm84cXNLSUVQb21fXzJnZEcyem94VHNMbXhkcVMybHJOSTdhaEtkeEdfR0hZUjd4TklpeXlFRDlfU2ZzVWJydC1JZHA3NGlOYVNCdmhYV2hqYmFfQWR4cmJ5V2FxaVZtMHFqcGVWTTY?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla",
+        "Luis Fernando Velasco"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15"
+    },
+    {
+      "id": 2632,
+      "titulo": "Capturan a alias Cristóbal Pérez, cabecilla de la Teófilo Forero vinculado al crimen de Miguel Uribe",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "Autoridades capturaron en Cundinamarca a Wilmer Castillo Duarte, alias 'Cristóbal Pérez', segundo cabecilla de la estructura Teófilo Forero de la 'Segunda Marquetalia', con nueve años vinculado a disidencias de las Farc y señalado de relación con el crimen del senador Miguel Uribe.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-cundinamarca-a-alias-cristobal-perez-segundo-cabecilla-de-la-estructura-teofilo-forero-de-la-segunda-marquetalia-3598416",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Wilmer Castillo Duarte"
+      ],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2631,
+      "titulo": "Gobierno confirma migración de trabajadores a Colpensiones",
+      "categoria": "economia",
+      "fecha": "2026-11-04",
+      "descripcion": "El Ministerio del Trabajo confirmó que trabaja en una ruta institucional para organizar la migración de un grupo de trabajadores en Colombia hacia Colpensiones.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirmo-que-estos-trabajadores-en-colombia-seran-cambiados-a-colpensiones/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Trabajo / Colpensiones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2630,
+      "titulo": "Gobierno propone nuevo impuesto para declarar criptomonedas y activos digitales no reportados",
+      "categoria": "economia",
+      "fecha": "2026-11-04",
+      "descripcion": "La reforma fiscal del Gobierno De la Espriella incluye un nuevo impuesto dirigido a quienes posean criptomonedas y otros activos digitales sin reportar ante la DIAN.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/criptomonedas-en-colombia-gobierno-de-la-espriella-propone-nuevo-impuesto-para-declarar-activos-no-reportados/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2629,
+      "titulo": "Viviane Morales es designada Consejera Comisionada de Paz tras renunciar a MinEducación",
+      "categoria": "gabinete",
+      "fecha": "2026-11-04",
+      "descripcion": "Viviane Morales fue nombrada Consejera Comisionada de Paz del Gobierno De la Espriella, tras su salida del Ministerio de Educación, cartera en la que solo permaneció 28 días.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/viviane-morales-fue-designada-como-consejera-comisionada-de-paz-4517578",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Viviane Morales"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2628,
+      "titulo": "Gobernación del Chocó inicia plan de reconstrucción de viviendas y busca apoyo del Fondo Milagro",
+      "categoria": "avances",
+      "fecha": "2026-11-04",
+      "descripcion": "La Gobernación del Chocó puso en marcha un plan de reconstrucción de viviendas afectadas por el terremoto del 10 de agosto y solicitó apoyo del Fondo Milagro para financiar la ejecución de las obras en el departamento.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/regionales/articulo/gobernacion-del-choco-inicia-plan-de-reconstruccion-de-viviendas-busca-apoyo-del-fondo-milagro/202629/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación del Chocó / Fondo Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 2627,
+      "titulo": "Alcaldía de Cali espera recursos del Fondo Milagro para demoler edificaciones en riesgo",
+      "categoria": "dineros",
+      "fecha": "2026-11-04",
+      "descripcion": "La Alcaldía de Cali informó que está a la espera de los recursos del Fondo Milagro para acelerar la demolición de edificaciones que presentan alto riesgo tras un sismo reciente. Las construcciones fueron inspeccionadas para descartar riesgos mayores antes de proceder con las demoliciones.",
+      "evidencia": "Reportado por Facebook",
+      "fuentes": [
+        {
+          "nombre": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdkhJU1BPdFZWV2NJbUxEaTAzWmE2RHBYbVI2WUpkN2pBLW8zVjNKeFRVNnNWRFExWmgyQkp1cDY4R3BUbFhqWkNQb3pMdGFhYVhqTXFJdnpwcm5aelZ2cmxLMzZKZ0dmcGlZZzZXVHRhX3NyeTlzYlVYQXpuamw5Uy1uTE53bHRsSG5pZ3VjV0lScE12UUgzdGVkT3hqbnhzS0VqcW82R2JQamZZcWJkLUVNdjh2SjlraXp0ZU5Dajg3dy1JWTU5UTFqLTRQbk9LZDNFOHhXeElNMkxPUlN2TTJ6MHRManBPVl8xblFUUWVaQQ?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali / Fondo Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
+      "id": 2626,
+      "titulo": "Gobierno impulsa obras por impuestos para financiar reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-04",
+      "descripcion": "El Gobierno Nacional anunció que utilizará el mecanismo de obras por impuestos como fuente adicional de financiación para la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto, buscando vincular al sector privado en la ejecución de proyectos de infraestructura en las regiones golpeadas.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTmZHN3VjQTYtN0pXaU9qWlNmbnV5QWlpN3RnLWtoa1ZTdGR4ZFlvMUk2OXhWR3ljRG1Id3YxVjBudkVIN25KdkpzZDJiVnlUeFdZU2gtaVdwc190RmxQdlRGbTBIeG1PeHNaNXpoX3o0TVh0WkkwLW5DUnAxRGloMTJKcU1GeTVyVUlGQnJSVjdoS3ZmcDlpbTRVQjliaE05NlZocnhIazg0ZUJGNVo0Y3FwN3ptRWMzM3FsNHpncjVidHlUMjMwbVlodlF2eDVBMjZTSEJMSWFlTUVqLWNSWUU5dk_SAeoBQVVfeXFMTTBmLWtUeG81UmdXQ3RFVnBqeEFUN24tVGE5b3o1a3Fua1EzX2JpTjE1SExxRVB0aEN2UF9HZXRNakFiVFVqSnZmLTBYMGVjYjVqNEl0YUlhMUthY092aWxUVUhzNHJTS2pscFJ4bUVTTzVYVWdENVdDd2tWUTFsU1kxVlkxOVdSeHptRXVaVS1rQTNWT293UU44SkFBQ2JLQVVOSHpFOGNFOWh5YVlxX3FtdVFuenNzNzNYZ2p2bURXbEpwWkZBblBtckxkR0JPM0Z2RnlqUjJxUVQ3Tm1LcDNZQWtkY1RjTVZn?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2625,
+      "titulo": "Rescate de menores secuestrados y captura de integrantes del Clan del Golfo en Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "Un operativo del Gaula Militar y el CTI de la Fiscalía en Rionegro, Antioquia, permitió rescatar a dos menores secuestrados y capturar a dos presuntos integrantes del 'clan del Golfo'. Durante el allanamiento se incautaron 12 armas de fuego.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/rescatan-a-dos-menores-secuestrados-en-antioquia-y-capturan-a-dos-presuntos-integrantes-del-clan-del-golfo-3598472",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gaula Militar / CTI - Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2624,
+      "titulo": "Defensas de Bonilla y Velasco denuncian fallas en pruebas de la Fiscalía en juicio UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-04",
+      "descripcion": "En audiencia preparatoria del juicio por el escándalo de la UNGRD, las defensas del exministro Ricardo Bonilla y del exministro Luis Fernando Velasco denunciaron recibir archivos cifrados, documentos vacíos y material inaccesible como pruebas de la Fiscalía. El ente acusador negó haber ocultado información y aseguró haber entregado los elementos tal como los recibió.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/caso-ungrd-bonilla-y-velasco-denuncian-fallas-en-las-pruebas-de-la-fiscalia-LA43167927",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Bonilla",
+        "Luis Fernando Velasco"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15"
+    },
+    {
+      "id": 2623,
+      "titulo": "Intimidaciones contra director del Dapre tras denuncia de instrumentalización de mujeres en gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-04",
+      "descripcion": "El Gobierno rechazó intimidaciones contra Carlos Ríos, director del Dapre, luego de que denunciara una presunta instrumentalización de mujeres en esa entidad durante la administración Petro. Tres personas con antecedentes de homicidio fueron capturadas en la residencia del director, en medio de la investigación en curso por contratos irregulares en el Dapre.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-rechaza-intimidaciones-contra-carlos-rios-tras-denunciar-presunta-instrumentalizacion-de-mujeres-en-el-dapre-durante-administracion-petro-3598422",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ríos"
+      ],
+      "entidad": "Dapre",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15"
+    },
+    {
+      "id": 2622,
+      "titulo": "Juvinao denuncia vacíos en manuales de contratación del Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-04",
+      "descripcion": "La representante Catherine Juvinao (Alianza Verde) denunció que los manuales de contratación del Fondo Milagro, creado para financiar la reconstrucción tras el terremoto del 10 de agosto, contienen vacíos que permitirían adiciones a contratos sin límites y debilitarían los mecanismos de vigilancia del gasto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juvinao-denuncia-vacios-manuales-contratacion-fondo-milagro-PA43160870",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Catherine Juvinao"
+      ],
+      "entidad": "Fondo Patria Milagro / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 23:15",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 2621,
       "titulo": "Detalles del bombardeo militar contra el ELN en territorio venezolano",
       "categoria": "seguridad",
@@ -61143,7 +61648,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-04",
-    "total_casos": 2532,
+    "total_casos": 2554,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
