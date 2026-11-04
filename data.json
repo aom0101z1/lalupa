@@ -221,6 +221,238 @@
   ],
   "casos": [
     {
+      "id": 2621,
+      "titulo": "Detalles del bombardeo militar contra el ELN en territorio venezolano",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "Tras el bombardeo ordenado por el Gobierno contra el ELN en Venezuela, se conocieron nuevos detalles de la operación militar. Fuentes indican que tras el ataque se detectaron movimientos de miembros armados dentro de territorio venezolano, aunque no se ha registrado desplazamiento hacia Colombia, en el marco de la ofensiva militar del Gobierno De la Espriella contra grupos armados.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/bombardeo-contra-el-eln-en-venezuela-los-otros-detalles-desconocidos-de-la-operacion-contra-esa-guerrilla-3598257",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2620,
+      "titulo": "CGT se suma a la mesa de negociación del salario mínimo 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-04",
+      "descripcion": "La Central General de Trabajadores (CGT), que agrupa 10 federaciones departamentales y 4 nacionales, anunció su llegada a la mesa de negociación del salario mínimo para 2027 con el Gobierno Nacional, sumándose al proceso de concertación laboral.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-sector-de-la-cgt-anuncia-su-llegada-a-la-mesa-de-negociacion-con-el-gobierno-nacional-505678",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Trabajo / CGT",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2619,
+      "titulo": "Ley de Rescate plantea ahorros de $44,6 billones con recortes a contratistas y nómina",
+      "categoria": "economia",
+      "fecha": "2026-11-04",
+      "descripcion": "Según el Ministerio de Hacienda, la Ley de Rescate Fiscal proyecta generar ahorros por $44,6 billones mediante recortes a contratos de prestación de servicios y a la nómina estatal, además de eliminar tratamientos tributarios especiales sobre gastos de representación de magistrados, jueces y fiscales.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ley-de-rescate-plantea-ahorros-de-44-6-billones-con-recortes-a-contratistas-y-nomina-4517259",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2618,
+      "titulo": "Presidente De la Espriella pide mensaje de urgencia para la Ley de Rescate Fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El presidente Abelardo De la Espriella envió un mensaje de urgencia al Congreso para priorizar la discusión y aprobación de la Ley de Rescate Fiscal, buscando acelerar su trámite legislativo antes de fin de año.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PS1JDd05nejJDSTlSYVVlemUtVHk2ZXM1RVNRX2M1N25ydnZCNmw2UmY2Y1ZMbWtKaVViRlZKRjVmZTU3NG5wT2RaMzBsajliM0NKQTBjbUlWdmZYVDBEVVU1amZRQUxsSU9KdTlzMDZ1RnB3ekRSR0lsSdIBgAFBVV95cUxPSENEd1RxbkM3TC1KNC1YZ0VFQ183VGxhampKSGlvUm05emYtUFRVNnpfMlY2TEJLS3UybTE3eXU3VUUzZVI4QUQyWmhOdURkYTc0R1MycnJtdHpYdWs4bXF3QnhrX01taUp4QUlhaWdDS0xsUjRCMFZYTW4xbEstbA?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2617,
+      "titulo": "Ricardo Roa niega irregularidades en compra de apartamento en Bogotá",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-04",
+      "descripcion": "Ricardo Roa, expresidente de Ecopetrol, negó irregularidades en la adquisición de un lujoso apartamento en Bogotá, afirmando que 'nunca se compró por debajo del precio' del mercado, en respuesta a señalamientos sobre el origen y condiciones de la compra del inmueble.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeDR6ZGhNNXpPNGF4TU9RVGJRbVMzcGpqS1pVb2ZvTVBBbVpRcXVKX0VkbXkwZ3IyVnpWZXhncEVqT3AyS3lSSFczZGgza09zR0lvVE8tNTBVYUtQTVpFRUNTeVZtbEphNFVNSU5SaHk3TEQ0WkNEYUVFRmo5QXR0TktGV21keFpybDdQbWNIU2l1QmlfdjdVNG5oUFl1OTkzSzBuUTBYQml4aWx2OENQTFlyVW5yZ01ZVGprMGJEZHEwUXFoXy1LN0dWb0lPcFQ0a1Zya2Jkakc1eF95UmQzUGNIVTNrVUxJSnJGWnY2ZEN3NG9KLXU3UHdYa2Jud3RhR0lXbThHWS1IVlVM0gGnAkFVX3lxTE0wNDF2ZnNCZVdzdkRxNTctSC1JZDJoTEJER3lQQUN3SFA0TTZJR0IyRXhTLUxsZl9HUFFWTjdQelFqbUgtWDQ1dGhiUFAtcEFzUzNsZjA4M1M1OHgzODNIdUk5YlM1ZEE0ZGNGck1MT0ljdDlkdnpTWlZQWC1peGFpWGo0SnBSbFhHWWJ3RzNyOU1zMGRfQUUxUC1id003S0E4LWoybEhhLU52cjZHbmlUOFdLU2NhRlNIdUUxejhyY0hYNEwzOEs2SnhEU1dHZmJjTk5iX0xiU1BTM1NKcDlzeDdPQlRhcXdsejRfRmZqb0dORkJ5Vkd1Wnd6b0M1NFh1NDJDc3Z4SU9JWHo5Q1djNVRwc05SRzNsYTljNTRHZVdqZ0haMTQ?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49"
+    },
+    {
+      "id": 2616,
+      "titulo": "Operativo con presencia presidencial deja 109 capturados en Cúcuta",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "Un nuevo operativo de seguridad con presencia del presidente Abelardo de la Espriella dejó 109 personas capturadas en Cúcuta, siendo la quinta redada en la que participa directamente el mandatario. Un día antes, la Fiscalía había reportado un total de 391 capturas en los megaoperativos contra el crimen realizados en cuatro ciudades del país.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/nuevo-operativo-con-presencia-de-abelardo-deja-109-capturados-en-cucuta/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fiscalía General de la Nación / Policía Nacional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2615,
+      "titulo": "Reestreno de 'Encanto' en cines recaudará fondos para damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-04",
+      "descripcion": "The Walt Disney Company y Cinecolor Colombia anunciaron el regreso a cines el 12 de noviembre de 2026 de la película 'Encanto' como parte de una campaña para recaudar fondos destinados a la atención y recuperación de comunidades afectadas por el terremoto de magnitud 7,4 del 10 de agosto, con epicentro en San José del Palmar, Chocó. Los recursos recaudados serán entregados a la Cruz Roja.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/encanto-regresa-cines-colombia-ayudara-damnificados-terremoto-ED43152475",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "The Walt Disney Company / Cinecolor Colombia / Cruz Roja",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2614,
+      "titulo": "Denuncian contratos del Fondo Milagro sin pasar por Secop y sin tope",
+      "categoria": "contratacion",
+      "fecha": "2026-11-04",
+      "descripcion": "La congresista Catherine Juvinao denunció que el Fondo Patria Milagro, encargado de administrar recursos para la reconstrucción tras el terremoto, habría suscrito contratos sin publicarlos en el Sistema Electrónico de Contratación Pública (Secop) y sin límites claros de valor, lo que generaría riesgos de opacidad en el manejo de los recursos de emergencia.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTc3SVFibzdYel9KV2pSLWJRM3hYMUZ0eGlxN3NKRjNhZXE3RE5RVVBnMHFXazI0eU1ub3hwb1hhdEJyYUFxQUctTDV0Si1QSjNDS2ZGLWFVR3lOWFBBeWFyT01LMEVydnpsSFNwTG05MUZVcEg4ZE1FQW9KNHZicy1zZ0pnWmZIRTR1T3hIU1lXOWpod0dTUFFBWW9FNzBoYVQ5LWJ5ZDNXM09HcEIwclE3Z1U4RktkSXRFYmREYXVVWkotQXZ4bnJvUVo4NzhBb3Q1UlpVdEJaUm15djVGdg?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Catherine Juvinao"
+      ],
+      "entidad": "Fondo Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2613,
+      "titulo": "Fiscalía abre investigación por contratos irregulares en el Dapre",
+      "categoria": "contratos",
+      "fecha": "2026-11-04",
+      "descripcion": "La Fiscalía General de la Nación abrió una investigación por presuntas irregularidades en contratos suscritos por el Departamento Administrativo de la Presidencia (Dapre), y se reforzó el esquema de seguridad de su director tras denuncias relacionadas con el caso.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbnZnc2wxQkNvYXRpYlZjd3VMR3owUVkxaUp4RGRnTjQ0cGtWZklKazkybUlfaDNvT1p4bzJLWVlQRGhNa1oxRjFQWVFVQlJGNWFBRV9rQlQwVDFNSXFZa1RhckF2VGQ0QWtVSEJmRE05MjZ4bHg4TEdtVnNGYTRqbVlZVDYxWXpHaW81RGpXVGFYR1VIVnNtSkwzWE1haEkwVjhHNVdqUmV0a01FR0hubXN2X0lqb3NROHBUU1JKZjFvVDhzZjNvc3FDR2VhcTd4Vkp5Q9IB2gFBVV95cUxNdnNydHBVdDZHRld0UkFHOFJPNWU2RzRBQ21adGxDM2VzNlo2eUtxWEhiUXhVaEt3WjFZbEFZYkNUdzJ0dm0wXzFTZ1NXeXhaZ2lXNTM4TTc5WFExLWtOTVR3ZVVudk41WGozN1AwVEUySUlGNzVqS1I2WWFicEYzeVF3TUk2TFZiVnBTUjhjWTFyWmlHNk9ITXBHRlRxelJGdnBzMTdrcUJmb1NmSEg0V2NhcFNFak90bnJOeXJwNmpWcUREdnkwdTNQbGlqREp4R09MY3NRU1Vldw?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Dapre / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49"
+    },
+    {
+      "id": 2612,
+      "titulo": "Congreso aprueba Ley de Sometimiento que reemplaza la Paz Total",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "La Cámara de Representantes aprobó con 95 votos a favor y 10 en contra la Ley de Sometimiento, iniciativa insignia del gobierno de Abelardo de la Espriella que establece un nuevo marco de sometimiento a la justicia para estructuras criminales, en reemplazo de la política de Paz Total de Gustavo Petro. El Senado ya la había aprobado con 57 votos a favor y 24 en contra, por lo que no requiere conciliación y pasa directamente a sanción presidencial.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/aprobada-ley-sometimiento-gobierno-abelardo-de-la-espriella-camara-senado-CD43156545",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Congreso de la República / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 13:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2611,
       "titulo": "ICETEX abre renovación de 95.000 créditos educativos para 2027",
       "categoria": "economia",
@@ -60911,7 +61143,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-04",
-    "total_casos": 2522,
+    "total_casos": 2532,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
