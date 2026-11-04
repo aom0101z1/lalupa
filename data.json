@@ -221,6 +221,283 @@
   ],
   "casos": [
     {
+      "id": 2611,
+      "titulo": "ICETEX abre renovación de 95.000 créditos educativos para 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "El ICETEX anunció la apertura del proceso de renovación de 95.000 créditos educativos para estudiantes que continuarán sus estudios en 2027, con una destinación cercana a los $1,07 billones financiados con recursos propios de la entidad.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/icetex-abre-renovacion-de-95000-creditos-para-estudiar-en-2027",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ICETEX",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2610,
+      "titulo": "Muere segundo patrullero herido en atentado con motocicleta bomba en Algeciras, Huila",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "La Policía Nacional reportó la muerte del patrullero Jaime Andrés García Moreno, segundo uniformado que fallece tras el atentado con motocicleta bomba ocurrido el domingo en Algeciras, Huila. El agente luchó varios días por su vida tras resultar gravemente herido en el ataque atribuido a estructuras armadas ilegales, que se suma a la ola de atentados registrados en Tolima, Huila y Cauca.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/atentado-terrorista-algeciras-huila-moto-bomba-murio-segundo-policia-patrullero-jaime-garcia-AC43149382",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Andrés García Moreno"
+      ],
+      "entidad": "Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2609,
+      "titulo": "Deicy Jiménez no declara ante la Fiscalía tras renuncia de su abogado en caso de 'sexo por contratos'",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-03",
+      "descripcion": "Deicy Jiménez no se presentó a declarar ante la Fiscalía General de la Nación luego de que su abogado, Felipe Caballero, renunciara a la defensa por motivos de seguridad personal en el marco del caso conocido como 'sexo por contratos'. Caballero aseguró que su salida no afecta los procesos en curso.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/deicy-jimenez-no-declaro-ante-la-fiscalia-tras-renuncia-de-su-abogado/",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Felipe Caballero"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50"
+    },
+    {
+      "id": 2608,
+      "titulo": "Choque entre MinAgricultura y Fedegán por manejo de recursos deriva en anuncio de auditoría",
+      "categoria": "transparencia",
+      "fecha": "2026-11-03",
+      "descripcion": "Un encuentro entre el ministro de Agricultura y el presidente de Fedegán, junto con otros empresarios y gremios, terminó marcado por cuestionamientos sobre el destino de recursos del sector, lo que derivó en el anuncio de una auditoría por parte del Gobierno.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/donde-esta-la-plata-el-fuerte-choque-entre-ministro-de-agricultura-y-presidente-de-fedegan-505666",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / Fedegán",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2607,
+      "titulo": "Gobierno gestiona recursos para dragado del puerto de Barranquilla y obras en Canal del Dique y puente Pumarejo",
+      "categoria": "obras",
+      "fecha": "2026-11-04",
+      "descripcion": "El Gobierno Nacional anunció que buscará recursos para acelerar proyectos de infraestructura en Barranquilla y el Atlántico, incluyendo el dragado del puerto, obras en el Canal del Dique y el puente Pumarejo, iniciativas que presentan distintos niveles de avance.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-gestionara-recursos-para-dragado-del-puerto-de-barranquilla-y-obras-en-canal-del-dique-y-puente-pumarejo/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / ANI",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2606,
+      "titulo": "Gobierno anuncia medidas de seguridad en la frontera con Venezuela",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "El presidente Abelardo de la Espriella anunció nuevas medidas para frenar el crimen organizado en la frontera colombo-venezolana, en el marco de la política de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por Publimetro Colombia",
+      "fuentes": [
+        {
+          "nombre": "Publimetro Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXZpcEptUVd5ZmtUejJMUUtpMDZXODl0Wkg4TXRpbnJIM2lTLVB3LUloa3B5bEFUc1BLTEdUUTVnQmFRdmNhYWJuQVNqb3JFZEVzMnlydjlLZGltbTBad3FNVTZicTlzUWRWbllwOWJOZmQ4Zjl1QmJZUEZFakVxTVRLNHBlVm5SMXVDWExEMm42OU9PUUs1cTNDVUZfd182TWYwTnpncDhWcDlMeVNCdDhFdldXXzFwdzR3Sjc2dzJ0WmNHSlp4SlBKbFVla3pENzlocWdNc3MwZ3NLNFE?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2605,
+      "titulo": "MinTrabajo actúa contra sindicatos con irregularidades en labores de sus integrantes",
+      "categoria": "transparencia",
+      "fecha": "2026-11-04",
+      "descripcion": "El Ministerio del Trabajo tomó medidas contra sindicatos en Colombia que presentaban irregularidades relacionadas con las labores reportadas por sus integrantes, en el marco de medidas de transparencia del nuevo gobierno.",
+      "evidencia": "Reportado por RED+ Noticias",
+      "fuentes": [
+        {
+          "nombre": "RED+ Noticias",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0FhaHZUNEVqbWxjZ2dsRFRjLTNPOTNmeGNLaGZBc0Z4d0VpcXFyNTJqc09WaTVXUnpIVEc4TkxyYlRMQWw4MTlfMElEYkdmMzhCUDhBSHBqVmpkek9Pb3p1QlhuVTVnb3RxaDAzMVFKaU12MEN4M2NnWHdtd1BEdzJrZlhEXzgtcE12Z2tadHdMdUJrSHZ1QkV6X3pVMHl0MGtEN1lEdnNFTG1VQ0tlSEJYYldseC1ZazR2VWxjVWx3TWxnUm0zTDFRbTV0UHlfTFMzWlc1RDNGUjhmanNYUzZLczZhTGFjaVV1WHhkcFU2TlhK?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2604,
+      "titulo": "Capturan en Argentina a colombiano más buscado en Bogotá por terrorismo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "Edwin Alfredo López Casteblanco, de 45 años, uno de los más buscados en Bogotá por presunto homicidio, lesiones con resultado de muerte y delitos con armas de fuego, fue capturado en Buenos Aires, Argentina, tras una circular roja de Interpol en su contra.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/capturan-en-argentina-a-colombiano-con-circular-interpol-HD43150520",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Alfredo López Casteblanco"
+      ],
+      "entidad": "Policía Nacional / Interpol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2603,
+      "titulo": "Gobierno reporta golpe financiero a disidencias de Iván Mordisco",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "El presidente Abelardo de la Espriella reportó un golpe a las finanzas de las disidencias de alias 'Iván Mordisco', en el marco de las operaciones militares contra estructuras armadas ilegales del gobierno nacional.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-reporta-golpe-a-las-finanzas-de-las-disidencias-de-ivan-mordisco/202611/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Iván Mordisco"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2602,
+      "titulo": "Fecode advierte que nuevo proyecto del Gobierno eliminaría el Fomag",
+      "categoria": "economia",
+      "fecha": "2026-11-03",
+      "descripcion": "Fecode aseguró que un nuevo proyecto del Gobierno De la Espriella podría eliminar el Fondo Nacional de Prestaciones Sociales del Magisterio (Fomag), en medio de la intervención y auditoría forense ya anunciadas sobre este fondo de los maestros.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSVgtdUFGQzNscjN0eUt2QWx2RF9kOWQ1R3ZXb1NzdkNkdnRqY1RQTk5Kei0yZmNvYVMwNExHTzNQMzlRcTFKZHBXUUpRSWFlN2ptTlU1b0dlb2s3aG5SZ9IB9wFBVV95cUxNQ0pHQWdfSFUzTUcxanNWUXprVE1OQXAxeGVMLTVMUUdXT2RONmdNWGNHUVY1R29jdy05eHJUV2dwVG1KcXFvRTV3RWVxSjZLamloLWRGWWV1UzN5WDhONjdlRi1RWks1TWEwUnNQcUF0VlBPRTVWSEZ3c1piY2pFQ05HbEM4Nms0WjVtanBHMTZ1ZkxCZWh0M3ZUOEtVc3hRR3BoZ2VzTml1WHRYYTcwNFQxeFE2QVRBQUtuWklnUDVJYXBfNWQ5VmR6UWE2WTVaOE96R3hUYjZGYWw1Z19OUTVxTW9UTTFjZEExRzZ3Y19fRnZmOXB3?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fomag / Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2601,
+      "titulo": "Gobierno cierra COP17 con nuevos recursos para biodiversidad",
+      "categoria": "internacional",
+      "fecha": "2026-11-03",
+      "descripcion": "El Gobierno De la Espriella cerró su participación en la COP17 anunciando nuevos recursos y avances orientados a la protección de la biodiversidad del país, en el marco de la agenda internacional ambiental.",
+      "evidencia": "Reportado por Ministerio de Ambiente y Desarrollo Sostenible",
+      "fuentes": [
+        {
+          "nombre": "Ministerio de Ambiente y Desarrollo Sostenible",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWhWRzJRX2xyME5CS1RsdGFHdFhUckUwZjltZDlsRk9zeUZrdWFyME04c0xWSV9JX2VzdnA0dUp4OGozenVuUmo2VUt6dGJfZXRTMDFOemlSUEtUaF9KR3BHSk9CRnotcGxnRktfZnE0QTZ6QmZmZ25PWGFYWnBxcDR4c1p6SkxhVWFMZEVMOXRBVTg5RUpsdm5YSUl6alVSaHFoUlZoLUVFeVVGbTI3MmdKN1hnVUNZSXR3ZkQ0XzM4Ql92Z3V5bEd3?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2600,
+      "titulo": "Gobierno revive operación militar Esparta en Catatumbo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "El presidente Abelardo De la Espriella reactivó desde Cúcuta la operación militar y policial Esparta, suspendida durante el gobierno Petro, con el objetivo de enfrentar a organizaciones armadas ilegales en Norte de Santander, particularmente en el Catatumbo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-resucita-operacion-militar-esparta-que-es-PC43149530",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-04 04:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2599,
       "titulo": "Minsalud aplaza seis meses implementación del giro directo de la UPC",
       "categoria": "economia",
@@ -60633,8 +60910,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-03",
-    "total_casos": 2510,
+    "ultima_actualizacion": "2026-11-04",
+    "total_casos": 2522,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
