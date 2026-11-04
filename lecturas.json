@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-03"
+    "ultima_actualizacion": "2026-11-04"
   },
   "lecturas": [
+    {
+      "id": 389,
+      "titulo": "Hallan farmaco que repara danos en el ADN y reduce la inflamacion cerebral en el Alzheimer",
+      "resumen": "Un medicamento desarrollado originalmente para lesiones de medula espinal demostro atacar varias caracteristicas clave del Alzheimer, incluido el dano al ADN y la inflamacion, y ya supero pruebas iniciales de seguridad en humanos.",
+      "por_que_leerlo": "Es un candidato a tratamiento que ya tiene pruebas de seguridad en personas, lo que acorta el camino hacia una terapia real contra el Alzheimer.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "farmacos",
+        "neurociencia",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-02",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 390,
+      "titulo": "Ucrania ataca con drones y Rusia intenta esconder sus centros de datos bajo tierra",
+      "resumen": "Los ataques con drones ucranianos han dañado infraestructura digital rusa, lo que lleva a Moscú a planear centros de datos subterráneos para protegerlos. La estrategia busca blindar infraestructura crítica ante una guerra de drones que golpea cada vez más objetivos tecnológicos.",
+      "por_que_leerlo": "Muestra cómo la guerra moderna está obligando a repensar la ubicación física de la infraestructura digital crítica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "drones",
+        "centros de datos",
+        "rusia",
+        "ucrania"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 391,
+      "titulo": "Centros de datos recurren a motores de avión descartados para resolver la escasez de energía",
+      "resumen": "Ante años de espera para conectarse a la red eléctrica y conseguir turbinas nuevas, constructores de centros de datos están usando motores de avión usados y antes desechados para generar electricidad. La solución es menos eficiente y más contaminante, pero permite operar instalaciones mientras se resuelve el cuello de botella energético.",
+      "por_que_leerlo": "Revela hasta qué punto la escasez de energía está forzando soluciones improvisadas en la carrera por infraestructura de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia",
+        "centros de datos",
+        "infraestructura",
+        "ia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 392,
+      "titulo": "Una startup imprime en 3D la primera viga rígida fabricada en el vacío del espacio",
+      "resumen": "Orbital Matter logró imprimir en 3D una viga estructural rígida directamente en el vacío espacial, un hito de construcción orbital. La técnica podría habilitar en el futuro la fabricación de estructuras grandes en órbita, incluyendo posibles centros de datos espaciales.",
+      "por_que_leerlo": "Es un primer paso concreto hacia fabricar infraestructura directamente en el espacio, algo que hasta ahora era solo teoría.",
+      "seccion": "tecnologia",
+      "tags": [
+        "espacio",
+        "impresion 3d",
+        "ingenieria",
+        "centros de datos"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 393,
+      "titulo": "Postman instala en secreto complementos de IA y envía datos de tus API",
+      "resumen": "La aplicación Postman activó automáticamente plugins de IA sin consentimiento del usuario y comenzó a enviar datos sensibles de las API a servidores externos, según un reporte en GitHub con más de 1.000 votos y 348 comentarios. La comunidad de desarrolladores denunció la falta de control sobre la función y exigió una opción clara para desactivarla.",
+      "por_que_leerlo": "Si usas Postman para construir o probar APIs, debes revisar ya tu configuración de privacidad antes de que tus datos salgan de tu control.",
+      "seccion": "tecnologia",
+      "tags": [
+        "postman",
+        "seguridad",
+        "api",
+        "privacidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 394,
+      "titulo": "Variar el mensaje, no la personalidad, aumenta el enganche en redes sociales",
+      "resumen": "Una investigacion de Case Western Reserve University encontro que las figuras publicas logran mas interaccion cuando varian temas y palabras, pero mantienen una 'voz psicologica' consistente, en vez de repetir siempre el mismo mensaje.",
+      "por_que_leerlo": "Ofrece una tactica respaldada por datos para mejorar el alcance de contenido sin perder la autenticidad de marca.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "redes sociales",
+        "marketing",
+        "contenido",
+        "engagement"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-social-media-engagement-message-personality.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 395,
+      "titulo": "Las empresas mas digitalizadas son mas vulnerables a ciberataques, revela estudio",
+      "resumen": "Un estudio de la Universidad de Vaasa (Finlandia), publicado en British Journal of Management, encontro que a mayor digitalizacion corporativa, mayor es el riesgo de sufrir un ciberataque exitoso, contrario a la promesa de que la tecnologia solo trae eficiencia.",
+      "por_que_leerlo": "Advierte a quien digitaliza su negocio que la eficiencia tecnologica viene con un riesgo de seguridad que hay que gestionar activamente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "digitalizacion",
+        "empresas",
+        "riesgo"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-digitalization-front-runners-vulnerable-cyberattacks.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 396,
+      "titulo": "Cocinar contamina mas el aire que los tubos de escape en Londres y Pekin",
+      "resumen": "Un estudio encontro que, pese a decadas de regulaciones vehiculares, las emisiones de particulas nocivas por cocinar en los centros de Londres y Pekin ya superan a las de los vehiculos, en parte por la fuerte caida de emisiones del transporte.",
+      "por_que_leerlo": "Cambia la percepcion comun sobre las fuentes de contaminacion urbana con datos concretos de dos megaciudades.",
+      "seccion": "ciencia",
+      "tags": [
+        "contaminacion",
+        "salud",
+        "aire",
+        "ciudades"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-cooking-bigger-source-air-particles.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 397,
+      "titulo": "El cerebro difumina el limite entre peligro y seguridad cuando hay miedo, segun estudio",
+      "resumen": "Cientificos que observaron actividad cerebral en ratones mediante realidad aumentada hallaron que el miedo hace que los recuerdos de entornos peligrosos y seguros se superpongan, un mecanismo de 'mejor prevenir que lamentar' que podria explicar la ansiedad y el trastorno de estres postraumatico.",
+      "por_que_leerlo": "Ofrece una explicacion biologica novedosa de por que la ansiedad y el TEPT hacen que el cerebro perciba peligro donde no lo hay.",
+      "seccion": "ciencia",
+      "tags": [
+        "neurociencia",
+        "ansiedad",
+        "miedo",
+        "cerebro"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 398,
+      "titulo": "La startup de inferencia de IA Fal duplica su valoración a 16.000 millones de dólares",
+      "resumen": "Fal, una startup de cinco años enfocada en infraestructura de inferencia para IA, cerró una ronda de 1.300 millones de dólares liderada por Bessemer que duplicó su valoración. El salto refleja la demanda creciente por infraestructura que permita correr modelos de IA de forma rápida y barata.",
+      "por_que_leerlo": "Ofrece una señal concreta de dónde está fluyendo el capital de riesgo dentro del boom de infraestructura de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "startups",
+        "inversion",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 399,
+      "titulo": "Solo el 7% del crédito agropecuario en Colombia se destina a inversión, revela estudio",
+      "resumen": "Un estudio encontró que apenas el 7% de los créditos otorgados para la transformación agropecuaria en Colombia se destina a inversión productiva, mientras que cerca del 72% financia la compra de insumos y casi el 80% se concentra en capital de trabajo. Esta distribución limita la modernización del campo y ayuda a explicar su baja productividad frente a otros sectores.",
+      "por_que_leerlo": "Da cifras concretas sobre por qué el crédito rural colombiano no está transformando el campo, algo útil para quien evalúa invertir o emprender en agroindustria.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "credito",
+        "agro",
+        "colombia",
+        "finanzas"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/credito-agro-colombia-inversion-estudio/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
+    {
+      "id": 400,
+      "titulo": "Colombia suma 42 proyectos de generación eléctrica en el tercer trimestre, mayoría solares",
+      "resumen": "Durante el tercer trimestre de 2026 ingresaron 42 nuevos proyectos de generación eléctrica al sistema colombiano, la mayoría de energía solar, junto con cinco iniciativas de transmisión incorporadas al mercado.",
+      "por_que_leerlo": "Revela hacia dónde se dirige la inversión energética en Colombia y qué oportunidades hay en generación solar.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energía solar",
+        "infraestructura",
+        "colombia",
+        "inversión"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/ingresaron-42-proyectos-de-generacion-electrica-al-sistema-colombiano-en-el-tercer-trimestre-la-mayoria-fueron-solares/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-04 02:58",
+      "auto_generated": true
+    },
     {
       "id": 377,
       "titulo": "Nueva IA diseña proteínas a partir de una simple descripción en lenguaje natural",

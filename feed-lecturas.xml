@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:19:29 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:58:13 -0000</lastBuildDate>
+    <item>
+      <title>Hallan farmaco que repara danos en el ADN y reduce la inflamacion cerebral en el Alzheimer</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261102075806.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-389</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un medicamento desarrollado originalmente para lesiones de medula espinal demostro atacar varias caracteristicas clave del Alzheimer, incluido el dano al ADN y la inflamacion, y ya supero pruebas iniciales de seguridad en humanos. Por que leerlo: Es un candidato a tratamiento que ya tiene pruebas de seguridad en personas, lo que acorta el camino hacia una terapia real contra el Alzheimer. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Ucrania ataca con drones y Rusia intenta esconder sus centros de datos bajo tierra</title>
+      <link>https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/</link>
+      <guid isPermaLink="false">lalupa-lectura-390</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Los ataques con drones ucranianos han dañado infraestructura digital rusa, lo que lleva a Moscú a planear centros de datos subterráneos para protegerlos. La estrategia busca blindar infraestructura crítica ante una guerra de drones que golpea cada vez más objetivos tecnológicos. Por que leerlo: Muestra cómo la guerra moderna está obligando a repensar la ubicación física de la infraestructura digital crítica. (Ars Technica, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Centros de datos recurren a motores de avión descartados para resolver la escasez de energía</title>
+      <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
+      <guid isPermaLink="false">lalupa-lectura-391</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Ante años de espera para conectarse a la red eléctrica y conseguir turbinas nuevas, constructores de centros de datos están usando motores de avión usados y antes desechados para generar electricidad. La solución es menos eficiente y más contaminante, pero permite operar instalaciones mientras se resuelve el cuello de botella energético. Por que leerlo: Revela hasta qué punto la escasez de energía está forzando soluciones improvisadas en la carrera por infraestructura de IA. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una startup imprime en 3D la primera viga rígida fabricada en el vacío del espacio</title>
+      <link>https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/</link>
+      <guid isPermaLink="false">lalupa-lectura-392</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Orbital Matter logró imprimir en 3D una viga estructural rígida directamente en el vacío espacial, un hito de construcción orbital. La técnica podría habilitar en el futuro la fabricación de estructuras grandes en órbita, incluyendo posibles centros de datos espaciales. Por que leerlo: Es un primer paso concreto hacia fabricar infraestructura directamente en el espacio, algo que hasta ahora era solo teoría. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Postman instala en secreto complementos de IA y envía datos de tus API</title>
+      <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
+      <guid isPermaLink="false">lalupa-lectura-393</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La aplicación Postman activó automáticamente plugins de IA sin consentimiento del usuario y comenzó a enviar datos sensibles de las API a servidores externos, según un reporte en GitHub con más de 1.000 votos y 348 comentarios. La comunidad de desarrolladores denunció la falta de control sobre la función y exigió una opción clara para desactivarla. Por que leerlo: Si usas Postman para construir o probar APIs, debes revisar ya tu configuración de privacidad antes de que tus datos salgan de tu control. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Variar el mensaje, no la personalidad, aumenta el enganche en redes sociales</title>
+      <link>https://phys.org/news/2026-11-social-media-engagement-message-personality.html</link>
+      <guid isPermaLink="false">lalupa-lectura-394</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Una investigacion de Case Western Reserve University encontro que las figuras publicas logran mas interaccion cuando varian temas y palabras, pero mantienen una 'voz psicologica' consistente, en vez de repetir siempre el mismo mensaje. Por que leerlo: Ofrece una tactica respaldada por datos para mejorar el alcance de contenido sin perder la autenticidad de marca. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Las empresas mas digitalizadas son mas vulnerables a ciberataques, revela estudio</title>
+      <link>https://phys.org/news/2026-11-digitalization-front-runners-vulnerable-cyberattacks.html</link>
+      <guid isPermaLink="false">lalupa-lectura-395</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un estudio de la Universidad de Vaasa (Finlandia), publicado en British Journal of Management, encontro que a mayor digitalizacion corporativa, mayor es el riesgo de sufrir un ciberataque exitoso, contrario a la promesa de que la tecnologia solo trae eficiencia. Por que leerlo: Advierte a quien digitaliza su negocio que la eficiencia tecnologica viene con un riesgo de seguridad que hay que gestionar activamente. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Cocinar contamina mas el aire que los tubos de escape en Londres y Pekin</title>
+      <link>https://phys.org/news/2026-11-cooking-bigger-source-air-particles.html</link>
+      <guid isPermaLink="false">lalupa-lectura-396</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio encontro que, pese a decadas de regulaciones vehiculares, las emisiones de particulas nocivas por cocinar en los centros de Londres y Pekin ya superan a las de los vehiculos, en parte por la fuerte caida de emisiones del transporte. Por que leerlo: Cambia la percepcion comun sobre las fuentes de contaminacion urbana con datos concretos de dos megaciudades. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El cerebro difumina el limite entre peligro y seguridad cuando hay miedo, segun estudio</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261102202833.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-397</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Cientificos que observaron actividad cerebral en ratones mediante realidad aumentada hallaron que el miedo hace que los recuerdos de entornos peligrosos y seguros se superpongan, un mecanismo de 'mejor prevenir que lamentar' que podria explicar la ansiedad y el trastorno de estres postraumatico. Por que leerlo: Ofrece una explicacion biologica novedosa de por que la ansiedad y el TEPT hacen que el cerebro perciba peligro donde no lo hay. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La startup de inferencia de IA Fal duplica su valoración a 16.000 millones de dólares</title>
+      <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</link>
+      <guid isPermaLink="false">lalupa-lectura-398</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Fal, una startup de cinco años enfocada en infraestructura de inferencia para IA, cerró una ronda de 1.300 millones de dólares liderada por Bessemer que duplicó su valoración. El salto refleja la demanda creciente por infraestructura que permita correr modelos de IA de forma rápida y barata. Por que leerlo: Ofrece una señal concreta de dónde está fluyendo el capital de riesgo dentro del boom de infraestructura de IA. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Solo el 7% del crédito agropecuario en Colombia se destina a inversión, revela estudio</title>
+      <link>https://www.valoraanalitik.com/credito-agro-colombia-inversion-estudio/</link>
+      <guid isPermaLink="false">lalupa-lectura-399</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Un estudio encontró que apenas el 7% de los créditos otorgados para la transformación agropecuaria en Colombia se destina a inversión productiva, mientras que cerca del 72% financia la compra de insumos y casi el 80% se concentra en capital de trabajo. Esta distribución limita la modernización del campo y ayuda a explicar su baja productividad frente a otros sectores. Por que leerlo: Da cifras concretas sobre por qué el crédito rural colombiano no está transformando el campo, algo útil para quien evalúa invertir o emprender en agroindustria. (Valora Analitik, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Colombia suma 42 proyectos de generación eléctrica en el tercer trimestre, mayoría solares</title>
+      <link>https://www.valoraanalitik.com/ingresaron-42-proyectos-de-generacion-electrica-al-sistema-colombiano-en-el-tercer-trimestre-la-mayoria-fueron-solares/</link>
+      <guid isPermaLink="false">lalupa-lectura-400</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Durante el tercer trimestre de 2026 ingresaron 42 nuevos proyectos de generación eléctrica al sistema colombiano, la mayoría de energía solar, junto con cinco iniciativas de transmisión incorporadas al mercado. Por que leerlo: Revela hacia dónde se dirige la inversión energética en Colombia y qué oportunidades hay en generación solar. (Valora Analitik, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Nueva IA diseña proteínas a partir de una simple descripción en lenguaje natural</title>
       <link>https://phys.org/news/2026-11-ai-protein.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 02 Nov 2026 02:07:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>El número de tarjetas de crédito vigentes en Colombia alcanzó los 16,4 millones, impulsado por las nuevas generaciones y el uso creciente en compras cotidianas. El mercado muestra un crecimiento sostenido pese a las tasas de interés altas. Por que leerlo: Da cifras concretas sobre cómo evoluciona el crédito al consumo en Colombia, útil para quien construye productos financieros o fintech. (Valora Analitik, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Una particula olvidada podria explicar por que existe el universo</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261031221201.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-329</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos reviven la hipotesis de un neutrino esteril ignorado por decadas, que podria explicar por que la materia sobrevivio al Big Bang en lugar de aniquilarse con la antimateria. La particula habria dejado senales detectables en forma de ondas gravitacionales que podrian confirmarse con observaciones futuras. Por que leerlo: Presenta una posible solucion a uno de los mayores enigmas de la fisica: por que existe algo en lugar de nada. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un pesticida comun se vincula a 2.5 veces mas riesgo de Parkinson</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261031013035.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-330</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio de la UCLA encontro que la exposicion prolongada a un pesticida de uso comun se asocia con mas del doble de riesgo de desarrollar Parkinson. Los investigadores tambien identificaron el mecanismo por el cual el quimico dana las neuronas y proponen una forma de protegerlas. Por que leerlo: Aporta evidencia concreta sobre un riesgo ambiental cotidiano y una posible via de proteccion neurologica. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Fosil de simio de 17 millones de anos en Egipto desafia la teoria del origen africano oriental</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261031011638.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-331</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un fosil de simio hallado en Egipto, de entre 17 y 18 millones de anos de antiguedad, sugiere que el norte de Africa y Oriente Medio, y no el este de Africa, pudieron ser la cuna de la evolucion de los simios modernos. El hallazgo obliga a reconsiderar el mapa clasico del origen de los ancestros humanos. Por que leerlo: Replantea donde comenzo realmente la historia evolutiva que llevo a los humanos modernos. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Cientificos reducen el tornillo de Arquimedes al tamano de una molecula</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261030002940.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-332</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un equipo construyo un motor molecular inspirado en el tornillo de Arquimedes que gira en cualquier direccion impulsado por electricidad. Su rotacion puede aumentar la conductividad electrica hasta 100 veces, lo que abre posibilidades para la electronica molecular del futuro. Por que leerlo: Anticipa una tecnologia que podria cambiar como se disena la electronica a escala molecular. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un tribunal brasileño sanciona a abogados por usar inyección de prompts en un escrito judicial</title>
-      <link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</link>
-      <guid isPermaLink="false">lalupa-lectura-333</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un juzgado de Brasil sancionó a un grupo de abogados tras descubrir que habían insertado instrucciones ocultas dirigidas a modelos de IA dentro de un documento legal, en un intento de manipular herramientas de inteligencia artificial usadas en el proceso. El caso es uno de los primeros antecedentes judiciales en América Latina sobre ataques de inyección de prompts. Por que leerlo: Muestra un riesgo real y concreto de seguridad en IA que ya está llegando a los tribunales latinoamericanos. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>En Ucrania los drones ya detectan soldados por el sonido, no solo por video</title>
-      <link>https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos</link>
-      <guid isPermaLink="false">lalupa-lectura-334</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Rusia y Ucrania están incorporando micrófonos a sus drones para localizar tropas incluso cuando están ocultas de las cámaras, según reportó Forbes. Esta tecnología, relativamente simple y barata, cambia las reglas de camuflaje que hasta ahora dependían solo de evitar ser vistos. Por que leerlo: Revela cómo una innovación de bajo costo puede alterar por completo las tácticas de un conflicto armado moderno. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Los fármacos GLP-1 para adelgazar están redibujando industrias enteras</title>
-      <link>https://www.larepublica.co/salud-ejecutiva/el-auge-de-los-farmacos-adelgazantes-glp-1-que-transforma-la-economia-global-4515849</link>
-      <guid isPermaLink="false">lalupa-lectura-335</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El auge de medicamentos adelgazantes tipo GLP-1 está generando ganadores y perdedores en sectores como gimnasios, aerolíneas y alimentos, según un análisis económico global. Empresas de distintas industrias ya ajustan sus modelos de negocio ante el cambio en hábitos de consumo que provoca este tipo de fármacos. Por que leerlo: Ofrece una lección de cómo un solo producto farmacéutico puede reconfigurar la demanda y las oportunidades de negocio en industrias aparentemente no relacionadas. (La Republica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Cometa interestelar 3I/ATLAS revela pistas de un origen extremadamente frio</title>
-      <link>https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html</link>
-      <guid isPermaLink="false">lalupa-lectura-336</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El metano detectado en el cometa interestelar 3I/ATLAS muestra una proporcion inusualmente alta de hidrogeno pesado (deuterio), lo que indica que sus hielos se formaron en un entorno extremadamente frio alrededor de otra estrella o en la nube molecular previa a su formacion. El hallazgo ofrece una ventana unica a las condiciones quimicas de un sistema planetario ajeno al nuestro. Por que leerlo: Permite entender como se forman los sistemas planetarios fuera del nuestro a traves de una firma quimica unica. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Radiotelescopios podrian resolver el misterio del origen de los neutrinos cosmicos</title>
-      <link>https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html</link>
-      <guid isPermaLink="false">lalupa-lectura-337</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Los neutrinos cosmicos, particulas casi sin masa que atraviesan la Tierra sin interactuar, provienen de fuentes tan diversas como supernovas, pero identificar su origen exacto es extremadamente dificil. Cientificos proponen que los radiotelescopios podrian ayudar a rastrear estas particulas fantasma hasta sus fuentes cosmicas. Por que leerlo: Explica como la astronomia esta cerca de resolver uno de los mayores misterios sobre las particulas mas esquivas del universo. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El avion supersonico de Boom peligra mientras la empresa gira hacia energia para centros de datos de IA</title>
-      <link>https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/</link>
-      <guid isPermaLink="false">lalupa-lectura-338</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Boom Supersonic, la empresa que desarrolla un avion de pasajeros supersonico, enfrenta retrasos en su proyecto mientras su naciente negocio de generacion de energia para centros de datos de inteligencia artificial perdio un cliente clave. El giro refleja como la demanda energetica de la IA esta redefiniendo las prioridades de empresas de otros sectores. Por que leerlo: Ilustra como el auge de la IA esta forzando a empresas de sectores distintos a redirigir su estrategia de negocio. (Ars Technica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>OpenAI reduciría el objetivo de su nueva ronda de financiación</title>
-      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
-      <guid isPermaLink="false">lalupa-lectura-339</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Reportes indican que OpenAI bajó la meta de su última ronda de inversión, señal de que la demanda de los inversionistas no cumplió las expectativas iniciales de la compañía. El ajuste llega en medio de crecientes dudas sobre el ritmo de gasto en infraestructura de IA del sector. Por que leerlo: Te da una señal temprana de hacia dónde se dirige el apetito inversor por la IA, clave si buscas financiación para tu propio negocio. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un desarrollador crea una dashcam con IA que detecta y reporta basura en las carreteras</title>
-      <link>https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa</link>
-      <guid isPermaLink="false">lalupa-lectura-340</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Cansado de ver basura arrojada desde los vehículos, un programador convirtió su celular en un monitor inteligente que usa IA para detectar, clasificar y generar pruebas de quienes tiran residuos en la vía, enviando la evidencia a campañas de limpieza de su ciudad. El proyecto funciona con un simple soporte de salpicadero y procesamiento de imágenes en tiempo real. Por que leerlo: Es un ejemplo práctico de cómo un desarrollador independiente puede resolver un problema cotidiano usando IA con hardware mínimo. (Xataka, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
