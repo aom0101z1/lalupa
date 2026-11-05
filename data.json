@@ -221,6 +221,400 @@
   ],
   "casos": [
     {
+      "id": 2660,
+      "titulo": "MinVivienda y Alcaldía de Argelia invierten en saneamiento básico rural",
+      "categoria": "obras",
+      "fecha": "2026-11-05",
+      "descripcion": "El Ministerio de Vivienda y la Alcaldía de Argelia destinaron más de $3.300 millones para proyectos de saneamiento básico en zona rural dispersa del municipio, como parte de la agenda de inversión territorial del Gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/minvivienda-y-alcaldia-de-argelia-destinan-mas-de-3300-millones-a-saneamiento-basico-en-zona-rural-dispersa/202648/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Alcaldía de Argelia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2659,
+      "titulo": "Ejército despliega operación en Arauca para rescatar a subteniente secuestrada por el ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-11-04",
+      "descripcion": "El Ejército Nacional desplegó una operación militar en Saravena, Arauca, para rescatar a la subteniente María Camila Pantoja Hernández, quien habría sido interceptada por dos hombres armados y estaría en poder del ELN.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-despliega-operacion-en-arauca-por-secuestro-de-una-oficial-estaria-en-poder-del-eln-3598565",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "María Camila Pantoja Hernández"
+      ],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2658,
+      "titulo": "Paola Andrea Onzaga asumirá la dirección de la Agencia para la Reincorporación",
+      "categoria": "gabinete",
+      "fecha": "2026-11-04",
+      "descripcion": "El gobierno de Abelardo de la Espriella publicó la hoja de vida de la abogada Paola Andrea Onzaga como la persona designada para dirigir la Agencia para la Reincorporación y la Normalización (ARN), entidad encargada de procesos de reincorporación con recursos y operación limitados.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/quien-es-paola-andrea-onzaga-la-persona-a-la-que-abelardo-de-la-espriella-entregara-la-direccion-de-la-agencia-para-la-reincorporacion-3598523",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Paola Andrea Onzaga",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Agencia para la Reincorporación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2657,
+      "titulo": "Gobierno prioriza importacion de gas venezolano via gasoducto Antonio Ricaurte",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "El Gobierno Nacional anuncio que priorizara el restablecimiento del gasoducto Antonio Ricaurte para importar hasta 450 millones de pies cubicos diarios (mpcd) de gas desde Venezuela, con una inversion estimada de US$30 millones, en medio de la crisis de abastecimiento energetico del pais.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-nacional-prioriza-el-gas-venezolano-para-el-abastecimiento-local-4517679",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energia / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2656,
+      "titulo": "CUT convoca paro nacional contra la Ley de Rescate Economico",
+      "categoria": "economia",
+      "fecha": "2026-11-04",
+      "descripcion": "La Central Unitaria de Trabajadores (CUT) convoco un paro nacional en rechazo a la Ley de Rescate Economico impulsada por el gobierno de De la Espriella, que busca recortes fiscales y ajustes en nomina y contratistas del Estado.",
+      "evidencia": "Reportado por AS Colombia",
+      "fuentes": [
+        {
+          "nombre": "AS Colombia",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNOUtiWmh4SU5GaW1vY1BlX0oxdTFyOExCbU9rejNGampGSDZGTHZLdGVIVy0xTWNGaTRIcm5IUEZ2aWptY3Q4RVl3enh5LWs4LXowNE04bEhGdUNPQkJyOEM0ZzVDS09KRWR0S0tyWk9DeG55UDdYc240Q2N1bjRZU0FNWXcwZk0tdWw2RFd6UGNlY1NWd0Y1cjVDejlrLTZVZTRMZGYtOVV2U1pNc1psTC1QSDFoZXAyTVlKRjNaeC1YVGpiRFlFSDJjWDJjTTc1aTdLSTJNOVg3Ti1mNjdraDc4RlFxamhqY0o5em5UTi1uMFVmTXlicmpqUGNrSFU4REhCdlVWcTNYd9IBngJBVV95cUxNN1BiUGhCc2tCRkdGN3pUelRhY0pSNC1ITVRKd0ZpLXE4djZodDZsMzhLZmd3eDJ4Zm9TQU9wS0x0OXV1MU43bkxxY1JmTlZYSXAxQ21zWURoaEhCS2FjWmlYVFRRZTM4RENnYVpYSGdCWVdDZmZfTmU0RjFfeExzY19mT2tGSzFtNHJJMHJDanBQWWtsTmkwRnZmNFlaeDZ6OU5vMEJRY1FpemxXQTFpTUlwbTBob21XOG1Od2plck5XeGxBMTRMY2RPOHRPNkkwRnlNOHQxakhic3k0VkdTVW9qRlBVdGFkSTBsOU1rSGoyMkdmeDg2Q0RPRm8wU1llYXBsS2g5blhDbzRDWEM1QzZkUnRFN0xiUGdiQm5B?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / CUT",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2655,
+      "titulo": "Ricardo Roa no descarta acuerdos con la justicia en caso UNGRD/Ecopetrol",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-04",
+      "descripcion": "El expresidente de Ecopetrol, Ricardo Roa, señaló que no descarta llegar a acuerdos con la justicia en medio de las investigaciones que lo vinculan al escándalo UNGRD y presuntas irregularidades en su gestión, aunque insistió en su inocencia frente a los señalamientos de la Fiscalía.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVE5jRWxZN3p2MDBzSUc3LUpHVmdLTGRZamxteVo0d01zbXNsT2VyaEFPT05mWEpZNS1pZGFPeUFpQjd4SlJjSEN6aE50MEJEYzNpYTZyZjB1MWFsZmVkYWEwM0lzaGpPeUZJYzEtWWtnMzRlbmtPNTBpUk9XNE5DNGpEMGRtZTJkV2k1RlVTem80YWZIWEJYcXRrbl9uMTN1S09SWHYtdlZkb2dDX21tdHZ3akcwamhGbnJXNFRR0gHSAUFVX3lxTE5mWm80X1FYS2UxejFKUGJVQWVXUWVSMHV4a0NqNV8yS3Z4elY3MUx0dkxjWndfT0dpbmNGZGlQWXcwdWhYTDcwRW1sU0RwOHlRVG1YaEdFWEZDLTJYTndLTXg4cFcyVFBSQ0Z4U0xEQVdNMnhBcHpjQ0IyLXZMdGZRMDBHYjR3QjRPaXdxWkxENlJTMmowVzYyVkk1aFZZbDlOQmJDeVN4UUIySU9HQXEzdllIYzNja3pCNGFZeTUxTFhFbnNlN0RXMFZPb0lSRHh2QQ?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ecopetrol",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05"
+    },
+    {
+      "id": 2654,
+      "titulo": "Tercer ataque con explosivos en un mes contra peaje en Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "Un nuevo ataque con explosivos contra un peaje se registró en la madrugada del 5 de noviembre de 2026 en Mediacanoa, en la vía que conecta Cali y Buga (Valle del Cauca), siendo el tercer atentado de este tipo en menos de un mes en la región.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/nuevo-ataque-con-explosivos-contra-un-peaje-en-el-oeste-de-colombia/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2653,
+      "titulo": "Avanza proyecto que reforma la contratación por prestación de servicios con el Estado",
+      "categoria": "economia",
+      "fecha": "2026-11-04",
+      "descripcion": "Un proyecto legislativo que busca modificar el esquema de contratación por prestación de servicios con el Estado avanza en el Congreso, con el objetivo de proteger derechos laborales de los contratistas públicos en Colombia bajo el actual gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/avanza-importante-proyecto-que-cambia-la-contratacion-por-prestacion-de-servicios-con-el-estado/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2652,
+      "titulo": "ANH anuncia plan de reactivación petrolera por US$10.000 millones",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "El presidente de la Agencia Nacional de Hidrocarburos (ANH), Ernesto Forero, explicó el plan del Gobierno Nacional para reactivar proyectos de hidrocarburos en el primer trimestre de 2027, que demandará inversiones estimadas en US$10.000 millones.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/entrevista-con-ernesto-forero-presidente-de-la-agencia-nacional-de-hidrocarburos-4517683",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Ernesto Forero"
+      ],
+      "entidad": "Agencia Nacional de Hidrocarburos (ANH)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2651,
+      "titulo": "Exsuperintendente Cielo Rusinque viaja a EE.UU. tras renunciar a su visa en solidaridad con Petro",
+      "categoria": "mentiras",
+      "fecha": "2026-11-04",
+      "descripcion": "La exsuperintendente de Industria y Comercio del gobierno Petro, Cielo Rusinque, quien renunció públicamente a su visa estadounidense en solidaridad con el expresidente tras el retiro de la visa de este, fue registrada de viaje por Boston y otras ciudades de Estados Unidos, generando críticas por la contradicción entre el gesto político y su comportamiento posterior.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cielo-rusinque-viaje-estados-unidos-tras-renunciar-visa-en-solidaridad-con-petro-MO43181580",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Cielo Rusinque"
+      ],
+      "entidad": "Superintendencia de Industria y Comercio",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05"
+    },
+    {
+      "id": 2650,
+      "titulo": "Denunciantes de caso 'sexo por contratos' contra Petro se reúnen en Bogotá",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-05",
+      "descripcion": "Deicy Jiménez y Angie Rodríguez, ambas denunciantes del escándalo de presunto 'sexo por contratos' vinculado al gobierno de Gustavo Petro, sostuvieron una reunión en Bogotá el 5 de noviembre de 2026, en medio del proceso que investiga la Fiscalía General de la Nación sobre el caso.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/deicy-jimenez-y-angie-rodriguez-quienes-han-denunciado-a-gustavo-petro-sostuvieron-una-reunion-en-bogota/202651/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05"
+    },
+    {
+      "id": 2649,
+      "titulo": "Megaoperativo presidencial revela hallazgos irregulares en cárcel La Picota",
+      "categoria": "seguridad",
+      "fecha": "2026-11-03",
+      "descripcion": "El presidente Abelardo de la Espriella encabezó un megaoperativo en la cárcel La Picota, la más grande de Colombia, donde se expusieron hallazgos de irregularidades dentro del centro penitenciario. El operativo fue presentado como parte de la política de mano dura del nuevo gobierno frente al control carcelario.",
+      "evidencia": "Reportado por NTN24",
+      "fuentes": [
+        {
+          "nombre": "NTN24",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVi0xN1VYZGhlemE4NnlnWmJ1eGpDT09neDRRX01IVjVEcmJvS290elhwTXZpbDFvb2J6M3JWeW80amhxcFdzVW9FVWlvNlBobHVENjZaZTF3aGpiWXRYT080ek54bko1aFBhOGhXUjgySFVKNEtpVnV3Z2xkZ0hhN2RuMUNNeUIyQnVnd25jMG1NZE42LXJqUG16M1BDcGtpbWI3cEtvUk1LUW9XNFNJZ2ZzS1llMjV5cVEyMXgybmM5VFJCWVFQLXFvdzBESkdRQk1NamtCU0V1VlBwbEU2dmhjZWFqUdIB5gFBVV95cUxPeEpNVklwdVlucGw1cGV6X2J5WVJFTmtSS0tBc2RSTThNVU1wY05ZVzl0NGJESTYxa1hNMGZnMEJrU0pVRGhMbEdKQV8tUEg0NUtiSFVobjhnTmxQRnlCVnMwVFptbTNINldOWEM2TzdwLUdqMUh4RmhtNzZneV9LRDNwS2lDU0NaWld3X1MtSk9yUDF0WC0zd3o5OHkyZjkxZUxWdnQ3YlNwWFZsLXpac1l1azRTREZJQW4xdFc1LU1OVlJNZUNxUHg1bnVrWGJiVWNnbFhQX1ZDR08wMWlSLW9JODJhQQ?oc=5",
+          "fecha": "2026-11-03"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "INPEC / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2648,
+      "titulo": "Gobierno De la Espriella restringe gastos de fin de año en entidades públicas",
+      "categoria": "transparencia",
+      "fecha": "2026-11-04",
+      "descripcion": "El gobierno de Abelardo De la Espriella anunció restricciones a los gastos navideños en entidades públicas, como parte de una política de austeridad fiscal en medio de las discusiones sobre la Ley de Rescate Fiscal.",
+      "evidencia": "Reportado por HSB Noticias",
+      "fuentes": [
+        {
+          "nombre": "HSB Noticias",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblJ5WDRMZF84dURnelNUT2E0SjZGQ1NLMHFJU0tvZmtFZ0owNXhuZ2tzUnlYaUZObERJNlFqZWlyYWpEX0tUcm5TRmdxZjdLV0ZiUnc1bEFXajU1NzUtdG1aU0Qxb0trTGlzX0Q5RWpzdzI2UTExd2pHY2w5aDluTDQxUGhfNVg5S2FtTWhXN0t4SWFzcVAyb0ZVaXlSamNDQVo5TTA5aWp5ckVWLUw0UjNCUEVsWlc2WXRr?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2647,
+      "titulo": "Ricardo Roa niega que campaña de Petro 2022 haya violado topes electorales pese a fallo del CNE",
+      "categoria": "mentiras",
+      "fecha": "2026-11-04",
+      "descripcion": "Ricardo Roa, gerente de la campaña de Gustavo Petro en 2022 y actual presidente de Ecopetrol, afirmó públicamente que la campaña no superó los topes electorales, pese a un fallo previo del Consejo Nacional Electoral (CNE) en sentido contrario. Roa sostuvo que demostrará la legalidad del manejo de los recursos de campaña.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUFta1I3TE5UY2Fsenhhd0kzOUdyWEJadkVYYXctYWtLZ25VdGRLdy1iekNJUXlaWkZwLWVqMFlxdm9HUlVOZVJfdjdNbU1Qdlp6VTk0cGd5LUlLekxZWHc2SFpxVFU1UXp3YUphWnZieklPTkVhVW9pTEVjT1V0UFBPR29xa3R6dk80UVpJMzBCSUNaeW9zR2NGNHAzR1FueE9DVFg2TTY1VDdhWXVPanJQanFrS3F1VlVzU1ZjWdIBxAFBVV95cUxPakFSN2hPNnV4bHlFb3VsUnNSMUhOWFZ6VlhvTjZBUUl2S1ZOWkhTZXl5cjM5RkpjVFFoU1d3eHAxOWdnTXZfbTdkNm9WdEk0RFlNY3ZxcUF4Y1p2X2JjdEwyaGx4Q0tGRnJuZ0JuN0FzSkc4TmtWVjlfTk9RVjI3NlBlQTZ0SjAyWks3WDdBNXRURHd0RjJLSlRTa2FhcHB2d1pGZGUxeGNrTmZ0SVhFRG5ScU13Q3JVMXNEX3BWZG41Uzhu?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Consejo Nacional Electoral / Campaña Petro 2022",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05"
+    },
+    {
+      "id": 2646,
+      "titulo": "Gobierno De la Espriella lanza nuevo programa de vivienda para empresas y ciudadanos",
+      "categoria": "obras",
+      "fecha": "2026-11-04",
+      "descripcion": "El ministro de Vivienda, Jaime Beltrán, anunció un nuevo programa de vivienda del gobierno De la Espriella que busca beneficiar tanto a empresas constructoras como a ciudadanos, en el marco de la política habitacional del nuevo gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-nuevo-programa-de-vivienda-que-beneficiara-a-empresas-y-ciudadanos/",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Beltrán"
+      ],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2645,
+      "titulo": "Deicy Jiménez publica video como prueba en denuncia de 'sexocontratos' contra Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-05",
+      "descripcion": "Deicy Jiménez, quien denuncia que el expresidente Gustavo Petro la habría contratado como trabajadora sexual a cambio de contratos y favores estatales, publicó un video de un presunto encuentro íntimo con el exmandatario como prueba de su denuncia. Su abogada confirmó que el material será incorporado a la investigación en curso contra Petro, y la defensa de Jiménez señaló además presuntos seguimientos ilegales en su contra.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/deicy-jimenez-publica-video-encuentro-intimo-besos-gustavo-petro-GF43202949",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05"
+    },
+    {
+      "id": 2644,
+      "titulo": "Exdirectora del Dapre se reúne con denunciante de presunta red de explotación sexual en gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-04",
+      "descripcion": "Angie Rodríguez, exdirectora del Dapre, se reunió con Deicy Jiménez, quien denunció una presunta red de explotación sexual operada desde la Presidencia durante el gobierno de Gustavo Petro. Ambas mujeres han hecho denuncias paralelas sobre irregularidades y presunta instrumentalización dentro de la administración anterior.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-exdirectora-del-dapre-se-reunio-con-deicy-jimenez-mujer-que-denuncio-supuesta-red-de-explotacion-sexual-en-gobierno-petro-3598532",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Dapre",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 05:05"
+    },
+    {
       "id": 2643,
       "titulo": "Empresas estadounidenses piden preservar respaldo bipartidista a Colombia",
       "categoria": "internacional",
@@ -61647,8 +62041,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-04",
-    "total_casos": 2554,
+    "ultima_actualizacion": "2026-11-05",
+    "total_casos": 2571,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
