@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-04"
+    "ultima_actualizacion": "2026-11-05"
   },
   "lecturas": [
+    {
+      "id": 413,
+      "titulo": "Usar ChatGPT en el trabajo podria hacer que tu jefe confie menos en ti",
+      "resumen": "Un estudio liderado por investigadores de la Universidad Hebrea de Jerusalen y la escuela de negocios WHU en Alemania encontro que los empleados que usan ChatGPT y otras herramientas de IA en su trabajo diario son percibidos como menos competentes por sus superiores, pese a ser mas productivos. El efecto se mantiene incluso cuando la calidad del trabajo entregado es igual o mejor que la de quienes no usan IA.",
+      "por_que_leerlo": "Revela un costo oculto de usar IA en el trabajo que todo emprendedor o empleado deberia conocer antes de anunciar que automatiza sus tareas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "trabajo",
+        "chatgpt",
+        "productividad"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-chatgpt-boss.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 414,
+      "titulo": "Investigadores prueban si los modelos de IA son conscientes de sus propios pensamientos",
+      "resumen": "Cientificos inyectaron pensamientos artificiales directamente dentro de grandes modelos de lenguaje para mapear su capacidad de introspeccion, es decir, si pueden reconocer y describir sus propios procesos internos. Los resultados preliminares sugieren que algunos modelos muestran senales limitadas de esta capacidad, aunque esta lejos de ser una conciencia real.",
+      "por_que_leerlo": "Ayuda a entender que tan bien se puede confiar en que una IA explique honestamente como llego a una respuesta.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "llm",
+        "introspeccion",
+        "modelos de lenguaje"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 415,
+      "titulo": "Nuevos cálculos revelan por qué fracasó el programa nuclear alemán de Heisenberg",
+      "resumen": "Investigadores recrearon las condiciones del experimento alemán de fisión nuclear de la Segunda Guerra Mundial usando cubos de uranio y encontraron que Heisenberg subestimó drásticamente la cantidad de material necesaria para lograr una reacción en cadena. El hallazgo, basado en nuevas simulaciones, ayuda a explicar por qué el proyecto nazi nunca llegó a construir una bomba atómica pese a contar con recursos y tiempo.",
+      "por_que_leerlo": "Entender un error de cálculo histórico que cambió el curso de la Segunda Guerra Mundial y la carrera nuclear.",
+      "seccion": "ciencia",
+      "tags": [
+        "historia nuclear",
+        "fisica",
+        "segunda guerra mundial",
+        "ciencia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 416,
+      "titulo": "Revolut dispara su valoración 53% hasta US$115.000 millones antes de lanzar su banco en EE.UU.",
+      "resumen": "La fintech británica Revolut elevó su valoración a 115.000 millones de dólares en una nueva venta de acciones liderada por Glade Brook, Coatue y T. Rowe Price, un salto del 53% frente a su valoración previa. La ronda llega justo cuando la empresa se prepara para lanzar un banco propio en Estados Unidos.",
+      "por_que_leerlo": "Revela cuánto valen hoy las fintechs más agresivas y hacia dónde apunta su próxima gran expansión.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "revolut",
+        "valoracion",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 417,
+      "titulo": "Detectan tráfico de proxies residenciales operando dentro de la red de la Casa Blanca",
+      "resumen": "Investigadores de seguridad hallaron tráfico de proxies residenciales -direcciones IP de hogares comunes usadas para enmascarar el origen real- conectado a la red interna de la Casa Blanca, hallazgo que generó más de 700 votos y 220 comentarios en Hacker News. El uso de este tipo de proxies suele asociarse a evasión de controles o actividad maliciosa, lo que preocupa al tratarse de infraestructura gubernamental sensible.",
+      "por_que_leerlo": "Expone cómo las redes de proxies residenciales, usadas también por criminales, pueden infiltrarse hasta en las redes más sensibles de un gobierno.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "proxies",
+        "gobierno",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 418,
+      "titulo": "Anthropic avanza en 'inferencia demostrable' para verificar qué hizo realmente un modelo de IA",
+      "resumen": "Anthropic publicó investigación sobre 'provable inference', un método para generar pruebas criptográficas de que un modelo de lenguaje grande produjo una salida específica sin alteraciones, permitiendo auditar resultados de IA de forma independiente. El avance busca resolver un problema central de confianza a medida que las empresas dependen más de sistemas de IA para decisiones críticas.",
+      "por_que_leerlo": "Es un paso hacia poder auditar y confiar en lo que realmente hace una IA, clave si construyes productos sobre estos modelos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "anthropic",
+        "verificacion",
+        "confianza"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.anthropic.com/research/provable-inference"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 419,
+      "titulo": "AMD venderá más procesadores que Intel en el cuarto trimestre por primera vez en su historia",
+      "resumen": "AMD proyecta ingresos de hasta 17.000 millones de dólares en el cuarto trimestre, una guía que superaría las propias proyecciones de Intel y marcaría la primera vez que AMD supera en ventas a su rival histórico. El dato refleja un giro de fondo en el mercado de procesadores tras años de dominio de Intel.",
+      "por_que_leerlo": "Es un vuelco histórico en la industria de semiconductores respaldado por cifras concretas de ambas compañías.",
+      "seccion": "tecnologia",
+      "tags": [
+        "semiconductores",
+        "amd",
+        "intel",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 420,
+      "titulo": "Investigadores observan por primera vez el hidrogeno disuelto dentro de aleaciones metalicas",
+      "resumen": "Cientificos de la Universidad de Sidney lograron observar directamente, por primera vez, como el hidrogeno se aloja en los espacios diminutos entre los atomos de las redes cristalinas de aleaciones metalicas. El hallazgo explica por que el hidrogeno puede debilitar ciertos metales y abre camino al diseno de materiales mas resistentes, algo clave para la economia del hidrogeno verde.",
+      "por_que_leerlo": "Entender este mecanismo es clave para quienes trabajan en energia e infraestructura que dependen del hidrogeno como combustible limpio.",
+      "seccion": "ciencia",
+      "tags": [
+        "hidrogeno",
+        "materiales",
+        "ingenieria",
+        "energia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-reveal-hydrogen-dissolved-tiny-gaps.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 421,
+      "titulo": "Cientificos del MIT rompen una regla de 20 anos y descubren nuevas estructuras cristalinas",
+      "resumen": "Investigadores del MIT demostraron que usar conexiones moleculares flexibles, en lugar de rigidas, permite ordenar nanoparticulas en arreglos nunca antes vistos, contradiciendo dos decadas de consenso cientifico. El hallazgo podria dar origen a una nueva generacion de materiales disenados a medida para electronica, medicina y energia.",
+      "por_que_leerlo": "Muestra como cuestionar un supuesto aceptado durante anos puede abrir una categoria entera de materiales nuevos.",
+      "seccion": "ciencia",
+      "tags": [
+        "materiales",
+        "nanotecnologia",
+        "mit",
+        "ciencia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 422,
+      "titulo": "Una estrella oculta atravesaria la atmosfera de Betelgeuse y explicaria sus rarezas",
+      "resumen": "Nuevas observaciones de radio sugieren que Betelgeuse, la famosa supergigante roja, tendria una companera estelar oculta llamada Siwarha que atraviesa su enorme atmosfera y distorsiona su forma. El hallazgo ayudaria a explicar comportamientos anomalos de la estrella que intrigaban a los astronomos desde hace anos.",
+      "por_que_leerlo": "Es un ejemplo de como la evidencia observacional resuelve un misterio astronomico que llevaba anos sin explicacion clara.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "betelgeuse",
+        "estrellas",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 423,
+      "titulo": "La edicion genetica podria reemplazar medicamentos de por vida, pero tiene un riesgo",
+      "resumen": "Cientificos avanzan en tratamientos de edicion genetica de una sola aplicacion que podrian proteger contra enfermedades cardiacas, colesterol alto y otras condiciones cronicas durante decadas, evitando la necesidad de medicacion diaria. Sin embargo, advierten que alterar genes de forma permanente conlleva riesgos que podrian tardar anos en manifestarse.",
+      "por_que_leerlo": "Plantea un cambio radical en como se trataran enfermedades cronicas, con implicaciones directas para la industria farmaceutica y de seguros de salud.",
+      "seccion": "ciencia",
+      "tags": [
+        "edicion genetica",
+        "salud",
+        "biotecnologia",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-03",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 424,
+      "titulo": "AMD duplica su negocio de centros de datos mientras su división de videojuegos cae 40%",
+      "resumen": "AMD reportó un trimestre récord de 13.400 millones de dólares en ingresos, impulsado por la duplicación de su negocio de centros de datos para IA, mientras los ingresos de su división de videojuegos cayeron 40%. La cifra confirma el giro de toda la industria de semiconductores hacia la infraestructura de inteligencia artificial.",
+      "por_que_leerlo": "Muestra con cifras concretas hacia dónde se está moviendo el dinero real en la industria de chips.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "amd",
+        "centros de datos",
+        "semiconductores",
+        "resultados financieros"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-05 03:11",
+      "auto_generated": true
+    },
     {
       "id": 401,
       "titulo": "IA de Stanford descubre una molécula natural que imita al Ozempic sin sus efectos secundarios",

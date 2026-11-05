@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:29:46 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:11:55 -0000</lastBuildDate>
+    <item>
+      <title>Usar ChatGPT en el trabajo podria hacer que tu jefe confie menos en ti</title>
+      <link>https://phys.org/news/2026-11-chatgpt-boss.html</link>
+      <guid isPermaLink="false">lalupa-lectura-413</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un estudio liderado por investigadores de la Universidad Hebrea de Jerusalen y la escuela de negocios WHU en Alemania encontro que los empleados que usan ChatGPT y otras herramientas de IA en su trabajo diario son percibidos como menos competentes por sus superiores, pese a ser mas productivos. El efecto se mantiene incluso cuando la calidad del trabajo entregado es igual o mejor que la de quienes no usan IA. Por que leerlo: Revela un costo oculto de usar IA en el trabajo que todo emprendedor o empleado deberia conocer antes de anunciar que automatiza sus tareas. (Phys.org, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Investigadores prueban si los modelos de IA son conscientes de sus propios pensamientos</title>
+      <link>https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/</link>
+      <guid isPermaLink="false">lalupa-lectura-414</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Cientificos inyectaron pensamientos artificiales directamente dentro de grandes modelos de lenguaje para mapear su capacidad de introspeccion, es decir, si pueden reconocer y describir sus propios procesos internos. Los resultados preliminares sugieren que algunos modelos muestran senales limitadas de esta capacidad, aunque esta lejos de ser una conciencia real. Por que leerlo: Ayuda a entender que tan bien se puede confiar en que una IA explique honestamente como llego a una respuesta. (Quanta Magazine, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nuevos cálculos revelan por qué fracasó el programa nuclear alemán de Heisenberg</title>
+      <link>https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/</link>
+      <guid isPermaLink="false">lalupa-lectura-415</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores recrearon las condiciones del experimento alemán de fisión nuclear de la Segunda Guerra Mundial usando cubos de uranio y encontraron que Heisenberg subestimó drásticamente la cantidad de material necesaria para lograr una reacción en cadena. El hallazgo, basado en nuevas simulaciones, ayuda a explicar por qué el proyecto nazi nunca llegó a construir una bomba atómica pese a contar con recursos y tiempo. Por que leerlo: Entender un error de cálculo histórico que cambió el curso de la Segunda Guerra Mundial y la carrera nuclear. (Ars Technica, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Revolut dispara su valoración 53% hasta US$115.000 millones antes de lanzar su banco en EE.UU.</title>
+      <link>https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/</link>
+      <guid isPermaLink="false">lalupa-lectura-416</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La fintech británica Revolut elevó su valoración a 115.000 millones de dólares en una nueva venta de acciones liderada por Glade Brook, Coatue y T. Rowe Price, un salto del 53% frente a su valoración previa. La ronda llega justo cuando la empresa se prepara para lanzar un banco propio en Estados Unidos. Por que leerlo: Revela cuánto valen hoy las fintechs más agresivas y hacia dónde apunta su próxima gran expansión. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Detectan tráfico de proxies residenciales operando dentro de la red de la Casa Blanca</title>
+      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
+      <guid isPermaLink="false">lalupa-lectura-417</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad hallaron tráfico de proxies residenciales -direcciones IP de hogares comunes usadas para enmascarar el origen real- conectado a la red interna de la Casa Blanca, hallazgo que generó más de 700 votos y 220 comentarios en Hacker News. El uso de este tipo de proxies suele asociarse a evasión de controles o actividad maliciosa, lo que preocupa al tratarse de infraestructura gubernamental sensible. Por que leerlo: Expone cómo las redes de proxies residenciales, usadas también por criminales, pueden infiltrarse hasta en las redes más sensibles de un gobierno. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Anthropic avanza en 'inferencia demostrable' para verificar qué hizo realmente un modelo de IA</title>
+      <link>https://www.anthropic.com/research/provable-inference</link>
+      <guid isPermaLink="false">lalupa-lectura-418</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Anthropic publicó investigación sobre 'provable inference', un método para generar pruebas criptográficas de que un modelo de lenguaje grande produjo una salida específica sin alteraciones, permitiendo auditar resultados de IA de forma independiente. El avance busca resolver un problema central de confianza a medida que las empresas dependen más de sistemas de IA para decisiones críticas. Por que leerlo: Es un paso hacia poder auditar y confiar en lo que realmente hace una IA, clave si construyes productos sobre estos modelos. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>AMD venderá más procesadores que Intel en el cuarto trimestre por primera vez en su historia</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
+      <guid isPermaLink="false">lalupa-lectura-419</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>AMD proyecta ingresos de hasta 17.000 millones de dólares en el cuarto trimestre, una guía que superaría las propias proyecciones de Intel y marcaría la primera vez que AMD supera en ventas a su rival histórico. El dato refleja un giro de fondo en el mercado de procesadores tras años de dominio de Intel. Por que leerlo: Es un vuelco histórico en la industria de semiconductores respaldado por cifras concretas de ambas compañías. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Investigadores observan por primera vez el hidrogeno disuelto dentro de aleaciones metalicas</title>
+      <link>https://phys.org/news/2026-11-reveal-hydrogen-dissolved-tiny-gaps.html</link>
+      <guid isPermaLink="false">lalupa-lectura-420</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Cientificos de la Universidad de Sidney lograron observar directamente, por primera vez, como el hidrogeno se aloja en los espacios diminutos entre los atomos de las redes cristalinas de aleaciones metalicas. El hallazgo explica por que el hidrogeno puede debilitar ciertos metales y abre camino al diseno de materiales mas resistentes, algo clave para la economia del hidrogeno verde. Por que leerlo: Entender este mecanismo es clave para quienes trabajan en energia e infraestructura que dependen del hidrogeno como combustible limpio. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Cientificos del MIT rompen una regla de 20 anos y descubren nuevas estructuras cristalinas</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261104012248.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-421</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores del MIT demostraron que usar conexiones moleculares flexibles, en lugar de rigidas, permite ordenar nanoparticulas en arreglos nunca antes vistos, contradiciendo dos decadas de consenso cientifico. El hallazgo podria dar origen a una nueva generacion de materiales disenados a medida para electronica, medicina y energia. Por que leerlo: Muestra como cuestionar un supuesto aceptado durante anos puede abrir una categoria entera de materiales nuevos. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Una estrella oculta atravesaria la atmosfera de Betelgeuse y explicaria sus rarezas</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261103003149.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-422</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Nuevas observaciones de radio sugieren que Betelgeuse, la famosa supergigante roja, tendria una companera estelar oculta llamada Siwarha que atraviesa su enorme atmosfera y distorsiona su forma. El hallazgo ayudaria a explicar comportamientos anomalos de la estrella que intrigaban a los astronomos desde hace anos. Por que leerlo: Es un ejemplo de como la evidencia observacional resuelve un misterio astronomico que llevaba anos sin explicacion clara. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La edicion genetica podria reemplazar medicamentos de por vida, pero tiene un riesgo</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261102202829.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-423</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Cientificos avanzan en tratamientos de edicion genetica de una sola aplicacion que podrian proteger contra enfermedades cardiacas, colesterol alto y otras condiciones cronicas durante decadas, evitando la necesidad de medicacion diaria. Sin embargo, advierten que alterar genes de forma permanente conlleva riesgos que podrian tardar anos en manifestarse. Por que leerlo: Plantea un cambio radical en como se trataran enfermedades cronicas, con implicaciones directas para la industria farmaceutica y de seguros de salud. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>AMD duplica su negocio de centros de datos mientras su división de videojuegos cae 40%</title>
+      <link>https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/</link>
+      <guid isPermaLink="false">lalupa-lectura-424</guid>
+      <pubDate>Thu, 05 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>AMD reportó un trimestre récord de 13.400 millones de dólares en ingresos, impulsado por la duplicación de su negocio de centros de datos para IA, mientras los ingresos de su división de videojuegos cayeron 40%. La cifra confirma el giro de toda la industria de semiconductores hacia la infraestructura de inteligencia artificial. Por que leerlo: Muestra con cifras concretas hacia dónde se está moviendo el dinero real en la industria de chips. (Ars Technica, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>IA de Stanford descubre una molécula natural que imita al Ozempic sin sus efectos secundarios</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261104004909.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Tue, 03 Nov 2026 03:54:00 -0000</pubDate>
       <category>Tecnología</category>
       <description>Un robot de entrega autónomo se cruzó en el camino de un autobús urbano en Tallin, Estonia, obligando a un frenazo brusco que dejó nueve pasajeros heridos en el suelo; el robot siguió su camino sin que exista una figura legal para sancionarlo como se haría con un conductor que se da a la fuga. El caso expone un vacío regulatorio sobre la responsabilidad de los vehículos autónomos de reparto que ya circulan por ciudades europeas. Por que leerlo: Revela un vacío legal real que las ciudades todavía no resuelven frente a los robots autónomos que operan en sus calles. (Xataka, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Hallan sangre fósil de dinosaurio, la más antigua jamás descubierta</title>
-      <link>https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html</link>
-      <guid isPermaLink="false">lalupa-lectura-353</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo liderado por la Universidad Curtin encontró evidencia inequívoca de glóbulos rojos fosilizados y aminoácidos de colágeno en restos de dinosaurio, el hallazgo molecular más antiguo de este tipo. El descubrimiento obliga a repensar cuánto tiempo pueden sobrevivir moléculas biológicas dentro de un fósil. Por que leerlo: Porque cambia lo que se creía posible sobre la conservación de material biológico durante millones de años. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>ADN de 30.000 años muestra que los europeos de la Edad de Hielo estaban más conectados de lo pensado</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261031221153.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-354</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Análisis genéticos de restos humanos y sedimentos de cuevas revelan migraciones y comunidades conectadas a grandes distancias durante la última glaciación, desafiando la idea de poblaciones aisladas. La evidencia muestra cómo estos grupos sobrevivieron a las condiciones más extremas de la Edad de Hielo. Por que leerlo: Reescribe la historia de cómo sobrevivió y se movió la humanidad en uno de los periodos más duros del planeta. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Marvell compra Lumentum por 115.000 millones de dólares en una megafusión tecnológica</title>
-      <link>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</link>
-      <guid isPermaLink="false">lalupa-lectura-355</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Marvell anunció la compra de Lumentum, fabricante de componentes ópticos, por 115.000 millones de dólares, una de las adquisiciones más grandes en la historia de la tecnología. Nvidia es inversionista estratégico de ambas compañías, lo que refuerza su peso en la cadena de infraestructura de IA. Por que leerlo: Revela hacia dónde fluye el dinero en la infraestructura física que sostiene el boom de la inteligencia artificial. (TechCrunch, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Una nueva ola de ciberataques daña neveras de supermercados y arruina alimentos en Europa</title>
-      <link>https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/</link>
-      <guid isPermaLink="false">lalupa-lectura-356</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Por segunda vez en un mes, hackers atacaron los sistemas de refrigeración de supermercados en varios países europeos, dañando alimentos y afectando el suministro. El incidente evidencia la vulnerabilidad de la infraestructura crítica conectada a internet en el sector retail. Por que leerlo: Ejemplo concreto de cómo un ciberataque puede traducirse en pérdidas económicas reales y no solo en robo de datos. (TechCrunch, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un proyecto logra leer y escribir directamente los pesos de un modelo de IA para mejorarlo</title>
-      <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
-      <guid isPermaLink="false">lalupa-lectura-357</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El proyecto Astra demuestra una técnica para intervenir directamente en el espacio de pesos de un modelo de lenguaje, en este caso Qwen, permitiendo modificar su comportamiento sin reentrenarlo desde cero. La publicación generó más de 800 puntos y 268 comentarios en Hacker News por su enfoque técnico poco explorado. Por que leerlo: Ofrece una mirada técnica a una forma emergente de manipular modelos de IA que podría abrir nuevas formas de personalización y control. (Hacker News, 8 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El gasto interno de Anthropic en su propia IA ya supera lo que paga en salarios a sus empleados</title>
-      <link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
-      <guid isPermaLink="false">lalupa-lectura-358</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Según un reporte, el valor a precio de mercado del uso interno que Anthropic hace de su modelo Claude ya supera el monto que la empresa paga en sueldos a sus trabajadores. El dato ilustra cuán intensivo en cómputo se ha vuelto operar una empresa de IA de punta. Por que leerlo: Da una cifra concreta y sorprendente sobre los verdaderos costos operativos de las empresas de inteligencia artificial. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Los huesos podrían liberar proteínas que retrasan el envejecimiento y alargan la vida</title>
-      <link>https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span</link>
-      <guid isPermaLink="false">lalupa-lectura-359</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio publicado en Science encontró que ciertas proteínas liberadas por el tejido óseo podrían tener un efecto protector contra el envejecimiento y extender la esperanza de vida en modelos animales. El hallazgo abre una nueva vía de investigación sobre el papel del esqueleto como órgano regulador del envejecimiento. Por que leerlo: Aporta evidencia nueva sobre un mecanismo biológico inesperado que podría influir en futuras terapias contra el envejecimiento. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Datos de la sonda Viking 2 de 1975 podrían ser el primer terremoto marciano registrado</title>
-      <link>https://www.xataka.com/espacio/hace-50-anos-viking-2-grabo-dos-misteriosas-senales-hoy-unos-cientificos-apuntan-a-grabacion-antigua-terremoto-marciano</link>
-      <guid isPermaLink="false">lalupa-lectura-360</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Hace 50 años, el sismómetro de la sonda Viking 2 capturó dos señales inexplicadas en Marte que los científicos no lograron interpretar en su momento. Un nuevo análisis sugiere que podrían ser el registro más antiguo conocido de un sismo marciano, décadas antes de que la misión InSight confirmara la actividad sísmica del planeta. Por que leerlo: Revela cómo datos olvidados por décadas pueden reescribir lo que sabemos sobre la geología de Marte. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Alicorp compra la marca Rama y operará desde Cali para abastecer cuatro países de la región</title>
-      <link>https://www.larepublica.co/empresas/alicorp-adquirio-rama-y-operara-desde-cali-para-atender-cuatro-mercados-de-la-region-4516243</link>
-      <guid isPermaLink="false">lalupa-lectura-361</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La multilatina peruana Alicorp adquirió la marca Rama por más de US$150 millones, sumando 19 marcas a su portafolio. La planta de Cali será la base para abastecer a Colombia, Ecuador, Perú y Panamá. Por que leerlo: Un ejemplo concreto de cómo una multilatina usa una adquisición para consolidar manufactura y distribución regional desde Colombia. (La Republica, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Tripulación de misión simulada a Marte de la NASA completa 378 días de aislamiento</title>
-      <link>https://www.larepublica.co/globoeconomia/tripulacion-de-la-mision-simulada-a-marte-de-la-nasa-sale-del-aislamiento-tras-378-dias-4516053</link>
-      <guid isPermaLink="false">lalupa-lectura-362</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cuatro voluntarios salieron del hábitat CHAPEA de la NASA tras 378 días simulando una misión a Marte, como parte de los preparativos para una misión tripulada real prevista para la década de 2030. El experimento evalúa cómo el aislamiento prolongado afecta el desempeño físico y psicológico de los astronautas. Por que leerlo: Muestra cómo la NASA prueba en la Tierra los retos reales de una futura misión tripulada a Marte. (La Republica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Alemania confirma que el iPhone de varios legisladores fue hackeado con spyware</title>
-      <link>https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/</link>
-      <guid isPermaLink="false">lalupa-lectura-363</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Legisladores alemanes y un cineasta recibieron notificaciones de Apple advirtiendo que sus teléfonos pudieron ser comprometidos con software espía. El caso reabre el debate sobre el uso de spyware comercial contra figuras políticas en Europa. Por que leerlo: Alerta sobre el riesgo real de vigilancia con spyware incluso en gobiernos democráticos. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Brasil construye un túnel submarino para unir el mayor puerto de Latinoamérica en 5 minutos</title>
-      <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/brasil-hundira-tunel-canal-mayor-puerto-latinoamerica-hora-coche-a-unos-5-minutos</link>
-      <guid isPermaLink="false">lalupa-lectura-364</guid>
-      <pubDate>Mon, 02 Nov 2026 20:42:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El túnel conectará las ciudades de Santos y Guarujá, reduciendo un trayecto que hoy toma una hora en coche a apenas cinco minutos. El cruce da acceso al puerto de Santos, que en 2024 movió 5,48 millones de contenedores, 1,56 millones más que el segundo puerto de la región, Manzanillo en México. Por que leerlo: Muestra cómo una obra de ingeniería puede resolver un cuello de botella logístico clave para el comercio de América Latina. (Xataka, 5 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
