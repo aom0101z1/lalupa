@@ -221,6 +221,523 @@
   ],
   "casos": [
     {
+      "id": 2693,
+      "titulo": "Disputa legal por contrato de pasaportes con Casa da Moeda de Portugal sigue sin resolverse",
+      "categoria": "contratos",
+      "fecha": "2026-11-05",
+      "descripcion": "El recurso de reposición presentado por la Imprenta Nacional mantiene en espera las apelaciones de Casa da Moeda de Portugal en el proceso contractual de pasaportes. La Cancillería ya cuenta con aval para presentar observaciones al informe de Portugal, mientras persiste la controversia por irregularidades en la adjudicación y ejecución del contrato para la producción de pasaportes colombianos, heredado del gobierno anterior.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/pasaportes-piden-al-tribunal-resolver-recurso-de-reposicion-pendiente-y-cancilleria-ya-tiene-aval-para-hacer-observaciones-a-informe-de-portugal-3598762",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Imprenta Nacional / Cancillería / Casa da Moeda de Portugal",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2692,
+      "titulo": "Banco de la República advierte incertidumbre fiscal y riesgo país creciente",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "El Banco de la República advirtió sobre la incertidumbre fiscal que enfrenta Colombia y proyectó un aumento gradual en la prima de riesgo país, en un contexto de ajustes fiscales impulsados por el nuevo gobierno, incluyendo la Ley de Rescate Económico y sus efectos sobre la confianza de los mercados.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/banco-de-la-republica-advierte-incertidumbre-fiscal-y-posible-aumento-del-riesgo-pais-en-colombia-505797",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Banco de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2691,
+      "titulo": "Gobierno busca crédito de US$300 millones para modernizar radares aeronáuticos tras falla en El Dorado",
+      "categoria": "obras",
+      "fecha": "2026-11-05",
+      "descripcion": "Tras la falla en los sistemas de radar del aeropuerto El Dorado que generó demoras y cancelación de 79 vuelos, el Gobierno Nacional anunció que buscará un crédito de US$300 millones para intervenir 12 sistemas de radar y centros de control aéreo en seis ciudades del país, como parte de un plan de modernización tecnológica 2026-2030 de la Aeronáutica Civil.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/tras-la-falla-en-bogota-el-gobierno-busca-credito-de-300-millones-de-dolares-para-actualizar-el-control-aereo-505800",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Aeronáutica Civil",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2690,
+      "titulo": "Cambio de dirección en la Adres: Iván Sánchez sale, Marcela Brun asume encargo",
+      "categoria": "gabinete",
+      "fecha": "2026-11-05",
+      "descripcion": "El Ministerio de Salud confirmó la salida de Iván Sánchez Arango como director de la Adres, cargo que asumió el 31 de agosto de 2026. Marcela Brun fue designada como nueva directora encargada de la entidad, en medio de la reorganización del sector salud bajo el nuevo gobierno.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ivan-sanchez-sale-de-la-adres-y-marcela-brun-entra-como-nueva-directora-encargada-4518636",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Iván Sánchez Arango",
+        "Marcela Brun"
+      ],
+      "entidad": "Ministerio de Salud / Adres",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2689,
+      "titulo": "De la Espriella anuncia régimen especial y bioeconomía para Leticia",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "Desde Leticia, el presidente Abelardo De la Espriella anunció un régimen especial económico y un plan de impulso a la bioeconomía para la región amazónica, como parte de su agenda territorial. La medida busca dinamizar la economía local mediante incentivos y aprovechamiento sostenible de recursos naturales.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-anuncio-regimen-especial-e-impulso-para-la-bioeconomia-desde-leticia/202605/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2688,
+      "titulo": "Operación militar deja dos muertos en alianza entre disidencias de 'Calarcá' y Clan del Golfo en Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "Una operación militar en Antioquia dejó dos muertos en el marco de acciones contra una alianza criminal entre disidencias de 'Calarcá' y el Clan del Golfo. Entre los abatidos estaría alias 'el Flaco', señalado de liderar un plan de expansión criminal desde Briceño hacia Yarumal para controlar la minería ilegal en la región, como parte de la estrategia de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-muertos-en-operacion-militar-contra-alianza-entre-disidencias-de-calarca-y-clan-del-golfo-en-antioquia-3598839",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'el Flaco'"
+      ],
+      "entidad": "Fuerzas Militares / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2687,
+      "titulo": "Vanessa de la Torre revela nuevo testimonio sobre encuentro con Petro en caso 'sexocontratos'",
+      "categoria": "mentiras",
+      "fecha": "2026-11-05",
+      "descripcion": "La periodista Vanessa de la Torre relató públicamente un encuentro con el expresidente Gustavo Petro, en medio de la controversia por el caso de presuntos 'sexocontratos'. Su testimonio coincide con la publicación de un video de la denunciante Deicy Jiménez junto al exmandatario. Petro ha rechazado que haya utilizado recursos estatales para obtener favores sexuales, mientras la Fiscalía General de la Nación continúa recabando pruebas en la investigación en curso.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/05/vanessa-de-la-torre-recordo-encuentro-con-petro-y-reavivo-controversia-por-los-sexocontratos-olia-putrefacto-acompanado-de-un-monton-de-viejas/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Vanessa de la Torre",
+        "Gustavo Petro",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2686,
+      "titulo": "Hospital San Juan de Dios niega nombramiento irregular de Deicy Jiménez",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-05",
+      "descripcion": "El Hospital San Juan de Dios emitió un comunicado señalando que el 27 de julio de 2026 recibió la hoja de vida de Deicy Alejandra Jiménez Ramírez para una vacante de auxiliar administrativo, pero aclaró que no se avanzó en las etapas posteriores del proceso de selección provisional, por lo que no hubo nombramiento ni posesión en el cargo. El comunicado, firmado por la subdirectora de Talento Humano Camila Andrea Jaime de la Rosa, busca desmentir versiones sobre un presunto favorecimiento a Jiménez, denunciante clave en el caso de 'sexocontratos' contra el expresidente Gustavo Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/hoja-vida-deicy-jimenez-hospital-san-juan-de-dios-KE43210974",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Camila Andrea Jaime de la Rosa"
+      ],
+      "entidad": "Hospital San Juan de Dios",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2685,
+      "titulo": "Colombia Mayor y Fondo Milagro recibirían $3,8 billones pendientes por desembolsar",
+      "categoria": "dineros",
+      "fecha": "2026-11-05",
+      "descripcion": "Según reportes, los programas Colombia Mayor y el Fondo Patria Milagro recibirían $3,8 billones en recursos, pero persisten trámites pendientes para que dichos dineros efectivamente lleguen a su destino, en medio del seguimiento a la ejecución presupuestal para la reconstrucción tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por El Diario - Noticias Pereira, Colombia y el Mundo",
+      "fuentes": [
+        {
+          "nombre": "El Diario - Noticias Pereira, Colombia y el Mundo",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUxRZTBLb2V3YlpjWXlXTDJ1Q3pNQUo5NWRNUlA2N3Zhd1FaZnJvT1YxUFdjS0RVOE1CR2FfcVp6Mlk3dDdFc1UwUzVUMW1paUljSVh3VTJZN1ZUcmJ2SkxaejlhWmdMOWRveXRUX0dmRTVTWkpJZ1h2ZW9CWkJvZDU4Nl9Db3c5SnJlcFQ5R2FwNC1uaWd3U2xIUDlnQ2wwd3pUMWFWWWNIdlZ6Q210cjB2SWNjQmJjaHhNTkI0QUlZT3dLWWxtaGItQQ?oc=5",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Patria Milagro / Colombia Mayor",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2684,
+      "titulo": "Gobierno proyecta inversión de $1 billón en infraestructura aeronáutica",
+      "categoria": "obras",
+      "fecha": "2026-11-05",
+      "descripcion": "El Gobierno De la Espriella anunció un proyecto de inversión de $1 billón para modernizar la infraestructura aeronáutica del país, en un contexto marcado por fallas recientes en los radares del aeropuerto El Dorado que generaron demoras y cancelaciones de vuelos.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3dCOXA1blZGU1Nka2pyY0g3dGEwcXVmZEZVSU9HbTlsYlZOWkhzUVBSRWdwMGxwUmdNdlJNODdHeVJ0UF96aGxkMW1BTUVHeVdtOFc3WWQyRC02eDRfVmYwSy0yemRISElZTGN6dlFVQ0lUYWJaSXU3VzUydGdQSVktTno3UENoSnI0RXZDUVF0M2Z5bWFvaFpHeWhZQmRJTHpmNmswd0hqQUNzLWQzSjVtR1UyZjZ2MGZ2RThPV3ZoYV9leVJxVWRjUdIB0AFBVV95cUxPVndfOEZWNmdSY0VQQUVwMHpORFJwcVA0ZTFyVm1TQnVMUmtjRXhVWVZLT2FOTFdXb3JIWFVrUFppZDd3QU9qdHdvdzFKNEs1TWY5dWRDcld6NHBZZ1BJdWdwcnBsWkJhaHloa29ZX1Nfc2RSazlYLXlsRlNfVjBnVzBfRkowWUFnVHBNZlZITV9OSV9LYmhxbHoxeTZOaU5KekQ2LTloTGtCaTM0OVJzQkRoc0VQWV9uX1dEREx0TWpjd1ZpTnBDQ1NlRUVJbEFZ?oc=5",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Aeronáutica Civil",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2683,
+      "titulo": "Deicy Jiménez entrega celular a la Fiscalía en investigación por 'sexocontratos' de Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-05",
+      "descripcion": "Deicy Jiménez entregará su celular a la Fiscalía General de la Nación como parte de la investigación por el presunto caso de 'sexo por contratos' que involucra al expresidente Gustavo Petro, luego de haber publicado un video como prueba de su denuncia.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2ROUlljandKblotLVVKNWwtd2dRN3dmT3NiYzRKVTlvb1JkcXRMOGJOcXlwcVg5TndMdlJpNTFZSWJPUGF0S0dYRlpBdGJQU3RvTDNuSnExbllCRi1xV1A2TkNORkZ3ZWZGNWZCM2RHbnptTlU0cWFNY2ZDWk1FcUhtd0ZNNTBjZFdkd29HMmh4WGM2TDUtbkZjQ1RvVDRqVS1vWS16VdIBrAFBVV95cUxPNmcyMUQ1cmlHYUpZTHFJcVM4b24yQ3RpOW5GLUVndDFtem9uUFpBcjRZV1lQV2Via2JpYkdVTlJEeHBMa25HMy1QZ05ONDg4dnFUUlBubERhUDVwTlJxeER4elVuckFEWnNRZEx5cUV1LUphRTZVcGp5RUdld0Q4bExDeXRnRmRRUXRoWjlDWEtyQlByS0EwTlNzOFVwRDY2ekxya0Y2WldieEQ0?oc=5",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2682,
+      "titulo": "JEP anuncia drástico plan de austeridad tras cuestionamientos por manejo de recursos",
+      "categoria": "contratos",
+      "fecha": "2026-11-05",
+      "descripcion": "El nuevo presidente de la JEP, Danilo Rojas, anunció en su posesión que la jurisdicción trabajará virtualmente, entregará su sede, eliminará esquemas de protección de magistrados y recortará el 85% de los contratos de prestación de servicios, en medio de cuestionamientos previos por el manejo de sus recursos, incluida la tercerización de contratación de inmuebles por $21.000 millones en convenios internacionales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/jep-anuncia-trabajo-virtual-entrega-su-sede-y-elimina-esquemas-de-proteccion-por-recortes-presupuestales-NE43215594",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Danilo Rojas"
+      ],
+      "entidad": "Jurisdicción Especial para la Paz (JEP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2681,
+      "titulo": "Corte Suprema ordena inspección a Secretaría del Senado por contratos de Deicy Jiménez",
+      "categoria": "contratos",
+      "fecha": "2026-11-05",
+      "descripcion": "La Corte Suprema de Justicia ordenó una inspección judicial a la Secretaría General del Senado para recopilar información sobre los contratos de Deicy Jiménez, quien denunció haber tenido encuentros sexuales con Gustavo Petro a cambio de contratos estatales. Jiménez tuvo contratos con la congresista María José Pizarro cuando esta fue primera vicepresidenta del Senado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ordenan-inspeccion-secretaria-senado-reunir-informacion-contratos-deicy-jimenez-DE43214171",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "María José Pizarro",
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Suprema de Justicia / Senado de la República",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2680,
+      "titulo": "Tribunal ordena libertad del exministro Luis Fernando Velasco en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-05",
+      "descripcion": "El Tribunal Superior de Bogotá ordenó la libertad inmediata e incondicional del exministro del Interior Luis Fernando Velasco, procesado por corrupción en la UNGRD, al resolver la apelación contra su prisión preventiva, concluyendo que no representa peligro para la comunidad ni riesgo de reincidencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/exministro-luis-fernando-velasco-en-libertad-tribunal-lo-ordeno-AG43230563",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Fernando Velasco"
+      ],
+      "entidad": "Tribunal Superior de Bogotá",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2679,
+      "titulo": "Nueva revelación sobre cancelación de evento de $3.700 millones en gobierno Petro",
+      "categoria": "mentiras",
+      "fecha": "2026-11-05",
+      "descripcion": "La periodista Vanessa de la Torre aseguró que un evento presidencial de $3.700 millones programado para el 11 de octubre de 2024 no fue cancelado por gripa de Gustavo Petro como se dijo oficialmente, sino por otras razones, sumándose a los escándalos sobre la mezcla de vida personal y oficial del expresidente.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gripa-gustavo-petro-cancelacion-evento-3-700-millones-polemica-JG43233318",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Vanessa de la Torre"
+      ],
+      "entidad": "Presidencia de la República (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2678,
+      "titulo": "Juez ordena a fundación de la primera dama rendir cuentas sobre donaciones para reconstrucción",
+      "categoria": "control",
+      "fecha": "2026-11-05",
+      "descripcion": "El Juzgado 126 Penal Municipal de Bogotá ordenó a la fundación de la primera dama entregar información detallada sobre las donaciones recibidas para atender el terremoto, tras un derecho de petición del senador Alejandro Ocampo. El fallo cita una declaración previa del presidente De la Espriella pidiendo transparencia a su esposa.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fundacion-de-la-primera-dama-debe-entregar-detalles-sobre-donaciones-para-atender-el-terremoto-PH43229413",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ocampo",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Juzgado 126 Penal Municipal de Bogotá",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2677,
+      "titulo": "Damnificados en Cali reciben nuevos desembolsos de ayudas económicas pendientes",
+      "categoria": "damnificados",
+      "fecha": "2026-11-04",
+      "descripcion": "Personas damnificadas por el terremoto en Cali comenzaron a recibir desembolsos de ayudas económicas correspondientes a pagos pendientes del primer corte, mientras avanzan los trámites para un segundo corte de entregas.",
+      "evidencia": "Reportado por Facebook",
+      "fuentes": [
+        {
+          "nombre": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa1dLRXcxVV91SW5sdUZWQnRtcFNGQjJXcmFDck8tb3haUUJ2LUlCMWhrSWlqWUpYSWpFSzNoZWQ0T0d6NURhVUFBUjJEU2Jtd1pYSGJVcjBGcWdWSUV3YWNya1RRaUNkU0piLVduVk03WUI3RnpmMnc2b3oyRmdhT0FaOWN1NURIcnJJVU9DQ1hMb3Bwajg1YnhHeGhCeU5JNEtmZXBmS2ZVMjUzMWgxUjFsMTR5Nmp2cXRxcGZodHN1WjNUQTlPZUNvZlgwVDZuTUFEcUpSaGs2c3ZHSElYUDItcHA?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali / Fondo Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 2676,
+      "titulo": "Abatido alias Pincher, cabecilla de disidencias de Iván Mordisco señalado de atentados en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "El presidente Abelardo de la Espriella confirmó la muerte de alias Pincher, cabecilla de la estructura 'Jaime Martínez' de las disidencias de Iván Mordisco, señalado de ordenar atentados en Cali, en una operación militar realizada en Timba, Valle del Cauca.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/alias-pincher-cabecilla-de-confianza-de-ivan-mordisco-fue-abatido-abelardo-de-la-espriella-revelo-detalles/202620/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Pincher"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2675,
+      "titulo": "Cancillería denuncia despilfarro en consulado de Tijuana creado por gobierno Petro",
+      "categoria": "diplomaticos",
+      "fecha": "2026-11-05",
+      "descripcion": "La Cancillería denunció mediante video que el gobierno Petro gastó cerca de $500 millones en salarios para una sede consular en Tijuana, México, que nunca llegó a operar, calificando la situación como despilfarro sin cuenta pagada.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cancilleria-queja-por-despilfarro-consulado-tijuana-mexico-gobierno-gustavo-petro-GF43209971",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2674,
+      "titulo": "Operación Iron 2.0 deja más de 100 capturados y 11 bandas desarticuladas en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "Un megaoperativo denominado Iron 2.0, con 2.000 integrantes de Policía, Fiscalía y Ejército, capturó a más de 100 personas y desarticuló 11 estructuras criminales en ocho comunas de Cali y municipios aledaños, tras dos años de preparación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/operacion-iron-cali-capturas-bandas-desarticuladas-seguridad-DH43223990",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Fiscalía General de la Nación / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2673,
+      "titulo": "Director del Dapre aplaza declaración ante Fiscalía sobre red de 48 mujeres en contratos del gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-05",
+      "descripcion": "El director del Dapre, Carlos Andrés Ríos, solicitó aplazar hasta el 18 y 19 de noviembre su declaración ante la Fiscalía sobre contratos irregulares vinculados a 48 mujeres presuntamente instrumentalizadas durante el gobierno Petro, denuncia que él mismo presentó ante el Senado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fiscalia-cita-director-dapre-denuncia-mujeres-gobierno-petro-GE43213027",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Ríos"
+      ],
+      "entidad": "Dapre / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19"
+    },
+    {
+      "id": 2672,
+      "titulo": "Vicepresidente presenta balance de seguridad en primeros 90 días de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "En la Cumbre Iberoamericana en Madrid, el vicepresidente José Manuel Restrepo reportó que en los primeros 90 días del gobierno De la Espriella se registran más de 32.000 capturas, 35 cabecillas capturados o dados de baja y más de 150 extradiciones, además de mejoras en confianza económica.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/vicepresidente-jose-restrepo-discurso-contra-gobierno-petro-cumbre-iberoamericana-jefes-de-estado-HE43214704",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-05 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2671,
       "titulo": "Contraloría advierte riesgos en ejecución de recursos para infraestructura hospitalaria",
       "categoria": "recursos-publicos",
@@ -62286,7 +62803,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-05",
-    "total_casos": 2582,
+    "total_casos": 2604,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
