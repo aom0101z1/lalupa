@@ -726,6 +726,15 @@ function seccionLecturaInfo(id) {
     return (lecturasData.secciones || []).find(s => s.id === id) || { id, nombre: id, color: 'var(--lp-ink)', icono: 'fa-book-open' };
 }
 
+// Página estática de cada lectura (generada por scripts/build_pages.py). El slug replica slugify() de Python.
+function lecturaSlug(text, maxlen = 70) {
+    let t = String(text || '').normalize('NFKD').replace(/[̀-ͯ]/g, '');
+    t = t.replace(/[^a-zA-Z0-9]+/g, '-').replace(/^-+|-+$/g, '').toLowerCase();
+    if (t.length > maxlen) { t = t.slice(0, maxlen); const i = t.lastIndexOf('-'); if (i > 0) t = t.slice(0, i); }
+    return t || 'pagina';
+}
+function lecturaPath(l) { return `lectura/${l.id}-${lecturaSlug(l.titulo)}.html`; }
+
 function lecturaCardHTML(l, destacada = false) {
     const sec = seccionLecturaInfo(l.seccion);
     const esAdmin = typeof isAdmin !== 'undefined' && isAdmin;
@@ -735,7 +744,7 @@ function lecturaCardHTML(l, destacada = false) {
     return `
         <article class="lp-lectura${destacada ? ' lp-lectura-destacada' : ''}${oculta ? ' lp-lectura-oculta' : ''}${leida ? ' is-leida' : ''}" data-id="${l.id}" style="--c: ${sec.color}">
             <span class="lp-kicker" style="--c: ${sec.color}">${escapeHtml(sec.nombre)}${l.idioma_original === 'en' ? ' · <span class="lp-lang">EN → ES</span>' : ''}</span>
-            <h3><a href="${escapeHtml(l.fuente.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.titulo)}</a></h3>
+            <h3><a href="${lecturaPath(l)}" class="lp-lectura-link">${escapeHtml(l.titulo)}</a></h3>
             <p class="lp-lectura-resumen">${escapeHtml(l.resumen)}</p>
             ${l.por_que_leerlo ? `<p class="lp-lectura-why"><b>Por qué leerlo</b> ${escapeHtml(l.por_que_leerlo)}</p>` : ''}
             <div class="lp-meta">
@@ -824,7 +833,7 @@ function bindLecturaLeidas(root) {
         const id = parseInt(card.dataset.id, 10);
         const btn = e.target.closest('.lp-leida-btn');
         if (btn) { e.preventDefault(); marcarLeida(id, btn.dataset.leida === '1'); return; }
-        const link = e.target.closest('a[target="_blank"]');
+        const link = e.target.closest('a');
         if (link && !leidas.has(id)) { leidas.add(id); guardarLeidas(); card.classList.add('is-leida'); const b = card.querySelector('.lp-leida-btn'); if (b) { b.dataset.leida = '0'; b.innerHTML = '<i class="fas fa-check-circle"></i> Leída'; } }
     });
 }
