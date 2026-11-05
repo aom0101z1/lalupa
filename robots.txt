@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /durguez/
+Disallow: /actualizador.html
 
 Sitemap: https://lalupa.com.co/sitemap.xml

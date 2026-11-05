@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: lalupa-commits
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
@@ -41,10 +45,15 @@ jobs:
         run: |
           python scripts/validate_data.py --data-only
 
+      - name: Build static pages and sitemap
+        run: |
+          python scripts/build_pages.py
+
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet data.json; then
+          git add data.json sitemap.xml caso casos lectura lecturas opinion
+          if git diff --cached --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
@@ -55,6 +64,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "La Lupa Bot"
-          git add data.json
           git commit -m "🔄 Auto-update: Nuevos casos agregados $(date +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
           git push

@@ -1,0 +1,130 @@
+/* pages.css — estilos de las páginas estáticas generadas (caso/, casos/, lectura/, lecturas/, opinion/)
+   y de acerca.html, contacto.html y privacidad.html. Independiente de styles.css salvo en opinión,
+   donde se carga después para corregir el layout. */
+:root {
+  --lp-ink: #131A26;
+  --lp-paper: #F6F7F9;
+  --lp-mark: #FFD84D;
+  --lp-muted: #5B6472;
+  --lp-line: #D9DEE6;
+  --lp-serif: "Newsreader", Georgia, serif;
+  --lp-sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --lp-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --c: #1F3A5F;
+}
+body.lp-static {
+  margin: 0;
+  background: var(--lp-paper);
+  color: var(--lp-ink);
+  font-family: var(--lp-sans);
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+body.lp-static a { color: inherit; }
+body.lp-static img { max-width: 100%; height: auto; }
+
+/* cabecera */
+.lp-sh { background: #fff; border-bottom: 3px solid var(--lp-ink); }
+.lp-sh-inner { max-width: 1080px; margin: 0 auto; padding: 12px 16px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+.lp-sh-logo { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; font-family: var(--lp-serif); font-weight: 800; font-size: 1.6rem; letter-spacing: -0.01em; }
+.lp-sh-logo svg { width: 32px; height: 32px; }
+.lp-sh-nav { display: flex; gap: 4px 14px; flex-wrap: wrap; font-size: 0.92rem; font-weight: 600; }
+.lp-sh-nav a { text-decoration: none; padding: 4px 2px; border-bottom: 2px solid transparent; }
+.lp-sh-nav a:hover { border-bottom-color: var(--lp-mark); }
+
+/* contenedor */
+.lp-page { max-width: 820px; margin: 0 auto; padding: 24px 16px 56px; }
+.lp-crumbs { font-family: var(--lp-mono); font-size: 0.78rem; color: var(--lp-muted); margin-bottom: 18px; overflow-wrap: anywhere; }
+.lp-crumbs a { text-decoration: none; }
+.lp-crumbs a:hover { text-decoration: underline; }
+.lp-crumbs i { font-style: normal; margin: 0 4px; }
+
+/* artículo (caso / lectura) */
+.lp-art { background: #fff; border: 1px solid var(--lp-line); border-top: 5px solid var(--c); padding: 28px 28px 24px; }
+.lp-kicker { font-family: var(--lp-mono); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--c); margin: 0 0 10px; }
+.lp-art h1, .lp-lhead h1 { font-family: var(--lp-serif); font-weight: 700; font-size: clamp(1.7rem, 4.5vw, 2.4rem); line-height: 1.15; margin: 0 0 12px; letter-spacing: -0.01em; }
+.lp-meta { font-family: var(--lp-mono); font-size: 0.8rem; color: var(--lp-muted); margin: 0 0 20px; padding-bottom: 14px; border-bottom: 1px solid var(--lp-line); }
+.lp-body p { font-family: var(--lp-serif); font-size: 1.22rem; line-height: 1.6; margin: 0 0 16px; }
+.lp-ficha { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 20px 0; padding: 16px 18px; background: var(--lp-paper); border-left: 3px solid var(--lp-mark); font-size: 0.95rem; }
+.lp-ficha dt { font-family: var(--lp-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--lp-muted); padding-top: 3px; }
+.lp-ficha dd { margin: 0; }
+.lp-art h2, .lp-related h2, .lp-secblock h2, .lp-page section > h2 { font-family: var(--lp-serif); font-size: 1.35rem; margin: 26px 0 10px; }
+.lp-fuentes ul { padding-left: 20px; margin: 0; }
+.lp-fuentes li { margin: 4px 0; }
+.lp-cta { margin: 24px 0 8px; }
+.lp-btn { display: inline-block; background: var(--lp-ink); color: #fff !important; text-decoration: none; font-weight: 700; font-size: 0.95rem; padding: 10px 16px; border-radius: 4px; }
+.lp-btn:hover { background: #000; }
+.lp-note { font-size: 0.88rem; color: var(--lp-muted); margin: 16px 0 0; }
+.lp-tags { font-family: var(--lp-mono); font-size: 0.8rem; color: var(--lp-muted); }
+.lp-tags span { margin-right: 10px; }
+.lp-porque { margin-top: 10px; padding: 14px 18px; background: #FFF8D6; border-left: 3px solid var(--lp-mark); }
+.lp-porque h2 { margin-top: 0; font-size: 1.1rem; }
+.lp-porque p { margin: 0; }
+
+/* listados y tarjetas */
+.lp-lhead { padding: 10px 0 18px; border-bottom: 3px solid var(--c, var(--lp-ink)); margin-bottom: 18px; }
+.lp-lhead .lp-sub, .lp-sub { font-size: 1.05rem; color: var(--lp-muted); margin: 0; }
+.lp-cards { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+.lp-cards-list { grid-template-columns: 1fr; }
+.lp-card { background: #fff; border: 1px solid var(--lp-line); padding: 14px 16px; }
+.lp-card-t { display: block; font-family: var(--lp-serif); font-weight: 700; font-size: 1.12rem; line-height: 1.25; text-decoration: none; }
+.lp-card-t:hover { text-decoration: underline; }
+.lp-card-m { font-family: var(--lp-mono); font-size: 0.74rem; color: var(--lp-muted); margin: 6px 0; }
+.lp-card-d { font-size: 0.95rem; margin: 0; color: #2A3240; }
+.lp-related { margin-top: 28px; }
+.lp-more { margin: 12px 0 0; font-weight: 600; }
+.lp-more a { text-decoration: none; }
+.lp-more a:hover { text-decoration: underline; }
+.lp-secblock { margin: 22px 0; padding: 16px 18px; background: #fff; border: 1px solid var(--lp-line); border-left: 5px solid var(--c); }
+.lp-secblock h2 { margin-top: 0; }
+.lp-secblock h2 a { text-decoration: none; }
+.lp-secblock h2 span, .lp-catlist span { font-family: var(--lp-mono); font-size: 0.8rem; color: var(--lp-muted); font-weight: 400; }
+.lp-secblock > p { margin: 0 0 12px; color: var(--lp-muted); }
+.lp-catlist { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 6px 16px; }
+.lp-catlist a { font-weight: 600; text-decoration: none; }
+.lp-catlist a:hover { text-decoration: underline; }
+.lp-pager { margin: 22px 0 0; font-family: var(--lp-mono); font-size: 0.9rem; display: flex; gap: 8px; flex-wrap: wrap; }
+.lp-pager a, .lp-pager strong { padding: 4px 10px; border: 1px solid var(--lp-line); background: #fff; text-decoration: none; }
+.lp-pager strong { background: var(--lp-ink); color: #fff; border-color: var(--lp-ink); }
+
+/* páginas de texto (acerca, contacto, privacidad) */
+.lp-prose { background: #fff; border: 1px solid var(--lp-line); padding: 28px; }
+.lp-prose h1 { font-family: var(--lp-serif); font-size: clamp(1.7rem, 4.5vw, 2.3rem); line-height: 1.15; margin: 0 0 14px; }
+.lp-prose h2 { font-family: var(--lp-serif); font-size: 1.35rem; margin: 26px 0 8px; }
+.lp-prose h3 { font-size: 1.05rem; margin: 18px 0 6px; }
+.lp-prose p, .lp-prose li { font-size: 1.02rem; }
+.lp-prose ul, .lp-prose ol { padding-left: 22px; }
+.lp-prose .lp-updated { font-family: var(--lp-mono); font-size: 0.8rem; color: var(--lp-muted); }
+.lp-form { display: grid; gap: 12px; margin-top: 16px; }
+.lp-form label { font-weight: 600; font-size: 0.95rem; display: grid; gap: 4px; }
+.lp-form input, .lp-form textarea, .lp-form select { font: inherit; padding: 10px 12px; border: 1px solid var(--lp-line); border-radius: 4px; background: #fff; }
+.lp-form textarea { min-height: 140px; }
+.lp-form button { justify-self: start; }
+
+/* opinión: corrige el layout de styles.css cuando se reutiliza su marcado */
+.lp-page-opinion { max-width: 900px; }
+.lp-page-opinion .temas-section { padding: 0; background: transparent; }
+.lp-page-opinion .temas-grid { display: block; }
+.lp-page-opinion .tema-card.lp-op { max-width: none; width: auto; margin: 0; }
+.lp-page-opinion .tema-header h1 { font-family: var(--lp-serif); font-size: clamp(1.5rem, 4vw, 2.1rem); line-height: 1.2; margin: 0; flex: 1; font-weight: 700; }
+.lp-page-opinion .lang-content { display: block; }
+.lp-page-opinion .tema-content-collapsed { max-height: none; overflow: visible; }
+.lp-lang-sep { margin: 36px 0 10px; border: 0; border-top: 2px dashed var(--lp-line); }
+.lp-lang-label { font-family: var(--lp-mono); font-size: 0.8rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--lp-muted); margin: 0 0 14px; }
+
+/* pie */
+.lp-sf { background: var(--lp-ink); color: #D8DEE8; margin-top: 24px; }
+.lp-sf-inner { max-width: 1080px; margin: 0 auto; padding: 28px 16px; font-size: 0.92rem; }
+.lp-sf-inner p { margin: 0 0 8px; }
+.lp-sf-links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 12px 0; }
+.lp-sf-links a { color: #fff; text-decoration: none; font-weight: 600; }
+.lp-sf-links a:hover { text-decoration: underline; }
+.lp-sf-copy { font-family: var(--lp-mono); font-size: 0.78rem; color: #9AA5B5; }
+
+@media (max-width: 600px) {
+  .lp-art, .lp-prose { padding: 20px 16px; }
+  .lp-ficha { grid-template-columns: 1fr; }
+  .lp-body p { font-size: 1.12rem; }
+  .lp-sh-nav { font-size: 0.85rem; }
+}
