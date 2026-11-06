@@ -221,6 +221,574 @@
   ],
   "casos": [
     {
+      "id": 2752,
+      "titulo": "Avanza en el Senado acuerdo comercial con Emiratos Árabes Unidos",
+      "categoria": "internacional",
+      "fecha": "2026-11-06",
+      "descripcion": "El Senado de la República avanza en el trámite de un acuerdo comercial con Emiratos Árabes Unidos que permitiría que el 85% de los productos colombianos ingresen a ese mercado sin arancel, como parte de la agenda de política comercial exterior del gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/avanza-en-el-senado-acuerdo-comercial-con-emiratos-arabes-unidos-el-85-de-los-productos-colombianos-entrarian-sin-arancel/202642/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Senado de la República / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2751,
+      "titulo": "Hospital Regional de Risaralda avanza a fase de cimentación",
+      "categoria": "avances",
+      "fecha": "2026-11-06",
+      "descripcion": "La construcción del Hospital Regional de Alta Complejidad de Risaralda avanzó a la fase de cimentación tras concluir las excavaciones, una de las etapas más exigentes del proyecto de infraestructura hospitalaria en la región afectada por el terremoto de agosto de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/hospital-regional-de-risaralda-entra-en-fase-de-cimentacion-tras-concluir-excavaciones/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernación de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2750,
+      "titulo": "Ministerio de Agricultura prepara alivios de deuda y seguros climáticos para cafeteros",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El Ministerio de Agricultura alista medidas de alivio de deuda y seguros climáticos para caficultores, incluyendo una línea de crédito ágil para pequeños y medianos productores a través de compradores de café.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ministerio-de-agricultura-prepara-alivios-de-deuda-y-seguros-climaticos-para-cafeteros-4519260",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2749,
+      "titulo": "Bancóldex autorizado a emitir bonos por $5 billones",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "La Superintendencia Financiera autorizó a Bancóldex un programa de bonos verdes y sociales por $5 billones, con un periodo de colocación de cinco años, para financiar proyectos empresariales. Desde 2017 el banco ha emitido $2,1 billones en títulos similares.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/bancoldex-podra-emitir-bonos-por-5-billones-para-financiar-proyectos-empresariales-4519053",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Bancóldex / Superintendencia Financiera",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2748,
+      "titulo": "Real Madrid anuncia ayuda para Colombia tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-06",
+      "descripcion": "El ministro Mauricio Gómez se reunió con Florentino Pérez para coordinar una ayuda del Real Madrid destinada a los afectados por el terremoto de agosto de 2026 en Colombia. El anuncio se enmarca en la cooperación internacional para la reconstrucción.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/deportes/articulo/real-madrid-anuncia-importante-ayuda-para-colombia-ministro-mauricio-gomez-se-reunio-con-florentino-perez/202621/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Gómez",
+        "Florentino Pérez"
+      ],
+      "entidad": "Ministerio del Deporte / Real Madrid",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2747,
+      "titulo": "DEA destaca golpe histórico contra el narcotráfico del gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "La DEA emitió un mensaje oficial reconociendo un golpe calificado como 'histórico' del gobierno de Abelardo De la Espriella contra el narcotráfico, destacando la cooperación entre Colombia y Estados Unidos en la lucha antidrogas.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/golpe-historico-que-dio-abelardo-de-la-espriella-llamo-la-atencion-de-ee-uu-la-dea-publico-mensaje-oficial/202653/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / DEA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2746,
+      "titulo": "Operación 'Ocaso' captura responsable de finanzas del ELN en sur de Bolívar",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "El presidente De la Espriella detalló la operación 'Ocaso' contra el ELN en el sur de Bolívar, en la que se capturó al responsable de las finanzas ilegales del Frente de Guerra Darío Ramírez Castro, anunciando que se buscará desmantelar sus estructuras.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-da-detalles-de-la-operacion-ocaso-contra-el-eln-en-el-sur-de-bolivar-vamos-a-desmantelar-sus-estructuras-3599021",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2745,
+      "titulo": "Debate sobre adición presupuestal para Fondo Milagro y deudas de Air-e",
+      "categoria": "dineros",
+      "fecha": "2026-11-06",
+      "descripcion": "La adición al Presupuesto General 2026 contempla recursos para financiar la reconstrucción tras el terremoto a través del Fondo Milagro, además de cubrir deudas de la empresa de energía Air-e con las térmicas, generando debate sobre la destinación de los fondos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/adicion-al-presupuesto-2026-la-posible-asignacion-para-el-fondo-milagro-y-lo-que-le-corresponderia-a-air-e-505887",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fondo Patria Milagro / Air-e",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2744,
+      "titulo": "Gobierno publicará términos de referencia para fracking en Colombia",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El director de la ANLA, Sergio Piñeros, confirmó que el Gobierno De la Espriella publicará los términos de referencia para iniciar procesos de fracking en Colombia, aprovechando la experiencia previa del país en la materia.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-publicara-terminos-referencia-fracking-en-colombia/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Sergio Piñeros"
+      ],
+      "entidad": "ANLA / Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2743,
+      "titulo": "Gobierno destraba megaproyecto petrolero y gasífero Komodo-1 en el Caribe",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El Gobierno De la Espriella retiró tres exigencias de seguimiento ambiental que mantenían frenado el megaproyecto de petróleo y gas Komodo-1 en el mar Caribe, destrabando así su desarrollo.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-destraba-parte-de-komodo-1-megaproyecto-en-el-mar-caribe-de-petroleo-y-gas/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / ANLA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2742,
+      "titulo": "Incautan el mayor arsenal en 45 años destinado a 'los Pachenca'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "Las autoridades colombianas interceptaron en aguas de la Alta Guajira una motonave procedente de Honduras que transportaba 69 fusiles, 30 pistolas y tres lanzagranadas destinados a la organización criminal 'los Pachenca', en la incautación de armamento más grande registrada en la región en 45 años, según el presidente Abelardo de la Espriella.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/arsenal-incautado-historico-los-pachenca-altamar-la-guajira-desde-honduras-EA43258518",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerzas Militares / Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2741,
+      "titulo": "Director de la Agencia Nacional de Defensa Jurídica renuncia tras tres meses",
+      "categoria": "gabinete",
+      "fecha": "2026-11-06",
+      "descripcion": "Germán Calderón España, abogado de la campaña de Abelardo de la Espriella, renunció a la dirección de la Agencia Nacional de Defensa Jurídica del Estado (ANDJE) tras menos de tres meses en el cargo, alegando 'razones de proyección profesional' y una posible aspiración al Consejo de Estado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/german-calderon-renuncia-agencia-defensa-juridica-aspira-consejo-estado-KC43278301",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Germán Calderón España",
+        "Iván Cancino"
+      ],
+      "entidad": "Agencia Nacional de Defensa Jurídica del Estado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2740,
+      "titulo": "Cae alias Carrito, cabecilla del ELN",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "Operativo de las autoridades colombianas logró la captura de alias Carrito, cabecilla y hombre de confianza del máximo jefe del ELN, en un nuevo golpe contra esa organización armada.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/golpe-al-eln-cae-alias-carrito-cabecilla-y-hombre-de-confianza-del-maximo-jefe-de-la-organizacion/202606/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Carrito"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2739,
+      "titulo": "Gobierno expulsa a más de 80 venezolanos detenidos por delitos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "El gobierno de Abelardo de la Espriella ejecutó la expulsión de más de 80 ciudadanos venezolanos detenidos por presuntos delitos, principalmente en Bogotá, quienes fueron embarcados en un avión con destino a la frontera con Venezuela.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZUdYeUMwLTUtNG1BYkRvb2otbXBtb0xtQnFTdGpaWGFOclhmaVk5clMyeXk1bmNmenJXQkk1WUYtQkFqbVZ5SkZyaVhhWFRnMlZKQlFtODdjMjR5TmxLRW5kcDV1T1NLeFdjOXNsTm5vaG9xVmtXR21oMW4wbDR2VkY3NHZXa202MjNwaEdadFN2ZWZkTDJjeUZoaUNORnVqX2ZkSUN4aXdXWm9lUy0zRUh5d2NFVWpXekdCOVNBWWlfNEN2aV9yNk5MU244SWJ2RUlaNFdqZmlvWlFoNmF0a3BFY1ZKWU1lZFZvMHlCYm1Ua1J3aGtKazRTWE9kLWtDNTM0QmZCTWRZdy0yY0tqUW41NmpIT1N1UFJGRUVIYzRhYmFlNXZFSGNqU1VqeENWWVBkV1lNQWlvQnNfUW8yS0tNT2hHbklz0gHjAkFVX3lxTFB2ZnNlQ09xSGtfVE5QX1N0WlphUGIyekl2eXVEcS16amRqbFowOHNXbmp3REZTb0NCaFl2X0Zmc0VaYk9fMG9WVWR3THMzcU94QmtVSVFnODdLa25MTmc1MHdMby1sUzV6S0FsYUtOUjdyNW80eWhYN2gtRURZOTZqbE9vVm85LU0xa3hNVVctVVFROW81VEhPMDh2dDVHMzhMbWI4aGVKSGlkZnF0UVlNSHc1VlVUSVJibXExc2VfRG02TTIyTEFnd0FUeGRzRDJ3LUtuc2xqQXdyRWZLQ1VPOVhTbHlMZlM4LW9teGQzUWEtU3h1R1FGcHRHWWNKb2tBcmpnRzJPQnlBRUVGR2NQMUY2TU9hN1ZnN3M0b1NWY2FWelE3M25GNjZaQ3o1V2pxUHd3UFllMVU5d2t0S1FYRDRiU1ZlZjF3SndaX2RPNVdick9TNE55WXNYbG9yb1A1dnc?oc=5",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Migración Colombia / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2738,
+      "titulo": "Gobierno detalla plan de importación de gas desde Venezuela",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "La ministra de Minas y Energía, María Nohemi Arboleda, detalló el plan del gobierno De la Espriella para importar gas natural desde Venezuela en una primera fase, como medida para enfrentar el déficit energético que atraviesa Colombia.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-revela-cuanto-gas-se-podria-importar-desde-venezuela-en-primera-fase/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "María Nohemi Arboleda"
+      ],
+      "entidad": "Ministerio de Minas y Energía",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2737,
+      "titulo": "Asignan $95 mil millones para damnificados del terremoto en Risaralda",
+      "categoria": "dineros",
+      "fecha": "2026-11-06",
+      "descripcion": "El Gobierno Nacional asignó $95 mil millones destinados a los damnificados del terremoto de agosto de 2026 en el departamento de Risaralda, recursos que buscan atender a la población afectada en la región de Pereira.",
+      "evidencia": "Reportado por Facebook",
+      "fuentes": [
+        {
+          "nombre": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTNHWGdWYmdJb1dQdEdUVWt0RV9KRDRPSlR0Nmw0SjhPZW12SXRoZXhSNm5JeVlaNXJZRlRvVEo4anNOMk83OGpySVpDXzNXSjlHN2QydmhRX0tZV3cxdHBWT1FCYlZ0bFBoM3kxMkJGbnlLRmM3Mk5sR0RHek02OUNDa0F5TlJ5TnJzaVBUdDZWUERaampIRlNXZ1JsaFNUU1c5akZRUGNZdmxKTzhRZEdPM0tBYVhvOFNqMTg4bndKTUljWktnQlV4YXRHUkRnY2JvcEgwYzk3WEM5REJvMDNHRnJXQjRl?oc=5",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2736,
+      "titulo": "Contraloría investiga irregularidades en contratos del Sena de los últimos tres años",
+      "categoria": "contratos",
+      "fecha": "2026-11-06",
+      "descripcion": "La Contraloría General de la República inició una investigación sobre posibles irregularidades en el Servicio Nacional de Aprendizaje (Sena), que incluirá la revisión de contratos suscritos en los últimos tres años. La intervención se produce luego de que la propia entidad solicitara acompañamiento para verificar su gestión.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/contraloria-investiga-posibles-irregularidades-en-el-sena-revisara-contratos-de-los-ultimos-tres-anos-505882",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República / SENA",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2735,
+      "titulo": "Day Vásquez entregaría a EE.UU. pruebas sobre dineros ilícitos en campaña Petro 2022",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-06",
+      "descripcion": "Day Vásquez, exesposa de Nicolás Petro Burgos, estaría entregando a agencias de inteligencia de Estados Unidos evidencias sobre presuntos dineros y aportes irregulares que habrían ingresado a la campaña presidencial de Gustavo Petro en 2022, así como información sobre fiestas realizadas durante la campaña, según informó La FM.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/day-vasquez-entrega-pruebas-gustavo-petro-estados-unidos-elecciones-presidenciales-HA43257202",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Day Vásquez",
+        "Nicolás Petro",
+        "Gustavo Petro"
+      ],
+      "entidad": "Agencias de inteligencia de EE.UU.",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2734,
+      "titulo": "Niegan tutela a Sneyder Pinilla para evitar traslado a La Picota",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-06",
+      "descripcion": "El Juzgado 46 Penal de Bogotá negó en primera instancia la tutela presentada por Sneyder Pinilla, exsubdirector de la UNGRD condenado por el saqueo a esa entidad durante el gobierno Petro, quien buscaba revertir su traslado de una guarnición militar a la cárcel La Picota. Pinilla continuará recluido en dicho centro penitenciario.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/niegan-tutela-sneyder-pinilla-seguira-carcel-la-picota-ungrd-CC43270453",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Sneyder Pinilla"
+      ],
+      "entidad": "Juzgado 46 Penal de Bogotá / UNGRD",
+      "estado": "Condenado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2733,
+      "titulo": "Acusan a Laura Sarabia de clonar el celular de Petro",
+      "categoria": "mentiras",
+      "fecha": "2026-11-06",
+      "descripcion": "El periodista Felipe Zuleta, en su libro 'Las mujeres de Petro' (Editorial Planeta), afirmó que Laura Sarabia, quien ocupó varios cargos en el gobierno Petro, habría tenido una copia del celular del entonces mandatario y acceso a una nube con sus conversaciones. Sarabia anunció que emprenderá acciones legales ante la acusación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/laura-sarabia-clono-celular-petro-felipe-zuleta-revela-supuesta-copia-del-telefono-GC43279429",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Sarabia",
+        "Felipe Zuleta",
+        "Gustavo Petro"
+      ],
+      "entidad": "N/A",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2732,
+      "titulo": "Juliana Guerrero niega vínculo con Deicy Jiménez en caso 'sexocontratos'",
+      "categoria": "mentiras",
+      "fecha": "2026-11-06",
+      "descripcion": "Juliana Guerrero, joven condenada previamente por presentar títulos académicos falsos, negó públicamente tener relación con Deicy Jiménez o con la presunta red de mujeres que habría recibido contratos a cambio de favores sexuales durante el gobierno de Gustavo Petro, en medio del escándalo de los 'sexocontratos'.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/juliana-guerrero-hablo-sexocontratos-relacion-deicy-jimenez-HC43273523",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Juliana Guerrero",
+        "Deicy Jiménez"
+      ],
+      "entidad": "N/A",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2731,
+      "titulo": "Fiscalía abre noticia criminal formal por caso 'sexocontratos'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-06",
+      "descripcion": "La Fiscalía delegada ante la Corte Suprema de Justicia abrió formalmente una noticia criminal por el caso de los presuntos 'sexocontratos' y citó a Deicy Jiménez a declarar el 10 de noviembre de 2026, en el marco de las denuncias sobre una supuesta red de mujeres que habrían recibido contratos estatales a cambio de relaciones sexuales con el expresidente Gustavo Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/sexocontratos-petro-fiscalia-cita-deicy-jimenez-LD43260658",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2730,
+      "titulo": "Hallazgos fiscales de $61.273 millones en obras de Aerocafé",
+      "categoria": "contratos",
+      "fecha": "2026-11-06",
+      "descripcion": "La Contraloría General de la República, bajo la dirección del contralor Jorge Eliécer Laverde Vargas, encontró hallazgos fiscales por $61.273 millones en las obras del Aeropuerto del Café (Aerocafé), relacionados con el nuevo puente, la vía de acceso a la terminal de pasajeros y un contrato de seguridad del Patrimonio Autónomo del aeropuerto. La unidad anticorrupción de la Contraloría asumirá la investigación por tratarse de un caso declarado de impacto nacional.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/contraloria-encontro-hallazgos-fiscales-por-61-273-millones-en-las-obras-de-aerocafe-4519330",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eliécer Laverde Vargas"
+      ],
+      "entidad": "Contraloría General de la República / Aerocafé",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
+      "id": 2729,
+      "titulo": "Fiscalía acusa a María Isabel Urrutia por contrato de $4.950 millones en Mindeporte",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-06",
+      "descripcion": "La Fiscalía General de la Nación formuló acusación formal contra María Isabel Urrutia Ocoró, exministra del Deporte en el gobierno Petro, por presuntas irregularidades en un convenio interadministrativo por más de $4.950 millones suscrito el 30 de diciembre de 2022 entre el Ministerio del Deporte y la entidad Aldesarrollo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/maria-isabel-urrutia-acusacion-irregularidades-contrato-4-950-millones-GN43281373",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "María Isabel Urrutia"
+      ],
+      "entidad": "Fiscalía General de la Nación / Ministerio del Deporte",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 22:46"
+    },
+    {
       "id": 2728,
       "titulo": "Familias del Pacífico siguen viviendo entre grietas tres meses después del terremoto",
       "categoria": "damnificados",
@@ -63618,7 +64186,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-06",
-    "total_casos": 2639,
+    "total_casos": 2663,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
