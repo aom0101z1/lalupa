@@ -221,6 +221,492 @@
   ],
   "casos": [
     {
+      "id": 2728,
+      "titulo": "Familias del Pacífico siguen viviendo entre grietas tres meses después del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-06",
+      "descripcion": "Un informe de una organización humanitaria revela que tres meses después del terremoto de agosto, muchas familias del Pacífico colombiano continúan ocupando viviendas afectadas estructuralmente o están siendo recibidas por familias de acogida, afectando las condiciones de vida de ambas partes.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/familias-del-pacifico-colombiano-aun-viven-entre-grietas-tres-meses-despues-del-terremoto/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Organización humanitaria (no especificada)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 2727,
+      "titulo": "Definen trazado de la Línea 3 del metro de Bogotá hacia Soacha",
+      "categoria": "obras",
+      "fecha": "2026-11-06",
+      "descripcion": "Se definió el trazado de la Línea 3 del metro de Bogotá, que conectará con el municipio de Soacha y cinco localidades de la capital, contando con 18 estaciones en su recorrido.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/linea-3-del-metro-de-bogota-ya-tiene-recorrido-definido-conectara-con-soacha-y-tendra-18-estaciones/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Alcaldía de Bogotá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2726,
+      "titulo": "Gobierno e industria coinciden en acelerar proyectos de fracking para 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "Gremios del petróleo y gas y el Gobierno Nacional coinciden en la posibilidad de iniciar proyectos de fracking en 2027 sin necesidad de pilotos previos, pidiendo reglas claras y destrabar licenciamientos ambientales.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/colombia-podria-iniciar-proyectos-de-fracking-en-2027-sin-pilotos/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energía / ANH",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2725,
+      "titulo": "Preocupación por poderes adicionales al Gobierno en Ley de Rescate Económico",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "La Ley de Rescate Económico otorgaría al Confis y al Ministerio de Hacienda la facultad de suspender o excluir partidas del presupuesto sin necesidad de acudir al Congreso, generando incertidumbre sobre el alcance de estas facultades adicionales.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/incertidumbre-por-poderes-adicionales-al-gobierno-con-ley-de-rescate-economico",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Confis",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2724,
+      "titulo": "Colombia Mayor depende de aprobación de adición presupuestal de $1,1 billones",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El programa Colombia Mayor requiere la aprobación de un proyecto de adición presupuestal por $1,1 billones para poder pagar subsidios a cerca de 3 millones de personas este año. La iniciativa está en trámite ante el Congreso.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/colombia-mayor-depende-de-aprobacion-al-proyecto-de-adicion-presupuestal",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Colombia Mayor",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2723,
+      "titulo": "MinTrabajo convoca mesa por suspensión de contratos en plantas de Nestlé",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-05",
+      "descripcion": "La ministra de Trabajo, Natalia López Fuentes, convocó una mesa territorial de urgencia para este viernes con representantes de Nestlé, tras la suspensión de contratos laborales en plantas de la compañía, buscando mediar la situación con los trabajadores afectados.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/mintrabajo-convoca-mesa-territorial-por-suspension-de-contratos-en-plantas-de-nestle-505820",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Natalia López Fuentes"
+      ],
+      "entidad": "Ministerio de Trabajo / Nestlé",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2722,
+      "titulo": "S&P advierte que Colombia mantendría déficit fiscal superior al 5% del PIB durante cuatro años",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "La calificadora S&P Global Ratings proyectó que Colombia mantendrá un déficit fiscal superior al 5% del PIB durante los próximos cuatro años, en medio de un análisis sobre el comportamiento económico y las perspectivas de crecimiento del país bajo el nuevo gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/colombia-mantendria-deficit-fiscal-superior-al-5-del-pib-durante-cuatro-anos-advierte-sp-global-ratings/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "S&P Global Ratings",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2721,
+      "titulo": "Gobierno fija fecha de entrada en vigencia de cambios de la Ley Rescate, incluida alza de IVA",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El gobierno de De la Espriella precisó la fecha a partir de la cual aplicarían los cambios contemplados en la Ley Rescate, entre ellos las subidas de IVA propuestas por el Ejecutivo, y explicó la urgencia de su aprobación en el Congreso.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/desde-esta-fecha-aplicarian-todos-los-cambios-de-la-ley-rescate-incluidas-las-subidas-de-iva-que-propone-el-gobierno-de-la-espriella/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2720,
+      "titulo": "Aseguradoras han pagado $1,26 billones por el terremoto de agosto",
+      "categoria": "dineros",
+      "fecha": "2026-11-05",
+      "descripcion": "Fasecolda reportó que las aseguradoras ya han pagado $1,26 billones en indemnizaciones relacionadas con el terremoto de agosto, con Valle del Cauca entre los departamentos con mayores reservas y pagos realizados.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/aseguradoras-ya-han-pagado-126-billones-por-el-terremoto",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fasecolda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2719,
+      "titulo": "MinTrabajo activa alivios económicos para trabajadores y mipymes afectados por el sismo",
+      "categoria": "damnificados",
+      "fecha": "2026-11-06",
+      "descripcion": "El Ministerio de Trabajo implementó medidas económicas de emergencia para trabajadores cesantes y mipymes afectadas por el terremoto de agosto, incluyendo un pago de $875.453 distribuido en dos cuotas para personas que perdieron su empleo.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ministerio-de-trabajo-activo-medidas-para-empleados-y-mipymes-afectadas-por-el-sismo-4519065",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2718,
+      "titulo": "UNGRD prepara plan de recuperación de $8,68 billones por Frente Frío en 8 departamentos",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-06",
+      "descripcion": "La UNGRD anunció un plan de recuperación por $8,68 billones para atender a los damnificados por un Frente Frío que afectó a 8 departamentos del país, emergencia distinta al terremoto de agosto.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/ungrd-prepara-plan-de-recuperacion-por-868-billones-para-atender-a-damnificados-por-el-frente-frio-8-departamentos-afectados/202631/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2717,
+      "titulo": "Vicepresidente Restrepo acusa a gobierno Petro de connivencia con grupos criminales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-05",
+      "descripcion": "El vicepresidente José Manuel Restrepo acusó al gobierno de Gustavo Petro de haber actuado en 'connivencia entre los grupos criminales', en el marco del balance de seguridad del nuevo gobierno frente a la gestión anterior.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb21sWGd0LXhxYzFMSjdZVUQ4bmNza2drT2gtbEFyZWpMSUJUd19ZSGNUcmktd0xLRjNEWVZzNldTcXFzTGxDbzF0UGpUUW9iSjIwc214Z3BfejQtLUJaWndsUktaWU5tb0prMnNMdTR1NzVTRnBRdW1oY1pDc0R0eGQ4OU9OU1hGQ2pzVnpGeVg5TmlhQ3hFV3k1NHl5MW8zdDZsaHpFbzlyT21LV1Z0MWI5TnBYTXJmTWZ2ZE5HQkN3NjBPSDljYWlHSkE5QlRLSUJCUEREQzZmcl9aTWJnU1B4dzY2V0pZYmFQd05B0gGIAkFVX3lxTE1xaVlseHMxVV9LNzhNWWJEUDl0ZV8wM1FJQWVqUFBzeTFaMVVwMzQ1UVVQemFTREpxcEJyTGlBQkNjcUl6b25NS1VoODFaOE8tYTViakpfX0hCT2hXQTljVkpOTG5CNzdmSnZ3U25VQkpLRDFzTXd3dG15SWxYbDdBQTFzTkVWUEZwNjFCQUhSeWtPTS1Pc1pVYVlTaHowTjFOMlpOMFJCNGt0UjNIY2R0TkRHeG01UGNTMDFtRWF2azZPd2p6WGFJYTZfYTROb095aVNDdGYwcHhub0dQR2pwZ3pheWRuMExtYjhCdllNSDZ1VWItTUVDOHI0RWF2ZDJPazBhTk9FRg?oc=5",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo",
+        "Gustavo Petro"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48"
+    },
+    {
+      "id": 2716,
+      "titulo": "De la Espriella entrega nuevo balance de extradiciones a 100 días de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "A pocos días de cumplir sus primeros 100 días de gobierno, el presidente Abelardo de la Espriella presentó un nuevo balance de extradiciones realizadas, afirmando que se harán 'las que sean necesarias' en la lucha contra el crimen organizado.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZTJIay1tdDYxelpwZ0lqc3FpU05yM3oxZmZzRURSdG05RjdGdGtLUzB1TjZqTDdMNEJPVnRLRDVVQWNpN1FZdDZMaVp4YlVQTVIwd0NDU3owY19HVV9BM0R0bXdMNVFVa0ZjUXl0RkQ3VFM5MnhkRkpYNW1uR0dka0tHY1dFR2NuZlBKMmZ0MzVPZTlqZVg5eDJwU08waFhxRmk4ZTM5OXhNaVl2elVvNmgwR0dYQkFwRHNNc200bnhYUXdOT1UyOW82ZkdoUkpoTkNZczNZSXE1VTFKQ3Bzbk1vZE9uTFB3eFRsM3lRcjdtaHEtWFRZcnhrOW9uWkJXWlZpSVJTUzlXb0HSAaYCQVVfeXFMT2hWb0NjMDMyNmlpRlBHd1lNZGxxZ3dWck9zUzYzdnUwUlZZZlI4TkUwQWVRdjBFejFFMmFMaURNVDBpY3FISEFRR2RvcWVPSTRCQlotcG11ckQ3SGcyQVQ1RUJSRjFPU3VYbTJ4elpTa3dndTRnSFp0cXQwNEU1QmtwTVUxZENicEJTMXg4NjMxeGV0c1NRaVA0a2xUY0g0YU1YZVBSTlQyOEpueGNabXlBQTRoM3lMeVI3aUc1eWlLWTVpZlpYQTFoYWtCb0JrX2RMaFg1MHRBa2xPRmgySUlwaHczZHhHSC1iTzR0bjh3UDc1TU9mVHFRdlZTMXdtMXpsVXFDOG9oQlA1akJkbEdvWU1QeDhwN2lOMTBLOXlXS1FjZ3ZB?oc=5",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2715,
+      "titulo": "Gobierno despliega operativo con vuelo listo para expulsar extranjeros",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "El Gobierno de Abelardo De la Espriella desplegó un operativo para la expulsión de extranjeros en situación irregular, con un vuelo ya dispuesto para la deportación, como parte de la política migratoria del nuevo gobierno.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnF4VExrTGlaM2ZpMEtzVEtfU1Bka2ExNmFsdmlDLTdta3BEV0JHVkRuM3R3TFM1M1BCT3ZfUUdkN0ZmMlVnb3RNU3dnQTcta0x2UWdXWnFhQS1GS1lXSnFjN3ZGWWpvcTBIbDVLVzRLX2xlTWdtUVIzZFd6MktLYmhvSTZsRlktQi1lTXptN0tBald4X3dXazV5V1ZvUTFnalhmZW96d0xWZ9IBrwFBVV95cUxQejh4RmhhQnF3YnZ6cWhEXzdOWFdxbFZaeG1jWURkRXlPaFJJd3dZZllvMDdIQ2gwbnNXcWVkbmI3ZFBhdkNIWkU3Z1JCd1h3TWhENl9JSDlVdmNlazlMelNkcWNOaEtvUlZEMXFPckF5Wk1zOEsxUkI3M3l4cFdyV2cxOVh0RTloVmE2c3oyWFZSM25xRktFNlJfdHZjU094aFhhcnRtcEpMZEtWMko4?oc=5",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Migración Colombia / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2714,
+      "titulo": "María José Pizarro niega irregularidades en contratos de Deicy Jiménez en el Senado",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-06",
+      "descripcion": "La exsenadora María José Pizarro rompió el silencio y negó haber participado en irregularidades relacionadas con los contratos de Deicy Jiménez durante su paso por la Vicepresidencia del Senado, en medio del escándalo de presuntos 'sexocontratos' del expresidente Petro.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/maria-jose-pizarro-rompe-el-silencio-sobre-deicy-jimenez-y-niega-irregularidades-en-contratos-del-senado-505834",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "María José Pizarro",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48"
+    },
+    {
+      "id": 2713,
+      "titulo": "Gobierno anuncia medidas ante posibles irregularidades en el Icetex",
+      "categoria": "transparencia",
+      "fecha": "2026-11-05",
+      "descripcion": "El gobierno De la Espriella anunció medidas y solicitó la intervención de organismos de control ante posibles irregularidades detectadas en el Icetex, según declaraciones del presidente de la entidad.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-pone-la-lupa-en-el-icetex-anuncia-medidas-ante-posibles-irregularidades-en-la-entidad/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Icetex / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2712,
+      "titulo": "Alcalde de Bojayá pide reubicar corregimiento de Pogue",
+      "categoria": "damnificados",
+      "fecha": "2026-10-28",
+      "descripcion": "El alcalde de Bojayá, Hailton Perea Chaverra, señaló que es urgente reubicar el corregimiento de Pogue tras los daños causados por el terremoto, en el marco de las discusiones de reconstrucción del Chocó.",
+      "evidencia": "Reportado por Elespectador.com",
+      "fuentes": [
+        {
+          "nombre": "Elespectador.com",
+          "url": "http://blogs.elespectador.com/actualidad/es-urgente-reubicar-corregimiento-de-pogue-alcalde-de-bojaya-re-quibdo-choco-2026/",
+          "fecha": "2026-10-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Hailton Perea Chaverra"
+      ],
+      "entidad": "Alcaldía de Bojayá",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 2711,
+      "titulo": "Alcalde de Condoto denuncia que damnificados no han recibido ayudas",
+      "categoria": "damnificados",
+      "fecha": "2026-11-05",
+      "descripcion": "El alcalde de Condoto, Gustavo Elías Hincapié Mosquera, denunció que los damnificados del terremoto en su municipio 'no han recibido un peso' de las ayudas prometidas, en el marco del encuentro RE Quibdó & Chocó 2026.",
+      "evidencia": "Reportado por Elespectador.com",
+      "fuentes": [
+        {
+          "nombre": "Elespectador.com",
+          "url": "http://blogs.elespectador.com/actualidad/damnificados-no-han-recibido-un-peso-alcalde-de-condoto-re-quibdo-choco-2026/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Elías Hincapié Mosquera"
+      ],
+      "entidad": "Alcaldía de Condoto / Fondo Patria Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 2710,
+      "titulo": "Operación Poseidón incauta 104 armas en Alta Guajira",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "El presidente De la Espriella confirmó la incautación de 104 armas en la 'Operación Poseidón' en la Alta Guajira, calificado como el mayor decomiso en 45 años. Las autoridades interceptaron una lancha procedente de Honduras con el arsenal oculto en un doble fondo y capturaron a cinco personas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncio-la-incautacion-de-104-armas-en-la-operacion-poseidon-en-la-alta-guajira-seria-el-mayor-decomiso-en-45-anos-3598904",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República / Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2709,
+      "titulo": "Operación Agamenón golpea al Clan del Golfo en Cesar",
+      "categoria": "seguridad",
+      "fecha": "2026-11-06",
+      "descripcion": "Una operación militar denominada Agamenón contra el Clan del Golfo en Cesar dejó tres muertos, un capturado y la incautación de un arsenal de armas.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/golpe-al-clan-del-golfo-en-cesar-tres-muertos-un-capturado-y-un-poderoso-arsenal-incautado-durante-operacion-agamenon/202658/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2708,
+      "titulo": "Procuraduría cita a supervisor de contratos de Deicy Jiménez por más de $41 millones",
+      "categoria": "contratos",
+      "fecha": "2026-11-06",
+      "descripcion": "La Procuraduría citó a Tito Lorenzo Lovo Carretero, quien supervisó dos contratos de Deicy Jiménez con el Ministerio del Interior por más de $41 millones, a declarar el 10 de noviembre dentro de la indagación por presuntos contratos a cambio de favores sexuales durante el gobierno de Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contratos-deicy-jimenez-ministerio-interior-procuraduria-cio-tito-lorenzo-lovo-supervisor-contratacion-PA43254487",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Tito Lorenzo Lovo Carretero",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Procuraduría General de la Nación / Ministerio del Interior",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 13:48"
+    },
+    {
       "id": 2707,
       "titulo": "Incautan 728 kilos de marihuana en Vichada con destino a Venezuela",
       "categoria": "seguridad",
@@ -63132,7 +63618,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-06",
-    "total_casos": 2618,
+    "total_casos": 2639,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
