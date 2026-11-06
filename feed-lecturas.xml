@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:34:31 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:09:44 -0000</lastBuildDate>
+    <item>
+      <title>Claude de Anthropic lanza herramienta para analizar gastos personales con datos bancarios</title>
+      <link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/</link>
+      <guid isPermaLink="false">lalupa-lectura-437</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Anthropic agregó a Claude una función de finanzas personales que se conecta a cuentas bancarias y tarjetas vía Plaid, permitiendo a los usuarios hacer preguntas directas sobre sus gastos e ingresos dentro del chat. Por que leerlo: Es un ejemplo concreto de cómo la IA conversacional ya se integra con datos financieros reales, útil para quien construye herramientas similares. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Claude Code filtra la dirección de correo del usuario a sitios web externos</title>
+      <link>https://github.com/anthropics/claude-code/issues/107757</link>
+      <guid isPermaLink="false">lalupa-lectura-438</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Desarrolladores reportaron en GitHub que la herramienta de programación con IA Claude Code envía la dirección de correo del usuario a sitios de terceros sin consentimiento claro, un hallazgo que acumuló cientos de reacciones en Hacker News. Por que leerlo: Si usas asistentes de IA para programar, conviene saber qué datos personales podrían estar compartiendo sin que lo notes. (Hacker News, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un laboratorio de dos personas entrena un modelo de texto a imagen decente por solo 20.000 dólares</title>
+      <link>https://www.linum.ai/field-notes/pjit-21k</link>
+      <guid isPermaLink="false">lalupa-lectura-439</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Dos hermanos que dirigen un pequeño laboratorio independiente de IA generativa lograron entrenar desde cero un modelo de texto a imagen competente con apenas 20.000 dólares de presupuesto, y publicaron los pesos bajo licencia Apache 2.0. El objetivo del proyecto es crear herramientas de animación más rápidas, baratas y con mayor control creativo que los modelos de video actuales. Por que leerlo: Demuestra que construir productos propios de IA generativa ya no exige presupuestos millonarios, algo clave para cualquier emprendedor tecnológico. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La demanda de memorias para IA le esta pasando factura a los cartuchos de videojuegos</title>
+      <link>https://www.xataka.com/componentes/ia-esta-amenazando-cartuchos-nintendo</link>
+      <guid isPermaLink="false">lalupa-lectura-440</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Macronix, uno de los mayores fabricantes de chips de memoria no volatil, reporto una caida del 39% interanual en sus ingresos por memorias ROM usadas en cartuchos de videojuegos, mientras su facturacion por memorias NOR y NAND Flash crece impulsada por la demanda de infraestructura de inteligencia artificial. Por que leerlo: Revela como el auge de la IA esta reconfigurando silenciosamente mercados de hardware que parecian completamente ajenos a ella. (Xataka, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>LOFAR capta la imagen mas nitida y profunda jamas hecha del cielo en radiofrecuencias bajas</title>
+      <link>https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html</link>
+      <guid isPermaLink="false">lalupa-lectura-441</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo internacional liderado por la Universidad de Leiden uso el radiotelescopio LOFAR para producir la imagen mas nitida y sensible del cielo en bajas frecuencias de radio hasta la fecha, revelando casi 63.000 fuentes de radio -como nucleos galacticos activos y galaxias formadoras de estrellas- en una franja de cielo 25 veces mayor que la luna llena. El estudio ya fue aceptado para publicacion. Por que leerlo: Ofrece un catalogo masivo de objetos cosmicos nuevos que alimentara anos de investigacion en radioastronomia. (Phys.org, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El horario de verano permanente aumentaria el riesgo de accidentes escolares en EEUU, advierte estudio</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261103003157.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-442</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un nuevo estudio calcula que adoptar el horario de verano permanente obligaria a los ninos estadounidenses a hacer al menos 2.000 millones de trayectos escolares adicionales en la oscuridad, alterando sus relojes biologicos. Los investigadores hallaron que los accidentes fatales con peatones en edad escolar son casi el doble de probables en las mananas oscuras que despues del amanecer. Por que leerlo: Pone cifras concretas detras de un debate de politica publica que se repite cada ano sobre el cambio de horario. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Una simple compresion mecanica altera radicalmente el magnetismo de los altermagnetos</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261101010541.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-443</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores descubrieron que una presion mecanica simple puede cambiar drasticamente las propiedades magneticas y el comportamiento electrico de los altermagnetos, una clase reciente de materiales exoticos. El hallazgo podria abrir la puerta a electronica mas rapida y eficiente, ademas de nuevas tecnologias para computacion cuantica. Por que leerlo: Muestra una via sorprendentemente simple para controlar materiales clave de la proxima generacion de chips y computadoras cuanticas. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Vulnerabilidad '*sshole' permite iniciar sesión SSH sin contraseña en Linux</title>
+      <link>https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/</link>
+      <guid isPermaLink="false">lalupa-lectura-444</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad descubrieron una falla bautizada '*sshole' que permite a un atacante iniciar sesión por SSH sin contraseña en ciertas configuraciones de Alpine Linux, y advierten que otras distribuciones podrían estar afectadas también. Por que leerlo: Si administras servidores Linux, esta es una falla que conviene revisar antes de que la exploten. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nuevo software extrae más datos del telescopio Webb para fotografiar exoplanetas</title>
+      <link>https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/</link>
+      <guid isPermaLink="false">lalupa-lectura-445</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo desarrolló software que optimiza un modelo físico del telescopio James Webb para reducir el ruido y bloquear mejor la luz de las estrellas, logrando imágenes más nítidas de exoplanetas sin cambiar el hardware. Por que leerlo: Muestra cómo un simple ajuste de software puede mejorar drásticamente la capacidad científica de un instrumento de miles de millones de dólares. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Tras el rechazo de las operadoras, Elon Musk crea su propia compañía telefónica para Starlink</title>
+      <link>https://www.xataka.com/telefono-movil/spacex-no-convencio-a-operadoras-telefonia-starlink-asi-que-elon-musk-se-esta-creando-su-propia-operadora-movil</link>
+      <guid isPermaLink="false">lalupa-lectura-446</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>SpaceX pasó meses intentando convencer a las grandes operadoras de EEUU de usar sus redes para ofrecer telefonía satelital con Starlink, pero todas rechazaron la propuesta. Ante la negativa, Elon Musk decidió montar su propia operadora móvil para competir directamente con ellas. Por que leerlo: Es un caso practico de como convertir el rechazo del mercado en una jugada de integracion vertical dentro de una industria regulada. (Xataka, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Patria ve en Colombia un mercado clave con mas de US$9.000 millones invertidos</title>
+      <link>https://www.valoraanalitik.com/entrevista-patria-apuesta-por-colombia-mas-de-us9-000-millones-invertidos-y-nuevas-oportunidades-de-capital-hacia-2027/</link>
+      <guid isPermaLink="false">lalupa-lectura-447</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El fondo de inversion Patria ha colocado mas de US$9.000 millones en Colombia y su nuevo CEO senala que los inversionistas internacionales siguen viendo al pais como uno de los mercados mas atractivos de la region. La firma proyecta nuevas oportunidades de capital hacia 2027. Por que leerlo: Revela hacia donde fluye el capital privado internacional en Colombia y que oportunidades de inversion se abren para los proximos anos. (Valora Analitik, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Tecnoglass, empresa barranquillera, reporta ingresos record y prevé superar US$1.100 millones en 2026</title>
+      <link>https://www.valoraanalitik.com/tecnoglass-ingresos-record-3t-2026/</link>
+      <guid isPermaLink="false">lalupa-lectura-448</guid>
+      <pubDate>Fri, 06 Nov 2026 03:09:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La compania de vidrio y aluminio con sede en Barranquilla mejoro su proyeccion de ingresos y Ebitda para el cierre de 2026, impulsada por una solida cartera de pedidos tras un tercer trimestre con ingresos record. Por que leerlo: Es un caso real y con cifras concretas de una empresa colombiana que escala y mejora resultados ano tras ano. (Valora Analitik, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Nueva membrana reduciria hasta 32% el consumo energetico en la refinacion de petroleo</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261103003207.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Wed, 04 Nov 2026 02:58:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>Durante el tercer trimestre de 2026 ingresaron 42 nuevos proyectos de generación eléctrica al sistema colombiano, la mayoría de energía solar, junto con cinco iniciativas de transmisión incorporadas al mercado. Por que leerlo: Revela hacia dónde se dirige la inversión energética en Colombia y qué oportunidades hay en generación solar. (Valora Analitik, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nueva IA diseña proteínas a partir de una simple descripción en lenguaje natural</title>
-      <link>https://phys.org/news/2026-11-ai-protein.html</link>
-      <guid isPermaLink="false">lalupa-lectura-377</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un sistema de inteligencia artificial permite describir en palabras la función que se busca (acelerar una reacción, emitir fluorescencia, degradar plástico) y genera directamente la proteína correspondiente, sin que el usuario necesite entender estructuras moleculares ni restricciones geométricas. Hasta ahora, diseñar proteínas con IA exigía conocimientos técnicos profundos que esta herramienta busca eliminar. Por que leerlo: Muestra cómo la IA está democratizando el diseño biológico, abriendo la puerta a nuevas aplicaciones en biotecnología que antes requerían años de formación especializada. (Phys.org, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Tras 42 años de búsqueda, el CERN halla evidencia de una desintegración de partícula extremadamente rara</title>
-      <link>https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html</link>
-      <guid isPermaLink="false">lalupa-lectura-378</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El experimento LHCb del Gran Colisionador de Hadrones detectó evidencia de una desintegración que ocurriría solo una vez por cada 10.000 millones de partículas 'beauty', un fenómeno buscado durante más de cuatro décadas. El hallazgo acerca a los físicos a explorar el llamado 'Zeptoverso', un mundo subatómico a escalas de una billonésima de un billonésimo de metro. Por que leerlo: Es un hito de física fundamental que ilustra cuánta paciencia y precisión exige descubrir lo invisible, con cifras concretas sobre la rareza del fenómeno. (Phys.org, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>La sonda Hera se acerca para investigar por qué el asteroide impactado por la NASA se desvió más de lo previsto</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261103003154.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-379</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>La nave europea Hera capturó su primera vista clara de los dos asteroides involucrados en el experimento DART de la NASA de 2022, que buscaba probar si una colisión puede desviar un asteroide peligroso. Ahora Hera se aproxima a la pareja de rocas para investigar por qué el asteroide impactado cambió de trayectoria mucho más de lo que predijeron los científicos. Por que leerlo: Ofrece una actualización real de una de las pruebas de defensa planetaria más importantes de la historia, con un misterio aún sin resolver sobre por qué funcionó mejor de lo esperado. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Hallan las cinco 'letras' genéticas del ADN y ARN en un asteroide de 4.500 millones de años</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261102075903.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-380</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Científicos encontraron las cinco nucleobases esenciales del ADN y el ARN en muestras prístinas del asteroide Ryugu, lo que revela que los ingredientes clave para la vida ya existían en el espacio hace miles de millones de años. El hallazgo se suma a evidencia previa de otros asteroides y meteoritos que sugiere que estas moléculas eran comunes en el sistema solar temprano. Por que leerlo: Aporta evidencia directa, con muestras físicas, sobre uno de los grandes interrogantes de la ciencia: si los componentes de la vida llegaron del espacio. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un bootkit UEFI infecta computadoras con Windows totalmente actualizado</title>
-      <link>https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/</link>
-      <guid isPermaLink="false">lalupa-lectura-381</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El bootkit llamado BlackX logró infectar equipos con Windows completamente parcheado explotando la falta de claridad de Microsoft sobre las protecciones de Secure Boot. El caso reabre el debate sobre quién debe responsabilizarse de cerrar este tipo de brechas a nivel de firmware. Por que leerlo: Revela una falla de seguridad crítica que compromete incluso a los sistemas más actualizados. (Ars Technica, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Anthropic revela que factura 17.000 millones al trimestre, pero debe 50 veces más en cómputo</title>
-      <link>https://www.xataka.com/empresas-y-economia/anthropic-ingresa-17-000-millones-al-trimestre-su-factura-computacion-50-veces-mayor</link>
-      <guid isPermaLink="false">lalupa-lectura-382</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Anthropic, la empresa detrás de Claude, reportó ingresos trimestrales de 17.000 millones de dólares y compromisos de gasto acumulados por unos 895.400 millones, principalmente en infraestructura de cómputo. Es el primer gran laboratorio de IA en revelar sus cifras justo antes de salir a bolsa, en medio de dudas sobre la sostenibilidad financiera del sector. Por que leerlo: Da cifras concretas para juzgar si el gasto descomunal en IA realmente se sostiene con ingresos reales. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Google halla una puerta trasera de fábrica en millones de TV boxes con Android usada para malware</title>
-      <link>https://hipertextual.com/seguridad/tv-box-android-videostrong-malware-botnet/</link>
-      <guid isPermaLink="false">lalupa-lectura-383</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Google descubrió que un fabricante de dispositivos certificados con Android TV y Google TV instaló una puerta trasera de fábrica que se usó para controlar la red de bots XCPE y distribuir malware. Se estima que millones de aparatos en todo el mundo están afectados por esta vulnerabilidad. Por que leerlo: Alerta sobre un riesgo de seguridad masivo que puede estar presente en un dispositivo cotidiano del hogar. (Hipertextual, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El mercado cripto colombiano crece más rápido que el resto de la región, pero sigue sin regulación</title>
-      <link>https://www.bloomberglinea.com/latinoamerica/colombia/el-mercado-cripto-colombiano-crece-mas-que-la-region-pero-sigue-sin-regulacion/</link>
-      <guid isPermaLink="false">lalupa-lectura-384</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Colombia movió US$29.100 millones en criptoactivos en un año, un ritmo de crecimiento superior al de otros países de la región, según datos de Colombia Fintech. El gremio advierte que el Estado exige obligaciones tributarias y de reporte a esta actividad sin reconocerla legalmente, dejando un vacío regulatorio para plataformas y usuarios. Por que leerlo: Da el tamaño real del mercado cripto en Colombia y expone el riesgo legal que corre cualquiera que opere en ese negocio hoy. (Bloomberg Linea, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>La IA ya filtra hojas de vida y cambia qué se espera de empleados nuevos y jefes</title>
-      <link>https://phys.org/news/2026-11-ai-hires-alike.html</link>
-      <guid isPermaLink="false">lalupa-lectura-385</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un estudio de Northeastern University (AI &amp; Society Survey) encontró que el uso de IA para filtrar currículos lleva a algunos gerentes a contratar menos personal de nivel inicial, mientras otros esperan que esos mismos principiantes asuman tareas más avanzadas desde el primer día. Por que leerlo: Da evidencia concreta de cómo la IA está redefiniendo la contratación y las expectativas laborales, algo clave para quien gestiona equipos o busca su primer empleo. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Físicos hallan un posible resquicio que permitiría a los agujeros negros dividirse en dos</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261101010525.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-386</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un nuevo estudio identifica un posible resquicio en las leyes que normalmente impiden que los agujeros negros se dividan, sugiriendo que aquellos que giran a velocidades extremas podrían partirse en dos. El hallazgo plantea la posibilidad de un fenómeno de agujeros negros completamente nuevo que futuros telescopios podrían llegar a detectar. Por que leerlo: Desafía una de las reglas más asentadas de la física de agujeros negros y abre una predicción concreta y comprobable para la próxima generación de telescopios. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Google desmantela una botnet oculta en 1,3 millones de cajas Android TV</title>
-      <link>https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/</link>
-      <guid isPermaLink="false">lalupa-lectura-387</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Google cortó lazos con la empresa responsable de una campaña de botnet que operaba en secreto dentro de 1,3 millones de dispositivos Android TV. La compañía tomó medidas para desarticular la red antes de que causara más daño a los usuarios afectados. Por que leerlo: Explica cómo opera una botnet masiva en dispositivos domésticos y qué hace una empresa como Google para frenarla. (Ars Technica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Tercera persona muere de gripe aviar desde que el virus empezó a saltar al ganado</title>
-      <link>https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/</link>
-      <guid isPermaLink="false">lalupa-lectura-388</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Una tercera persona ha fallecido por gripe aviar desde que el virus comenzó a propagarse entre el ganado, aunque las autoridades sanitarias consideran que el riesgo general para la población sigue siendo bajo. El virus continúa expandiéndose pese a las medidas de contención. Por que leerlo: Actualiza con evidencia el riesgo real de un brote que conviene seguir de cerca sin caer en el alarmismo. (Ars Technica, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

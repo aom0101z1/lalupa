@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-05"
+    "ultima_actualizacion": "2026-11-06"
   },
   "lecturas": [
+    {
+      "id": 437,
+      "titulo": "Claude de Anthropic lanza herramienta para analizar gastos personales con datos bancarios",
+      "resumen": "Anthropic agregó a Claude una función de finanzas personales que se conecta a cuentas bancarias y tarjetas vía Plaid, permitiendo a los usuarios hacer preguntas directas sobre sus gastos e ingresos dentro del chat.",
+      "por_que_leerlo": "Es un ejemplo concreto de cómo la IA conversacional ya se integra con datos financieros reales, útil para quien construye herramientas similares.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "finanzas personales",
+        "fintech",
+        "claude"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 438,
+      "titulo": "Claude Code filtra la dirección de correo del usuario a sitios web externos",
+      "resumen": "Desarrolladores reportaron en GitHub que la herramienta de programación con IA Claude Code envía la dirección de correo del usuario a sitios de terceros sin consentimiento claro, un hallazgo que acumuló cientos de reacciones en Hacker News.",
+      "por_que_leerlo": "Si usas asistentes de IA para programar, conviene saber qué datos personales podrían estar compartiendo sin que lo notes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "inteligencia artificial",
+        "programacion",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/anthropics/claude-code/issues/107757"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 439,
+      "titulo": "Un laboratorio de dos personas entrena un modelo de texto a imagen decente por solo 20.000 dólares",
+      "resumen": "Dos hermanos que dirigen un pequeño laboratorio independiente de IA generativa lograron entrenar desde cero un modelo de texto a imagen competente con apenas 20.000 dólares de presupuesto, y publicaron los pesos bajo licencia Apache 2.0. El objetivo del proyecto es crear herramientas de animación más rápidas, baratas y con mayor control creativo que los modelos de video actuales.",
+      "por_que_leerlo": "Demuestra que construir productos propios de IA generativa ya no exige presupuestos millonarios, algo clave para cualquier emprendedor tecnológico.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "modelos generativos",
+        "startups",
+        "codigo abierto"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.linum.ai/field-notes/pjit-21k"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 440,
+      "titulo": "La demanda de memorias para IA le esta pasando factura a los cartuchos de videojuegos",
+      "resumen": "Macronix, uno de los mayores fabricantes de chips de memoria no volatil, reporto una caida del 39% interanual en sus ingresos por memorias ROM usadas en cartuchos de videojuegos, mientras su facturacion por memorias NOR y NAND Flash crece impulsada por la demanda de infraestructura de inteligencia artificial.",
+      "por_que_leerlo": "Revela como el auge de la IA esta reconfigurando silenciosamente mercados de hardware que parecian completamente ajenos a ella.",
+      "seccion": "tecnologia",
+      "tags": [
+        "memoria flash",
+        "inteligencia artificial",
+        "semiconductores",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/componentes/ia-esta-amenazando-cartuchos-nintendo"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 441,
+      "titulo": "LOFAR capta la imagen mas nitida y profunda jamas hecha del cielo en radiofrecuencias bajas",
+      "resumen": "Un equipo internacional liderado por la Universidad de Leiden uso el radiotelescopio LOFAR para producir la imagen mas nitida y sensible del cielo en bajas frecuencias de radio hasta la fecha, revelando casi 63.000 fuentes de radio -como nucleos galacticos activos y galaxias formadoras de estrellas- en una franja de cielo 25 veces mayor que la luna llena. El estudio ya fue aceptado para publicacion.",
+      "por_que_leerlo": "Ofrece un catalogo masivo de objetos cosmicos nuevos que alimentara anos de investigacion en radioastronomia.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "radiotelescopio",
+        "galaxias",
+        "lofar"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 442,
+      "titulo": "El horario de verano permanente aumentaria el riesgo de accidentes escolares en EEUU, advierte estudio",
+      "resumen": "Un nuevo estudio calcula que adoptar el horario de verano permanente obligaria a los ninos estadounidenses a hacer al menos 2.000 millones de trayectos escolares adicionales en la oscuridad, alterando sus relojes biologicos. Los investigadores hallaron que los accidentes fatales con peatones en edad escolar son casi el doble de probables en las mananas oscuras que despues del amanecer.",
+      "por_que_leerlo": "Pone cifras concretas detras de un debate de politica publica que se repite cada ano sobre el cambio de horario.",
+      "seccion": "ciencia",
+      "tags": [
+        "horario de verano",
+        "seguridad vial",
+        "politica publica",
+        "estudio"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 443,
+      "titulo": "Una simple compresion mecanica altera radicalmente el magnetismo de los altermagnetos",
+      "resumen": "Investigadores descubrieron que una presion mecanica simple puede cambiar drasticamente las propiedades magneticas y el comportamiento electrico de los altermagnetos, una clase reciente de materiales exoticos. El hallazgo podria abrir la puerta a electronica mas rapida y eficiente, ademas de nuevas tecnologias para computacion cuantica.",
+      "por_que_leerlo": "Muestra una via sorprendentemente simple para controlar materiales clave de la proxima generacion de chips y computadoras cuanticas.",
+      "seccion": "ciencia",
+      "tags": [
+        "altermagnetos",
+        "materiales",
+        "computacion cuantica",
+        "electronica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-04",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 444,
+      "titulo": "Vulnerabilidad '*sshole' permite iniciar sesión SSH sin contraseña en Linux",
+      "resumen": "Investigadores de seguridad descubrieron una falla bautizada '*sshole' que permite a un atacante iniciar sesión por SSH sin contraseña en ciertas configuraciones de Alpine Linux, y advierten que otras distribuciones podrían estar afectadas también.",
+      "por_que_leerlo": "Si administras servidores Linux, esta es una falla que conviene revisar antes de que la exploten.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "linux",
+        "ssh",
+        "vulnerabilidad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 445,
+      "titulo": "Nuevo software extrae más datos del telescopio Webb para fotografiar exoplanetas",
+      "resumen": "Un equipo desarrolló software que optimiza un modelo físico del telescopio James Webb para reducir el ruido y bloquear mejor la luz de las estrellas, logrando imágenes más nítidas de exoplanetas sin cambiar el hardware.",
+      "por_que_leerlo": "Muestra cómo un simple ajuste de software puede mejorar drásticamente la capacidad científica de un instrumento de miles de millones de dólares.",
+      "seccion": "ciencia",
+      "tags": [
+        "espacio",
+        "exoplanetas",
+        "telescopio webb",
+        "software"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 446,
+      "titulo": "Tras el rechazo de las operadoras, Elon Musk crea su propia compañía telefónica para Starlink",
+      "resumen": "SpaceX pasó meses intentando convencer a las grandes operadoras de EEUU de usar sus redes para ofrecer telefonía satelital con Starlink, pero todas rechazaron la propuesta. Ante la negativa, Elon Musk decidió montar su propia operadora móvil para competir directamente con ellas.",
+      "por_que_leerlo": "Es un caso practico de como convertir el rechazo del mercado en una jugada de integracion vertical dentro de una industria regulada.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "starlink",
+        "telecomunicaciones",
+        "spacex",
+        "estrategia"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/telefono-movil/spacex-no-convencio-a-operadoras-telefonia-starlink-asi-que-elon-musk-se-esta-creando-su-propia-operadora-movil"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 447,
+      "titulo": "Patria ve en Colombia un mercado clave con mas de US$9.000 millones invertidos",
+      "resumen": "El fondo de inversion Patria ha colocado mas de US$9.000 millones en Colombia y su nuevo CEO senala que los inversionistas internacionales siguen viendo al pais como uno de los mercados mas atractivos de la region. La firma proyecta nuevas oportunidades de capital hacia 2027.",
+      "por_que_leerlo": "Revela hacia donde fluye el capital privado internacional en Colombia y que oportunidades de inversion se abren para los proximos anos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inversion",
+        "colombia",
+        "capital privado",
+        "private equity"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/entrevista-patria-apuesta-por-colombia-mas-de-us9-000-millones-invertidos-y-nuevas-oportunidades-de-capital-hacia-2027/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
+    {
+      "id": 448,
+      "titulo": "Tecnoglass, empresa barranquillera, reporta ingresos record y prevé superar US$1.100 millones en 2026",
+      "resumen": "La compania de vidrio y aluminio con sede en Barranquilla mejoro su proyeccion de ingresos y Ebitda para el cierre de 2026, impulsada por una solida cartera de pedidos tras un tercer trimestre con ingresos record.",
+      "por_que_leerlo": "Es un caso real y con cifras concretas de una empresa colombiana que escala y mejora resultados ano tras ano.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tecnoglass",
+        "manufactura",
+        "colombia",
+        "resultados financieros"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/tecnoglass-ingresos-record-3t-2026/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-06 03:09",
+      "auto_generated": true
+    },
     {
       "id": 425,
       "titulo": "Nueva membrana reduciria hasta 32% el consumo energetico en la refinacion de petroleo",
