@@ -221,6 +221,335 @@
   ],
   "casos": [
     {
+      "id": 2707,
+      "titulo": "Incautan 728 kilos de marihuana en Vichada con destino a Venezuela",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "Autoridades colombianas incautaron 728 kilos de marihuana que eran transportados en una embarcación con destino a Venezuela en el departamento de Vichada. Según las autoridades, el cargamento pertenecería a la disidencia 'Segunda Marquetalia'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-728-kilos-de-marihuana-en-vichada-eran-movilizados-en-una-embarcacion-con-destino-a-venezuela-3598867",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2706,
+      "titulo": "Colombia se desmarca de declaración de la Cumbre Iberoamericana sobre coerción entre Estados",
+      "categoria": "internacional",
+      "fecha": "2026-11-06",
+      "descripcion": "En la XXX Cumbre Iberoamericana celebrada en Madrid, Colombia, junto con Argentina, Costa Rica y Paraguay, se desmarcó del consenso alcanzado en la Declaración de Madrid, específicamente del párrafo que rechaza la coerción entre Estados y la aplicación de medidas contrarias al Derecho Internacional y la Carta de la ONU.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/la-cumbre-iberoamericana-rechaza-la-coercion-entre-estados-con-la-discrepancia-de-4-paises/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Cumbre Iberoamericana",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2705,
+      "titulo": "Salvación Nacional pide investigación y juicio político contra Petro por caso Deicy Jiménez",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-05",
+      "descripcion": "Legisladoras del partido Salvación Nacional presentaron una acción formal con nueve peticiones probatorias solicitando peritajes a videos, revisión de minutas en el Dapre y la apertura de un juicio político contra el expresidente Gustavo Petro, en el marco del caso de presunta red de explotación sexual asociada a contratos con Deicy Jiménez.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/salvacion-nacional-pide-investigar-petro-por-caso-de-deicy-jimenez",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Congreso de la República / Dapre",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05"
+    },
+    {
+      "id": 2704,
+      "titulo": "Propuesta fiscal de Lisandro Junco mantiene renta al 35% para grandes empresas",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El funcionario de Hacienda Lisandro Junco propuso mantener la tarifa de renta en 35% para grandes empresas mientras blinda a las pymes, como parte de la política económica del gobierno De la Espriella en medio del debate fiscal nacional.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/mantener-renta-al-35-para-grandes-empresas-y-blindar-a-las-pymes-la-formula-fiscal-que-propone-lisandro-junco/202618/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Lisandro Junco"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2703,
+      "titulo": "De la Espriella dona su salario presidencial a fundaciones del Amazonas",
+      "categoria": "transparencia",
+      "fecha": "2026-11-05",
+      "descripcion": "Desde Leticia, el presidente Abelardo de la Espriella confirmó que donará su tercer sueldo como mandatario, y continuará haciéndolo durante los cuatro años de su gobierno, destinando los recursos a fundaciones que trabajan en la región amazónica.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/abelardo-de-la-espriella-dona-su-tercer-sueldo-como-presidente-a-fundaciones-del-amazonas-505817",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2702,
+      "titulo": "Gobierno propone nuevo límite para el impuesto al patrimonio",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "El Gobierno de Abelardo de la Espriella plantea modificar el umbral del impuesto al patrimonio dentro de su agenda económica, con el fin de reducir el número de colombianos obligados a pagarlo, como parte de los ajustes tributarios en discusión junto con la Ley de Rescate Económico.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/impuesto-al-patrimonio-tendria-nuevo-limite-quienes-dejarian-de-pagarlo-con-de-la-espriella/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2701,
+      "titulo": "Capturan en Colombia a juez mexicano vinculado a red de narcotráfico de Ryan Wedding",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "Autoridades colombianas participaron en la detención del juez mexicano Luis Benítez Alcántara, señalado por Estados Unidos de aceptar un soborno de 2 millones de dólares para liberar al número dos de una red de narcotráfico liderada por el exatleta olímpico canadiense Ryan Wedding. La captura se realizó el domingo con apoyo de fuerzas de seguridad colombianas y Estados Unidos ya solicitó su extradición a Bogotá.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/captura-colombia-juez-red-narcotrafico-ryan-wedding-IG43231018",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Benítez Alcántara",
+        "Ryan Wedding"
+      ],
+      "entidad": "Fuerzas de seguridad colombianas / DHS (EE.UU.)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2700,
+      "titulo": "Gobierno lanza plan de ahorro energético para proteger suministro eléctrico",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-06",
+      "descripcion": "El Gobierno Nacional anunció un plan de ahorro de energía con horarios recomendados para los hogares, como medida para proteger el suministro eléctrico del país ante riesgos de abastecimiento, distinto de la emergencia del terremoto de agosto.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/a-que-hora-debe-ahorrar-energia-en-su-casa-gobierno-lanza-plan-para-proteger-el-suministro-electrico/202651/",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2699,
+      "titulo": "Gobierno presenta balance de seguridad y economía en Cumbre Iberoamericana",
+      "categoria": "seguridad",
+      "fecha": "2026-11-05",
+      "descripcion": "El gobierno de Abelardo de la Espriella, a través del vicepresidente Restrepo, destacó avances en materia de seguridad y economía durante los primeros 90 días de gestión, en el marco de la Cumbre Iberoamericana realizada en España.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVVhOaW5iWlY0X2cyakdZZWV1OXNfTE9VcVZhRGVMalp6UlRrVjhSRGpEMU9yeTVBejJ2bmZhZTRfNVRTUTNtWFRMX3F0VG9wVG56UU5pMG5la01IbUw3Mzd0eVhRUWtjQU8wb2xDbUNKYURoWlJyUGxuQlNrR2xxNThkLVFWS19rODVuaWlyLXBUWU5ab0NsWlZzd1JmX2MwQnZFMmRrVDV6a0V1RXl0UXo4Z09ENUl3X20zRDhSNlU3dVZVUzN6a1BEZ3PSAdIBQVVfeXFMUEl5QmEtYjJKNWhwNHd6Z0xsUk1JQ1FyN2tqZ2VOQ1liMGRJSl9WUGRaelBWb2s2N29xUmRZR2RZOTNjR1RBWmhjbmNiaG9pOVN1ZTJCSHZjX2N0MGZMbXFhdjV3ZkJrVTFPcGl6T0lndWl5TU1WYk16SDhZWkxQNTJCWF9BbUZhQzNrWVFpVG5hOHhoOUdCQUxFT1lEYnNxdlIzdmoyc3RpTFRSUTZfYnhkRjA1RTBUUTRUay1iWWk1bW5ReG5vUVVOYkZkaGlaWDVR?oc=5",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Vicepresidente Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2698,
+      "titulo": "Proyectos ferroviarios dominan agenda de inversión del gobierno De la Espriella en Milagro Week",
+      "categoria": "economia",
+      "fecha": "2026-11-05",
+      "descripcion": "El 80% de los $109 billones de pesos que el gobierno de Abelardo de la Espriella buscará atraer en la 'Milagro Week' corresponde a proyectos de trenes, incluyendo una línea férrea interoceánica, retomando iniciativas que había impulsado el gobierno de Gustavo Petro.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/los-trenes-que-sono-petro-dominan-la-lista-de-grandes-proyectos-de-abelardo/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2697,
+      "titulo": "Revelan chat que probaría presión de Petro para mantener contrato de Deyci Jiménez",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-05",
+      "descripcion": "El periodista Melquisedec Torres publicó una imagen de un chat entre Angie Rodríguez y el expresidente Gustavo Petro que probaría que este pidió mantener el contrato de Deyci Jiménez en el Ministerio del Interior, en medio del escándalo de 'sexocontratos' que se investiga por la Fiscalía y la Procuraduría.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/revelan-chat-que-probaria-que-expresidente-gustavo-petro-pidio-mantener-contrato-de-deyci-jimenez-en-el-ministerio-del-interior-3598888",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Angie Rodríguez",
+        "Deyci Jiménez",
+        "Melquisedec Torres"
+      ],
+      "entidad": "Ministerio del Interior / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05"
+    },
+    {
+      "id": 2696,
+      "titulo": "Denuncian ingreso de hombres armados a casa del director del Dapre en medio de investigación por contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-05",
+      "descripcion": "La Presidencia denunció que tres personas con antecedentes por homicidio y hurto agravado ingresaron a la residencia del director del Dapre, en medio de las denuncias sobre contratos públicos irregulares del gobierno de Gustavo Petro y la presunta 'instrumentalización de mujeres'. Otro sospechoso fue visto cerca del colegio de los hijos del funcionario.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/tres-personas-entraron-a-la-casa-del-director-del-dapre-segun-presidencia/",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Director del Dapre"
+      ],
+      "entidad": "Presidencia de la República / Dapre",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05"
+    },
+    {
+      "id": 2695,
+      "titulo": "Exnegociador de 'Paz Total' y jefe de 'la Oficina', alias Tom, quedará en libertad",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-06",
+      "descripcion": "Juan Carlos Mesa Vallejo, alias 'Tom' o 'Carlos Chata', líder de la confederación criminal 'la Oficina' y exnegociador de paz con el gobierno de Gustavo Petro en el marco de 'Paz Total', recibirá libertad condicional según notificación de un juzgado de Ejecución de Penas. Estaba recluido en La Picota desde el 10 de agosto de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-tom-en-libertad-condicional-jefe-oficina-los-chatas-negociador-de-paz-EB43248480",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Juan Carlos Mesa Vallejo (alias Tom)",
+        "Gustavo Petro"
+      ],
+      "entidad": "INPEC / Juzgado de Ejecución de Penas",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05"
+    },
+    {
+      "id": 2694,
+      "titulo": "Nuevo aplazamiento en juicio contra exministros de Petro por caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-04",
+      "descripcion": "El juicio contra exministros del gobierno de Gustavo Petro por el escándalo de corrupción en la UNGRD sufrió un nuevo aplazamiento, según reportó La FM. El proceso judicial continúa su curso sin fecha definitiva para la próxima audiencia.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2JKTU1rLU5hS0p6S21lTm1vVndsWHgwNzdsdnl6TFFzNThGV19nZmhzZTMxalRpbHN1M3J2X1FJOEQtWXppS2JoRTNUbE80M1RuQ3l1VFNPMU9LRXlQZWpwMS1sb3N6LVdJMWE3VE56R3cwM0RRLVdoREl3Z3lGcGVzX2tJWEloeFFLUWxKSnhyZ2tiMWZqcUctYlB0RnlELXllUmpNdEFEZ1ROaWdvcEtyQjdrb0lHNmtfZVRoRTZtQ3J5N1FNSk130gHKAUFVX3lxTFBJcVBhbm1qZXMzQ0gyYWJIZUFzTUhOdDlkZzRhWU9hWmluUWFSZy1wRzBaSFV3aExoXzh4Q0d6Y3dSX0ZGUTdEZDZSbHhNcjZxT0UwSmpjd0tURzBFbUFvZHB0SnZjNE94Ul9QQ3hUMjBhZWpJMmNDMjQwN1ZSUTVQNXB1YllMc3NIN3oxWUQtV0FFLUptZTE3V05oYnpTMWxObWNMWkttS3RJcC03bWhKRGhUeS1BeGNWVWZZREZGTkhRb0twZE9IUlE?oc=5",
+          "fecha": "2026-11-04"
+        }
+      ],
+      "personas_involucradas": [
+        "Exministros del gobierno Petro"
+      ],
+      "entidad": "Rama Judicial / UNGRD",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-06 05:05"
+    },
+    {
       "id": 2693,
       "titulo": "Disputa legal por contrato de pasaportes con Casa da Moeda de Portugal sigue sin resolverse",
       "categoria": "contratos",
@@ -62802,8 +63131,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-05",
-    "total_casos": 2604,
+    "ultima_actualizacion": "2026-11-06",
+    "total_casos": 2618,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
