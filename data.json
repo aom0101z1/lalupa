@@ -221,6 +221,172 @@
   ],
   "casos": [
     {
+      "id": 2774,
+      "titulo": "Banco de la República reduce previsión de crecimiento económico para 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El Banco de la República bajó su previsión de crecimiento del PIB para 2027 a 1,7%, señalando que el ajuste de las finanzas públicas del nuevo gobierno golpeará la economía el próximo año.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/banco-de-la-republica-bajo-17-prevision-del-crecimiento-para-2027",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Banco de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2773,
+      "titulo": "JEP advierte riesgos de seguridad para víctimas por recorte presupuestal de $170.000 millones",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "La Jurisdicción Especial para la Paz (JEP) advirtió que enfrentaría una reducción presupuestal de hasta $170.000 millones bajo el gobierno De la Espriella, lo que afectaría la seguridad de víctimas de la violencia, además de cambios en su infraestructura y planta de personal.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/jep-advierte-que-recortes-deja-sin-seguridad-victimas-de-la-violencia",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Jurisdicción Especial para la Paz (JEP)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2772,
+      "titulo": "Alcalde de Cali pide $10 billones para reconstrucción de la ciudad",
+      "categoria": "dineros",
+      "fecha": "2026-11-07",
+      "descripcion": "El alcalde de Cali, Alejandro Éder, declaró que la ciudad necesita $10 billones para su reconstrucción tras el terremoto de agosto de 2026, en el marco de discusiones sobre el futuro y la recuperación de la capital del Valle del Cauca.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mejor-colombia/articulo/necesitamos-10-billones-para-reconstruir-cali-alejandro-eder-sobre-el-futuro-de-la-ciudad/202600/",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Éder"
+      ],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "neutro"
+    },
+    {
+      "id": 2771,
+      "titulo": "Colombia e Israel reactivan relaciones diplomáticas bajo gobierno De la Espriella",
+      "categoria": "internacional",
+      "fecha": "2026-11-07",
+      "descripcion": "La embajadora de Israel en Colombia, Vivian Aisen, afirmó que las relaciones bilaterales, rotas durante el gobierno de Gustavo Petro, han sido reactivadas por el presidente Abelardo de la Espriella, quien ha convertido a Israel en uno de sus aliados más cercanos en Oriente Medio, intensificando diálogos diplomáticos desde su llegada al cargo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/embajadora-de-israel-colombia-perdimos-tiempo-pero-lo-vamos-a-recuperar-PE43302159",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Vivian Aisen",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Embajada de Israel en Colombia / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2770,
+      "titulo": "Angie Rodríguez revela chats donde Petro habría ordenado contrato para Deicy Jiménez",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-06",
+      "descripcion": "La exdirectora del Dapre, Angie Rodríguez, afirmó que conserva chats con el expresidente Gustavo Petro en los que este le habría ordenado gestionar un contrato para Deicy Jiménez, implicada en el escándalo de 'sexocontratos'. Rodríguez calificó el contenido como '1.000 por ciento real' y aseguró tener más conversaciones que no ha revelado, en medio de la investigación en curso por la Fiscalía.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/angie-rodriguez-hablo-de-sus-chats-con-el-expresidente-gustavo-petro-donde-le-habria-ordenado-un-contrato-para-deicy-jimenez-1-000-por-ciento-real-3599076",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Gustavo Petro",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Dapre / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28"
+    },
+    {
+      "id": 2769,
+      "titulo": "Gobierno pide ahorrar energía para llevar embalses al 80% antes de abril",
+      "categoria": "economia",
+      "fecha": "2026-11-06",
+      "descripcion": "El gobierno de Abelardo de la Espriella hizo un llamado a la ciudadanía y a las industrias para ahorrar energía, con el objetivo de llevar el nivel de los embalses del país al 80% antes de abril de 2027, en medio de preocupaciones por el abastecimiento energético nacional.",
+      "evidencia": "Reportado por El Irreverente",
+      "fuentes": [
+        {
+          "nombre": "El Irreverente",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc19ic2FpeXZpUnVGWmVCbjNaZ1JkTFRpNVZ1RkRwd21FX3prQkFrb3BNZVdvem82c1FTMmstb19teTVtX3dFRzFHQ25oRzlQYThwUXBhZjN6aHdFTTJoQzFveDFfcGRaTW9LWEVMZnVCSEwzRGVfYXhBUTF0dTNPbmlPeW1jRTZOTTBsMnBZdmNITkw2OVRpZW1tbUM5LUJRQmhiOExKRnQyeDg3V3JXQ1dKdXdMTmhWS2lTUWZqcF8xZw?oc=5",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2768,
+      "titulo": "Jessica González, nueva implicada en caso 'sexocontratos' por ingresos millonarios",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-07",
+      "descripcion": "La Fiscalía investiga los ingresos millonarios de Jessica González, vinculada al gobierno Petro, en medio de las pesquisas por la presunta red de contratos a cambio de favores sexuales en la Casa de Nariño. Las autoridades buscan establecer si ella cumplía los requisitos legales para ser contratada en entidades públicas durante el gobierno saliente.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/el-rastro-de-jessica-gonzalez-en-el-gobierno-petro-millonarios-ingresos-prenden-alerta-en-medio-de-los-sexocontratos-PE43302683",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Jessica González",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-07 12:28"
+    },
+    {
       "id": 2767,
       "titulo": "Privatización de empresas públicas como opción de ingresos en Ley de Rescate",
       "categoria": "economia",
@@ -64534,7 +64700,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-07",
-    "total_casos": 2678,
+    "total_casos": 2685,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
