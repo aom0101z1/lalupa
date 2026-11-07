@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-06"
+    "ultima_actualizacion": "2026-11-07"
   },
   "lecturas": [
+    {
+      "id": 461,
+      "titulo": "Un teorema cuántico pone en jaque la noción de realidad de Einstein",
+      "resumen": "Un nuevo teorema matemático demuestra que los intentos más sofisticados de rescatar la idea de una realidad objetiva e independiente del observador, que Einstein defendía frente a la mecánica cuántica, siguen fallando. El resultado refuerza las predicciones más extrañas de la física cuántica y reabre el debate sobre el realismo local que Einstein sostuvo contra Bohr y la escuela de Copenhague.",
+      "por_que_leerlo": "Entiende con rigor por qué ni los argumentos más ingeniosos logran salvar la visión clásica de la realidad frente a la mecánica cuántica.",
+      "seccion": "ciencia",
+      "tags": [
+        "física cuántica",
+        "mecánica cuántica",
+        "einstein",
+        "teorema"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 462,
+      "titulo": "Polvo marciano revela un riesgo serio para futuros colonizadores, según datos del rover Perseverance",
+      "resumen": "El rover Perseverance llevó fragmentos de trajes espaciales para exponerlos al regolito marciano y medir su resistencia. Los análisis muestran que el polvo fino se adhiere con facilidad a los tejidos y podría atravesar la barrera hematoencefálica, complicando los planes de misiones humanas de larga duración al planeta rojo.",
+      "por_que_leerlo": "Para entender uno de los obstáculos técnicos más serios que enfrenta la colonización de Marte, respaldado por datos reales de la NASA.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "nasa",
+        "exploracion espacial",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/perseverance-descubre-que-polvo-marciano-fino-peligroso-que-se-creia-se-adhiere-a-trajes-podria-atravesar-barrera-hematoencefalica"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 463,
+      "titulo": "El mercado bursátil de EEUU pierde 2,5 billones de dólares en medio de temores sobre las 'neoclouds' de IA",
+      "resumen": "El Nasdaq cerró con fuertes caídas luego de que Bloomberg revelara que Microsoft, uno de los principales clientes de las neoclouds, empezó a perder confianza y a revisar sus compromisos de gasto en infraestructura de IA. La corrección bursátil refleja crecientes dudas sobre la sostenibilidad financiera del boom de inteligencia artificial.",
+      "por_que_leerlo": "Para dimensionar qué tan frágil es el optimismo bursátil que sostiene la carrera de infraestructura de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "mercados",
+        "inteligencia artificial",
+        "neoclouds",
+        "bolsa"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 464,
+      "titulo": "Farmacéuticas prueban la IA para descubrir medicamentos y ninguna de 50 startups lo logró, según Vertex",
+      "resumen": "Pese a las promesas de líderes como Dario Amodei de que la IA curará enfermedades en pocos años, directivos de grandes farmacéuticas se muestran escépticos. Vertex evaluó cerca de 50 empresas de inteligencia artificial dedicadas al descubrimiento de fármacos y ninguna logró producir un medicamento viable.",
+      "por_que_leerlo": "Un contrapeso con datos duros a la narrativa de que la IA resolverá pronto los grandes problemas médicos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "farmaceuticas",
+        "medicina",
+        "escepticismo"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/consejeros-delegados-farmaceuticas-no-se-creen-que-ia-vaya-a-curar-enfermedades-vertex-probo-unas-50-empresas-ia-ninguna-logro-farmaco-viable"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 465,
+      "titulo": "El crac bursátil de la IA frena la esperada salida a bolsa de Anthropic antes de Acción de Gracias",
+      "resumen": "Anthropic tenía listo su debut en Nasdaq, con cuentas presentadas, permisos obtenidos y bancos contratados para una valoración cercana a los 2 billones de dólares. La fuerte caída bursátil relacionada con la IA justo antes de fijar el precio obligó a la compañía a replantear sus planes.",
+      "por_que_leerlo": "Una mirada directa a cómo la desconfianza del mercado está golpeando incluso a la startup de IA mejor financiada.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "salida a bolsa",
+        "startups",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/batacazo-bolsa-pilla-a-anthropic-a-punto-fijar-su-precio-nasdaq-no-compra-promesas-ia"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 466,
+      "titulo": "Nequi lanzara 'bolsillos' con rendimientos personalizados para quienes reciben su nomina",
+      "resumen": "Nequi entra al negocio de las rentabilidades con 'Bolsillos interesantes', una funcion que pagara rendimientos variables segun el saldo guardado. La implementacion sera gradual y en su primera etapa estara disponible solo para usuarios que reciben su nomina a traves de la app.",
+      "por_que_leerlo": "Es una nueva opcion de ahorro remunerado en Colombia que sirve de referencia directa para quien disena productos fintech o busca rendimiento sobre su efectivo liquido.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "nequi",
+        "ahorro",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/nequi-rentabilidades-bolsillos-rendimientos/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 467,
+      "titulo": "Crean en laboratorio el primer sistema cuántico de Hubbard de tres componentes ajustable",
+      "resumen": "Un equipo internacional con investigadores de Alemania, Tailandia, India, China y Estados Unidos construyó por primera vez un sistema de Hubbard de tres componentes con interacciones ajustables, usando un microscopio de gas cuántico para visualizar átomos individuales. El estudio, publicado en Science, sienta las bases para futuras simulaciones cuánticas de fenómenos de física nuclear.",
+      "por_que_leerlo": "Muestra cómo los simuladores cuánticos empiezan a recrear en el laboratorio fenómenos antes solo teóricos de la física nuclear.",
+      "seccion": "ciencia",
+      "tags": [
+        "física cuántica",
+        "simulación cuántica",
+        "átomos",
+        "investigación"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 468,
+      "titulo": "Un mecanismo de retroalimentación hace que las olas de calor extremas sean 10% más intensas",
+      "resumen": "Un estudio en Science Advances, liderado por el Instituto Potsdam y el IIASA, identificó una interacción autorreforzante entre temperatura, humedad del suelo y presión atmosférica que se activa en condiciones de calor extremo, amplificando las olas de calor en un 10% adicional respecto a lo esperado. El hallazgo ayuda a explicar por qué ciertos eventos recientes superaron las predicciones de los modelos climáticos.",
+      "por_que_leerlo": "Explica con un mecanismo físico concreto y medible por qué las olas de calor récord se salen de los modelos habituales.",
+      "seccion": "ciencia",
+      "tags": [
+        "cambio climático",
+        "olas de calor",
+        "clima",
+        "evidencia científica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-mega-interaction-soil-moisture-atmospheric.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 469,
+      "titulo": "IA ayuda a descifrar la función de proteínas misteriosas en las mitocondrias",
+      "resumen": "Científicos de Texas A&M AgriLife usan inteligencia artificial para acelerar la identificación de la función de cientos de proteínas mitocondriales que seguían sin explicación en la biología humana, apuntando a nuevos objetivos terapéuticos contra enfermedades. El enfoque reduce drásticamente el tiempo que tomaría estudiar cada proteína de forma manual.",
+      "por_que_leerlo": "Un ejemplo concreto de cómo la IA acelera la investigación biomédica básica más allá de la generación de texto.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biología",
+        "mitocondrias",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-disease-hidden-mitochondria.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 470,
+      "titulo": "Un fármaco anti-envejecimiento mejora el flujo sanguíneo cerebral antes del Alzheimer",
+      "resumen": "Un estudio encontró que cuatro semanas de dosis bajas de rapamicina mejoraron el flujo sanguíneo cerebral en adultos sanos de mediana edad portadores de la variante genética de alto riesgo APOE4, con mayores beneficios en mujeres. La caída del flujo sanguíneo cerebral puede ocurrir años antes de los síntomas de Alzheimer, por lo que intervenir temprano podría cambiar el curso de la enfermedad.",
+      "por_que_leerlo": "Presenta evidencia temprana de una posible intervención preventiva en personas genéticamente predispuestas al Alzheimer.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "rapamicina",
+        "envejecimiento",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-05",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 471,
+      "titulo": "El Congreso de EE.UU. cita a Jensen Huang de Nvidia por presunto espionaje chino",
+      "resumen": "Legisladores estadounidenses exigen explicaciones a Jensen Huang sobre sus vinculos con un presunto agente de inteligencia chino, en medio de crecientes tensiones por la exportacion de chips de IA a China. El caso pone en el centro del debate la seguridad nacional y el futuro de las ventas de semiconductores avanzados.",
+      "por_que_leerlo": "Muestra como la geopolitica de los chips de IA puede afectar directamente a la empresa mas valiosa del sector tecnologico.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nvidia",
+        "espionaje",
+        "semiconductores",
+        "geopolitica"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
+    {
+      "id": 472,
+      "titulo": "Crusoe vende a Google un problematico proyecto de centro de datos en Wyoming",
+      "resumen": "La startup Crusoe se deshizo de un centro de datos para IA con dificultades en Wyoming, que fue adquirido por Google. El caso evidencia los obstaculos de energia, financiamiento y ejecucion que enfrentan incluso los jugadores bien financiados al construir infraestructura masiva de IA.",
+      "por_que_leerlo": "Revela las dificultades reales detras del boom de centros de datos de IA que no suelen aparecer en los anuncios corporativos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "centros de datos",
+        "inteligencia artificial",
+        "infraestructura",
+        "google"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-07 02:36",
+      "auto_generated": true
+    },
     {
       "id": 449,
       "titulo": "Por que el simple apareamiento de electrones no basta para la superconductividad a temperatura ambiente",
