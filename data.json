@@ -221,6 +221,125 @@
   ],
   "casos": [
     {
+      "id": 2803,
+      "titulo": "Misión del FMI evalúa Ley de Rescate y plan de austeridad fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-07",
+      "descripcion": "Una misión del Fondo Monetario Internacional llegó a Colombia para evaluar la situación económica del país, con énfasis en los alcances de la Ley de Rescate Económico, el recorte del gasto público y el plan de austeridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/comienza-prueba-de-fuego-para-colombia-con-el-fmi",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / FMI",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 12:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2802,
+      "titulo": "Gobierno y Congreso acuerdan mesas técnicas sobre Ley de Rescate tras cónclave en Barranquilla",
+      "categoria": "economia",
+      "fecha": "2026-11-07",
+      "descripcion": "Representantes del Gobierno Nacional y del Congreso se reunieron en un 'cónclave' en Barranquilla y acordaron trabajar en mesas técnicas para avanzar en la discusión de la Ley de Rescate. Los asistentes calificaron el encuentro como cordial, con disposición de escucha y diálogo entre las partes, en medio del ajuste fiscal propuesto por el Ministerio de Hacienda.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-y-congreso-acuerdan-trabajar-en-mesas-tecnicas-sobre-ley-de-rescate-tras-conclave-en-barranquilla-505931",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 12:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2801,
+      "titulo": "Alejandro Ordóñez se estrena como ministro del Interior en recta final legislativa",
+      "categoria": "gabinete",
+      "fecha": "2026-11-08",
+      "descripcion": "En medio de proyectos clave para el gobierno de Abelardo de la Espriella que enfrentan trámite en el Congreso, Alejandro Ordóñez asumió como nuevo ministro del Interior, en un momento decisivo de la relación entre el Ejecutivo y el Legislativo hacia el final de 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/los-proyectos-del-gobierno-de-abelardo-de-la-espriella-que-son-una-papa-caliente-en-la-recta-final-del-congreso-para-este-3599265",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordóñez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio del Interior / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 12:46",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2800,
+      "titulo": "Investigaciones por 'sexocontratos' avanzan en cuatro frentes, incluida denuncia por 48 mujeres instrumentalizadas",
+      "categoria": "contratos",
+      "fecha": "2026-11-07",
+      "descripcion": "Mientras avanzan las pesquisas sobre las pruebas del caso de Deicy Jiménez, se espera que el Gobierno Nacional oficialice una denuncia formal sobre 48 mujeres presuntamente instrumentalizadas durante el gobierno de Gustavo Petro, en el marco de la investigación por presunto intercambio de contratos por favores sexuales.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/petro-mujeres-y-contratos-cuatro-flancos-de-investigacion-abiertos",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Deicy Jiménez"
+      ],
+      "entidad": "Gobierno Nacional / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 12:46"
+    },
+    {
+      "id": 2799,
+      "titulo": "Surge nueva mujer vinculada a Petro con contratos familiares en escándalo de 'sexocontratos'",
+      "categoria": "contratos",
+      "fecha": "2026-11-07",
+      "descripcion": "En medio del escándalo de 'sexocontratos', Ángela Benedetti señaló que Verónica Alcocer sabía de las relaciones de Petro con varias mujeres, entre ellas María Masip Zawady, presunta amante desde la campaña de 2022, cuya familia habría tenido contratos con el gobierno Petro. El caso se suma a las denuncias sobre presunto intercambio de favores sexuales por contratos estatales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gustavo-petro-veronica-alcocer-benedetti-gobierno-sexocontratos-EE43309296",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "María Masip Zawady",
+        "Verónica Alcocer",
+        "Ángela Benedetti"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 12:46"
+    },
+    {
       "id": 2798,
       "titulo": "Balance de seguridad: bombardeos y ofensiva urbana del nuevo gobierno",
       "categoria": "seguridad",
@@ -65256,7 +65375,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-08",
-    "total_casos": 2709,
+    "total_casos": 2714,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
