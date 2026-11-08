@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-07"
+    "ultima_actualizacion": "2026-11-08"
   },
   "lecturas": [
+    {
+      "id": 485,
+      "titulo": "Función 'No preguntar de nuevo' de Claude Code filtró contraseñas en 1.122 repositorios de GitHub",
+      "resumen": "Investigadores de seguridad hallaron que la opción 'Don't Ask Again' del agente de codificación Claude Code permitió que credenciales y contraseñas quedaran expuestas en 1.122 archivos públicos de GitHub. El hallazgo generó gran repercusión en Hacker News (177 puntos, 125 comentarios) por evidenciar el riesgo de automatizar permisos en agentes de IA que escriben código.",
+      "por_que_leerlo": "Advierte a quienes usan agentes de IA para programar sobre un error de configuración que puede filtrar secretos sin que se den cuenta.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "seguridad",
+        "agentes",
+        "github"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 9,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 486,
+      "titulo": "La gravedad de la Tierra explicaría por qué la Luna tuvo actividad volcánica tardía",
+      "resumen": "Muestras traídas por la misión china Chang'e-5 sugieren que el interior lunar se mantuvo caliente y volcánicamente activo mucho más tiempo de lo esperado, contradiciendo la idea de que la Luna se enfrió rápido tras su formación hace 4.500 millones de años. Los científicos creen que el calentamiento por marea generado por la gravedad terrestre pudo mantener 'latiendo' el corazón volcánico lunar.",
+      "por_que_leerlo": "Explica un misterio geológico lunar que cambia lo que creíamos sobre cómo se enfrían los cuerpos planetarios.",
+      "seccion": "ciencia",
+      "tags": [
+        "luna",
+        "geologia",
+        "espacio",
+        "chang'e-5"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 487,
+      "titulo": "Hallan sangre de dinosaurio químicamente confirmada tras 115 millones de años",
+      "resumen": "Investigadores confirmaron químicamente restos de sangre antigua dentro de huesos de dinosaurio de 115 millones de años, un hallazgo que desafía lo que se creía sobre cuánto pueden sobrevivir las moléculas biológicas. El descubrimiento podría dar nuevas pistas sobre la fisiología de los dinosaurios y hasta ayudar en la búsqueda de vida antigua en otros planetas.",
+      "por_que_leerlo": "Un hallazgo que redefine los límites de la preservación biológica y abre nuevas preguntas sobre la vida antigua.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleontologia",
+        "dinosaurios",
+        "biomoleculas",
+        "fosiles"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 488,
+      "titulo": "ADN antiguo confirma que el mito de origen de una tribu 'barbara' era cierto",
+      "resumen": "Un analisis de ADN antiguo publicado en Science demuestra que la historia mitica sobre el origen de una tribu considerada 'barbara' por las fuentes clasicas coincide con la evidencia genetica real. El hallazgo revela migraciones y mezclas poblacionales que la arqueologia tradicional no habia logrado probar.",
+      "por_que_leerlo": "Muestra como la genetica moderna puede validar relatos historicos que parecian pura mitologia.",
+      "seccion": "ciencia",
+      "tags": [
+        "adn antiguo",
+        "genetica",
+        "historia",
+        "arqueologia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 489,
+      "titulo": "Agujeros de aire convierten obleas de silicio en espejos ultravioleta planos",
+      "resumen": "Investigadores crearon metasuperficies con agujeros nanométricos en obleas de silicio que funcionan como espejos planos capaces de enfocar luz ultravioleta, resolviendo un problema de materiales que limitaba las ópticas planas en ese rango de longitud de onda. La técnica podría permitir sistemas compactos de imagenología de alta resolución, espectroscopía y sensores.",
+      "por_que_leerlo": "Una solución de ingeniería que podría abaratar y miniaturizar instrumentos ópticos de precisión.",
+      "seccion": "tecnologia",
+      "tags": [
+        "optica",
+        "nanotecnologia",
+        "ingenieria",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 490,
+      "titulo": "Los humanos emitimos 2.000 millones de toneladas de CO2 al año solo por respirar",
+      "resumen": "Un estudio calcula que la humanidad produce colectivamente más de 2.000 millones de toneladas de CO2 al año simplemente al convertir alimento en energía, un aumento del 74% en tres décadas impulsado sobre todo por el crecimiento poblacional. A diferencia de las emisiones de combustibles fósiles, este CO2 forma parte del ciclo natural del carbono, pero medirlo con precisión podría mejorar los modelos climáticos.",
+      "por_que_leerlo": "Un dato sorprendente que pone en perspectiva el verdadero peso de la huella humana frente a la industrial.",
+      "seccion": "ciencia",
+      "tags": [
+        "co2",
+        "cambio climatico",
+        "poblacion",
+        "metabolismo"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 491,
+      "titulo": "Los anillos de una estrella muerta anticipan el futuro destino del Sistema Solar",
+      "resumen": "Astrónomos descubrieron un extraño doble anillo de escombros planetarios alrededor de una estrella muerta, separados por un vacío que podría estar mantenido por cuerpos sobrevivientes, uno tan grande como Plutón o la Luna. Las distintas composiciones químicas de los anillos sugieren que contienen restos de planetas diferentes, ofreciendo una vista previa de lo que podría pasarle al Sistema Solar cuando el Sol muera.",
+      "por_que_leerlo": "Una ventana real a cómo podría verse el Sistema Solar dentro de miles de millones de años.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "estrellas",
+        "sistema solar",
+        "exoplanetas"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 492,
+      "titulo": "Cientos de instancias de la herramienta de hacking con IA Artex quedaron expuestas en internet",
+      "resumen": "Investigadores de seguridad encontraron cientos de servidores que exponían públicamente Artex, una herramienta de pruebas de penetración basada en IA, permitiendo que cualquiera accediera a sus capacidades de hacking sin autorización. El hallazgo expone fallas comunes de configuración en herramientas ofensivas de ciberseguridad.",
+      "por_que_leerlo": "Alerta sobre cómo errores básicos de configuración pueden convertir herramientas de seguridad en armas disponibles para cualquiera.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "ia",
+        "hacking",
+        "exposicion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 493,
+      "titulo": "AST SpaceMobile construirá su propio cohete ante la escasez de lanzamientos espaciales",
+      "resumen": "La compañía de internet satelital AST SpaceMobile anunció el desarrollo del cohete Blacklift para asegurar capacidad de lanzamiento propia y expandir su mercado, ante la saturación de proveedores como SpaceX. La medida refleja cuán ajustado está el mercado de lanzamientos orbitales para operadores de constelaciones satelitales.",
+      "por_que_leerlo": "Ilustra cómo la escasez de un insumo clave puede empujar a una empresa a integrarse verticalmente y entrar en un negocio completamente nuevo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "espacio",
+        "satelites",
+        "cohetes",
+        "estrategia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 494,
+      "titulo": "Tesla dejará de fabricar el Cybertruck en 2027 tras ventas decepcionantes",
+      "resumen": "Tesla confirmó que discontinuará el Cybertruck en 2027, pocos años después de su lanzamiento, y destinará la planta a producir más unidades del Cybercab. El vehículo nunca alcanzó las expectativas de ventas con las que buscaba competir contra la Ford F-150.",
+      "por_que_leerlo": "Es un caso de estudio sobre cómo una apuesta de diseño radical puede fracasar comercialmente pese al hype inicial.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tesla",
+        "automoviles",
+        "fracaso",
+        "negocios"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 495,
+      "titulo": "Pueblos de EE.UU. rechazan centros de datos en referendos locales, salvo uno en Dakota del Norte",
+      "resumen": "Tras las elecciones de medio termino del 3 de noviembre, Estados Unidos registro al menos 40 referendos locales en contra de la instalacion de centros de datos de IA, reflejando el rechazo ciudadano a su impacto en energia y terrenos. La unica excepcion fue Harwood, un pueblo de menos de 940 habitantes en Dakota del Norte, que aprobo el proyecto.",
+      "por_que_leerlo": "Expone una creciente resistencia local a la infraestructura de IA, una tendencia clave para quien invierte o construye en ese sector.",
+      "seccion": "tecnologia",
+      "tags": [
+        "centros de datos",
+        "energia",
+        "inteligencia artificial",
+        "estados unidos"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/eeuu-ha-votado-masa-centros-datos-todos-pueblo-dakota-norte-mil-habitantes"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
+    {
+      "id": 496,
+      "titulo": "Como los Paises Bajos construyeron una barrera de 9 km que casi siempre permanece abierta",
+      "resumen": "En 1986 Paises Bajos inauguro la Oosterscheldekering, una de las mayores obras de ingenieria hidraulica del mundo, disenada para cerrarse solo durante tormentas severas y dejar pasar el agua el resto del tiempo. El diseno resolvio el reto de proteger la costa del mar del Norte sin destruir el ecosistema estuarino.",
+      "por_que_leerlo": "Un caso de ingenieria que resuelve un problema aparentemente imposible y deja lecciones de diseno pragmatico frente a riesgos naturales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ingenieria",
+        "infraestructura",
+        "paises bajos",
+        "gestion de riesgo"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/1986-paises-bajos-gasto-fortuna-barrera-9-km-para-detener-a-su-mayor-enemigo-problema-que-casi-siempre-esta-abierta"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 02:06",
+      "auto_generated": true
+    },
     {
       "id": 473,
       "titulo": "Teoria cosmologica sin materia oscura ni energia oscura supera pruebas clave",
