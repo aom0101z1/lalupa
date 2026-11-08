@@ -27,6 +27,280 @@
   },
   "lecturas": [
     {
+      "id": 497,
+      "titulo": "Descubren un límite cuántico que podría hacer la electrónica 100.000 veces más rápida",
+      "resumen": "Cientificos hallaron un limite cuantico inesperado que impide rastrear electrones con precision ilimitada en espacio y tiempo simultaneamente. El hallazgo podria abrir la puerta a manipular reacciones quimicas y a una electronica cientos de miles de veces mas veloz que la actual.",
+      "por_que_leerlo": "Entiende un limite fisico que podria redefinir la velocidad de los chips del futuro.",
+      "seccion": "tecnologia",
+      "tags": [
+        "cuantica",
+        "electronica",
+        "fisica",
+        "chips"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 498,
+      "titulo": "Vacuna de gripe en dosis alta se asocia a 55% menos riesgo de Alzheimer",
+      "resumen": "Un estudio de UTHealth Houston con casi 200.000 adultos mayores de 65 anos encontro que quienes recibieron la vacuna de gripe de alta dosis tuvieron un riesgo casi 55% menor de desarrollar Alzheimer, frente a una reduccion del 40% asociada previamente a la dosis estandar.",
+      "por_que_leerlo": "Ofrece evidencia a gran escala de que una decision de salud simple podria reducir el riesgo de demencia.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "vacunas",
+        "salud",
+        "envejecimiento"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 499,
+      "titulo": "Logran correr un modelo de IA de 284.000 millones de parametros con solo 64GB de RAM y sin GPU",
+      "resumen": "Un proyecto llamado Llama-modchip permite ejecutar DeepSeek, un modelo de lenguaje de 284.000 millones de parametros, usando unicamente 64GB de memoria RAM y sin necesidad de tarjeta grafica. La tecnica abarata drasticamente el hardware necesario para correr modelos de ese tamano de forma local.",
+      "por_que_leerlo": "Si construyes herramientas con IA, esta tecnica puede abaratar enormemente el hardware que necesitas para correr modelos grandes localmente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "deepseek",
+        "hardware",
+        "modelos de lenguaje"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/synchopate/llama-modchip"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 500,
+      "titulo": "Anthropic compra capacidad de generación de energía por US$3.400 millones para sus centros de datos de IA",
+      "resumen": "Anthropic adquirió directamente capacidad de generación eléctrica para alimentar sus centros de datos de inteligencia artificial, en una operación valorada en US$3.400 millones. La compra confirma que los grandes laboratorios de IA están integrándose verticalmente en el sector energético ante la escasez de electricidad disponible para sus modelos.",
+      "por_que_leerlo": "Revela hacia dónde se mueve el dinero y el poder en la industria de la IA: quien controla la energía controla el cómputo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "anthropic",
+        "inteligencia artificial",
+        "energia",
+        "centros de datos"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-adquiere-capacidad-de-generacion-de-energia-para-centros-de-datos-de-ia-en-una-operacion-de-us-3-400-millones-4520085"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 501,
+      "titulo": "Emisiones de gas sugieren que Marte podria seguir volcanicamente activo",
+      "resumen": "Investigadores detectaron emisiones de gas misteriosas y fisuras volcanicas recientes que indicarian que aun hay magma caliente activo bajo la superficie marciana. El hallazgo sugiere posibles bolsones de calor y energia quimica capaces de sostener vida microbiana.",
+      "por_que_leerlo": "Cambia la idea de que Marte es un planeta geologicamente muerto y abre pistas nuevas en la busqueda de vida.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "vulcanismo",
+        "astrobiologia",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 502,
+      "titulo": "La forma irregular de un asteroide podria arruinar su desvio con una bomba nuclear",
+      "resumen": "Una nueva investigacion muestra que la efectividad de una explosion nuclear de rayos X para desviar un asteroide varia casi cinco veces segun el angulo de impacto, debido a la forma irregular del cuerpo celeste.",
+      "por_que_leerlo": "Revela un riesgo clave en los planes de defensa planetaria que dependen de armas nucleares.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "defensa planetaria",
+        "fisica nuclear"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 503,
+      "titulo": "Hallan evidencia directa de uso de cannabis psicoactivo hace 2.800 anos en Siberia",
+      "resumen": "En una tumba escita de 2.800 anos de antiguedad se hallaron cerca de 1.000 semillas de cannabis junto con evidencia quimica que confirma su uso intoxicante, el registro datado mas antiguo de este tipo encontrado junto a rituales funerarios y sacrificios de animales.",
+      "por_que_leerlo": "Ofrece la prueba directa mas antigua del consumo humano de sustancias psicoactivas.",
+      "seccion": "ciencia",
+      "tags": [
+        "arqueologia",
+        "cannabis",
+        "historia",
+        "siberia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 504,
+      "titulo": "Descartan a los agujeros negros primordiales 'descomunales' como fuente de materia oscura",
+      "resumen": "Los agujeros negros primordiales, objetos hipoteticos que se habrian formado directamente de materia densa en el universo temprano, fueron propuestos como posible explicacion de la materia oscura. Nuevas pruebas descartan que variantes extremadamente masivas puedan cumplir ese papel.",
+      "por_que_leerlo": "Ayuda a entender que teorias sobre la materia oscura siguen vigentes y cuales ya quedaron descartadas.",
+      "seccion": "ciencia",
+      "tags": [
+        "materia oscura",
+        "agujeros negros",
+        "cosmologia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 505,
+      "titulo": "Barcos merodean cerca de cables submarinos tras amenazas de Iran a EE.UU.",
+      "resumen": "Se ha reportado la presencia de barcos merodeando cerca de cables de comunicaciones submarinos despues de que Iran advirtiera que atacaria esa infraestructura si Estados Unidos intensifica sus ataques militares.",
+      "por_que_leerlo": "Expone un riesgo real para la infraestructura de internet global en medio de tensiones geopoliticas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "cables submarinos",
+        "geopolitica",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-06",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 506,
+      "titulo": "Discord demuestra por que las apps de Windows deberian abandonar Electron",
+      "resumen": "La nueva version nativa de Discord para Windows 11 elimina la pantalla de carga y consume un 70% menos de RAM que la version basada en Electron, incluso con dos cuentas abiertas simultaneamente. El caso reaviva el debate sobre si las aplicaciones de escritorio deberian dejar de depender de frameworks basados en navegador web.",
+      "por_que_leerlo": "Si desarrollas software, es un dato concreto sobre cuanto rendimiento se pierde usando Electron frente a apps nativas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "software",
+        "ingenieria",
+        "windows",
+        "rendimiento"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 507,
+      "titulo": "Netflix anuncia inversión de US$340 millones en Colombia para impulsar la industria audiovisual",
+      "resumen": "Netflix anunció desde Madrid una inversión de US$340 millones en Colombia que servirá para apalancar Bogotá Content City, un espacio dedicado a desarrollar la producción audiovisual local. La apuesta busca consolidar al país como polo de contenidos para la región.",
+      "por_que_leerlo": "Es una señal concreta de que capital extranjero sigue apostando por Colombia como plataforma de producción de contenidos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "netflix",
+        "colombia",
+        "inversion extranjera",
+        "audiovisual"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/netflix-anuncia-inversion-de-us-340-millones-en-colombia-desde-madrid-4520077"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
+      "id": 508,
+      "titulo": "Las pérdidas por desastres naturales le cuestan cada vez más caro a las aseguradoras globales",
+      "resumen": "El año 2011 se mantiene como el más costoso de la serie histórica, con pérdidas económicas totales de US$740.000 millones derivadas de catástrofes naturales. Los datos muestran una tendencia sostenida de aumento en los costos que enfrenta la industria aseguradora a nivel mundial.",
+      "por_que_leerlo": "Ofrece cifras concretas para entender un riesgo financiero creciente que afecta primas de seguros e inversiones a largo plazo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "seguros",
+        "desastres naturales",
+        "riesgo financiero",
+        "datos"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/desastres-naturales-pasan-una-factura-cada-vez-mas-alta-a-las-aseguradoras-globales-4519964"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-08 16:59",
+      "auto_generated": true
+    },
+    {
       "id": 485,
       "titulo": "Función 'No preguntar de nuevo' de Claude Code filtró contraseñas en 1.122 repositorios de GitHub",
       "resumen": "Investigadores de seguridad hallaron que la opción 'Don't Ask Again' del agente de codificación Claude Code permitió que credenciales y contraseñas quedaran expuestas en 1.122 archivos públicos de GitHub. El hallazgo generó gran repercusión en Hacker News (177 puntos, 125 comentarios) por evidenciar el riesgo de automatizar permisos en agentes de IA que escriben código.",
