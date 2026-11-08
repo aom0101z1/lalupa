@@ -221,6 +221,287 @@
   ],
   "casos": [
     {
+      "id": 2798,
+      "titulo": "Balance de seguridad: bombardeos y ofensiva urbana del nuevo gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-11-07",
+      "descripcion": "Un balance de los primeros meses del gobierno De la Espriella reporta seis operaciones aéreas y acciones contra más de 40 estructuras criminales, en el marco de una estrategia de cooperación con Estados Unidos y un giro hacia bombardeos y ofensivas urbanas contra grupos armados.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/bombardeos-ofensiva-urbana-y-cooperacion-con-ee-uu-marcan-el-giro-en-seguridad-3599307",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2797,
+      "titulo": "IVA a producto en Ley de Rescate podría aumentar ganancias del contrabando",
+      "categoria": "economia",
+      "fecha": "2026-11-07",
+      "descripcion": "Un análisis advierte que el incremento del IVA a un producto específico contemplado en la Ley de Rescate del Gobierno De la Espriella podría disminuir el recaudo fiscal hasta en un 75%, al estimular el contrabando y afectar la formalidad del mercado.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/iva-a-este-producto-en-ley-de-rescate-aumentaria-millonarias-ganancias-del-contrabando/",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2796,
+      "titulo": "Japón destina US$2 millones para comunidades afectadas por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-07",
+      "descripcion": "El Gobierno de Japón anunció una donación de US$2 millones para atender a las comunidades afectadas por el terremoto en Colombia. Los recursos serán ejecutados por tres organismos internacionales con intervenciones específicas en las zonas damnificadas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/japon-destina-us2-millones-para-atender-a-las-comunidades-afectadas-por-el-terremoto-en-colombia/",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Japón / Organismos internacionales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2795,
+      "titulo": "Ley de Rescate enfrenta plazo de seis semanas para su aprobación sin extraordinarias",
+      "categoria": "economia",
+      "fecha": "2026-11-07",
+      "descripcion": "El Gobierno de De la Espriella tiene un plazo de seis semanas para lograr la aprobación de la Ley de Rescate en el Congreso sin recurrir a sesiones extraordinarias. El reto principal será mantener las mayorías, dado que medidas como el ajuste al IVA han generado resistencia incluso entre partidos afines al Gobierno.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ley-de-rescate-tiene-seis-semanas-para-pasar-el-congreso-sin-sesiones-extraordinarias-4519482",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2794,
+      "titulo": "Senador busca revocar permiso de salida del país a Gustavo Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-08",
+      "descripcion": "El senador Germán Rodríguez anunció que buscará revocar el permiso otorgado a Gustavo Petro para salir del país, en medio de las múltiples investigaciones y denuncias que enfrenta el expresidente ante la Comisión de Acusación y la Fiscalía.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/senador-german-rodriguez-buscara-revocar-el-permiso-de-gustavo-petro-para-salir-de-colombia-esta-es-la-razon/202611/",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Germán Rodríguez"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25"
+    },
+    {
+      "id": 2793,
+      "titulo": "Vicepresidente Restrepo destaca resultados de 90 días de gobierno en gira por España",
+      "categoria": "internacional",
+      "fecha": "2026-11-06",
+      "descripcion": "El vicepresidente José Manuel Restrepo realizó una gira por España en la que destacó los resultados de los primeros 90 días del gobierno De la Espriella y buscó atraer inversión extranjera hacia Colombia, en el marco de la Cumbre Iberoamericana en Madrid.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR2I4WFNQc0ZYV190RU9pX2E0RHhMejRmclBNVmFyU2lXckwwMlM2LXlPME9tbVZXZU5paG9wZTVZVUdDamdKdlNvblh3WU1xZzlVU1dmVDRyTHV5Ym90cFdEeEdLOGNubC1kMUFFNU9nNHh6NTk2UUk0bjNqVnFuc2thNXg2OUQ1TF96MmtBeHFEeHlibU9uOWRHZnB2Vk80YXpkSU1kSFdaemNrNmdURWlzQkRrSGR3S0NIaVUxbXlxZUt0a3Y2b0EydDNoT2lnMDJMM0wxaVRuMURLamE5aTI4aHB4WW5xZWo00gHwAUFVX3lxTFBDd24zLUpVaDVLVTYxTzA5NjVvOC1weEczVExXTHdzUnJsMWVfdmxCRW51OUlzcHZ3QnRKdTl5X2NoOHVXWGpXaXhtM0JTaVVOdHIyTEE2SUxjRWhLTk9xOHBoUlVwclY2NEladTRzamYyclIwdmhQVkZOSVVUTkdtQzIyUUpOLUpuU3lIV3NWTmhDTFNRNWZpd3RhY01hV2NBZDhUZmlZTC1oSDlhN1JRVVhpQ2d6UEgtVnkyQzNncE1KTjVCM1hRTUtBVU4wT3pXN3ZrNHFyYXBldVBFVzZXSVBfbFY2TENzUGtQbTRwMg?oc=5",
+          "fecha": "2026-11-06"
+        }
+      ],
+      "personas_involucradas": [
+        "José Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2792,
+      "titulo": "De la Espriella defiende al director del Dapre tras amenazas por denuncias de irregularidades en contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-07",
+      "descripcion": "El presidente Abelardo de la Espriella salió en defensa pública de Carlos Ríos, director del Dapre, tras recibir amenazas luego de denunciar irregularidades en contratos relacionados con mujeres durante el gobierno Petro, en el marco del escándalo de 'sexocontratos'.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/abelardo-sale-en-defensa-de-carlos-rios-tras-amenazas-en-su-contra/",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Carlos Ríos"
+      ],
+      "entidad": "Dapre",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25"
+    },
+    {
+      "id": 2791,
+      "titulo": "Captura de funcionario del DNI por espionaje a sistemas de la Fiscalía y la Unad",
+      "categoria": "seguridad",
+      "fecha": "2026-11-08",
+      "descripcion": "El Gaula Militar y el CTI de la Fiscalía capturaron el 7 de noviembre en Neiva a Carlos Andrés Oyola Tovar, ingeniero de sistemas de 36 años y funcionario activo de la Dirección Nacional de Inteligencia (DNI), señalado de ataques informáticos contra la Fiscalía y la Unad, y de extraer sin autorización una copia del Sistema de Información de Inteligencia y Contrainteligencia del Estado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/funcionario-activo-dni-hackear-sistema-de-inteligencia-del-estado-LF43318506",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Oyola Tovar"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI) / Fiscalía General de la Nación",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2790,
+      "titulo": "Megaoperativo en cárcel de Cómbita incauta celulares y armas por orden presidencial",
+      "categoria": "seguridad",
+      "fecha": "2026-11-08",
+      "descripcion": "Un megaoperativo ordenado por el presidente Abelardo de la Espriella en la cárcel de Cómbita permitió la incautación de cientos de celulares y armas, como parte de medidas de control carcelario del nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/incautan-cientos-de-celulares-y-armas-en-megaoperativo-ordenado-por-abelardo-de-la-espriella-en-carcel-de-combita/202657/",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "INPEC / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2789,
+      "titulo": "Deicy Jiménez publica video íntimo con Petro como prueba de presunto intercambio de favores por contratos",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-05",
+      "descripcion": "Deicy Jiménez, excontratista de 26 años que acusó al expresidente Gustavo Petro de intercambiar contratos públicos por favores sexuales, publicó un video de un encuentro íntimo entre ambos como respaldo a su denuncia. La Fiscalía y la Corte Suprema de Justicia investigan el caso.",
+      "evidencia": "Reportado por Www.abc.es",
+      "fuentes": [
+        {
+          "nombre": "Www.abc.es",
+          "url": "https://www.abc.es/internacional/mujer-senalo-petro-presunto-intercambio-favores-sexuales-20261105121326-nt.html",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jiménez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalía General de la Nación / Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25"
+    },
+    {
+      "id": 2788,
+      "titulo": "Presunta maniobra de la Fiscalía para reducir cargos a procesados de la Primera Línea en Bogotá",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-08",
+      "descripcion": "Testimonios en su mayoría anónimos señalan que directivas de la Fiscalía General, en junio de 2026, habrían transmitido una instrucción atribuida a la fiscal general Luz Adriana Camargo para reemplazar el cargo de terrorismo por el de asonada contra 11 integrantes de la Primera Línea capturados por ataques contra TransMilenio y bienes públicos. La Fiscalía no ha confirmado las afirmaciones.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/escandalo-en-la-fiscalia-presunta-maniobra-primera-linea-KF43317368",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25"
+    },
+    {
+      "id": 2787,
+      "titulo": "Nueva ley de sometimiento cierra vía de negociación política con grupos armados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-07",
+      "descripcion": "La administración de De la Espriella impulsó una ley que deja el sometimiento como única vía legal para los grupos ilegales, cerrando por al menos cuatro años la posibilidad de una negociación política y poniendo fin a la 'paz total' impulsada por el gobierno de Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/sometimiento-la-unica-via-que-deja-la-administracion-de-de-la-espriella-a-los-grupos-ilegales-3599276",
+          "fecha": "2026-11-07"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-08 04:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2786,
       "titulo": "Colombia y EE.UU. realizan entrenamiento militar conjunto 'Vanguardia del Sur 2027' en Tolemaida",
       "categoria": "internacional",
@@ -64974,8 +65255,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-07",
-    "total_casos": 2697,
+    "ultima_actualizacion": "2026-11-08",
+    "total_casos": 2709,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
