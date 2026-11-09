@@ -221,6 +221,404 @@
   ],
   "casos": [
     {
+      "id": 2842,
+      "titulo": "Gerente de Aerocafé usa plata pública para seguridad personal",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-09",
+      "descripcion": "Se cuestiona un gasto del gerente de Aerocafé destinado a su seguridad personal pagado con recursos públicos de la entidad, generando controversia sobre el manejo de dineros del aeropuerto.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/seguridad-personal-con-plata-publica-el-controvertido-gasto-del-gerente-de-aerocafe/202635/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aerocafe",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2841,
+      "titulo": "Ejército y DEA incautan más de una tonelada de estupefacientes de estructura de Iván Mordisco",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "Un operativo conjunto del Ejército Nacional y la DEA golpeó una estructura armada al servicio del cabecilla disidente Iván Mordisco, logrando la incautación de más de una tonelada de estupefacientes.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/ejercito-y-dea-dan-golpe-a-estructura-al-servicio-de-ivan-mordisco-se-encontro-mas-de-una-tonelada-de-estupefacientes/202628/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Ivan Mordisco"
+      ],
+      "entidad": "Ejercito Nacional / DEA",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2840,
+      "titulo": "De la Espriella evalúa avance en captura de 'Iván Mordisco' y 'Calarcá' tras 90 días de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "El presidente Abelardo de la Espriella había exigido a las Fuerzas Armadas y la Policía resultados concretos sobre 10 blancos de alto valor en sus primeros 90 días de gobierno, incluyendo a los cabecillas 'Iván Mordisco' y 'Calarcá'. El artículo hace seguimiento al estado de esa promesa de campaña convertida en meta de gestión de seguridad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-ivan-mordisco-calarca-KG43325395",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Iván Mordisco",
+        "Calarcá"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2839,
+      "titulo": "MinDefensa acusa a exministro Pedro Sánchez de 'turismo oficial' con dineros públicos",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-09",
+      "descripcion": "El ministro de Defensa, Jorge Mora, arremetió contra el exministro de Defensa del gobierno Petro, Pedro Sánchez, por presuntamente haber realizado un tour internacional financiado con recursos públicos bajo la figura de 'turismo oficial'. La denuncia se suma a los cuestionamientos sobre viajes al exterior con despilfarro durante la administración anterior.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/turismo-oficial-mindefensa-jorge-mora-arremetio-contra-exministro-pedro-sanchez-por-tour-internacional-con-dineros-publicos/202652/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Mora",
+        "Pedro Sánchez"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2838,
+      "titulo": "Fundación de la primera dama bajo investigación judicial por manejo de donaciones del terremoto",
+      "categoria": "control",
+      "fecha": "2026-11-09",
+      "descripcion": "Tres meses después del terremoto del 10 de agosto que dejó al menos 330 muertos y más de 30.000 viviendas destruidas, un juez ordenó a la fundación de la primera dama Ana Lucía Pineda, esposa del presidente Abelardo de la Espriella, detallar el uso de los aportes privados recibidos para las víctimas. La oposición y medios locales denuncian que las cifras no concuerdan y que la ayuda humanitaria no está llegando a las zonas más afectadas.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-qu%C3%A9-pas%C3%B3-con-las-donaciones-del-terremoto-en-colombia-la-fundaci%C3%B3n-de-la-primera-dama-bajo-la-lupa",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda"
+      ],
+      "entidad": "Fundación de la primera dama / Rama Judicial",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2837,
+      "titulo": "Gobierno lleva 132 megaproyectos de infraestructura a Milagro Week en Nueva York",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "El gobierno de Abelardo de la Espriella presenta 132 proyectos de trenes, carreteras y aeropuertos en la Milagro Week realizada en Nueva York, buscando atraer inversión extranjera para financiar megaproyectos de infraestructura en Colombia.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/estos-son-los-megaproyectos-de-trenes-carreteras-y-aeropuertos-que-colombia-busca-financiar-en-milagro-week-en-ee-uu/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Departamento Nacional de Planeación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2836,
+      "titulo": "Exgerente de hospital en La Guajira auditado por irregularidades queda bien ubicado en nuevo cargo",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-08",
+      "descripcion": "Una auditoría de la Superintendencia de Salud al Hospital de Nazareth, gerenciado por Calmides González Prieto durante cuatro años, encontró irregularidades, pero el exgerente terminó ubicado en un equipo básico de salud del Hospital San José de Maicao durante el gobierno Petro, en lo que se señala como un caso de protección política en La Guajira.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-gustavo-petro-gerente-hospital-la-guajira-salud-KG43326158",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Calmides González Prieto"
+      ],
+      "entidad": "Hospital de Nazareth / Superintendencia de Salud",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2835,
+      "titulo": "Informe de la DNI revela casa clandestina y GPS en vehículos de expresidentes durante el gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-09",
+      "descripcion": "Un informe de la Dirección Nacional de Inteligencia (DNI) revela que durante el gobierno de Gustavo Petro se instalaron micrófonos y dispositivos GPS en vehículos asignados a esquemas de seguridad de expresidentes y exvicepresidentes, y que operó una casa de inteligencia clandestina en Bogotá, además de presuntas maniobras con un hacker para interferir en las elecciones presidenciales de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/una-casa-clandestina-y-hasta-gps-en-vehiculos-de-expresidentes-asi-habria-sido-el-plan-de-la-dni-en-la-era-petro-para-intervenir-en-elecciones-EH43332170",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2834,
+      "titulo": "Nuevo golpe contra el narcotráfico en Cartagena y Caldas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "El gobierno de Abelardo de la Espriella reporta un nuevo operativo contra estructuras de narcotráfico con resultados en Cartagena y Caldas, como parte de la ofensiva de seguridad de los primeros cien días de gobierno.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOU1uWjMydnk5VEd0VzVldmFLcGFxU05ab0lHdUpzbDlyVks4WmZvek92LURkSUZYeExPdDdkdDJZVEpRZ2pVWTRJSmNadUNYTVNQVDhSVC1wbTdiM0pQZ19FemZUMlh2RFhQbzBLVUZYenFiZXRwd1dERk9TV3NDVEROZGFpVGV3YkNPX29aY0M3VFRKd0hhSlZOOVpmcG03VnN4Qmo1TlBtTGxjUHdWTkh4Z9IBswFBVV95cUxQRGprcWs1cGdXQ1RSMFl1M2tRQV9CNklwdXlETm1NVmJOLTE3UW1EalFNd0FyWGRCV20tX3Z3SDhyTWdlUGdqWmZkUmxpLXpzamZGeUlheHRjdEZwLWZrX1dqbGctOWp5ZTRFRFJMV24ycnA1ZHhNNHIzV2hRMlZZODVfMHVlSV91XzUxOEpWVXlTNUd4QWQ3Z3FROHpmMTNjeVN1LTluWDN4UjlsWmYwZHJFZw?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2833,
+      "titulo": "Nuevo gerente de la Imprenta Nacional designado por el Gobierno",
+      "categoria": "gabinete",
+      "fecha": "2026-11-09",
+      "descripcion": "El Gobierno de De la Espriella designó a Hitler Rousseau Chaverra, quien se desempeñaba como secretario general del Ministerio del Interior bajo el exministro Rodrigo Lara Restrepo, como nuevo gerente de la Imprenta Nacional.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/imprenta-nacional-tiene-nuevo-gerente-gobierno-designo-a-hitler-rousseau-chaverra-quien-viene-de-ser-secretario-general-del-ministerio-del-interior-3599528",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Hitler Rousseau Chaverra",
+        "Rodrigo Lara Restrepo"
+      ],
+      "entidad": "Imprenta Nacional / Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2832,
+      "titulo": "Veedurías piden esclarecer crisis de recursos del Fomag",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-09",
+      "descripcion": "Veedurías ciudadanas solicitaron esclarecer la crisis financiera del Fondo de Prestaciones Sociales del Magisterio (Fomag), pidiendo revisar contratos, traslados presupuestales y decisiones tomadas entre 2023 y 2026, periodo que corresponde al gobierno Petro.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/veedurias-piden-esclarecer-crisis-del-fomag-y-el-manejo-de-los-recursos-para-la-salud-de-los-docentes-en-colombia-505966",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fomag / Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2831,
+      "titulo": "Congreso exige rendición de cuentas sobre plan de respuesta al terremoto",
+      "categoria": "control",
+      "fecha": "2026-11-08",
+      "descripcion": "Al cumplirse 90 días del sismo, la senadora Norma Hurtado Sánchez, coordinadora de la Comisión Bicameral de Seguimiento a la Atención del Terremoto, urgió al Gobierno a presentar un corte de cuentas detallado sobre la ejecución del plan de respuesta y atención a damnificados.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/terremoto-congreso-urge-corte-de-cuentas-sobre-plan-de-respuesta-gubernamental",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Norma Hurtado Sánchez"
+      ],
+      "entidad": "Senado de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2830,
+      "titulo": "Hacker de la DNI habría gestionado títulos falsos en la UNAD",
+      "categoria": "mentiras",
+      "fecha": "2026-11-09",
+      "descripcion": "Según Semana, Carlos Andrés Oyola, el ingeniero vinculado a la DNI y señalado de espionaje durante el gobierno Petro, habría gestionado títulos académicos falsos a través de la Universidad Nacional Abierta y a Distancia (UNAD).",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/hacker-del-gobierno-petro-habria-gestionado-titulos-falsos-en-la-unad/202609/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Oyola"
+      ],
+      "entidad": "UNAD / DNI",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2829,
+      "titulo": "Fuerza Pública reporta más de 3.000 capturas y 1.975 explosivos incautados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "En lo que va del gobierno de De la Espriella, operaciones contra grupos armados, narcotráfico y minería ilegal dejaron más de 3.000 capturas, 1.975 artefactos explosivos incautados, 209 capturas en operativos específicos y más de 106 toneladas de cocaína decomisadas, según balance de la Fuerza Pública.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mas-de-3-000-capturas-y-1-975-artefactos-explosivos-incautados-cifras-de-la-fuerza-publica-en-lo-que-va-del-gobierno-de-de-la-espriella-3599525",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2828,
+      "titulo": "Gobierno Petro habría protegido a hacker de la DNI con orden de captura",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-09",
+      "descripcion": "El ingeniero Carlos Andrés Oyola Tovar, señalado de ser el hacker que habría intervenido sistemas de inteligencia y buscado afectar elecciones, permaneció vinculado a la DNI durante meses pese a tener una orden de captura vigente de la Fiscalía, según reconstrucción de al menos cinco episodios de protección institucional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/carlos-oyola-presunto-hacker-dni-orden-captura-gobierno-petro-FH43338962",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Oyola"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2827,
+      "titulo": "MinDefensa acusa a gobierno Petro de dejar escudo antidrones sin financiación",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-09",
+      "descripcion": "El ministro de Defensa, general en retiro Jorge Mora, afirmó que el gobierno Petro anunció una inversión de 6,2 billones de pesos para el Escudo Nacional Antidrones, pero la administración entrante encontró el proyecto sin estructura técnica consolidada ni financiación real.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mindefensa-cuestiona-escudo-antidrones-gobierno-petro-sin-financiacion-FA43340603",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Mora",
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
+      "id": 2826,
+      "titulo": "Contraloría revisa contratos de la DNI por $20.783 millones",
+      "categoria": "contratos",
+      "fecha": "2026-11-09",
+      "descripcion": "La Contraloría General, bajo el contralor Jorge Eliécer Laverde, ordenó una revisión prioritaria de cinco contratos de la Dirección Nacional de Inteligencia (DNI) por cerca de $20.783 millones, tras denuncias de fallas técnicas, incumplimientos, deficiencias de calidad y posibles sobrecostos en la adquisición de equipos durante el gobierno Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contraloria-revisara-contratos-de-la-dni-de-petro-por-20783-millones-tras-denuncias-por-operaciones-clandestinas-FH43332733",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Eliécer Laverde"
+      ],
+      "entidad": "Contraloría General de la República / DNI",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 15:11"
+    },
+    {
       "id": 2825,
       "titulo": "Atentado contra militares en Santa Rosa del Sur deja heridos trasladados a Bucaramanga",
       "categoria": "seguridad",
@@ -65872,7 +66270,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-09",
-    "total_casos": 2736,
+    "total_casos": 2753,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
