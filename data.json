@@ -221,6 +221,230 @@
   ],
   "casos": [
     {
+      "id": 2825,
+      "titulo": "Atentado contra militares en Santa Rosa del Sur deja heridos trasladados a Bucaramanga",
+      "categoria": "seguridad",
+      "fecha": "2026-11-08",
+      "descripcion": "Un atentado armado en el municipio de Santa Rosa del Sur, Sur de Bolivar, dejo militares heridos que debieron ser evacuados mediante procedimiento medico hacia Bucaramanga, con traslados adicionales a centros asistenciales en Barrancabermeja y a instalaciones de la Segunda Division del Ejercito Nacional.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/trasladan-militares-heridos-en-atentado-en-santa-rosa-del-sur",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2824,
+      "titulo": "Expulsión de 33 extranjeros por alterar el orden en Barranquilla y Cartagena",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "El gobierno nacional anunció la expulsión de 33 ciudadanos extranjeros señalados de alterar el orden público en Barranquilla y Cartagena, en el marco de operativos de control migratorio y seguridad impulsados por la administración De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/anuncian-la-expulsion-de-33-extranjeros-por-alterar-el-orden-en-barranquilla-y-cartagena/202647/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Migración Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2823,
+      "titulo": "Gobierno fortalece sistemas antidrones para enfrentar a grupos armados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "Fuentes oficiales informaron que el Gobierno colombiano trabaja en el fortalecimiento de sistemas antidrones y en el uso de este tipo de aeronaves para enfrentar a grupos armados ilegales, en respuesta a la creciente modalidad de ataques con drones cargados de explosivos registrada en varias regiones del pais.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/el-gobierno-colombiano-trabaja-para-usar-drones-en-enfrentamientos-con-los-grupos-armados/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2822,
+      "titulo": "Procuraduria investiga fallas en radares de aviacion y cita a director de Aerocivil",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-08",
+      "descripcion": "La Procuraduria General de la Nacion reporto que ocho de catorce radares del sistema de vigilancia aerea del pais estan fuera de servicio y cito al director de la Aerocivil para que explique la situacion, en medio de cuestionamientos sobre el mantenimiento y control del espacio aereo colombiano.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/aviacion-paga-los-platos-rotos-de-un-profundo-lio-de-radares-quien-esta-viendo-los-aviones-505840",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aerocivil / Procuraduria General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40"
+    },
+    {
+      "id": 2821,
+      "titulo": "Intervencion revela faltante de recursos del Ministerio de Salud en Hospital de San Andres",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-08",
+      "descripcion": "Una revision financiera de la agente interventora del Hospital Departamental de San Andres constato que los dineros transferidos por el Ministerio de Salud para los Equipos Basicos no se encuentran en las cuentas institucionales, lo que impide cubrir pagos atrasados a trabajadores y proveedores de salud en el departamento.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/intervencion-del-hospital-de-san-andres-alerta-por-falta-de-recursos",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Hospital Departamental de San Andres / Ministerio de Salud",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40"
+    },
+    {
+      "id": 2820,
+      "titulo": "Proyecto de reforma tributaria podria modificar limites de la regla fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-08",
+      "descripcion": "El proyecto de Ley de Rescate Economico que tramita el Ministerio de Hacienda plantea alternativas que podrian modificar los limites de la regla fiscal, en medio de senales de alarma sobre el nivel de deuda publica del pais.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/proyecto-de-reforma-tributaria-modificara-limites-de-la-regla-fiscal",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2819,
+      "titulo": "Ejercito desactiva carga explosiva en Villa del Rosario tras atentados con drones en el occidente del pais",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "El 8 de noviembre de 2026 un ataque con drones cargados de explosivos golpeo el peaje de Villa Rica, Cauca, cerca de Cali. El mismo dia, en Villa del Rosario, Norte de Santander, el Ejercito desactivo una carga con centenares de kilos de explosivos que seria detonada contra tropas, evitando un atentado de mayor magnitud.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ataque-peaje-villa-rica-cauca-y-desactivan-una-gran-carga-explosiva-en-villa-del-rosario-norte-de-santander-MH43331085",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2818,
+      "titulo": "De la Espriella ordena despliegue militar en Cauca tras atentado con drones en peaje de Villa Rica",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "El presidente Abelardo de la Espriella ordeno un despliegue militar inmediato en el departamento del Cauca tras un ataque con drones cargados de explosivos contra el peaje de Villa Rica, cerca de Cali, ocurrido el 8 de noviembre de 2026. La medida busca reforzar la seguridad en la via Panamericana tras el atentado atribuido a grupos armados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/de-la-espriella-ordena-despliegue-militar-inmediato-en-el-cauca-tras-atentado-con-drones-en-el-peaje-de-villa-rica/202649/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2817,
+      "titulo": "Colapso parcial del Hotel La Luna en Cali, afectado por el terremoto del 10 de agosto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-09",
+      "descripcion": "Tres meses despues del terremoto del 10 de agosto, el Hotel La Luna en Cali sufrio un colapso parcial de su estructura, generando susto entre residentes y transeuntes. El inmueble habia resultado afectado por el sismo de magnitud 7,4 y el hecho reaviva preocupaciones sobre la evaluacion estructural de edificaciones danadas y la seguridad de la poblacion en zonas afectadas de la ciudad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cali/articulo/susto-en-cali-por-colapso-parcial-del-hotel-la-luna-afectado-por-el-terremoto-del-10-de-agosto/202636/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Cali / Defensa Civil",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
+      "id": 2816,
+      "titulo": "Gobierno revela administracion de cuentas del Fondo Milagro a tres meses del terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-09",
+      "descripcion": "A tres meses del terremoto del 10 de agosto, el Gobierno Nacional hizo rendicion de cuentas del Fondo Milagro, revelando quien administra los billones de pesos destinados a los damnificados. Se aclaro que las donaciones del sector privado superan el billon de pesos y son administradas de forma independiente a los recursos publicos. Las prioridades declaradas son vivienda, apoyos economicos y demolicion de estructuras afectadas.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0RrelFUdFdFeDZwNUdBTHdVbHo2LWtvai0tVG1NRWk3cVo4SjA2RlVCNmM1cEVnX0lBODM4aXg3M0VXa2d4a1h2aUZiUF9DUnRuVFBNcmJaS0ktcFpzS090NFc0eWl0MjVzTjgzdzY4eVZTWEZZT2ZPaVJucmdtQXAyMlhuRkI2V29mc3hvS2swWFhYaFE3Z00xR21LYWN3NkdRVFRWWDFMRVpaZlJ4RE04QkVDQlpadVhmMFNtMjBjSk9QWF9JYW10WjY0Y3FIemdkQzItVTV3eVFSLVdHYlI4V1Q1VTc5ZWFRX9IBhwJBVV95cUxQZjBnbVozUGxWb0xGRE9IMjgzMjlZVDQ4ZlF4WDZXcFB2N2NfUV9MUDVsX1hVeXl3V2FDdFhUZm1mNGg1a2ZtOWZaTkFlR0tUU0o0SVBwU20ydk9JOVBTVlF5UVhhV25JS3JhRnNKNGd2X1VFX3NkWkk4VFV3b3VCeXJudnBuSkEzTDNTXzNvT0F1T2JnRHJfSFJoT1BMVG4zQ0s2MENNOE80Yi1mQ2pTUTVYeS01bUE2QjJNeXpfR2drZ1ZuUHIyRzRFcmxNMEJoR2g0eVRhTkpkdU1nUUhvek80SnRrWlh5dTItTnJFZl92QllsZ1FSUUg1eVVjUDZPSVUtWHhabw?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-09 04:40",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 2815,
       "titulo": "Petrolera estatal de India prevé aumentar inversión en Colombia en 2027",
       "categoria": "internacional",
@@ -65647,8 +65871,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-08",
-    "total_casos": 2726,
+    "ultima_actualizacion": "2026-11-09",
+    "total_casos": 2736,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
