@@ -23,9 +23,284 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-08"
+    "ultima_actualizacion": "2026-11-09"
   },
   "lecturas": [
+    {
+      "id": 509,
+      "titulo": "Terapia celular elimina tumores cerebrales mortales en el 100% de los ratones tratados",
+      "resumen": "Cientificos de UC San Francisco desarrollaron celulas CAR-T modificadas (B-SYNC) que permanecen inactivas hasta llegar al cerebro, donde atacan el glioma difuso de linea media, un cancer infantil casi siempre mortal en un ano. La terapia elimino por completo los tumores en dos modelos distintos de raton.",
+      "por_que_leerlo": "Muestra como la ingenieria celular de precision podria convertir un cancer infantil letal en una enfermedad tratable.",
+      "seccion": "ciencia",
+      "tags": [
+        "cancer",
+        "car-t",
+        "medicina",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 510,
+      "titulo": "Un hallazgo fosil en Colombia revela un patron desconocido de la evolucion marina",
+      "resumen": "Investigadores descubrieron en Colombia un ecosistema marino antiguo extraordinariamente diverso, con reptiles gigantes, tiburones y otras especies que coexistieron justo cuando grupos evolutivos mas antiguos se extinguian y surgian otros nuevos. Los autores llaman a este patron inedito 'inflexion biotica'.",
+      "por_que_leerlo": "Un yacimiento colombiano esta reescribiendo como entendemos los grandes cambios evolutivos de la historia de la Tierra.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleontologia",
+        "colombia",
+        "evolucion",
+        "fosiles"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 511,
+      "titulo": "Investigadores alemanes resuelven el misterio de los apagones sincronizados en redes electricas",
+      "resumen": "Durante anos, caidas de frecuencia golpearon de forma simultanea redes electricas en distintos continentes sin que nadie supiera por que. Un equipo de investigadores en Alemania identifico la causa raiz de estas perturbaciones coordinadas, un hallazgo clave para prevenir fallos masivos de suministro.",
+      "por_que_leerlo": "Explica con evidencia tecnica un fenomeno que amenazaba la estabilidad energetica mundial y como terminaron resolviendolo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia",
+        "redes electricas",
+        "ingenieria",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 512,
+      "titulo": "Goldman Sachs retira la herramienta de IA Claude Code a banqueros y traders",
+      "resumen": "El banco de inversion dejo de usar Claude Code entre sus empleados financieros tras evaluar su desempeno real en tareas de trading y banca, en un giro frente a la ola de adopcion de IA generativa en Wall Street. El caso expone los limites practicos de estas herramientas en entornos regulados y de alto riesgo.",
+      "por_que_leerlo": "Da pistas concretas sobre donde si funciona y donde no la IA generativa en trabajos financieros serios.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "finanzas",
+        "wall street",
+        "adopcion ia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 513,
+      "titulo": "El fin del racionamiento de azucar en Reino Unido revela su vinculo con la demencia decadas despues",
+      "resumen": "Un estudio aprovecho el experimento natural de 1953, cuando el consumo diario de azucar en Reino Unido se duplico de 41 a mas de 80 gramos tras terminar el racionamiento de la guerra, para medir su efecto de largo plazo en el cerebro. Los datos muestran que el exceso de azucar en la infancia se asocia a mayor riesgo de demencia decadas mas tarde.",
+      "por_que_leerlo": "Ofrece evidencia concreta de un riesgo de salud silencioso que arranca en la dieta temprana.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "demencia",
+        "nutricion",
+        "estudio cientifico"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/medicina-y-salud/sabiamos-que-exceso-azucar-era-malo-para-engordar-ahora-tambien-puede-dar-demencia-muchos-anos-te-des-cuenta"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 514,
+      "titulo": "Como el mensaje correcto puede aumentar lo que la gente ahorra para su pension",
+      "resumen": "Un estudio evaluo si los recordatorios de ahorro para el retiro funcionan mejor cuando enfatizan lo que la persona pierde por no ahorrar o lo que gana si lo hace, buscando la formula mas efectiva para impulsar el ahorro privado. El trabajo responde a un debate publico creciente sobre como mejorar las tasas de ahorro para la jubilacion.",
+      "por_que_leerlo": "Ofrece evidencia util para disenar mejores recordatorios financieros, aplicable a fintechs y apps de ahorro.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "finanzas personales",
+        "ahorro",
+        "pension",
+        "comportamiento"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-personalized-boost.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 515,
+      "titulo": "Nueva tecnica de cristalizacion reduce defectos en perovskitas para celdas solares y LEDs",
+      "resumen": "Un equipo liderado por la Universidad Sungkyunkwan (Corea), en colaboracion con KRICT, UC San Diego y Princeton, desarrollo una pelicula semiconductora de perovskita de nueva generacion con defectos drasticamente reducidos mediante un metodo de crecimiento de cristal asistido por liquido. El avance apunta a celdas solares y LEDs mas eficientes.",
+      "por_que_leerlo": "Es un paso concreto hacia energia solar mas eficiente y barata, clave para quien sigue el negocio de la energia renovable.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia solar",
+        "perovskita",
+        "materiales",
+        "leds"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 516,
+      "titulo": "Logran el pulso de rayos X mas corto y potente jamas concentrado en un punto diminuto",
+      "resumen": "Un equipo de investigadores genero destellos de rayos X de apenas 300 attosegundos, concentrando una potencia enorme en un punto extremadamente pequeno, un record para este tipo de tecnologia. El avance podria permitir observar electrones en accion y controlar procesos quimicos ultrarrapidos.",
+      "por_que_leerlo": "Abre la puerta a ver y eventualmente controlar reacciones quimicas en tiempo real a escala de electrones.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica",
+        "rayos x",
+        "attosegundos",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-07",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 517,
+      "titulo": "Descubren en las ecuaciones de Einstein un fenomeno donde la gravedad se rompe y libera energia",
+      "resumen": "Investigadores de Columbia University y la Universidad Adolfo Ibanez (Chile) identificaron un proceso teorico llamado 'reconexion gravitacional', en el que estructuras dentro de campos gravitacionales pueden romperse y reconectarse, transfiriendo energia, mas de un siglo despues de que Einstein formulara su teoria de la relatividad general.",
+      "por_que_leerlo": "Revela un comportamiento inesperado dentro de una teoria que se creia completamente entendida desde hace mas de 100 anos.",
+      "seccion": "ciencia",
+      "tags": [
+        "relatividad general",
+        "fisica teorica",
+        "gravedad",
+        "einstein"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 518,
+      "titulo": "Como un rascacielos de Londres concentro el sol hasta derretir coches aparcados en la calle",
+      "resumen": "En 2013 el edificio Walkie-Talkie de Londres comenzo a reflejar y concentrar la luz solar en un punto de la calle, deformando autos estacionados y danando negocios cercanos. El caso se volvio un ejemplo clasico de como un error de diseno arquitectonico genera un fenomeno fisico imprevisto.",
+      "por_que_leerlo": "Una leccion de ingenieria sobre como la forma de un edificio puede convertirse en un espejo ardiente sin que nadie lo planeara.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ingenieria",
+        "arquitectura",
+        "fisica",
+        "diseno"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/este-edificio-londres-parecia-normal-que-coches-aparcados-enfrente-empezaron-a-derretirse"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 519,
+      "titulo": "Espana ya genera 56% de su electricidad con renovables, pero la AIE senala su gran pendiente",
+      "resumen": "Segun el informe Spain 2026 de la Agencia Internacional de la Energia, Espana avanzo con fuerza en renovables y descarbonizacion, pero el organismo identifica un problema estructural del sistema energetico que el pais aun no resuelve.",
+      "por_que_leerlo": "Muestra con datos oficiales hasta donde llego la transicion energetica espanola y cual es el cuello de botella que falta destrabar.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia renovable",
+        "transicion energetica",
+        "españa",
+        "politica energetica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/espana-genera-56-su-electricidad-renovables-aie-senala-gran-problema-que-todavia-no-ha-resuelto"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
+    {
+      "id": 520,
+      "titulo": "La extraña supervivencia de Pinterest: por qué sigue siendo rentable pese a usuarios pasivos",
+      "resumen": "Pinterest mantiene ingresos sólidos aunque buena parte de su tráfico llega desde buscadores y nunca se convierte en usuarios activos reconocidos; la gente guarda imágenes y se olvida de la plataforma. El artículo explica cómo este patrón de uso esporádico sostiene un modelo de negocio distinto al de otras redes sociales.",
+      "por_que_leerlo": "Explica cómo una plataforma con usuarios 'fantasma' logra monetizar de forma sostenible, una lección útil para cualquier producto digital.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "modelo de negocio",
+        "redes sociales",
+        "monetizacion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/extrana-supervivencia-pinterest-quien-demonios-sigue-utilizandolo-que-sigue-ganando-dinero"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-08",
+      "added_date": "2026-11-09 02:24",
+      "auto_generated": true
+    },
     {
       "id": 497,
       "titulo": "Descubren un límite cuántico que podría hacer la electrónica 100.000 veces más rápida",
