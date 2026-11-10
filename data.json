@@ -221,6 +221,622 @@
   ],
   "casos": [
     {
+      "id": 2916,
+      "titulo": "Viaje de funcionarios de la DNI a Rusia para entrenamiento en inteligencia",
+      "categoria": "diplomaticos",
+      "fecha": "2026-11-10",
+      "descripcion": "Tras la captura de un funcionario de la Dirección Nacional de Inteligencia (DNI), se conocieron nuevos detalles sobre un presunto viaje de funcionarios de la entidad a Moscú, Rusia, para recibir entrenamiento en labores de inteligencia, en medio del escándalo que ya involucra ciberataques, espionaje y una casa clandestina usada durante el gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/escandalo-en-la-dni-saca-a-la-luz-nuevos-detalles-del-viaje-de-que-habrian-hecho-funcionarios-a-rusia-para-recibir-entrenamiento-en-inteligencia-3599981",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53"
+    },
+    {
+      "id": 2915,
+      "titulo": "Ejército desarticula red 'Los Chinos' en Cauca ligada a disidencias de Iván Mordisco",
+      "categoria": "seguridad",
+      "fecha": "2026-11-10",
+      "descripcion": "El Ejército Nacional desarticuló la red criminal 'Los Chinos', señalada de secuestros y extorsiones al servicio de las disidencias de 'Iván Mordisco' en el Cauca. La organización estaría vinculada a la estructura 'Carlos Patiño' y sería responsable del hurto de vehículos de alta gama.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-desarticula-a-los-chinos-red-senalada-de-secuestros-y-extorsiones-al-servicio-de-las-disidencias-de-ivan-mordisco-en-cauca-3599999",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejército Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2914,
+      "titulo": "Baja de alias Maryi, enfermera de la Segunda Marquetalia, en operativo en Putumayo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-10",
+      "descripcion": "El presidente Abelardo De la Espriella anunció la baja de alias 'Maryi', señalada enfermera de la Segunda Marquetalia, en un operativo militar realizado en Puerto Guzmán, Putumayo, donde tropas se enfrentaron con los 'Comandos de Frontera'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-baja-de-alias-maryi-senalada-enfermera-de-la-segunda-marquetalia-en-operativo-en-putumayo-esto-se-sabe-3599900",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "alias Maryi"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2913,
+      "titulo": "Hermano del presidente del Partido Conservador es nombrado embajador en Italia",
+      "categoria": "gabinete",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno de De la Espriella designo a Alberto Rafael Cepeda, hermano del expresidente del Partido Conservador Efrain Cepeda, como embajador de Colombia en Italia. El nombramiento se venia anunciando desde hace un mes.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/hermano-del-presidente-del-conservador-sera-embajador-en-italia/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Alberto Rafael Cepeda",
+        "Efrain Cepeda"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancilleria) / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2912,
+      "titulo": "Arrancan obras en los 21 frentes de la via Buga-Buenaventura",
+      "categoria": "obras",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno anuncio el inicio de obras en los 21 frentes de la via Buga-Buenaventura, tras resolver problemas de licencias y predios que impedian avanzar en nueve unidades funcionales, y establecio una fecha estimada para la finalizacion del corredor vial.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/via-buga-buenaventura-arrancan-obras-en-los-21-frentes-y-ya-hay-fecha-para-terminar-el-corredor-506089",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Invias",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2911,
+      "titulo": "Partido Liberal fija condiciones a reforma tributaria de De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El Partido Liberal planteo lineas rojas a la reforma tributaria del Gobierno De la Espriella, pidiendo aplazar las rebajas de impuestos a empresas y revisar los alivios tributarios empresariales antes de trasladar mayores cargas tributarias al consumo de los hogares.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/partido-liberal-fija-lineas-rojas-a-la-reforma-tributaria-de-de-la-espriella-pide-aplazar-rebajas-de-impuestos-a-empresas/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Partido Liberal / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2910,
+      "titulo": "Edificio Invico en Pereira aplaza demolicion tras hallazgo de redes de servicios cercanas",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-10",
+      "descripcion": "La demolicion del edificio Invico en Pereira, afectado por el terremoto, fue aplazada luego de que un estudio detectara redes de servicios publicos ubicadas a ocho metros de la estructura en el sector norte, lo que obliga a nuevos analisis tecnicos antes de proceder.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/edificio-invico-en-pereira-no-sera-demolido-mientras-realizan-estudios",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Pereira",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 2909,
+      "titulo": "General Dan Caine de EE.UU. llega a Colombia en cumbre militar en Tolemaida",
+      "categoria": "internacional",
+      "fecha": "2026-11-10",
+      "descripcion": "El general Dan Caine, jefe del Estado Mayor Conjunto de Estados Unidos, aterrizo en Colombia el 10 de noviembre de 2026 en el marco de ejercicios militares en la base de Tolemaida, acompanado del ministro de Defensa Jorge Mora, en un nuevo paso de la relacion militar bilateral.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/llega-colombia-general-dan-caine-jefe-estado-mayor-conjunto-ee-uu-cumbre-militar-tolemaida-NC43418894",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Dan Caine",
+        "Jorge Mora"
+      ],
+      "entidad": "Ministerio de Defensa / Fuerzas Armadas de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2908,
+      "titulo": "Adultos mayores en Cali duermen con cascos de moto por riesgo de colapso de vivienda",
+      "categoria": "damnificados",
+      "fecha": "2026-11-10",
+      "descripcion": "A tres meses del terremoto del 10 de agosto de 2026, adultos mayores en Cali duermen con cascos de motocicleta puestos por temor a un colapso de sus viviendas danadas por el sismo, evidenciando que la atencion a damnificados sigue siendo insuficiente en la ciudad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cali/articulo/adultos-mayores-dormian-con-cascos-de-motos-por-riesgo-de-colapso-de-su-casa-en-cali/202646/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Santiago de Cali",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
+      "id": 2907,
+      "titulo": "Gobierno destraba construccion de via importante del pais",
+      "categoria": "obras",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno de De la Espriella anuncio el destrabe de la construccion de una de las vias mas importantes del pais, resolviendo obstaculos que frenaban el avance de la obra. Se espera que la medida reduzca los trancones asociados al corredor.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/gobierno-destrabo-la-construccion-de-una-de-las-vias-mas-importantes-del-pais-se-acabaran-los-trancones/202600/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2906,
+      "titulo": "Edificio de Medicina Legal de Cali queda inhabilitado tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-10",
+      "descripcion": "El director de Medicina Legal, Ariel Cortés, confirmó que el edificio de la entidad en Cali no puede volver a habilitarse tras el terremoto del 10 de agosto. El servicio a la ciudadania se traslado a Palmira y Tulua, y la capital del Valle quedo sin laboratorio de genetica forense.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/no-se-puede-volver-a-habilitar-el-edificio-de-medicina-legal-de-cali-director-ariel-cortes-tras-el-terremoto-3599994",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Ariel Cortés"
+      ],
+      "entidad": "Instituto Nacional de Medicina Legal y Ciencias Forenses",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
+      "id": 2905,
+      "titulo": "Voluntarios denuncian ausencia de estrategia contundente de reconstrucción a tres meses del terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-10",
+      "descripcion": "El movimiento ciudadano 'Voluntarios Bajo Cuerda', liderado por Daniel Zuluaga, señala que a tres meses del terremoto del 10 de agosto no se percibe una estrategia contundente de reconstrucción por parte del Gobierno, basandose en su experiencia de apoyo directo a damnificados.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://www.france24.com/es/video/20261110-no-vemos-una-estrategia-contundente-de-reconstrucci%C3%B3n-colombia-a-tres-meses-del-terremoto",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Daniel Zuluaga"
+      ],
+      "entidad": "Voluntarios Bajo Cuerda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2904,
+      "titulo": "Minuto de Dios organiza 'Banquete del Millón' para apoyar a damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-10",
+      "descripcion": "La organización Minuto de Dios anunció la realización del 'Banquete del Millón', una iniciativa de recaudación de fondos privados destinada a apoyar a los damnificados del terremoto del 10 de agosto en Colombia.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/capsulas/articulo/minuto-de-dios-realizara-el-banquete-del-millon-para-apoyar-a-damnificados-del-terremoto/202625/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Minuto de Dios",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2903,
+      "titulo": "Presidencia reporta $332.000 millones del Fondo Milagro para vivienda y separa cuentas públicas de donaciones privadas",
+      "categoria": "dineros",
+      "fecha": "2026-11-09",
+      "descripcion": "A tres meses del terremoto, la Presidencia de la República reportó la asignación de $332.000 millones de recursos públicos para vivienda a través del Fondo Milagro, y anunció la separación contable entre los recursos públicos y las donaciones privadas recibidas para la emergencia.",
+      "evidencia": "Reportado por IFM Noticias",
+      "fuentes": [
+        {
+          "nombre": "IFM Noticias",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0xUVzQ0Um1OSVBONG1YTG1aX1pCamluVktRcGc1a3BDUUstTjA5Qm52QmNXWHNwR0p1bDZ6RHppLTFnZjVQOU1pX2F4N0l0ZzNOQTZKU0NzellPQkVwSGZjb3M3YUQzeHJyR2c0QVcxSWlBcW1idnFaT19TeFNfUTFZMUVUQWVjbFJZVTc5ZWxONm8wenlHTWZuYUdWU05IaDcxenF2UzJVMC1RajBST2R2Vmo?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2902,
+      "titulo": "Balance nacional: Colombia transita de la emergencia a la reconstrucción a tres meses del terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-10",
+      "descripcion": "A tres meses del terremoto del 10 de agosto, un balance nacional reportado por RTVC señala que el país avanza de la fase de emergencia hacia la etapa de reconstrucción, con acciones en marcha en los territorios más afectados.",
+      "evidencia": "Reportado por RTVC Noticias",
+      "fuentes": [
+        {
+          "nombre": "RTVC Noticias",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkI0aW95TW0wVWR3YUNJSU5GdXpWenZXQ1BsSm5rUENib29UR0plWjI3M251SktXdnhEcEs4cTkzNEdpb0ZmbEVza2ZCSlZkVEtUM3lKcUs4UGtOcDByckhIVlJVNWFYcUxsSk1kUXpBTlp6bWg3WjBmS1diWXdJcl9GaDRJeW54MnlkVjdNUnlMY1NxM1IxRWQwa1FTNzg3S3FzTHh1ODZ2UFpaZVVJZTlqVFdWekV1SlcyRjFB?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2901,
+      "titulo": "Captura de alias 'Caballo', cabecilla de la estructura Jaime Martínez en Popayán",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "En zona rural de Popayán, Cauca, las autoridades capturaron a alias 'Caballo', señalado cabecilla de la estructura criminal Jaime Martínez. La operación se enmarca en el balance de resultados de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNWI2NjZSa2RYNS1vVzN4elNUNldvcVFnY2pGRk9ZeFZMM09wYjV2dGdXNURHejgwVnBBdWdjZ2lPenRjM0pzcDhmbUp1Q3ZpS1VoLWtKeXFjTElwUThYWndtLVdnaW1JRTNuLU81bjVlYVlDbzBsMEczUGRTWWJkTDQyQ2NkWFlOeUE3UGFndFp4c2NWWmh1WjZoazJodjh6NWpKYWNocVZ4VHgyT2E5TzNzRHZJcWdTRzFJdm1FcHlVTmVpbU9jM3UxeXM2Ny1nWWFlNnV0ZW42eVlGQlHSAeMBQVVfeXFMTUt6WF9hdzBCbk93ZUJMd3l1WjdyTHVSdk0wNW4tZ1dHSEdZcmlnWnVtTXBBRTFHYnZYa0QtdUJvbDhrVW5JNWt3NEV4VDlmX0tsNjFRdzB5dHhLeTlOd09NMmxvRGxGcFdiRUR4eV9BLUMwRVJ2MFAzSHJGZFJqWHM2Q3NGajZJSXdYZXRMczFwZW5NYzRGZ3l2SThLaVNTc3ZiUkhtOE9sem1tTFowWHRhZ21LMFRjQjJzbVNESUlOT21CcUdISjhCdlhUR0VXd1k5RDZXQXpvR3IxUnFnaUJ3eFE?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'Caballo'"
+      ],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2900,
+      "titulo": "Se conocen los primeros ponentes de la reforma tributaria del gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El Congreso designó los primeros ponentes del proyecto de reforma tributaria del gobierno De la Espriella, que debe surtir su trámite legislativo en tiempo récord para reducir el desbalance fiscal proyectado para 2027, tras semanas de incertidumbre sobre el avance del proyecto.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/se-conocen-los-primeros-ponentes-de-la-reforma-tributaria-del-gobierno-de-la-espriella/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2899,
+      "titulo": "Plan de Desarrollo prioriza 119 megaproyectos y reserva $58,29 billones para el terremoto",
+      "categoria": "obras",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno De la Espriella dio a conocer los megaproyectos que tendrán prioridad en el Plan Nacional de Desarrollo, un documento que prioriza 119 megaproyectos de infraestructura, integra más de 2.000 iniciativas comunitarias regionales y reserva $58,29 billones para atender la emergencia del terremoto.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/estos-son-los-megaproyectos-a-los-que-el-gobierno-de-la-espriella-les-dara-prioridad-en-plan-de-desarrollo/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Nacional de Planeación / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2898,
+      "titulo": "Superfinanciero llama a las fiduciarias a liderar la reconstrucción tras el sismo",
+      "categoria": "dineros",
+      "fecha": "2026-11-10",
+      "descripcion": "El superintendente financiero, Pablo Rivas, destacó la capacidad de las fiduciarias para movilizar recursos hacia la reconstrucción de vivienda, infraestructura y tejido empresarial afectado por el terremoto, llamándolas a convertirse en protagonistas del proceso de reconstrucción.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/superfinanciero-pide-a-fiduciarias-convertirse-en-protagonistas-de-la-reconstruccion-tras-sismo-4521806",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Pablo Rivas"
+      ],
+      "entidad": "Superintendencia Financiera",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2897,
+      "titulo": "Juez tumba principio de oportunidad de Edgar Riveros en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-10",
+      "descripcion": "Un juez revocó el principio de oportunidad que la Fiscalía había negociado con Edgar Riveros Rey en el marco del escándalo de corrupción de la UNGRD, señalando imprecisiones en los compromisos asumidos por Riveros, entre ellos su colaboración como testigo contra César Manrique, exdirector del Dapre, lo que representa un nuevo revés procesal para la Fiscalía en el caso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/se-le-cayo-principio-oportunidad-fiscalia-caso-ungrd-FD43407130",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Edgar Riveros Rey",
+        "César Manrique"
+      ],
+      "entidad": "Fiscalía General de la Nación / UNGRD",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53"
+    },
+    {
+      "id": 2896,
+      "titulo": "Deuda de EPS a hospitales revela hueco financiero heredado del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-10",
+      "descripcion": "Un nuevo informe revela que a junio de 2026 las EPS, encabezadas por Nueva EPS, debían cerca de $27,8 billones a hospitales y clínicas del país, más de la mitad en mora, evidenciando el tamaño del hueco financiero del sistema de salud heredado del gobierno de Gustavo Petro, que el gobierno De la Espriella intenta enfrentar con un plan de choque.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/nueva-eps-deuda-hospitales-clinicas-eps-que-mas-deben-colombia-HD43406753",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Nueva EPS / Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53"
+    },
+    {
+      "id": 2895,
+      "titulo": "Pereira recoge escombros pero reconstrucción sigue en promesas",
+      "categoria": "avances",
+      "fecha": "2026-11-10",
+      "descripcion": "Tres meses después del terremoto, Pereira ha avanzado en la recolección de escombros, pero la reconstrucción de viviendas e infraestructura sigue limitada a anuncios y promesas del Gobierno, según reporte de Colombia.com, sin que se concreten obras sustanciales para los damnificados.",
+      "evidencia": "Reportado por Colombia.com",
+      "fuentes": [
+        {
+          "nombre": "Colombia.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUpWMXBhbFFhQ2ZCZXJqSThKa29zR2RMQnJ2VnFoRW9MVURqenlubFZERFRhY2JzN1VJYUtZMVlUQk5vZ2ZBSEdoYVgwbE0zbzYxVXRjaHNzZWl0X1dVNU1KcWYzR1J6TUNRaGZoT3FhVXVfZnFzcjQ1djVlaWhWTUFoa1JXOGMtaDdkWTJPNUFzQkNnV3NUcWZVZUQ3bG1FMmNKSWJnWUZnMko2V0F3WXNVR24?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Pereira / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 2894,
+      "titulo": "Gobierno declara insubsistente a directora del Icfes nombrada en gobierno Petro",
+      "categoria": "gabinete",
+      "fecha": "2026-11-10",
+      "descripcion": "El gobierno de Abelardo de la Espriella declaró insubsistente a Elizabeth Blandón Ramírez, directora general del Icfes desde agosto de 2023 durante el gobierno de Petro mediante el decreto 1284. En su reemplazo fue designada Maribel Cristina Castro como directora encargada.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-declaro-insubsistente-elizabeth-blandon-directora-icfes-MC43411814",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Elizabeth Blandón Ramírez",
+        "Maribel Cristina Castro"
+      ],
+      "entidad": "Icfes / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2893,
+      "titulo": "Informe revela hallazgos sobre contratos de la reconstrucción y el Fondo Milagro",
+      "categoria": "contratacion",
+      "fecha": "2026-11-10",
+      "descripcion": "Un informe periodístico de El País examina en qué se están invirtiendo los recursos destinados a la reconstrucción tras el terremoto, revelando hallazgos sobre la contratación realizada con cargo al Fondo Milagro, incluyendo cuestionamientos sobre la transparencia en la asignación de contratos de reconstrucción.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZm5NNGNDNGcwR25IVGpUUk1fdXBRbTRFY2JaR1k3Y2llbTZhSENUdHBMdzc1R0hMNmU4aGVCazQxZ2ZaR0c2Tmh2clBFY2Z4cVhMa0Z6RUkwODVodGVIT040RGlQbnhKT096cWkwVktOdXJSMUtwdDUwZmpobHdud2lrWXJYNDBQTHFLRW4tWDhqU2VZU1hNUFIyMlh1VmpqQ1FaVGdUaElEQkJkel8ySW95UE16Y2VuS3ljMldQTVVtdWJfa0psSFJzbm1PUlNDNURVNEkxWUNkMGZGYk1DYzVwUWJ0Z29hV2E5U3o1b3lscTZsTHk0UE9n0gH_AUFVX3lxTE05eS1EcV8zRTJIS2NZZ0VVNWc1eUp3N3dqQWV6dWZmcGxrMFlDSHZvbzU5dnlnTjlIT040TzdYZ1NiU3E5OFk4LXBIbVhQMmJ0el9wVjI2UkNjSXRGT2hpLVQyVXZPUjJnbS1pdF9ZU3B6dUxkZ3FJSnY1Z2hVb0IycGhpbWJYX0lReXduSVhaWURveF9ybVJiZ1FYTV9hOHpuTnVkN0xjd2I5Yk9QcWJfVG5OWm5PQnk4STRKT2NnMHh0STlaak50dDlDZlBFekZidnRHaVEzN0ZTUlg4NTNGVE42VXd4SHpuZmhWSzI4M09MN3UzampyTk5MOE5CUQ?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2892,
+      "titulo": "Damnificada en Quibdó denuncia que la ayuda del Fondo Milagro no llega",
+      "categoria": "damnificados",
+      "fecha": "2026-11-10",
+      "descripcion": "Una damnificada en Quibdó, Chocó, denunció públicamente que la ayuda prometida por el Fondo Milagro tras el terremoto no ha llegado a su comunidad, y exigió respuestas concretas al Gobierno nacional sobre el destino de los recursos asignados para la emergencia.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMk5GVlZvQ0NyOU5pSk5IdTViUXpRUzVOZjRLY0Jwd1dMSlFNeUhnTUVEWFNpRFpwam9OT3M4QU1vcHNfZ0NxOHpYZkI3NjlVbFQ2MmZQeDl6bUlHdms2VW40YWhFbjVuUmJxaWlGOTNkeVF0cURrZ3BaVmdZRWlLTld2eEhTdTNwUWVKS3FuX3M3bWpYVm50SllqWERndl95UDJLdWhaQ3J1TGVVVTllcWpPU3BzSEZrRldNRDhIUzhSSENETzh4X1VpYU9zZndORXozNjVR0gHWAUFVX3lxTE9rejZPVnhFTDc2VnZ4OGp5WVFERTg5bDQxdEpxMElIODc2QTJNOTZnb3daMEJ3Z29IRE5VUk1Sd3QyNnZTVjVpTnZaaThDRVZJV2JYRk5QTVZ5MHZzYkRQbzNiam1tdkZkQzF0YXFOQW9TMVVtWnliLXA2Y2VEVW81TkpqWUhEcU5IUUVZbC1CTThRdElybldSRE5QbkFqaXdGTXM5QXQ0RTZCNnpldU9HbjZGVVFBMVkycVhkRlpNV1BmZzhoN0JybGc0UXA3enp3cHRRMGc?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 2891,
+      "titulo": "La solidaridad ciudadana desplaza al Gobierno a tres meses del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-10",
+      "descripcion": "A tres meses del terremoto que afectó a 500 municipios de 16 departamentos, un reportaje de France 24 documenta que la ayuda ciudadana y la solidaridad privada han superado en visibilidad y efectividad a la gestión del Fondo Milagro, del cual en Pereira 'solo se han visto vallas'. En el Valle del Cauca persisten preguntas sin respuesta sobre la reconstrucción en zonas urbanas y rurales.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 22:53",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 2890,
       "titulo": "Canciller Omar Bula presenta seis hitos de la política exterior contra el crimen transnacional",
       "categoria": "internacional",
@@ -67360,7 +67976,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-10",
-    "total_casos": 2801,
+    "total_casos": 2827,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
