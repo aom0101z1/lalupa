@@ -221,6 +221,703 @@
   ],
   "casos": [
     {
+      "id": 2873,
+      "titulo": "DANE reporta inflación de 6,30% en octubre de 2026",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "El DANE reveló que el IPC de octubre de 2026 llegó a 6,30% anual. Restaurantes y hoteles presentaron la mayor variación con 9,39%, seguido de educación con 7,44% y salud con 7,37%.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DANE / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2872,
+      "titulo": "Hidroituango alcanza cota 420 en almacenamiento",
+      "categoria": "obras",
+      "fecha": "2026-11-10",
+      "descripcion": "Autoridades confirmaron que la central hidroeléctrica Hidroituango alcanzó la cota 420 en su nivel de almacenamiento. El proyecto cuenta actualmente con cuatro turbinas operando comercialmente, aportando 1.200 megavatios de forma continua al sistema eléctrico nacional.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/autoridades-afirman-que-hidroituango-alcanzo-la-cota-420-en-almacenamiento-4520786",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "EPM / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2871,
+      "titulo": "Destruidos dos laboratorios de procesamiento de coca en Caquetá",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "En menos de 48 horas, autoridades destruyeron dos laboratorios para el procesamiento de coca localizados en zona rural de San José del Fragua, Caquetá, como parte de operaciones contra el narcotráfico.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/destruyen-dos-laboratorios-para-el-procesamiento-de-coca-en-caqueta-3599681",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2870,
+      "titulo": "Dijín desarticula red de explotación sexual infantil tras infiltración de dos años",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "Un agente de la Dijín se infiltró durante dos años en una red que vendía videos de abuso sexual infantil a través de servicios de mensajería. La operación permitió capturar a tres administradores de grupos privados en Bogotá, Soacha y Villavicencio que cobraban por el acceso al material.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/agente-de-la-dijin-se-infiltro-durante-dos-anos-en-una-red-que-vendia-videos-de-abuso-infantil-cayeron-tres-en-bogota-soacha-y-villavicencio-3599711",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policía Nacional / Dijín",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2869,
+      "titulo": "Congreso exige investigaciones por espionaje y contratos millonarios en la DNI",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-09",
+      "descripcion": "El presidente de la Comisión de Inteligencia y Contrainteligencia del Congreso solicitó información oficial sobre presuntos actos de espionaje y contratos millonarios irregulares en la Dirección Nacional de Inteligencia (DNI) durante el gobierno Petro, con el fin de evaluar posibles sanciones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/irregularidades-en-la-dni-congresistas-exigen-investigaciones-tras-revelaciones-de-espionaje-y-contratos-millonarios-3599637",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / DNI",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2868,
+      "titulo": "Corte Constitucional da un mes al Gobierno para incluir el Acuerdo de Paz en el Plan de Desarrollo",
+      "categoria": "empalme",
+      "fecha": "2026-11-09",
+      "descripcion": "La Corte Constitucional ordenó al gobierno De la Espriella incluir el Acuerdo de Paz en el Plan Nacional de Desarrollo en un plazo de un mes, alertando sobre la desfinanciación de la Agencia para la Reincorporación y la Normalización (ARN) y el represamiento de $53.000 millones destinados a proyectos productivos de excombatientes, herencia del gobierno anterior.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/corte-da-un-mes-al-gobierno-para-incluir-el-acuerdo-en-plan-de-desarrollo/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Corte Constitucional / ARN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2867,
+      "titulo": "Reforma tributaria de De la Espriella sin ponentes a seis semanas del plazo límite",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "A seis semanas de que concluya el periodo ordinario del Congreso, la reforma tributaria (Ley de Rescate) del gobierno De la Espriella no cuenta con coordinadores ni ponentes asignados, lo que pone en riesgo su aprobación antes de requerir sesiones extraordinarias.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/el-tiempo-pasa-y-se-nos-van-las-ordinarias-quedan-menos-de-6-semanas-para-poder-aprobar-la-reforma-tributaria-506008",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la República / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2866,
+      "titulo": "DIAN otorga último plazo para acceder a beneficios tributarios",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "La DIAN expidió un decreto que da un plazo final a los contribuyentes para acogerse a beneficios tributarios y regularizar su situación, dentro de las medidas fiscales del gobierno De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/decreto-de-la-dian-da-ultimo-plazo-para-acceder-a-beneficios-tributarios-y-pagar-menos-impuestos/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DIAN / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2865,
+      "titulo": "Déficit del Fondo de Combustibles se multiplicaría por cinco y cerraría en $15 billones",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "Proyecciones indican que el déficit del Fondo de Estabilización de Precios de Combustibles se multiplicaría por cinco, alcanzando $15 billones al cierre de 2026, en medio de la crisis fiscal que enfrenta el gobierno De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/deficit-del-fondo-de-combustibles-en-colombia-se-multiplicaria-por-cinco-al-cierre-de-2026-cerraria-en-15-billones/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2864,
+      "titulo": "Gobierno busca restablecer confianza en vigencias futuras ante contingencias por más de $100 billones",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno Nacional adelanta un proceso de modernización para reducir la burocracia y restablecer la confianza en las vigencias futuras, en medio de contingencias fiscales superiores a $100 billones, según explicó el funcionario Noguera.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-busca-restablecer-la-confianza-en-las-vigencias-futuras-en-medio-de-contingencias-por-mas-de-100-billones/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Noguera"
+      ],
+      "entidad": "Ministerio de Hacienda / DNP",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2863,
+      "titulo": "Supersalud vigila $356.500 millones de recursos de EPS",
+      "categoria": "transparencia",
+      "fecha": "2026-11-09",
+      "descripcion": "La Superintendencia de Salud puso bajo vigilancia especial recursos de EPS por $356.500 millones, debido a contratos con baja ejecución, anticipos pendientes de legalización y retrasos en la ejecución, como medida de control al manejo de dineros del sistema de salud.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/recursos-de-eps-por-356500-millones-quedan-bajo-vigilancia-de-supersalud",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2862,
+      "titulo": "Decomisan 83 bienes del ELN en cinco departamentos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "Autoridades decomisaron 83 bienes vinculados al ELN en cinco departamentos, entre ellos seis apartamentos, ocho fincas, una casa, un hotel, un lote y tres establecimientos comerciales, en el marco de procesos de extinción de dominio.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/decomisan-83-bienes-pertenecientes-al-eln-en-cinco-departamentos",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalía General de la Nación",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2861,
+      "titulo": "Gobierno publica hoja de vida de nuevo viceministro de Educación Superior",
+      "categoria": "transparencia",
+      "fecha": "2026-11-09",
+      "descripcion": "Presidencia publicó la hoja de vida de Diego Fernando Hernández Losada, rector de la Universidad Autónoma de Occidente, propuesto como nuevo viceministro de Educación Superior, como parte de la política de divulgación de nombramientos del gobierno De la Espriella.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/presidencia-publico-la-hoja-de-vida-de-diego-fernando-hernandez-losada-4520702",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Diego Fernando Hernández Losada"
+      ],
+      "entidad": "Presidencia de la República / Ministerio de Educación",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2860,
+      "titulo": "De la Espriella anuncia inversión histórica para reconstrucción del Eje Cafetero y el Valle",
+      "categoria": "dineros",
+      "fecha": "2026-11-10",
+      "descripcion": "El presidente Abelardo De la Espriella anunció el despliegue de una inversión calificada como 'histórica' destinada a la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto en el Eje Cafetero (incluyendo Pereira/Risaralda) y el Valle del Cauca (incluyendo Cali), como parte de la gestión del gobierno nacional frente a la emergencia.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-desplego-historica-inversion-para-reconstruir-el-eje-cafetero-y-el-valle/202605/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2859,
+      "titulo": "Paloma Valencia pide ser reconocida como víctima en investigación por irregularidades de la DNI en elecciones",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-09",
+      "descripcion": "La excandidata presidencial Paloma Valencia calificó de 'muy grave' las presuntas irregularidades de la Dirección Nacional de Inteligencia durante las elecciones presidenciales de 2026 y anunció que solicitará ser reconocida como víctima en la investigación, además de que su partido haga lo mismo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/paloma-valencia-pedira-ser-reconocida-como-victima-en-la-investigacion-por-presuntas-irregularidades-de-la-dni-durante-las-elecciones-presidenciales-3599739",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2858,
+      "titulo": "Cali transforma más de 300.000 toneladas de escombros del terremoto en vías y mobiliario",
+      "categoria": "avances",
+      "fecha": "2026-11-09",
+      "descripcion": "La Alcaldía de Cali reporta la transformación de más de 300.000 toneladas de residuos generados por el terremoto del 10 de agosto en materiales para construcción de nuevas vías y mobiliario urbano, como parte del proceso de reconstrucción tras el sismo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV2tHT0NBSXdKNFBLSzVjN0RiZjgtUjZOVGp2bmhkMFF6a1FScXB3b2s0U2lnaTl0N2w4X2txU3pBMHFDY0ZmRFFFRjVzbmFlMzk0bENfSnRUZGNuT1lqekFSdUlrd3lGdFVQWVYwYk1MUExxRTVkc0hYa0FPVG5iT2xLSmk4a2pBZmR0RWtWMl8wNHcyLWlXdk9UMTVNSHk2NVdINVhpNG1UcFBDWk9SUzJEY3F5S09iSUxEOGV2MFROUEIwcDVicjR1TWRNeGdTaDItTzhZS0xHQnEzeEoyRkl6OHVlbi1rSnB4emtxSEsxQ1B6R08wWWF1T0hCZ9IBgwJBVV95cUxPdFNOZjFUd2gycUJsZE9rRWpfVm5QUkpwc3k0SS1VNXBkVTlFX3NhOE1GN25CU2I5ODJkdG9SWG1BR2hTS0hQQkRnaHl6eFBPMXpNRHhMLS1abWtGT1RjTUFWZDBhd0ZnNVZFU295aFV3dEh5Vmx5dmg5U1hlVWpJTXozcmFYS0N3eXRIcEZPMUNQQm1MNjhvYnRRWXBuQTB5RGRkNkl0QmlydjJ4cXhmZTVLNy1zcU1tdEd5UDV4VFRUTFhFRlZ5ZXYxaGFGNVNKZ2w3a211WTNnYXJiSHg2RlNEb1gtZXUyRlVYM3Z5TGpIMnVFRTBOeFltNnVHSkhXRWdR?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 2857,
+      "titulo": "Luis Duque niega haber infiltrado campaña de Paloma Valencia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-10",
+      "descripcion": "El consultor político Luis Duque rechazó versiones que lo vinculan con una presunta operación de infiltración favorable a Gustavo Petro dentro de la campaña presidencial de Paloma Valencia, en medio de las investigaciones sobre irregularidades de la DNI en las elecciones de 2026.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/10/luis-duque-nego-haber-infiltrado-la-campana-presidencial-de-paloma-valencia-y-aseguro-he-sido-soy-y-seguire-siendo-antipetrista/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Duque",
+        "Paloma Valencia",
+        "Gustavo Petro"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2856,
+      "titulo": "Ordenan a Angie Rodríguez rectificar acusación de chantaje contra Laura Sarabia",
+      "categoria": "mentiras",
+      "fecha": "2026-11-09",
+      "descripcion": "Angie Rodríguez deberá rectificar en 48 horas sus señalamientos contra Laura Sarabia, a quien había acusado de presunto chantaje a Gustavo Petro y de facilitarle encuentros sexuales durante su gobierno, tras una orden judicial o de autoridad competente.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/angie-rodriguez-a-rectificar-por-acusar-a-sarabia-de-chantaje-a-petro/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodríguez",
+        "Laura Sarabia",
+        "Gustavo Petro"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2855,
+      "titulo": "Ecopetrol reporta sus segundos mejores resultados trimestrales en dos años",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "Ecopetrol habría logrado en el tercer trimestre de 2026 sus segundos mejores resultados financieros en más de dos años, junto con su mayor nivel de producción desde el tercer trimestre de 2025, según Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ecopetrol-habria-logrado-en-el-tercer-trimestre-sus-segundos-mejores-resultados-en-mas-de-dos-anos/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2854,
+      "titulo": "Centro Democrático rechaza IVA a alimentos e insumos agropecuarios",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "La bancada del Centro Democrático rechazó la propuesta del Gobierno de gravar con IVA alimentos e insumos agropecuarios dentro de la Ley de Rescate, y planteó alternativas fiscales que liberarían más de 28 billones de pesos sin afectar el agro.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/centro-democratico-rechaza-iva-alimentos-e-insumos-agropecuarios",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Centro Democrático / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2853,
+      "titulo": "Ley de Rescate afectaría ingresos de trabajadores con más de dos salarios mínimos",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "Un cambio incluido en la Ley de Rescate Económico del gobierno De la Espriella podría disminuir el dinero que reciben miles de trabajadores que ganan más de dos salarios mínimos mensuales, según análisis difundido por Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQalBYYWprcUZmR29jMGQyTV84ZzRBclFmamFqd0ZRLVlFX0RKcGdFRWowQS16V21fcF8wa1FYd1VjaWJzdFdYOWRIamcxRzYzSUkzTzRMM3VWNGl0RjJ0WDZadWRuRWZQd0c1SllZZnFPbWVxRGVfcURJNnpGSWRndHY5eVUzMlA3ZGswZll3TktaSGNsUUZxckUxbXVnT2VnNEJYZVVkTmRQSnF2dlgtNmFQbGZMdE82dWtOTVM4ZDI2ODNvQjBOV2JpYWlnWnRmanRCalR4QdIB3AFBVV95cUxOb2dVZUV4NV8wSHZ1aU1DMHFDa2xmSHJMaVlDVlFKR254dV9ycFhuMFNVUEhVYkZFMi10S0tZTi1sRDFicjNWdmdJXy1oc2xhOWVxRnZQV01CdTVzZjd5S0htOUIybzNTMGROaENrYTAzbTN3UE4xWEQ2QUhEOHVxSEFhT2JNZUgxMTgxcTVRU2sya0E4NGlPMzdER3VsRVZtYU5UMmUzTExPZC1KMTJ3WURGLXRwdzJNWFJGbVBYalF6QzQ5NkpEOU5ET3phcU9XYzBGRlV2V200VGN6?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2852,
+      "titulo": "Aconauto advierte impacto del alza de IVA en vehículos eléctricos",
+      "categoria": "economia",
+      "fecha": "2026-11-09",
+      "descripcion": "La asociación Aconauto advirtió que el aumento del IVA contemplado en la Ley de Rescate del gobierno De la Espriella podría hundir el mercado de vehículos eléctricos e híbridos en Colombia, afectando la transición energética del sector automotor.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSDBBVFd5RnhkS3F1TzFWMmR2RnJUV0ZqRGZhQmE4b1AyNXd6R3lkUTlkczhhTmkyV2w4TThFalczeC0zd2dLaVNnOXVlT1JlYW5oS1pKc3phSHl1ajBTRUVsYzA4TGNmUlZkRFdOTWFnZHpOd2phQUk1clFfdjllLUNoRmxjOFp2a2UtM28xdERLNFhLclB4S0pDRVk1Y19wY3RtNHVNaHVpVnkxZnhGRjRaVm1KOThQbzQ2QU5HX1pmNTBIaGZ4Y0FvWldlZ2FZYTZ3TFh1ZU0ydm5RUFM5SGlNOEVXV0l6U0VNdWx3bGJSaWxYdjZwXzhzU214R2NFN1BnU3JVOA?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aconauto / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2851,
+      "titulo": "Juicio contra Nicolás Petro continuará en febrero 2026",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-09",
+      "descripcion": "El juicio contra Nicolás Petro, hijo del expresidente Gustavo Petro, por presuntos delitos de corrupción y lavado de activos, continuará en febrero de 2026, según se reportó.",
+      "evidencia": "Reportado por Alerta",
+      "fuentes": [
+        {
+          "nombre": "Alerta",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTFrX2NBSUZuNmowcGh5VUIyb3hpVE43NmVwNXRMMmd1MUhXdHVWOEhPai0xcWQ3MGI3V2ozNkVkanNFRVl4NjhuQzlYVy02aGE4TElSUmxKVHJHU2wtbTZjdU5xUzk1ckZCTnlFODROVWxYWTUxb29wZVVVd3kzTVZXc1p2bnZ4aVpESmt0SFN0ZDc3dTRwM0RhaVrSAZwBQVVfeXFMTkF1aWF0RkxRSlNqMWg0dThfMFFlR19sMW8xaDd0ejdpc0doRGVrOHRlT2dLbFphZ1l4X0hhdTFoUnRLYnZSVV9qd052VEFlMS14V0M1STNBT2lkZVowSTh1ZTl4cFlIUW5uVmJqa19nanVPLTFaVVp1S01kU1hpQlFUTWEwN3pXOEg1Qkh5ZlM2WWlVUC1fcDBmZ1JG?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolás Petro"
+      ],
+      "entidad": "Rama Judicial / Fiscalía General de la Nación",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2850,
+      "titulo": "Captura en Barrancabermeja de mujer con nexos a disidencias de 'Calarcá' e incautación de armamento",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "Autoridades capturaron en flagrancia en Barrancabermeja a una mujer con presuntos nexos a las disidencias de 'Calarcá', incautando cuatro fusiles M4, cuatro pistolas y dos subametralladoras Mini Uzi.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/en-barrancabermeja-capturaron-en-flagrancia-a-mujer-que-tendria-nexos-con-las-disidencias-de-calarca-3599732",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2849,
+      "titulo": "DNI habría ejecutado ciberataques a la Registraduría y plan de interferencia electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-09",
+      "descripcion": "Revelaciones de Noticias Caracol indican que la Dirección Nacional de Inteligencia (DNI) durante el Gobierno Petro habría operado una estructura paralela dedicada a ciberataques contra la Registraduría Nacional y a un presunto plan de interferencia en procesos electorales, excediendo sus funciones legales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ciberataques-registraduria-plan-interferencia-electoral-dni-CB43354701",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Dirección Nacional de Inteligencia (DNI) / Registraduría Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2848,
+      "titulo": "Cancillería revisa contratos por más de $100.000 millones del Gobierno Petro firmados en dos días",
+      "categoria": "contratos",
+      "fecha": "2026-11-09",
+      "descripcion": "La Cancillería puso bajo revisión contratos por más de $100.000 millones suscritos durante el Gobierno Petro, de los cuales 322 fueron firmados en un lapso de apenas dos días, lo que generó sospechas sobre la legalidad y pertinencia de dichas adjudicaciones.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/cancilleria-pone-bajo-la-lupa-contratos-por-mas-de-100000-millones-firmados-en-el-gobierno-petro-322-se-firmaron-en-dos-dias/202618/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancillería)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2847,
+      "titulo": "Fiscalía llama a juicio a la red detrás del hacker de la DNI",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-09",
+      "descripcion": "La Fiscalía General de la Nación llamó a juicio a varias personas señaladas de conformar una red vinculada al hacker Carlos Oyola, exfuncionario de la Dirección Nacional de Inteligencia durante el Gobierno Petro, por presuntos accesos irregulares a sistemas estatales.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWpXcGxJdjRwZFNoWlNfUVBLX0VjY3VvSGhBUXlRWkxfZ2tzT19LRmViQ2VNQjRzM1NtYUVpOVZ1RzhCZjB2alM5bGNmUWdrRk1yak5jVEhoRTI0LW5yMkczMFRWeDU3S1hCWldGZTA1dFU5Y1cyYktuSzZsZEozTWlMWGZSaUYzR25UUlFCOGZFTG5jNkFCX0JCWURoSGx5QTRrZmt6UmZYa1NVX0pZ?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Oyola"
+      ],
+      "entidad": "Fiscalía General de la Nación / DNI",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2846,
+      "titulo": "SIC archiva investigación contra Ecopetrol y Helistar por contratos de helicópteros",
+      "categoria": "contratos",
+      "fecha": "2026-11-10",
+      "descripcion": "Mediante la Resolución 88976 del 9 de noviembre de 2026, la Superintendencia de Industria y Comercio archivó definitivamente la investigación contra Ecopetrol, Cenit, Ocensa y Helistar por contratos de transporte aéreo por más de $417.000 millones firmados entre 2011 y 2023, tras acoger los reparos de la Procuraduría y no hallar pruebas suficientes.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/sic-archivo-investigacion-contra-ecopetrol-y-helistar-por-contratos-aereos-4521022",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Industria y Comercio / Ecopetrol / Helistar",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2845,
+      "titulo": "Bombardeo contra frente 33 de las disidencias de las Farc en Norte de Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-11-09",
+      "descripcion": "Un ataque aéreo ordenado por el presidente Abelardo de la Espriella contra una guarida del frente 33 de las disidencias de las Farc en Tibú, Norte de Santander, dejó 4 muertos y 6 capturados. El presidente firmó personalmente una de las bombas utilizadas en la operación.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/bombardeo-frente-33-farc-tibu-cuatro-muertos-seis-capturados-FB43359581",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerza Aeroespacial Colombiana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2844,
+      "titulo": "Contraloría no logra rastrear $4,1 billones de los Equipos Básicos de Salud",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-09",
+      "descripcion": "Un hallazgo de la Contraloría revelado por Noticias RCN indica que no es posible establecer con certeza cómo se usaron los $4,1 billones destinados al programa bandera del Gobierno Petro de Equipos Básicos de Salud (EBS), ni si la atención llegó efectivamente a la población beneficiaria.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/contraloria-no-rastrea-41-billones-equipos-basicos-salud-HB43355255",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República / Ministerio de Salud",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
+      "id": 2843,
+      "titulo": "Funcionario del Gobierno Petro con títulos académicos falsos en ministerio clave",
+      "categoria": "mentiras",
+      "fecha": "2026-11-09",
+      "descripcion": "Se descubrió que un funcionario vinculado al Gobierno Petro que ocupaba un cargo en un ministerio clave presentó títulos académicos falsos. Tras confirmarse el hallazgo, la entidad anunció una decisión administrativa sobre su situación laboral.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/descubren-a-funcionario-vinculado-al-gobierno-petro-con-titulos-falsos-en-un-ministerio-clave-se-anuncio-decision/202617/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio (sin identificar en el resumen)",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-10 01:14"
+    },
+    {
       "id": 2842,
       "titulo": "Gerente de Aerocafé usa plata pública para seguridad personal",
       "categoria": "recursos-publicos",
@@ -66269,8 +66966,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-09",
-    "total_casos": 2753,
+    "ultima_actualizacion": "2026-11-10",
+    "total_casos": 2784,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
