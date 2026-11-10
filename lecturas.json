@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 545,
+      "titulo": "DeepMind presenta Gemini Robotics 2.5 y un nuevo benchmark de seguridad para robots",
+      "resumen": "Google DeepMind lanzo Gemini Robotics 2.5, un modelo que duplica el exito en algunas tareas de manipulacion robotica frente a versiones anteriores. Junto al modelo publico ASIMOV-jailbreak, un benchmark abierto para medir que tan facil es evadir las restricciones de seguridad de un robot con IA.",
+      "por_que_leerlo": "Muestra hacia donde avanza la robotica con IA y como la industria empieza a medir sus riesgos de seguridad de forma abierta.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "robotica",
+        "deepmind",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 546,
+      "titulo": "Anthropic fija su salida a bolsa entre US$70 y US$78 por accion, con valoracion de US$1,4 billones",
+      "resumen": "Anthropic establecio un rango de precio de 70 a 78 dolares por accion para su OPI, lo que implicaria una valoracion totalmente diluida de hasta 1,404 billones de dolares. La cifra llega pese a los temores recientes del mercado sobre una posible burbuja en las neoclouds de IA.",
+      "por_que_leerlo": "Da cifras concretas sobre cuanto vale hoy uno de los laboratorios de IA mas importantes justo cuando el mercado duda de la sostenibilidad del boom.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "opi",
+        "inteligencia artificial",
+        "valoracion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 547,
+      "titulo": "Científicos chinos convierten palas de aerogeneradores desechadas en grafeno con una descarga eléctrica de medio segundo",
+      "resumen": "Investigadores en China demostraron que es posible transformar las palas de turbinas eólicas fuera de uso en grafeno mediante una descarga eléctrica de apenas medio segundo, aprovechando los materiales compuestos de fibra que las componen. La técnica ofrece una solución al creciente problema de los 'cementerios' de palas eólicas difíciles de reciclar.",
+      "por_que_leerlo": "Resuelve un problema real de la energía eólica -los residuos de las palas- con una técnica simple, rápida y escalable.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energía eólica",
+        "reciclaje",
+        "grafeno",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/china-ha-inventado-frankenstein-para-sus-cementerios-palas-eolicas-descarga-medio-segundo-para-resucitarlas-como-grafeno"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 548,
+      "titulo": "Imprimen en 3D ladrillos tipo LEGO con polvo lunar simulado para construir bases en la Luna",
+      "resumen": "Investigadores de la Universidad de Arkansas demostraron que el regolito lunar puro puede imprimirse en 3D como bloques tipo LEGO sin aditivos traidos desde la Tierra. La tecnica reduciria drasticamente el peso de materiales que la NASA necesitaria enviar para construir asentamientos permanentes en la Luna.",
+      "por_que_leerlo": "Muestra una solucion concreta de ingenieria que podria abaratar la construccion de bases lunares.",
+      "seccion": "tecnologia",
+      "tags": [
+        "espacio",
+        "ingenieria",
+        "luna",
+        "construccion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-simulated-moon-lego-blocks-settlements.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 549,
+      "titulo": "Informe de actuarios advierte que los riesgos oceanicos ya amenazan pensiones y precios de alimentos",
+      "resumen": "Un reporte del Institute and Faculty of Actuaries, la Universidad de Exeter y The Ocean Race concluye que los riesgos oceanicos, como el calentamiento y la acidificacion, son severos y empeoran, con potencial de volverse catastroficos para la economia global si no cambia el rumbo. El estudio vincula estos riesgos directamente con la estabilidad de los fondos de pensiones y el precio de los alimentos.",
+      "por_que_leerlo": "Conecta datos cientificos del oceano con impactos financieros concretos que afectan inversiones y ahorro para el retiro.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "oceanos",
+        "riesgo financiero",
+        "pensiones",
+        "cambio climatico"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-severe-ocean-threaten-food-prices.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 550,
+      "titulo": "NASA acelera su plan para llevar astronautas a la Luna en 2028 con SpaceX y Blue Origin compitiendo por el modulo de descenso",
+      "resumen": "NASA presento un plan acelerado para aterrizar astronautas en la Luna en 2028, con SpaceX y Blue Origin desarrollando modulos de descenso en competencia y una prueba orbital clave programada para 2027. El plan incluye preparacion mas rapida de cohetes y trajes espaciales mas ligeros para avanzar hacia una presencia lunar permanente.",
+      "por_que_leerlo": "Resume el nuevo cronograma y los jugadores privados que compiten por el regreso humano a la Luna.",
+      "seccion": "ciencia",
+      "tags": [
+        "nasa",
+        "spacex",
+        "blue origin",
+        "luna"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 551,
+      "titulo": "Suplemento de oxaloacetato mejora la memoria y reduce la fatiga en sobrevivientes de cancer de mama",
+      "resumen": "Un estudio de UCLA encontro que mujeres que tomaron un suplemento de oxaloacetato durante ocho semanas mostraron mejoras sustanciales en memoria, concentracion, claridad mental y fatiga tras el tratamiento contra el cancer de mama. El hallazgo abre una via simple y accesible para tratar el 'brain fog' post-tratamiento.",
+      "por_que_leerlo": "Presenta una intervencion sencilla y respaldada por datos para un efecto secundario comun del tratamiento oncologico.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "cancer",
+        "suplementos",
+        "memoria"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 552,
+      "titulo": "Estudios de la NASA muestran como las ondas gravitacionales podrian revelar nuevos exoplanetas",
+      "resumen": "Dos estudios liderados por astrofisicos de la NASA muestran en detalle como el futuro observatorio espacial LISA, disenado para detectar ondas gravitacionales, podria identificar una poblacion nueva y unica de exoplanetas distribuidos por toda la galaxia. La tecnica complementaria a los metodos actuales de deteccion abriria una ventana distinta para encontrar mundos lejanos.",
+      "por_que_leerlo": "Explica un metodo de deteccion de exoplanetas completamente distinto a los usados hasta ahora, basado en gravedad en vez de luz.",
+      "seccion": "ciencia",
+      "tags": [
+        "exoplanetas",
+        "ondas gravitacionales",
+        "nasa",
+        "astronomia"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 553,
+      "titulo": "Hallan posibles senales tempranas del Alzheimer fuera del cerebro, en la union nervio-musculo",
+      "resumen": "Usando sistemas de laboratorio miniatura hechos con celulas humanas, cientificos descubrieron que mutaciones geneticas asociadas al Alzheimer hereditario pueden alterar las conexiones entre nervios y musculos sin ninguna participacion del cerebro o la medula espinal. El hallazgo podria explicar por que algunos pacientes presentan cambios fisicos antes de los sintomas cognitivos.",
+      "por_que_leerlo": "Desafia la idea de que el Alzheimer comienza exclusivamente en el cerebro y abre nuevas vias de deteccion temprana.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "neurociencia",
+        "salud",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 554,
+      "titulo": "Los altos precios del petroleo generan una leve caida en las emisiones globales de carbono",
+      "resumen": "Las emisiones de combustibles fosiles caerian 0.4% este ano, rompiendo la tendencia reciente de aumento sostenido, en parte porque los precios mas altos del petroleo desincentivan el consumo. Analistas advierten que la baja probablemente sea temporal y no refleja un cambio estructural en la demanda energetica.",
+      "por_que_leerlo": "Entender como los precios de la energia mueven las emisiones ayuda a leer mejor las senales del mercado petrolero.",
+      "seccion": "ciencia",
+      "tags": [
+        "emisiones",
+        "petroleo",
+        "energia",
+        "clima"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 555,
+      "titulo": "Los drones de fibra optica de Ucrania compiten con los centros de datos de IA por fibra china",
+      "resumen": "Ucrania depende de fibra optica china para fabricar drones de guerra, pero el auge de los centros de datos de inteligencia artificial esta disparando la demanda global de ese mismo insumo y encareciendo su acceso. El pais compite ahora no solo con Rusia sino con la industria de IA por un recurso estrategico limitado.",
+      "por_que_leerlo": "Revela un efecto colateral poco conocido del boom de infraestructura de IA sobre cadenas de suministro criticas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "cadena de suministro",
+        "inteligencia artificial",
+        "ucrania",
+        "fibra optica"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
+      "id": 556,
+      "titulo": "N-able apaga su servicio de acceso remoto tras publicacion de decenas de fallas de dia cero",
+      "resumen": "La empresa de software de gestion remota N-able saco de linea su servicio N-central despues de que un investigador publicara decenas de vulnerabilidades de dia cero sin parchear. La compania tambien pidio a sus clientes con servidores propios que los apagaran ante un incidente de seguridad critico por temor a ciberataques.",
+      "por_que_leerlo": "Es un caso concreto de como una sola publicacion de vulnerabilidades puede forzar el apagon de un servicio usado por miles de empresas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "vulnerabilidades",
+        "software",
+        "dia cero"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 18:33",
+      "auto_generated": true
+    },
+    {
       "id": 533,
       "titulo": "Descubren por accidente cómo reorganizar el molibdeno a temperatura ambiente",
       "resumen": "Investigadores de la Universidad de Rochester y el Technion hallaron accidentalmente una forma de recristalizar el molibdeno, un metal que resiste más de 2.600°C y se usa en reactores nucleares, turbinas de avión y boquillas de cohetes, sin necesidad de calentarlo. El hallazgo podría simplificar y abaratar el procesamiento de uno de los metales más difíciles de manipular industrialmente.",
