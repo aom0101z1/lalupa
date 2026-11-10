@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-09"
+    "ultima_actualizacion": "2026-11-10"
   },
   "lecturas": [
+    {
+      "id": 533,
+      "titulo": "Descubren por accidente cómo reorganizar el molibdeno a temperatura ambiente",
+      "resumen": "Investigadores de la Universidad de Rochester y el Technion hallaron accidentalmente una forma de recristalizar el molibdeno, un metal que resiste más de 2.600°C y se usa en reactores nucleares, turbinas de avión y boquillas de cohetes, sin necesidad de calentarlo. El hallazgo podría simplificar y abaratar el procesamiento de uno de los metales más difíciles de manipular industrialmente.",
+      "por_que_leerlo": "Muestra cómo un accidente de laboratorio puede abrir una vía más barata para fabricar componentes críticos de aviación y energía nuclear.",
+      "seccion": "ciencia",
+      "tags": [
+        "materiales",
+        "ingenieria",
+        "metalurgia",
+        "energia nuclear"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-accidental-discovery-enables-room-temperature.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 534,
+      "titulo": "CERN confirma por primera vez una desintegración de partículas que ocurre una vez en 10.000 millones",
+      "resumen": "Tras más de 40 años de búsqueda, científicos del CERN hallaron evidencia de una desintegración de partículas extremadamente rara, que ocurre solo una vez por cada 10.000 millones de desintegraciones comunes. El hallazgo podría ayudar a detectar partículas y fuerzas aún desconocidas que no alcanzan a verse con los aceleradores más potentes actuales.",
+      "por_que_leerlo": "Es un hito de física fundamental que podría abrir la puerta a descubrir fenómenos más allá del modelo estándar.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica",
+        "cern",
+        "particulas",
+        "ciencia fundamental"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 535,
+      "titulo": "Gemini de Google enviaria archivos de Drive y correos a anotadores humanos",
+      "resumen": "Un reporte en GitHub, con cientos de respaldos en Hacker News, documenta que Gemini de Google estaria enrutando archivos personales de Drive y contenido de correos electronicos hacia anotadores humanos para revision. El hallazgo genero mas de 470 votos y un intenso debate sobre como las IA integradas en suites de productividad manejan datos privados sin consentimiento claro.",
+      "por_que_leerlo": "Si usas herramientas de IA integradas con tu correo o almacenamiento en la nube, esto te muestra un riesgo real de privacidad que vale la pena entender antes de confiar tus datos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "inteligencia artificial",
+        "google",
+        "seguridad de datos"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/thisisme6598/gemini_files/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 536,
+      "titulo": "SpaceX planea una planta de gas y centro de datos de US$24.000 millones en Texas",
+      "resumen": "SpaceX proyecta construir un centro de datos junto con una planta de gas natural valorada en US$24.000 millones en Texas, buscando integrar verticalmente su cadena energética. La iniciativa se suma a los esfuerzos de Elon Musk por asegurar suministro energético propio para operaciones de cómputo intensivo.",
+      "por_que_leerlo": "Muestra cómo las grandes tecnológicas resuelven el cuello de botella energético de la IA integrando producción de gas directamente a sus centros de datos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "spacex",
+        "energia",
+        "centros de datos",
+        "gas natural"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/spacex-planea-construir-centro-de-datos-y-una-planta-de-gas-de-us-24-mil-millones-en-texas-4520781"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 537,
+      "titulo": "La producción de gas en Colombia cae y las importaciones se disparan 138%",
+      "resumen": "La producción de petróleo bajó 2,9% y la de gas cayó 13% frente a septiembre de 2025, mientras las importaciones de gas se dispararon 138% y ya cubren cerca del 40% de la demanda nacional. El dato expone una creciente dependencia energética del país justo cuando se debate el futuro del fracking y la exploración.",
+      "por_que_leerlo": "Revela un riesgo estructural para la seguridad energética y los costos industriales de Colombia que pocos están discutiendo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "gas natural",
+        "colombia",
+        "energia",
+        "produccion petrolera"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/cae-produccio-gas-colombia-sube-importacion/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 538,
+      "titulo": "Nueva técnica eléctrica concentra leche sin usar calor",
+      "resumen": "Investigadores desarrollaron un método que usa electricidad en lugar de calor para concentrar y deshidratar leche, evitando degradar nutrientes sensibles al calor. El proceso busca reducir el alto consumo energético de la industria lechera, que hoy depende de secado térmico intensivo para producir leche en polvo.",
+      "por_que_leerlo": "Ofrece una alternativa energéticamente más eficiente para quienes trabajan en procesamiento de alimentos o buscan reducir costos industriales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "alimentos",
+        "energia",
+        "ingenieria",
+        "innovacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-electrical-technique-traditional-methods.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 539,
+      "titulo": "Microbios que comen metano generan sus propios nanocables para producir electricidad",
+      "resumen": "Investigadores de la Universidad de Radboud mostraron que arqueas metanotróficas anaerobias (ANME), capaces de convertir metano en electricidad, producen nanocables conductores para transportar esa carga. El hallazgo, publicado en Nature Communications, revela el mecanismo físico detrás de un proceso biológico que podría aprovecharse en biosensores o celdas de combustible.",
+      "por_que_leerlo": "Apunta a una tecnología bioeléctrica emergente que convierte un gas de efecto invernadero en electricidad útil.",
+      "seccion": "ciencia",
+      "tags": [
+        "biotecnologia",
+        "energia",
+        "microbiologia",
+        "innovacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-methane-microbes-grown-electrodes-electrically.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 540,
+      "titulo": "Paisajes con árboles casi duplican el rendimiento del cacao en Perú gracias a aves y murciélagos",
+      "resumen": "Un estudio internacional liderado por la Universidad de Viena, con participación de Bioversity International en Perú, encontró que los sistemas agroforestales con mayor cobertura arbórea casi duplican la producción de cacao gracias a servicios ecosistémicos de aves y murciélagos que controlan plagas. El hallazgo cuestiona la idea de que biodiversidad y productividad agrícola sean objetivos incompatibles.",
+      "por_que_leerlo": "Da evidencia concreta para productores e inversionistas agrícolas latinoamericanos que buscan aumentar rendimiento sin sacrificar biodiversidad.",
+      "seccion": "ciencia",
+      "tags": [
+        "agricultura",
+        "america latina",
+        "biodiversidad",
+        "agronegocios"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-tree-rich-landscapes-birds-cacao.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 541,
+      "titulo": "Algunas regiones del mundo ya viven como si el planeta estuviera 1,5°C más caliente",
+      "resumen": "Un estudio en Nature Climate Change encontró que varias regiones ya experimentaron entre el 90% y 94% del calentamiento esperado cuando el promedio global llegue a 1,5°C sobre niveles preindustriales, y entre 65% y 76% del esperado a 2°C. Los autores señalan que el calentamiento regional de 2025 fue estadísticamente indistinguible del nivel proyectado para un mundo 1,5°C más caliente.",
+      "por_que_leerlo": "Da cifras concretas sobre cuánto calentamiento ya está 'pagado' en distintas regiones, útil para evaluar riesgos climáticos en negocios y seguros.",
+      "seccion": "ciencia",
+      "tags": [
+        "cambio climatico",
+        "datos",
+        "riesgo",
+        "medio ambiente"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-regions-15c-warmer-world.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 542,
+      "titulo": "Wyndham expuso datos de clientes por una credencial de acceso fija en su app",
+      "resumen": "Una credencial de acceso codificada directamente en la aplicacion movil de Wyndham permitia a cualquiera acceder a datos de huespedes sin autorizacion. La cadena hotelera se nego a confirmar si tiene forma de verificar accesos no autorizados ocurridos en el pasado.",
+      "por_que_leerlo": "Muestra un error de seguridad basico que cualquier desarrollador deberia evitar al construir apps con datos sensibles.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "filtracion de datos",
+        "aplicaciones moviles",
+        "hoteles"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 543,
+      "titulo": "Robotaxis de Waymo siguieron rebasando buses escolares de forma ilegal pese a una actualizacion de software",
+      "resumen": "Reguladores federales de EE.UU. senalan que los vehiculos autonomos de Waymo continuaron pasando ilegalmente junto a buses escolares detenidos, casi un ano despues de que la empresa lanzara una actualizacion de software destinada a corregir el problema.",
+      "por_que_leerlo": "Expone los limites reales de la conduccion autonoma cuando se enfrenta a reglas de transito criticas para la seguridad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "vehiculos autonomos",
+        "seguridad vial",
+        "inteligencia artificial",
+        "regulacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
+    {
+      "id": 544,
+      "titulo": "Google presenta sus nuevos chips TPU 8tx y TPU 8i Max para infraestructura de IA",
+      "resumen": "Google anuncio dos nuevas generaciones de sus procesadores especializados en inteligencia artificial, TPU 8tx y TPU 8i Max, orientados a ampliar su infraestructura de nube global para cargas de trabajo de IA.",
+      "por_que_leerlo": "Entender hacia donde avanza el hardware de IA ayuda a anticipar costos y capacidades de computo para quienes construyen productos con modelos grandes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "hardware",
+        "inteligencia artificial",
+        "infraestructura",
+        "google"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-10 04:33",
+      "auto_generated": true
+    },
     {
       "id": 521,
       "titulo": "Tras 35 años de estudio, hallan que los ratones (no los venados) disparan la enfermedad de Lyme",
