@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 569,
+      "titulo": "Ingeniero de Google usa 48 agentes de IA y halla una pirámide maya oculta en 72 horas",
+      "resumen": "Un ingeniero de software de Google aplicó 48 agentes de inteligencia artificial para analizar datos de Lidar de la NASA sobre la selva, y en apenas 72 horas identificaron un sitio arqueológico maya no catalogado. El hallazgo generó más de 280 comentarios y 767 puntos en Hacker News por mostrar una aplicación concreta de IA orquestada a gran escala.",
+      "por_que_leerlo": "Muestra como orquestar decenas de agentes de IA en paralelo puede producir descubrimientos cientificos reales, no solo automatizar tareas de oficina.",
+      "seccion": "tecnologia",
+      "tags": [
+        "agentes de ia",
+        "arqueologia",
+        "lidar",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 9,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 570,
+      "titulo": "Fosiles de Homo naledi sugieren un misterioso enterramiento exclusivamente femenino",
+      "resumen": "Analisis de proteinas antiguas en dientes de al menos 20 individuos de Homo naledi, hallados en una cueva de Sudafrica, no mostraron marcadores especificos masculinos, lo que sugiere que este pariente humano extinto pudo haber creado un sitio funerario exclusivo para hembras hace mas de 240.000 anos. El hallazgo podria resolver un enigma que intrigaba a los investigadores desde hace mas de una decada.",
+      "por_que_leerlo": "Plantea una pregunta inquietante sobre el comportamiento social de nuestros parientes humanos mas antiguos, respaldada en evidencia molecular directa.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleoantropologia",
+        "homo naledi",
+        "evolucion humana",
+        "fosiles"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 571,
+      "titulo": "Ingresos trimestrales de OpenAI superan por primera vez los US$10.000 millones",
+      "resumen": "OpenAI reportó ingresos trimestrales de US$10.000 millones, un salto de casi 50% frente a los US$6.700 millones del segundo trimestre. La cifra confirma el ritmo acelerado de monetización de la empresa pese a las dudas del mercado sobre la rentabilidad de la IA generativa.",
+      "por_que_leerlo": "Da una cifra concreta para medir qué tan rápido crece realmente el negocio de IA más grande del mundo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "openai",
+        "ingresos",
+        "inteligencia artificial",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 572,
+      "titulo": "Google DeepMind verifica matemáticamente partes clave del cifrado de Signal con IA",
+      "resumen": "En un proyecto de solo cuatro semanas, DeepMind usó inteligencia artificial para verificar formalmente componentes críticos del protocolo de cifrado de Signal. El resultado sugiere que la IA podría volver mucho más práctica la verificación formal de software, una técnica hasta ahora costosa y lenta.",
+      "por_que_leerlo": "Muestra un caso concreto de cómo la IA puede acelerar la verificación de seguridad de software crítico.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "criptografia",
+        "verificacion formal",
+        "signal"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 573,
+      "titulo": "Hackean una GPU A100 de mineria con fallas de voltaje para desbloquear todo su potencial",
+      "resumen": "Un investigador uso la tecnica de 'voltage glitching' para eludir las restricciones de firmware de una tarjeta Nvidia A100 vendida para mineria, liberando sus capacidades completas de computo para IA que el fabricante tenia bloqueadas por software. Documento el proceso tecnico completo en su blog, generando 187 puntos y 65 comentarios en Hacker News.",
+      "por_que_leerlo": "Ensena una tecnica real de hardware hacking para recuperar potencia de computo de GPUs restringidas a bajo costo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "hardware hacking",
+        "gpu",
+        "voltage glitching",
+        "ia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 574,
+      "titulo": "Doble defensa protege la fotosintesis del calor extremo",
+      "resumen": "Investigadores identificaron un mecanismo doble que protege la maquinaria fotosintetica de plantas y microalgas durante olas de calor extremas, evitando la caida de eficiencia que amenaza la productividad agricola y el cultivo de microalgas para biocombustibles. El hallazgo abre la puerta a desarrollar cultivos mas resistentes al calor a medida que suben las temperaturas globales.",
+      "por_que_leerlo": "Explica un mecanismo biologico clave que podria ayudar a proteger cultivos y biocombustibles frente al calentamiento global.",
+      "seccion": "ciencia",
+      "tags": [
+        "fotosintesis",
+        "calor extremo",
+        "agricultura",
+        "biologia vegetal"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-defense-photosynthesis-extreme.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 575,
+      "titulo": "Vidrio estirado hasta el grosor de un atomo revela comportamiento util para chips",
+      "resumen": "Investigadores descubrieron que el vidrio, al estirarse hasta solo un atomo de espesor, exhibe propiedades inesperadas que podrian ayudar a manejar mejor el calor y la electricidad en dispositivos cada vez mas pequenos. El hallazgo responde a un problema central de la miniaturizacion: la falta de espacio para que fluyan el calor y la energia en los chips modernos.",
+      "por_que_leerlo": "Ofrece una pista de materiales para resolver el problema de disipacion de calor que limita la miniaturizacion electronica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "materiales",
+        "electronica",
+        "miniaturizacion",
+        "nanotecnologia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-glass-atom-wide-discovery-electronics.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 576,
+      "titulo": "Dispositivo de nitruro de galio combina sensor y memoria para computar en el propio chip",
+      "resumen": "Un equipo desarrollo un dispositivo de nitruro de galio y aluminio que integra deteccion de luz, memoria y procesamiento basico controlando cargas en interfaces de polarizacion, segun un estudio en Nature Materials. El chip detecta luz a niveles de nanovatios por centimetro cuadrado y opera de forma estable hasta 300 grados Celsius.",
+      "por_que_leerlo": "Muestra una via concreta hacia sensores con computo integrado, util para quienes disenan hardware o dispositivos IoT para entornos extremos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "semiconductores",
+        "computacion en el sensor",
+        "hardware",
+        "nitruro de galio"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 577,
+      "titulo": "Cientificos creen resolver el misterio de como la piel sabe donde crecer pelo",
+      "resumen": "Un nuevo estudio sugiere que los intrincados patrones de foliculos piloso en mamiferos surgirian de un proceso sorprendentemente simple: celulas que siguen senales quimicas, sin necesidad de un plano detallado previo. El hallazgo desafia una teoria de larga data sobre como la naturaleza genera patrones biologicos complejos.",
+      "por_que_leerlo": "Muestra como un mecanismo simple puede generar complejidad biologica, cambiando una idea establecida desde hace decadas.",
+      "seccion": "ciencia",
+      "tags": [
+        "biologia del desarrollo",
+        "patrones biologicos",
+        "piel",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 578,
+      "titulo": "Por que algunos mosquitos prefieren picar a ciertas personas y no a otras",
+      "resumen": "Un estudio revela que distintas especies de mosquitos se sienten atraidas por combinaciones particulares de olores de la piel, quimicos y bacterias, desafiando la idea de un iman universal para mosquitos. El hallazgo podria llevar a repelentes mas efectivos contra especies que transmiten enfermedades peligrosas.",
+      "por_que_leerlo": "Ofrece una base cientifica para desarrollar repelentes mas efectivos y entender un fenomeno cotidiano con datos concretos.",
+      "seccion": "ciencia",
+      "tags": [
+        "mosquitos",
+        "salud publica",
+        "repelentes",
+        "biologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 579,
+      "titulo": "La FDA advierte que los medicamentos GLP-1 podrían elevar el riesgo de una rara pérdida de visión",
+      "resumen": "La agencia estadounidense FDA emitió una advertencia sobre un posible vínculo entre los medicamentos GLP-1 (como los usados para diabetes y pérdida de peso) y un riesgo raro de pérdida de visión. La agencia señala que el riesgo parece pequeño y los datos son mixtos, pero quiere que los pacientes estén informados.",
+      "por_que_leerlo": "Es información médica basada en evidencia regulatoria sobre fármacos que millones de personas usan hoy.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "medicamentos",
+        "fda",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
+      "id": 580,
+      "titulo": "Anif propone vender ISA y recortar el gasto público para sanear las finanzas de Colombia",
+      "resumen": "El centro de pensamiento Anif respaldó la Ley de Rescate fiscal pero pidió revisar medidas tributarias y laborales, y planteó vender la participación estatal en ISA, reducir cargos estatales y focalizar mejor los subsidios para aliviar las finanzas públicas del país.",
+      "por_que_leerlo": "Presenta una propuesta concreta de mercado frente al déficit fiscal colombiano, útil para entender hacia dónde podría moverse la política económica.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "gasto publico",
+        "isa",
+        "fiscal",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/anif-propuso-vender-isa-y-recortar-el-gasto-publico-para-aliviar-las-finanzas-de-la-nacion-4522410"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 18:24",
+      "auto_generated": true
+    },
+    {
       "id": 557,
       "titulo": "Cometas pudieron destruir, no traer, los ingredientes de la vida a la Tierra",
       "resumen": "Un estudio de la Universidad de Cambridge cuestiona la teoría centenaria de que los cometas trajeron las moléculas orgánicas que originaron la vida en la Tierra. Los cálculos muestran que la velocidad y el ángulo de los impactos eran demasiado violentos para que esas frágiles moléculas sobrevivieran. Curiosamente, Marte habría tenido mejores condiciones para recibirlas intactas, aunque tampoco ideales.",

@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:34:49 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:24:28 -0000</lastBuildDate>
+    <item>
+      <title>Ingeniero de Google usa 48 agentes de IA y halla una pirámide maya oculta en 72 horas</title>
+      <link>https://pietromiotti.com/latest/maya-site/?maya</link>
+      <guid isPermaLink="false">lalupa-lectura-569</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un ingeniero de software de Google aplicó 48 agentes de inteligencia artificial para analizar datos de Lidar de la NASA sobre la selva, y en apenas 72 horas identificaron un sitio arqueológico maya no catalogado. El hallazgo generó más de 280 comentarios y 767 puntos en Hacker News por mostrar una aplicación concreta de IA orquestada a gran escala. Por que leerlo: Muestra como orquestar decenas de agentes de IA en paralelo puede producir descubrimientos cientificos reales, no solo automatizar tareas de oficina. (Hacker News, 6 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>Fosiles de Homo naledi sugieren un misterioso enterramiento exclusivamente femenino</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261110042558.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-570</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Analisis de proteinas antiguas en dientes de al menos 20 individuos de Homo naledi, hallados en una cueva de Sudafrica, no mostraron marcadores especificos masculinos, lo que sugiere que este pariente humano extinto pudo haber creado un sitio funerario exclusivo para hembras hace mas de 240.000 anos. El hallazgo podria resolver un enigma que intrigaba a los investigadores desde hace mas de una decada. Por que leerlo: Plantea una pregunta inquietante sobre el comportamiento social de nuestros parientes humanos mas antiguos, respaldada en evidencia molecular directa. (ScienceDaily, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Ingresos trimestrales de OpenAI superan por primera vez los US$10.000 millones</title>
+      <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
+      <guid isPermaLink="false">lalupa-lectura-571</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>OpenAI reportó ingresos trimestrales de US$10.000 millones, un salto de casi 50% frente a los US$6.700 millones del segundo trimestre. La cifra confirma el ritmo acelerado de monetización de la empresa pese a las dudas del mercado sobre la rentabilidad de la IA generativa. Por que leerlo: Da una cifra concreta para medir qué tan rápido crece realmente el negocio de IA más grande del mundo. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Google DeepMind verifica matemáticamente partes clave del cifrado de Signal con IA</title>
+      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
+      <guid isPermaLink="false">lalupa-lectura-572</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>En un proyecto de solo cuatro semanas, DeepMind usó inteligencia artificial para verificar formalmente componentes críticos del protocolo de cifrado de Signal. El resultado sugiere que la IA podría volver mucho más práctica la verificación formal de software, una técnica hasta ahora costosa y lenta. Por que leerlo: Muestra un caso concreto de cómo la IA puede acelerar la verificación de seguridad de software crítico. (Ars Technica, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Hackean una GPU A100 de mineria con fallas de voltaje para desbloquear todo su potencial</title>
+      <link>https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/</link>
+      <guid isPermaLink="false">lalupa-lectura-573</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un investigador uso la tecnica de 'voltage glitching' para eludir las restricciones de firmware de una tarjeta Nvidia A100 vendida para mineria, liberando sus capacidades completas de computo para IA que el fabricante tenia bloqueadas por software. Documento el proceso tecnico completo en su blog, generando 187 puntos y 65 comentarios en Hacker News. Por que leerlo: Ensena una tecnica real de hardware hacking para recuperar potencia de computo de GPUs restringidas a bajo costo. (Hacker News, 8 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Doble defensa protege la fotosintesis del calor extremo</title>
+      <link>https://phys.org/news/2026-11-defense-photosynthesis-extreme.html</link>
+      <guid isPermaLink="false">lalupa-lectura-574</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores identificaron un mecanismo doble que protege la maquinaria fotosintetica de plantas y microalgas durante olas de calor extremas, evitando la caida de eficiencia que amenaza la productividad agricola y el cultivo de microalgas para biocombustibles. El hallazgo abre la puerta a desarrollar cultivos mas resistentes al calor a medida que suben las temperaturas globales. Por que leerlo: Explica un mecanismo biologico clave que podria ayudar a proteger cultivos y biocombustibles frente al calentamiento global. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Vidrio estirado hasta el grosor de un atomo revela comportamiento util para chips</title>
+      <link>https://phys.org/news/2026-11-glass-atom-wide-discovery-electronics.html</link>
+      <guid isPermaLink="false">lalupa-lectura-575</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores descubrieron que el vidrio, al estirarse hasta solo un atomo de espesor, exhibe propiedades inesperadas que podrian ayudar a manejar mejor el calor y la electricidad en dispositivos cada vez mas pequenos. El hallazgo responde a un problema central de la miniaturizacion: la falta de espacio para que fluyan el calor y la energia en los chips modernos. Por que leerlo: Ofrece una pista de materiales para resolver el problema de disipacion de calor que limita la miniaturizacion electronica. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Dispositivo de nitruro de galio combina sensor y memoria para computar en el propio chip</title>
+      <link>https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html</link>
+      <guid isPermaLink="false">lalupa-lectura-576</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un equipo desarrollo un dispositivo de nitruro de galio y aluminio que integra deteccion de luz, memoria y procesamiento basico controlando cargas en interfaces de polarizacion, segun un estudio en Nature Materials. El chip detecta luz a niveles de nanovatios por centimetro cuadrado y opera de forma estable hasta 300 grados Celsius. Por que leerlo: Muestra una via concreta hacia sensores con computo integrado, util para quienes disenan hardware o dispositivos IoT para entornos extremos. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Cientificos creen resolver el misterio de como la piel sabe donde crecer pelo</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261109205413.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-577</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un nuevo estudio sugiere que los intrincados patrones de foliculos piloso en mamiferos surgirian de un proceso sorprendentemente simple: celulas que siguen senales quimicas, sin necesidad de un plano detallado previo. El hallazgo desafia una teoria de larga data sobre como la naturaleza genera patrones biologicos complejos. Por que leerlo: Muestra como un mecanismo simple puede generar complejidad biologica, cambiando una idea establecida desde hace decadas. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Por que algunos mosquitos prefieren picar a ciertas personas y no a otras</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261106174541.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-578</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio revela que distintas especies de mosquitos se sienten atraidas por combinaciones particulares de olores de la piel, quimicos y bacterias, desafiando la idea de un iman universal para mosquitos. El hallazgo podria llevar a repelentes mas efectivos contra especies que transmiten enfermedades peligrosas. Por que leerlo: Ofrece una base cientifica para desarrollar repelentes mas efectivos y entender un fenomeno cotidiano con datos concretos. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La FDA advierte que los medicamentos GLP-1 podrían elevar el riesgo de una rara pérdida de visión</title>
+      <link>https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/</link>
+      <guid isPermaLink="false">lalupa-lectura-579</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>La agencia estadounidense FDA emitió una advertencia sobre un posible vínculo entre los medicamentos GLP-1 (como los usados para diabetes y pérdida de peso) y un riesgo raro de pérdida de visión. La agencia señala que el riesgo parece pequeño y los datos son mixtos, pero quiere que los pacientes estén informados. Por que leerlo: Es información médica basada en evidencia regulatoria sobre fármacos que millones de personas usan hoy. (Ars Technica, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Anif propone vender ISA y recortar el gasto público para sanear las finanzas de Colombia</title>
+      <link>https://www.larepublica.co/economia/anif-propuso-vender-isa-y-recortar-el-gasto-publico-para-aliviar-las-finanzas-de-la-nacion-4522410</link>
+      <guid isPermaLink="false">lalupa-lectura-580</guid>
+      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El centro de pensamiento Anif respaldó la Ley de Rescate fiscal pero pidió revisar medidas tributarias y laborales, y planteó vender la participación estatal en ISA, reducir cargos estatales y focalizar mejor los subsidios para aliviar las finanzas públicas del país. Por que leerlo: Presenta una propuesta concreta de mercado frente al déficit fiscal colombiano, útil para entender hacia dónde podría moverse la política económica. (La Republica, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Cometas pudieron destruir, no traer, los ingredientes de la vida a la Tierra</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261105224553.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
       <category>Tecnología</category>
       <description>Segun la Encuesta de Poblacion Activa (EPA), el empleo en el sector de programacion y consultoria informatica en Espana alcanzo un record historico, sin senales todavia de la caida masiva de puestos que varios estudios anticipaban por la automatizacion con IA. Los datos sugieren que, por ahora, el desplazamiento laboral previsto avanza mas lento de lo proyectado. Por que leerlo: Da evidencia real, no especulacion, sobre el impacto actual de la IA en el empleo tecnologico. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Terapia celular elimina tumores cerebrales mortales en el 100% de los ratones tratados</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261104084009.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-509</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos de UC San Francisco desarrollaron celulas CAR-T modificadas (B-SYNC) que permanecen inactivas hasta llegar al cerebro, donde atacan el glioma difuso de linea media, un cancer infantil casi siempre mortal en un ano. La terapia elimino por completo los tumores en dos modelos distintos de raton. Por que leerlo: Muestra como la ingenieria celular de precision podria convertir un cancer infantil letal en una enfermedad tratable. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un hallazgo fosil en Colombia revela un patron desconocido de la evolucion marina</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261106174535.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-510</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores descubrieron en Colombia un ecosistema marino antiguo extraordinariamente diverso, con reptiles gigantes, tiburones y otras especies que coexistieron justo cuando grupos evolutivos mas antiguos se extinguian y surgian otros nuevos. Los autores llaman a este patron inedito 'inflexion biotica'. Por que leerlo: Un yacimiento colombiano esta reescribiendo como entendemos los grandes cambios evolutivos de la historia de la Tierra. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Investigadores alemanes resuelven el misterio de los apagones sincronizados en redes electricas</title>
-      <link>https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/</link>
-      <guid isPermaLink="false">lalupa-lectura-511</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Durante anos, caidas de frecuencia golpearon de forma simultanea redes electricas en distintos continentes sin que nadie supiera por que. Un equipo de investigadores en Alemania identifico la causa raiz de estas perturbaciones coordinadas, un hallazgo clave para prevenir fallos masivos de suministro. Por que leerlo: Explica con evidencia tecnica un fenomeno que amenazaba la estabilidad energetica mundial y como terminaron resolviendolo. (TechCrunch, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Goldman Sachs retira la herramienta de IA Claude Code a banqueros y traders</title>
-      <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-      <guid isPermaLink="false">lalupa-lectura-512</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El banco de inversion dejo de usar Claude Code entre sus empleados financieros tras evaluar su desempeno real en tareas de trading y banca, en un giro frente a la ola de adopcion de IA generativa en Wall Street. El caso expone los limites practicos de estas herramientas en entornos regulados y de alto riesgo. Por que leerlo: Da pistas concretas sobre donde si funciona y donde no la IA generativa en trabajos financieros serios. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El fin del racionamiento de azucar en Reino Unido revela su vinculo con la demencia decadas despues</title>
-      <link>https://www.xataka.com/medicina-y-salud/sabiamos-que-exceso-azucar-era-malo-para-engordar-ahora-tambien-puede-dar-demencia-muchos-anos-te-des-cuenta</link>
-      <guid isPermaLink="false">lalupa-lectura-513</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio aprovecho el experimento natural de 1953, cuando el consumo diario de azucar en Reino Unido se duplico de 41 a mas de 80 gramos tras terminar el racionamiento de la guerra, para medir su efecto de largo plazo en el cerebro. Los datos muestran que el exceso de azucar en la infancia se asocia a mayor riesgo de demencia decadas mas tarde. Por que leerlo: Ofrece evidencia concreta de un riesgo de salud silencioso que arranca en la dieta temprana. (Xataka, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Como el mensaje correcto puede aumentar lo que la gente ahorra para su pension</title>
-      <link>https://phys.org/news/2026-11-personalized-boost.html</link>
-      <guid isPermaLink="false">lalupa-lectura-514</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un estudio evaluo si los recordatorios de ahorro para el retiro funcionan mejor cuando enfatizan lo que la persona pierde por no ahorrar o lo que gana si lo hace, buscando la formula mas efectiva para impulsar el ahorro privado. El trabajo responde a un debate publico creciente sobre como mejorar las tasas de ahorro para la jubilacion. Por que leerlo: Ofrece evidencia util para disenar mejores recordatorios financieros, aplicable a fintechs y apps de ahorro. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nueva tecnica de cristalizacion reduce defectos en perovskitas para celdas solares y LEDs</title>
-      <link>https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html</link>
-      <guid isPermaLink="false">lalupa-lectura-515</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un equipo liderado por la Universidad Sungkyunkwan (Corea), en colaboracion con KRICT, UC San Diego y Princeton, desarrollo una pelicula semiconductora de perovskita de nueva generacion con defectos drasticamente reducidos mediante un metodo de crecimiento de cristal asistido por liquido. El avance apunta a celdas solares y LEDs mas eficientes. Por que leerlo: Es un paso concreto hacia energia solar mas eficiente y barata, clave para quien sigue el negocio de la energia renovable. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Logran el pulso de rayos X mas corto y potente jamas concentrado en un punto diminuto</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261104012329.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-516</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo de investigadores genero destellos de rayos X de apenas 300 attosegundos, concentrando una potencia enorme en un punto extremadamente pequeno, un record para este tipo de tecnologia. El avance podria permitir observar electrones en accion y controlar procesos quimicos ultrarrapidos. Por que leerlo: Abre la puerta a ver y eventualmente controlar reacciones quimicas en tiempo real a escala de electrones. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Descubren en las ecuaciones de Einstein un fenomeno donde la gravedad se rompe y libera energia</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261104084011.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-517</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores de Columbia University y la Universidad Adolfo Ibanez (Chile) identificaron un proceso teorico llamado 'reconexion gravitacional', en el que estructuras dentro de campos gravitacionales pueden romperse y reconectarse, transfiriendo energia, mas de un siglo despues de que Einstein formulara su teoria de la relatividad general. Por que leerlo: Revela un comportamiento inesperado dentro de una teoria que se creia completamente entendida desde hace mas de 100 anos. (ScienceDaily, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Como un rascacielos de Londres concentro el sol hasta derretir coches aparcados en la calle</title>
-      <link>https://www.xataka.com/magnet/este-edificio-londres-parecia-normal-que-coches-aparcados-enfrente-empezaron-a-derretirse</link>
-      <guid isPermaLink="false">lalupa-lectura-518</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>En 2013 el edificio Walkie-Talkie de Londres comenzo a reflejar y concentrar la luz solar en un punto de la calle, deformando autos estacionados y danando negocios cercanos. El caso se volvio un ejemplo clasico de como un error de diseno arquitectonico genera un fenomeno fisico imprevisto. Por que leerlo: Una leccion de ingenieria sobre como la forma de un edificio puede convertirse en un espejo ardiente sin que nadie lo planeara. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Espana ya genera 56% de su electricidad con renovables, pero la AIE senala su gran pendiente</title>
-      <link>https://www.xataka.com/energia/espana-genera-56-su-electricidad-renovables-aie-senala-gran-problema-que-todavia-no-ha-resuelto</link>
-      <guid isPermaLink="false">lalupa-lectura-519</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Segun el informe Spain 2026 de la Agencia Internacional de la Energia, Espana avanzo con fuerza en renovables y descarbonizacion, pero el organismo identifica un problema estructural del sistema energetico que el pais aun no resuelve. Por que leerlo: Muestra con datos oficiales hasta donde llego la transicion energetica espanola y cual es el cuello de botella que falta destrabar. (Xataka, 6 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La extraña supervivencia de Pinterest: por qué sigue siendo rentable pese a usuarios pasivos</title>
-      <link>https://www.xataka.com/empresas-y-economia/extrana-supervivencia-pinterest-quien-demonios-sigue-utilizandolo-que-sigue-ganando-dinero</link>
-      <guid isPermaLink="false">lalupa-lectura-520</guid>
-      <pubDate>Mon, 09 Nov 2026 02:24:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Pinterest mantiene ingresos sólidos aunque buena parte de su tráfico llega desde buscadores y nunca se convierte en usuarios activos reconocidos; la gente guarda imágenes y se olvida de la plataforma. El artículo explica cómo este patrón de uso esporádico sostiene un modelo de negocio distinto al de otras redes sociales. Por que leerlo: Explica cómo una plataforma con usuarios 'fantasma' logra monetizar de forma sostenible, una lección útil para cualquier producto digital. (Xataka, 6 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
