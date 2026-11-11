@@ -221,6 +221,397 @@
   ],
   "casos": [
     {
+      "id": 2933,
+      "titulo": "Iniciativa ciudadana denuncia ausencia de ayuda estatal tres meses despues del sismo",
+      "categoria": "damnificados",
+      "fecha": "2026-11-10",
+      "descripcion": "La medica Laura Castaño Vargas, lidera la iniciativa 'De la Carpa a la Casa', que busca apadrinar y reubicar a familias que perdieron sus viviendas tras el terremoto del 10 de agosto. El reportaje documenta que, a tres meses del sismo, las familias afectadas denuncian que la ayuda del Estado no ha llegado, por lo que han debido depender de esfuerzos ciudadanos independientes para la reubicacion de damnificados.",
+      "evidencia": "Reportado por France 24",
+      "fuentes": [
+        {
+          "nombre": "France 24",
+          "url": "https://www.france24.com/es/video/20261110-no-llega-ayuda-del-estado-colombia-a-tres-meses-del-terremoto",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Laura Castaño Vargas"
+      ],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2932,
+      "titulo": "Recaudo tributario de octubre supera meta en $4,3 billones",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El recaudo tributario de octubre de 2026 superó en $4,3 billones la meta prevista por el Gobierno. El total acumulado en los primeros diez meses del año alcanzó los $271,2 billones, cifra que incorpora ingresos extraordinarios asociados a las emergencias económicas declaradas por el Gobierno De la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/recaudo-tributario-en-octubre-supero-en-43-billones-meta-prevista-por-el-gobierno",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / DIAN",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2931,
+      "titulo": "Gobierno saca a tres generales del Ejercito por bajos resultados",
+      "categoria": "gabinete",
+      "fecha": "2026-11-11",
+      "descripcion": "El gobierno De la Espriella avanza en la salida de tres generales del Ejercito, entre ellos Gerardo Ortiz Ramirez (comandante Octava Division) y Jorge Mario Aguirre Martinez (comandante Brigada 18), en el marco de una politica de exigencia de resultados contra el crimen anunciada desde campana.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/militares-salida-3-generales-ejercito-detalles-ineditos-bajos-resultados-HA43437167",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gerardo Ortiz Ramirez",
+        "Jorge Mario Aguirre Martinez"
+      ],
+      "entidad": "Ejercito Nacional / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2930,
+      "titulo": "Juvinao alerta sobre falta de control en el Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-10",
+      "descripcion": "La representante Catherine Juvinao advirtio que el Fondo Milagro opera como 'un cheque en blanco', senalando falta de controles y transparencia en el manejo de los recursos para la reconstruccion tras el terremoto.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalA4Qi1OR0JfeUZrUnc0aVV0aF9nM25EZUN6eTk4dWFkUHdJTHc3bjlBZVFtNno4ZUhxaVVKRUxGS1BvMFBIZVNfZHpqTWpROWxvLUZmTS12c3NwZEhfNmstRTloMEt6d2FuTU9jQWZxT291VG9wY1R6MzMxZFc4OHNsbEVDb2l0TUJXd1ctcWZSYUVqQ3RsdUtiOVUtOTk1cWRVSHRSaG9kTWUtRDh1UjVLUDFqYndj0gHMAUFVX3lxTFBXRHJ3X2RoX3JtSEZxdE0yU3ZfQ2RpaDdmWFBGaVN5ZmFQcWNCX01teElrM0pHNF8wN0Y3VFhwV3h2R3B1dnhXQ3B3a1I3MC1EYktJY3FzSTd3aUdVektnTzZBbExQb09SaXhjdzBvNHRxa3ZrS2tsM3Q2YVhpTEZHVHVEX0hWLW9McmRtYk0wN1RabDZJLTloaVJQTmpHMENybjFhNmFYejdzNVV2LWxLZWZITG10Tnp3eFZ4UFFLX0hvUnZ5dlBIUzhxTA?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Catherine Juvinao"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2929,
+      "titulo": "Gobierno reporta cifras de ahorro por recortes de gasto",
+      "categoria": "transparencia",
+      "fecha": "2026-11-10",
+      "descripcion": "Reporte periodistico detalla las cifras de ahorro fiscal logradas por el gobierno De la Espriella mediante recortes de gasto publico, en el marco de su politica de austeridad.",
+      "evidencia": "Reportado por Kienyke",
+      "fuentes": [
+        {
+          "nombre": "Kienyke",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTNzWXBNMTQtM0JRb0c4cGV3Sk5RNHdTdVRDVEhXZC10eDcyN0JvRmhLR3VCRUFFalF6X2hvUGx6NHRyOFVEQUNlcUFvN2ZYUE11Znk5N0djcGFjRUtqYU0wRklRMFRSVDlhRnBlclk1cnhDRHJSS2lnMTR0QlFoSzJKQ0tkSG9PdW0zQm9GSDU?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2928,
+      "titulo": "Gobierno reporta octavo bombardeo tras operación en el Catatumbo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-10",
+      "descripcion": "El presidente Abelardo de la Espriella reportó el octavo bombardeo de su gobierno, ejecutado a las 10:17 p.m. del 10 de noviembre, 48 horas después de una operación militar en el Catatumbo. La región y el grupo armado atacado no fueron revelados de inmediato por las autoridades.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-de-la-espriella-reporta-el-octavo-bombardeo-de-su-gobierno-48-horas-despues-de-operacion-en-el-catatumbo-3600078",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2927,
+      "titulo": "Partido Conservador prepara alternativas a la reforma tributaria y ley de ajuste fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El Partido Conservador, junto con bancadas afines al Gobierno como el uribismo, anunció que presentará alternativas a la reforma tributaria y la ley de ajuste fiscal del Ejecutivo, buscando mecanismos para captar recursos sin aumentar impuestos a la población, en el marco del debate legislativo en curso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/partido-conservador-prepara-alternativas-para-la-reforma-tributaria-y-ley-de-ajuste-fiscal-no-vamos-a-presentar-contrarreforma-sino-soluciones-3600052",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Partido Conservador / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2926,
+      "titulo": "Desmentida afirmación de Petro sobre kits de emergencia por guerra nuclear",
+      "categoria": "mentiras",
+      "fecha": "2026-11-11",
+      "descripcion": "La Silla Vacía desmintió una afirmación del expresidente Gustavo Petro según la cual varios gobiernos recomendaron kits de emergencia ante una inminente guerra nuclear. La verificación encontró que algunas guías de kits de emergencia publicadas por distintos gobiernos responden a riesgos propios de cada país y no están relacionadas con un conflicto nuclear mundial, como afirmó Petro.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/gobiernos-si-recomiendan-kits-de-emergencia-pero-no-por-guerra-nuclear-como-dice-petro/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "La Silla Vacía",
+      "estado": "Desmentido",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42"
+    },
+    {
+      "id": 2925,
+      "titulo": "Gobierno plantea saneamiento de deudas de EPS y nuevas reglas con la Adres",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El Gobierno de De la Espriella presentó una propuesta para sanear las deudas del sistema de salud y modificar las reglas de operación de las EPS. La iniciativa contempla la recuperación de fondos por parte de la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (Adres), en medio del hueco financiero heredado del gobierno anterior.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/sistema-de-salud-gobierno-plantea-sanear-deudas-y-cambiar-reglas-para-eps",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Adres",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2924,
+      "titulo": "Registrador Penagos denunció desde marzo plan para alterar sistemas de la Registraduría",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-11",
+      "descripcion": "Según una investigación de Red+ Noticias revelada el 10 de noviembre, el registrador nacional Hernán Penagos alertó y denunció ante la Fiscalía General de la Nación desde el 5 de marzo un presunto plan para alterar los sistemas informáticos de la Registraduría, en plena época preelectoral, meses antes de las elecciones que llevaron a Abelardo de la Espriella al poder. La denuncia cobra relevancia por su posible relación con el entramado de irregularidades electorales ya investigado en la DNI.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/registrador-penagos-habria-denunciado-marzo-plan-alterar-sistemas-informaticos-registraduria-JA43436492",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Hernán Penagos"
+      ],
+      "entidad": "Registraduría Nacional del Estado Civil / Fiscalía General de la Nación",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42"
+    },
+    {
+      "id": 2923,
+      "titulo": "Reclutamiento de menores aumentó 152% y casos de terrorismo se cuadruplicaron en primeros 90 días de Gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-11-10",
+      "descripcion": "Un balance de los primeros 90 días del Gobierno de Abelardo De la Espriella reveló que el reclutamiento forzado de menores por parte de grupos armados aumentó un 152%, mientras los casos de terrorismo se cuadruplicaron en el mismo periodo, según cifras oficiales de seguridad.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa1BiUFFjOHFyUks1LWFXUGVKT1Z0ZTB2blRjeE9XSFhnRU1rOVJjem1tNXhzVkJUZmJDT19PaGxkVE1qbElXdnlrbnkwNXNzN1FOZ3ZyZFRNMjBkMTdpN2UyTmV2WWhnOEsyYnVoMEh2UDhqcU1vSFl3ME4yOFFheTdQZWo3VFZDclFfOUgzUlZpMXVOMEFlWmx5U2V4LTZBc1JBcHdxN2psS1JQVjNQSWM2MC1VeGI5dTU3WXFrVUwyOUVXbjk2SEY0NHN5RXY2LXlYQTlzSVhSMHJ6VnJzS3FkWFNtV1BvZ0NCS2FYU0o5OXpZeFpqUVBRRDFvWXB3WmVSVlRjVVN6Z9IBpAJBVV95cUxQNnZhSHRKM1RWZkliclZ5ZlpYRy15akFja2d3TTlJcWhoUlRDelpDamYtaldWOUY1bWlZYk42ZEJPdVQ4TEtmSFJ6dzVPMmVqLVJZWjJqN2k0WFh5cGZrVExBbXRkWjlzSFdRMXhLejhQSkRtRFRveUdvbFF0WmYtczVwZ01RQjFNNHJZNW1nWHlNZWFjOU1HWGpzNmNUU0E5OXFzeDhibDZoWjN5SHlSdjZmZXVaY1pXWHhlT0NjdDUwd0F1U2o2Z0hHS3FUMHRVX3NPa3ZfbENERGpzbF9FR28zY0VuYTExQmo3TUlnMUNNSlZaaWppdk9YdWVidXZlZjh0TlBkbGh3Y0FLV0t2U21Ldjd0R1V1emU1SWU5T2d6dXlx?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policía Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2922,
+      "titulo": "JEP advierte al Gobierno y al Congreso por recorte presupuestal",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El presidente de la Jurisdicción Especial para la Paz (JEP) envió un mensaje de alerta al Gobierno de Abelardo De la Espriella y al Congreso tras conocerse un recorte en el presupuesto asignado a la entidad, lo que podría afectar el cumplimiento de sus funciones en el marco del Acuerdo de Paz.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUXc3WkQ3NUgwc0FnZVg0cXBfZVFUd2NqOTYycVNtUWxnMUF0cHZhMTlkbHdFRDZJY3NnUk5zQlJoTjZVREFONkNQUXFiZ1Y1Mjk2dWo4bUE3YjMtT0taOGxtejVLUUY2Sm5EekFsOUd3UTZRU0lCdnNrTDB3ZlRmNzl4dXhJV1VKTWwtSFJ4aThJRHBjc3NwQmoxZUJ0eHN5U1pMUThjbXNBdHpnbnVUSThYVWNpRjJoRGlhcUVFTVVFZkMxeDRRZUlKdUVRWkstYXMzZm5yTWtTVEtJN1J0T25zLUNPOVd4eTdkMFMwZnZ1ZFlS?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "JEP / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2921,
+      "titulo": "Gobierno alista Milagro Week en Nueva York con 97 proyectos por US$41.900 millones",
+      "categoria": "internacional",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno de Abelardo De la Espriella anunció la realización de la 'Milagro Week' en Nueva York, entre el 16 y 18 de noviembre, donde presentará 97 proyectos de inversión por un valor de US$41.900 millones, con el acompañamiento de ProColombia y el Ministerio de Comercio.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-de-la-espriella-alista-la-milagro-week-en-nueva-york-llevara-97-proyectos-que-buscan-inversiones-por-41-900-millones-de-dolares-3599898",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ProColombia / Ministerio de Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2920,
+      "titulo": "Minsalud halla honorarios de hasta $46 millones mensuales en contratación directa del Gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-11-10",
+      "descripcion": "Una revisión del Ministerio de Salud identificó irregularidades en la contratación directa realizada durante el Gobierno Petro, incluyendo honorarios de hasta $46 millones de pesos mensuales y 143 personas con vínculos contractuales simultáneos en distintas entidades públicas.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/minsalud-alerta-por-contratacion-directa-del-gobierno-petro-encontro-honorarios-de-hasta-46-millones-al-mes-506102",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42"
+    },
+    {
+      "id": 2919,
+      "titulo": "Asesor de campaña de Paloma Valencia era contratista del Gobierno Petro",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-10",
+      "descripcion": "En medio de las investigaciones por presunta intervención de la DNI en las elecciones, se reveló que un asesor de la campaña presidencial de la exsenadora Paloma Valencia fue contratista del Gobierno Petro. Valencia pidió que se investigue este vínculo como parte de las pesquisas sobre una posible infiltración en su campaña.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/paloma-valencia-pidio-investigar-asesor-contratista-gobierno-petro-AN43395621",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [
+        "Paloma Valencia"
+      ],
+      "entidad": "Dirección Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42"
+    },
+    {
+      "id": 2918,
+      "titulo": "Fondo Milagro detalla destino de $386.600 millones para reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-09",
+      "descripcion": "El Gobierno Nacional, a través del Fondo Milagro, detalló el destino de $386.600 millones destinados a la reconstrucción tras el terremoto del 10 de agosto, y reiteró la separación entre los recursos públicos y las donaciones privadas recibidas para la emergencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTZyZzJYbUYyOXROajM1SWZWVDU1TERRZ05IQklXckxSTHZzUGpPTV82cXNPTHFEZm5YNjdzXzQwOU50bjg5RmNrYXNLS2Y5TFBwNkNVeVBxVmllTjlMbkZXNlRaTk1tTVB1UEhYOE9sRXRTaFBYNjRJZVpDbGk3SUVRdDIwTGhZdno3bWtBVmlyNFMxeE53NHV0bDZVcXZEMVJwckFsZkdwOXl6bTB3a1RiTdIBuAFBVV95cUxQaElLYmpDd3FrS0J2bXZFXzEzbXd5MktfNi1zVWE5cFp0TzdrODZ0Z1JBdFJiNU9DeFhxZlRKV3JYX1ZKVnVaVkM3aEtiWGNZaFBQVk8tNktSdUlpLUc0QnllWEVDTGV6RGdzWXg4Z1hjMEFaMXFpcnVtc1I0eVF6VTVZOV8tTTh3bDR1ZXphOUVIMk5IRXBOSzZCa1g3c09MaWJrUWJfSzc1TnF0OENQc2Eyd0QxSkhv?oc=5",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2917,
+      "titulo": "Gobierno propone eliminar los estratos para asignar subsidios de servicios públicos",
+      "categoria": "economia",
+      "fecha": "2026-11-10",
+      "descripcion": "El Gobierno de Abelardo De la Espriella anunció una propuesta para eliminar el sistema de estratos socioeconómicos en Colombia y reemplazarlo por un mecanismo de focalización de subsidios a servicios públicos basado en otros criterios, buscando un cambio radical en la forma de asignación de subsidios.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-quiere-eliminar-los-estratos-en-colombia-y-cambiar-radicalmente-el-cobro-de-los-servicios-publicos/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 04:42",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2916,
       "titulo": "Viaje de funcionarios de la DNI a Rusia para entrenamiento en inteligencia",
       "categoria": "diplomaticos",
@@ -67975,8 +68366,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-10",
-    "total_casos": 2827,
+    "ultima_actualizacion": "2026-11-11",
+    "total_casos": 2844,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
