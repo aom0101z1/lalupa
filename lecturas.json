@@ -23,9 +23,284 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-10"
+    "ultima_actualizacion": "2026-11-11"
   },
   "lecturas": [
+    {
+      "id": 557,
+      "titulo": "Cometas pudieron destruir, no traer, los ingredientes de la vida a la Tierra",
+      "resumen": "Un estudio de la Universidad de Cambridge cuestiona la teoría centenaria de que los cometas trajeron las moléculas orgánicas que originaron la vida en la Tierra. Los cálculos muestran que la velocidad y el ángulo de los impactos eran demasiado violentos para que esas frágiles moléculas sobrevivieran. Curiosamente, Marte habría tenido mejores condiciones para recibirlas intactas, aunque tampoco ideales.",
+      "por_que_leerlo": "Replantea con datos nuevos una teoría clásica sobre el origen de la vida en la Tierra.",
+      "seccion": "ciencia",
+      "tags": [
+        "origen de la vida",
+        "cometas",
+        "marte",
+        "astrobiología"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 558,
+      "titulo": "Por qué ocurren infartos incluso con el colesterol malo bajo",
+      "resumen": "Investigadores identificaron dos tipos de partículas transportadoras de grasa que promueven inflamación y dañan los vasos sanguíneos por mecanismos distintos a la simple acumulación de colesterol. El hallazgo explica por qué algunos pacientes con LDL controlado igual sufren infartos.",
+      "por_que_leerlo": "Da una explicación respaldada por evidencia a un riesgo cardiovascular que las métricas estándar no capturan.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud cardiovascular",
+        "colesterol",
+        "inflamación",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-09",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 559,
+      "titulo": "Nueva técnica revela exoplanetas ocultos en imágenes del telescopio James Webb",
+      "resumen": "Científicos desarrollaron un método que usa un gemelo digital del telescopio James Webb para eliminar el resplandor de las estrellas, haciendo que exoplanetas débiles sean hasta 15 veces más fáciles de detectar que con técnicas convencionales. La tecnología ya permitió descubrir un planeta que antes estaba oculto en datos existentes.",
+      "por_que_leerlo": "Muestra cómo un truco de procesamiento de imágenes puede multiplicar el número de mundos detectables sin construir nuevos telescopios.",
+      "seccion": "ciencia",
+      "tags": [
+        "exoplanetas",
+        "james webb",
+        "astronomía",
+        "procesamiento de imágenes"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 560,
+      "titulo": "X-energy obtiene permiso para construir sus primeros reactores nucleares modulares pequenos en Texas",
+      "resumen": "La Comision Reguladora Nuclear de EE.UU. otorgo a X-energy el permiso de construccion para cuatro reactores modulares pequenos (SMR) en Texas. Es un hito regulatorio clave para la nueva generacion de energia nuclear avanzada en el pais.",
+      "por_que_leerlo": "Es una senal concreta de que la energia nuclear modular esta pasando de la teoria a la construccion real, con implicaciones para quien piensa en energia e infraestructura.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia nuclear",
+        "reactores modulares",
+        "texas",
+        "regulacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 561,
+      "titulo": "Startup PSI usa un modelo inedito de Anthropic para resolver un problema de computacion cuantica de 20 anos",
+      "resumen": "La startup PSI utilizo un modelo de IA de Anthropic aun no publicado para responder una pregunta fundamental de computacion cuantica que los cientificos perseguian desde hace casi dos decadas. La compania busca construir un negocio alrededor del descubrimiento cientifico impulsado por IA.",
+      "por_que_leerlo": "Ilustra de forma concreta como la IA ya esta resolviendo problemas cientificos reales, mas alla de la generacion de texto o codigo, y como eso se convierte en modelo de negocio.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "computacion cuantica",
+        "descubrimiento cientifico",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 562,
+      "titulo": "DeepMind presenta AlphaProof Code, su sistema de IA para razonar y generar demostraciones formales",
+      "resumen": "DeepMind lanzó AlphaProof Code, una herramienta que combina razonamiento matemático formal con generación de código para resolver problemas complejos de programación y demostración de teoremas. El anuncio generó una discusión muy amplia en la comunidad técnica, con más de 580 puntos en Hacker News.",
+      "por_que_leerlo": "Muestra hacia dónde avanza la IA en razonamiento formal y automatización de tareas de programación de alto nivel.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "deepmind",
+        "programacion",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 563,
+      "titulo": "Presunta espía vinculada a Jensen Huang habría ayudado a desviar US$7.500 millones en chips de Nvidia a China",
+      "resumen": "Según The Information, una relación extramatrimonial del CEO de Nvidia, Jensen Huang, con una supuesta espía china habría facilitado el desvío de chips por US$7.500 millones hacia China, lo que desató una revisión interna de la compañía y una investigación del FBI. El caso cuestiona la solidez de los controles de exportación de semiconductores de IA hacia ese país.",
+      "por_que_leerlo": "Revela cómo una relación personal puede convertirse en una falla crítica de seguridad en la industria de chips más estratégica del mundo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nvidia",
+        "espionaje",
+        "semiconductores",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/actualidad/alice-huang-amante-jensen-huang-desviar-7500-millones-dolares-hardware-nvidia-china/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 564,
+      "titulo": "Rocas antiguas revelan cuándo se 'encendió' el motor tectónico de la Tierra",
+      "resumen": "Un estudio geológico identificó un punto de inflexión hace unos 2.500 millones de años, cuando los procesos que moldean la corteza terrestre cambiaron drásticamente y comenzaron a parecerse a la tectónica de placas actual.",
+      "por_que_leerlo": "Ayuda a entender el origen de un proceso geológico fundamental que determinó la formación de continentes y recursos minerales.",
+      "seccion": "ciencia",
+      "tags": [
+        "tectónica de placas",
+        "geología",
+        "historia de la tierra"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 565,
+      "titulo": "Hallan fósil de un anfibio marino blindado de 237 millones de años",
+      "resumen": "En China se descubrió una criatura del tamaño de una salamandra gigante, fuertemente blindada, que vivió hace 237 millones de años y parece ser el primer anfibio conocido adaptado por completo a la vida marina, algo que los anfibios modernos no pueden hacer.",
+      "por_que_leerlo": "Revela una adaptación evolutiva que se creía imposible para los anfibios.",
+      "seccion": "ciencia",
+      "tags": [
+        "paleontología",
+        "evolución",
+        "fósiles",
+        "anfibios"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 566,
+      "titulo": "Dónde la IA realmente ayuda en química y dónde falla su confiabilidad",
+      "resumen": "Investigadores del Skoltech AI Center y otras instituciones publicaron una revisión que identifica en qué etapas del trabajo químico la IA aporta valor medible, cómo evaluar su confiabilidad y por qué un buen resultado en benchmarks no garantiza utilidad real en el laboratorio.",
+      "por_que_leerlo": "Ofrece una guía basada en evidencia para distinguir dónde la IA realmente sirve en investigación científica y dónde es solo hype.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "química",
+        "confiabilidad",
+        "investigación"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 567,
+      "titulo": "Venezuela abre su sector eléctrico a la inversión privada en nueva reforma económica",
+      "resumen": "El Parlamento venezolano aprobó una reforma que permite la inversión privada en el sector eléctrico, impulsada por la presidenta encargada Delcy Rodríguez como parte de una estrategia más amplia para atraer capital privado a petróleo, gas y minería. La medida marca un giro hacia la liberalización en sectores que históricamente ha controlado el Estado.",
+      "por_que_leerlo": "Es una señal temprana de apertura de mercado en una economía que ha estado cerrada a la inversión privada durante décadas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "venezuela",
+        "inversion privada",
+        "energia",
+        "reforma economica"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/parlamento-venezolano-aprueba-reforma-que-abre-sector-electrico-a-la-inversion-privada-4522165"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
+    {
+      "id": 568,
+      "titulo": "Millicom invertirá $8,5 billones en Colombia para expandir sus redes de telecomunicaciones",
+      "resumen": "La compañía de telecomunicaciones Millicom anunció una inversión cercana a $8,5 billones de pesos en los próximos dos años para ampliar su infraestructura tecnológica en Colombia, lo que mejorará la conectividad de más de tres millones de colombianos. El plan incluye expansión de redes y modernización de su capacidad de conectividad.",
+      "por_que_leerlo": "Una inversión de esta magnitud en infraestructura de telecomunicaciones puede abrir oportunidades de negocio ligadas a mejor conectividad en el país.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "telecomunicaciones",
+        "colombia",
+        "inversion",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/inversion-de-millicom-en-colombia-4522185"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-11 02:34",
+      "auto_generated": true
+    },
     {
       "id": 545,
       "titulo": "DeepMind presenta Gemini Robotics 2.5 y un nuevo benchmark de seguridad para robots",
