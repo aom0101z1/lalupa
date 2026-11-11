@@ -221,6 +221,356 @@
   ],
   "casos": [
     {
+      "id": 2948,
+      "titulo": "Nuevas fallas tecnológicas afectan operación del Aeropuerto El Dorado",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-11",
+      "descripcion": "El Aeropuerto Internacional El Dorado registró nuevas fallas en su software, esta vez afectando los sistemas de check-in y embarque de pasajeros, generando demoras y afectaciones operativas. El hecho se suma a fallas previas que ya habían ocasionado cancelación de vuelos y llevado a la Aerocivil a presentar compromisos ante la Procuraduría.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/bogota/articulo/nuevas-fallas-en-el-software-del-aeropuerto-el-dorado-problemas-con-el-sistema-de-check-in-y-embarque/202618/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aerocivil / Aeropuerto El Dorado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2947,
+      "titulo": "Cancillería aclara financiación del viaje de la primera dama a Perú",
+      "categoria": "transparencia",
+      "fecha": "2026-11-11",
+      "descripcion": "La primera dama Ana Lucía Pineda viajará el 11 de noviembre a Perú para recibir al papa León XIV, por invitación del gobierno peruano y de Keiko Fujimori. La Cancillería aclaró que la visita no comprometerá recursos del Estado colombiano, en un ejercicio de transparencia sobre gastos de viajes oficiales del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/primera-dama-ana-lucia-pineda-viajara-a-peru-para-recibir-al-papa-leon-xiv-cancilleria-aclaro-quien-pagara-los-gastos-3600123",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucía Pineda",
+        "Keiko Fujimori"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancillería) / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2946,
+      "titulo": "Maribel Castro asume interinamente la dirección del Icfes",
+      "categoria": "gabinete",
+      "fecha": "2026-11-11",
+      "descripcion": "Maribel Castro, exsecretaria de Educación, queda al frente del Icfes mediante un encargo interinstitucional amparado en el Decreto 1650, tras la salida de Elizabeth Blandón, declarada insubsistente por el Gobierno De la Espriella por haber sido nombrada en el gobierno Petro.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/quien-es-la-exsecretaria-de-educacion-que-queda-al-frente-del-icfes-tras-salida-de-elizabeth-blandon-506120",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Maribel Castro",
+        "Elizabeth Blandón"
+      ],
+      "entidad": "Icfes / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2945,
+      "titulo": "Despliegue total de la fuerza pública tras secuestro de esposa del alcalde de Uribia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "El presidente Abelardo De la Espriella ordenó un despliegue total de la fuerza pública en La Guajira tras el secuestro de la esposa del alcalde de Uribia. La medida busca ubicar a la víctima y responder a un hecho de orden público que afecta a una autoridad local, en el marco de la estrategia de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-lanza-despliegue-total-de-la-fuerza-publica-tras-secuestro-de-la-esposa-del-alcalde-de-uribia/202610/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la República / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2944,
+      "titulo": "Corte Constitucional evalúa futuro de la emergencia económica por el terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-11",
+      "descripcion": "La Corte Constitucional se prepara para decidir sobre la constitucionalidad del decreto de emergencia económica declarado tras el terremoto del 10 de agosto de 2026, que dio origen a facultades extraordinarias y al manejo de recursos a través del Fondo Milagro. El fallo definirá el marco legal bajo el cual continúa operando la reconstrucción y el uso de dineros públicos destinados a la emergencia.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeWRtXzhIY0xRdFpjNHNSRGswVkREaThKa0E3THhudVdVX2JsU3RNRnFqTnZqam5oQmJ5RDBobXhZSi1xTFBmWkpMMHZVb0pBamNYaDRSR3E0X0dTeU52WkU0Y053MF9xMWxJT0RvQnJLWW1sT3k2MlpjaWkxcHJNZ25TZG9oWHY0YXF2SmVUODIwNjRpaE0xbENRNXVTM1hyai1aZkJOckhERE80NDZGbUMwdE9sMkVhYi1zb1Z2QlJfZWoxME1LOW1FUExsc2VnUW5CTmFB?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Corte Constitucional / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2943,
+      "titulo": "Informe advierte riesgos fiscales de la ley de devolucion de IVA del gobierno",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "Un informe analiza el costo de devolver el IVA a 35 millones de colombianos vulnerables bajo la ley de rescate economico del gobierno De la Espriella, identificando cinco riesgos de posible desvio fiscal en su implementacion.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-el-costo-de-devolver-el-iva-y-los-cinco-riesgos-de-desvio-fiscal-segun-informe-506119",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2942,
+      "titulo": "Anuncian nuevo parque industrial en el Valle del Cauca con inversion de $500.000 millones",
+      "categoria": "obras",
+      "fecha": "2026-11-10",
+      "descripcion": "Se anuncio la construccion de un nuevo parque industrial en el corredor Cali-Palmira, Valle del Cauca, con una inversion de $500.000 millones, orientado a atraer empresas y generar empleo en la region.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/valle-del-cauca-tendra-nuevo-parque-industrial-con-inversion-de-500-000-millones-asi-sera-el-megaproyecto/",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Gobernacion del Valle del Cauca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2941,
+      "titulo": "Gobierno propone crear 'Cuentas Milagro' de ahorro infantil",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El Plan Nacional de Desarrollo del gobierno De la Espriella plantea la creacion de las 'Cuentas Milagro', un mecanismo de ahorro para ninos que acumularia recursos hasta que cumplan 18 anos.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-buscara-crear-cuentas-de-ahorro-para-estos-ninos-en-colombia-acumularan-ahorros-hasta-los-18-anos/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Nacional de Planeacion / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2940,
+      "titulo": "PND de De la Espriella plantea meta de un millon de barriles diarios y fracking",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El borrador del Plan Nacional de Desarrollo del gobierno De la Espriella fija como meta alcanzar un millon de barriles de petroleo diarios, habilitando el fracking y aumentando la produccion de gas. El articulado definitivo se construira hasta febrero de 2027.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-apunta-a-un-millon-de-barriles-de-petroleo-diarios-en-su-pnd-habra-fracking-y-mas-produccion-de-gas/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energia / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2939,
+      "titulo": "Gobierno plantea unificar subsidios sociales en el Programa Colombia",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "Las bases del Plan Nacional de Desarrollo 2026-2030 proponen crear el Programa Colombia, que unificaria subsidios como Colombia Mayor, Familias Colombia y Colombia Joven en un solo esquema de transferencias.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-plantea-un-nuevo-esquema-para-entregar-subsidios-en-colombia",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Nacional de Planeacion / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2938,
+      "titulo": "Presidente De la Espriella anuncia nuevo bombardeo contra grupo narcoterrorista",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio el 10 de noviembre un nuevo bombardeo contra una estructura narcoterrorista, ejecutado a las 10:17 p.m., cuyos resultados serian revelados tras verificacion de las autoridades. Reitero que el Gobierno mantendra las operaciones militares contra grupos armados ilegales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-espriella-anuncio-nuevo-bombardeo-grupos-narcoterroristas-NH43442395",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2937,
+      "titulo": "Pacto Historico exige respuestas al Gobierno sobre el dinero del terremoto",
+      "categoria": "control",
+      "fecha": "2026-11-11",
+      "descripcion": "El partido Pacto Historico exigio al Gobierno Nacional explicaciones sobre el destino de los recursos asignados para la atencion del terremoto del 10 de agosto, en medio de denuncias sobre falta de transparencia en la ejecucion del Fondo Milagro.",
+      "evidencia": "Reportado por Colombia.com",
+      "fuentes": [
+        {
+          "nombre": "Colombia.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRi04SUlRTnNPRUc4WGpKTkFXLXNQeW43Zm5GVHR0a0JWSWVqenMwb2c1QnpQVnF1UE5EV2JhOWh0cVl5WWFWeC1JMDU2N1VlQVIxSS1icy1JcjZsSDcyQUNmYzVublZuZzl6NHNWUGRxUDhXTXh6M1pxRU85bmJwSkJhTWtFQ3o5NHZvQ2tyNkpFQmFqX1gtNk5zMEk4c0RYaHZYOVhUdHA0ckRselBzTTh3?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2936,
+      "titulo": "Presidente revoca nombramiento en el Icanh por cambio irregular de manual de funciones",
+      "categoria": "transparencia",
+      "fecha": "2026-11-11",
+      "descripcion": "El presidente Abelardo de la Espriella revoco, apenas dos semanas despues, el nombramiento de Camilo Noguera Pardo como director del Instituto Colombiano de Antropologia e Historia (Icanh), y ademas removio del cargo a Javier Estrada, quien dirigia la entidad en encargo. El mandatario senalo en X que 'en el gobierno del Tigre no se cambian los manuales de funciones para acomodar nombramientos'.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/camilo-noguera-sale-del-icanh-tras-revocatoria-de-nombramiento-por-de-la-espriella-DH43442753",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Camilo Noguera Pardo",
+        "Javier Estrada"
+      ],
+      "entidad": "Icanh / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2935,
+      "titulo": "Contraloria halla posible detrimento patrimonial en la DNI durante el gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-11",
+      "descripcion": "Un informe de la Contraloria General senala posibles hallazgos de detrimento patrimonial en la Direccion Nacional de Inteligencia (DNI) durante el gobierno Petro, relacionados con los estudios y disenos de la sede operativa de la entidad, el sistema de contrainteligencia y la actualizacion biometrica. El reporte de El Tiempo detalla las irregularidades bajo la lupa del organismo de control.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/primicia-los-hallazgos-de-la-contraloria-que-apuntan-a-posible-detrimento-patrimonial-en-la-dni-del-gobierno-petro-3599931",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloria General de la Republica / Direccion Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35"
+    },
+    {
+      "id": 2934,
+      "titulo": "Gobierno ordena operativos tras atentado con granada contra sede de RCN en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "Hacia las 3:50 a.m. del 11 de noviembre de 2026, hombres en motocicleta lanzaron una granada contra la sede de RCN en Cali. El presidente Abelardo de la Espriella y el ministro de Defensa, general Jorge Mora, rechazaron el ataque y ordenaron operativos para capturar a los responsables, anunciando ademas medidas de proteccion para medios de comunicacion y periodistas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-ordena-operativos-capturar-responsables-atentado-cali-IH43442596",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jorge Mora"
+      ],
+      "entidad": "Ministerio de Defensa / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-11 13:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 2933,
       "titulo": "Iniciativa ciudadana denuncia ausencia de ayuda estatal tres meses despues del sismo",
       "categoria": "damnificados",
@@ -68367,7 +68717,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-11",
-    "total_casos": 2844,
+    "total_casos": 2859,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
