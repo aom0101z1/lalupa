@@ -221,6 +221,560 @@
   ],
   "casos": [
     {
+      "id": 3006,
+      "titulo": "Capturan a 4 funcionarios de la Dian por red de exportaciones ficticias en frontera con Ecuador",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "Autoridades capturaron a cuatro funcionarios de la Dian señalados de integrar una red de exportaciones ficticias en la frontera con Ecuador, presuntamente aliados del empresario Arvey Duque, también detenido por un esquema de lavado de activos con rentas ilegales.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/capturaron-a-4-funcionarios-de-la-dian-por-red-de-exportaciones-ficticias-en-la-frontera-con-ecuador-estas-son-sus-identidades-3600380",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Arvey Duque"
+      ],
+      "entidad": "DIAN / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3005,
+      "titulo": "SAE recupera apartamento de lujo en Barranquilla ligado al clan de Euclides Torres",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) recuperó para administración del Estado un lujoso apartamento en el conjunto Anturios II de Barranquilla, vinculado al clan de Euclides Torres, señalado de actividades criminales.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/asi-cayo-el-lujoso-apartamento-en-barranquilla-ligado-al-clan-de-euclides-torres-que-recupero-la-sae-3600363",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Euclides Torres"
+      ],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3004,
+      "titulo": "Estados Unidos entrega a Colombia control total de centro de entrenamiento de aviación militar en Tolemaida",
+      "categoria": "internacional",
+      "fecha": "2026-11-12",
+      "descripcion": "Tras siete años de cooperación bilateral, Estados Unidos entregó a Colombia el control total del centro de entrenamiento de aviación militar ubicado en Tolemaida, que ahora será administrado directamente por el Ejército Nacional.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estados-unidos-entrega-a-colombia-el-control-total-de-centro-de-entrenamiento-de-aviacion-militar-3600421",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional / Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3003,
+      "titulo": "Exvocero de bandas en mesa de paz de Petro sale libre y funda nueva estructura criminal",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-12",
+      "descripcion": "Alias 'Tom', señalado sucesor de Pablo Escobar en Bello, fue vocero de bandas criminales en la mesa de negociación de Paz Total del gobierno Petro y participó en el llamado 'tarimazo' de La Alpujarra. Actualmente salió de la cárcel La Picota con libertad condicional y fundó la estructura criminal 'Los Chatas'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/quien-es-alias-tom-el-senalado-sucesor-de-pablo-escobar-que-quedo-en-libertad-y-que-fundo-los-chatas-en-bello-3600425",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Tom",
+        "Gustavo Petro"
+      ],
+      "entidad": "Mesa de negociacion Paz Total / INPEC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41"
+    },
+    {
+      "id": 3002,
+      "titulo": "Minminas gestiona levantar restricción vial para camiones de combustible",
+      "categoria": "economia",
+      "fecha": "2026-11-12",
+      "descripcion": "La ministra de Minas y Energía, María Noemí Arboleda, lidera gestiones interinstitucionales para levantar la restricción vial a camiones que transportan combustible, con el fin de agilizar el traslado de insumos hacia las centrales de generación térmica y respaldar la seguridad energética del país.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/minminas-busca-levantar-restriccion-vial-camiones-que-llevan-combustible",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "María Noemí Arboleda"
+      ],
+      "entidad": "Ministerio de Minas y Energia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3001,
+      "titulo": "Corte Suprema confirma investigacion contra Gustavo Petro por escandalo sexual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-08",
+      "descripcion": "El presidente de la Corte Suprema de Justicia confirmo que el expresidente Gustavo Petro esta siendo investigado por un escandalo sexual ocurrido durante su presidencia y cuando era congresista. El proceso se suma a otras actuaciones judiciales relacionadas con el caso conocido como 'sexocontratos'.",
+      "evidencia": "Reportado por Nacion.com",
+      "fuentes": [
+        {
+          "nombre": "Nacion.com",
+          "url": "https://www.nacion.com/el-mundo/expresidente-gustavo-petro-investigado-en-colombia/TKB2CSUDKBABBCAB6Y75T6QO3E/story/",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41"
+    },
+    {
+      "id": 3000,
+      "titulo": "Cuestionan sobrecostos en interventorias de demoliciones del Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-12",
+      "descripcion": "Surgen cuestionamientos sobre los costos de las interventorias contratadas para supervisar las demoliciones realizadas por el Fondo Milagro tras el terremoto, en medio del debate en el Congreso sobre la falta de rendicion de cuentas clara de la entidad.",
+      "evidencia": "Reportado por El Irreverente",
+      "fuentes": [
+        {
+          "nombre": "El Irreverente",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRm5wTWxHeFhrR3hXM0JpejB2aEFPN2UzVklwbmV4QWpqWUpFM1g2Z3dOQXZ2Y2lickhfQTVuV21WaWstMkpfNWdaZzc4ZzlOY3VQTjhkbkVwQUVTdU1LRDBfYXlZM0ctbmRKUFI2clY5Zlc2bFRvOGg2RTBtNTR4ZFF5cHEzMXJ6aTU3RTFEZElkX1M2bXRxTHhYZGtVc1E5RHJlRFltVnVVdVQy?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2999,
+      "titulo": "Caldas destina $4.300 millones para reforzar red hospitalaria tras el sismo",
+      "categoria": "dineros",
+      "fecha": "2026-11-12",
+      "descripcion": "El departamento de Caldas invertira $4.300 millones en su red hospitalaria para reponer suministros medicos, reparar infraestructura operativa y mejorar la capacidad de respuesta de los hospitales afectados tras el terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/caldas-invierte-4-300-millones-en-la-red-hospitalaria-tras-el-terremoto/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Caldas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 2998,
+      "titulo": "Encuesta de Cifras y Conceptos respalda gestion de seguridad de De la Espriella en sus primeros 100 dias",
+      "categoria": "opinion-publica",
+      "fecha": "2026-11-12",
+      "descripcion": "Una encuesta de Cifras y Conceptos revela que los colombianos valoran positivamente las acciones del gobierno de Abelardo de la Espriella contra bandas criminales, narcotrafico y delincuencia comun en sus primeros 100 dias, aunque solo una decima parte de los encuestados recuerda el nombre de algun ministro del gabinete.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/12/colombianos-valoran-positivamente-la-seguridad-en-los-primeros-100-dias-de-abelardo-de-la-espriella-segun-encuesta-de-cifras-y-conceptos/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Cifras y Conceptos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2997,
+      "titulo": "Gobierno anuncia estrategia para impulsar produccion local de medicamentos y vacunas",
+      "categoria": "economia",
+      "fecha": "2026-11-12",
+      "descripcion": "El gobierno de Abelardo de la Espriella anuncio mecanismos para garantizar la produccion nacional de medicamentos y vacunas, como parte de su politica para asegurar el abastecimiento y reducir la dependencia de importaciones.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-impulsara-produccion-local-de-medicamento-y-vacunas/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2996,
+      "titulo": "Policia captura a alias 'Rulos', 'Wilson' y 'Carpintero', senalados cabecillas criminales",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "La Policia Nacional capturo a tres hombres identificados con los alias 'Rulos', 'Wilson' y 'Carpintero', senalados como integrantes de estructuras criminales. El presidente Abelardo de la Espriella destaco la operacion como parte de los resultados de seguridad de su gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/en-la-cara-de-rulos-wilson-y-carpintero-abelardo-de-la-espriella-aplaudio-a-la-policia-por-capturarlos-asi-reaccionaron/202607/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Policia Nacional / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2995,
+      "titulo": "Angie Rodriguez revela chat sobre celular 'envenenado' de Petro y acusa de nuevo a Laura Sarabia",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-12",
+      "descripcion": "La exdirectora del Dapre, Angie Rodriguez, publico un video con un chat en el que el exfuncionario Rene Guarin le advertia que el celular del entonces presidente Gustavo Petro estaba 'envenenado'. Rodriguez senalo que la linea estaba a nombre de un tercero, Jaime Ramirez Cobo, y reitero una acusacion contra la exjefa de gabinete Laura Sarabia sobre el manejo de las comunicaciones presidenciales, antes de retractarse por orden de un fallo de tutela.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/angie-rodriguez-jaime-ramirez-cobo-celular-petro-envenenado-NK43492924",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodriguez",
+        "Laura Sarabia",
+        "Jaime Ramirez Cobo",
+        "Rene Guarin",
+        "Gustavo Petro"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41"
+    },
+    {
+      "id": 2994,
+      "titulo": "Deicy Jimenez ratifica denuncias de abuso de poder y contratos irregulares contra Gustavo Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-12",
+      "descripcion": "La excontratista Deicy Jimenez reitero sus denuncias contra el expresidente Gustavo Petro tras difundir un video intimo y un chat en el que, segun ella, el exmandatario usaba el perfil 'Mihail Bukharin'. Jimenez rindio declaracion ante la Procuraduria General de la Nacion en el marco de la investigacion por presunto abuso de poder y manejo irregular de contratos como contratista del Estado; la Fiscalia y la Corte Suprema tambien indagan el caso.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/12/deicy-jimenez-reitero-sus-denuncias-contra-gustavo-petro-y-le-salio-al-paso-a-versiones-de-activista-que-la-acuso-de-ser-instrumentalizada-parecia-creerse-dueno-del-mundo/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Deicy Jimenez"
+      ],
+      "entidad": "Procuraduria General de la Nacion / Fiscalia General de la Nacion / Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41"
+    },
+    {
+      "id": 2993,
+      "titulo": "Fondo Milagro adjudica $7.000 millones en contratos sin rendir cuentas claras al Congreso",
+      "categoria": "contratacion",
+      "fecha": "2026-11-11",
+      "descripcion": "La Silla Vacía revela que el Fondo Milagro ha comprometido cerca de $7.000 millones en contratos de emergencia tras el terremoto del 10 de agosto, mientras su gerente volvió a faltar a una citación del Congreso para explicar el manejo de esos recursos, tres meses después de la tragedia.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDVacllIcEpQOXRBc0t4YWVzV3pRTVNOQ1lwRldOTWM4S2x6Q1hILUZHN0NtS0JUdXYwTUpnSjBvT2VTT08zTVJyMWt5Q215TTBkRVEyZ01JN1Q2aWx4czU0aG1NdVIwclY0dk9hUzJ6Zk1aTWJMSGtvWEJ4cnJlNDRZOHl2LWluajBXNFNiZVJrMEN6TFdhek1RMW4taFZYYzROTlc2Y3V2Zw?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gerente del Fondo Milagro"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2992,
+      "titulo": "Fiscalía cita a Eva Ferrer a declarar por presunto narcotráfico vinculado a Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-11",
+      "descripcion": "La Fiscalía General de la Nación citó a Eva Ferrer para declarar tras revelaciones periodísticas sobre presuntos vínculos de narcotráfico que salpican a Verónica Alcocer, exprimera dama, en el marco de la indagación judicial en curso.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSjR5UzFGaTBXYWVUQ2loUU05RGJuSEY4OWhMZHJ1dnRIX2huYkFGM2t0NzBkdkI2MHMtUEhWZE9JYjRadFNJdVZpeXRpZDJqWDJDajZTVk8wV09rNmhTNGhuZHdSaHV4aE5mVHVLUkVhN2hVbFoyeWJFUmI1bl9QN0FmYnB4Nm1VbGZUcmd0dG1QczQ5STQtYUx0UlAyaGpJZC03UWk5cjRUTEZhQ0xBYUV0ZTN3c1EyeWxGaHhETFRwVHNVUC1LR0Z1dm4xRF9KNlpQOFNn?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41"
+    },
+    {
+      "id": 2991,
+      "titulo": "Oposición critica ausencia de Vivienda y Fondo Milagro en debate de Congreso sobre terremoto",
+      "categoria": "denuncias",
+      "fecha": "2026-11-12",
+      "descripcion": "En un debate en el Congreso sobre el plan de respuesta al terremoto, la oposición criticó la ausencia del Ministerio de Vivienda y del Fondo Milagro, mientras el Gobierno destacó la atención prioritaria a soluciones de vivienda en zonas de desastre.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/contrapunteo-entre-gobierno-y-oposicion-por-plan-de-respuesta-al-terremoto",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2990,
+      "titulo": "Bombardeo contra Clan del Golfo deja baja de alias 'Negro Perea'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "El presidente De la Espriella confirmó detalles de un bombardeo contra el Clan del Golfo que dejó varias bajas, incluyendo la del cabecilla señalado alias 'Negro Perea'.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/de-la-espriella-comparte-detalles-de-bombardeo-clan-del-golfo",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Negro Perea"
+      ],
+      "entidad": "Fuerzas Militares / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2989,
+      "titulo": "Hacker con orden de captura permaneció vinculado a la DNI pese a alerta por plan contra la Registraduría",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-11",
+      "descripcion": "La captura del hacker Carlos Andrés Oyola Tovar reveló que permanecía vinculado a la Dirección Nacional de Inteligencia (DNI) durante el gobierno Petro pese a tener una orden de captura vigente, y su nombre aparece en documentos sobre un presunto plan para atacar los sistemas de la Registraduría y alterar resultados electorales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/debilito-petro-inteligencia-sabotaje-elecciones-espionaje-expresidentes-caos-AM43380642",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andrés Oyola Tovar"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41"
+    },
+    {
+      "id": 2988,
+      "titulo": "Operación Mano de Hierro deja 136 capturados en Bucaramanga",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "La Operación Mano de Hierro, encabezada por el Gobierno de De la Espriella en Bucaramanga, resultó en la captura de 136 personas vinculadas a bandas criminales, según confirmó el presidente.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/operacion-mano-de-hierro-en-bucaramanga-deja-136-capturados-esto-dijo-el-presidente-abelardo-de-la-espriella/202604/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Policia Nacional / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2987,
+      "titulo": "Alcaldes de zonas afectadas y congresistas afines al Gobierno critican gestión del Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-12",
+      "descripcion": "Alcaldes de municipios afectados por el terremoto y congresistas cercanos al Gobierno se sumaron a las críticas sobre la gestión del Fondo Milagro, ampliando el frente de cuestionamientos más allá de la oposición tradicional.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdlFXZ3RIWng1SE5Hd1dsam04YVYyblp3SnlHRlVXR1p5X2FsQ2ZVNUFKY0l2S3BsRm1XeE1tLVBkX3Z6Z0FqSlZpZi1lZVJ2a1ZsNmFnSEpLYlB6dTV1Z2haMWhzWXY4Q196TGo2eXlYWjRGR0RmdzBiMmxpOEdQMlNBYmJBY2R5MzZDQ2ZpdlEwMXBPX0JJajhMUGRmSGhUWnhNNkVFT1RSY0E4MTNKMVJyNnBIOE1aOVJVcEpSa0FtR3VoQzdES2IwM3ZjT3ByQzJmXzNFbjA3WFhjX2YxcTBqVHZRTThqN2dkUGl1S3ZKNFJUYmk1MVFQQkVMeEVseGfSAZYCQVVfeXFMTURSRFZnN19DM2d5MHAwR2VCRjBiWWotaFhSVmZxZG1VQmdtclU3UXVreG1SbThyLTRNVHRERlQtWHhVemxWVjNBX2xqczhmS2lYZUhsREdPMVMxY3BobUM2U1BCcGJoVHhDaV9BUmVSRTVLQVVrMkZhXzY3bU1kcTZXV1AxTVMzQl91bE5hOTRLTUphQWJrS1NkVU5NTDJqQ1VTTXQ2aU54V2VXMmM5Y1JFMkI4Mk90cktCOXJXbkFFa1F5Tk1lVDV0SWtscmljUXRETlN6VDRBNVdDbERVOGp1Sk1lUFRyYWR0MHUzR1YzNzU2R3hCVkU3bXZvRmtmaTFacDF4SmlVVV9zQ0JUeHJ0VE1vaXc?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Alcaldias",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2986,
+      "titulo": "MinHacienda busca nuevo préstamo pero se desmarca de la reconstrucción",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-11",
+      "descripcion": "El Ministerio de Hacienda estudia solicitar otro préstamo para la reconstrucción tras el terremoto, pero se desmarcó de la responsabilidad directa en la ejecución, afirmando que 'esa no es la función del Ministerio', generando dudas sobre quién administra los recursos.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVDRXODJkbFFzdTRDT2wtUlo3aGJaWDQxSDNEeTlHLUp5anFsTHNMS2tJTTB6bFFlY0dpRUltakJ5ZkJHSThTTENRZnZ3V1VjZWVTSWRZclB6bjdQOXNtT3JtRVJONVBuRFg0c01vNGZDejJDSkdmWDBwTmp0by02U3MwRHN0UGNwN3NJTGEwalRWUU5Jb2R0M1BtYWVXVV9OaTNSTGRSaXJScTNiOC11ZkQya0wzeEZrdmI3REJUeGNHWDItOFI1ZEl6Yl9rSXh0eXZFSVB1ckZZUHdmWW9KOWMzeWdxYXhUdDByWk5tZlV1X3VocGFtZ2xjNNIBgAJBVV95cUxNRWNsb1RCQ0JDTWF2SUFjdjFNSEtQMElmQjJJNGhsWDBOaTJkNWpIUE92a3gyLXM2bWR4SlgwckFaMUpCUWFaNnhpaUNfMUNkWm5OVlFhZWNDdkY0eWljakVFVlBOcU9RTVV1U0hsNkZYcnM1T09xRXd3U3R2Tl9ERmNYLUtaX2dtVjQ2X2hOSFdZSEZWRVd1N05pRmFrRXRPMmhqR3RXN1pFN0tTbTlneEdyVU83M0MzRU1MZzNzWS1VdXlkZ2pKcExYb2RXcWRReTR6WHN0cW1fWEhsZDJkZTd2Mkw4SmlaQ0s1YnJqdXZNWDU2Uko2MmJqMnlrRVVC?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2985,
+      "titulo": "Defensoría alerta fallas del Gobierno en atención a damnificados",
+      "categoria": "denuncias",
+      "fecha": "2026-11-10",
+      "descripcion": "La Defensoría del Pueblo advirtió sobre fallas en la atención gubernamental a los damnificados del terremoto del 10 de agosto, tres meses después del evento, señalando deficiencias en la respuesta estatal.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc0t2ZE5DR0dHY094MUpaaDVWRkd6Q295VnhEWnY1WlJ1ak5TUV9SY0xrYXdPUjBOUFNVRW5PaGZnVWtUT3d3QnVVbnRTb3hTMFZNcTByVmZmZklqOTdHZktfb1NkbjJkT0RYY3hEVFBtS2R0akE1c1FLejhWemtaLVFGVV9TbkhNa2JGMVVpVU5kNnk5Mm1aUDl1YnJoSHNjTEg4MklKMTFEM2s5N2ZNRmNqMFR3Wk1kUlIyemMtd3o3WE1kZ3dQS25YRnBxWXhvWnRYNDNDZ2VscXc0NTJzbmRR0gH2AUFVX3lxTE14bXRFWF8wT01oVWRHRldVSFFaeHF6aWxBbER4dWpheFl0Y0dUbTBFOElubnpIeEZDTjJjMHdRUi1ldV9LQUk5YUxUSUdZNkR1M3FIU2tCU1lDaHdXT2wwRlc1NE5OTlltQmdOT0xjN0N5SlkwQmM0TU43a2JkdGI5ZHhvemVqZGp2OUZ5dlFiNEh0QjVXLU9KZmpwV3ZXeWtIeklTZVBwekZKdEJCdjlVSlNLOGU3YjRhRENScTI4UHp2MkNHTE0xMFRXcERoVkM3MU4zZG1BWlBtSzhKTFNjT1pxS3VZWFZLSktzSFd2LVNMRnYtQQ?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Defensoria del Pueblo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2984,
+      "titulo": "De la Espriella presenta balance de ayudas para damnificados del terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-11",
+      "descripcion": "El presidente Abelardo De la Espriella reveló un balance de las ayudas entregadas a los damnificados del terremoto, señalando las dificultades fiscales heredadas: 'No es fácil, recibimos un país quebrado'.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTC1jZnhMVV9ocE5uREIwOENJNi02djV2czhGSXZNMzhId1Q1bnZOU0lmQjB3dnBSakdrcnliT3Y1Z1JJdEUzcER2Q28wZDRGeW9WOXZNa2RfVENBX0ZrRExEemJqS1d1UDN4R0pxUGhKY0ZKZGkxV2xJb2IxZFBUY1RPdEFzY1Vrc2FmTV9HVXVXSGdDV1hKZVc4d3FzbGdYbDgxNllEbVQ0NUVwazRfSlkwbnBuakpfNXExNGlLREhzU2FYZE9WZXB2ZDlPdTJsMTV6dkt4XzBSdXVGY01LQXFIbTY5SENnSTczcnNuLXVTRmxLYWJj0gH8AUFVX3lxTE5yMTViMmxlZ0FFZm1oZGFhT3VTSjRQQUtDRFctTFp0SVpSa1ZEcnFTVGtsMmNUOGk0V3ZZMUREa3RSbi1rY2lHallYU1ZkUWhSd3RoLWhHVVQ3WWl6VnJBRkdqWnc0R213XzlZSE5vYlZoR1NYdnhKdTRqbjZzQy1vX1RqblV4NlRNenRlcXZhTEw1bml0VVRjUElKT3RyaFI0Q0phbThTQXdVbjl2M3lGRERMS3R3M0NKc1ZKZTN3bzRweFEwcHNncENZeXp2YnY4M3oxZWI5WWs4RGhUWmpjRnZVOUtXbGotSVRfSlFsNHhaSnJBRElWN2V4LQ?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 14:41",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 2983,
       "titulo": "PND plantea seis medidas para elevar inversión al 25% del PIB y crecer 6%",
       "categoria": "economia",
@@ -69536,7 +70090,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-12",
-    "total_casos": 2894,
+    "total_casos": 2917,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
