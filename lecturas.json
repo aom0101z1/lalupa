@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 593,
+      "titulo": "El agua de la Tierra pudo nacer del propio planeta, no de cometas helados",
+      "resumen": "Cientificos descubrieron que guijarros rocosos al reaccionar con hidrogeno bajo calor extremo pueden producir agua en cuestion de minutos, generando potencialmente cientos de 'oceanos' de agua durante la formacion de la Tierra. El hallazgo sugiere que el agua podria ser un subproducto natural de como se forman los planetas rocosos, y no algo traido despues por cometas o asteroides helados.",
+      "por_que_leerlo": "Replantea una de las preguntas mas basicas sobre el origen de la vida y el agua en la Tierra y otros planetas.",
+      "seccion": "ciencia",
+      "tags": [
+        "origen del agua",
+        "geologia",
+        "formacion planetaria",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 594,
+      "titulo": "Teoria radical sugiere que el universo tiene el doble de edad de lo que se creia",
+      "resumen": "Investigadores de la Universidad de Ottawa proponen un modelo cosmologico donde el universo tendria 26.700 millones de anos, el doble de la edad estandar aceptada de 13.800 millones, y que podria explicar la rotacion de galaxias, la expansion cosmica y la formacion de elementos tempranos sin necesidad de materia oscura ni energia oscura. El equipo probo la teoria contra varias observaciones astronomicas clave.",
+      "por_que_leerlo": "Una teoria que desafia dos de los pilares mas aceptados de la cosmologia moderna con evidencia contrastable.",
+      "seccion": "ciencia",
+      "tags": [
+        "cosmologia",
+        "materia oscura",
+        "edad del universo",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 595,
+      "titulo": "SoftBank pierde más de US$3.000 millones apostando por gas natural para centros de datos de IA",
+      "resumen": "SoftBank registró pérdidas superiores a 3.000 millones de dólares tras preordenar turbinas de gas natural destinadas a alimentar centros de datos de inteligencia artificial, una apuesta que no se concretó como esperaba. El caso expone con cifras concretas los límites financieros de la carrera energética que sostiene el crecimiento de la IA.",
+      "por_que_leerlo": "Muestra con datos reales los riesgos financieros detrás de la infraestructura energética que necesita la industria de la IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia",
+        "inteligencia artificial",
+        "softbank",
+        "centros de datos"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 596,
+      "titulo": "Vulnerabilidad critica de ejecucion remota de codigo afecta a Apache HTTP Server",
+      "resumen": "Investigadores de seguridad de Wiz identificaron la falla CVE-2026-119618, una vulnerabilidad critica de ejecucion remota de codigo (RCE) en Apache HTTP Server, uno de los servidores web mas usados del mundo. El hallazgo genero amplia discusion tecnica por el riesgo que representa para infraestructuras que dependen de este software.",
+      "por_que_leerlo": "Para saber si su servidor web esta expuesto y necesita actualizar antes de sufrir un ataque.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "vulnerabilidad",
+        "servidores",
+        "apache"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 597,
+      "titulo": "Jensen Huang renuncia como CEO de Nvidia en medio de escándalo de infidelidad y espionaje",
+      "resumen": "Jensen Huang dejó la dirección ejecutiva de Nvidia tras denuncias de una relación extramatrimonial y un presunto caso de espionaje corporativo. La acción se desplomó y la compañía perdió el umbral de los US$4 billones en capitalización bursátil, mientras Colette Kress asumió como CEO interina.",
+      "por_que_leerlo": "Entender cómo un escándalo personal puede sacudir en horas a la empresa más valiosa del mundo y redefinir su liderazgo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "nvidia",
+        "jensen huang",
+        "gobierno corporativo",
+        "mercados"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/jensen-huang-renuncio-como-ceo-de-nvidia-por-escandalo-de-infidelidad-y-supuesto-espionaje/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 598,
+      "titulo": "La fintech argentina Cocos levanta US$34 millones liderados por Kaszek y llega a valer US$508 millones",
+      "resumen": "Fundada por Nicolás Mindlin y Ariel Sbdar, Cocos cerró su primera ronda de inversión con Kaszek, el mismo fondo que apostó temprano por Nubank. La compañía, que nació con apenas US$50.000, usará el capital para fortalecer su banco digital en Argentina y expandirse a Brasil.",
+      "por_que_leerlo": "Muestra cómo una fintech latinoamericana pequeña puede escalar rápido con el respaldo de un inversor que ya acertó con Nubank.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "argentina",
+        "venture capital",
+        "kaszek"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/de-us50000-a-valer-us508-millones-la-fintech-cocos-atrajo-al-fondo-que-aposto-por-nubank/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 599,
+      "titulo": "OpenAI elige a la argentina Aleph como socio publicitario exclusivo de ChatGPT en 44 mercados",
+      "resumen": "Aleph, la empresa fundada por Gastón Taratuta, proyecta facturar US$5.300 millones en 2026 y ahora venderá publicidad en ChatGPT como socio comercial exclusivo de OpenAI en 44 países. Taratuta habló de una nueva etapa de crecimiento y de una eventual salida a bolsa.",
+      "por_que_leerlo": "Revela cómo una empresa latinoamericana se vuelve pieza clave en el modelo de negocio publicitario de la IA generativa más usada del mundo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "openai",
+        "publicidad",
+        "latinoamerica",
+        "chatgpt"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/openai-eligio-a-la-argentina-aleph-para-vender-publicidad-en-chatgpt-negocio-millonario-y-wall-street/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 600,
+      "titulo": "El agujero de ozono antartico crecio a su mayor tamano en una decada durante 2026",
+      "resumen": "El agujero de ozono sobre la Antartida se expandio hasta ser el septimo mas grande registrado, impulsado por condiciones climaticas inusuales que lo acercaron a su maximo historico. Los cientificos aseguran que las restricciones internacionales a los quimicos que destruyen el ozono evitaron un dano aun mayor y que la capa de ozono sigue en recuperacion.",
+      "por_que_leerlo": "Un recordatorio con datos concretos de que la cooperacion regulatoria global si puede funcionar, aunque el clima complique los resultados.",
+      "seccion": "ciencia",
+      "tags": [
+        "ozono",
+        "antartida",
+        "clima",
+        "medio ambiente"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 601,
+      "titulo": "La lluvia podria hacer que el oceano absorba mas carbono de lo calculado hasta ahora",
+      "resumen": "Nuevos analisis sugieren que los presupuestos globales de carbono subestiman la absorcion oceanica entre un 5% y un 15%, porque los modelos actuales no consideran bien el efecto de la lluvia sobre la superficie marina. El hallazgo podria obligar a ajustar las cuentas que rastrean el flujo de carbono entre atmosfera, oceano y tierra.",
+      "por_que_leerlo": "Un ajuste de cifras que podria cambiar como se calculan los presupuestos de carbono usados para disenar politicas climaticas.",
+      "seccion": "ciencia",
+      "tags": [
+        "carbono",
+        "oceanos",
+        "clima",
+        "modelos climaticos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ocean-carbon-uptake-thought.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 602,
+      "titulo": "Rayos de electrones ofrecen un metodo mas seguro para esterilizar moscas que atacan al ganado",
+      "resumen": "Cientificos de Texas A&M lograron resultados iniciales positivos usando tecnologia de haz de electrones (eBeam) para la tecnica del insecto esteril contra la mosca del gusano barrenador del Nuevo Mundo, una plaga que amenaza al ganado. El metodo podria ofrecer una alternativa mas segura que la irradiacion tradicional usada para controlar esta plaga.",
+      "por_que_leerlo": "El gusano barrenador ya genera alertas en la ganaderia de America Latina, y esta tecnica podria ser clave para controlarlo con menos riesgo.",
+      "seccion": "ciencia",
+      "tags": [
+        "ganaderia",
+        "plagas",
+        "biotecnologia",
+        "agricultura"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-electron-advance-safer-sterilization-method.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 603,
+      "titulo": "El primer satélite propio de Anduril detecta maniobras enemigas en plena noche orbital",
+      "resumen": "Anduril presentó su primer satélite construido internamente, equipado con un sensor de alto rango dinámico capaz de ver objetos en completa oscuridad orbital. La compañía asegura que esta capacidad permite rastrear maniobras de satélites adversarios incluso cuando no reciben luz solar directa.",
+      "por_que_leerlo": "Muestra cómo una startup de defensa privada está desarrollando capacidades de vigilancia espacial antes reservadas a gobiernos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "defensa",
+        "satelites",
+        "vigilancia espacial",
+        "anduril"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
+      "id": 604,
+      "titulo": "United Airlines prohíbe que agentes de IA reserven vuelos por riesgos de ciberseguridad",
+      "resumen": "United Airlines anunció que bloqueará el uso de agentes autónomos de inteligencia artificial para reservar vuelos o gestionar reservas, citando riesgos de seguridad informática. La decisión se suma a la cautela creciente de empresas tradicionales frente a la automatización de transacciones sensibles mediante agentes de IA.",
+      "por_que_leerlo": "Revela cómo las empresas frenan en la práctica la adopción de agentes de IA en operaciones con datos sensibles, pese al entusiasmo del sector.",
+      "seccion": "tecnologia",
+      "tags": [
+        "agentes ia",
+        "ciberseguridad",
+        "aerolineas",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-12 18:46",
+      "auto_generated": true
+    },
+    {
       "id": 581,
       "titulo": "Simular la mineria de asteroides muestra que hundiria el precio del platino, y eso seria bueno",
       "resumen": "Investigadores del MIT modelaron que pasaria si la mineria de asteroides trajera grandes cantidades de platino y otros metales raros a la Tierra: el mercado se inundaria y los precios caerian fuertemente. Lejos de ser un problema, los autores argumentan que precios mas bajos beneficiarian a industrias que dependen de estos materiales, como la electronica y la energia limpia.",
