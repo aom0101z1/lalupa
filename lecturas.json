@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-11"
+    "ultima_actualizacion": "2026-11-12"
   },
   "lecturas": [
+    {
+      "id": 581,
+      "titulo": "Simular la mineria de asteroides muestra que hundiria el precio del platino, y eso seria bueno",
+      "resumen": "Investigadores del MIT modelaron que pasaria si la mineria de asteroides trajera grandes cantidades de platino y otros metales raros a la Tierra: el mercado se inundaria y los precios caerian fuertemente. Lejos de ser un problema, los autores argumentan que precios mas bajos beneficiarian a industrias que dependen de estos materiales, como la electronica y la energia limpia.",
+      "por_que_leerlo": "Una leccion clara de economia de mercados aplicada a un escenario futurista, util para entender como la oferta masiva de un recurso transforma precios e industrias enteras.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "mineria espacial",
+        "mercados",
+        "commodities",
+        "economia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 582,
+      "titulo": "Nvidia al borde de una crisis de gobierno corporativo: el consejo evalúa destituir a Jensen Huang",
+      "resumen": "El FBI investiga a Jensen Huang tras conocerse su relación con una presunta espía china, mientras la junta de Nvidia discute si lo destituye después de 33 años como fundador y CEO. Las acciones cayeron y el Congreso de EE.UU. citó a Huang para explicar posibles riesgos de seguridad nacional ligados a la exportación de chips a China.",
+      "por_que_leerlo": "Explica cómo una crisis personal puede poner en jaque la gobernanza y la estrategia geopolítica de la empresa más valiosa de la industria de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nvidia",
+        "jensen huang",
+        "gobierno corporativo",
+        "seguridad nacional"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 583,
+      "titulo": "AWS lanza un emulador para probar agentes de IA sin tocar la nube real",
+      "resumen": "Amazon publicó un emulador de AWS que permite a agentes autónomos de inteligencia artificial ejecutar y probar tareas de infraestructura en un entorno simulado, sin afectar recursos reales ni generar costos de nube. El proyecto, disponible en GitHub, busca dar a los desarrolladores un espacio seguro para entrenar y depurar agentes que interactúan con servicios cloud.",
+      "por_que_leerlo": "Es una herramienta práctica y gratuita para quien construye agentes de IA que necesitan operar sobre infraestructura en la nube sin arriesgar dinero ni datos reales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "aws",
+        "ia",
+        "agentes",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/aws/aws-emulator"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 584,
+      "titulo": "El rol de ingeniero de software cambia: ahora se trata de validar con el cliente que la IA funcione",
+      "resumen": "Un análisis de la newsletter de Lenny Rachitsky sobre el mercado laboral tecnológico muestra que los puestos de ingeniería de software con mayor demanda ya no giran en torno a escribir código, sino a reunirse con clientes para verificar que las soluciones de IA funcionen en la práctica. El informe documenta un giro real en las descripciones de los cargos tecnológicos mejor pagados.",
+      "por_que_leerlo": "Da una señal temprana de hacia dónde se mueve el trabajo técnico y qué habilidades empezarán a valer más en la era de la IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "empleo",
+        "inteligencia artificial",
+        "ingenieria de software",
+        "mercado laboral"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 585,
+      "titulo": "IBM presenta el procesador cuántico Quantum Nighthawk r3, escalable más allá de un solo chip",
+      "resumen": "El nuevo chip puede ejecutar hasta 10.000 operaciones cuánticas sobre 520 qubits programables y fue diseñado para interconectarse con otros procesadores. IBM busca así competir con Google, Microsoft y Amazon en la carrera hacia una computación cuántica con usos prácticos.",
+      "por_que_leerlo": "Entender cómo avanza la escalabilidad cuántica ayuda a anticipar qué tecnologías podrían cambiar la computación en la próxima década.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computacion cuantica",
+        "ibm",
+        "chips",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/hardware/ibm-procesador-cuantico-nighthawk-r3/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 586,
+      "titulo": "Clara levanta US$105 millones para expandir su plataforma de gasto empresarial en America Latina",
+      "resumen": "La fintech colombiana Clara cerro una Serie C de US$65 millones y renovo una linea de credito de US$40 millones, sumando US$105 millones para fortalecer su plataforma de gestion de gastos corporativos. El capital busca acompanar la expansion de empresas latinoamericanas que usan sus herramientas financieras.",
+      "por_que_leerlo": "Muestra como una fintech latinoamericana estructura una ronda mixta de equity y deuda para escalar, un modelo replicable para otros emprendedores.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "startups",
+        "inversion",
+        "america latina"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/clara-obtiene-us105-millones-servicios/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 587,
+      "titulo": "Una tecnica independiente confirma la historica imagen del agujero negro M87*",
+      "resumen": "Un equipo de CSIRO desarrollo una nueva tecnica de imagen que valido de forma independiente la famosa fotografia de 2019 del Event Horizon Telescope, la primera vista directa de la sombra de un agujero negro. El metodo confirma que la forma y el tamano observados en M87* son correctos, reforzando la confianza en uno de los hitos cientificos mas reconocidos de la decada.",
+      "por_que_leerlo": "Confirma con un metodo distinto uno de los descubrimientos astrofisicos mas importantes de los ultimos anos, mostrando como funciona la verificacion cientifica real.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujero negro",
+        "astrofisica",
+        "event horizon telescope",
+        "m87"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 588,
+      "titulo": "Nuevo estudio cuestiona la maxima de 'fidelizar donantes' en organizaciones sin animo de lucro",
+      "resumen": "Pese a la sabiduria convencional de que retener donantes leales es la mejor estrategia cuando el financiamiento humanitario se reduce, un nuevo estudio muestra que el valor real de un donante depende de como esta estructurada la organizacion. Para muchas entidades, conseguir donantes nuevos resulta mas rentable que mantener a los antiguos.",
+      "por_que_leerlo": "Desafia una creencia comun sobre retencion de clientes o usuarios que aplica igual a negocios por suscripcion, no solo a organizaciones sin animo de lucro.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "retencion",
+        "adquisicion de clientes",
+        "organizaciones",
+        "datos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-loyal-donors-advice-nonprofit.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 589,
+      "titulo": "Hallan ADN de un virus mortal de ovejas oculto en manuscritos de hace 1.000 anos",
+      "resumen": "Cientificos detectaron rastros de un virus letal en ovejas dentro de pergaminos antiguos, incluido el Evangelio de York de hace mil anos, y rastrearon su historia hasta hace mas de 3.700 anos. El hallazgo revela que el virus ha permanecido practicamente sin cambios geneticos durante milenios.",
+      "por_que_leerlo": "Muestra como archivos historicos cotidianos pueden convertirse en un registro biologico oculto para rastrear enfermedades antiguas con tecnicas modernas de secuenciacion.",
+      "seccion": "ciencia",
+      "tags": [
+        "adn antiguo",
+        "virus",
+        "manuscritos",
+        "epidemiologia historica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 590,
+      "titulo": "TSMC invertirá US$1.000 millones en Anthropic y OpenAI en medio del financiamiento circular de la IA",
+      "resumen": "El mayor fabricante de chips del mundo, TSMC, anunció una inversión de US$1.000 millones en Anthropic y OpenAI, justo cuando el mercado empieza a cuestionar la sostenibilidad del financiamiento circular en el sector de IA. La operación profundiza los lazos entre fabricantes de hardware y desarrolladores de modelos.",
+      "por_que_leerlo": "Muestra cómo los gigantes de chips están apostando directamente por sus clientes de IA, una dinámica financiera clave para entender el boom actual.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tsmc",
+        "inversion",
+        "inteligencia artificial",
+        "financiamiento circular"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 591,
+      "titulo": "Agente de código Grok Build de xAI dejó expuestas 35.000 aplicaciones con datos confidenciales",
+      "resumen": "Un investigador de seguridad encontró que 35.000 aplicaciones creadas con el agente de programación Grok Build quedaron completamente abiertas en internet, exponiendo información confidencial, incluida la de SpaceX. El hallazgo evidencia fallas graves en la seguridad por defecto de las herramientas de codificación con IA.",
+      "por_que_leerlo": "Es una advertencia concreta sobre los riesgos de seguridad al usar agentes de IA para programar sin revisar los permisos por defecto.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "inteligencia artificial",
+        "grok",
+        "codigo"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-10",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
+    {
+      "id": 592,
+      "titulo": "La británica Fractile levanta US$720 millones para competir en chips de IA a la medida",
+      "resumen": "La startup británica Fractile cerró una ronda de financiación de US$720 millones, convirtiéndose en uno de los actores mejor capitalizados en la carrera por chips diseñados específicamente para inteligencia artificial. La ronda refleja el apetito inversor por alternativas de hardware frente a Nvidia.",
+      "por_que_leerlo": "Da una idea del tamaño de capital que se necesita hoy para competir en hardware de IA y quién está entrando a ese mercado.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "chips",
+        "inteligencia artificial",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-12 03:40",
+      "auto_generated": true
+    },
     {
       "id": 569,
       "titulo": "Ingeniero de Google usa 48 agentes de IA y halla una pirámide maya oculta en 72 horas",

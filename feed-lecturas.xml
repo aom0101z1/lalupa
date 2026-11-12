@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:24:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:40:19 -0000</lastBuildDate>
+    <item>
+      <title>Simular la mineria de asteroides muestra que hundiria el precio del platino, y eso seria bueno</title>
+      <link>https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html</link>
+      <guid isPermaLink="false">lalupa-lectura-581</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Investigadores del MIT modelaron que pasaria si la mineria de asteroides trajera grandes cantidades de platino y otros metales raros a la Tierra: el mercado se inundaria y los precios caerian fuertemente. Lejos de ser un problema, los autores argumentan que precios mas bajos beneficiarian a industrias que dependen de estos materiales, como la electronica y la energia limpia. Por que leerlo: Una leccion clara de economia de mercados aplicada a un escenario futurista, util para entender como la oferta masiva de un recurso transforma precios e industrias enteras. (Phys.org, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nvidia al borde de una crisis de gobierno corporativo: el consejo evalúa destituir a Jensen Huang</title>
+      <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
+      <guid isPermaLink="false">lalupa-lectura-582</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El FBI investiga a Jensen Huang tras conocerse su relación con una presunta espía china, mientras la junta de Nvidia discute si lo destituye después de 33 años como fundador y CEO. Las acciones cayeron y el Congreso de EE.UU. citó a Huang para explicar posibles riesgos de seguridad nacional ligados a la exportación de chips a China. Por que leerlo: Explica cómo una crisis personal puede poner en jaque la gobernanza y la estrategia geopolítica de la empresa más valiosa de la industria de IA. (TechCrunch, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>AWS lanza un emulador para probar agentes de IA sin tocar la nube real</title>
+      <link>https://github.com/aws/aws-emulator</link>
+      <guid isPermaLink="false">lalupa-lectura-583</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Amazon publicó un emulador de AWS que permite a agentes autónomos de inteligencia artificial ejecutar y probar tareas de infraestructura en un entorno simulado, sin afectar recursos reales ni generar costos de nube. El proyecto, disponible en GitHub, busca dar a los desarrolladores un espacio seguro para entrenar y depurar agentes que interactúan con servicios cloud. Por que leerlo: Es una herramienta práctica y gratuita para quien construye agentes de IA que necesitan operar sobre infraestructura en la nube sin arriesgar dinero ni datos reales. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>El rol de ingeniero de software cambia: ahora se trata de validar con el cliente que la IA funcione</title>
+      <link>https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione</link>
+      <guid isPermaLink="false">lalupa-lectura-584</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un análisis de la newsletter de Lenny Rachitsky sobre el mercado laboral tecnológico muestra que los puestos de ingeniería de software con mayor demanda ya no giran en torno a escribir código, sino a reunirse con clientes para verificar que las soluciones de IA funcionen en la práctica. El informe documenta un giro real en las descripciones de los cargos tecnológicos mejor pagados. Por que leerlo: Da una señal temprana de hacia dónde se mueve el trabajo técnico y qué habilidades empezarán a valer más en la era de la IA. (Xataka, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>IBM presenta el procesador cuántico Quantum Nighthawk r3, escalable más allá de un solo chip</title>
+      <link>https://hipertextual.com/hardware/ibm-procesador-cuantico-nighthawk-r3/</link>
+      <guid isPermaLink="false">lalupa-lectura-585</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El nuevo chip puede ejecutar hasta 10.000 operaciones cuánticas sobre 520 qubits programables y fue diseñado para interconectarse con otros procesadores. IBM busca así competir con Google, Microsoft y Amazon en la carrera hacia una computación cuántica con usos prácticos. Por que leerlo: Entender cómo avanza la escalabilidad cuántica ayuda a anticipar qué tecnologías podrían cambiar la computación en la próxima década. (Hipertextual, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Clara levanta US$105 millones para expandir su plataforma de gasto empresarial en America Latina</title>
+      <link>https://www.valoraanalitik.com/clara-obtiene-us105-millones-servicios/</link>
+      <guid isPermaLink="false">lalupa-lectura-586</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La fintech colombiana Clara cerro una Serie C de US$65 millones y renovo una linea de credito de US$40 millones, sumando US$105 millones para fortalecer su plataforma de gestion de gastos corporativos. El capital busca acompanar la expansion de empresas latinoamericanas que usan sus herramientas financieras. Por que leerlo: Muestra como una fintech latinoamericana estructura una ronda mixta de equity y deuda para escalar, un modelo replicable para otros emprendedores. (Valora Analitik, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una tecnica independiente confirma la historica imagen del agujero negro M87*</title>
+      <link>https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html</link>
+      <guid isPermaLink="false">lalupa-lectura-587</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo de CSIRO desarrollo una nueva tecnica de imagen que valido de forma independiente la famosa fotografia de 2019 del Event Horizon Telescope, la primera vista directa de la sombra de un agujero negro. El metodo confirma que la forma y el tamano observados en M87* son correctos, reforzando la confianza en uno de los hitos cientificos mas reconocidos de la decada. Por que leerlo: Confirma con un metodo distinto uno de los descubrimientos astrofisicos mas importantes de los ultimos anos, mostrando como funciona la verificacion cientifica real. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nuevo estudio cuestiona la maxima de 'fidelizar donantes' en organizaciones sin animo de lucro</title>
+      <link>https://phys.org/news/2026-11-loyal-donors-advice-nonprofit.html</link>
+      <guid isPermaLink="false">lalupa-lectura-588</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Pese a la sabiduria convencional de que retener donantes leales es la mejor estrategia cuando el financiamiento humanitario se reduce, un nuevo estudio muestra que el valor real de un donante depende de como esta estructurada la organizacion. Para muchas entidades, conseguir donantes nuevos resulta mas rentable que mantener a los antiguos. Por que leerlo: Desafia una creencia comun sobre retencion de clientes o usuarios que aplica igual a negocios por suscripcion, no solo a organizaciones sin animo de lucro. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Hallan ADN de un virus mortal de ovejas oculto en manuscritos de hace 1.000 anos</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261106174545.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-589</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Cientificos detectaron rastros de un virus letal en ovejas dentro de pergaminos antiguos, incluido el Evangelio de York de hace mil anos, y rastrearon su historia hasta hace mas de 3.700 anos. El hallazgo revela que el virus ha permanecido practicamente sin cambios geneticos durante milenios. Por que leerlo: Muestra como archivos historicos cotidianos pueden convertirse en un registro biologico oculto para rastrear enfermedades antiguas con tecnicas modernas de secuenciacion. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>TSMC invertirá US$1.000 millones en Anthropic y OpenAI en medio del financiamiento circular de la IA</title>
+      <link>https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/</link>
+      <guid isPermaLink="false">lalupa-lectura-590</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El mayor fabricante de chips del mundo, TSMC, anunció una inversión de US$1.000 millones en Anthropic y OpenAI, justo cuando el mercado empieza a cuestionar la sostenibilidad del financiamiento circular en el sector de IA. La operación profundiza los lazos entre fabricantes de hardware y desarrolladores de modelos. Por que leerlo: Muestra cómo los gigantes de chips están apostando directamente por sus clientes de IA, una dinámica financiera clave para entender el boom actual. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Agente de código Grok Build de xAI dejó expuestas 35.000 aplicaciones con datos confidenciales</title>
+      <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
+      <guid isPermaLink="false">lalupa-lectura-591</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un investigador de seguridad encontró que 35.000 aplicaciones creadas con el agente de programación Grok Build quedaron completamente abiertas en internet, exponiendo información confidencial, incluida la de SpaceX. El hallazgo evidencia fallas graves en la seguridad por defecto de las herramientas de codificación con IA. Por que leerlo: Es una advertencia concreta sobre los riesgos de seguridad al usar agentes de IA para programar sin revisar los permisos por defecto. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La británica Fractile levanta US$720 millones para competir en chips de IA a la medida</title>
+      <link>https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/</link>
+      <guid isPermaLink="false">lalupa-lectura-592</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La startup británica Fractile cerró una ronda de financiación de US$720 millones, convirtiéndose en uno de los actores mejor capitalizados en la carrera por chips diseñados específicamente para inteligencia artificial. La ronda refleja el apetito inversor por alternativas de hardware frente a Nvidia. Por que leerlo: Da una idea del tamaño de capital que se necesita hoy para competir en hardware de IA y quién está entrando a ese mercado. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Ingeniero de Google usa 48 agentes de IA y halla una pirámide maya oculta en 72 horas</title>
       <link>https://pietromiotti.com/latest/maya-site/?maya</link>
@@ -390,102 +486,6 @@
       <pubDate>Tue, 10 Nov 2026 04:33:00 -0000</pubDate>
       <category>Tecnología</category>
       <description>Google anuncio dos nuevas generaciones de sus procesadores especializados en inteligencia artificial, TPU 8tx y TPU 8i Max, orientados a ampliar su infraestructura de nube global para cargas de trabajo de IA. Por que leerlo: Entender hacia donde avanza el hardware de IA ayuda a anticipar costos y capacidades de computo para quienes construyen productos con modelos grandes. (Hacker News, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Tras 35 años de estudio, hallan que los ratones (no los venados) disparan la enfermedad de Lyme</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261106174518.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-521</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Una investigación de más de 35 años revela que las poblaciones de ratones, no de venados, son el principal motor del riesgo de enfermedad de Lyme, pudiendo aumentar hasta un 40% la población de garrapatas al año siguiente. Incluso la producción de bellotas permite predecir brotes de garrapatas con dos años de anticipación, mientras las temperaturas extremas influyen menos de lo asumido. Por que leerlo: Da una herramienta de predicción real para anticipar brotes de una enfermedad transmitida por garrapatas. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Logran que la luz se comporte como sólido y líquido a la vez, a temperatura ambiente</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261105224536.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-522</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Científicos observaron un extraño estado cuántico de la materia que combina la estructura ordenada de un cristal con el flujo sin fricción de un líquido, logrado por primera vez a temperatura ambiente. El avance supera una limitación práctica clave de los experimentos cuánticos exóticos y abre camino a computación y sensores basados en luz. Por que leerlo: Muestra un paso concreto hacia computadoras ópticas cuánticas que funcionen fuera del laboratorio criogénico. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>La geotermica Fervo acumula 12.000 millones de dolares en pedidos y le apunta al gas natural</title>
-      <link>https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/</link>
-      <guid isPermaLink="false">lalupa-lectura-523</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Fervo, una empresa de energia geotermica, ya tiene 12.000 millones de dolares en ordenes mientras reduce los costos de perforacion en su yacimiento de 8,4 GW en Utah. La compania busca competir directamente con el gas natural como fuente de energia firme para la red. Por que leerlo: Es un caso concreto de como la innovacion en perforacion esta haciendo que la energia geotermica compita en precio con los combustibles fosiles. (TechCrunch, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un asteroide de 11 metros se acelera de forma inexplicable y descartan la explicacion mas obvia</title>
-      <link>https://www.xataka.com/espacio/asteroide-11-metros-se-mueve-como-alguien-empujara-cientificos-acaban-descartar-explicacion-obvia</link>
-      <guid isPermaLink="false">lalupa-lectura-524</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El asteroide detectado en 1998 por un astronomo de la Universidad de Arizona muestra una aceleracion que no corresponde ni a la gravedad ni al efecto Yarkovsky, la unica fuerza termica conocida capaz de alterar levemente su orbita. Un nuevo estudio descarta esa explicacion convencional, dejando abierto el misterio de que fuerza empuja realmente al objeto. Por que leerlo: Muestra como la ciencia avanza descartando hipotesis con datos concretos, no solo narrando curiosidades espaciales. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>De 320 millones de viajes y pedidos de Uber en Halloween, solo 4 viajes y 500 pedidos vinieron de agentes de IA</title>
-      <link>https://www.xataka.com/robotica-e-ia/unos-320-millones-viajes-pedidos-uber-semana-halloween-solo-cuatro-viajes-500-pedidos-uber-eats-vinieron-agentes-ia</link>
-      <guid isPermaLink="false">lalupa-lectura-525</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Uber revelo a sus inversionistas que, pese al boom de los agentes de inteligencia artificial, su adopcion real en la plataforma sigue siendo marginal: apenas 4 viajes y 500 pedidos de Uber Eats de los cientos de millones registrados en la semana de Halloween fueron iniciados por agentes autonomos. El dato contrasta con la expectativa de que la IA agentic ya este transformando el comercio digital. Por que leerlo: Pone cifras reales a la fiebre de los agentes de IA y ayuda a calibrar que tan lejos esta su adopcion masiva. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El auge de la IA en EE.UU. beneficia las exportaciones latinoamericanas, pero profundiza las desigualdades</title>
-      <link>https://www.bloomberglinea.com/mercados/el-dividendo-de-silicon-valley-profundiza-las-diferencias-en-america-latina-por-el-auge-de-la-ia/</link>
-      <guid isPermaLink="false">lalupa-lectura-526</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La inversión masiva de Silicon Valley en inteligencia artificial impulsa las exportaciones de América Latina, pero los beneficios se concentran en el cobre y la industria electrónica, dejando atrás a otros sectores. El informe evidencia cómo el boom de la IA está redibujando el mapa comercial regional de forma desigual. Por que leerlo: Ayuda a entender qué países y sectores de América Latina realmente se benefician del boom de la IA y cuáles se quedan atrás. (Bloomberg Linea, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Redatan al Niño de Taung y reescriben el árbol genealógico humano</title>
-      <link>https://phys.org/news/2026-11-million-year-taung-child-human.html</link>
-      <guid isPermaLink="false">lalupa-lectura-527</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un siglo después de su descubrimiento, un nuevo estudio en npj Palaeoecosystems redata el fósil del Niño de Taung a entre 2.96 y 3.03 millones de años, más joven de lo que se asumía. Liderado por la profesora Gabriele Macho de la Vrije Universiteit Brussel, el hallazgo obliga a reordenar la cronología de las especies humanas tempranas. Por que leerlo: Entender cómo un solo fósil icónico sigue cambiando lo que sabemos sobre el origen humano. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Chimpancés aprenden sonidos de sus mayores, igual que los niños aprenden palabras</title>
-      <link>https://phys.org/news/2026-11-chimpanzees-raspberries-evidence-vocal-conventions.html</link>
-      <guid isPermaLink="false">lalupa-lectura-528</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio del CNRS, la Universidad de Warwick y el proyecto Taï Chimpanzee halló que los chimpancés 'soplan frambuesas' (un sonido vocal) de forma aprendida de los adultos y no instintiva, la primera evidencia de convenciones vocales aprendidas en grandes simios. El hallazgo abre un paralelo directo con cómo los humanos adquieren el lenguaje. Por que leerlo: Revela un paralelo sorprendente entre cómo los simios y los humanos aprenden a comunicarse. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Canada lanza su sistema de pagos en tiempo real que funciona las 24 horas</title>
-      <link>https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</link>
-      <guid isPermaLink="false">lalupa-lectura-529</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Payments Canada puso en marcha el Real-Time Rail (RTR), una infraestructura nacional de pagos que opera 24 horas los 7 dias de la semana, segun el anuncio oficial del organismo encargado de los sistemas de pago del pais. Por que leerlo: Es un ejemplo concreto de como un pais moderniza su infraestructura financiera, util como referencia para pensar en fintech en Colombia. (Hacker News, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Paneles solares de color magenta mejoran el truco de combinar energia solar con cultivos</title>
-      <link>https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/</link>
-      <guid isPermaLink="false">lalupa-lectura-530</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un nuevo diseno de paneles solares de color magenta busca optimizar la agrivoltaica, la practica de instalar paneles sobre terrenos de cultivo, dejando pasar mas luz util para las plantas mientras sigue generando electricidad. Por que leerlo: Muestra una solucion de ingenieria simple para resolver el conflicto entre generar energia solar y mantener la produccion agricola en el mismo terreno. (Hacker News, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Le pidio a una IA que le programara su propio desinstalador de apps de Android y lo logro en media hora</title>
-      <link>https://www.xataka.com/robotica-e-ia/queria-quitar-aplicaciones-que-android-no-me-deja-borrar-asi-que-le-pedi-a-ia-mi-propio-desinstalador-media-hora-tenia</link>
-      <guid isPermaLink="false">lalupa-lectura-531</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un usuario frustrado con las aplicaciones de sistema que Android no permite eliminar le pidio a una inteligencia artificial que le construyera una herramienta personalizada para desinstalarlas, y obtuvo una solucion funcional en apenas 30 minutos. El caso ilustra como la IA generativa permite a cualquier persona crear software a medida sin ser programador experto. Por que leerlo: Es un ejemplo practico de como usar IA para resolver un problema propio construyendo una herramienta en minutos. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El empleo en programacion y consultoria de TI en Espana marca maximo historico pese al temor a la IA</title>
-      <link>https://www.xataka.com/empresas-y-economia/empleo-programacion-consultoria-informatica-marca-maximo-historico-epa-ahora-no-llega-temida-caida-ia</link>
-      <guid isPermaLink="false">lalupa-lectura-532</guid>
-      <pubDate>Mon, 09 Nov 2026 21:22:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Segun la Encuesta de Poblacion Activa (EPA), el empleo en el sector de programacion y consultoria informatica en Espana alcanzo un record historico, sin senales todavia de la caida masiva de puestos que varios estudios anticipaban por la automatizacion con IA. Los datos sugieren que, por ahora, el desplazamiento laboral previsto avanza mas lento de lo proyectado. Por que leerlo: Da evidencia real, no especulacion, sobre el impacto actual de la IA en el empleo tecnologico. (Xataka, 5 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
