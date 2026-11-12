@@ -221,6 +221,525 @@
   ],
   "casos": [
     {
+      "id": 3028,
+      "titulo": "Fondo Milagro reporta gasto de $765 millones en nómina con gerente que gana $39 millones mensuales",
+      "categoria": "dineros",
+      "fecha": "2026-11-12",
+      "descripcion": "En respuesta a un derecho de petición de la senadora Kamelia Zuluaga (Pacto Histórico), el Fondo Milagro reveló que gasta $765 millones mensuales en nómina, con un salario de $39 millones para su gerente, mientras administra un presupuesto aprobado de $624.656 millones para la reconstrucción tras el terremoto.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/fondo-milagro-gasta-765-millones-en-nomina-gerente-gana-39-millones/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Kamelia Zuluaga"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3027,
+      "titulo": "Gobierno De la Espriella mejora relación institucional con el Banco de la República",
+      "categoria": "economia",
+      "fecha": "2026-11-12",
+      "descripcion": "Se reporta un cambio de tono en la relación entre el Gobierno Nacional y el Banco de la República y el sistema financiero, pasando de un discurso confrontacional durante el gobierno anterior a una postura de respeto institucional bajo la administración de De la Espriella.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/el-nuevo-aire-que-se-respira-en-la-relacion-del-gobierno-con-el-banco-de-la-republica-y-el-sistema-financiero-506248",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Banco de la Republica / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3026,
+      "titulo": "Gobierno colombiano estrecha lazos con demócratas y republicanos de EE.UU.",
+      "categoria": "internacional",
+      "fecha": "2026-11-12",
+      "descripcion": "Tras las elecciones de medio término en Estados Unidos, el Gobierno de De la Espriella, a través del funcionario Restrepo, informó que ha sostenido reuniones con instituciones estadounidenses de ambos partidos para fortalecer la relación bilateral.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-avanza-en-acercamientos-con-democratas-y-republicanos-tras-elecciones-de-medio-termino-en-ee-uu/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Restrepo"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancilleria)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3025,
+      "titulo": "Conciertos benéficos recaudan fondos para la Clínica Comfamiliar Risaralda",
+      "categoria": "dineros",
+      "fecha": "2026-11-12",
+      "descripcion": "Los conciertos 'Legacy, tributo a Michael Jackson' y 'Réquiem por la Esperanza' buscan recaudar recursos privados para apoyar la recuperación de la Clínica Comfamiliar Risaralda, afectada por el terremoto del 10 de agosto de 2026 en Pereira.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/ocio/la-musica-y-el-arte-se-unen-para-apoyar-la-recuperacion-de-la-clinica-comfamiliar-risaralda-4523580",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Clinica Comfamiliar Risaralda",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 3024,
+      "titulo": "Combates entre Ejercito y disidencias en la via Panamericana",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "Se reportaron fuertes combates entre el Ejercito Nacional y disidencias de las Farc en la via Panamericana, en el marco de las operaciones de seguridad del gobierno De la Espriella contra grupos armados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cali/articulo/fuertes-combates-en-la-via-panamericana-entre-el-ejercito-y-las-disidencias-este-es-el-panorama/202621/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3023,
+      "titulo": "Capturan a hombre por lanzar granada contra base militar en Cartago",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "Las autoridades capturaron y enviaron a prision a un hombre senalado de lanzar una granada contra una base militar en Cartago, Valle del Cauca, en el marco de la ofensiva de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cali/articulo/capturan-a-hombre-senalado-de-lanzar-una-granada-contra-una-base-militar-en-cartago-fue-enviado-a-prision/202633/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Fuerzas Militares",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3022,
+      "titulo": "Cathy Juvinao cuestiona baja ejecucion del Fondo Milagro frente a recursos reportados",
+      "categoria": "denuncias",
+      "fecha": "2026-11-12",
+      "descripcion": "La representante Cathy Juvinao cuestiono que el Fondo Milagro reporto $380.000 millones en recursos pero solo ha ejecutado $7.000 millones, acusando a la entidad de limitarse a hacer 'TikToks haciendo show' en lugar de mostrar resultados concretos en la reconstruccion tras el terremoto.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTDhHbGl2Nkl2eUNBbTczTm1ETzNUY3pZU3MtdFNYSG5oSWxoRDIyM1FSNWZEOGFUNWs3Z0lMVGxCeDNkZXk2enVRaGFPSzJmNHZBUU1fWG15dk9JRWt6WHdyNUZxVUhqYi1tZlJ3dzY5b2xKVnRnM0h3YkZCOXBZUjJCdjJOeVpaUDJ0aGx1VWpEZVVSU0FrM2lpLUhMaHM2c0xzQ3dUa3lzZEJjMlpkYk1VYXgzeGtzTHliLWdsYk9yQ1hKWV9CVldpNmFpZGVNT0Jua3EzVGI5eDRsUEZwbEJPdDA1X1QxZzhWeGk0dUdIMVdrM3BVSTUtQVo1M2ZYdkh2UHI4T09tLTdray0zN2ln0gGsAkFVX3lxTE8wUHJYYUxpTXZIQjlSc1IxREdpdGNtTGZOT2VINGQtVzlfNkNtVXFXd0pzXzFST2NaU2dLMGk4c0M4RTFRYnhxVlRnNTRkdVNPNmlNZkYySkZLc2xMR2RHMW1HZnc4cTFJNjR1MldSazdzX05FbVJFcnBSbTBHOU45NDU5N0hWa1k1cWpjenkyNl9EVW80d1EtM0Jna0lsdUpEcTdURTFoNXc2dm9XSEFJWHczUVQzNDFkaWltSWtMQ0c4aTd6U2hkZWtnTUNvb0EyblpZaGRxZ2htUGRPWjRPT0stbnN4QUIyRUNNR2RkNXRWWkplVDItNjJSRVhtazJwMGlFZ2JzNXU0WU16TnhWYlFIXzZ0cllDQl9GRzdCU2gtS2xwckUydGtNbw?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Cathy Juvinao"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3021,
+      "titulo": "MinInterior anuncia fin de la 'feria de los esquemas de seguridad' ante la JEP",
+      "categoria": "transparencia",
+      "fecha": "2026-11-12",
+      "descripcion": "El Ministro del Interior anuncio ante la Jurisdiccion Especial para la Paz (JEP) que el gobierno De la Espriella pondra fin a la 'feria de los esquemas de seguridad', en referencia a irregularidades en la asignacion de proteccion a figuras politicas y exguerrilleros durante gobiernos anteriores.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmJwbWhqRUdpeDM5TjB4LU9aY3N4eVJYTERLVnhoeG9UM0NDQnI4SWlVQklySVFzb1hnR1lJR1AwODlQMWFYNG5SRGttNkNPQk1FZXVQVGNXck94RlFrZkFFUXFaZXBCc3pPVldfcHlyWU8zSnZBNkxBSEN1dUg4bW9kVE9vZVBoZUQ1R1MtNzd4Q2FtSTEwRGhCYzVzZTYwOEcwTEpLc0lTLUU3SzAyclZyY1lfNER2X0UtSdIB0AFBVV95cUxQeWpEczdZdjhfUURZb0p2cDhMZTk3MjRuT1VwMWppa01sZVlEc2RFLXZZZEg0SklLdExCcW45R21lQjFYQkU1eTFmUENPN1F4dGNhSTNJS0hoZVlMNk9QVzR4TkJSTms3Sm95aFRhclg0R182SUU5cUNwX0F1SWctN0JKQnUwMlFjazJ5bTFXeHZUNURaWVFRZ1F0b0dtbHVwY0F0enpoZnhoaWM5THB5ZXRrcldIOVB1cnpZNVlGWFRnT1B0SXFlVHk4VEhVMEhf?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Interior / JEP",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3020,
+      "titulo": "Venezuela ofrece coordinar acciones de seguridad con el gobierno de De la Espriella",
+      "categoria": "internacional",
+      "fecha": "2026-11-12",
+      "descripcion": "El gobierno de Venezuela expreso su 'plena disposicion' para coordinar acciones de seguridad con Colombia, en un contexto de escalada de ataques armados en zonas fronterizas como Tibu y Catatumbo.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSVRNcFRvLWIzZTNsRFhEcHdGUlUtQzFnSmxid0EyVXNwNHBSOHpUR3czLXd1YmlwbGRqdjZnbG8xZXdIMlJ4NmJfNGZwcWJlOWI2LTdBV0liR2ZCSlMxZWVuQ2g4RGdnMHJtZUZQUTNCWVVybkh6bmpxeHVGSnJkRkJwVXFEQVhMNTFkRXZMUm5yQmVZS1RaZHJWYlA5V0FXVFFUMWZ1M1MxVEZidFQxUFh4YlpUaURETlRNSHFwWXJfbWlzTDJRQWJhY3g2bWk4NVQxbWdKZUxIbzlLZUdB0gHkAUFVX3lxTE1KX25DYzJQSDBBWEJBUzN0Ny1WRVRKeFMzS0U4SnZSZEdHM25seGhjSl9URHhjOHdlaW1jUWU5T0FVSGF2aTU1dDN5ZTI2SjFOemVSTldwUTNyUUgweU5Zdlotb1FVYnRtSmZJbGpyS2ZhLW1FdjRRb3ExSm1RU1JDRnl5SlpHeEplRjhGeXdlMGRHVkRLYzRjd2N0am9PeWg3NkJnX0w5VGFXMzRITlV0cWhUZDdfUnJrNEZvR0RGUlQweWZ3RElXVEs0MDFoZ1pfUUtGWDM4NTQ1UlVVRHBhekJrMQ?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Venezuela / Gobierno de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3019,
+      "titulo": "De la Espriella reconoce gravedad del orden publico y anuncia nuevas medidas de seguridad",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "El presidente Abelardo de la Espriella reconocio que la situacion de orden publico en el pais es grave y anuncio nuevas medidas de seguridad, afirmando que 'no hay otra salida' ante el recrudecimiento de la violencia armada.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2VJRk1pZk9BZi1tMGRpd2NQNExtMW40bWM1b2IyR1B0Vnk0NjZudE81bWZOTkdvZ1hUeGU3WUFzTEdGdkRHUWF6eTFKUkYwMEIzcUk0eEM0UDg4RkdVTzZpNFhnSXA1VkdOcmM2bXBsYkpTZnVKMWs0ckVidGgyOXk2V2xFWVljQUs2QXdMVm9LTHc1SUJodGdGOGpTeDNaZXduckpSQ3MwQ3Z1YjloWWRmcFlOTmVqcHAxSU4wVmxrazVKbXNfX0FqamF5TFNleWNzYUpsMUV0VFFFWExxS1k3ZjlaLUkyWE9wa2hHQmZSd9IB9wFBVV95cUxPREFwRG9HRDR3OWZDMWhXR1UzWDVzTnRiSFhHSTIyY0FObW1zSlI5c1JXNGpaUWl1VGNpX2N0YzgwTjJhajV6LXp2bGRPZDdJSVBybkloU2VVeGZacWszWW9SX0tNd2hUNUFCU0ZLMGI0TFZWdFU4N3lTd3hNX2JoNmFoUUtnTEV3dVpHMHNPeUhGVU1yRjNvT2hlV3ZSWnNXV1p3bUpuSXl2TllOODl1TVdxcURqZmh4bnktMi1SZDlUVnU0eFhXWnRFSmo0Ullsc2ZLem9peFF1eE50b1VLOXc0SThuQy1Odm1jWmlmbm9xMUJxRk9V?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3018,
+      "titulo": "Doce nuevos embajadores presentan credenciales ante el gobierno De la Espriella",
+      "categoria": "internacional",
+      "fecha": "2026-11-12",
+      "descripcion": "El canciller Omar Bula, por delegacion del presidente Abelardo De la Espriella, recibio las credenciales de 12 nuevos embajadores acreditados en Colombia, entre ellos representantes de Peru, Israel, Chile y Reino Unido.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/peru-israel-chile-y-reino-unido-entre-los-paises-de-los-12-nuevos-embajadores-que-presentaron-credenciales-al-gobierno-de-la-espriella-3600441",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancilleria)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3017,
+      "titulo": "Gabinete respalda unanime ejecucion del Plan Nacional de Desarrollo 2026-2030 pese a criticas en cifras economicas",
+      "categoria": "economia",
+      "fecha": "2026-11-12",
+      "descripcion": "El Consejo Nacional de Politica Economica y Social (Conpes) aprobo por unanimidad el respaldo de los ministros de De la Espriella para ejecutar el Plan Nacional de Desarrollo 2026-2030, abriendo mesas tecnicas previas al debate legislativo de 2027, en medio de criticas de analistas sobre la consistencia de las proyecciones economicas del plan.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/12/de-la-espriella-recibio-respaldo-de-sus-ministros-para-ejecutar-el-plan-nacional-de-desarrollo-2026-2030-pero-hay-criticas-a-las-cifras-economicas/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Conpes",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3016,
+      "titulo": "Director de Consulta Previa critica multiplicacion irregular de comunidades reconocidas bajo Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-12",
+      "descripcion": "Alejandro Burgos, director de Consulta Previa, declaro que durante el gobierno Petro se multiplicaron de forma ilogica las comunidades reconocidas en las direcciones de Asuntos Indigenas y de Comunidades Negras, sugiriendo reconocimientos indebidos que no correspondian a criterios tecnicos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/petro-reconocio-comunidades-que-no-lo-merecian-director-de-consulta-previa/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Burgos"
+      ],
+      "entidad": "Direccion de Consulta Previa / Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16"
+    },
+    {
+      "id": 3015,
+      "titulo": "Fundación Santo Domingo destina $130.000 millones para reconstrucción tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-12",
+      "descripcion": "La Fundación Santo Domingo, liderada por José Francisco Aguirre, anunció un plan de $130.000 millones de pesos para reconstruir viviendas, entregar ayudas alimentarias y promover la reactivación económica en municipios afectados por el terremoto de magnitud 7,4 del 10 de agosto de 2026, con el respaldo de varias empresas privadas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/plan-fundacion-santo-domingo-reconstruccion-terremoto-OK43496796",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Francisco Aguirre"
+      ],
+      "entidad": "Fundacion Santo Domingo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 3014,
+      "titulo": "Retos de la propuesta de devolución del IVA del Gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "Analistas señalan los retos que enfrentarían los beneficiarios de la devolución del IVA propuesta por el Gobierno De la Espriella como parte de su agenda economica, entre ellos barreras de acceso y bancarización, segun reporte de Valora Analitik del 11 de noviembre de 2026.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTV1cmhpOXRkbnJMUWN2MnVXMzhzaVR1Tkp1TzFZZ2NORDhUWjZNMXY2V0R4MnRKZmk1ODFONUFCazVZdlcyRE0ydXJtQTZHRWRKTV9CTTVFbDB2Q0VYMThqMDNaR1hCUU1ldjFVWnBqWmxZaEd3cWRuR1QxcW9XaTZPbl9ldnZxdFU4a19FVlBBSTEyaXgyaVE1dUI2ek1LUTVoWEVHcWM0d1JUa0Q4Ym1XWGNQVmhZN2Z3N0RrR3I3dzhNa18w0gHMAUFVX3lxTE5jdjM0NFRXUWx3Sld3c1ZsSVk4TmRwNDJ6eU4yTHNCdl8wNnBSRVhoRlQ1cWZnRTJfVmlqZGdDUWJKUVQzX2VVdnI1UG8wS2luLUtwakpNOVczdm5INHcta0trVlllb3EzU2FVam1BcEN5Ymo5dG9TMUZyM0w1SXh4NXBZSUJOeWhZaERsU25PQVdBWDFETFFyN21nNkMyeVpYYjQ3VEpob191S0hTb19iNHFwekh5NFRzeVJPbnIwUW10MUJ2Y0xEZzMtcw?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3013,
+      "titulo": "Gobierno plantea cambiar financiación de cajas de compensación hacia salud",
+      "categoria": "economia",
+      "fecha": "2026-11-12",
+      "descripcion": "El Gobierno de Abelardo de la Espriella evalúa modificar el esquema de financiación que reciben las cajas de compensación familiar para redirigir parte de esos recursos hacia el sistema de salud, segun reporte del 12 de noviembre de 2026. La medida busca aliviar la presión fiscal sobre el sector salud.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVW1QeVN2SmJoYWdOTjBfdm9aQXFOcXRqci02YmtUQ2ZpdG9oWTlOYTRjcTAwelE0cUZ3ME9PREZzSXNOOFlvYUZVZ0VTckFDY0FFTnAxYXpUb0NPc2lZemhqblMxRllTZ2k3ZXdVQzd5WjNwSmlXVmQ2SV9aMTZqSXNwUHUwTk5sbm1PZ2t3SlFETDhnTEZHWjdSMWxrWXNJMHZfZWFpQ2NfSkI3YmJTRHZZUFRMbDVYRWFHVWdDQVFta0JvYnUtdWtabkRQaTMyS0hxMWkyRdIB3AFBVV95cUxOSEEwMlVraUJMWU5aY0gwemhkUmdvMVFlZXUtU3ZndTNiY2ZEWWduZWdNUnBramVyZVZHTk13cFZzUXVETTFUdXBaakR0RTY5cFBtdVVqUjhlWjRGY0xPNnZoMzF5RllDSldrVnVMbExKNFlFRlhwb3JlWXdDUnRJWGlmRlMxYThiNWRUdnJEWElpcFExSHZqLXdzMUZUWnFLNWRvRl9jbFJXazdkWHlsTkFoT1hJR2RiUHoyTnNhbEJWOVpuVGJUMW9ZWk1TdHBZbzhqdC1LZ2J6RTY4?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3012,
+      "titulo": "Contraloría detecta presuntos títulos académicos falsos de funcionario en Paraguay",
+      "categoria": "mentiras",
+      "fecha": "2026-11-12",
+      "descripcion": "La Contraloría General de la República detectó presuntos títulos académicos falsos de un funcionario, aclarando que el país de origen de la irregularidad es Paraguay y no Chile, como se había reportado inicialmente. El hallazgo se suma a la serie de casos de funcionarios del gobierno Petro con credenciales académicas cuestionadas.",
+      "evidencia": "Reportado por Mala Espina",
+      "fuentes": [
+        {
+          "nombre": "Mala Espina",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRkNfNk5UdVU3OFFZdkFNSnlRNUl3ZjNkeGQ0V0RBQWlsWnAwZWhsSkctc2dVOTJuUDdkSk84Y0poNU9BRXlBSDlmTWp3blhoY2xaQXVwWmhvMnVwMmtQbHNUVlFPQlhqYUtESXo1VkNBM0poV1lqLXBObUtrQzRXNV9TY0N4SDk2bzNvRHNJTFJYUENDRW1BWENCQlRXbVFWSEpkeEg1MWItN21uQjVLRzRaUlAxXzB2WEtPaDRfTnRtZEg2SnZvTEhobkx2VjhpWnVoYkN4LTdnWmwybzE4OWhfcXIxN19nMUlqT1Ewc0tKZ2tX?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloria General de la Republica",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16"
+    },
+    {
+      "id": 3011,
+      "titulo": "Damnificados del terremoto en Cali recibiran bonos de $50 millones para vivienda",
+      "categoria": "avances",
+      "fecha": "2026-11-12",
+      "descripcion": "El Gobierno anuncio la entrega de bonos de $50 millones a damnificados del terremoto en Cali destinados a la compra de vivienda, como parte de las medidas de ayuda a la poblacion afectada tres meses despues del sismo.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mejor-colombia/articulo/damnificados-del-terremoto-en-cali-recibiran-bonos-de-50-millones-para-comprar-vivienda/202626/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3010,
+      "titulo": "Encuesta muestra menor favorabilidad de De la Espriella frente a Santos y Petro en sus primeros 100 dias",
+      "categoria": "opinion-publica",
+      "fecha": "2026-11-12",
+      "descripcion": "Una encuesta revelo que el presidente Abelardo de la Espriella registra una favorabilidad menor que la de los expresidentes Juan Manuel Santos y Gustavo Petro durante sus respectivos primeros 100 dias de gobierno.",
+      "evidencia": "Reportado por Emisora Atlántico 1070 AM",
+      "fuentes": [
+        {
+          "nombre": "Emisora Atlántico 1070 AM",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkhqcEdtaUUwSE1JRlNCaVRsSHJka0MxY19fWlIzZ1FGRXNnVExlMmRaUi04RXpYSDN0bXBPcWpSNFIzbkVFRWdMYTdNa0stTXJyYXpTMlNuMnZPLTUwOE4xWl9leHRzMkszakI3UDFkQ29OSFBSRElVc2RjZ1RXM3VWQlNKWmRRcDJDc2kzNGVoRXFCVV9SdFk5RlR4aGZ2Y0FFREN0Y1RJWW1UVUpmQTdkOWZ3ODcxNDVSdFRHS3NHaVpUWWIwWTRrWV92X1dzYXZXXzJmYllUUdIB4gFBVV95cUxQZF81WUNFaXliaFRHVGQyZDlWb194c3FRWkc5Q2tQWG0ySElyNHNPSnNHNzdqcjVYdEE5QXQ2X3daZVRfN2ZRQjJDYWpwWXdZazV0VkFkTEMxRi1ZdW9iY3VLaDc2bUdrdEhxY3ZSdmJUVVM0MFJXZmw2TkFvU1BHSDdjY0xUVW95VGJRenFIcGFvOTRmTEk0V2pZRm84VmJvV3lVbzJzN0VrdU9DU2tCZXQtZkRCaDRVY2FtUUk4aFBqcVNSM3NIMVlGX09meXpFTnZZTlZ1X2t3b3ZOSXlkQU9n?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Firma encuestadora",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3009,
+      "titulo": "Vicepresidencia anuncia plan para agilizar ejecucion de recursos del Fondo Milagro",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-12",
+      "descripcion": "El vicepresidente aseguro que el Gobierno busca acelerar las intervenciones de reconstruccion tras el terremoto y mantener un trabajo articulado con el sector de la construccion, en medio de cuestionamientos por la baja ejecucion de recursos del Fondo Milagro.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-busca-agilizar-reconstruccion-tras-el-terremoto-y-avanzar-en-inversion-con-fondo-milagro/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Vicepresidencia de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3008,
+      "titulo": "Bombardeo ordenado por De la Espriella contra disidencias de las Farc en Catatumbo deja 4 muertos y 6 capturados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "El presidente Abelardo de la Espriella presento los resultados de una operacion militar contra el frente 33 de las disidencias de las Farc en el Catatumbo, que dejo 4 muertos y 6 capturados, entre ellos alias 'Barba Chivo'. El mandatario aparecio vestido de militar durante la presentacion y se defendio de las criticas por su atuendo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-espriella-responde-criticas-vestido-militar-catatumbo-AC43504477",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "alias Barba Chivo"
+      ],
+      "entidad": "Fuerzas Militares / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3007,
+      "titulo": "Jaime Ramirez Cobo, figura clave en UNGRD, sigue sin ser vinculado formalmente a proceso penal",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-12",
+      "descripcion": "Jaime Ramirez Cobo, mencionado reiteradamente en el escandalo de corrupcion de la UNGRD y senalado de tener un papel clave en la gestion de contratos, no ha sido vinculado formalmente a un proceso penal casi tres anos despues de iniciado el escandalo. Su nombre volvio a surgir tras una entrevista de Angie Rodriguez sobre el celular de Gustavo Petro y su cercania con Laura Sarabia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/quien-es-jaime-ramirez-cobo-padrino-matrimonio-sarabia-dueno-sim-celular-que-uso-petro-HK43495673",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Ramirez Cobo",
+        "Angie Rodriguez",
+        "Laura Sarabia",
+        "Gustavo Petro"
+      ],
+      "entidad": "UNGRD",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 23:16"
+    },
+    {
       "id": 3006,
       "titulo": "Capturan a 4 funcionarios de la Dian por red de exportaciones ficticias en frontera con Ecuador",
       "categoria": "seguridad",
@@ -70090,7 +70609,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-12",
-    "total_casos": 2917,
+    "total_casos": 2939,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
