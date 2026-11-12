@@ -221,6 +221,825 @@
   ],
   "casos": [
     {
+      "id": 2983,
+      "titulo": "PND plantea seis medidas para elevar inversión al 25% del PIB y crecer 6%",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El Plan Nacional de Desarrollo de Abelardo de la Espriella plantea seis medidas clave orientadas a elevar la tasa de inversión al 25% del PIB y alcanzar un crecimiento económico anual del 6%.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUG1wUzBPdk0xSnVsR1ctYkU2MUU4VTIzMmMzeXBTV2JOSl9rVnlDNEJGdTZxNHR3c3RjUXZYejNBaFFsczNzRlN3eDBKT1hydkhJZTZoTEQ1clBPalZkODBBZ0VaVHUxMWd1OU5QdjJGaUxQdlFWdVEwaFdDTHZvZ1NxYUxNQ0ZzTVZWYlFFdFExUnZLN2RZbGs2QmtBQ3QxZXJROUoycWRSck420gGyAUFVX3lxTE92VFktZVE2Nm96Z2MwV2VKaUZmdEZjVWxxa1lzcm8zYW8yUjBLeHFqcnZyTVVnVDZwMDdkQmU0ZEJNMC1xWFBDaW9vdndYc3pxM2dadWRwUVFtelBKLVlmcE5NbmJGLS1rQkhhNzdRYThyM01vdFB3SmlZX3hLLWlYR0ZvOHIwSW9uQ05OTHFzeG43VHB4N2dlUTNvNjlyNjc4VXR3aE5qYS1yLVp2ZURSbGc?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2982,
+      "titulo": "PND plantea ofensiva para recuperar 643 municipios con presencia de grupos armados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "El borrador del Plan Nacional de Desarrollo plantea una estrategia de inteligencia y persecución de finanzas criminales para recuperar el control estatal en 643 municipios con presencia de grupos armados ilegales en el país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-prepara-ofensiva-para-recuperar-643-municipios-con-presencia-de-grupos-armados-3600230",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2981,
+      "titulo": "PND incluye Bloque de Búsqueda contra el 'gota a gota'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "El borrador del Plan Nacional de Desarrollo del gobierno De la Espriella incluye la creación de un Bloque de Búsqueda enfocado en atacar las redes de extorsión y préstamo informal conocidas como 'gota a gota'.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/de-la-espriella-incluyo-en-su-plan-nacional-de-desarrollo-un-bloque-de-busqueda-para-atacar-el-gota-a-gota-detalles-3600197",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2980,
+      "titulo": "Liquidación del Ministerio de la Igualdad reporta ahorro fiscal y supresión de cargos",
+      "categoria": "transparencia",
+      "fecha": "2026-11-11",
+      "descripcion": "El liquidador del Ministerio de la Igualdad reportó la eliminación de 467 puestos de trabajo y el retorno de más de 233.700 millones de pesos al Tesoro Nacional, además de definir la ruta de traslado para 11 programas y tres fondos clave del extinto ministerio creado en el gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/liquidador-del-ministerio-de-la-igualdad-reporta-avances-en-la-supresion-de-cargos-y-define-la-ruta-de-traslado-para-11-programas-y-tres-fondos-clave-3600326",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de la Igualdad (en liquidación)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2979,
+      "titulo": "Manizales entrega ayudas para reparar viviendas y negocios tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-11",
+      "descripcion": "La Alcaldía de Manizales inició una nueva fase de entrega de ayudas para la reparación de viviendas y establecimientos comerciales afectados por el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/manizales-comienza-a-entregar-ayudas-para-reparar-viviendas-y-negocios-afectados-por-el-terremoto/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldía de Manizales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 2978,
+      "titulo": "Hospital San Jorge de Pereira recupera servicios tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-11",
+      "descripcion": "El Hospital San Jorge de Pereira recuperó servicios y espera superar las 500 camas habilitadas tras el terremoto del 10 de agosto, que afectó cerca de 6.972 metros cuadrados de los 32.000 que conforman sus instalaciones, equivalente al 22% de su área construida.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/hospital-san-jorge-de-pereira-recupera-servicios-y-espera-superar-las-500-camas-habilitadas/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Hospital San Jorge de Pereira",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 2977,
+      "titulo": "Los siete proyectos de minerales críticos presentados en la Milagro Week son privados y preexistentes",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "Un análisis de los proyectos de minerales críticos que el gobierno llevará a la Milagro Week en Nueva York revela que los siete proyectos identificados son de capital privado y existían desde antes del actual gobierno, sin que ninguno se ubique en la región amazónica, lo que cuestiona el carácter de nueva inversión atribuido al evento.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-siete-proyectos-de-minerales-criticos-en-la-milagro-week/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ProColombia",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2976,
+      "titulo": "Borrador del Plan de Desarrollo plantea recuperar sostenibilidad fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El borrador del Plan Nacional de Desarrollo del gobierno De la Espriella plantea una hoja de ruta para recuperar la sostenibilidad fiscal del país, controlando el déficit, la deuda y el gasto público, cumpliendo la regla fiscal y reduciendo las primas de riesgo mediante una mejor coordinación de la política económica.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/borrador-del-plan-de-desarrollo-preve-recuperar-la-sostenibilidad-fiscal-controlando-deficit-deuda-y-gasto-publico-506180",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Nacional de Planeacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2975,
+      "titulo": "Pagos de aseguradoras por daños del sismo aumentan 13,5% a tres meses del evento",
+      "categoria": "avances",
+      "fecha": "2026-11-11",
+      "descripcion": "Según Fasecolda, las compañías de seguros han atendido más de 103.800 reclamaciones en 524 municipios del país tres meses después del terremoto del 10 de agosto, con un incremento del 13,5% en los pagos realizados por daños, lo que evidencia un avance en la atención privada a los afectados frente a la lentitud de los recursos públicos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/tres-meses-despues-del-sismo-del-10-de-agosto-pagos-de-aseguradoras-por-danos-aumentaron-13-5-asegura-fasecolda-506173",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fasecolda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2974,
+      "titulo": "Comisión Sexta avala proyecto para premiar a regiones con mejor gestión del PAE",
+      "categoria": "transparencia",
+      "fecha": "2026-11-11",
+      "descripcion": "La Comisión Sexta del Congreso inició el trámite de un proyecto de ley para premiar a alcaldías y gobernaciones que manejen con transparencia los recursos del Programa de Alimentación Escolar (PAE), en medio de discrepancias sobre las fuentes de financiamiento del incentivo.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/comision-sexta-avala-premiar-regiones-con-mejor-gestion-del-pae",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2973,
+      "titulo": "MinAgricultura elimina áreas de protección agrícola en 59 municipios",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El Ministerio de Agricultura, a través del viceministro de Desarrollo Rural José Leónidas Tobón, derogó las áreas de protección agrícola (APA) en 59 municipios del país, incluyendo la desafectación de más de 48.000 hectáreas en ocho municipios del norte del Tolima. La medida se tomó poco después de que la Corte Constitucional reconociera la constitucionalidad de estas áreas, lo que generó cuestionamientos sobre la celeridad de la decisión.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/minagricultura-elimina-areas-de-proteccion-agricola-en-59-municipios",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Leonidas Tobon"
+      ],
+      "entidad": "Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2972,
+      "titulo": "MinHacienda estima que servicio de deuda absorbería 45% de ingresos en 2030",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El ministro de Hacienda, Miguel Gómez Martínez, advirtió que el servicio de la deuda pública podría absorber hasta el 45% de los ingresos del Estado en 2030, señalando que el alto nivel de gasto público mantenido desde la pandemia ha presionado la inflación. La declaración se da en medio del debate por la reforma tributaria y la ley de ajuste fiscal del gobierno De la Espriella.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-ministerio-de-hacienda-advierte-que-sin-gasto-publico-la-economia-creceria-apenas-1-4522683",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gomez Martinez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2971,
+      "titulo": "Policía captura a dos sospechosos por ataque con granada a sede de RCN en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "Tras el atentado con una granada contra la sede de RCN en Cali, ocurrido en la madrugada del 11 de noviembre en el barrio Los Mangos, la Policía Nacional capturó a dos hombres que se movilizaban en motocicleta y que habrían lanzado el artefacto explosivo. No se reportaron heridos. El hecho se suma a la ola de atentados contra medios y figuras públicas en el país.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/lanzaron-una-granada-a-sede-de-rcn-en-cali-que-se-sabe-EH43442215",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2970,
+      "titulo": "Verónica Alcocer pide acceso a indagación judicial por presunto narcotráfico",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-11",
+      "descripcion": "Verónica Alcocer, esposa del expresidente Gustavo Petro, se refirió públicamente a la indagación judicial abierta en su contra por señalamientos de narcotráfico, solicitando acceso formal al expediente del proceso. La confirmación de la indagación en curso profundiza el escrutinio sobre su entorno familiar, en el marco de las pesquisas que ya involucran testimonios como los de Eva Ferrer ante la Fiscalía.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/veronica-alcocer-hablo-de-la-indagacion-judicial-en-su-contra-por-supuesto-narcotrafico-y-pidio-acceso-al-proceso-respeto/202642/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2969,
+      "titulo": "De la Espriella propone seis cambios en la justicia para enfrentar el crimen",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "El presidente Abelardo de la Espriella presento una propuesta de seis cambios en el sistema de justicia como parte de su estrategia para enfrentar el crimen en Colombia.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzBOQ2k1VFBqQkktb29hNlZMY0NpM3RZNmlTbEFpcHhNZ2pBZG5laVcwUi1rVUlBSzJtS0lIWGZMbjE0dnpKVjlrNUc4aC1PREVrYmp2Ny1CaTFFTFVYY2t4MFg1SndoLXhCQl95RWttTjVVaWJfYjl5OXZsd0JrR09HMmNleVhQUS1uYWFPNmtWLUNobFZYZWNqODNuZ9IBowFBVV95cUxNaG5pWTZoOWV3T3gzeEZzWTItUUtkU2JzWDdQMG43bVg1WEZldEJsSFNHeDAwYjZ0eXRSMXNCTEUzd3BkanY1emQzdlRZMnRYdGdMWmIzWmVOLTl6UWVaeUxiejdUMW5yOU1HRVFIb0FhVXhQRnI2ZFI1QzJWMnNMc2ozWHJGdlQ5QzZiNTE4YmNOLVVWZDI4YVFEWDJpdHJDelBJ?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2968,
+      "titulo": "Juicio contra exconsejera Sandra Ortiz en caso UNGRD queda en vilo",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-11",
+      "descripcion": "El juicio contra la exconsejera presidencial Sandra Ortiz, procesada dentro del caso de corrupcion en la UNGRD, quedo en vilo segun reporte de Revista Semana, en medio del seguimiento judicial al escandalo de sobornos durante el gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnJvblkyalk0cXNvTXZQWThIWUVTRTgxMkhxNXE0NzZ4bGQ3c1huRGt4bzBod1JhOGNLem5pZzJWQTF4X1VFQnJSNlVmRk8tN25tdnVUSUJIejB5VHpmMGdjMERkc0dTOHpIU2FzM3I0OEVETndVRlZrRWFWM3IyWERkbHFHODBRZkpvT01ldE9GV1FtTlB6ZVBxZ2l4WURCUTZXemR2OFZ0YTRZYXl5QUhiaw?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "Fiscalia General de la Nacion / UNGRD",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2967,
+      "titulo": "Canciller Omar Bula ofrece disculpas al Partido Democrata de EE.UU. por trinos previos",
+      "categoria": "internacional",
+      "fecha": "2026-11-11",
+      "descripcion": "El canciller Omar Bula envio una carta al Partido Democrata de Estados Unidos ofreciendo disculpas por trinos calificados de 'inapropiados e irrespetuosos' contra algunos de sus lideres, aclarando que no representan al gobierno actual.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/canciller-omar-bula-envio-una-carta-al-partido-democrata-de-estados-unidos-para-ofrecer-disculpas-por-sus-trinos-contra-algunos-de-sus-lideres-3600336",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancilleria)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2966,
+      "titulo": "Invias liquida programa 'Caminos Comunitarios' de Petro tras bajo cumplimiento y lanza 'Caminos del Tigre'",
+      "categoria": "empalme",
+      "fecha": "2026-11-11",
+      "descripcion": "El Invias liquidara el programa 'Caminos Comunitarios' del gobierno Petro, que solo mejoro 4.087 km de los 33.000 km prometidos, y anuncia una nueva meta de intervenir 30.000 km de vias regionales bajo el programa 'Caminos del Tigre'.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/de-caminos-comunitarios-a-caminos-del-tigre-la-ruta-del-gobierno-para-intervenir-30-000-km-de-vias-regionales-506142",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Invias / Gobierno Nacional",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2965,
+      "titulo": "Gobierno propone impuesto a cerveza y licores en la Ley Rescate",
+      "categoria": "economia",
+      "fecha": "2026-11-11",
+      "descripcion": "El gobierno De la Espriella plantea un impuesto a la cerveza y los licores dentro de su propuesta de reforma tributaria (Ley Rescate), con un billonario recaudo estimado, mientras una parte del Congreso anticipa que no apoyara algunas de las medidas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/este-seria-el-billonario-recaudo-que-tendria-el-gobierno-de-la-espriella-con-propuesta-de-impuesto-a-la-cerveza-y-licores/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2964,
+      "titulo": "Contraloría halla pagos de $580 millones por sistema de inteligencia ABIS que no funcionó en la DNI",
+      "categoria": "contratos",
+      "fecha": "2026-11-11",
+      "descripcion": "La Contraloría General de la República alertó sobre contratos de la Dirección Nacional de Inteligencia (DNI) en los que se pagaron 580 millones de pesos por el sistema ABIS, que no logró operar de manera integral con el Sistema de Información de Inteligencia y Contrainteligencia (SIIC), configurando un posible detrimento patrimonial.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/contraloria-alerta-por-contratos-de-la-dni-pagaron-por-sistema-que-no-funciono",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloría General de la República / Dirección Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2963,
+      "titulo": "Ecopetrol habría perdido más de US$85 millones en pozo de gas seco",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-11",
+      "descripcion": "Ecopetrol habría invertido más de US$85 millones en la perforación de un pozo de gas, iniciada en junio de 2024, que buscaba un yacimiento con potencial estimado de 250 millones de barriles equivalentes, principalmente gas y condensados, pero que resultó seco, representando una pérdida significativa de recursos de la petrolera estatal.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ecopetrol-habria-invertido-mas-de-us-85-millones-en-un-pozo-de-gas-que-resulto-seco-4522653",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2962,
+      "titulo": "Programa Adopta un Hogar entrega cuarta vivienda a damnificados del terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-11",
+      "descripcion": "La iniciativa privada Adopta un Hogar, respaldada por más de 200 empresas, sumó 6.600 donaciones y entregó su cuarta vivienda a familias damnificadas por el terremoto, dentro de su meta de construir 1.000 casas en seis departamentos afectados.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/adopta-un-hogar-sumo-6-600-donaciones-y-entrego-su-cuarta-vivienda-tras-el-sismo-4522667",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Adopta un Hogar",
+      "estado": "Comprobado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 2961,
+      "titulo": "Petro reconoce préstamo de dinero de su exdirectora del Dapre, Angie Rodríguez",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-11",
+      "descripcion": "El expresidente Gustavo Petro reconoció públicamente que su exdirectora del Dapre, Angie Rodríguez, le prestó dinero, afirmando que ya se lo pagó. La situación se da en medio de las restricciones bancarias que enfrenta Petro tras ser incluido en la lista Clinton de Estados Unidos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/petro-reconoce-deuda-angie-rodriguez-pago-prestamo-BH43446351",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Angie Rodríguez"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2960,
+      "titulo": "Gobierno estructura plan para cerrar y fusionar 17 embajadas",
+      "categoria": "transparencia",
+      "fecha": "2026-11-11",
+      "descripcion": "Tres meses después de su posesión, el Gobierno de Abelardo de la Espriella estaría estructurando el plan para cerrar o fusionar 17 embajadas, priorizando cinco de ellas, como parte de la promesa de austeridad en gasto diplomático, aunque la decisión aún no se ha materializado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/asi-va-cierre-de-embajadas-que-prometio-abelardo-estas-5-son-prioridad-JF43463596",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores (Cancillería) / Presidencia de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2959,
+      "titulo": "Menos de la mitad de familias víctimas del terremoto han solicitado indemnizaciones",
+      "categoria": "damnificados",
+      "fecha": "2026-11-11",
+      "descripcion": "Según la Adres, tres meses después del terremoto del 10 de agosto que dejó 336 fallecidos, solo se han radicado 148 solicitudes de indemnización, equivalentes al 44% de las familias de víctimas registradas, lo que evidencia lentitud en el proceso de reparación económica a los afectados.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/tres-meses-terremoto-colombia-cifra-familias-victimas-registradas-solicitud-indemnizacion-PF43468421",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Adres / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2958,
+      "titulo": "Transparencia por Colombia: alcaldías asumen la mayor parte del gasto de reconstrucción",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-10",
+      "descripcion": "Un informe de Transparencia por Colombia reveló que, tres meses después del terremoto, son las alcaldías afectadas las que están poniendo la mayor parte de los recursos para la reconstrucción, mientras el Gobierno nacional y el Fondo Milagro avanzan más lento en la entrega de fondos comprometidos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2o5Q2hjdG0xbjlYZWIwVUU3RnBqLXAtT19BWjVLc3hBc1VlVEl1NnNwRzUySFFQSHJfdVllYTh2UDZRcXYyTWh5N09sbFh2Zm1hSGxHOTBEcmdXd2pGcmFHVUpjWnh4SjBpMkctclNzT3I0MzhTRHVKZnM5ZklfV1ZFZEpGdlI1N2MwTldDVEFlYUF0WHZRanFDVGdIS0d5SEE3Z3BFYk43N3lTLTBrN2MtWdIBuAFBVV95cUxQc0ItaTBSbGdibUYwWTZrY2ZYdUROaDZVYUNTUGMxcDFyM3R0S2dXZTdqYmp5aHB0LVdIbjlaN2t0NzhKVGNjMmtON3RDU1A5N0tsQlMxQ04wUlFiV3QxRmJZZVV4UGlwdm1XLTRoNXo0Q1VXLWVxRmtyblB2a09LcXFjMnVKV1Jwd0E4UFVNWko1dE9hWktoNUJhZ0IzRHdrb01EUUhGUjlYc2ZGVjFSV0p1a3lva0U2?oc=5",
+          "fecha": "2026-11-10"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Transparencia por Colombia / Alcaldías",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2957,
+      "titulo": "Fondo Milagro admite ante el Congreso que no ha recibido donaciones privadas",
+      "categoria": "dineros",
+      "fecha": "2026-11-11",
+      "descripcion": "En debate de control político, el Fondo Milagro informó al Congreso que no ha recibido ninguna donación privada para la reconstrucción tras el terremoto, pese a las campañas de solidaridad anunciadas, lo que genera dudas sobre la trazabilidad y gestión de los recursos tres meses después del sismo.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVF6M0h4ZnJ5b3JXMDRNZV9ZQUVvM1Bid2gtMWJuTERUYWlLcWdkbl9CWG1nbmFGUC1XeEFVdzl6eU5TaDJYYm0xSkVIR0s2TndpRDd3b0x4NTRMblNQSFR1a2ozbWVjUnBYZjlVdW8wS01jSFJ5Vmx0S2FTQTZLZ3MxUE9NNENhWDhjSjN1OWlpbjF5cHBrTzhCSnVRcFVabXZXZDBtVzNEb1BpWGFIbk5sdldEcF9HV1owVG9ma0JsbzJHeFBaR0FOLV9GUWNRb1pvMndURlZBdVZjRml0aFpmQ3V6VEM0WXAzS2NQYzByNDdoamVUYVBn?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2956,
+      "titulo": "Fondo Milagro revela monto comprometido para atender emergencia",
+      "categoria": "dineros",
+      "fecha": "2026-11-11",
+      "descripcion": "El Fondo Milagro informó ante el Congreso el monto de recursos comprometidos hasta la fecha para atender la emergencia del terremoto del 10 de agosto, en el marco del debate de control político sobre la ejecución de los dineros de la reconstrucción.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMk54cWc0S2hMVEM4bVFndks5T2NyNGNWZXotMjlNdngzOC1seFZReE9OSjFJUVBzN1Rudjc3dEVRem9CR095bnA1VjVIQlFSaEdDaGQ1UDJMRUx6NnNUeHFKcGtBWFZDa29xbjlTRFo2MHNvSHQwRzBadnZPX2xHdXVBMU1UR09WQ3JUNDFZZmJfcTVoSkJiRzVhOUczU2J5OGpKSzF4bFc4ckVMVUFibDdjVkxyakVIdmRxZ0NHb2JnWF9abXpRSjNzLUllQdIB2wFBVV95cUxNSnBhUlk3NkVGYTZ4LU5jMjJ5NHRNOEhfRDFPSU5yTTNzc3ZTSUR3d2Nnck9KZTBfR0dWay1NZEVZWE9mZk80ME52WGI0LTBsMm1reHlaOG1YUHdVVkxCYVBlUHZLQXlrdE91QXJnemp4RWVSVTNEODZoOFZkSm1hN1dkQ2R6MWNjS0lfQTUyMlVXaXBXclJaYm5XVHQxVWM0V1BqdUJIR2NFTzhJU1FkZzRQSlJyQUt6ZGM2LWx1SENsTnZzR05waHY5eVVkYVI3S0FZU0JXVWJrODA?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 2955,
+      "titulo": "Fundación Pares reporta 111 ataques armados en primeros tres meses del Gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-11-11",
+      "descripcion": "La Fundación Pares documentó 111 ataques armados en menos de tres meses de gobierno de Abelardo de la Espriella, cifra que evidencia la persistencia de la violencia armada pese a los operativos militares anunciados por el Ejecutivo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYkJwdFRDX0t0cFdWZVVEVW5ueVZYZUpQRGdjUHRBeElSZG85U3J3T0QybWFSMDlrVlJIZTc3WkZLVHRDQnltNG8wZXVSNl9oLTh1VzZqV1ZGQ1dqS2dKdkUtTk1pOWNiWWptYlNkdTFyZWJReG5ERzgxZVFxZlhZbGFOTC1oVEdJaGlsTldnbzc4dmFmeTZXVEc2b2xVRFFDWnkzbkVqM1ZqRnpVMGI0bEptMUlxWkl1VUdBajRydk03RXo5c1BQTURIcWRCRjJZa0VwU3BrRDlPb1Y3bl9sUktlSzdzUkdaSGfSAYQCQVVfeXFMTnZhVmJ6NWhHdVk5NUtRYldaMzdVNWJwWUktNXI0c1RIX2xJRGhzOFB0d2VVMXk4OWVQTlQzZUYxYlBkaEF3ajl4SzhWUFFuMHJEYkxGeG1fRFV1c1BfS1N2aFFMX2xRUnRpTEMwaVJlLU1FczBxbjlHTUZrZWtQTEJXc0ZibnFTeGt0Y3o5X3NVLTNhc19aODlOTXJwdXkwZE9SQUEtNG94UnlSTmdpdl9Qd2VqOExqQWlISXNWSXZNRU5QWnZfaWNxRmdtYlBwMFpUalNEc0l2bXpsdExISmNfTEtlUTFyU3NSVnZLOUdQOGZWb2ozXzBfWGtYTkRTMXhNcHc?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fundación Pares / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 2954,
+      "titulo": "Gerente del Fondo Milagro incumple por tercera vez cita con el Congreso",
+      "categoria": "control",
+      "fecha": "2026-11-11",
+      "descripcion": "Jaime Andrés Uribe Tamayo, gerente del Fondo Milagro, inasistió por tercera vez a una citación de la Comisión Accidental del Congreso que le hace seguimiento a la atención de la emergencia por el terremoto. Uribe afirmó que el fondo tiene aprobados $624.656 millones de un préstamo del Banco Mundial y reportó cerca de $7.000 millones en contratos, cifras que generaron cuestionamientos sobre la transparencia y el ritmo de ejecución de los recursos.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/fondo-milagro-7-mil-millones-en-contratos-gerente-no-fue-al-congreso/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Andrés Uribe Tamayo"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la República",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 2953,
+      "titulo": "Gobierno renegocia compensaciones del contrato de aviones Gripen con Saab",
+      "categoria": "contratos",
+      "fecha": "2026-11-11",
+      "descripcion": "Mientras el presidente De La Espriella publicó un video sosteniendo una réplica de un caza Gripen, su Gobierno adelanta la renegociación de compensaciones derivadas del contrato de compra de estos aviones con la empresa sueca Saab, contrato que ha sido objeto de cuestionamientos desde su origen en el gobierno anterior.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/de-la-espriella-aparece-con-replica-de-un-gripen-mientras-su-gobierno-renegocia-compensaciones-del-contrato-con-saab-3600219",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De La Espriella"
+      ],
+      "entidad": "Ministerio de Defensa / Saab",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2952,
+      "titulo": "Corte Suprema cita a directora del Senado por presunta intromisión en caso de 'sexocontratos'",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-11",
+      "descripcion": "La Corte Suprema citó a Astrid Salamanca, reelecta directora administrativa del Senado, para que el 17 de noviembre explique ante el magistrado Javier Fernando Fonseca Alvarado si obstaculizó una diligencia judicial que buscaba pruebas sobre la denuncia de los llamados 'sexocontratos', un caso que ha involucrado comunicaciones del expresidente Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/corte-suprema-cita-astrid-salamanca-intromision-diligencia-sexocontratos-AH43448910",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Astrid Salamanca",
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Suprema de Justicia / Senado de la República",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2951,
+      "titulo": "Procuraduría llama a juicio disciplinario a tres exfuncionarios de Petro por violencia digital contra periodista",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-11",
+      "descripcion": "La Procuraduría llamó a juicio disciplinario al exembajador en México Álvaro Moisés Ninco, al exviceministro de Juventud Gareth Sella y a la exjefe de la Oficina de Servicios al Consumidor de la SIC María Niny Echeverry, por presunta violencia digital contra la periodista Diana Saray Giraldo durante el gobierno Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/tres-exfuncionarios-petro-juicio-disciplinario-violencia-digital-periodista-EG43454099",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Álvaro Moisés Ninco",
+        "Gareth Sella",
+        "María Niny Echeverry",
+        "Diana Saray Giraldo"
+      ],
+      "entidad": "Procuraduría General de la Nación",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07"
+    },
+    {
+      "id": 2950,
+      "titulo": "Alcalde de Pereira cuestiona disponibilidad real de recursos del Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-11",
+      "descripcion": "El alcalde de Pereira cuestionó públicamente los recursos destinados a los damnificados del terremoto, afirmando tener un 'pálpito' de que el Fondo Milagro no cuenta con el dinero suficiente para atender la reconstrucción en Risaralda, generando preocupación sobre la ejecución real de los fondos anunciados por el Gobierno Nacional.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV0lwejBzZU0teTR4aXJVajJFak9tLXU1c0lQTHhnTUc1ZXNiWTQ0Ulk5aTVKbXQ5dkJJVHpzX0pRRmdteFNUd2NVM3RiQ0lNVi11R216di1MWWk2YlJYVUtEdlZfd2VacThjSnJSLXFVVWwzNnBqQlpiZHlMdldCWF9oNmh3NEM3dzdDN2tPLVlPN2xNb2JZbm9qaU5XeG1qYUh4dVhnZzRJbko4V3JPODR2enBEdUxTSlR1QmNFekdGeTdqbnBmaHdLZFhabldiLXZsNDJfOVJwZDhoVTQtLV83aHRadDBBamJJWjU1SHNST3M4VldwbGN0RHUtcG42QjB5ZDhEMXFhamRnNnYzUEJ5aFRtZHBrS3prWHlfbUV2cGYxUWpkbtIBwwJBVV95cUxNNHlialdfa1JGenhDN3pJZTVqVVU3V2hyTVllTGNIQ1lqbXoyakMwdVRRVXJVcF9Kb2ZKRjJwYl9yb3dWcmUydUUya2dwVUpteGJtNnJObEhfY3l6YXJiYnZ1MlowYWpRSzhVSkE4dDlQTWFfc0V4Nmk0NnNZdlhIYmwwcG9Dd0NsVnVCRURnVThKbktycHpmb0xMVU5jOXlKVU1JYUdQRzN3NGV6Y1Z1MkdsYkJUUU1hTHhsXzFfMmxYMWVWaUFlWjFZa2ZPUVB0ZGRFTXdvUDRWUXNMdW5SNzNVS0pGbkZKNUZBTkhxci13Sm4wTkZlTTF5REU4ZENQdng4X3czT2p0QXRYMUxOdGh1SlNEeGNjYVVuUFRZUDUxU3FORE1EbXk4YlBhTWJZSEZmMVk5clptbUJhNGp2NEZPcw?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de Pereira"
+      ],
+      "entidad": "Alcaldía de Pereira / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 2949,
+      "titulo": "Gobierno busca US$200 millones adicionales del Banco Mundial para reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-11",
+      "descripcion": "El Ministerio de Hacienda no descartó solicitar US$200 millones adicionales al Banco Mundial para financiar la reconstrucción tras el terremoto. La cartera aclaró que su papel en el Fondo Milagro se limita a ejecutar los pagos ordenados por la fiducia, en medio de dudas sobre el origen y manejo de los recursos.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-no-descarta-buscar-otros-us200-millones-con-el-banco-mundial-para-la-reconstruccion-tras-el-terremoto/",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-12 00:07",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 2948,
       "titulo": "Nuevas fallas tecnológicas afectan operación del Aeropuerto El Dorado",
       "categoria": "gestion-emergencia",
@@ -68716,8 +69535,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-11",
-    "total_casos": 2859,
+    "ultima_actualizacion": "2026-11-12",
+    "total_casos": 2894,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
