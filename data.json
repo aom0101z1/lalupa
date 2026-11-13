@@ -221,6 +221,483 @@
   ],
   "casos": [
     {
+      "id": 3071,
+      "titulo": "Ejercito halla deposito clandestino del ELN en el Huila",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "El Ejercito Nacional descubrio un deposito clandestino en zona rural del Huila con un arsenal perteneciente al ELN, compuesto por nueve fusiles, mas de 1.500 cartuchos y prendas de uso militar, como parte de las operaciones de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-descubre-deposito-clandestino-con-poderoso-arsenal-del-eln-en-zona-rural-del-huila-3600858",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3070,
+      "titulo": "Ejercito alista 1.500 suboficiales para operaciones contra grupos armados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "El Ejercito Nacional prepara a 1.500 suboficiales que tendran la responsabilidad de comandar tropas en operaciones contra grupos armados en zonas de Cauca, Narino, Norte de Santander y Choco, como parte del refuerzo de la estrategia de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-alista-a-1-500-suboficiales-para-operaciones-contra-grupos-armados-en-colombia-3600936",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3069,
+      "titulo": "Defensa de Veronica Alcocer pide garantias por senalamientos de narcotrafico en viaje oficial a Venezuela",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-12",
+      "descripcion": "La defensa de Veronica Alcocer, expresa primera dama, solicito acceso formal a la indagacion abierta en su contra y garantias procesales tras senalamientos de presunto narcotrafico vinculados a un viaje oficial que realizo a Venezuela durante el gobierno de Gustavo Petro. El caso se suma a otras indagaciones sobre Alcocer relacionadas con la Fiscalia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMmFERjc0OF9TbVY3eEVjS0dEWDZYcUNUUTZvc1hWcFZHR0lVV1dxQW5sV3h2akx3b3czTzRFM2pmNkN5Ym1fX2gxa2tFRVNTTUpCazFtM0pSNFFIcTU5WktZajB2eklLc1lpU0FuRFdSckt4TUdBT1BhTEsyRUhQUU10akpES0hCRU1DS2g3UzE1UWdLTEg5WHcxMVVrdG5mR3lXNVBYdTJiTDZKUDBYa0psa2dsdGhvMEF1ZXBlRkg3QzRWYXgtSlRwMklHWk1DLTlqTjdtWjFGMWFWcktJNkdGTzJCaGJfZGhyTllyRXR5eDBPVmhvNmtrR01xWUMyckhVaERwNm5WeG1HZ3JXTmF3SjgzRFU4LU44NWEyOWc1U0V60gGqAkFVX3lxTE5KMllhdGdVUml4d1VIWE9VSUppeld5eE9TWnctcEI5a0hZaTM4MzRKRUpaSVczcldSZWlhQWQ5N2VPc2tqN1NBSmU4bndsN1F0UjlEcnNzM1ZBdy03ckowNUJxTU9VT3dPWEhVSHRidnFQSjdhUjRic1Q2anEwU2RHb0pSeVViRjFuTmxaLWQ5bUY0UnAzSUZBTUdVMnJwRFpNOG5oV3duZ0hmVHJWbnltblJSUHJCOGNDZUpLWXJub2RreC1XU3JhSEJnVkRFTU5LX2c5YlRvOENrSlp2ZDlGVll1WFF3dVZUSVVMa2V4QXhHN0VYdkxkUTdtUHNVRmpBdHFmZjB4eWFpbE9uTnBHVXNjRDNwUy1feGJXOEVGeG9zSTdBaUE2WlE?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19"
+    },
+    {
+      "id": 3068,
+      "titulo": "Senado alerta que mineria ilegal podria superar al narcotrafico; Ejercito reporta incautaciones",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "El senador conservador Miguel Angel Barreto advirtio en el Senado que la mineria ilegal podria superar las rentas del narcotrafico en Colombia. En paralelo, el Ejercito Nacional reporto la destruccion e incautacion de cientos de maquinas utilizadas en operativos contra grupos armados dedicados a esta actividad ilegal.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/alertan-en-el-senado-que-mineria-ilegal-podria-superar-al-narcotrafico",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Angel Barreto"
+      ],
+      "entidad": "Senado de la Republica / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3067,
+      "titulo": "Gerente del Fondo Milagro responde sobre destino de los recursos de reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-12",
+      "descripcion": "Ante cuestionamientos por sobrecostos y falta de rendición de cuentas, el entonces gerente del Fondo Milagro, Jaime Uribe, respondió públicamente en qué se ha gastado el dinero destinado a la reconstrucción tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnJLVWU1Wm9KWmE3Wm9tZEFnRHRUdVJIYWhwYU1hZ2hUOEUyYmVEX2hzTmhIekhDcnNtc2FMTk10S2ZZazJWN2NEaVBDOTVDZklxdnpkclNYQm9FT3JubUJROEczWUhsV0Nma0FQN1Y1TTA3S09mR05namk2ZTJqclVOM1BWVUhET2pWamRyS2kzNkF3OWhGU1lLTW5WVHZKaHN4QWl1V27SAa4BQVVfeXFMT0s4aFBJdFpETzh6MUNmZk1qbkZCTlRNbVBZVk9GVC1yWUhZMjAyVzc5NWxpOFA0cEkzSG16dy0zRkNkOGNYbmNka3hBZ2V5X3VHYTJqdkhFWl9hQzJUc1NERlZXQzdMcW9HWC0waHZtcHpJSGxwV3FKclBVd1p1X1pYaDB5bXk3eG5BSEZ4Y2hPZTgtM0ZaOFZBajNqNTVLV0h3UUQ2MEh3NXNhMFBR?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Uribe"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3066,
+      "titulo": "Ecopetrol reactivará exploración de fracking en Colombia",
+      "categoria": "economia",
+      "fecha": "2026-11-13",
+      "descripcion": "Ecopetrol anunció que reactivará la exploración de fracking en el país, actualmente en fase técnica de actualización de la prospectividad y estructuración de los casos de negocio.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/atencion-ecopetrol-reactivara-la-exploracion-de-fracking-en-colombia/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3065,
+      "titulo": "Ecopetrol solicita licencia OFAC para gasoducto con Venezuela",
+      "categoria": "internacional",
+      "fecha": "2026-11-13",
+      "descripcion": "Ecopetrol, bajo la presidencia de Joaquín Gutiérrez, solicitó una licencia a la Oficina de Control de Activos Extranjeros (OFAC) de EE.UU. para avanzar en un negocio de gasoducto con PDVSA que incluiría operar un tramo y comprar gas venezolano, sujeto a aval estadounidense.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/ecopetrol-solicito-licencia-ofac-gasoducto-venezuela-avanza-en-negocios-pdvsa/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Joaquin Gutierrez"
+      ],
+      "entidad": "Ecopetrol / OFAC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3064,
+      "titulo": "Gobierno radica formalmente bases del Plan de Desarrollo 'Colombia, la Patria Milagro'",
+      "categoria": "economia",
+      "fecha": "2026-11-13",
+      "descripcion": "El Gobierno De la Espriella oficializó ante el Congreso el documento de bases del Plan Nacional de Desarrollo, titulado 'Colombia, la Patria Milagro', el mismo texto conocido días antes.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-radica-bases-del-plan-de-desarrollo-estos-son-los-detalles/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3063,
+      "titulo": "Supergiros entrega primera vivienda reconstruida de su programa de $15.000 millones",
+      "categoria": "avances",
+      "fecha": "2026-11-13",
+      "descripcion": "La empresa Supergiros entregó la primera vivienda completamente reconstruida y amueblada dentro de su compromiso de $15.000 millones destinados a la reconstrucción tras el terremoto del 10 de agosto en Colombia.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/supergiros-convierte-en-hogares-su-compromiso-de-15-000-millones-para-la-reconstruccion-de-colombia/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Supergiros",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3062,
+      "titulo": "ELN secuestra a subteniente del Ejército en Arauca y publica prueba de supervivencia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "La subteniente María Camila Pantoja Hernández, secuestrada el 5 de noviembre en Saravena, Arauca, por el ELN, apareció en un video difundido por el grupo armado pidiendo al Gobierno priorizar una salida humanitaria y desistir de un rescate militar.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/eln-publica-prueba-supervivencia-subteniente-maria-camila-pantoja-secuestrada-arauca-DH43553189",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Maria Camila Pantoja Hernandez"
+      ],
+      "entidad": "Ejercito Nacional / ELN",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3061,
+      "titulo": "De la Espriella anuncia abatimiento de varios criminales en discurso público",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "Durante un discurso, el presidente Abelardo de la Espriella interrumpió su intervención para revelar que varias estructuras criminales fueron abatidas en operativos recientes de la Fuerza Pública.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/de-la-espriella-interrumpio-su-discurso-para-revelar-que-fueron-abatidos-varios-criminales-estoy-con-esta-pinta/202627/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3060,
+      "titulo": "Excontratista publica video íntimo de Petro y lo denuncia",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-05",
+      "descripcion": "Una mujer de 26 años, excontratista del gobierno, publicó un video íntimo de Gustavo Petro y presentó una denuncia formal contra el expresidente. La Fiscalía General y la Corte Suprema de Justicia iniciaron actuaciones para investigar el caso.",
+      "evidencia": "Reportado por Montevideo.com.uy",
+      "fuentes": [
+        {
+          "nombre": "Montevideo.com.uy",
+          "url": "https://www.montevideo.com.uy/Noticias/Mujer-publica-un-video-intimo-de-Gustavo-Petro-en-Colombia--Merecen-saber-quien-es--uc981188",
+          "fecha": "2026-11-05"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19"
+    },
+    {
+      "id": 3059,
+      "titulo": "Day Vásquez pierde tutela y deberá responder por presunta violación de datos personales de Laura Ojeda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-13",
+      "descripcion": "La justicia ordenó reanudar el proceso contra Day Vásquez, expareja de Nicolás Petro, luego de que perdiera una tutela que buscaba frenar las audiencias en su contra por presunta violación de datos personales de Laura Ojeda, actual esposa de Nicolás Petro. El caso se enmarca en la disputa judicial derivada del escandalo de corrupcion de Nicolas Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdUFRTWg0M0ozYTVMcEg1MmJSZkVsRkktaDhFQmIxcDhXODFyRFhlQzNZU2ZlTmxrUzJ2cTFkaDh4LW5Dc05TNkJFMHRsVmozU3hxSFFwdzhvRlBuNVl6NlRXdnJWQUF6M0VpSkVMelZ0WUdvM3VxRVZtZC10WU9XWTB5dTcyclNkbjVWNm14M0otNzR6OXlKTlJiWXgwSnZMQWo4eXk1UmpHaHZ1dTQ3eHVoU2JTOVZiZW0xUEdPUUJJNWxVTE1xamIxd1RzSzdMNkdmbHB3T3Rza0lsRVB6aU1Dc3EzVUJDenExa0pzcHBwdTlSUWxlZU91ZWZCa0NjRllEY1E2XzBfc1MwM1M4YkVn0gGsAkFVX3lxTE1aNmFRX3lTRm9OdHFWY2lxaURZZFgzZFpMb2dWMzJHeHBjU1lHOXJoMEUwcVBZanBRNUNYWktXMktKTzBOTXNYNGpwU1gwbDlhV0liRFR4U3RRNXFYaS1CT0w4NnhlR1FILUpTT29JSHB1S2E5bjk2NzNqUG1oRlpBelF1cklPNlpkYVFnc3BjMFBqS2diZUgtVF9MSXIwZV9QS053SFBQem5obVVJRXFyRnVObHludzFudEc4WDRfQmJCd0FScE4wdklwb25VWWxQZktFLTl0RTJSVFhhVUlxaHh6b19TRlYyVzd0V2ltdDVqb0UzRTdubW5nVWRfaFZZckswV2FxNlJpbHd1bmtQM0ZfQXhRMWR2b2RYbElNeVBZVmtBMS1fcTFPMA?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Day Vásquez",
+        "Laura Ojeda",
+        "Nicolás Petro"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Rama Judicial",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19"
+    },
+    {
+      "id": 3058,
+      "titulo": "Ministerio de Hacienda se reune con el Banco Mundial para hablar de reforma tributaria",
+      "categoria": "economia",
+      "fecha": "2026-11-13",
+      "descripcion": "El ministro de Hacienda, Miguel Gomez, se reunio con representantes del Banco Mundial para discutir la reforma tributaria y el ajuste fiscal, calificando a la entidad como un aliado clave para que Colombia salga del hueco fiscal.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/reunion-entre-el-ministerio-de-hacienda-y-banco-mundial-sobre-la-reforma-tributaria-4524524",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gomez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3057,
+      "titulo": "Coordinador de comunicaciones del Fondo Milagro ganaba mas de $30 millones mensuales",
+      "categoria": "dineros",
+      "fecha": "2026-11-13",
+      "descripcion": "Se revelo que el cargo de coordinador de comunicaciones del Fondo Milagro, con contrato a termino indefinido en Pereira, tenia un salario de mas de $30 millones mensuales (unos 19 salarios minimos), al igual que el coordinador de Atencion al Ciudadano y PQRS, en medio de criticas por falta de informacion clara sobre la nomina de la entidad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fondo-milagro-coordinador-comunicaciones-salario-30-millones-pereira-LH43551569",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 3056,
+      "titulo": "Capturado cabecilla experto en explosivos en Caqueta",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "Las Fuerzas Militares reportaron la captura de un cabecilla de una estructura criminal en Caqueta, senalado como experto en el manejo de explosivos, dentro de operativos de golpe a estructuras ilegales en la region.",
+      "evidencia": "Reportado por Comando General de las Fuerzas Militares de Colombia",
+      "fuentes": [
+        {
+          "nombre": "Comando General de las Fuerzas Militares de Colombia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUERfaXpaVVFadnNIMnRDdll5TXFHazZDenc5SE9Bbk1LbTA4Xzd6enNJOF9CSlJZMFNsMFdLZWJvQXMyR0JKY3V0cHR4UlMyY182YXpZQzdadGRUaEZWN0VyUDB6ZzYtVDA2YkM4X2xsWTFhenpuREFMTlZtU3pwT0MweWdmT3ZsdzMxemhDaVgtWW1OclBESi0wbUdRTFhsS08tQ3FXOEUzQldTUE1KRHN2UFVKbDli?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Comando General de las Fuerzas Militares",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3055,
+      "titulo": "Capturan a cuatro integrantes de 'Los Mexicanos' en Quibdo por publicaciones en redes",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "La Policia Nacional capturo a cuatro presuntos integrantes de la estructura criminal 'Los Mexicanos' en Quibdo, Choco, identificados a partir de publicaciones en redes sociales. Entre los capturados figura alias 'Cocuelo', senalado de estar vinculado a varios homicidios selectivos en la capital chocoana.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/por-publicaciones-en-redes-sociales-cayeron-cuatro-presuntos-integrantes-de-los-mexicanos-en-quibdo-3600840",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Cocuelo"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3054,
+      "titulo": "Renuncia Jaime Uribe, gerente del Fondo Milagro, tras polemica por salarios",
+      "categoria": "control",
+      "fecha": "2026-11-13",
+      "descripcion": "El presidente Abelardo de la Espriella acepto la renuncia de Jaime Uribe como gerente del Fondo Milagro, tras cuestionamientos por la nomina millonaria de la entidad (hasta $765 millones mensuales) y la baja ejecucion de recursos para la reconstruccion tras el terremoto.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/renuncia-jaime-uribe-gerente-del-fondo-milagro-tras-polemica-por-salarios",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Uribe",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3053,
+      "titulo": "Abogado de Jaime Ramirez responde sobre celular de Petro y senala que el expresidente sabia",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-13",
+      "descripcion": "Mario Iguaran, abogado de Jaime Ramirez Cobo -figura clave en el escandalo de la UNGRD-, respondio a declaraciones de Angie Rodriguez sobre un celular que presuntamente estaba a nombre de Ramirez y no del propio Gustavo Petro, afirmando que el expresidente sabia de la situacion. Ramirez no ha sido vinculado formalmente a proceso penal.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gustavo-petro-sabia-telefono-chuzado-jaime-ramirez-segun-abogado-PE43565479",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Ramirez Cobo",
+        "Mario Iguaran",
+        "Angie Rodriguez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Dapre / UNGRD",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19"
+    },
+    {
+      "id": 3052,
+      "titulo": "Day Vasquez cuestiona confusion en imputacion de cargos a Laura Ojeda, esposa de Nicolas Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-13",
+      "descripcion": "Day Vasquez anuncio que reclamara a la Fiscalia por presuntas irregularidades o confusiones en el proceso de imputacion de cargos contra Laura Ojeda, esposa de Nicolas Petro, en el marco de las investigaciones por el caso de financiacion irregular.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/day-vasquez-reclamara-a-la-fiscalia-por-que-enredaron-la-imputacion-de-cargos-a-laura-ojeda-esposa-de-nicolas-petro/202632/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Day Vasquez",
+        "Laura Ojeda",
+        "Nicolas Petro"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 23:19"
+    },
+    {
       "id": 3051,
       "titulo": "Plan Nacional de Desarrollo exige a congresistas revelar gestiones presupuestales",
       "categoria": "transparencia",
@@ -71144,7 +71621,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-13",
-    "total_casos": 2962,
+    "total_casos": 2982,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
