@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-12"
+    "ultima_actualizacion": "2026-11-13"
   },
   "lecturas": [
+    {
+      "id": 605,
+      "titulo": "Perseverance confirma carbono orgánico complejo en antiguas rocas de Marte",
+      "resumen": "El rover Perseverance de la NASA detectó compuestos de carbono orgánico complejo justo debajo de la superficie de rocas marcianas antiguas. El hallazgo, sumado a descubrimientos similares en otro punto del planeta a miles de kilómetros, sugiere que los ingredientes básicos para la vida pudieron haber sido comunes en Marte.",
+      "por_que_leerlo": "Acerca con evidencia química directa la pregunta de si Marte alguna vez pudo albergar vida.",
+      "seccion": "ciencia",
+      "tags": [
+        "marte",
+        "nasa",
+        "astrobiologia",
+        "perseverance"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 606,
+      "titulo": "La FAA amplía el uso de IA para gestionar la congestión de todo el espacio aéreo de EE.UU.",
+      "resumen": "La Administracion Federal de Aviacion extendio a todo el pais una herramienta de inteligencia artificial que recomienda como manejar la congestion del trafico aereo. Las aerolineas elogiaron el sistema, pero el sindicato de controladores aereos denuncia que no fue consultado en su implementacion.",
+      "por_que_leerlo": "Muestra un caso real de IA resolviendo un problema operativo critico a escala nacional, con sus tensiones laborales incluidas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "aviacion",
+        "automatizacion",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 607,
+      "titulo": "Modelos de IA chinos de punta muestran huellas del uso de GPUs restringidas para exportacion",
+      "resumen": "Un analisis forense de los checkpoints (archivos de pesos entrenados) de modelos de IA de frontera desarrollados en China revela rastros tecnicos consistentes con el uso de GPUs sujetas a controles de exportacion de Estados Unidos, pese a las restricciones vigentes. El hallazgo reabre el debate sobre si los controles de chips avanzados realmente estan funcionando.",
+      "por_que_leerlo": "Entender como se evaden (o no) los controles de exportacion de chips ayuda a leer mejor la carrera geopolitica de la inteligencia artificial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "chips",
+        "china",
+        "controles de exportacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://unemploymentlabs.com/checkpoint-forensics"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 608,
+      "titulo": "Investigador convierte un fallo de 22 anos en PostgreSQL en una vulnerabilidad de ejecucion remota de codigo",
+      "resumen": "Un investigador de seguridad documento como una confusion de tipos presente en PostgreSQL desde hace 22 anos pudo explotarse para lograr ejecucion remota de codigo, catalogada como CVE-2026-6460. El caso muestra que fallas antiguas y aparentemente inofensivas en software ampliamente usado pueden convertirse en vulnerabilidades criticas con las tecnicas adecuadas.",
+      "por_que_leerlo": "Si administras o usas bases de datos PostgreSQL, este caso ilustra por que conviene parchear incluso errores que parecian menores.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "postgresql",
+        "vulnerabilidad",
+        "rce"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 609,
+      "titulo": "Nubank alcanza una utilidad neta récord de US$1.100 millones en nueve meses",
+      "resumen": "El banco digital brasileño reportó ingresos brutos de US$6.300 millones hasta septiembre, un máximo histórico con un crecimiento interanual de 37%, mientras su utilidad neta también marcó récord en US$1.100 millones. Las cifras confirman la escala que ha alcanzado el mayor neobanco de América Latina.",
+      "por_que_leerlo": "Da una referencia concreta de cuánto puede crecer y rentabilizarse un neobanco latinoamericano, útil para entender el techo de las fintech de la región.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "nubank",
+        "resultados financieros",
+        "america latina"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/nubank-registro-una-utilidad-neta-record-de-us-1-100-millones-hasta-septiembre-4523767"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 610,
+      "titulo": "Una IA mejora la precisión de los ojos biónicos experimentales",
+      "resumen": "Investigadores desarrollaron un sistema de inteligencia artificial que aprende cómo responde el cerebro de una persona ciega a la estimulación eléctrica de un implante, prediciendo con mayor precisión los destellos y formas de luz percibidos. El avance acerca esta tecnología a restaurar un grado útil de visión en personas ciegas.",
+      "por_que_leerlo": "Muestra cómo la IA aplicada a dispositivos médicos resuelve un problema de décadas en neurotecnología.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "neurotecnologia",
+        "salud",
+        "vision"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 611,
+      "titulo": "Nanopartículas magnéticas reducen el curado de adhesivos industriales de 24 a 1 hora",
+      "resumen": "Científicos de NTU Singapur y el proveedor automotriz Motherson desarrollaron una tecnología de calentamiento magnético que acelera drásticamente el curado de recubrimientos industriales, de 24 horas a solo una, en pruebas de laboratorio. La técnica podría reducir tiempo y consumo energético en procesos de manufactura.",
+      "por_que_leerlo": "Una innovación concreta y medible que podría recortar costos y tiempos en líneas de manufactura.",
+      "seccion": "tecnologia",
+      "tags": [
+        "manufactura",
+        "materiales",
+        "energia",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-magnetic-nanoparticles-adhesive-hours-laboratory.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 612,
+      "titulo": "Simulación 'Lumina' recrea cómo el universo salió de su era oscura",
+      "resumen": "Una nueva simulación de supercomputadora llamada Lumina recrea 2.000 millones de años de historia cósmica temprana en una región de 1.600 millones de años luz de ancho, mostrando con un detalle sin precedentes cómo el universo pasó de la oscuridad a llenarse de estrellas y galaxias.",
+      "por_que_leerlo": "Ofrece la vista mas detallada hasta ahora de cómo se formaron las primeras estrellas y galaxias.",
+      "seccion": "ciencia",
+      "tags": [
+        "astrofisica",
+        "cosmologia",
+        "simulacion",
+        "universo"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 613,
+      "titulo": "La sonda Parker revela un patrón oculto en los campos magnéticos caóticos del Sol",
+      "resumen": "La sonda solar Parker de la NASA descubrió que los campos magnéticos turbulentos del viento solar invierten su dirección de rotación cuando se examinan a escalas extremadamente pequeñas. El hallazgo expone un patrón inesperado en la turbulencia del viento solar que podría ayudar a predecir mejor las tormentas geomagnéticas.",
+      "por_que_leerlo": "Un hallazgo que podría mejorar la predicción de tormentas solares que afectan satélites y redes eléctricas.",
+      "seccion": "ciencia",
+      "tags": [
+        "sol",
+        "nasa",
+        "fisica espacial",
+        "clima espacial"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-11",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 614,
+      "titulo": "La Sociedad Americana contra el Cáncer vuelve a recomendar el tamizaje rutinario de próstata",
+      "resumen": "Tras años de recomendar en contra del tamizaje masivo, la entidad ahora sugiere que los hombres de 50 a 69 años con riesgo promedio se hagan la prueba de PSA cada dos años. El cambio responde a nueva evidencia sobre el balance entre deteccion temprana y sobrediagnostico.",
+      "por_que_leerlo": "Entender como cambian las guias medicas basadas en evidencia ayuda a tomar mejores decisiones de salud personal.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "cancer",
+        "medicina",
+        "prevencion"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 615,
+      "titulo": "Un exoplaneta parece haber dejado de transitar frente a su estrella",
+      "resumen": "Astronomos detectaron que un exoplaneta previamente confirmado dejo de producir transitos observables frente a su estrella anfitriona, algo inusual que no encaja con las explicaciones orbitales estandar. El hallazgo abre la puerta a nuevas hipotesis sobre la dinamica de sistemas planetarios.",
+      "por_que_leerlo": "Un misterio astronomico fresco y bien documentado que podria revelar fisica planetaria aun desconocida.",
+      "seccion": "ciencia",
+      "tags": [
+        "exoplanetas",
+        "astronomia",
+        "transitos",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
+    {
+      "id": 616,
+      "titulo": "Nebius apuesta US$40.000 millones a la nube de IA financiada con pagos anticipados de clientes",
+      "resumen": "La neocloud Nebius planea financiar una expansion de infraestructura de IA por US$40.000 millones combinando pagos anticipados de clientes y deuda. Demoras en un centro de datos que construye para Microsoft generan dudas sobre la solidez de ese modelo de financiamiento.",
+      "por_que_leerlo": "Expone los riesgos financieros detras del boom de infraestructura de IA, util para quien evalua invertir o construir en ese sector.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "financiamiento",
+        "centros de datos",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 03:11",
+      "auto_generated": true
+    },
     {
       "id": 593,
       "titulo": "El agua de la Tierra pudo nacer del propio planeta, no de cometas helados",

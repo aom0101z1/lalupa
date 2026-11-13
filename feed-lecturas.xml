@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:46:10 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:11:39 -0000</lastBuildDate>
+    <item>
+      <title>Perseverance confirma carbono orgánico complejo en antiguas rocas de Marte</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261111005908.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-605</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>El rover Perseverance de la NASA detectó compuestos de carbono orgánico complejo justo debajo de la superficie de rocas marcianas antiguas. El hallazgo, sumado a descubrimientos similares en otro punto del planeta a miles de kilómetros, sugiere que los ingredientes básicos para la vida pudieron haber sido comunes en Marte. Por que leerlo: Acerca con evidencia química directa la pregunta de si Marte alguna vez pudo albergar vida. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La FAA amplía el uso de IA para gestionar la congestión de todo el espacio aéreo de EE.UU.</title>
+      <link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</link>
+      <guid isPermaLink="false">lalupa-lectura-606</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La Administracion Federal de Aviacion extendio a todo el pais una herramienta de inteligencia artificial que recomienda como manejar la congestion del trafico aereo. Las aerolineas elogiaron el sistema, pero el sindicato de controladores aereos denuncia que no fue consultado en su implementacion. Por que leerlo: Muestra un caso real de IA resolviendo un problema operativo critico a escala nacional, con sus tensiones laborales incluidas. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Modelos de IA chinos de punta muestran huellas del uso de GPUs restringidas para exportacion</title>
+      <link>https://unemploymentlabs.com/checkpoint-forensics</link>
+      <guid isPermaLink="false">lalupa-lectura-607</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un analisis forense de los checkpoints (archivos de pesos entrenados) de modelos de IA de frontera desarrollados en China revela rastros tecnicos consistentes con el uso de GPUs sujetas a controles de exportacion de Estados Unidos, pese a las restricciones vigentes. El hallazgo reabre el debate sobre si los controles de chips avanzados realmente estan funcionando. Por que leerlo: Entender como se evaden (o no) los controles de exportacion de chips ayuda a leer mejor la carrera geopolitica de la inteligencia artificial. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Investigador convierte un fallo de 22 anos en PostgreSQL en una vulnerabilidad de ejecucion remota de codigo</title>
+      <link>https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/</link>
+      <guid isPermaLink="false">lalupa-lectura-608</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un investigador de seguridad documento como una confusion de tipos presente en PostgreSQL desde hace 22 anos pudo explotarse para lograr ejecucion remota de codigo, catalogada como CVE-2026-6460. El caso muestra que fallas antiguas y aparentemente inofensivas en software ampliamente usado pueden convertirse en vulnerabilidades criticas con las tecnicas adecuadas. Por que leerlo: Si administras o usas bases de datos PostgreSQL, este caso ilustra por que conviene parchear incluso errores que parecian menores. (Hacker News, 6 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nubank alcanza una utilidad neta récord de US$1.100 millones en nueve meses</title>
+      <link>https://www.larepublica.co/finanzas/nubank-registro-una-utilidad-neta-record-de-us-1-100-millones-hasta-septiembre-4523767</link>
+      <guid isPermaLink="false">lalupa-lectura-609</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El banco digital brasileño reportó ingresos brutos de US$6.300 millones hasta septiembre, un máximo histórico con un crecimiento interanual de 37%, mientras su utilidad neta también marcó récord en US$1.100 millones. Las cifras confirman la escala que ha alcanzado el mayor neobanco de América Latina. Por que leerlo: Da una referencia concreta de cuánto puede crecer y rentabilizarse un neobanco latinoamericano, útil para entender el techo de las fintech de la región. (La Republica, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una IA mejora la precisión de los ojos biónicos experimentales</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261110042553.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-610</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores desarrollaron un sistema de inteligencia artificial que aprende cómo responde el cerebro de una persona ciega a la estimulación eléctrica de un implante, prediciendo con mayor precisión los destellos y formas de luz percibidos. El avance acerca esta tecnología a restaurar un grado útil de visión en personas ciegas. Por que leerlo: Muestra cómo la IA aplicada a dispositivos médicos resuelve un problema de décadas en neurotecnología. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nanopartículas magnéticas reducen el curado de adhesivos industriales de 24 a 1 hora</title>
+      <link>https://phys.org/news/2026-11-magnetic-nanoparticles-adhesive-hours-laboratory.html</link>
+      <guid isPermaLink="false">lalupa-lectura-611</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Científicos de NTU Singapur y el proveedor automotriz Motherson desarrollaron una tecnología de calentamiento magnético que acelera drásticamente el curado de recubrimientos industriales, de 24 horas a solo una, en pruebas de laboratorio. La técnica podría reducir tiempo y consumo energético en procesos de manufactura. Por que leerlo: Una innovación concreta y medible que podría recortar costos y tiempos en líneas de manufactura. (Phys.org, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Simulación 'Lumina' recrea cómo el universo salió de su era oscura</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261110042534.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-612</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Una nueva simulación de supercomputadora llamada Lumina recrea 2.000 millones de años de historia cósmica temprana en una región de 1.600 millones de años luz de ancho, mostrando con un detalle sin precedentes cómo el universo pasó de la oscuridad a llenarse de estrellas y galaxias. Por que leerlo: Ofrece la vista mas detallada hasta ahora de cómo se formaron las primeras estrellas y galaxias. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La sonda Parker revela un patrón oculto en los campos magnéticos caóticos del Sol</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261109205411.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-613</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>La sonda solar Parker de la NASA descubrió que los campos magnéticos turbulentos del viento solar invierten su dirección de rotación cuando se examinan a escalas extremadamente pequeñas. El hallazgo expone un patrón inesperado en la turbulencia del viento solar que podría ayudar a predecir mejor las tormentas geomagnéticas. Por que leerlo: Un hallazgo que podría mejorar la predicción de tormentas solares que afectan satélites y redes eléctricas. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La Sociedad Americana contra el Cáncer vuelve a recomendar el tamizaje rutinario de próstata</title>
+      <link>https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/</link>
+      <guid isPermaLink="false">lalupa-lectura-614</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Tras años de recomendar en contra del tamizaje masivo, la entidad ahora sugiere que los hombres de 50 a 69 años con riesgo promedio se hagan la prueba de PSA cada dos años. El cambio responde a nueva evidencia sobre el balance entre deteccion temprana y sobrediagnostico. Por que leerlo: Entender como cambian las guias medicas basadas en evidencia ayuda a tomar mejores decisiones de salud personal. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un exoplaneta parece haber dejado de transitar frente a su estrella</title>
+      <link>https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/</link>
+      <guid isPermaLink="false">lalupa-lectura-615</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Astronomos detectaron que un exoplaneta previamente confirmado dejo de producir transitos observables frente a su estrella anfitriona, algo inusual que no encaja con las explicaciones orbitales estandar. El hallazgo abre la puerta a nuevas hipotesis sobre la dinamica de sistemas planetarios. Por que leerlo: Un misterio astronomico fresco y bien documentado que podria revelar fisica planetaria aun desconocida. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nebius apuesta US$40.000 millones a la nube de IA financiada con pagos anticipados de clientes</title>
+      <link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</link>
+      <guid isPermaLink="false">lalupa-lectura-616</guid>
+      <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La neocloud Nebius planea financiar una expansion de infraestructura de IA por US$40.000 millones combinando pagos anticipados de clientes y deuda. Demoras en un centro de datos que construye para Microsoft generan dudas sobre la solidez de ese modelo de financiamiento. Por que leerlo: Expone los riesgos financieros detras del boom de infraestructura de IA, util para quien evalua invertir o construir en ese sector. (TechCrunch, 5 min, interes 7/10)</description>
+    </item>
     <item>
       <title>El agua de la Tierra pudo nacer del propio planeta, no de cometas helados</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261110042549.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Wed, 11 Nov 2026 02:34:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>La compañía de telecomunicaciones Millicom anunció una inversión cercana a $8,5 billones de pesos en los próximos dos años para ampliar su infraestructura tecnológica en Colombia, lo que mejorará la conectividad de más de tres millones de colombianos. El plan incluye expansión de redes y modernización de su capacidad de conectividad. Por que leerlo: Una inversión de esta magnitud en infraestructura de telecomunicaciones puede abrir oportunidades de negocio ligadas a mejor conectividad en el país. (La Republica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>DeepMind presenta Gemini Robotics 2.5 y un nuevo benchmark de seguridad para robots</title>
-      <link>https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/</link>
-      <guid isPermaLink="false">lalupa-lectura-545</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Google DeepMind lanzo Gemini Robotics 2.5, un modelo que duplica el exito en algunas tareas de manipulacion robotica frente a versiones anteriores. Junto al modelo publico ASIMOV-jailbreak, un benchmark abierto para medir que tan facil es evadir las restricciones de seguridad de un robot con IA. Por que leerlo: Muestra hacia donde avanza la robotica con IA y como la industria empieza a medir sus riesgos de seguridad de forma abierta. (Ars Technica, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Anthropic fija su salida a bolsa entre US$70 y US$78 por accion, con valoracion de US$1,4 billones</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
-      <guid isPermaLink="false">lalupa-lectura-546</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Anthropic establecio un rango de precio de 70 a 78 dolares por accion para su OPI, lo que implicaria una valoracion totalmente diluida de hasta 1,404 billones de dolares. La cifra llega pese a los temores recientes del mercado sobre una posible burbuja en las neoclouds de IA. Por que leerlo: Da cifras concretas sobre cuanto vale hoy uno de los laboratorios de IA mas importantes justo cuando el mercado duda de la sostenibilidad del boom. (TechCrunch, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Científicos chinos convierten palas de aerogeneradores desechadas en grafeno con una descarga eléctrica de medio segundo</title>
-      <link>https://www.xataka.com/energia/china-ha-inventado-frankenstein-para-sus-cementerios-palas-eolicas-descarga-medio-segundo-para-resucitarlas-como-grafeno</link>
-      <guid isPermaLink="false">lalupa-lectura-547</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores en China demostraron que es posible transformar las palas de turbinas eólicas fuera de uso en grafeno mediante una descarga eléctrica de apenas medio segundo, aprovechando los materiales compuestos de fibra que las componen. La técnica ofrece una solución al creciente problema de los 'cementerios' de palas eólicas difíciles de reciclar. Por que leerlo: Resuelve un problema real de la energía eólica -los residuos de las palas- con una técnica simple, rápida y escalable. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Imprimen en 3D ladrillos tipo LEGO con polvo lunar simulado para construir bases en la Luna</title>
-      <link>https://phys.org/news/2026-11-simulated-moon-lego-blocks-settlements.html</link>
-      <guid isPermaLink="false">lalupa-lectura-548</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores de la Universidad de Arkansas demostraron que el regolito lunar puro puede imprimirse en 3D como bloques tipo LEGO sin aditivos traidos desde la Tierra. La tecnica reduciria drasticamente el peso de materiales que la NASA necesitaria enviar para construir asentamientos permanentes en la Luna. Por que leerlo: Muestra una solucion concreta de ingenieria que podria abaratar la construccion de bases lunares. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Informe de actuarios advierte que los riesgos oceanicos ya amenazan pensiones y precios de alimentos</title>
-      <link>https://phys.org/news/2026-11-severe-ocean-threaten-food-prices.html</link>
-      <guid isPermaLink="false">lalupa-lectura-549</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un reporte del Institute and Faculty of Actuaries, la Universidad de Exeter y The Ocean Race concluye que los riesgos oceanicos, como el calentamiento y la acidificacion, son severos y empeoran, con potencial de volverse catastroficos para la economia global si no cambia el rumbo. El estudio vincula estos riesgos directamente con la estabilidad de los fondos de pensiones y el precio de los alimentos. Por que leerlo: Conecta datos cientificos del oceano con impactos financieros concretos que afectan inversiones y ahorro para el retiro. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>NASA acelera su plan para llevar astronautas a la Luna en 2028 con SpaceX y Blue Origin compitiendo por el modulo de descenso</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233054.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-550</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>NASA presento un plan acelerado para aterrizar astronautas en la Luna en 2028, con SpaceX y Blue Origin desarrollando modulos de descenso en competencia y una prueba orbital clave programada para 2027. El plan incluye preparacion mas rapida de cohetes y trajes espaciales mas ligeros para avanzar hacia una presencia lunar permanente. Por que leerlo: Resume el nuevo cronograma y los jugadores privados que compiten por el regreso humano a la Luna. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Suplemento de oxaloacetato mejora la memoria y reduce la fatiga en sobrevivientes de cancer de mama</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261104084013.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-551</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio de UCLA encontro que mujeres que tomaron un suplemento de oxaloacetato durante ocho semanas mostraron mejoras sustanciales en memoria, concentracion, claridad mental y fatiga tras el tratamiento contra el cancer de mama. El hallazgo abre una via simple y accesible para tratar el 'brain fog' post-tratamiento. Por que leerlo: Presenta una intervencion sencilla y respaldada por datos para un efecto secundario comun del tratamiento oncologico. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Estudios de la NASA muestran como las ondas gravitacionales podrian revelar nuevos exoplanetas</title>
-      <link>https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/</link>
-      <guid isPermaLink="false">lalupa-lectura-552</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Dos estudios liderados por astrofisicos de la NASA muestran en detalle como el futuro observatorio espacial LISA, disenado para detectar ondas gravitacionales, podria identificar una poblacion nueva y unica de exoplanetas distribuidos por toda la galaxia. La tecnica complementaria a los metodos actuales de deteccion abriria una ventana distinta para encontrar mundos lejanos. Por que leerlo: Explica un metodo de deteccion de exoplanetas completamente distinto a los usados hasta ahora, basado en gravedad en vez de luz. (NASA, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Hallan posibles senales tempranas del Alzheimer fuera del cerebro, en la union nervio-musculo</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233103.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-553</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Usando sistemas de laboratorio miniatura hechos con celulas humanas, cientificos descubrieron que mutaciones geneticas asociadas al Alzheimer hereditario pueden alterar las conexiones entre nervios y musculos sin ninguna participacion del cerebro o la medula espinal. El hallazgo podria explicar por que algunos pacientes presentan cambios fisicos antes de los sintomas cognitivos. Por que leerlo: Desafia la idea de que el Alzheimer comienza exclusivamente en el cerebro y abre nuevas vias de deteccion temprana. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Los altos precios del petroleo generan una leve caida en las emisiones globales de carbono</title>
-      <link>https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/</link>
-      <guid isPermaLink="false">lalupa-lectura-554</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Las emisiones de combustibles fosiles caerian 0.4% este ano, rompiendo la tendencia reciente de aumento sostenido, en parte porque los precios mas altos del petroleo desincentivan el consumo. Analistas advierten que la baja probablemente sea temporal y no refleja un cambio estructural en la demanda energetica. Por que leerlo: Entender como los precios de la energia mueven las emisiones ayuda a leer mejor las senales del mercado petrolero. (Ars Technica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Los drones de fibra optica de Ucrania compiten con los centros de datos de IA por fibra china</title>
-      <link>https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/</link>
-      <guid isPermaLink="false">lalupa-lectura-555</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Ucrania depende de fibra optica china para fabricar drones de guerra, pero el auge de los centros de datos de inteligencia artificial esta disparando la demanda global de ese mismo insumo y encareciendo su acceso. El pais compite ahora no solo con Rusia sino con la industria de IA por un recurso estrategico limitado. Por que leerlo: Revela un efecto colateral poco conocido del boom de infraestructura de IA sobre cadenas de suministro criticas. (Ars Technica, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>N-able apaga su servicio de acceso remoto tras publicacion de decenas de fallas de dia cero</title>
-      <link>https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/</link>
-      <guid isPermaLink="false">lalupa-lectura-556</guid>
-      <pubDate>Tue, 10 Nov 2026 18:33:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La empresa de software de gestion remota N-able saco de linea su servicio N-central despues de que un investigador publicara decenas de vulnerabilidades de dia cero sin parchear. La compania tambien pidio a sus clientes con servidores propios que los apagaran ante un incidente de seguridad critico por temor a ciberataques. Por que leerlo: Es un caso concreto de como una sola publicacion de vulnerabilidades puede forzar el apagon de un servicio usado por miles de empresas. (TechCrunch, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
