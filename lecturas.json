@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 617,
+      "titulo": "La atmosfera de la Tierra habria amplificado la gigantesca tormenta solar de mayo de 2024",
+      "resumen": "Mediciones satelitales de la tormenta solar que ilumino cielos en todo el mundo revelaron que cerca del 85% de las particulas cargadas que la alimentaron vinieron de la propia atmosfera superior terrestre, no del viento solar. Ademas se detecto un debilitamiento extraordinario del 40% en el campo magnetico de la Tierra durante el evento.",
+      "por_que_leerlo": "Cambia la idea de que las tormentas geomagneticas dependen solo del Sol, mostrando que la Tierra puede amplificar su propio castigo.",
+      "seccion": "ciencia",
+      "tags": [
+        "clima espacial",
+        "tormenta solar",
+        "atmosfera",
+        "campo magnetico"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 618,
+      "titulo": "Astronomos detectan un posible planeta enano mas alla de Pluton con orbita de 280 anos",
+      "resumen": "Un equipo de astronomos identifico un objeto candidato a planeta enano que orbita el Sol mas alla de Pluton, con un periodo orbital estimado de aproximadamente 280 anos. El hallazgo se suma a la lista de cuerpos transneptunianos que podrian redefinir el mapa del sistema solar exterior.",
+      "por_que_leerlo": "Ofrece evidencia fresca sobre lo que todavia desconocemos de los limites de nuestro propio sistema solar.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "planeta enano",
+        "sistema solar",
+        "pluton"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 619,
+      "titulo": "AMD lanza una nueva linea de procesadores pensada para los agentes de IA en centros de datos",
+      "resumen": "AMD presento una nueva gama de procesadores disenada especificamente para la carga de trabajo que generan los agentes de IA, que escriben codigo y consultan bases de datos de forma constante, a diferencia del trafico mas simple que manejaban las GPU hasta ahora. La compania sostiene que cada capa adicional de procesamiento que demandan estos agentes exige mas potencia de CPU, no solo de GPU.",
+      "por_que_leerlo": "Ayuda a entender hacia donde se mueve la infraestructura de IA y que tipo de hardware podria ganar relevancia frente a las GPU.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "hardware",
+        "centros de datos",
+        "amd"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/procesadores/amd-ha-presentado-nueva-gama-procesadores-que-apuntan-a-donde-estan-sufriendo-centros-datos-a-agentes-ia"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 620,
+      "titulo": "SpaceX intentara capturar por primera vez ambas etapas de Starship con brazos mecanicos",
+      "resumen": "SpaceX planea el vuelo 15 de Starship con el objetivo de recuperar no solo el booster, como ya ha hecho varias veces, sino tambien la segunda etapa de la nave usando los brazos mecanicos de la torre de lanzamiento. Ninguna agencia o empresa espacial ha logrado antes recuperar un cohete completo de esta manera.",
+      "por_que_leerlo": "Ver en vivo un hito de ingenieria que busca reducir drasticamente el costo de acceso al espacio.",
+      "seccion": "tecnologia",
+      "tags": [
+        "spacex",
+        "starship",
+        "cohetes reutilizables",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/spacex-va-a-intentar-atrapar-unos-brazos-gigantes-dos-partes-starship-nadie-ha-hecho-algo-asi-jamas"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 621,
+      "titulo": "Ecopetrol reactivara el fracking en Colombia e importara gas desde Venezuela",
+      "resumen": "Directivos de Ecopetrol anunciaron la reactivacion del fracking en yacimientos del Valle Medio del Magdalena, que segun la petrolera tendria un potencial geologico similar o mayor al megayacimiento Vaca Muerta de Argentina. La empresa tambien confirmo que importara gas venezolano para enfrentar el deficit energetico del pais.",
+      "por_que_leerlo": "Una decision que puede cambiar el mapa energetico de Colombia y su dependencia de gas importado.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "ecopetrol",
+        "fracking",
+        "gas natural",
+        "energia colombia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-anuncia-que-reactivara-fracking-e-importacion-de-gas-venezolano-4524434"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 622,
+      "titulo": "Infecciones virales dejan dano oculto en el sistema inmune que la vacunacion puede prevenir",
+      "resumen": "Un estudio con ratones encontro que tras superar una infeccion viral aguda quedan cambios duraderos en el bazo y una respuesta inmune debilitada, dejandolos mas vulnerables a futuras amenazas. Sorprendentemente, los ratones vacunados previamente no mostraron este dano oculto.",
+      "por_que_leerlo": "Revela un mecanismo nuevo por el que las vacunas protegen mas alla de evitar la enfermedad inicial.",
+      "seccion": "ciencia",
+      "tags": [
+        "vacunas",
+        "sistema inmune",
+        "salud",
+        "estudio con ratones"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 623,
+      "titulo": "El magma sobrecalentado explicaria por que algunos volcanes lanzan espectaculares fuentes de lava",
+      "resumen": "Experimentos muestran que el magma sobrecalentado puede retrasar la formacion de cristales por mas de ocho horas, frente a apenas veinte minutos en magma sin sobrecalentar. Esta diferencia ayudaria a explicar por que unas erupciones producen fuentes de lava imponentes y otras liberan lava de forma mas tranquila.",
+      "por_que_leerlo": "Explica con datos concretos un misterio geologico sobre por que las erupciones volcanicas varian tanto en intensidad.",
+      "seccion": "ciencia",
+      "tags": [
+        "volcanes",
+        "geologia",
+        "magma",
+        "erupciones"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 624,
+      "titulo": "Los cuervos toman decisiones visuales el doble de rapido que los humanos",
+      "resumen": "Investigadores de la Universidad de Tubinga hallaron que los cuervos identifican la direccion de puntos en movimiento en apenas 235 milisegundos en promedio, la mitad del tiempo que necesitan humanos y monos, sin perder precision.",
+      "por_que_leerlo": "Un dato sorprendente sobre la velocidad cognitiva animal que desafia lo que se sabia sobre la inteligencia de las aves.",
+      "seccion": "ciencia",
+      "tags": [
+        "cognicion animal",
+        "cuervos",
+        "neurociencia",
+        "percepcion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-12",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 625,
+      "titulo": "Investigador descontento filtra vulnerabilidad 'SignDrop' que da privilegios totales en Windows",
+      "resumen": "Un investigador de seguridad publico un exploit de dia cero llamado SignDrop que permite a usuarios locales en Windows obtener privilegios de System, el nivel mas alto de acceso del sistema. La falla salio a la luz tras una disputa del investigador con Microsoft, dejando sin parche inmediato a millones de equipos.",
+      "por_que_leerlo": "Entender esta falla ayuda a dimensionar los riesgos de seguridad en los sistemas Windows que usan la mayoria de empresas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "windows",
+        "vulnerabilidad",
+        "dia cero"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 626,
+      "titulo": "La falla global de Microsoft habria sido peor que los apagones de Amazon y CrowdStrike",
+      "resumen": "Un apagon masivo de servicios de Microsoft dejo sin funcionar sistemas de gobiernos, hospitales y cortes en varios paises; la empresa atribuyo el fallo a controles de salud de servidores defectuosos, no a un ciberataque. Expertos en infraestructura digital advierten que el impacto podria superar el de interrupciones previas de Amazon o CrowdStrike.",
+      "por_que_leerlo": "Muestra cuan fragil es la infraestructura en la nube de la que hoy dependen gobiernos y empresas enteras.",
+      "seccion": "tecnologia",
+      "tags": [
+        "infraestructura cloud",
+        "microsoft",
+        "caida de servicio",
+        "resiliencia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 627,
+      "titulo": "ChatGPT lanza 'Wallet', una billetera que permite a agentes de IA comprar en tu nombre",
+      "resumen": "OpenAI introdujo ChatGPT Wallet, una funcion que permite a agentes de inteligencia artificial realizar compras y pagos en nombre del usuario, con un despliegue inicial limitado a suscriptores Pro en Estados Unidos. La herramienta busca automatizar el proceso de compra online sin intervencion manual.",
+      "por_que_leerlo": "Revela hacia donde avanza la automatizacion con agentes de IA que ya manejan dinero real del usuario.",
+      "seccion": "tecnologia",
+      "tags": [
+        "agentes de ia",
+        "automatizacion",
+        "openai",
+        "pagos digitales"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
+      "id": 628,
+      "titulo": "Colombia es el sexto pais con mayor riesgo de inversion en America Latina, segun JP Morgan",
+      "resumen": "El ranking de riesgo pais elaborado por JP Morgan ubica a Colombia en el sexto lugar entre diez economias de la region, por detras de Venezuela, Argentina y Ecuador, que lideran la lista. El indicador es clave para inversionistas que evaluan donde colocar capital en America Latina.",
+      "por_que_leerlo": "Un dato concreto para entender como ven los mercados internacionales el riesgo de invertir en Colombia frente a sus vecinos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "riesgo pais",
+        "inversion",
+        "colombia",
+        "jp morgan"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-sexto-pais-con-el-mayor-riesgo-de-inversion-en-america-latina-4524171"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-13 18:26",
+      "auto_generated": true
+    },
+    {
       "id": 605,
       "titulo": "Perseverance confirma carbono orgánico complejo en antiguas rocas de Marte",
       "resumen": "El rover Perseverance de la NASA detectó compuestos de carbono orgánico complejo justo debajo de la superficie de rocas marcianas antiguas. El hallazgo, sumado a descubrimientos similares en otro punto del planeta a miles de kilómetros, sugiere que los ingredientes básicos para la vida pudieron haber sido comunes en Marte.",
