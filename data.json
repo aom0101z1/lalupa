@@ -221,6 +221,196 @@
   ],
   "casos": [
     {
+      "id": 3051,
+      "titulo": "Plan Nacional de Desarrollo exige a congresistas revelar gestiones presupuestales",
+      "categoria": "transparencia",
+      "fecha": "2026-11-13",
+      "descripcion": "El Gobierno De la Espriella incluyo en el Plan Nacional de Desarrollo una medida para combatir la 'mermelada', obligando a los congresistas a revelar sus gestiones presupuestales ante el Ejecutivo. La iniciativa tambien impone un marco de regulacion al cabildeo (lobbying) y a la gestion de intereses privados ante las ramas del poder publico, como parte de la agenda de transparencia del nuevo gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/asi-busca-el-gobierno-acabar-con-la-mermelada-congresistas-tendran-que-revelar-sus-gestiones-presupuestales/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3050,
+      "titulo": "Congreso inicia debate contrarreloj del proyecto de ajuste fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-13",
+      "descripcion": "El Gobierno De la Espriella, a traves del Ministerio de Hacienda, busca sacar adelante un proyecto de ajuste fiscal para equilibrar las finanzas publicas. El funcionario Alejandro Ordonez inicio reuniones con bancadas del Congreso, comenzando por el Centro Democratico, mientras otros partidos esperan turno con el tiempo contado para el debate legislativo.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/martes-comienza-contrarreloj-para-debatir-proyecto-de-ajuste-fiscal",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordonez"
+      ],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3049,
+      "titulo": "Gerente del Fondo Milagro no cumplió requisito de título profesional para cargo previo en ProColombia",
+      "categoria": "control",
+      "fecha": "2026-11-13",
+      "descripcion": "Jaime Andrés Uribe Tamayo, actual gerente del Fondo Milagro encargado de administrar los recursos de la reconstrucción tras el terremoto, no logró asumir la presidencia de ProColombia en su momento por no cumplir el requisito legal de contar con título profesional. El hallazgo genera cuestionamientos sobre los criterios de idoneidad para su actual cargo al frente del manejo de los dineros de la emergencia.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/quien-es-jaime-andres-uribe-tamayo-gerente-del-fondo-milagro-4524050",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Andrés Uribe Tamayo"
+      ],
+      "entidad": "Fondo Milagro / ProColombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3048,
+      "titulo": "General (r) Zapateiro denuncia plan de espionaje en el gobierno Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-13",
+      "descripcion": "Tras revelaciones periodísticas de Semana, el general en retiro Eduardo Zapateiro denunció la existencia de un presunto plan de espionaje orquestado durante el gobierno de Gustavo Petro. La denuncia se suma a los señalamientos previos sobre uso indebido de inteligencia estatal con fines políticos durante la administración saliente.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/tras-revelaciones-de-semana-el-general-r-eduardo-zapateiro-denuncio-un-plan-de-espionaje-en-el-gobierno-petro/202605/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Eduardo Zapateiro",
+        "Gustavo Petro"
+      ],
+      "entidad": "Gobierno Petro / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58"
+    },
+    {
+      "id": 3047,
+      "titulo": "Informe senala papel de Petro y Paz Total en fraude electoral de Maduro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-13",
+      "descripcion": "Un informe del Miranda Center for Democracy concluye que el gobierno de Gustavo Petro no actuo como mediador neutral en la crisis politica de Venezuela y que decisiones diplomaticas de Colombia, ligadas a intereses de la politica de Paz Total que tenia a Venezuela como pais garante, ayudaron a Nicolas Maduro a sostenerse en el poder tras el fraude electoral del 28 de julio de 2024.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/petro-ayudo-a-maduro-a-sostenerse-tras-fraude-electoral-segun-informe-FG43542601",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Miranda Center for Democracy / Gobierno de Petro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58"
+    },
+    {
+      "id": 3046,
+      "titulo": "Gobierno De la Espriella anuncia paquete de austeridad: freno a sueldos del Fondo Milagro, recorte en viajes y publicidad",
+      "categoria": "transparencia",
+      "fecha": "2026-11-13",
+      "descripcion": "El Gobierno De la Espriella anuncio un paquete de medidas de austeridad que incluye el freno a los altos sueldos de directivos del Fondo Milagro, recorte en gastos de viajes, publicidad oficial y reduccion de puestos en la administracion publica, como parte de su politica de ajuste fiscal y transparencia en el manejo de recursos.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSTFRR1FvdmN4WWllTXY4cFNYcmhBb3kwUWpKblA1X1lidjN6LXlxX0RWNkJYV2JlQ25jZ0dyU1FiM0RNUVF2Y2lZa1B6UXo3OWdON3BnX29KZlREQkt5d1N3djRzbE5qYzFjMWFEWkUzN1FobzdsYldXdFBKS19mdmhQYlRBNnRqVzUycUpQVG9PUmpiOWt6MDc0dXJjMHhZekhOWFk0RHM1WEVqWlhIN2NfcERIQ3NUY0FqUjhmY1JDSHpaRThVOVZhdi13aGxrSHYzNmwyclVHdjZOUnM1V216Q1ljMmVsVk9nMjI2ZXFXd2wtbGJORnh4ZGdhaklId21tenBPQdIBjAJBVV95cUxNbHFIeUk1bThjMllBbFU1Y3FFUS03eGx4Wkx3MFE3NVpJRGYwd3p3X2dGLTRiVXVwaEdoaWF3SHNTa1UwV3BEelVoX0JTMG54X3pvTHRZNDBRSmZtSTVNQk5UQkltQzVzTldFU21YUHh6QkQweXpJUDBBWHhaNDN5c2VBeVBkN0I0SzRSNDNHckZLck0yWmxxQUlrcGMtYnFpN09OT04waEUtMEc0aUNBTHFNVzlHNXppNUZkT2o4d0ljN2xwRmpCOHgyb2IzSGc5LVFka04tTnNQUkxYbzg1RndXTW9DWDNFQm5WajNjd0tJMG84Xzk0UkhWWWpWd0tlU2l6U01Jb3NFTHp3?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3045,
+      "titulo": "UNGRD confirma segundo giro de recursos para damnificados en Risaralda",
+      "categoria": "dineros",
+      "fecha": "2026-11-13",
+      "descripcion": "La UNGRD confirmo un segundo giro de recursos destinados a los damnificados del terremoto en el departamento de Risaralda, como parte de la ejecucion de ayudas economicas para la reconstruccion tras el sismo del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLThWME5MQ0tGck1YLXJjaFEwSy1fNzQzSVdicmM3X0syYjN3aElEc0VFTlNUTWVvLWJQaEtabXJRTWxvdWhqMXd0cGNscWRKMjFyd3hibGhKY2FmOWJhV1NpRFd1NjN2dExEeVM1OHJXcmo0X1ZHZ2x2N3Z6a3pSWlJqSklOcUhISkNhemdjbDNvT29NUDEzUHVQT2w5NzdDY05mRFZZWUlSb3Bxb3otdmwzUktteHRoS1hzOWtyODJsX0xJVUlDN9IB3AFBVV95cUxOZ09ldk9Ub2NTVk1ET3BZSV9UVVZjd0lOUjNEVEpabHEtamo0V1FxaGJUT1hYbG9iTE8zelBIeWV1UWV2eG1OMFNoQ2VFUEM3NTV0ZFZ5SGd5aEF1cjh0UDM1eDk3NTlmRE9fNWZsSjhIQ0p3V1dmM2NRNEhOeHlNQTdlYjEwNk9DS1hBQXQ3NjU5RFZMbE5sS1BaLXNuNkJjaVN0UUhKcUhjWGFaQUl5SmYzQWZMN3Vqc1JqWEVFM19pVWoxODRxOXREVjNJZElHOFpCSkgwblRQT2ta?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "UNGRD",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 3044,
+      "titulo": "Fiscalía cita a Angie Rodríguez como indiciada por escándalo de 'sexocontratos' y red de 48 mujeres",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-13",
+      "descripcion": "La Fiscalía citó a interrogatorio a la exdirectora del Dapre, Angie Rodríguez, en calidad de indiciada, para que de su version sobre una presunta red de 48 mujeres que llegaron a cargos del Gobierno Petro. Se busca establecer si incurrio en abuso de autoridad por omision de denuncia y celebracion indebida de contratos; la diligencia podria derivar en un preacuerdo.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/13/fiscalia-cito-a-interrogatorio-a-angie-rodriguez-para-que-de-su-version-sobre-la-red-de-48-mujeres-que-llegaron-al-gobierno-de-gustavo-petro-podria-negociar-un-preacuerdo/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodriguez"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 13:58"
+    },
+    {
       "id": 3043,
       "titulo": "Oleada de ataques contra la Fuerza Publica en varias regiones del pais",
       "categoria": "seguridad",
@@ -70954,7 +71144,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-13",
-    "total_casos": 2954,
+    "total_casos": 2962,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
