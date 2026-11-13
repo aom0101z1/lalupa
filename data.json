@@ -221,6 +221,351 @@
   ],
   "casos": [
     {
+      "id": 3043,
+      "titulo": "Oleada de ataques contra la Fuerza Publica en varias regiones del pais",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "El 12 de noviembre de 2026 se reportaron multiples ataques contra la Fuerza Publica: una explosion en Cali, un posible atentado contra la Escuela de Carabineros, dos policias heridos en Cesar y tropas del Ejercito atacadas en el Cauca. Los hechos se enmarcan en la ofensiva de grupos armados contra la Fuerza Publica durante el gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataques-contra-la-fuerza-publica-en-colombia-este-jueves-12-de-noviembre-dos-policias-heridos-en-cesar-y-tropas-del-ejercito-atacadas-en-cauca-3600674",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3042,
+      "titulo": "Título exprés de familiar de Joaquín Gutiérrez para llegar a Coljuegos",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-12",
+      "descripcion": "La Universidad del Magdalena otorgó en dos meses una especialización en Alta Gerencia a un familiar de Joaquín Gutiérrez, título que era requisito para acceder a un cargo en Coljuegos. El caso evidencia presunta obtención irregular y exprés de un título académico para cumplir con requisitos de nombramiento en una entidad pública durante el gobierno Petro.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-titulo-expres-del-familiar-de-joaquin-gutierrez-para-llegar-a-coljuegos/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Joaquin Gutierrez"
+      ],
+      "entidad": "Coljuegos / Universidad del Magdalena",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04"
+    },
+    {
+      "id": 3041,
+      "titulo": "Gobierno pide ahorrar electricidad por fenómeno de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-12",
+      "descripcion": "El Gobierno Nacional hizo un llamado a los ciudadanos para ahorrar energía, agua y gas entre las 6:00 p.m. y las 9:00 p.m. durante la temporada seca asociada al fenómeno de El Niño, como medida preventiva ante el riesgo de desabastecimiento.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/por-el-nino-gobierno-pide-ahorrar-electricidad-de-6-de-la-tarde-a-9-de-la-noche/",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energia / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3040,
+      "titulo": "Gobierno hereda $51 billones en vigencias futuras para infraestructura sin ejecutar",
+      "categoria": "empalme",
+      "fecha": "2026-11-12",
+      "descripcion": "A 100 días de gobierno, De la Espriella enfrenta un hallazgo de empalme: $51 billones en vigencias futuras comprometidas para vías, radares y puertos sin ejecución efectiva, con obras paralizadas y radares apagados. El gobierno plantea reformar la Ley de APP en el Plan Nacional de Desarrollo para elevar el límite de adiciones contractuales de 20% a 50%.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/vias-sin-plata-radares-apagados-y-puertos-congestionados-el-gobierno-hereda-51-billones-en-vigencias-futuras-506222",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte / ANI / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3039,
+      "titulo": "Bancóldex y Fontur lanzan línea de crédito de $100.000 millones para MiPymes turísticas afectadas por el sismo",
+      "categoria": "dineros",
+      "fecha": "2026-11-13",
+      "descripcion": "Bancóldex y Fontur anunciaron una línea de crédito por $100.000 millones dirigida a micro, pequeñas y medianas empresas del sector turístico afectadas por el terremoto. Los préstamos tendrán plazos de hasta cinco años, hasta 12 meses de gracia a capital y tasas con un descuento mínimo de dos puntos porcentuales.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/bancoldex-fontur-credito-mipymes-turismo/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Bancoldex / Fontur",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3038,
+      "titulo": "Colsubsidio reporta aumento del 26% en solicitudes de medicamentos tras medida contra Sanitas",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-12",
+      "descripcion": "En medio de la medida del gobierno contra la EPS Sanitas por demoras en la entrega de medicamentos, Colsubsidio informo que desde que asumio como operador farmaceutico el 1 de noviembre de 2026 ha recibido un volumen de solicitudes 26% superior al estimado, equivalente a cerca de 44.600 medicamentos solicitados diariamente en Bogota y otras regiones.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colsubsidio-solicitudes-medicamentos-sanitas-MD43519216",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Colsubsidio / EPS Sanitas / Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3037,
+      "titulo": "Atentado con moto bomba cerca a estacion de Policia Carabineros en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "El 13 de noviembre de 2026 se registro la detonacion de una moto bomba en la via hacia la estacion de Policia Carabineros en Cali, generando conmocion en gran parte de la ciudad. El hecho se suma a una serie de atentados recientes en la region.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cali/articulo/reportan-fuerte-explosion-en-el-sector-de-carabineros-que-estremecio-a-gran-parte-de-cali/202621/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3036,
+      "titulo": "Ataque con drones del ELN y disidencias deja cuatro militares muertos en Tibu",
+      "categoria": "seguridad",
+      "fecha": "2026-11-12",
+      "descripcion": "El Ejercito Nacional elevo a cuatro los militares muertos y cinco los heridos tras un ataque con 20 explosivos lanzados desde drones en Tibu, cerca de la frontera con Venezuela, zona donde operan el ELN y disidencias del Frente 33, reportado el 12 de noviembre de 2026.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-eleva-a-cuatro-los-militares-muertos-y-cinco-heridos-tras-ataque-con-20-explosivos-lanzados-desde-drones-en-tibu-3600635",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3035,
+      "titulo": "ELN libera a dos agentes de la Fiscalia tras 18 meses de secuestro en Arauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-13",
+      "descripcion": "Dos agentes de la Fiscalia General de la Nacion recuperaron su libertad el 13 de noviembre de 2026 tras permanecer mas de 18 meses secuestrados por el ELN en el departamento de Arauca. La liberacion fue confirmada por la Defensoria del Pueblo.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/el-eln-libera-a-dos-agentes-de-la-fiscalia-colombiana-tras-18-meses-de-secuestro/",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "ELN / Defensoria del Pueblo / Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3034,
+      "titulo": "Icetex hereda faltante de 1,5 billones de pesos para operar en 2027",
+      "categoria": "empalme",
+      "fecha": "2026-11-12",
+      "descripcion": "A 100 dias del gobierno De la Espriella, el sector educativo reporta que el Icetex cuenta con solo 467.621 millones de pesos de los 1,99 billones que necesita para operar en 2027, ademas de problemas pendientes en salud de maestros (Fomag), gratuidad educativa y obras sin respaldo fiscal heredadas del gobierno anterior.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/salud-de-maestros-icetex-gratuidad-y-obras-sin-respaldo-fiscal-los-faltantes-que-hereda-todo-el-sector-educativo-506229",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Icetex / Ministerio de Educacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3033,
+      "titulo": "Gobierno De la Espriella propone nuevo IVA que encarecería la cerveza",
+      "categoria": "economia",
+      "fecha": "2026-11-12",
+      "descripcion": "El Gobierno de Abelardo de la Espriella propone un nuevo esquema de IVA que afectaría el precio de la cerveza en Colombia, con impacto potencial en cerca de 450.000 tiendas y 1,75 millones de empleos vinculados a esta actividad, segun reporte de Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzEwcHI5UjdNUk9INnZCODhFRXdKTmRoR3UzejdMblRzLTdzeEpYU29PblRqb0hlc0JxY1pfSlVUM2FLaHNnSUpWWGh1QUtqbF9EcVliM2Jub3hrZU9aZmZibTJKd0lXQk12ZmoteW16UHB5VVl0Q2RaYkU4N19RTWoyRWd0VlkzcC11X19BaHpMR0FyZlR5WkFwQ1F3clkxejlNUXdFY1FnVXlsNHpFWkc1S1pGVnRIZjN4VmdsYUtIdjg3bkVBSdIBzgFBVV95cUxQQ2ZYZm4xYmNYT0ljc3VvUVF5Z3N2YlFuUTRudHY1M1ZuZXhJLV9Pa1JaZnZOazV5MUhBS1JZRXZoSVNxOXFNeXhpcVo4MU4xRS1mcFQ4LUtJRTk3bkZ3M0dZbVhKZ3hVaVEzQWE2RERPVFdBS2FHd1RLczZ3YzM1VUFEeU9XTHJ5WE01bEhaX1VjYVdVWWJFYXlTQU9zQ0tLeTZ6aU9kdVRQVFl0VXJGRERHZkR6V3ZuMXVpRXBXMF9HdlZBSkVkUDB4dVZyQQ?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3032,
+      "titulo": "Nuevos chats revelan presunta irregularidad en contrato del Hospital San Juan de Dios vinculando a Petro y Deicy Jimenez",
+      "categoria": "contratos",
+      "fecha": "2026-11-13",
+      "descripcion": "Se conocieron nuevos chats entre el expresidente Gustavo Petro y Deicy Jimenez relacionados con un contrato del Hospital San Juan de Dios, en los que ella reclama no haber recibido beneficios como otros ('para todas hubo, menos para mi'). El material fue revelado por Revista Semana y se suma a las denuncias previas de Jimenez sobre abuso de poder y contratos irregulares que son investigadas por la Fiscalia, la Procuraduria y la Corte Suprema.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/chats-petro-deicy-jimenez-contrato-hospital-san-juan-dios-BB43537237",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Deicy Jimenez"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre) / Hospital San Juan de Dios",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04"
+    },
+    {
+      "id": 3031,
+      "titulo": "Damnificados del terremoto piden acelerar ayudas tres meses despues del sismo",
+      "categoria": "damnificados",
+      "fecha": "2026-11-11",
+      "descripcion": "Tres meses despues del terremoto del 10 de agosto, damnificados en las zonas afectadas continuan reclamando al Gobierno Nacional la aceleracion de las ayudas humanitarias y de reconstruccion, senalando demoras persistentes en la entrega de apoyos prometidos pese a los anuncios oficiales de avances.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2tRUlhzYnROb1hReG11LVZBZjVsNFNyVG5PWmdPalVKdTdoQUlRZVdHWWQ2ZThIeWNLampaOTN0clhoWlZlZ0NtdzBIWlpGQVZubDVHSkpZd203Y2dOUDhLRGRfdGFzcTVzTHUzbVZ4U2RnQ2wxNnFZVWNkbXhwM1MtTm9WTGJodHJ6eWh4a1ctNzB6RWgzc0dGV0RvcUZRYVdNb1VXNER0eUpXTDVsUWdkSzNhN0VNUmU2VzlUaWZPSmlJS1HSAcsBQVVfeXFMUGwybXlQc3hNSUh0SWFhalgwalktSmM3UElUdy1YTDBEdzIyLVFiaGpNRjI2bWdvcm5yQ2ZndzJySm56R1lLTlJ1XzdSSWl0NFRqWGpiWnBlcmxDX0dNQXZtWm1JOUJyNlFDOGp4X0hxN1RORW1TTVVOZ1N5QlJYaEljSHdJTE0yMDByaU5WV3FYU1RneURoWU1IOVJzcl9aYzhPeTJWOHE1cVJiSFl2VmwyWTQzTktFMGZOeFNtcFpLeGE5Zm9KMlhmTm8?oc=5",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3030,
+      "titulo": "Subsecretario de Estado de EE.UU. destaca neutralizacion de cabecillas en primeros 100 dias de De la Espriella",
+      "categoria": "internacional",
+      "fecha": "2026-11-12",
+      "descripcion": "Un subsecretario de Estado de Estados Unidos elogio publicamente los resultados de seguridad del gobierno de Abelardo de la Espriella en sus primeros 100 dias, destacando en particular la neutralizacion de cabecillas de grupos armados y de terror como un logro relevante de la nueva administracion.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMks0OTN2QkZnNnRRUzlWS0FBX3R1QmxsdnVYcUdEZG5CUnM4MWZTNmU3N3ZNVWE2VVc3QzlueGVDX1VQZ01heGJLVjJBOEVqZ3MxSlZManBGcE42T3A0eHNsRVN2dXVDcExOd0xDN2F0eTItY18tVGJDT1RON0xRTlVQVUpHallGSWlmQ3R4RjVGRmJDSWh3enF6VFExNG0tRWRpRERXT0tUN1plb0hwS29Ianh5VGpkSlhjMzBPWS1vZF84SHpoUDBIa1RDRUFhUHdIWFpMeExBRGNQT3V5RHFfOFY4OW9lcHE1aXJvZXpRMDhfUlBqUEF0eWk1SWdQam9qYWE5NTdjOS1ndkRxUFp2QjY2NVdYQ3dlTFFSbmFaRkVqaF9DQk1xS081Wk9rTEdzM2hBMllRT0c3Y1lYb1VsUzgtQdIB4AJBVV95cUxNQVI1OWJJaUhYemRvcUZXZGpjX2dObmdZcG5RQS1FemNrRHVZRkg0T2hybkdSN3Bld0pLWUw2bVl2WmcxYUxBZENVcWVwM2FxRGJva0N0SzYyYnhHZHRqLUJvcnp0eWg5SW9DVmJwWHZsVXV6SW5GaE84YU51cWxCRzlhMTEwSGVpUkZHYVp0TnAzUmlod2tGWU5LUUNZQm5XVHhFRnZHNnZTZW9kb00yS25VU1pibzNwTjdOU3Jjdm80cHctOW4yTUItMGxIOFh6N0RobzlkMVM4LVFLQUxFZGtMQXVlczFhZXNfeW95dE1uZEl0VEFhYUlncGxhUC1FNFVJUUdmaFFJWndScDRYMzNPOTNYUkxxZC1BVUZnN1ZoREdJZVlqanIxRWo5ZVlaUHBWYXVZQlRlYkpyNThrVjhOSVRTU3lGUTBzeVpCNER5YUMzdy1YbGFzYWhqSzB1?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Departamento de Estado de Estados Unidos / Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3029,
+      "titulo": "De la Espriella ordena reversar salarios del Fondo Milagro tras denuncia de Kamelia Zuluaga",
+      "categoria": "dineros",
+      "fecha": "2026-11-13",
+      "descripcion": "Tras la denuncia de la senadora Kamelia Zuluaga sobre una nómina mensual de $765 millones en el Fondo Milagro con solo 26 de 130 contratistas posibles, el presidente De la Espriella ordenó reversar los salarios considerados excesivos. El anuncio se dio en medio de cuestionamientos de distintos sectores politicos sobre la administracion de los recursos para la reconstruccion de Risaralda, Caldas, Quindio, Choco y Valle del Cauca.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-desautoriza-salarios-fondo-milagro-NB43539141",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Kamelia Zuluaga",
+        "Jaime Andres Uribe"
+      ],
+      "entidad": "Fondo Milagro / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-13 05:04",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 3028,
       "titulo": "Fondo Milagro reporta gasto de $765 millones en nómina con gerente que gana $39 millones mensuales",
       "categoria": "dineros",
@@ -70608,8 +70953,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-12",
-    "total_casos": 2939,
+    "ultima_actualizacion": "2026-11-13",
+    "total_casos": 2954,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
