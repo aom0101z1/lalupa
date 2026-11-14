@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 641,
+      "titulo": "Senales ocultas en el cerebro predicen el Alzheimer anos antes de los sintomas",
+      "resumen": "Investigadores de Stanford hallaron patrones de actividad cerebral que anticipan el riesgo de Alzheimer antes de que aparezcan problemas de memoria, superando a los biomarcadores tradicionales en capacidad predictiva. Los mismos patrones tambien identifican cerebros inusualmente resistentes al envejecimiento, lo que abre la puerta a tratamientos preventivos.",
+      "por_que_leerlo": "Ofrece evidencia concreta de una ventana de diagnostico temprano que podria cambiar el tratamiento del Alzheimer antes de que sea demasiado tarde.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "neurociencia",
+        "biomarcadores",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 642,
+      "titulo": "LangChain alcanza valoracion de US$3.000 millones con 7.000 clientes en su plataforma de agentes de IA",
+      "resumen": "La startup LangChain, conocida por su herramienta de gestion de agentes de inteligencia artificial LangSmith, alcanzo una valoracion de 3.000 millones de dolares. La compania asegura tener ya 7.000 clientes usando su plataforma, compatible con distintos modelos de IA.",
+      "por_que_leerlo": "Muestra como las herramientas de infraestructura para agentes de IA se estan convirtiendo en un negocio multimillonario, util para quien construye productos con IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "agentes ia",
+        "langchain",
+        "startups",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 643,
+      "titulo": "Estados Unidos paralizo todos los vuelos del pais por una falla de comunicaciones en el control aereo",
+      "resumen": "La FAA ordeno una parada total de vuelos en todo el espacio aereo de Estados Unidos tras problemas de comunicacion en varios centros de control de trafico aereo. La medida se levanto 4,5 horas despues, pero genero caos y una cobertura masiva, con mas de 1.600 puntos y 1.200 comentarios en Hacker News.",
+      "por_que_leerlo": "Muestra que tan fragil puede ser la infraestructura critica de un pais cuando falla un sistema de comunicaciones clave.",
+      "seccion": "tecnologia",
+      "tags": [
+        "infraestructura critica",
+        "control aereo",
+        "falla tecnica",
+        "eeuu"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 644,
+      "titulo": "La energía solar ya genera más electricidad que todas las centrales nucleares del mundo combinadas",
+      "resumen": "Según el último informe de Ember, la energía solar pasó de representar apenas el 1% de la electricidad mundial hace una década a cerca del 10% hoy, superando a la generación nuclear global. El cofundador de Ember, Dave Jones, destaca lo acelerado de esta transición energética.",
+      "por_que_leerlo": "Para entender hacia dónde se mueve la inversión energética global y qué implica para proyectos solares en Latinoamérica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia solar",
+        "energia nuclear",
+        "transicion energetica",
+        "datos"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/energia-solar-produce-electricidad-que-todas-centrales-nucleares-mundo-juntas-cuando-hace-diez-anos-apenas-representaba-1"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 645,
+      "titulo": "China instala 27 espejos en una montaña para construir la presa más alta del mundo pese al frío extremo",
+      "resumen": "La central hidroeléctrica Shuangjiangkou se construye a 2.200 metros de altura con temperaturas invernales de hasta -20°C, por lo que los ingenieros colocaron 27 espejos gigantes para reflejar luz solar y calentar la zona de trabajo. La solución busca evitar que el frío extremo detenga el avance de una de las megaconstrucciones hidroeléctricas más ambiciosas del mundo.",
+      "por_que_leerlo": "Es un ejemplo notable de ingeniería creativa para resolver un problema físico extremo en una megaobra.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ingenieria",
+        "energia hidroelectrica",
+        "megaconstruccion",
+        "china"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/para-construir-presa-alta-mundo-china-ha-colocado-27-espejos-montana-frio-extremo"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 646,
+      "titulo": "Un emulsionante alimentario comun podria resolver un viejo problema del combustible de cohetes",
+      "resumen": "Los ingenieros de propulsion llevan decadas atrapados en el dilema entre combustibles solidos y liquidos, y los hibridos en gel han sido inestables. Investigadores descubrieron que un emulsionante comun usado en alimentos puede estabilizar estos geles, ofreciendo una solucion barata y practica. La tecnica podria simplificar el diseno de motores de cohetes de proxima generacion.",
+      "por_que_leerlo": "Muestra como una solucion cotidiana e inesperada puede resolver un problema tecnico que ha frenado la innovacion aeroespacial durante decadas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "cohetes",
+        "ingenieria",
+        "combustibles",
+        "aeroespacial"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-common-food-emulsifier-rocketry-oldest.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 647,
+      "titulo": "Nuevo sensor molecular facilita detectar trazas invisibles de mercurio",
+      "resumen": "La contaminacion por mercurio es dificil de detectar a simple vista y normalmente requiere equipos de laboratorio costosos y personal especializado. Cientificos desarrollaron un sensor molecular capaz de revelar cantidades minimas de mercurio en agua o alimentos de forma mas simple y accesible. La herramienta podria facilitar el monitoreo ambiental y de seguridad alimentaria en zonas con pocos recursos.",
+      "por_que_leerlo": "Presenta una tecnologia barata que podria democratizar la deteccion de un contaminante peligroso e invisible.",
+      "seccion": "tecnologia",
+      "tags": [
+        "mercurio",
+        "sensores",
+        "quimica",
+        "medio ambiente"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 648,
+      "titulo": "Analisis de 46 craneos sugiere sacrificios humanos entre los primeros reyes de Egipto",
+      "resumen": "Cientificos reexaminaron 46 craneos de hace 5.000 anos y hallaron lesiones craneales potencialmente letales en 18 de ellos, un 39% de la muestra. El hallazgo respalda una teoria centenaria segun la cual sirvientes reales eran sacrificados cuando moria un faraon, posiblemente para servirle en el mas alla.",
+      "por_que_leerlo": "Aporta evidencia forense concreta a una hipotesis arqueologica que llevaba un siglo sin confirmarse.",
+      "seccion": "ciencia",
+      "tags": [
+        "arqueologia",
+        "egipto",
+        "historia",
+        "antropologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 649,
+      "titulo": "Acusan a Nvidia de fabricar escasez de chips financiando a startups de IA para que los compren",
+      "resumen": "Una investigacion periodistica senala que Nvidia habria financiado a startups de inteligencia artificial con la condicion implicita de que usaran ese dinero para comprar sus propias GPU, inflando la demanda y sosteniendo precios altos. El reporte genero fuerte debate, con mas de 900 puntos y 540 comentarios en Hacker News.",
+      "por_que_leerlo": "Expone una practica de financiamiento circular que todo emprendedor de IA deberia entender antes de aceptar capital de un proveedor de infraestructura.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "nvidia",
+        "financiamiento circular",
+        "gpu",
+        "ia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 650,
+      "titulo": "Descubren una proteina que impulsa el envejecimiento sin causar inflamacion",
+      "resumen": "Investigadores identificaron una proteina que contribuye al proceso de envejecimiento por una via distinta a la inflamacion cronica que normalmente se asocia con la vejez. El hallazgo, publicado en Nature, abre una ruta de estudio separada de las teorias inflamatorias dominantes sobre el envejecimiento.",
+      "por_que_leerlo": "Presenta una pista cientifica nueva sobre los mecanismos del envejecimiento que podria orientar futuras terapias anti-edad.",
+      "seccion": "ciencia",
+      "tags": [
+        "envejecimiento",
+        "biologia",
+        "proteinas",
+        "longevidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.nature.com/articles/d41586-026-03638-3"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 651,
+      "titulo": "Nubank obtiene licencia para operar oficialmente como banco en Colombia",
+      "resumen": "Nubank recibió una nueva autorización regulatoria que se suma a las tres licencias que ya poseía, lo que le permitirá operar formalmente como banco pleno. El cambio amplía el tipo de productos y operaciones financieras que puede ofrecer en el país.",
+      "por_que_leerlo": "Revela cómo una de las fintechs más grandes de América Latina da el salto de operar con licencias limitadas a convertirse en banco completo, un movimiento clave para entender la evolución regulatoria del sector.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "nubank",
+        "banca",
+        "latam"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/nubank-recibe-aval-para-convertirse-oficialmente-en-banco-asi-transformara-sus-operaciones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
+      "id": 652,
+      "titulo": "Por qué el desplome petrolero no ha causado una crisis mayor en América Latina, según Goldman Sachs",
+      "resumen": "Goldman Sachs explica que el choque en los precios del petróleo no ha generado el deterioro económico que se esperaba en América Latina, gracias a factores estructurales y medidas de contención en las economías de la región. El banco analiza qué variables explican esta resistencia inesperada frente a un escenario inicialmente más pesimista.",
+      "por_que_leerlo": "Entender por qué la región resistió mejor de lo esperado ayuda a leer con más criterio los riesgos macro de invertir en América Latina.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "petroleo",
+        "america latina",
+        "goldman sachs",
+        "macroeconomia"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/mercados/por-que-el-petroleo-no-ha-provocado-una-crisis-economica-mayor-goldman-analiza-el-efecto-en-america-latina/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-14 16:55",
+      "auto_generated": true
+    },
+    {
       "id": 629,
       "titulo": "Una IA ayuda a descifrar los cuadernos secretos de Kurt Godel y revela cientos de teoremas",
       "resumen": "Investigadores usaron inteligencia artificial para descifrar la taquigrafia Gabelsberger en la que Kurt Godel escribio miles de paginas de notas privadas, hallando cientos de teoremas matematicos que nunca publico. El hallazgo podria cambiar la comprension sobre el trabajo final del logico que revoluciono las matematicas en el siglo XX.",
