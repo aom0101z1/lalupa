@@ -221,6 +221,196 @@
   ],
   "casos": [
     {
+      "id": 3107,
+      "titulo": "ANI evita que el Estado asuma operacion del Tercer Carril Bogota-Girardot",
+      "categoria": "obras",
+      "fecha": "2026-11-14",
+      "descripcion": "La Agencia Nacional de Infraestructura (ANI) logro salvar el contrato de concesion del Tercer Carril Bogota-Girardot, evitando que el Estado tuviera que asumir la operacion de la via. El concesionario continuara operando y manteniendo los 144,81 kilometros hasta la entrega completa de las obras.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/ani-salva-el-contrato-del-tercer-carril-bogota-girardot-y-evita-que-el-estado-asuma-la-operacion-de-la-via-506385",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3106,
+      "titulo": "Incautacion de celulares y armas en carcel de mujeres de Bogota",
+      "categoria": "seguridad",
+      "fecha": "2026-11-14",
+      "descripcion": "El presidente Abelardo de la Espriella reporto la incautacion de celulares y armas en un operativo realizado en la carcel de mujeres de Bogota, como parte de las acciones de seguridad de su gobierno en los centros penitenciarios del pais.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/presidente-de-la-espriella-reporta-incautacion-de-celulares-y-armas-en-carcel-de-mujeres-de-bogota/202604/",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / INPEC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3105,
+      "titulo": "MinEducacion reporta a Contraloria fallas en reparto de recursos del PAE desde 2022",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-14",
+      "descripcion": "El Ministerio de Educacion llevo ante la Contraloria hallazgos segun los cuales los recursos del Programa de Alimentacion Escolar (PAE) se repartieron desde 2022, durante el gobierno Petro, sin una metodologia tecnica definida, lo que afecto la trazabilidad de los dineros publicos destinados a la alimentacion de ninos y jovenes en todo el pais.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/mineducacion-lleva-a-la-contraloria-hallazgos-del-pae-recursos-se-repartieron-sin-metodologia-tecnica-desde-506391",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educacion / Contraloria General de la Republica",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01"
+    },
+    {
+      "id": 3104,
+      "titulo": "Henao anuncia equipo reducido y salarios modestos en el Fondo Milagro",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-14",
+      "descripcion": "Luis Felipe Henao, nuevo gerente del Fondo Milagro tras la renuncia de Jaime Uribe por el escandalo de salarios, anuncio que conformara un equipo pequeno, que su vinculacion sera ad honorem y prometio transparencia en el manejo de los recursos de reconstruccion, en medio de la polemica por los altos sueldos pagados previamente en la entidad.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/fondo-milagro-henao-anuncia-equipo-pequeno-y-salarios-modestos",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao",
+        "Jaime Uribe"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3103,
+      "titulo": "Angie Rodriguez no asiste a nueva citacion de la Fiscalia por caso de 'sexocontratos'",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-13",
+      "descripcion": "La Fiscalia General de la Nacion volvio a citar a interrogatorio a Angie Rodriguez, exdirectora del Dapre, como indiciada en el escandalo de los 'sexocontratos' y la presunta red de 48 mujeres contratadas en el gobierno Petro. Rodriguez no asistio a la diligencia programada, lo que representa un nuevo desarrollo en el proceso investigativo en curso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNVE1YMVJ5RXk3ZmZxcDEtbGFiYWZKMkdrazdkTWxjeHZqNC04SW5OTVhCRG45cUtLclNoQ0YtRTB2UWlHVjZrQ1E4NFFxTEtRVGxud0lwcDkwWDRtODRCY3A0TDBqUm1VYmtCYmx5azF1UTBqNWhZcDFKSjg4UnI1RW0yZ0l0ZWZHTnUxSFc0d3dFZ3hjdGh5LVZKb3BYLWhMTUdiNm9Hbk02N2E2T0oyS0RDeEd0TDNrOEJycERnVnRjblJCVVdPVTRNSWNsX0hBUUY3TXlPejhpZFpJNGhnVENGNHZ1NGRkNkI3dWZMTUY3NmlqM0FLYml3NEFKTFZwVlVmSk1CZEVLZzY3NF9nVjl5a1hWU090WjYxU3VpRnNfc2E1VS1n0gGsAkFVX3lxTE0xWDgzTnJKVjNJblJWTFl0b3Z2MWJNLTBKbjJLRlFfTFlJeXBLXzRUZUhYdXlpVlFrSXZjQkMyTXBJQWZlTDF5S3Jpbll2MlE5cWJMOHk3UFd1UGhjWVpPV05Cc0ZCbmxFRGNDeEhFMWV4dmhFclYydEZna3EwNU1faVN2ZDdUV0p1bWZ5czVvTHpVM3hFT2twOVpmX2NNNFpHUUFuS1RMNENWWlJGdGxFR3ZYLUZUVUVoY0pwdXJNNUtwZmlsUGFyTzlaMjFmdE5YN19HN1psbVlCTXVRd2k0VkxPaGMwWFJrZkJJc1BVbjR5WFhjcllaclhiemlGYVMyN3lxckNORzFaV3ZUY210MlVXaVZZWWsyV0REWG9idmstNk9SYmRlQmlGOQ?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodriguez"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01"
+    },
+    {
+      "id": 3102,
+      "titulo": "Gobierno asigna administracion del Fondo del Cafe a Fedecafeteros con exigencia de rendicion de cuentas",
+      "categoria": "economia",
+      "fecha": "2026-11-14",
+      "descripcion": "El Gobierno Nacional renovo por 10 anos el contrato de administracion del Fondo Nacional del Cafe a cargo de Fedecafeteros. El ministro Dangond advirtio que los recursos parafiscales pertenecen a los productores y exigio resultados y rendicion de cuentas, señalando que no pueden ser utilizados como 'cajas menores'.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/agro/recursos-del-cafe-no-pueden-ser-cajas-menores-la-condicion-del-gobierno-al-renovar-el-fondo-nacional-del-cafe-506373",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Dangond"
+      ],
+      "entidad": "Ministerio de Agricultura / Fedecafeteros / Fondo Nacional del Cafe",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3101,
+      "titulo": "Captura de 'Primo Gay', cabecilla de disidencias de alias Calarca en Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-14",
+      "descripcion": "Nestor Yesid Unates Lopez, alias 'Primo Gay', fue capturado en Briceno, norte de Antioquia, en una operacion conjunta del Ejercito, la Policia y la Fiscalia. Las autoridades lo senalan de comandar una estructura de las disidencias de alias Calarca, siendo uno de los hombres mas buscados del departamento.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/capturan-primo-gay-uno-de-los-hombres-mas-buscados-de-antioquia",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Nestor Yesid Unates Lopez"
+      ],
+      "entidad": "Ejercito Nacional / Policia Nacional / Fiscalia General de la Nacion",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3100,
+      "titulo": "Captura de 'Pata de Palo', segundo cabecilla del Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-14",
+      "descripcion": "La Fuerza Publica capturo el 14 de noviembre de 2026 a Francisco Miguel Pacheco, alias 'Pata de Palo', senalado como segundo cabecilla del Clan del Golfo, en zona rural de Monteria, Cordoba. El procedimiento se realizo durante las operaciones Aquiles y Agamenon de la Policia Nacional. El presidente Abelardo de la Espriella celebro la captura en su cuenta de X.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-pata-de-palo-capturado-quien-es-clan-golfo-BB43603002",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Francisco Miguel Pacheco",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Policia Nacional / Presidencia de la Republica",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-14 22:01",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3099,
       "titulo": "Sarmiento Angulo detalla destino de $200.000 millones donados tras el terremoto",
       "categoria": "dineros",
@@ -72293,7 +72483,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-14",
-    "total_casos": 3010,
+    "total_casos": 3018,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
