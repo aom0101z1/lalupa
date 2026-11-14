@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:26:18 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:58:26 -0000</lastBuildDate>
+    <item>
+      <title>Una IA ayuda a descifrar los cuadernos secretos de Kurt Godel y revela cientos de teoremas</title>
+      <link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
+      <guid isPermaLink="false">lalupa-lectura-629</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores usaron inteligencia artificial para descifrar la taquigrafia Gabelsberger en la que Kurt Godel escribio miles de paginas de notas privadas, hallando cientos de teoremas matematicos que nunca publico. El hallazgo podria cambiar la comprension sobre el trabajo final del logico que revoluciono las matematicas en el siglo XX. Por que leerlo: Es un ejemplo concreto de como la IA esta abriendo archivos historicos cerrados durante decadas y reescribiendo la historia de la ciencia. (Hacker News, 6 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>Startup Drogue quiere alimentar centros de datos flotantes con el calor del oceano</title>
+      <link>https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/</link>
+      <guid isPermaLink="false">lalupa-lectura-630</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La startup Drogue desarrolla centros de datos montados en embarcaciones que funcionarian con energia termica oceanica. Su primer prototipo deberia estar operativo en el mar en menos de dos anos, y ya cuenta con respaldo de inversionistas. Por que leerlo: Es un ejemplo concreto de como innovar en energia para resolver el cuello de botella energetico de la IA. (TechCrunch, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Equipo de Nvidia por US$11,4 millones desaparece durante su transporte de California a Texas</title>
+      <link>https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas</link>
+      <guid isPermaLink="false">lalupa-lectura-631</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un cargamento de hardware de Nvidia valorado en US$11,4 millones desaparecio mientras era transportado por carretera entre California y Texas, segun reporto FreightWaves. El caso genero fuerte repercusion (299 puntos y 169 comentarios en Hacker News) por lo que revela sobre la fragilidad de las cadenas de suministro de chips de IA de alto valor. Por que leerlo: Expone un riesgo real y creciente del boom de infraestructura de IA: el robo y fraude en la logistica de hardware costoso. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Que aprendi tras 600 experimentos con modelos de mundo JEPA</title>
+      <link>https://haddyalchaer.com/jepa</link>
+      <guid isPermaLink="false">lalupa-lectura-632</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un investigador independiente documento 600 experimentos entrenando modelos de mundo basados en la arquitectura JEPA, promovida por Yann LeCun como alternativa a los modelos generativos tradicionales. El analisis detalla con datos concretos que configuraciones funcionan, cuales fallan y por que. Por que leerlo: Ofrece lecciones practicas, no teoricas, sobre una de las arquitecturas de IA mas discutidas para construir sistemas que entienden el mundo fisico. (Hacker News, 8 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Europa desarrolla un conector universal tipo 'USB espacial' para reparar satelites en orbita</title>
+      <link>https://www.xataka.com/espacio/usb-espacio-europa-crea-conector-universal-para-reparar-satelites-orbita-lugar-tirarlos</link>
+      <guid isPermaLink="false">lalupa-lectura-633</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Ingenieros europeos crearon un conector estandar que permitiria a naves de servicio acoplarse a satelites en orbita para repararlos, reabastecerlos de combustible o actualizarlos, en lugar de abandonarlos como chatarra espacial cuando fallan o se quedan sin propulsante. La iniciativa busca reducir la basura espacial y alargar la vida util de las misiones satelitales. Por que leerlo: Muestra una solucion de ingenieria concreta a un problema creciente, la basura espacial, con potencial para abaratar la operacion de constelaciones satelitales. (Xataka, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Por qué el óxido de galio alfa conduce electricidad más lento de lo esperado en electrónica de potencia</title>
+      <link>https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html</link>
+      <guid isPermaLink="false">lalupa-lectura-634</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores descubrieron que en el óxido de galio alfa, un semiconductor usado en dispositivos de electrónica de potencia para vehículos eléctricos y sistemas de energía renovable, los electrones se comportan como si tuvieran más masa de la prevista, lo que frena el flujo eléctrico. Esto explicaría por qué el material, pese a soportar altos voltajes, pierde más energía en forma de calor de lo esperado teóricamente. Por que leerlo: Entender esta limitación ayuda a quienes diseñan o evalúan componentes de electrónica de potencia más eficientes para energía y vehículos eléctricos. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Modifican una impresora 3D de 450 dólares para imprimir materiales vivos de más de 100 capas</title>
+      <link>https://phys.org/news/2026-11-3d-printer-materials-layers.html</link>
+      <guid isPermaLink="false">lalupa-lectura-635</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores adaptaron una impresora 3D económica para construir 'materiales vivos' con bacterias incrustadas en una matriz, logrando estructuras de más de 100 capas con formas tridimensionales precisas. Según el tipo de bacteria usada, el material resultante puede limpiar agua contaminada o descomponer residuos como el plástico. Por que leerlo: Muestra cómo con hardware barato y accesible se puede construir biotecnología funcional, una idea aprovechable para proyectos propios. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Dos 'arranques' en el crecimiento de las montañas coincidieron con el estallido de la vida compleja</title>
+      <link>https://phys.org/news/2026-11-mountain-growth-spurts-complex-life.html</link>
+      <guid isPermaLink="false">lalupa-lectura-636</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio publicado en Science Advances encontró que las cadenas montañosas de la Tierra crecieron en dos periodos distintos y acelerados a lo largo de la historia del planeta, y que ambos coinciden con momentos de gran diversificación biológica. Los autores proponen que la formación de montañas pudo ser un disparador clave para el surgimiento de la vida compleja. Por que leerlo: Ofrece una explicación geológica concreta a uno de los grandes misterios de la evolución: por qué la vida compleja apareció cuando lo hizo. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Hallan una posible estrella de neutrones supermasiva que llenaría el vacío con los agujeros negros</title>
+      <link>https://phys.org/news/2026-11-supermassive-neutron-star-mass-gap.html</link>
+      <guid isPermaLink="false">lalupa-lectura-637</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Astrónomos identificaron una estrella gigante roja con un compañero binario invisible al analizar datos de los telescopios LAMOST y APOGEE. Aunque el objeto no puede observarse directamente, su efecto gravitacional sobre la estrella visible sugiere que podría ser una estrella de neutrones inusualmente masiva, un objeto que ayudaría a explicar el llamado 'vacío de masas' entre estrellas de neutrones y agujeros negros. Por que leerlo: Es evidencia concreta sobre uno de los límites menos entendidos de la física estelar, el punto donde una estrella de neutrones se convierte en agujero negro. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Una teoría alternativa de la gravedad sugiere que la energía oscura invirtió su signo hace 9.500 millones de años</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261111005901.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-638</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores que exploraron una rama poco estudiada de una teoría alternativa a la relatividad general encontraron que la energía oscura, la fuerza que impulsa la expansión acelerada del universo, pudo haber pasado de ser negativa a positiva hace unos 9.500 millones de años. El hallazgo, aún preliminar, obligaría a revisar la cronología aceptada de la historia cósmica. Por que leerlo: Plantea una grieta inesperada en uno de los pilares más aceptados de la cosmología moderna. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La salida de Jensen Huang de Nvidia deja un vacio en el financiamiento de startups de IA</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+      <guid isPermaLink="false">lalupa-lectura-639</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Bajo el liderazgo de Jensen Huang, Nvidia invirtio decenas de miles de millones de dolares en startups de inteligencia artificial. Fundadores e inversionistas ahora anticipan cheques mas pequenos y valoraciones mas bajas tras su salida de la compania. Por que leerlo: Si construyes o buscas inversion para una startup de IA, entender este cambio te ayuda a anticipar un mercado de capital mas restrictivo. (TechCrunch, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El articulo de 1960 que predijo el 13 de noviembre de 2026 como el 'dia del juicio final' demografico</title>
+      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
+      <guid isPermaLink="false">lalupa-lectura-640</guid>
+      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>En 1960, los cientificos Heinz von Foerster, Patricia Mora y Lawrence Amiot publicaron en Science un modelo matematico que, al extrapolar el crecimiento de la poblacion mundial, senalaba el 13 de noviembre de 2026 como la fecha en que la poblacion humana tenderia matematicamente a infinito. El paper resurgio en Hacker News justo cuando esa fecha llego, acumulando 460 puntos y 314 comentarios por la curiosa coincidencia. Por que leerlo: Es un recordatorio util de los limites y riesgos de extrapolar modelos matematicos de crecimiento sin cuestionar sus supuestos. (Hacker News, 5 min, interes 7/10)</description>
+    </item>
     <item>
       <title>La atmosfera de la Tierra habria amplificado la gigantesca tormenta solar de mayo de 2024</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261111005905.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Thu, 12 Nov 2026 03:40:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>La startup británica Fractile cerró una ronda de financiación de US$720 millones, convirtiéndose en uno de los actores mejor capitalizados en la carrera por chips diseñados específicamente para inteligencia artificial. La ronda refleja el apetito inversor por alternativas de hardware frente a Nvidia. Por que leerlo: Da una idea del tamaño de capital que se necesita hoy para competir en hardware de IA y quién está entrando a ese mercado. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Ingeniero de Google usa 48 agentes de IA y halla una pirámide maya oculta en 72 horas</title>
-      <link>https://pietromiotti.com/latest/maya-site/?maya</link>
-      <guid isPermaLink="false">lalupa-lectura-569</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un ingeniero de software de Google aplicó 48 agentes de inteligencia artificial para analizar datos de Lidar de la NASA sobre la selva, y en apenas 72 horas identificaron un sitio arqueológico maya no catalogado. El hallazgo generó más de 280 comentarios y 767 puntos en Hacker News por mostrar una aplicación concreta de IA orquestada a gran escala. Por que leerlo: Muestra como orquestar decenas de agentes de IA en paralelo puede producir descubrimientos cientificos reales, no solo automatizar tareas de oficina. (Hacker News, 6 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>Fosiles de Homo naledi sugieren un misterioso enterramiento exclusivamente femenino</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261110042558.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-570</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Analisis de proteinas antiguas en dientes de al menos 20 individuos de Homo naledi, hallados en una cueva de Sudafrica, no mostraron marcadores especificos masculinos, lo que sugiere que este pariente humano extinto pudo haber creado un sitio funerario exclusivo para hembras hace mas de 240.000 anos. El hallazgo podria resolver un enigma que intrigaba a los investigadores desde hace mas de una decada. Por que leerlo: Plantea una pregunta inquietante sobre el comportamiento social de nuestros parientes humanos mas antiguos, respaldada en evidencia molecular directa. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Ingresos trimestrales de OpenAI superan por primera vez los US$10.000 millones</title>
-      <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
-      <guid isPermaLink="false">lalupa-lectura-571</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>OpenAI reportó ingresos trimestrales de US$10.000 millones, un salto de casi 50% frente a los US$6.700 millones del segundo trimestre. La cifra confirma el ritmo acelerado de monetización de la empresa pese a las dudas del mercado sobre la rentabilidad de la IA generativa. Por que leerlo: Da una cifra concreta para medir qué tan rápido crece realmente el negocio de IA más grande del mundo. (TechCrunch, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Google DeepMind verifica matemáticamente partes clave del cifrado de Signal con IA</title>
-      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
-      <guid isPermaLink="false">lalupa-lectura-572</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>En un proyecto de solo cuatro semanas, DeepMind usó inteligencia artificial para verificar formalmente componentes críticos del protocolo de cifrado de Signal. El resultado sugiere que la IA podría volver mucho más práctica la verificación formal de software, una técnica hasta ahora costosa y lenta. Por que leerlo: Muestra un caso concreto de cómo la IA puede acelerar la verificación de seguridad de software crítico. (Ars Technica, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Hackean una GPU A100 de mineria con fallas de voltaje para desbloquear todo su potencial</title>
-      <link>https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/</link>
-      <guid isPermaLink="false">lalupa-lectura-573</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un investigador uso la tecnica de 'voltage glitching' para eludir las restricciones de firmware de una tarjeta Nvidia A100 vendida para mineria, liberando sus capacidades completas de computo para IA que el fabricante tenia bloqueadas por software. Documento el proceso tecnico completo en su blog, generando 187 puntos y 65 comentarios en Hacker News. Por que leerlo: Ensena una tecnica real de hardware hacking para recuperar potencia de computo de GPUs restringidas a bajo costo. (Hacker News, 8 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Doble defensa protege la fotosintesis del calor extremo</title>
-      <link>https://phys.org/news/2026-11-defense-photosynthesis-extreme.html</link>
-      <guid isPermaLink="false">lalupa-lectura-574</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores identificaron un mecanismo doble que protege la maquinaria fotosintetica de plantas y microalgas durante olas de calor extremas, evitando la caida de eficiencia que amenaza la productividad agricola y el cultivo de microalgas para biocombustibles. El hallazgo abre la puerta a desarrollar cultivos mas resistentes al calor a medida que suben las temperaturas globales. Por que leerlo: Explica un mecanismo biologico clave que podria ayudar a proteger cultivos y biocombustibles frente al calentamiento global. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Vidrio estirado hasta el grosor de un atomo revela comportamiento util para chips</title>
-      <link>https://phys.org/news/2026-11-glass-atom-wide-discovery-electronics.html</link>
-      <guid isPermaLink="false">lalupa-lectura-575</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores descubrieron que el vidrio, al estirarse hasta solo un atomo de espesor, exhibe propiedades inesperadas que podrian ayudar a manejar mejor el calor y la electricidad en dispositivos cada vez mas pequenos. El hallazgo responde a un problema central de la miniaturizacion: la falta de espacio para que fluyan el calor y la energia en los chips modernos. Por que leerlo: Ofrece una pista de materiales para resolver el problema de disipacion de calor que limita la miniaturizacion electronica. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Dispositivo de nitruro de galio combina sensor y memoria para computar en el propio chip</title>
-      <link>https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html</link>
-      <guid isPermaLink="false">lalupa-lectura-576</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un equipo desarrollo un dispositivo de nitruro de galio y aluminio que integra deteccion de luz, memoria y procesamiento basico controlando cargas en interfaces de polarizacion, segun un estudio en Nature Materials. El chip detecta luz a niveles de nanovatios por centimetro cuadrado y opera de forma estable hasta 300 grados Celsius. Por que leerlo: Muestra una via concreta hacia sensores con computo integrado, util para quienes disenan hardware o dispositivos IoT para entornos extremos. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Cientificos creen resolver el misterio de como la piel sabe donde crecer pelo</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261109205413.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-577</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un nuevo estudio sugiere que los intrincados patrones de foliculos piloso en mamiferos surgirian de un proceso sorprendentemente simple: celulas que siguen senales quimicas, sin necesidad de un plano detallado previo. El hallazgo desafia una teoria de larga data sobre como la naturaleza genera patrones biologicos complejos. Por que leerlo: Muestra como un mecanismo simple puede generar complejidad biologica, cambiando una idea establecida desde hace decadas. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Por que algunos mosquitos prefieren picar a ciertas personas y no a otras</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261106174541.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-578</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio revela que distintas especies de mosquitos se sienten atraidas por combinaciones particulares de olores de la piel, quimicos y bacterias, desafiando la idea de un iman universal para mosquitos. El hallazgo podria llevar a repelentes mas efectivos contra especies que transmiten enfermedades peligrosas. Por que leerlo: Ofrece una base cientifica para desarrollar repelentes mas efectivos y entender un fenomeno cotidiano con datos concretos. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La FDA advierte que los medicamentos GLP-1 podrían elevar el riesgo de una rara pérdida de visión</title>
-      <link>https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/</link>
-      <guid isPermaLink="false">lalupa-lectura-579</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>La agencia estadounidense FDA emitió una advertencia sobre un posible vínculo entre los medicamentos GLP-1 (como los usados para diabetes y pérdida de peso) y un riesgo raro de pérdida de visión. La agencia señala que el riesgo parece pequeño y los datos son mixtos, pero quiere que los pacientes estén informados. Por que leerlo: Es información médica basada en evidencia regulatoria sobre fármacos que millones de personas usan hoy. (Ars Technica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Anif propone vender ISA y recortar el gasto público para sanear las finanzas de Colombia</title>
-      <link>https://www.larepublica.co/economia/anif-propuso-vender-isa-y-recortar-el-gasto-publico-para-aliviar-las-finanzas-de-la-nacion-4522410</link>
-      <guid isPermaLink="false">lalupa-lectura-580</guid>
-      <pubDate>Wed, 11 Nov 2026 18:24:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>El centro de pensamiento Anif respaldó la Ley de Rescate fiscal pero pidió revisar medidas tributarias y laborales, y planteó vender la participación estatal en ISA, reducir cargos estatales y focalizar mejor los subsidios para aliviar las finanzas públicas del país. Por que leerlo: Presenta una propuesta concreta de mercado frente al déficit fiscal colombiano, útil para entender hacia dónde podría moverse la política económica. (La Republica, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
