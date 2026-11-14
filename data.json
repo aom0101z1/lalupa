@@ -221,6 +221,271 @@
   ],
   "casos": [
     {
+      "id": 3099,
+      "titulo": "Sarmiento Angulo detalla destino de $200.000 millones donados tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-13",
+      "descripcion": "El empresario Luis Carlos Sarmiento Angulo informó a Portafolio la distribución de los $200.000 millones donados tras el terremoto del 10 de agosto, destinados a hospitales, colegios y vías en las zonas afectadas. Aseguró que hará seguimiento personal para verificar que los recursos lleguen efectivamente a los proyectos priorizados, en medio de las denuncias sobre demoras en la ejecución de recursos públicos del Fondo Milagro.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/hospitales-colegios-y-vias-asi-se-distribuyen-los-200-000-millones-que-dono-sarmiento-angulo-tras-el-terremoto-506341",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Carlos Sarmiento Angulo"
+      ],
+      "entidad": "Grupo Aval / Fundacion Luis Carlos Sarmiento Angulo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3098,
+      "titulo": "Encuesta mide percepcion sobre seguridad y reformas en los 100 dias de De la Espriella",
+      "categoria": "opinion-publica",
+      "fecha": "2026-11-12",
+      "descripcion": "Una nueva encuesta divulgada por Caracol Radio entrega cifras sobre la percepción ciudadana en materia de seguridad y reformas tras los primeros 100 días de gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGx4XzZhWXp1VVJpQ1RUOGtXNDhfUW9kLURjeTdmRVRxNXIxSFZKZlRzWnY4RmhLMi1qN1ozd1ZJVHA0bGVyb2wwaWd5NjhMX2IxcjBfb3VfczV6a0FhUWthc05BZlQ0MFJ4bUlFSEJiaDBNRGlDd2tYNjNINzNIUVhsekQyMnhQc0V2VW8xVzQtYkg5X3g1TEc1cFVnMDNLOFlzdjNUbGJ0UmdwYlNORDUzcDc0MXFfT3RsQWRzX3ViOHhvdXQwRTladW9mQdIB4gFBVV95cUxOT1pLTU9NbXcxX2k2YjFndHlKbG95LXotdFFER3o1S0hmMW5fQmN5alRZVl9vSUx3ZU1TWXBIQ2VoZ3gzRjdOdW9obGthekVQVjQxaDRueXFzTzZrV3lwdEZjS3dsNWJjTE4yaUJrc0NHNzhacjY2dGViQTkyUHRkNy1Bc0h4cl9aSkxXR3BpTWEwdnNZR1RYRjdkQWNCdFlheTlWSVdKMU1fMXB2cFZzaWhvNl84THhWdVltTkV0aXowRWpXek96bmc5VkFZUmFZUlFLY2ZFMWUxbzBSSXZOWElB?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Caracol Radio",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3097,
+      "titulo": "Gobierno levanta declaratoria de desastre por 'variabilidad climática' tras dos años",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-14",
+      "descripcion": "El Gobierno de Abelardo de la Espriella declaró el retorno a la normalidad y dio por terminada la declaratoria de desastre nacional vigente desde 2024 por 'variabilidad climática', aunque mantuvo el régimen especial y la ejecución de los planes de recuperación en curso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-el-retorno-a-la-normalidad-tras-dos-anos-de-desastre-nacional-por-variabilidad-climatica-3601046",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3096,
+      "titulo": "Gobierno cofinancia con $34.000 millones estudios de la Linea 4 del metro de Bogota",
+      "categoria": "obras",
+      "fecha": "2026-11-14",
+      "descripcion": "El Gobierno De la Espriella anuncio la cofinanciacion con $34.000 millones, equivalentes al 50% del costo, de los estudios de la Linea 4 del metro de Bogota, cuya propuesta preliminar contempla extender el sistema hacia el extremo norte de la capital.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cofinanciara-50-estudios-linea-4-metro-de-bogota/",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Alcaldia de Bogota",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3095,
+      "titulo": "Debate legislativo sobre la Ley de ajuste fiscal avanza con contrapropuesta del uribismo",
+      "categoria": "economia",
+      "fecha": "2026-11-14",
+      "descripcion": "En el debate de la Ley de ajuste fiscal, liberales piden al Gobierno buscar nuevas fuentes de financiacion con urgencia, conservadores rechazan gravar la canasta familiar y el uribismo anuncia una contrapropuesta buscando respaldo legislativo, en medio de la negociacion del Gobierno De la Espriella con el Congreso.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/ley-de-ajuste-fiscal-no-tocar-el-iva-ni-sobrecargar-las-empresas-pero-si-ajuste-al-estado",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3094,
+      "titulo": "Capturan responsables de ataque con explosivos en Algeciras, Huila",
+      "categoria": "seguridad",
+      "fecha": "2026-11-14",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio la captura de los responsables del ataque con explosivos ocurrido en Algeciras, Huila, como parte de los operativos de seguridad de su gobierno contra grupos armados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-la-captura-de-responsables-del-ataque-con-explosivos-en-algeciras-huila/202604/",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3093,
+      "titulo": "Vicepresidente Restrepo responde a reclamos sobre gestion del Fondo Milagro",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-12",
+      "descripcion": "El vicepresidente Jose Manuel Restrepo respondio publicamente a quienes reclaman al Fondo Milagro por la lentitud en la entrega de recursos para la reconstruccion tras el terremoto del 10 de agosto, en medio de denuncias de alcaldes y damnificados por falta de transferencias.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVWxVdmRxbEhCWFNmTjNhVVppMkNVajBtLVFTVzZsQVdlRzRBZ20wRS00QjVxYVJCcGVWekM3OFhtWVJGWVdRRXlpeldGZC1BdllXMTF4MGljT3hZT19UNzJ2WTk5aUh5MmhsajRFa05RV2xwLWNPR3U2cEF6WndnOTNleEwtektnTUdWY2hKbnhLUkRRS1Nlb2RGcUt5QW9WTXp6YnN4d1JvWHg0SVl4bVhBa0d1UFBMdlhmQ3R4LXZfRjkwV0pfQ2tFUTdfS3dEeEwyeEdvc3hJcE41UkhHVGZHY2FBTWpZcVB5NndFX19WRDlWSFN6M9IB_gFBVV95cUxPQXMzSjhWVnFFdFF0X2N5TVJxd3dZV2lZbkt0YkZiUUdvQ1JVLXROeXQ0TXl4S3F2WmdKNlY2QVV5SzlyTk12aThVdWU3cHEzT1ZLR045ZEZfYTB6c3liQ3l1V0hib2pUdmFhb1ZlUS1YbVdqRHluOUVSdk1zV1hJX0ktdlBoZVlJQXFhSFN4VUl3aHdkYi16b1R6VWhaOWlEdUp5VTNOQ0dsVzV5dTRsM3BlSjdGV3I4UEx5V2pJeU1penh4cWdsc0JaV1NYUjBsZ19za3RGOEhCV0RKMGlqOVp3QUV4dEFfWkhIdktKdEZQUlJQTXBDdjV6bjBLdw?oc=5",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Manuel Restrepo"
+      ],
+      "entidad": "Fondo Milagro / Vicepresidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3092,
+      "titulo": "Fijan fecha para reanudar audiencias contra Day Vásquez por violación de datos personales",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-13",
+      "descripcion": "La justicia colombiana fijó fecha para reanudar las audiencias contra Day Vásquez, exesposa de Nicolás Petro, por presunta violación de datos personales de Laura Ojeda en el marco del caso Nicolás Petro.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDBIc3JaT2tKdmdXaG9zME9YdUVaSVZUa1RVR0p2MG1GRGtNSjFCSU5vN0pIbTBfMUxWcXY4YUxxSTU5REs2eW1aOTRseW42RkYxd2xFUllpT2pZS1ppRHZVNzZQR1dsZHM1M2VlN2lkMXloMkpzWWh6T2ZmbjdsNVZZMnJydVdocnVmbHNqTnQ3Y0lOT0MteQ?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Day Vasquez",
+        "Nicolas Petro",
+        "Laura Ojeda"
+      ],
+      "entidad": "Rama Judicial",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59"
+    },
+    {
+      "id": 3091,
+      "titulo": "Programa de energía para comunidades del Chocó gastó $27.800 millones sin construir obras",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-13",
+      "descripcion": "El gobierno de Gustavo Petro destinó más de $27.815 millones a un programa para llevar soluciones energéticas a comunidades indígenas, afrodescendientes y campesinas del Chocó. Al terminar el convenio en diciembre de 2025, se reportaron 50 proyectos formulados, 740 personas capacitadas y ninguna obra construida; buena parte del dinero se gastó en actividades administrativas, capacitaciones y asesorías.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/que-paso-con-la-plata-para-llevar-energia-comunidades-choco-AF43571919",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energia / Gobierno Petro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59"
+    },
+    {
+      "id": 3090,
+      "titulo": "Auditoría forense de Ecopetrol salpica a Ricardo Roa, Julián Caicedo y círculo de Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-14",
+      "descripcion": "Una auditoría forense a Ecopetrol reveló presuntas irregularidades que vinculan al expresidente de la petrolera Ricardo Roa, a Julián Caicedo y a personas cercanas a Verónica Alcocer, exprimera dama, en el manejo de contratos y recursos de la empresa durante el gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU0tScWxLUGpRUDhGMEFtS0ZhLTczQ0NPeDdWUjNkNllIMWFrbXhnSW14emlLYm9jaGpnalpiNmRVUjZiekRuQ1FrLVduNmhQbk9QTFhEV3Jfb3JMSW04em80RjY0WEpjSDhJQ3FJYmU4WTJDeDhSS0x0X3Z6cE9sQ2hkX2J5ZWNFUFpuajV1WG5yZTVCMWF3RDR6MG9MaFhtNEJjbktncTFveXZ5M0swV0FJRzRwbXphWjByUHg4U0w3NDA0dzFJRHFLSDlNeXpMZG9PT0ltSDFnc2pGblQyM0pqbFhPaUoyeWJBTjRoUWxqNUEteXVvcG5LQm9NekYxcEE?oc=5",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa",
+        "Julián Caicedo",
+        "Veronica Alcocer"
+      ],
+      "entidad": "Ecopetrol",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59"
+    },
+    {
+      "id": 3089,
+      "titulo": "Alcalde de Pereira denuncia que Fondo Milagro no ha transferido recursos para reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-14",
+      "descripcion": "El alcalde de Pereira, Mauricio Salazar, afirmó que tres meses después del terremoto del 10 de agosto, el Fondo Milagro no ha transferido recursos para la reconstrucción de la capital de Risaralda. Calculó que la reconstrucción podría costar alrededor de $13 billones.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/entrevista-con-mauricio-salazar-alcalde-de-pereira-sobre-el-fondo-milagro-y-los-fondos-para-la-reconstruccion-4524911",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Salazar"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-14 12:59",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
       "id": 3088,
       "titulo": "Supersalud reporta avance en entrega de medicamentos tras crisis de Sanitas y Colsubsidio",
       "categoria": "gestion-emergencia",
@@ -72028,7 +72293,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-14",
-    "total_casos": 2999,
+    "total_casos": 3010,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
