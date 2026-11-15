@@ -221,6 +221,154 @@
   ],
   "casos": [
     {
+      "id": 3114,
+      "titulo": "Plan de recuperacion por frente frio costara $7,71 billones y cubrira 778 municipios",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-15",
+      "descripcion": "El Consejo Nacional para la Gestion del Riesgo aprobo un plan de recuperacion por el frente frio con un costo estimado de $7,71 billones que cubrira 778 municipios del pais. Ademas se aprobo una estrategia de preparacion ante el fenomeno de El Nino por sus proyecciones de intensidad.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/plan-de-recuperacion-por-el-frente-frio-costara-7-71-billones-y-cubrira-778-municipios-4525495",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Consejo Nacional para la Gestion del Riesgo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 13:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3113,
+      "titulo": "Mayoría de embajadores designados por De la Espriella no son diplomáticos de carrera",
+      "categoria": "gabinete",
+      "fecha": "2026-11-15",
+      "descripcion": "Un balance periodístico establece que 24 de los 34 embajadores designados por el gobierno de Abelardo de la Espriella no pertenecen a la carrera diplomática, provenientes en su mayoría del sector privado y la política, lo que contrasta con la promesa de campaña de profesionalizar el servicio exterior. El reporte también señala que se estudia el futuro de varias embajadas en el marco de la reestructuración diplomática.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/radiografia-de-la-diplomacia-en-la-era-de-de-la-espriella-en-que-va-la-promesa-de-profesionalizacion-diplomatica-3601161",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Relaciones Exteriores",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 13:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3112,
+      "titulo": "Gobernadora de Chocó asegura que el Fondo Milagro sí está operando en el departamento",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-14",
+      "descripcion": "La gobernadora de Chocó afirmó que el Fondo Milagro está funcionando en el departamento y expresó expectativa sobre los recursos destinados a la reconstrucción tras el terremoto del 10 de agosto, contrastando con denuncias previas de alcaldes de otras regiones sobre falta de transferencias.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbVoyeFpmUzZzMEpJeE5mZ2FGRVRNZzFaUjBhd3FpR2tQVk43MTBSNWw3Z21YN1IzT0lxTF8zaW92OU5UY0REdTJpbkpDZzE1WUxsc0tnOU82bXB0TWZiTmdsMlZFUnRQUElFYS1odUEwWGE0OFQ0NW9MYUhKbGZLY1Iyb0tQRFRGYlZSV0VybVUxSGhSckFid09SVnAyaEdzcUR0ME42a3E5WTlyb1ZuZUhFLURkWW04YkNNOC15UTAwWXFRVGdpbDZWYlJxa1d4dVZNQm80akxHUzMwRHVvcFR3d3dZbmgtOGZadkVReFI2SHPSAY4CQVVfeXFMT3VJa2R3UjlEVGphOVdoSXkwNVNmdWJsZFhYMmVzVDVmb29rRG54cFZYcmRYX1RncDduTWNfRTh6SjVtMXFmX3k1d2NTOUFmM0VydkdUM2tqOHVRd09RamNpcGJhbi1qTXlQQTVtM0RVR2xHWmRwWHJoTTJVVm5qeUFSVlpyWWhwTXpZS0lOTnhnTVpUTWdZck01THdWMk1SR3VLdUsyYnRaQkp0aUM2dmtZdHFoTHR3Z0JwT285TVFUQVVQQkpvNDh6OUcxODRjVWtLZnRqU24zTXJNSVpRX3hVRjR3aDZPdzQxdE5xWU02MDM3NU92NTcwdnV3R2hMcUF1cmxtWUR0cWVLX1J3?oc=5",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Gobernadora de Chocó"
+      ],
+      "entidad": "Fondo Milagro / Gobernacion del Choco",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 13:28",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 3111,
+      "titulo": "Gobierno De la Espriella denuncia que Escudo Antidrones anunciado por Petro quedó desfinanciado",
+      "categoria": "empalme",
+      "fecha": "2026-11-13",
+      "descripcion": "El gobierno de Abelardo De la Espriella acusa a la administración anterior de Gustavo Petro de haber anunciado un plan de 'Escudo Antidrones' que demandaría 6,8 billones de pesos, pero que no se ejecutó y dejó la estrategia totalmente desfinanciada, calificando el anuncio original como 'puro show' sin respaldo presupuestal real.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/la-polemica-entre-gobiernos-de-la-espriella-y-petro-por-ausencia-escudo-antidrones",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Ministerio de Defensa / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 13:28",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3110,
+      "titulo": "Hermano gemelo del hacker de la DNI acumula contratos millonarios con al menos cuatro entidades del Estado",
+      "categoria": "contratos",
+      "fecha": "2026-11-14",
+      "descripcion": "Cristian Javier Oyola Tovar, hermano gemelo de Carlos Andrés Oyola Tovar -señalado de coordinar ataques contra la Registraduría mientras trabajaba en la Dirección Nacional de Inteligencia (DNI) durante el gobierno Petro- habría ingresado a esa entidad en plena época electoral para participar en una reunión clave sobre la preparación de los comicios al Congreso de 2026. Acumula contratos con al menos cuatro entidades estatales: la Gobernación del Huila, la Dirección de Sustitución de Cultivos, entre otras, lo que genera dudas sobre posible uso de información privilegiada e influencias.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cristian-javier-oyola-hermano-gemelo-hacker-dni-gobierno-petro-suma-millonarios-contratos-con-estado-entro-registraduria-KB43608460",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Cristian Javier Oyola Tovar",
+        "Carlos Andres Oyola Tovar"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI) / Gobernacion del Huila",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 13:28"
+    },
+    {
+      "id": 3109,
+      "titulo": "Cepeda y Ordóñez escalan disputa por transparencia del Fondo Milagro a amenazas de acciones penales",
+      "categoria": "denuncias",
+      "fecha": "2026-11-14",
+      "descripcion": "El enfrentamiento entre el ministro del Interior Alejandro Ordóñez y el senador Iván Cepeda escaló luego de que este ultimo cuestionara la transparencia y austeridad en el manejo del Fondo Milagro, entidad a cargo de la reconstrucción tras el terremoto. Ordóñez anunció posibles acciones penales contra Cepeda por sus senalamientos, en medio de la controversia por los salarios millonarios de la entidad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/es-porque-se-dejaron-pillar-cepeda-y-ordonez-siguen-agarrados-y-ya-hablan-de-denuncias-GB43606011",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Ivan Cepeda",
+        "Alejandro Ordoñez"
+      ],
+      "entidad": "Fondo Milagro / Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 13:28",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 3108,
       "titulo": "Presidente ordena frenar nomina del Fondo Milagro por salarios superiores a $30 millones",
       "categoria": "control",
@@ -72509,7 +72657,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-15",
-    "total_casos": 3019,
+    "total_casos": 3025,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
