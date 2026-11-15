@@ -221,6 +221,32 @@
   ],
   "casos": [
     {
+      "id": 3108,
+      "titulo": "Presidente ordena frenar nomina del Fondo Milagro por salarios superiores a $30 millones",
+      "categoria": "control",
+      "fecha": "2026-11-13",
+      "descripcion": "El presidente Abelardo De la Espriella ordeno frenar la nomina del Fondo Milagro luego de conocerse que varios cargos, incluido el de coordinador de comunicaciones, recibian salarios superiores a $30 millones mensuales, en medio de la polemica por el manejo de los recursos de reconstruccion tras el terremoto del 10 de agosto.",
+      "evidencia": "Reportado por RTVC Noticias",
+      "fuentes": [
+        {
+          "nombre": "RTVC Noticias",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmR0YjNGcHRQUktTQjV2YVQtSUVEcVlyS05zSDhrcDZlek52WWdDRXNnM0RJUndPRmRsQlc3dFJ1VkRlVFlrNFZiZWRESUg5RlJaajctT2hzbWlWWi1JMF9mY2RDdERwb2Z6MTRlYUJFSUhsMWU1NHdPR3lwNUVEa1VfYTYwaU5JY2V2bFpNMDl6NGFhRWVWT3VTd3BTeWMwN0VkRnQzWQ?oc=5",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 04:47",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 3107,
       "titulo": "ANI evita que el Estado asuma operacion del Tercer Carril Bogota-Girardot",
       "categoria": "obras",
@@ -72482,8 +72508,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-14",
-    "total_casos": 3018,
+    "ultima_actualizacion": "2026-11-15",
+    "total_casos": 3019,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
