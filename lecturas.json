@@ -27,6 +27,236 @@
   },
   "lecturas": [
     {
+      "id": 665,
+      "titulo": "Nuevas simulaciones explicarian los extranos campos magneticos de Urano y Neptuno",
+      "resumen": "Durante decadas los campos magneticos tan inclinados de Urano y Neptuno, detectados por la sonda Voyager 2 en los anos 80, no tenian explicacion. Nuevas simulaciones muestran que condiciones electricas extremas en el interior helado de estos planetas generarian esos campos, y sugieren que sus polos magneticos podrian desplazarse decenas de grados.",
+      "por_que_leerlo": "Resuelve un misterio de 40 anos sobre dos de los planetas menos entendidos del sistema solar con evidencia de modelos fisicos.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "campos magneticos",
+        "urano",
+        "neptuno"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 666,
+      "titulo": "El telescopio Euclid descubre 31 cuasares antiguos que brillaron como un billon de soles",
+      "resumen": "El telescopio espacial Euclid de la Agencia Espacial Europea hallo 31 cuasares antiguos, incluidos dos que rompieron records al brillar con el equivalente a un billon de soles cuando el universo tenia apenas 670 millones de anos. Estos faros cosmicos, impulsados por agujeros negros supermasivos, muestran como eran las primeras galaxias en formacion.",
+      "por_que_leerlo": "Ofrece datos duros sobre los objetos mas brillantes y antiguos jamas observados en el universo temprano.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "cuasares",
+        "agujeros negros",
+        "euclid"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 667,
+      "titulo": "La riqueza no se heredaba: los primeros ricos de Europa se la ganaron, revela estudio de tumbas",
+      "resumen": "Investigadores de la Universidad de Copenhague crearon el metodo QuantWealth para deducir el nivel de riqueza de personas antiguas a partir de los objetos hallados en sus tumbas, y lo aplicaron a sepulturas de Bohemia de hace 4.500 anos. El hallazgo muestra que la riqueza era ganada individualmente y que paso siglos antes de convertirse en hereditaria.",
+      "por_que_leerlo": "Ofrece evidencia arqueologica sobre como y cuando nacieron las desigualdades economicas hereditarias, clave para entender por que unas sociedades prosperan mas que otras.",
+      "seccion": "ciencia",
+      "tags": [
+        "historia economica",
+        "arqueologia",
+        "desigualdad",
+        "riqueza"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/magnet/primeros-ricos-europa-no-heredaron-riqueza-se-ganaron-tardaron-siglos-hacerla-hereditaria"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 668,
+      "titulo": "Nvidia evalua fabricar su propia memoria para no depender de Samsung",
+      "resumen": "La escasez de memoria impulsada por el auge de la IA ha disparado los precios y se espera que persista hasta al menos 2028. Nvidia, uno de los principales causantes de esa demanda, estudia producir su propia memoria, posiblemente con ayuda de TSMC, para reducir su dependencia de Samsung y de los pocos fabricantes que dominan el mercado.",
+      "por_que_leerlo": "Anticipa un cambio estrategico que podria redefinir la cadena de suministro de chips de IA y afectar los costos de cualquier negocio que dependa de hardware de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nvidia",
+        "memoria",
+        "chips",
+        "cadena de suministro"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 669,
+      "titulo": "Italia multa a Meta con 805 millones de euros por acceder a fotos sin permiso",
+      "resumen": "La agencia italiana de protección de datos (Garante) sancionó a Meta con 805 millones de euros por acceder a fotos y videos de usuarios de Android sin consentimiento específico ni información adecuada. La multa afecta a unos 20 millones de dispositivos y se suma a la larga lista de sanciones de privacidad que enfrenta la compañía.",
+      "por_que_leerlo": "Muestra cuánto puede costarle a una empresa tecnológica ignorar el consentimiento de los usuarios, una lección clave para quien construye productos que manejan datos personales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "meta",
+        "multa",
+        "proteccion de datos"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/privacidad/italia-multa-a-meta-805-millones-euros-mirar-galeria-20-millones-moviles"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 670,
+      "titulo": "Hallan una estrella muerta que gira cada 8 minutos y emite pulsos de radio junto a una estrella parecida al Sol",
+      "resumen": "Astronomos descubrieron un sistema binario a mas de 5.000 anos luz, donde una estrella muerta que gira cada ocho minutos produce misteriosos pulsos de radio mientras orbita a una estrella similar al Sol. El hallazgo tambien revelo tormentas magneticas masivas en la estrella companera.",
+      "por_que_leerlo": "Aporta pistas concretas sobre un tipo de objeto cosmico recien descubierto que todavia desconcierta a los astronomos.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "estrellas",
+        "radio",
+        "transitorios"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 671,
+      "titulo": "Un aminoacido comun podria reforzar al sistema inmune contra el cancer y virus",
+      "resumen": "Investigadores de la Universidad Rockefeller hallaron que niveles bajos de arginina impiden que el sistema inmune reconozca celulas peligrosas, mientras que aumentar su ingesta redujo tumores de colon y mejoro los resultados ante infecciones virales en ratones. El hallazgo abre la puerta a nuevas estrategias de suplementacion inmunologica.",
+      "por_que_leerlo": "Presenta evidencia experimental concreta sobre un suplemento simple con potencial impacto en inmunidad y cancer.",
+      "seccion": "ciencia",
+      "tags": [
+        "inmunologia",
+        "cancer",
+        "suplementos",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 672,
+      "titulo": "Cientificos usan luz laser para organizar regiones electricas dentro de un cristal",
+      "resumen": "Un equipo de investigadores logro usar destellos de laser para alinear diminutas regiones electricas dentro de un cristal, resolviendo un misterio de decadas sobre su comportamiento. El efecto dura solo una billonesima de segundo, pero podria abrir nuevas formas de procesar y almacenar informacion.",
+      "por_que_leerlo": "Muestra una tecnica novedosa con potencial directo para la proxima generacion de memorias y procesamiento de datos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "materiales",
+        "computacion",
+        "laser",
+        "almacenamiento"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 673,
+      "titulo": "EE.UU. busca enfriar sus centros de datos de IA en el fondo de los Grandes Lagos",
+      "resumen": "Los centros de datos para IA requieren enormes volumenes de agua para refrigeracion y ya han generado rechazo social en varias regiones de EE.UU., incluyendo referendos en contra. Empresas estadounidenses ahora evaluan instalarlos cerca o bajo los Grandes Lagos para aprovechar su agua fria como alternativa a otras estrategias ya probadas, como centros en el espacio.",
+      "por_que_leerlo": "Entiende hacia donde se mueve la infraestructura fisica que sostiene el boom de la IA y sus limites de recursos naturales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "centros de datos",
+        "ia",
+        "energia",
+        "agua"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/eeuu-mira-al-fondo-agua-para-montar-sus-centros-datos-grandes-lagos-tienen-todas-papeletas"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
+      "id": 674,
+      "titulo": "China realiza el primer vuelo tripulado de su avion comercial electrico CE-25A",
+      "resumen": "La aeronautica estatal china COMAC completo con exito el primer vuelo con tripulacion de su avion comercial electrico CE-25A, tres anos despues de presentar su maqueta, aunque no revelo detalles sobre la bateria utilizada. Otros fabricantes como Heart Aerospace ya habian logrado hitos similares, pero China busca repetir en aviacion el dominio que ya tiene en vehiculos electricos.",
+      "por_que_leerlo": "Muestra como avanza la electrificacion de la aviacion comercial y quien lidera esa carrera tecnologica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "aviacion electrica",
+        "china",
+        "baterias",
+        "movilidad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-15 17:35",
+      "auto_generated": true
+    },
+    {
       "id": 653,
       "titulo": "Fallas de seguridad en apps creadas con Lovable exponen pasaportes y 200.000 mensajes privados",
       "resumen": "Una investigacion de seguridad encontro que aplicaciones construidas con la plataforma de IA Lovable dejaban expuestos datos de pasaportes y mas de 200.000 mensajes privados de usuarios. El hallazgo expone los riesgos de seguridad en las herramientas de 'vibe coding' que generan apps con IA sin revision humana.",
