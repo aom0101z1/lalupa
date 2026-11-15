@@ -221,6 +221,355 @@
   ],
   "casos": [
     {
+      "id": 3129,
+      "titulo": "Autoridades judiciales investigan denuncia sobre plan para alterar elecciones presidenciales de 2026",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-15",
+      "descripcion": "Una denuncia sobre una presunta operación para manipular los resultados de las elecciones presidenciales de Colombia celebradas el 21 de junio de 2026 quedó bajo revisión formal de las autoridades judiciales, en el marco del caso que vincula a la DNI y a un plan para favorecer al candidato Cepeda.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/investigan-denuncia-sobre-un-supuesto-plan-para-alterar-las-elecciones-presidenciales-en-colombia/",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Cepeda"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI) / Autoridades judiciales",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31"
+    },
+    {
+      "id": 3128,
+      "titulo": "Nuevos detalles de plan en la DNI para alterar resultados electorales a favor de Cepeda",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-15",
+      "descripcion": "Un informe de la Dirección Nacional de Inteligencia (DNI) reveló nuevos detalles sobre un presunto plan para alterar los sistemas informáticos de la Registraduría y modificar los resultados de la segunda vuelta presidencial de junio de 2026, con el fin de favorecer al candidato del Pacto Histórico, Iván Cepeda. Una fuente calificada como confiable señaló a la persona que presuntamente orquestó el plan, identificada como Carlos Andrés Oyo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/plan-favorecer-ivan-cepeda-elecciones-presidenciales-PD43626988",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Ivan Cepeda",
+        "Carlos Andres Oyo"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31"
+    },
+    {
+      "id": 3127,
+      "titulo": "Comisión de Acusación asigna ponentes para investigaciones contra Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-15",
+      "descripcion": "La Comisión de Investigación y Acusación de la Cámara de Representantes designó ponentes para reactivar procesos contra el expresidente Gustavo Petro, que acumula 370 indagaciones penales y disciplinarias relacionadas con su mandato. De estas, 20 están a cargo de representantes independientes y de oposición, entre ellas algunos de los casos más relevantes del gobierno saliente.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/investigaciones-contra-petrocomision-acusacion-camara-JD43628414",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31"
+    },
+    {
+      "id": 3126,
+      "titulo": "Gobierno fija fecha clave para definir aumento del salario mínimo 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-15",
+      "descripcion": "El Gobierno nacional anunció la fecha en la que se definirá el aumento del salario mínimo para 2027 en Colombia, dando inicio al proceso de negociación entre Gobierno, gremios y centrales obreras.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/gobierno-anuncia-fecha-clave-para-definir-el-aumento-del-salario-minimo-en-colombia-para-2027-esto-deben-saber-los-trabajadores/202613/",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3125,
+      "titulo": "Frustrado atentado explosivo contra alcaldía de Hato Corozal, Casanare",
+      "categoria": "seguridad",
+      "fecha": "2026-11-15",
+      "descripcion": "Autoridades frustraron un atentado con explosivos contra la Alcaldía de Hato Corozal, Casanare, y capturaron a alias 'Kamo'. En el operativo fue incautado un artefacto explosivo con cerca de 500 gramos de pentolita, ademas de armas, municiones y telefonos celulares.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/frustran-atentado-con-explosivos-contra-la-alcaldia-de-hato-corozal-casanare-capturan-a-alias-kamo-3601247",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Kamo"
+      ],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3124,
+      "titulo": "Captura de diez presuntos integrantes de 'los Cocos' en Guainía",
+      "categoria": "seguridad",
+      "fecha": "2026-11-15",
+      "descripcion": "Autoridades capturaron a diez presuntos integrantes de la estructura criminal 'los Cocos' durante cuatro allanamientos realizados en el departamento de Guainía. En los operativos se incautaron armas de fuego, armas blancas, municiones y equipos de telefonía celular.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/diez-presuntos-integrantes-de-los-cocos-fueron-capturados-en-cuatro-allanamientos-en-guainia-3601299",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3123,
+      "titulo": "Educación reporta obras por $337.000 millones y alivio a 235.000 usuarios del Icetex en 100 días",
+      "categoria": "obras",
+      "fecha": "2026-11-15",
+      "descripcion": "El Ministerio de Educación presentó su balance de 100 días: obras educativas por $337.000 millones, alivio financiero para 235.000 usuarios del Icetex, auditoría al Fomag, restablecimiento de clases para 1.275.967 estudiantes tras el sismo del 10 de agosto, y recorte de 70,1% en gastos de viaje de funcionarios.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/los-milagros-en-educacion-obras-por-337-000-millones-alivio-a-235-000-usuarios-del-icetex-y-auditoria-al-fomag-506411",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3122,
+      "titulo": "De la Espriella ordena salida del presidente de Coljuegos por título exprés",
+      "categoria": "transparencia",
+      "fecha": "2026-11-15",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó la salida de Jaime Vives Pinedo como presidente de Coljuegos tras conocerse que obtuvo un título de posgrado en apenas dos meses en la Universidad del Magdalena, cursando solo una de las materias del programa, segun revelo La Silla Vacia. La representante Jennifer Pedraza había denunciado el caso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-pide-renuncia-presidente-coljuegos-jaime-vives-ED43625472",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Vives Pinedo",
+        "Jennifer Pedraza",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Coljuegos / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3121,
+      "titulo": "Fiscalía investiga a Petro por escándalo de 'sexocontratos'",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-12",
+      "descripcion": "Una mujer acusó al expresidente Gustavo Petro de haberle conseguido contratos con el Estado a cambio de favores sexuales, escándalo conocido como 'sexocontratos'. La BBC detalla que las autoridades colombianas adelantan investigaciones sobre la presunta implicación del exmandatario en el caso.",
+      "evidencia": "Reportado por BBC News",
+      "fuentes": [
+        {
+          "nombre": "BBC News",
+          "url": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31"
+    },
+    {
+      "id": 3120,
+      "titulo": "Gobierno reporta 251 logros, 47.873 capturas y siete bombardeos en 100 días",
+      "categoria": "seguridad",
+      "fecha": "2026-11-15",
+      "descripcion": "El gobierno de Abelardo de la Espriella presentó el balance oficial de sus primeros 100 días, reportando 251 logros de gestión, 47.873 capturas realizadas y la ejecución de siete bombardeos contra grupos armados en el periodo.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTV8yQWZJWDVyZWxEU0VSNTR5Q2I1RXNxX0lyX21GMFBCQlU0Yl94VExsQldHdzhYRmJMdmU0bjE0c3NDREdvOHRLbWRWTHR6Rjh5S21TY3dpU0FpV2hzVjJsUlR4UE9NT3M0SXQ0anR2LWVsZG9xUExFQ01wQ2ZvbWZrMlFzcEg2aFZBdmYtd3RQOF9ITk05ZU5R?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3119,
+      "titulo": "MinDefensa confirma nueve bombardeos en balance de seguridad de 100 días",
+      "categoria": "seguridad",
+      "fecha": "2026-11-15",
+      "descripcion": "El Ministerio de Defensa presentó el balance de seguridad de los primeros 100 días del gobierno de Abelardo de la Espriella, confirmando la ejecución de nueve bombardeos contra estructuras de grupos armados como parte de las operaciones militares del periodo.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3VKNHAyenBFcG9fbDgtbFRsVGk0ZE1tS3NPa0czaURuZlUza1UzOEVPaEdfcHl6X0hVa0Y2VnVpemRvMWJmanFWUlhuZEFraW8zQlV6cE9lUmJRT0RBN3J0a24yVlVsM1gzYTRKcmJVaWZVM1VIaFp5dlVFbUlsX1lpNktVbUJpaUtMbzJiemUtYndQQWIwRklHWHZ3SjQzZUhjajkwY3NJMXM2bGxYM2FKZjhFVDTSAbcBQVVfeXFMTUg1Tk1lS3NFZVJRVkdXWnVGZjg3RWgyNE1ZTE5jbFlkaVlkWHlOd2hQN1RQaVY1a3pNSHRQLXR4Nmk3OFgtYzFRUnZhN2NfVFZBWlJid0pYMjVxSGtBbl9uZERrM0lRZ3VueUkydkdEMjA1MWRVUUdtRFJCSFVkb3NvbV9pN3VtVENxY0hnTVNGSWNwWG1EYzRoeWxFTUxSYXdYcVNIZTFQQnhtTmp5YTBqRVlhZnRv?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3118,
+      "titulo": "INPEC reporta traslado de 2.568 reclusos en los primeros 100 días de gobierno",
+      "categoria": "seguridad",
+      "fecha": "2026-11-15",
+      "descripcion": "Durante los primeros 100 días del gobierno de Abelardo de la Espriella se han trasladado 2.568 reclusos dentro del sistema penitenciario, como parte de las medidas de control carcelario implementadas por el Instituto Nacional Penitenciario y Carcelario (INPEC).",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJjdk9zZGkyczk1S1d6dDJURTFoM3BzVk5seTgtc2FjR25Td1NNQ1VCNnQxUTZGWl9GQ1h0YjlYS3RFdlRVRm85WFBvOEhmNlNXT1FOUWkyWE00RWhYbXZtUEszSHd3aDVBSl9abnJ1bmlvMVNQNF80dm41ckxFUjNLUGczWi14NDcyRzMyay1FazhRM0N5RGRFN1dNdUEtamhpTzN4QnhtWUd5d0Y1Tk1uaF9HbVdVeDM5UG5RMldRcHFSbm9J0gHbAUFVX3lxTFB1T1dSWFh3amlsbUdwaFBQRDF2azdkSkpFWVNtNm5BOTBzUDVYcmdiVS1rWmU0cmxxS0NHaXoxNE1yVXdIRkJOSzd5RXFaanF5UEhwU01KMHp4d2pfSkFpTGtUd1FEOGptTnlwR1pHR2lENmFoenB3VVJ4bXNhUFd3QWd1S0FORHdFRWgwLS1wNUFYRUIzYU5FRGNUeHRxVWRJV2J3Zkt0WFNnTVJKYV9zUGpsSXRjbWE2TUo3VnVIeTVwNTJfVmRLMlpONi1iOTc1TnY2eDltZnBhRQ?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "INPEC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3117,
+      "titulo": "JEP propone que comparecientes participen en reconstrucción tras terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-15",
+      "descripcion": "La Jurisdicción Especial para la Paz (JEP) propuso al Gobierno Nacional que personas comparecientes ante ese tribunal de justicia transicional participen en labores de reconstrucción de las zonas afectadas por el terremoto de magnitud 7,4 del pasado 10 de agosto, como parte de sanciones restaurativas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaWstQWJ5bWp6cXdoY2VQV2RZS0gzR2hhSGpMOUZPZHRDcHdWMEtGRTFSdlN1RTl3M2ZCeTNWS0trMmlsMmg4Z040SnpoVE5KTGFkeVMycEVMdmRGV3NabmNZNFNtZ1p4NGhLSE94UmxLaVd2enNWZ3NkRUlSaDdVM01mejl6WUhCVUpyRUxpSUl1cXJRZGlyS0dtbmIzcGlXODVtRXRLcVo1SHEtOHdhQXZrbktmV3EwM0tQZ1hwc3N4WGhhZm1PclIzTkozWHRpS1pkZkdR0gHbAUFVX3lxTE9MZHRVMTFVUk5nYzZoT0otUFNGem9zV0EwVmlsX2tIc29fTHpZbVRpRmVlNWFDT0g5U3o3UUdJVHZVOFBNbGpWT0hHSzJEYi1fb2ptLU9hTW9KVnJkVV83MC1yVTk4VzlOdlVrNFpKYkxqM2xOal9qU0NmSmZiMjAyOUpoRld6RmswQVpJWUUwSGg1MkpTRmlUOTVXUFJTc25lTlcwOC1UWnR1OVZaUTlteHhKM3puRVd0ZGJBMVV4ZFVwSllqNEpxQVg1RUNQSUltT3BpYm9vZk82cw?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Jurisdiccion Especial para la Paz (JEP)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3116,
+      "titulo": "Mininterior reporta ahorro de $103.000 millones por eliminación de 557 contratos en 100 días",
+      "categoria": "transparencia",
+      "fecha": "2026-11-15",
+      "descripcion": "En el balance de los primeros 100 días del gobierno de Abelardo de la Espriella, el Ministerio del Interior reportó la eliminación de 557 contratos como parte de su política de austeridad, lo que representó ahorros por $103.000 millones para el Estado.",
+      "evidencia": "Reportado por Alternativa Caribe",
+      "fuentes": [
+        {
+          "nombre": "Alternativa Caribe",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcHplYjNsTzgtSy1lWHVPMnViWTZ4NFRLUDJPT3R1dDR3ZEhvbGlpMVRjN2lIeENUWEJhbFQxZzR6RzBucnFwZm9JS2NqUVB6eFlzeFJqU21DTV92X2dyc3BoaGJLbUpWc25fQklKRDRvbGFxNV94SkdTV1Bxby1tOHotZjNVNnkxRlFjeXpJMk92aXdtbTZaU25QLWNtZG9PR1pYSnAyTHo1Z2puM3ZucEV6VzJQZFo0V1JoXy1xaWtMcE80TFRYV00ta1ptclNTejB1clJaSm02RklFb3cxS1U0Q0NIdEpxUlRYdkhqdUM2XzZzWjlaV3o3V1d5b2lxUkxvbzl0YzA1NVdxQThyMGU2ajAwOWN5NjdGcQ?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3115,
+      "titulo": "Nuevo gerente del Fondo Milagro anuncia que trabajará sin salario",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-14",
+      "descripcion": "Luis Felipe Henao, designado como nuevo gerente del Fondo Milagro tras la renuncia de Jaime Andrés Uribe en medio del escándalo por salarios millonarios (hasta $765 millones mensuales en nómina), anunció que ejercerá el cargo ad honorem, es decir, sin remuneración, como gesto tras la polémica por el manejo de recursos de reconstrucción del terremoto del 10 de agosto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/luis-felipe-henao-asume-gratis-gerencia-fondo-milagro-ML43594901",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao",
+        "Jaime Andres Uribe",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-15 22:31",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
       "id": 3114,
       "titulo": "Plan de recuperacion por frente frio costara $7,71 billones y cubrira 778 municipios",
       "categoria": "gestion-emergencia",
@@ -72657,7 +73006,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-15",
-    "total_casos": 3025,
+    "total_casos": 3040,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
