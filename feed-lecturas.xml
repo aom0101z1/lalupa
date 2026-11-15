@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:55:07 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:26:31 -0000</lastBuildDate>
+    <item>
+      <title>Fallas de seguridad en apps creadas con Lovable exponen pasaportes y 200.000 mensajes privados</title>
+      <link>https://www.crissyfield.de/research/lovable-en/</link>
+      <guid isPermaLink="false">lalupa-lectura-653</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Una investigacion de seguridad encontro que aplicaciones construidas con la plataforma de IA Lovable dejaban expuestos datos de pasaportes y mas de 200.000 mensajes privados de usuarios. El hallazgo expone los riesgos de seguridad en las herramientas de 'vibe coding' que generan apps con IA sin revision humana. Por que leerlo: Es una advertencia directa para quien construye productos con herramientas de IA: la velocidad de generar codigo no reemplaza la seguridad. (Hacker News, 5 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>Cientificos capturan electrones haciendo saltos cuanticos 'imposibles' en grafeno</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261112025523.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-654</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un experimento registro electrones atravesando brechas de energia consideradas prohibidas en grafeno, con algunas transiciones ocurriendo con una probabilidad del 100%. El hallazgo ofrece una vista sin precedentes del comportamiento cuantico y podria habilitar una nueva generacion de electronica ultrarrapida controlada por luz. Por que leerlo: Es un avance de fisica fundamental que podria traducirse en chips y dispositivos electronicos mucho mas veloces en el futuro. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un lente cosmico permitira ver la misma supernova dos veces mas en los proximos 70 anos</title>
+      <link>https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html</link>
+      <guid isPermaLink="false">lalupa-lectura-655</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Gracias al lente gravitacional de un cumulo de galaxias y a imagenes de alta resolucion del telescopio James Webb, astronomos detectaron una supernova que exploto cuando el universo tenia 4.900 millones de anos. El estudio, publicado en arXiv el 23 de octubre, predice cuando llegaran las imagenes restantes y distorsionadas de la explosion, bautizada SN Ares. Por que leerlo: Entender como el lente gravitacional permite 'repetir' la observacion de un mismo evento cosmico es una de las ideas mas elegantes de la astrofisica actual. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Hallan en China algunas de las rocas mas antiguas de la Tierra, de 3.950 millones de anos</title>
+      <link>https://phys.org/news/2026-11-oldest-earth-early-history.html</link>
+      <guid isPermaLink="false">lalupa-lectura-656</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores descubrieron en el norte de China rocas de 3.950 millones de anos, entre las mas antiguas conocidas de un planeta que tiene unos 4.500 millones de anos de existencia. El hallazgo ofrece nuevas pistas sobre como se formo y evoluciono la corteza terrestre en sus primeras etapas. Por que leerlo: Pocas veces se encuentra evidencia directa de los primeros instantes geologicos del planeta, y este hallazgo reescribe parte de esa historia. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un plasma inestable logra calentarse a si mismo con las ondas que el mismo genera</title>
+      <link>https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html</link>
+      <guid isPermaLink="false">lalupa-lectura-657</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores en fusion nuclear observaron que un plasma inestable puede calentarse usando las ondas que el mismo produce, sin depender unicamente de energia inyectada desde el exterior para alcanzar temperaturas extremas. El hallazgo es relevante para la fusion, vista como fuente de energia limpia que no emite CO2 durante la generacion electrica. Por que leerlo: Es un paso tecnico concreto hacia la fusion comercial, una de las apuestas energeticas mas prometedoras del siglo. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El telescopio James Webb halla hielo mas antiguo que la estrella que orbita</title>
+      <link>https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/</link>
+      <guid isPermaLink="false">lalupa-lectura-658</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Observaciones del telescopio James Webb detectaron hielo en un sistema planetario que resulta ser mas antiguo que la propia estrella alrededor de la cual orbita. La radiacion y las colisiones van reconfigurando estos materiales de construccion planetaria con el paso del tiempo. Por que leerlo: Cuestiona la idea simple de que los planetas se forman solo con material tan viejo como su estrella, abriendo preguntas sobre el origen de los sistemas planetarios. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Uber confirma robo de licencias de conduccion de miles de conductores en filtracion de datos</title>
+      <link>https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
+      <guid isPermaLink="false">lalupa-lectura-659</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Uber confirmo que hackers robaron informacion de licencias de conduccion de miles de sus conductores. Los datos estaban almacenados por la empresa de nube de IA Fireworks AI, que sufrio el incidente de seguridad. Por que leerlo: Muestra los riesgos de delegar datos sensibles a proveedores externos de IA, algo clave para quien construye productos con estas herramientas. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un desarrollador recrea el modelo DeepSeek V3 en solo 200 lineas de codigo Jax</title>
+      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+      <guid isPermaLink="false">lalupa-lectura-660</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un proyecto de codigo abierto en GitHub implementa el modelo de lenguaje DeepSeek V3 en apenas 200 lineas usando el framework Jax, mostrando que es posible reproducir la arquitectura de un modelo de IA de punta con codigo minimo. El proyecto gano fuerte atencion en Hacker News. Por que leerlo: Util para quien quiere entender por dentro como funciona un modelo de IA moderno sin perderse en miles de lineas de codigo. (Hacker News, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El pigmento rojo de cinabrio de los mayas habria causado un colapso ecologico en sus reservas de agua</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/mayas-decoraron-sus-ciudades-pigmento-rojo-que-acabaron-provocando-colapso-ecologico-sus-reservas-agua</link>
+      <guid isPermaLink="false">lalupa-lectura-661</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Las ciudades mayas pintaban templos, palacios y ceramicas con cinabrio, un mineral de sulfuro de mercurio. La lluvia arrastro ese mercurio hacia los sistemas de almacenamiento de agua, contaminandolos y contribuyendo, segun arqueologos, al colapso de esas sociedades. Por que leerlo: Una leccion de historia economica sobre como una decision cultural puede desencadenar una crisis ambiental y social inesperada. (Xataka, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Procafecol reporta ganancias de $6.023 millones e ingresos crecen 13% a septiembre</title>
+      <link>https://www.larepublica.co/empresas/procafecol-reporto-ganancias-por-6-023-millones-e-ingresos-crecieron-13-a-septiembre-4525406</link>
+      <guid isPermaLink="false">lalupa-lectura-662</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La compañía cafetera colombiana Procafecol (dueña de Juan Valdez) registró ganancias de $6.023 millones y un crecimiento de ingresos del 13% hasta septiembre, impulsado por su negocio internacional, cuyas ventas consolidadas llegaron a US$40,5 millones con un alza del 29% en dólares. Por que leerlo: Ofrece cifras concretas sobre cómo una marca colombiana está escalando su operación internacional, útil para entender estrategias de expansión fuera del país. (La Republica, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Fallas tecnológicas en la Dian frenan despachos y encarecen el comercio exterior en Colombia</title>
+      <link>https://www.larepublica.co/economia/fallas-en-plataformas-de-la-dian-frenan-despachos-y-elevan-costos-del-comercio-exterior-4525392</link>
+      <guid isPermaLink="false">lalupa-lectura-663</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Problemas en las plataformas digitales de la Dian están retrasando despachos aduaneros en Colombia, lo que eleva los costos logísticos para importadores y exportadores. El gremio del comercio exterior pidió una reunión urgente con la entidad para identificar el origen técnico de las fallas. Por que leerlo: Es información práctica para cualquier emprendedor colombiano que importe o exporte y necesite anticipar riesgos operativos en su cadena de suministro. (La Republica, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Contrabando y subfacturación le cuestan a Argentina US$2.800 millones en ingresos fiscales</title>
+      <link>https://www.bloomberglinea.com/latinoamerica/argentina/contrabando-y-subfacturacion-de-importaciones-cuestan-a-argentina-us2800-millones-en-ingresos-fiscales/</link>
+      <guid isPermaLink="false">lalupa-lectura-664</guid>
+      <pubDate>Sun, 15 Nov 2026 02:26:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Argentina ocupa el puesto 120 de 158 países en un ranking de comercio ilícito sectorial, y las pérdidas fiscales por contrabando y subfacturación de importaciones muestran una tendencia al alza. El dato expone cómo la debilidad institucional erosiona la recaudación pese al potencial comercial del país. Por que leerlo: Muestra con cifras concretas cómo el contrabando y la subfacturación erosionan las finanzas públicas y la competitividad de un país grande de la región. (Bloomberg Linea, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Senales ocultas en el cerebro predicen el Alzheimer anos antes de los sintomas</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261112230444.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Fri, 13 Nov 2026 03:11:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>La neocloud Nebius planea financiar una expansion de infraestructura de IA por US$40.000 millones combinando pagos anticipados de clientes y deuda. Demoras en un centro de datos que construye para Microsoft generan dudas sobre la solidez de ese modelo de financiamiento. Por que leerlo: Expone los riesgos financieros detras del boom de infraestructura de IA, util para quien evalua invertir o construir en ese sector. (TechCrunch, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El agua de la Tierra pudo nacer del propio planeta, no de cometas helados</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261110042549.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-593</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos descubrieron que guijarros rocosos al reaccionar con hidrogeno bajo calor extremo pueden producir agua en cuestion de minutos, generando potencialmente cientos de 'oceanos' de agua durante la formacion de la Tierra. El hallazgo sugiere que el agua podria ser un subproducto natural de como se forman los planetas rocosos, y no algo traido despues por cometas o asteroides helados. Por que leerlo: Replantea una de las preguntas mas basicas sobre el origen de la vida y el agua en la Tierra y otros planetas. (ScienceDaily, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Teoria radical sugiere que el universo tiene el doble de edad de lo que se creia</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233040.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-594</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores de la Universidad de Ottawa proponen un modelo cosmologico donde el universo tendria 26.700 millones de anos, el doble de la edad estandar aceptada de 13.800 millones, y que podria explicar la rotacion de galaxias, la expansion cosmica y la formacion de elementos tempranos sin necesidad de materia oscura ni energia oscura. El equipo probo la teoria contra varias observaciones astronomicas clave. Por que leerlo: Una teoria que desafia dos de los pilares mas aceptados de la cosmologia moderna con evidencia contrastable. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>SoftBank pierde más de US$3.000 millones apostando por gas natural para centros de datos de IA</title>
-      <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
-      <guid isPermaLink="false">lalupa-lectura-595</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>SoftBank registró pérdidas superiores a 3.000 millones de dólares tras preordenar turbinas de gas natural destinadas a alimentar centros de datos de inteligencia artificial, una apuesta que no se concretó como esperaba. El caso expone con cifras concretas los límites financieros de la carrera energética que sostiene el crecimiento de la IA. Por que leerlo: Muestra con datos reales los riesgos financieros detrás de la infraestructura energética que necesita la industria de la IA. (TechCrunch, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Vulnerabilidad critica de ejecucion remota de codigo afecta a Apache HTTP Server</title>
-      <link>https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</link>
-      <guid isPermaLink="false">lalupa-lectura-596</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores de seguridad de Wiz identificaron la falla CVE-2026-119618, una vulnerabilidad critica de ejecucion remota de codigo (RCE) en Apache HTTP Server, uno de los servidores web mas usados del mundo. El hallazgo genero amplia discusion tecnica por el riesgo que representa para infraestructuras que dependen de este software. Por que leerlo: Para saber si su servidor web esta expuesto y necesita actualizar antes de sufrir un ataque. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Jensen Huang renuncia como CEO de Nvidia en medio de escándalo de infidelidad y espionaje</title>
-      <link>https://www.valoraanalitik.com/jensen-huang-renuncio-como-ceo-de-nvidia-por-escandalo-de-infidelidad-y-supuesto-espionaje/</link>
-      <guid isPermaLink="false">lalupa-lectura-597</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Jensen Huang dejó la dirección ejecutiva de Nvidia tras denuncias de una relación extramatrimonial y un presunto caso de espionaje corporativo. La acción se desplomó y la compañía perdió el umbral de los US$4 billones en capitalización bursátil, mientras Colette Kress asumió como CEO interina. Por que leerlo: Entender cómo un escándalo personal puede sacudir en horas a la empresa más valiosa del mundo y redefinir su liderazgo. (Valora Analitik, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>La fintech argentina Cocos levanta US$34 millones liderados por Kaszek y llega a valer US$508 millones</title>
-      <link>https://www.bloomberglinea.com/latinoamerica/argentina/de-us50000-a-valer-us508-millones-la-fintech-cocos-atrajo-al-fondo-que-aposto-por-nubank/</link>
-      <guid isPermaLink="false">lalupa-lectura-598</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Fundada por Nicolás Mindlin y Ariel Sbdar, Cocos cerró su primera ronda de inversión con Kaszek, el mismo fondo que apostó temprano por Nubank. La compañía, que nació con apenas US$50.000, usará el capital para fortalecer su banco digital en Argentina y expandirse a Brasil. Por que leerlo: Muestra cómo una fintech latinoamericana pequeña puede escalar rápido con el respaldo de un inversor que ya acertó con Nubank. (Bloomberg Linea, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>OpenAI elige a la argentina Aleph como socio publicitario exclusivo de ChatGPT en 44 mercados</title>
-      <link>https://www.bloomberglinea.com/latinoamerica/argentina/openai-eligio-a-la-argentina-aleph-para-vender-publicidad-en-chatgpt-negocio-millonario-y-wall-street/</link>
-      <guid isPermaLink="false">lalupa-lectura-599</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Aleph, la empresa fundada por Gastón Taratuta, proyecta facturar US$5.300 millones en 2026 y ahora venderá publicidad en ChatGPT como socio comercial exclusivo de OpenAI en 44 países. Taratuta habló de una nueva etapa de crecimiento y de una eventual salida a bolsa. Por que leerlo: Revela cómo una empresa latinoamericana se vuelve pieza clave en el modelo de negocio publicitario de la IA generativa más usada del mundo. (Bloomberg Linea, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>El agujero de ozono antartico crecio a su mayor tamano en una decada durante 2026</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261110042546.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-600</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El agujero de ozono sobre la Antartida se expandio hasta ser el septimo mas grande registrado, impulsado por condiciones climaticas inusuales que lo acercaron a su maximo historico. Los cientificos aseguran que las restricciones internacionales a los quimicos que destruyen el ozono evitaron un dano aun mayor y que la capa de ozono sigue en recuperacion. Por que leerlo: Un recordatorio con datos concretos de que la cooperacion regulatoria global si puede funcionar, aunque el clima complique los resultados. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La lluvia podria hacer que el oceano absorba mas carbono de lo calculado hasta ahora</title>
-      <link>https://phys.org/news/2026-11-ocean-carbon-uptake-thought.html</link>
-      <guid isPermaLink="false">lalupa-lectura-601</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Nuevos analisis sugieren que los presupuestos globales de carbono subestiman la absorcion oceanica entre un 5% y un 15%, porque los modelos actuales no consideran bien el efecto de la lluvia sobre la superficie marina. El hallazgo podria obligar a ajustar las cuentas que rastrean el flujo de carbono entre atmosfera, oceano y tierra. Por que leerlo: Un ajuste de cifras que podria cambiar como se calculan los presupuestos de carbono usados para disenar politicas climaticas. (Phys.org, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Rayos de electrones ofrecen un metodo mas seguro para esterilizar moscas que atacan al ganado</title>
-      <link>https://phys.org/news/2026-11-electron-advance-safer-sterilization-method.html</link>
-      <guid isPermaLink="false">lalupa-lectura-602</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos de Texas A&amp;M lograron resultados iniciales positivos usando tecnologia de haz de electrones (eBeam) para la tecnica del insecto esteril contra la mosca del gusano barrenador del Nuevo Mundo, una plaga que amenaza al ganado. El metodo podria ofrecer una alternativa mas segura que la irradiacion tradicional usada para controlar esta plaga. Por que leerlo: El gusano barrenador ya genera alertas en la ganaderia de America Latina, y esta tecnica podria ser clave para controlarlo con menos riesgo. (Phys.org, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El primer satélite propio de Anduril detecta maniobras enemigas en plena noche orbital</title>
-      <link>https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/</link>
-      <guid isPermaLink="false">lalupa-lectura-603</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Anduril presentó su primer satélite construido internamente, equipado con un sensor de alto rango dinámico capaz de ver objetos en completa oscuridad orbital. La compañía asegura que esta capacidad permite rastrear maniobras de satélites adversarios incluso cuando no reciben luz solar directa. Por que leerlo: Muestra cómo una startup de defensa privada está desarrollando capacidades de vigilancia espacial antes reservadas a gobiernos. (Ars Technica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>United Airlines prohíbe que agentes de IA reserven vuelos por riesgos de ciberseguridad</title>
-      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
-      <guid isPermaLink="false">lalupa-lectura-604</guid>
-      <pubDate>Thu, 12 Nov 2026 18:46:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>United Airlines anunció que bloqueará el uso de agentes autónomos de inteligencia artificial para reservar vuelos o gestionar reservas, citando riesgos de seguridad informática. La decisión se suma a la cautela creciente de empresas tradicionales frente a la automatización de transacciones sensibles mediante agentes de IA. Por que leerlo: Revela cómo las empresas frenan en la práctica la adopción de agentes de IA en operaciones con datos sensibles, pese al entusiasmo del sector. (TechCrunch, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

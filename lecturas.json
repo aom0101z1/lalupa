@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-14"
+    "ultima_actualizacion": "2026-11-15"
   },
   "lecturas": [
+    {
+      "id": 653,
+      "titulo": "Fallas de seguridad en apps creadas con Lovable exponen pasaportes y 200.000 mensajes privados",
+      "resumen": "Una investigacion de seguridad encontro que aplicaciones construidas con la plataforma de IA Lovable dejaban expuestos datos de pasaportes y mas de 200.000 mensajes privados de usuarios. El hallazgo expone los riesgos de seguridad en las herramientas de 'vibe coding' que generan apps con IA sin revision humana.",
+      "por_que_leerlo": "Es una advertencia directa para quien construye productos con herramientas de IA: la velocidad de generar codigo no reemplaza la seguridad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "seguridad",
+        "vibe coding",
+        "vulnerabilidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.crissyfield.de/research/lovable-en/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 9,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 654,
+      "titulo": "Cientificos capturan electrones haciendo saltos cuanticos 'imposibles' en grafeno",
+      "resumen": "Un experimento registro electrones atravesando brechas de energia consideradas prohibidas en grafeno, con algunas transiciones ocurriendo con una probabilidad del 100%. El hallazgo ofrece una vista sin precedentes del comportamiento cuantico y podria habilitar una nueva generacion de electronica ultrarrapida controlada por luz.",
+      "por_que_leerlo": "Es un avance de fisica fundamental que podria traducirse en chips y dispositivos electronicos mucho mas veloces en el futuro.",
+      "seccion": "tecnologia",
+      "tags": [
+        "grafeno",
+        "fisica cuantica",
+        "electronica",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 655,
+      "titulo": "Un lente cosmico permitira ver la misma supernova dos veces mas en los proximos 70 anos",
+      "resumen": "Gracias al lente gravitacional de un cumulo de galaxias y a imagenes de alta resolucion del telescopio James Webb, astronomos detectaron una supernova que exploto cuando el universo tenia 4.900 millones de anos. El estudio, publicado en arXiv el 23 de octubre, predice cuando llegaran las imagenes restantes y distorsionadas de la explosion, bautizada SN Ares.",
+      "por_que_leerlo": "Entender como el lente gravitacional permite 'repetir' la observacion de un mismo evento cosmico es una de las ideas mas elegantes de la astrofisica actual.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "supernova",
+        "james webb",
+        "lente gravitacional"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 656,
+      "titulo": "Hallan en China algunas de las rocas mas antiguas de la Tierra, de 3.950 millones de anos",
+      "resumen": "Investigadores descubrieron en el norte de China rocas de 3.950 millones de anos, entre las mas antiguas conocidas de un planeta que tiene unos 4.500 millones de anos de existencia. El hallazgo ofrece nuevas pistas sobre como se formo y evoluciono la corteza terrestre en sus primeras etapas.",
+      "por_que_leerlo": "Pocas veces se encuentra evidencia directa de los primeros instantes geologicos del planeta, y este hallazgo reescribe parte de esa historia.",
+      "seccion": "ciencia",
+      "tags": [
+        "geologia",
+        "china",
+        "corteza terrestre",
+        "historia de la tierra"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 657,
+      "titulo": "Un plasma inestable logra calentarse a si mismo con las ondas que el mismo genera",
+      "resumen": "Investigadores en fusion nuclear observaron que un plasma inestable puede calentarse usando las ondas que el mismo produce, sin depender unicamente de energia inyectada desde el exterior para alcanzar temperaturas extremas. El hallazgo es relevante para la fusion, vista como fuente de energia limpia que no emite CO2 durante la generacion electrica.",
+      "por_que_leerlo": "Es un paso tecnico concreto hacia la fusion comercial, una de las apuestas energeticas mas prometedoras del siglo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fusion nuclear",
+        "energia",
+        "plasma",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 658,
+      "titulo": "El telescopio James Webb halla hielo mas antiguo que la estrella que orbita",
+      "resumen": "Observaciones del telescopio James Webb detectaron hielo en un sistema planetario que resulta ser mas antiguo que la propia estrella alrededor de la cual orbita. La radiacion y las colisiones van reconfigurando estos materiales de construccion planetaria con el paso del tiempo.",
+      "por_que_leerlo": "Cuestiona la idea simple de que los planetas se forman solo con material tan viejo como su estrella, abriendo preguntas sobre el origen de los sistemas planetarios.",
+      "seccion": "ciencia",
+      "tags": [
+        "james webb",
+        "astronomia",
+        "formacion planetaria",
+        "hielo"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 659,
+      "titulo": "Uber confirma robo de licencias de conduccion de miles de conductores en filtracion de datos",
+      "resumen": "Uber confirmo que hackers robaron informacion de licencias de conduccion de miles de sus conductores. Los datos estaban almacenados por la empresa de nube de IA Fireworks AI, que sufrio el incidente de seguridad.",
+      "por_que_leerlo": "Muestra los riesgos de delegar datos sensibles a proveedores externos de IA, algo clave para quien construye productos con estas herramientas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "filtracion de datos",
+        "ia",
+        "uber"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 660,
+      "titulo": "Un desarrollador recrea el modelo DeepSeek V3 en solo 200 lineas de codigo Jax",
+      "resumen": "Un proyecto de codigo abierto en GitHub implementa el modelo de lenguaje DeepSeek V3 en apenas 200 lineas usando el framework Jax, mostrando que es posible reproducir la arquitectura de un modelo de IA de punta con codigo minimo. El proyecto gano fuerte atencion en Hacker News.",
+      "por_que_leerlo": "Util para quien quiere entender por dentro como funciona un modelo de IA moderno sin perderse en miles de lineas de codigo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "deepseek",
+        "codigo abierto",
+        "modelos de lenguaje"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 661,
+      "titulo": "El pigmento rojo de cinabrio de los mayas habria causado un colapso ecologico en sus reservas de agua",
+      "resumen": "Las ciudades mayas pintaban templos, palacios y ceramicas con cinabrio, un mineral de sulfuro de mercurio. La lluvia arrastro ese mercurio hacia los sistemas de almacenamiento de agua, contaminandolos y contribuyendo, segun arqueologos, al colapso de esas sociedades.",
+      "por_que_leerlo": "Una leccion de historia economica sobre como una decision cultural puede desencadenar una crisis ambiental y social inesperada.",
+      "seccion": "ciencia",
+      "tags": [
+        "arqueologia",
+        "mayas",
+        "contaminacion",
+        "colapso civilizaciones"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/mayas-decoraron-sus-ciudades-pigmento-rojo-que-acabaron-provocando-colapso-ecologico-sus-reservas-agua"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 662,
+      "titulo": "Procafecol reporta ganancias de $6.023 millones e ingresos crecen 13% a septiembre",
+      "resumen": "La compañía cafetera colombiana Procafecol (dueña de Juan Valdez) registró ganancias de $6.023 millones y un crecimiento de ingresos del 13% hasta septiembre, impulsado por su negocio internacional, cuyas ventas consolidadas llegaron a US$40,5 millones con un alza del 29% en dólares.",
+      "por_que_leerlo": "Ofrece cifras concretas sobre cómo una marca colombiana está escalando su operación internacional, útil para entender estrategias de expansión fuera del país.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "colombia",
+        "café",
+        "resultados financieros",
+        "expansión internacional"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/procafecol-reporto-ganancias-por-6-023-millones-e-ingresos-crecieron-13-a-septiembre-4525406"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 663,
+      "titulo": "Fallas tecnológicas en la Dian frenan despachos y encarecen el comercio exterior en Colombia",
+      "resumen": "Problemas en las plataformas digitales de la Dian están retrasando despachos aduaneros en Colombia, lo que eleva los costos logísticos para importadores y exportadores. El gremio del comercio exterior pidió una reunión urgente con la entidad para identificar el origen técnico de las fallas.",
+      "por_que_leerlo": "Es información práctica para cualquier emprendedor colombiano que importe o exporte y necesite anticipar riesgos operativos en su cadena de suministro.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "colombia",
+        "comercio exterior",
+        "dian",
+        "logística"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/fallas-en-plataformas-de-la-dian-frenan-despachos-y-elevan-costos-del-comercio-exterior-4525392"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-14",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
+    {
+      "id": 664,
+      "titulo": "Contrabando y subfacturación le cuestan a Argentina US$2.800 millones en ingresos fiscales",
+      "resumen": "Argentina ocupa el puesto 120 de 158 países en un ranking de comercio ilícito sectorial, y las pérdidas fiscales por contrabando y subfacturación de importaciones muestran una tendencia al alza. El dato expone cómo la debilidad institucional erosiona la recaudación pese al potencial comercial del país.",
+      "por_que_leerlo": "Muestra con cifras concretas cómo el contrabando y la subfacturación erosionan las finanzas públicas y la competitividad de un país grande de la región.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "argentina",
+        "contrabando",
+        "evasion fiscal",
+        "comercio"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/contrabando-y-subfacturacion-de-importaciones-cuestan-a-argentina-us2800-millones-en-ingresos-fiscales/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-13",
+      "added_date": "2026-11-15 02:26",
+      "auto_generated": true
+    },
     {
       "id": 641,
       "titulo": "Senales ocultas en el cerebro predicen el Alzheimer anos antes de los sintomas",
