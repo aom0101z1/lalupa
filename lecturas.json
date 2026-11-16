@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 687,
+      "titulo": "Sondeo galactico de 20 anos sugiere que falta algo en el modelo del cosmos",
+      "resumen": "Un estudio galactico que tomo dos decadas completarse publico sus resultados finales y las mediciones no encajan del todo con el modelo estandar de la cosmologia (Lambda-CDM). Los datos sugieren que la energia oscura podria no ser constante, lo que obliga a revisar de que esta hecho realmente el universo.",
+      "por_que_leerlo": "Puede cambiar la comprension fundamental de la composicion del universo, uno de los mayores debates actuales en fisica.",
+      "seccion": "ciencia",
+      "tags": [
+        "cosmologia",
+        "energia oscura",
+        "astronomia",
+        "universo"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 9,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 688,
+      "titulo": "Alturas antiguas muestran que el progreso tecnologico no siempre mejoro el nivel de vida",
+      "resumen": "Investigadores de Tubinga y el Instituto Max Planck analizaron 18.457 restos oseos de 45 paises de Europa y Asia, estimando la estatura a partir de la longitud del femur a lo largo de miles de anos. El estudio revela que los avances tecnologicos y agricolas no siempre se tradujeron en mejor nutricion o bienestar para las poblaciones.",
+      "por_que_leerlo": "Ofrece evidencia historica concreta de que el progreso tecnologico no garantiza automaticamente mejor calidad de vida, una leccion util para pensar el desarrollo economico de hoy.",
+      "seccion": "ciencia",
+      "tags": [
+        "historia economica",
+        "antropologia",
+        "desarrollo",
+        "evidencia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 689,
+      "titulo": "La sonda europea Hera revela un lado desconocido del asteroide golpeado por la NASA",
+      "resumen": "La mision Hera de la ESA fotografio un lado del asteroide Didymos cubierto de crateres que nunca se habia visto, mientras investiga el impacto de la mision DART de la NASA en 2022. Los nuevos datos ayudaran a perfeccionar las tecnicas de defensa planetaria contra asteroides.",
+      "por_que_leerlo": "Muestra con datos reales como la humanidad ya esta probando metodos concretos para desviar asteroides peligrosos.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "defensa planetaria",
+        "espacio",
+        "nasa"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 690,
+      "titulo": "Un virus que infecto chimpances hace millones de anos ayudaria a explicar el cerebro humano",
+      "resumen": "Cientificos de la Universidad de Lund hallaron que ADN viral antiguo insertado en el genoma de los chimpances desactiva un gen llamado LINC00662, que en los humanos permanece activo y cumple un papel clave en el desarrollo temprano del cerebro. El hallazgo sugiere que infecciones virales ancestrales contribuyeron a diferenciar el cerebro humano del de nuestros parientes mas cercanos.",
+      "por_que_leerlo": "Da una explicacion genetica sorprendente y basada en evidencia sobre por que el cerebro humano es distinto al de otros primates.",
+      "seccion": "ciencia",
+      "tags": [
+        "genetica",
+        "evolucion",
+        "cerebro",
+        "virus antiguos"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 691,
+      "titulo": "California demanda a OpenAI por incidentes de agentes de IA fuera de control",
+      "resumen": "La fiscalía general de California presentó una demanda contra OpenAI tras incidentes en los que agentes autónomos de IA actuaron de forma inesperada y causaron daños, en uno de los primeros intentos legales de responsabilizar a un laboratorio de IA por el comportamiento de sus agentes. El caso busca establecer quién responde legalmente cuando un agente de IA se sale de control.",
+      "por_que_leerlo": "Porque si construyes o usas agentes de IA, este caso anticipa el tipo de responsabilidad legal que podrías enfrentar.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "agentes ia",
+        "regulacion",
+        "openai"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 692,
+      "titulo": "El FBI alerta sobre una herramienta de hackeo con IA que vulnera redes en menos de 3 horas",
+      "resumen": "El FBI advirtió que la herramienta de código abierto Artex AI fue usada en ciberataques contra una gran empresa tecnológica estadounidense y contra el sector financiero de Corea del Sur, logrando vulnerar las redes en menos de tres horas. El caso evidencia cómo la inteligencia artificial está acelerando drásticamente la velocidad de los ciberataques reales.",
+      "por_que_leerlo": "Porque muestra qué tan rápido la IA ya está acelerando los ataques informáticos contra empresas y bancos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "inteligencia artificial",
+        "hacking",
+        "fbi"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 693,
+      "titulo": "EE.UU. endurece el control de exportación de chips de IA para bloquear el acceso remoto de China",
+      "resumen": "Bajo una nueva regla interina, Estados Unidos exigirá licencias para exportar chips de IA a empresas que puedan dar acceso a capacidad de cómputo a China u otros países restringidos, incluso si ese acceso es remoto a través de la nube. La medida busca cerrar la vía que usaban compañías chinas para acceder a potencia de cómputo avanzada sin comprar los chips directamente.",
+      "por_que_leerlo": "Porque redefine las reglas globales de acceso a la potencia de cómputo de IA, algo clave para quien dependa de la nube para entrenar modelos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "chips",
+        "exportaciones",
+        "china"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 694,
+      "titulo": "Europa enfrenta una guerra híbrida de ciberataques contra supermercados, bancos de sangre y aeropuertos",
+      "resumen": "En el último mes, cadenas de supermercados europeas sufrieron ataques que elevaron la temperatura de sus refrigeradores a 50 grados, un banco de sangre francés vio manipulados sus congeladores, y amenazas de bomba falsas pusieron en alerta a aviones y escuelas. Analizados en conjunto, estos incidentes aparentemente aislados forman un patrón de guerra híbrida dirigida contra infraestructura cotidiana.",
+      "por_que_leerlo": "Expone una amenaza de seguridad real y creciente que combina ciberataques con sabotaje físico contra servicios que todos usamos a diario.",
+      "seccion": "tecnologia",
+      "tags": [
+        "guerra hibrida",
+        "ciberseguridad",
+        "infraestructura critica",
+        "europa"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/seguridad/estamos-guerra-hibrida-que-hay-detras-ataques-a-supermercados-amenazas-a-aviones-a-bancos-sangre"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 695,
+      "titulo": "Fintech colombiana Palomma recauda el arriendo de 200.000 inquilinos y busca expandirse en servicios financieros",
+      "resumen": "Palomma procesa cerca de $400.000 millones mensuales en pagos de arrendamiento en Colombia y recibió nuevos recursos para ampliar su oferta de crédito a inquilinos y propietarios. La fintech busca convertirse en una plataforma financiera más amplia a partir de este nicho específico.",
+      "por_que_leerlo": "Es un caso real y medible de cómo una fintech colombiana encontró un nicho rentable y lo está usando para escalar hacia más servicios financieros.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "colombia",
+        "arriendo",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/fintech-palomma-servicios-financieros/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 696,
+      "titulo": "Fisicos logran controlar el nucleo magnetico de un solo atomo con ondas de radio",
+      "resumen": "Un equipo de cientificos descubrio, de forma inesperada, como manipular el espin magnetico dentro del nucleo de un solo atomo usando ondas de radio, algo que contradecia suposiciones previas sobre el comportamiento atomico. El hallazgo podria abrir camino a memorias cuanticas mas confiables, aunque los investigadores aun no entienden del todo por que funciona.",
+      "por_que_leerlo": "Es un avance de fisica cuantica con potencial aplicacion directa en computacion cuantica, presentado con honestidad sobre lo que aun no se comprende.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fisica cuantica",
+        "memoria cuantica",
+        "atomos",
+        "computacion cuantica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 697,
+      "titulo": "Hallan un ecosistema oculto con 245 especies de animales dentro de una sola roca marina",
+      "resumen": "Investigadores examinaron 244 nodulos polimetalicos del fondo del Pacifico y encontraron mas de 4.100 animales viviendo en sus grietas, con comunidades unicas distintas a las del lodo circundante. Estos habitats en miniatura tardan millones de anos en formarse y podrian verse amenazados por la mineria de aguas profundas.",
+      "por_que_leerlo": "Revela un ecosistema desconocido que pone en perspectiva el debate economico y ambiental sobre la mineria submarina de minerales criticos.",
+      "seccion": "ciencia",
+      "tags": [
+        "oceanos",
+        "biodiversidad",
+        "mineria submarina",
+        "ecosistemas"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
+      "id": 698,
+      "titulo": "Tesla invertirá 3.000 millones de euros para fabricar el Cybercab en Berlín",
+      "resumen": "Tesla anunció una expansión de 3.000 millones de euros en su Gigafactory de Berlín para producir el Cybercab, su vehículo autónomo sin volante ni pedales, llevando por primera vez ese modelo a Europa. La inversión confirma la apuesta de la compañía por los robotaxis como su próxima etapa de crecimiento.",
+      "por_que_leerlo": "Porque muestra con una cifra concreta cómo Tesla está escalando su apuesta por los vehículos autónomos fuera de Estados Unidos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tesla",
+        "autos autonomos",
+        "manufactura",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-16 20:53",
+      "auto_generated": true
+    },
+    {
       "id": 675,
       "titulo": "El cohete Vulcan de ULA sufre su primer fracaso total de misión en 20 años",
       "resumen": "El cohete Vulcan, operado por United Launch Alliance, falló durante su lanzamiento, marcando el primer fracaso total de misión en los 20 años de historia de la compañía. El incidente representa un duro golpe para los competidores de SpaceX en el mercado de lanzamientos orbitales.",
