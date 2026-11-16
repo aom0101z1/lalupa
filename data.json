@@ -221,6 +221,191 @@
   ],
   "casos": [
     {
+      "id": 3137,
+      "titulo": "Incautación de 1.000 kilos de cocaína camuflada en contenedor de café en Cartagena",
+      "categoria": "seguridad",
+      "fecha": "2026-11-16",
+      "descripcion": "La Policía Nacional, a través de la Dirección de Antinarcóticos (Diran), incautó 1.000 kilogramos de clorhidrato de cocaína (2,5 millones de dosis) ocultos entre sacos de café verde en un contenedor en el puerto de Cartagena. El cargamento procedía de Perú y tenía como destino Bélgica. El operativo se enmarca en la Estrategia Esmeralda contra el narcotráfico internacional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/cocaina-cafe-tonelada-cartagena-incautaron-policia-FC43635312",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3136,
+      "titulo": "Gobierno anuncia 'plan choque' ante aumento de ataques con drones en 16 departamentos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-15",
+      "descripcion": "El Gobierno De la Espriella presento un plan de choque para contrarrestar el aumento de ataques con drones en 16 departamentos del pais. Desde abril de 2024 se han documentado 708 ataques con estos dispositivos y el lanzamiento de aproximadamente 1.865 granadas, segun cifras oficiales.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/este-es-el-plan-choque-que-anuncio-el-gobierno-ante-el-aumento-de-ataques-con-drones-en-16-departamentos-3601313",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3135,
+      "titulo": "Informe acusa a Petro de ayudar a Maduro tras fraude electoral de 2024",
+      "categoria": "diplomaticos",
+      "fecha": "2026-11-15",
+      "descripcion": "Un informe de un think tank internacional acusa al expresidente Gustavo Petro de haber ayudado a reducir la presion internacional sobre Nicolas Maduro tras el fraude electoral de 2024 en Venezuela. Petro nego la acusacion y volvio a mencionar, sin sustento, un presunto fraude en las elecciones colombianas.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-responde-a-informe-que-lo-acusa-de-ayudar-a-maduro-tras-fraude-de-2024/",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Nicolas Maduro"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44"
+    },
+    {
+      "id": 3134,
+      "titulo": "MinHacienda presenta balance de 100 días y denuncia 'cuentas falsas' del gobierno anterior",
+      "categoria": "empalme",
+      "fecha": "2026-11-15",
+      "descripcion": "En el balance de los primeros 100 días de gobierno, el Ministerio de Hacienda afirmó haber asumido la tarea de 'rescatar la economía y destapar cuentas falsas' dejadas por el gobierno de Petro, como parte del proceso de empalme y ajuste fiscal del nuevo gobierno.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUGMzWlEzMWkyUG1ON3RfX1hiem1OZTdZV1JlZUpROUxNeWYwdlJsRllIUHVJaTAtbnB0d1NiblZ5MENBQW5fdlU4NnUtS3VId1Y0dXdkYnFDRlNHTDJ1V2Voajc0ZDZGZTk4QkNlUG1IRVU3UXd4dC00Wlh5MzJLMGdHSnlPdFQzMnZWb3dQSUV6Y3JPYUhSLWN4ZkhUaVpCQzlybnBuZHpMb18tcmI5RGlkZnhQNTYyenNNVnhsY2NPX0picTZDMkRrekI2c2NCemdieDQ1TE9wSHpmS2xBbTJmMkR4b2lrWmN3TXRGMGNtaVVNaWtsNDgzZ0JQOGN1ZURoMXVkZ9IBjAJBVV95cUxQUlYwdFNjZHM1N05NYXVSazFYWVJzVW1kQkRkcDdPdmRmNWg2c2FUZjBBR3liMFZLbm1zUzltOF9CNmlEWEplWkdXb0hSRXM3NjhnOFp0RWIyZUFUQmZzb01wUzNTbm1DX2pMaDh5ZXVkTkN4WG9FXy1MUHJkUGZkQ1dzd0RYdUNBTkxZVXdOMS0yY19TdmR0WkM3cU0xaW9wblJkLXNfMEtIS3N1S21RM05qdXBGMnQxaXNqUm9ucEZEOExyZVFkREt3MjJObnR0ZXpMYk5hLWYtZ3EyX0hUMm9fVnc3b1VXVk1OckN0OWt1c1A0QlhYOUZXTDZZSHc4V3d2NjJXSC1Hb0x4?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3133,
+      "titulo": "Observatorio Fiscal de la Javeriana alerta por partidas excluidas del Presupuesto 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-14",
+      "descripcion": "Según el Observatorio Fiscal de la Universidad Javeriana, al expedir por decreto el Presupuesto General de la Nación para 2027, el Gobierno De la Espriella dejó por fuera adiciones clave para salud, pensiones y educación, así como controles a fondos públicos, lo que genera preocupacion sobre la suficiencia de recursos en sectores sociales prioritarios para el proximo año fiscal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/partidas-clave-y-controles-a-fondos-publicos-que-quedaron-fuera-del-presupuesto-de-2027/",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Observatorio Fiscal Javeriana",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3132,
+      "titulo": "Alcalde de Manizales pide al Fondo Milagro diferenciar necesidades entre ciudades afectadas por el sismo",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-15",
+      "descripcion": "El alcalde de Manizales solicitó al Fondo Milagro establecer criterios diferenciados para la asignación de recursos de reconstrucción, argumentando que las necesidades de su ciudad difieren de las de Pereira, Cali o Chocó tras el sismo del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMldDTnhJWnZiVDVsa2Z1bkd2S0VKUkR2WjNVQ0hMUFJ1SndFOEJvYU5VWktuVVB0clp5em5vcTZlR3pERFlWNVBlX0tmRTVraERjMmZOcnBLQ0hjUG5IeUMwQmhjTDk1YU53WnZNbzVUSzltcWZmeS1JTkp6aEtJellhTEh3a0QtbjFjVDF5VXh1MzRrNlJDcTdaaXNTYVNQNktscDA4NG8zR1V6a3owVGVOMDB5RGZRZnVLemlsdE83b05nREFjdlBIT1V1X1Bi0gHkAUFVX3lxTFBpamFiZEVJRVJLVV9fdkY2YlRjeUFlTFFUN2dJc09TdFpXclZhbVhnZTQtcWFzTktfOGNpN0ZLSmRuV0NOTmE5YVJwdW9pYTJOc1NQQXg4WE9DbTUtdnZIcHVSMzRJcmlBeEZGSHpCdWtSYnE3SGl1ZzFRcEdyNUxpVVZXSXFHbFh0MDM2Tnk4MlhFNHhmZ1RueXB4N2JYak9lTWwyTHBSSnA4RE85b3hPS25SUnRMcnIzVU5tbjZKa0U4SVRIU2NvTGFGOXJHWVNINWFEMFQyeWlrcmtQT3kzc1RhbA?oc=5",
+          "fecha": "2026-11-15"
+        }
+      ],
+      "personas_involucradas": [
+        "Alcalde de Manizales"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 3131,
+      "titulo": "De la Espriella anuncia plan de austeridad de mas de $23 billones y descarta IVA a canasta familiar",
+      "categoria": "economia",
+      "fecha": "2026-11-16",
+      "descripcion": "En su alocucion por los 100 dias de gobierno, el presidente Abelardo de la Espriella presento un balance que incluye la atencion tras el terremoto, descarto gravar con IVA la canasta familiar y el sector financiero, y anuncio un plan de austeridad con recortes superiores a los $23 billones como parte de la Ley Fiscal de su gobierno.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/presidente-presenta-balance-de-sus-primeros-100-dias-de-gobierno",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3130,
+      "titulo": "Denuncian gastos excesivos en zonas de reubicacion de excombatientes durante gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-16",
+      "descripcion": "El gobierno de Abelardo de la Espriella denuncio gastos excesivos en las zonas de reubicacion de excombatientes y procesos de paz durante la administracion anterior, en el marco de la politica de Paz Total impulsada por Gustavo Petro. El senalamiento se suma a otros escandalos que salpican al gobierno saliente en materia de manejo de recursos publicos destinados a procesos de paz.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/nuevo-escandalo-salpica-al-gobierno-petro-con-procesos-de-paz",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la Republica / Proceso de Paz Total",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-16 04:44"
+    },
+    {
       "id": 3129,
       "titulo": "Autoridades judiciales investigan denuncia sobre plan para alterar elecciones presidenciales de 2026",
       "categoria": "abuso-poder",
@@ -73005,8 +73190,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-15",
-    "total_casos": 3040,
+    "ultima_actualizacion": "2026-11-16",
+    "total_casos": 3048,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
