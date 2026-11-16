@@ -221,6 +221,77 @@
   ],
   "casos": [
     {
+      "id": 3140,
+      "titulo": "Nueva central cafetera en Calarcá, Quindío, para recuperación tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-16",
+      "descripcion": "El Quindío contará con una nueva central de beneficio de café que será construida en el sector de La Bella, en Calarcá, como parte de un programa de recuperación de la infraestructura cafetera en los territorios afectados por el terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/quindio-tendra-una-nueva-central-cafetera-en-calarca/",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Nacional del Cafe / Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-16 14:49",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 3139,
+      "titulo": "Andrea Ramírez declara en nuevo proceso por 'cupos indicativos' ligado al caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-16",
+      "descripcion": "Andrea Ramírez, señalada como 'la intocable' en el escándalo de corrupción de la UNGRD, rindió declaración en otro proceso judicial relacionado con el manejo de 'cupos indicativos', ampliando el seguimiento a las ramificaciones del caso de sobornos a congresistas durante el gobierno Petro.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVDI2c1NjLWNONWk2bkFLNHI1SzJnUm8yUWpLckROVUpRMUNudWxYZ2ZWMWFISnNKcVZVVEFfS2FCblBVaFdLeF9pOWhnWkNCcVpfcVZOZFJVV2JKOUpsWHlJVTVka29jQWpzVWFGNWpiWHEzLWwyNmc1THB2bTFJWmtJaUFDS2JyUGtyX0lqV3RmNXNMSkRwa1pJMnZMazVrUldMZWMwb0xkeUdlU203Q1lWNlhHNnNkUGJUUmtWbkRCcEhMcUlnVUVRY3hqcFBpTUpr?oc=5",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrea Ramirez"
+      ],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-16 14:49"
+    },
+    {
+      "id": 3138,
+      "titulo": "Proponen subsidios directos a propietarios para acelerar reconstrucción de viviendas en Manizales",
+      "categoria": "dineros",
+      "fecha": "2026-11-16",
+      "descripcion": "Autoridades y actores locales en Manizales y otros municipios de Caldas plantean la entrega de subsidios directamente a los propietarios de viviendas afectadas por el terremoto del 10 de agosto como alternativa para acelerar el proceso de reconstrucción, ante la lentitud observada en los mecanismos actuales de asignación de recursos.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/proponen-subsidios-directos-para-acelerar-la-reconstruccion-de-viviendas-en-manizales/",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Manizales / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-16 14:49",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
       "id": 3137,
       "titulo": "Incautación de 1.000 kilos de cocaína camuflada en contenedor de café en Cartagena",
       "categoria": "seguridad",
@@ -73191,7 +73262,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-16",
-    "total_casos": 3048,
+    "total_casos": 3051,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
