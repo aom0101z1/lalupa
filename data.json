@@ -221,6 +221,467 @@
   ],
   "casos": [
     {
+      "id": 3173,
+      "titulo": "Destapan 'cartel de viáticos' en el Ejército Nacional",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-17",
+      "descripcion": "Se destapó un presunto 'cartel de viáticos' en el Ejército Nacional, en el que un capitán y seis sargentos habrían cobrado por viajes falsos durante 2025, en hechos ocurridos durante el gobierno Petro. El caso apunta a un posible fraude sistemático con recursos públicos destinados a desplazamientos militares.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/destapan-cartel-de-viaticos-en-el-ejercito-un-capitan-y-seis-sargentos-cobraron-por-viajes-falsos-en-2025/202624/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33"
+    },
+    {
+      "id": 3172,
+      "titulo": "PIB de Colombia crece 0,5% en el tercer trimestre de 2026",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El DANE reportó que el Producto Interno Bruto de Colombia creció 0,5% en el tercer trimestre de 2026 frente al mismo periodo de 2025, cifra que refleja el impacto del terremoto de agosto sobre la actividad económica durante los primeros meses del gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/el-pib-de-colombia-para-el-tercer-trimestre-crecio-05-respecto-al-mismo-periodo-del-2025/202628/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Administrativo Nacional de Estadistica (DANE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3171,
+      "titulo": "Policía destruye 180 equipos de minería ilegal en el Amazonas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "En el marco de la operación 'Amazonas Libre III Ticuna', la Policía Nacional destruyó 180 equipos de extracción usados en minería ilegal, afectando las finanzas criminales de las disidencias de las Farc en la región amazónica.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/policia-da-golpe-a-la-mineria-ilegal-en-el-amazonas-con-la-destruccion-de-180-equipos-de-extraccion-3601553",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3170,
+      "titulo": "FMI respalda reforma tributaria del gobierno De la Espriella tras consulta del Articulo IV",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El Fondo Monetario Internacional (FMI) emitio un pronunciamiento respaldando la reforma tributaria impulsada por el gobierno de Abelardo de la Espriella, luego de cerrar la consulta del Articulo IV sobre Colombia, con reuniones realizadas en Bogota entre el 3 y el 13 de noviembre de 2026. El diagnostico del organismo multilateral se suma a otros pronunciamientos internacionales favorables a la gestion economica del nuevo gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/relevante-fmi-se-pronuncia-tras-cerrar-consulta-del-articulo-iv-en-colombia-respalda-reforma-tributaria-del-gobierno/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Monetario Internacional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3169,
+      "titulo": "DNI habría intentado obtener censo electoral completo antes de primera vuelta presidencial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-17",
+      "descripcion": "La Direccion Nacional de Inteligencia (DNI), bajo el gobierno Petro, habria solicitado acceso a informacion detallada del censo electoral semanas antes de la primera vuelta presidencial del 31 de mayo de 2026, incluyendo cedulas, edades, genero, pertenencia a grupos poblacionales y puestos de votacion de los ciudadanos. La solicitud fue firmada por el entonces director encargado de la DNI, Rene Guarin. La revelacion se suma a denuncias previas sobre un plan en la DNI para alterar resultados electorales a favor de un candidato del Pacto Historico.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/rene-guarin-informacion-carta-dni-informacion-campana-registraduria-LE43652944",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Rene Guarin"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33"
+    },
+    {
+      "id": 3168,
+      "titulo": "Gobierno envía batallón al Huila y refuerza 12 estaciones de Policía tras ola de atentados con drones",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "Tras la escalada de ataques con drones en el Huila, incluido el ocurrido en El Pital, el presidente Abelardo de la Espriella anunció el envío de un batallón militar al departamento y el refuerzo de 12 estaciones de Policía como parte de un plan de choque contra los atentados.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGcySGptSFhBRjYwTzl3SFdzd3V4dFBUQ1dGMDBOOW9tWm1xMllpcFZrZG1kUlJ2SWpvNmxsbWV4Rm1uU2dudWtoNjJRNGdWVlRRd29fbHJBSlF2ZDFjOWx6WXJjT3BzMGxDWFJ4TUJQVjZMRERodjhYOG1rT1FsQ2lMMmpneEoya2FQVkdKTlMzV3VqOHhJaXExWHhGY2tCVktaNlhyYnBHeEhqdkVXRWoyeV93djNZRnhtX3VfYlV4dW9WQjBtbjJoZGExak1XMnJuUHpHQU9pTFZvN2NHNTJnTGlWX3ZvamJEbmNR0gGIAkFVX3lxTFAtT2t0UlFOcF9SNGVtTkxJMDBmZ3laaW5NQThBTEdBTFpzZHVKQjBTV1FJbHI0VHZiSzgtRjhSMXV0cFJhRWx1R2VkaFNfUHlsSlZIS0g1SjltYi1pa1dRckQwbXlNM09Fa0ZFcmQzMDlxUTJuTkdRVFVPT24ycTVobk11NUhRR2tGcUR0aVdiaUJGU2JvMkRhYWpEVk9lUC1zaWZBZ3lNcll2Zi1HTFlHdHRaRFNRWWRtOFpqOHZnSVFRd3dLTE5NTzk2Mm9tSnVRX2VYMWJqeWVVczdiT3NmZ0hadFpKRXJjVlFpbFRuc2hpRksxTDVjM1BEdFZvMUcyd2JWYmlMeQ?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3167,
+      "titulo": "De la Espriella cede en el IVA a los alimentos y abre puerta a modificar la Ley de Rescate Económico",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El presidente Abelardo de la Espriella cedió en su postura inicial sobre el IVA a los alimentos y abrió la posibilidad de modificar la Ley de Rescate Económico, que incluye la discutida venta de parte de Ecopetrol, tras presiones políticas y sindicales (USO) sobre el manejo fiscal del nuevo gobierno.",
+      "evidencia": "Reportado por Forbes Colombia",
+      "fuentes": [
+        {
+          "nombre": "Forbes Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUEFyaXRHSHlEaF92S1M5aWxDV1N0SEZDQUJpWDZtdHViX0dIT09Xa3gtdi1hZXhvcFJnUzR0VDFPeXdaWDI0UWtDeEVRSWFZa3gzSFFpckFDY256QmlrZEwtRFBBNktnQ3pka19vZkJmT3N3Ymc3MEtLLUlySjhLVjlTN3hlZkRKblhFSzhlUWJkRWpsNVo3SEI5N24yaUR1OGU4c0p3eXc1bkFyUlpqekxqQzVudWNiTFFiS01BRktyLXJDYkVXRHljbXJZa2hHQ1p2a3VxMkwwVjA?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3166,
+      "titulo": "MinAgricultura y Minerva Foods anuncian acuerdo para potenciar la ganadería colombiana en Milagro Week",
+      "categoria": "internacional",
+      "fecha": "2026-11-17",
+      "descripcion": "En el marco de la Milagro Week en Nueva York, el Ministerio de Agricultura anunció un acuerdo con la empresa brasileña Minerva Foods orientado a potenciar el desarrollo de la ganadería colombiana, como parte de la estrategia de atracción de inversión extranjera del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/milagro-week-ultimas-noticias-novedades-y-anuncios-sobre-la-inversion-del-gobierno-de-abelardo-de-la-espriella-en-nueva-york-3601567",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / Minerva Foods",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3165,
+      "titulo": "Gobierno propone unificar entrega de subsidios mediante transferencias",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El Gobierno nacional plantea unificar la entrega de los principales subsidios en Colombia a través de un esquema de transferencias, cambio que deberá ser aprobado mediante un proyecto de ley en el Congreso.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-quiere-unificar-la-entrega-de-importantes-subsidios-en-colombia-asi-serian-las-transferencias/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3164,
+      "titulo": "Más de 20 altos funcionarios salen del Gobierno en 100 días",
+      "categoria": "gabinete",
+      "fecha": "2026-11-17",
+      "descripcion": "Más de 20 altos funcionarios han dejado el Gobierno de Abelardo de la Espriella en sus primeros tres meses de mandato, incluyendo dos titulares de ministerios: Rodrigo Lara en Interior y Viviane Morales en Educación.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/mas-de-20-altos-funcionarios-han-salido-del-gobierno-en-tres-meses-de-mandato",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Rodrigo Lara",
+        "Viviane Morales"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3163,
+      "titulo": "Sin claridad sobre resultados de los $4,1 billones invertidos en Equipos Básicos de Salud del gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-17",
+      "descripcion": "El programa bandera de salud del gobierno Petro, los Equipos Básicos de Salud (EBS), está bajo revisión tras invertirse $8 billones en el cuatrienio, de los cuales $4,1 billones no tienen indicadores claros de resultados. La estrategia de atención primaria domiciliaria habría contribuido a desfinanciar el sistema de aseguramiento en salud.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/que-se-hicieron-4-1-billones-para-equipos-basicos-de-salud-gobierno-petro-PE43652962",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Ministerio de Salud",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33"
+    },
+    {
+      "id": 3162,
+      "titulo": "Entrega de vivienda nueva a damnificada en Chocó tras terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-17",
+      "descripcion": "Cruz María, damnificada del terremoto de agosto en Chocó, recibió una nueva vivienda como parte de los procesos de reconstrucción en la región, en un caso presentado como avance verificable de la gestión de ayudas a los afectados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/nunca-pierde-uno-la-fe-la-historia-de-cruz-maria-beneficiaria-de-una-nueva-vivienda-tras-terremoto-en-el-choco/202607/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Cruz Maria"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Comprobado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 3161,
+      "titulo": "Terremoto obliga a modificar POT en municipios de Risaralda",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-17",
+      "descripcion": "Autoridades de Risaralda anunciaron que el terremoto de agosto obligará a modificar los Planes de Ordenamiento Territorial (POT) de varios municipios del departamento, como parte del proceso de reconstrucción y adaptación urbana tras la emergencia.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV09vaEpvLWQzS0tpNUtpSU1NTHhUanNQanhVZEhMWU1NSEdlMEQtaXFMS1FwalRIaGJ4RS0zZEUzNDIwMzMyYU50eTdvYUEtUlhVUWh1YVMxRzBwVEFXUG9WTmhJUU9OczJHYlpnNWsxNDBOa1NueEFqMkZkZTJzdkhtUElHbkNJQWk4Wm0zLUh2TnVpRTRraEFsZjd5TmlvV2ZjS0EtOV8xb1HSAb8BQVVfeXFMTU1ITzFXYURlZ0NEb1Y2WEhWODd1Z0Y2c3E3alFtNXZfWU5FS0RLbXhMczIwOTBCOG5ZZDhWNzJrN1ptbFdOaWlLeGlWdmtCei0zbnhNRzlxVElmTHNteGRud0NtZVNQcnNSTm01ZjRadGY3TTd1N2UzWGZraDZ0eU5TNmItMmNYcks2ZWhzT2dfcXVCN095WGJ1b2FoRTZYbEhpcTlSYmNIcWNWekllWTRXTG13UUd3amduYlozSXM?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 3160,
+      "titulo": "Duvalier Sánchez responsabiliza al Gobierno por crisis del Fondo Milagro",
+      "categoria": "control",
+      "fecha": "2026-11-17",
+      "descripcion": "El dirigente Duvalier Sánchez responsabilizó al Gobierno nacional por la crisis que atraviesa el Fondo Milagro y cuestionó la gestión del presidente Abelardo de la Espriella en el manejo de los recursos para la reconstrucción tras el terremoto de agosto.",
+      "evidencia": "Reportado por Emisora Atlántico 1070 AM",
+      "fuentes": [
+        {
+          "nombre": "Emisora Atlántico 1070 AM",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSE01a0hmTDc0cEFINXBfLU1LWFA3TXpZYTNlLWI2SVZvSDJGS0pkM1ROa1FVWUc0NTFwb0VFLUg1RUpJQkpIN1hUZzNocU1NQkhEbURWTXh1ODJkVU1FcnlHdkxPMjJ2dkF0dWhFWVViaGhoMUpnYktGbmloMmFZSmNQV1J4dUV2eDZwYjlLQzZCSFlJa3VfQzVlRGRsV2luTUYyUXJLbXl0b2FHTUpQelFuRDVvUWtUTVpYRjJBSnFnekdnV1g4M29oMFJVbDB1SG8wSDlwa2lRMkdGcVZGTlZrTVpNdjhn0gHwAUFVX3lxTE9MOWdCaVVldU9xaWxTSWhaR2w1dVdEUnplWHpyb05NYnh4U3ZsNDBibTJwT25GNXZCcTYxUzIzOVJUSVdsb2FSUmwxSkdkOVVRc1FfbWdsQ1JNWDA1Y29yanpxUDBRdnNJT0hTMVJpNVRTbjVxZVBldEhGZkZUR19oTEFIRWw0a01vY0RTSWZHQmZKZmh2N3pqX1dFRjMxMndPYnFjMWlPb0ZiSWd5dTNEM3BxRTVxMk9mOUNJSUxCb05uM0pZREF3cDVoSmloSGVhVWFpOXRHOG9SQWJOM2hZdENhUkNhZUJYeDAwOHRFWg?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Duvalier Sánchez",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3159,
+      "titulo": "Senadora Norma Hurtado advierte lentitud en la reconstrucción tras el terremoto",
+      "categoria": "control",
+      "fecha": "2026-11-16",
+      "descripcion": "La senadora Norma Hurtado, presidenta de la Comisión Bicameral de 52 congresistas encargada de hacer seguimiento a la reconstrucción tras el terremoto del 10 de agosto, reconoció que los damnificados aún esperan respuestas concretas sobre cómo y cuándo llegarán las ayudas, señalando que el proceso no avanza al ritmo esperado por ciudadanos y autoridades locales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gente-esta-avida-de-respuestas-sobre-reconstruccion-terremoto-en-colombia-senadora-norma-hurtado-AE43651089",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Norma Hurtado"
+      ],
+      "entidad": "Congreso de la Republica / Comision Bicameral para la Reconstruccion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3158,
+      "titulo": "USO pide revisar ley de Rescate Económico y rechaza venta de parte de Ecopetrol",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "La Unión Sindical Obrera (USO) solicitó al gobierno de Abelardo de la Espriella revisar la ley de Rescate Económico, rechazando la propuesta incluida en la norma de vender una parte de las acciones de Ecopetrol como mecanismo de financiación fiscal.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQjlILWVqQ0hfaTdzQlVVam9DcHY5OFBpWXJxX0hqanVUX2h5d3JRdWN0VlF4ZzZmS0duZGl1djFtU0o5M1htSm1zTE5KVTVfa0xSOFNRN3FLV0prMUtFam1jWm9MaDdvb3p2dzJqMUxWLU5rWEotZ3g5VEdnWi1SQnFISUdpdXh0OHZrOF9GSUJ5VUlfdDRUMkNKWnQxbGVXS0wzTDR6TG1nZ1ZKUWx5U0oxZ3dQX3h3QWFPSGx1M0tDemZGbHo3cm9TRUFnSmZZUXJVcnJFUFVDX0xSbHNrQU53ZFpnZ2JFZUFNal9adVoxUW44VVhsbElOS2nSAZcCQVVfeXFMTXg2SjI2T1p2YUR4RWFkRTBJbDZ5NERoVDJicHA3dExYY2xYYVpuaFdtTmZwWW4yd2ZZZTRETzhwU05aT2p4Z1lwVXYxMHBpbDJhbEg1MTJ6T2d3ZVoxMUtsRFpNUDVaeU1Ham1BWWpaM3VrajBhQVJTOHBrQWVYQVNtbnhRSDRVVUhLVzE1dE9MWVd5MF9LZWEyNVRESGRBY04tU3QxSHhkRXg1MEoxUEZKWk9oUnZZNlhycXQ4WERaNkQ4VjFzdmFFWjFKSktqdFNTOVpRc29UeDhNZHVLUFZFay1saUVHMF9naGhhQmxtalJ0NUFCTXlEa3FaYlBhVzRfcXN1TkpxT1NYZFc1YkVQMUpXd3RR?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Union Sindical Obrera (USO) / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3157,
+      "titulo": "Gobierno revela identidad de cabecilla de disidencias de 'Calarcá' abatido en bombardeo de agosto",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "En su balance de 100 días, el presidente Abelardo de la Espriella reveló la identidad de un cabecilla de las disidencias de alias 'Calarcá' que murió durante la operación Amón, ejecutada en agosto en el departamento de Guaviare mediante un bombardeo de las Fuerzas Militares.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-cabecilla-de-las-disidencias-de-calarca-cuya-muerte-en-un-bombardeo-revelo-abelardo-de-la-espriella-quien-es-3601588",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3156,
+      "titulo": "Departamento de Estado de EE.UU. destaca decomiso de 4,7 toneladas de cocaína del Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "El Departamento de Estado de Estados Unidos celebró públicamente los resultados contra la criminalidad logrados en colaboración con el gobierno de Abelardo de la Espriella, resaltando el decomiso de 4,7 toneladas de cocaína del Clan del Golfo gracias al trabajo conjunto con la Oficina de Asuntos Internacionales de Narcóticos y Aplicación de la Ley (INL).",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/17/departamento-de-estado-de-los-ee-uu-celebro-resultados-contra-la-criminalidad-gracias-a-su-colaboracion-con-el-gobierno-de-abelardo-de-la-espriella-estamos-golpeando-a-los-narcoterroristas-donde-mas-les-duele/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento de Estado de EE.UU. / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3155,
+      "titulo": "Cinco altos funcionarios del gobierno Petro siguen sin ir a juicio en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-17",
+      "descripcion": "Más de dos años después del estallido del escándalo de corrupción en la UNGRD, cinco de los funcionarios y dirigentes políticos más cercanos al gobierno de Gustavo Petro continúan sin llegar a juicio, pese a que el expediente ya registra condenas, sanciones disciplinarias y medidas cautelares sobre bienes de otros implicados. El balance judicial evidencia demoras procesales en la Fiscalía para avanzar contra estos cinco señalados.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/caso-ungrd-principales-implicados-gobierno-petro-como-van-sus-procesos-fiscalia-DE43654689",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33"
+    },
+    {
+      "id": 3154,
+      "titulo": "Contraloría halla irregularidades por $9.000 millones en contrato de MinAgricultura para subsidios de vivienda rural",
+      "categoria": "contratos",
+      "fecha": "2026-11-17",
+      "descripcion": "La Contraloría General detectó presuntas irregularidades por $9.000 millones en un contrato suscrito en 2025 con el Consorcio Audiviv para auditar subsidios de vivienda rural entregados por el Banco Agrario entre 2000 y 2017 durante el gobierno Petro. El ente de control encontró fotos repetidas y coordenadas sospechosas que comprometerían la totalidad de los recursos del contrato, abriendo investigación fiscal, penal y disciplinaria.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/contraloria-detecto-irregularidades-por-mas-de-9-000-millones-en-contrato-de-vivienda-rural-4526236",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloria General de la Republica / Ministerio de Agricultura",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 15:33"
+    },
+    {
       "id": 3153,
       "titulo": "Ataque con dron contra estación de Policía en El Pital, Huila",
       "categoria": "seguridad",
@@ -73561,7 +74022,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-17",
-    "total_casos": 3064,
+    "total_casos": 3084,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
