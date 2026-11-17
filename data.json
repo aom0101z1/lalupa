@@ -221,6 +221,305 @@
   ],
   "casos": [
     {
+      "id": 3153,
+      "titulo": "Ataque con dron contra estación de Policía en El Pital, Huila",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "Un ataque con dron explosivo impactó una estación de Policía en El Pital, Huila, cayendo sobre una imagen de la Virgen, en el contexto del aumento de ataques con drones contra la Fuerza Pública en el país que ha llevado al gobierno a anunciar un plan de choque.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/ataque-con-dron-contra-estacion-de-policia-en-el-pital-huila-explosivo-cayo-sobre-la-imagen-de-la-virgen/202641/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3152,
+      "titulo": "Banco Mundial respalda agenda económica de Colombia en Milagro Week",
+      "categoria": "internacional",
+      "fecha": "2026-11-17",
+      "descripcion": "El Banco Mundial ratificó su respaldo a Colombia y destacó la agenda económica presentada por el gobierno durante la Milagro Week realizada en Nueva York entre el 16 y 19 de noviembre de 2026.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/banco-mundial-ratifica-su-respaldo-a-colombia-y-destaca-la-agenda-economica-presentada-durante-milagro-week/202644/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Vicepresidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3151,
+      "titulo": "Petro publica certificados sobre ausencia de procesos penales en Estados Unidos",
+      "categoria": "mentiras",
+      "fecha": "2026-11-17",
+      "descripcion": "El expresidente Gustavo Petro difundió cuatro certificados de tribunales federales de Florida, Nueva York y Texas, emitidos en noviembre de 2026, que según él demuestran que no tiene procesos penales ni civiles abiertos en Estados Unidos, en medio de señalamientos sobre posibles vínculos con actividades ilegales.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/17/gustavo-petro-publico-cuatro-certificados-con-los-que-busco-demostrar-que-no-tiene-procesos-penales-en-estados-unidos-por-ningun-delito/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37"
+    },
+    {
+      "id": 3150,
+      "titulo": "Aeropuerto de Barranquilla estrena nueva sala internacional",
+      "categoria": "obras",
+      "fecha": "2026-11-16",
+      "descripcion": "El Aeropuerto Ernesto Cortissoz de Barranquilla inauguró una nueva sala internacional y zona de inmigración, con la participación del presidente Abelardo De la Espriella en la presentación de las obras, el 16 de noviembre de 2026.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/regiones/aeropuerto-de-barranquilla-ernesto-cortissoz-estreno-una-nueva-sala-internacional-y-zona-de-inmigracion-506466",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Aeropuerto Ernesto Cortissoz",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3149,
+      "titulo": "Gobierno prohíbe café importado en entidades estatales",
+      "categoria": "economia",
+      "fecha": "2026-11-16",
+      "descripcion": "El presidente Abelardo De la Espriella firmó una medida que prohíbe el uso de café importado en compras públicas de entidades estatales, buscando respaldar a los caficultores nacionales, aunque persisten dudas sobre costos y beneficios reales para el sector.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/agro/abelardo-de-la-espriella-prohibe-el-cafe-importado-en-entidades-estatales-y-reabre-debate-sobre-compras-publicas-506334",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3148,
+      "titulo": "Terremoto de agosto habría restado hasta 0,8 puntos al crecimiento del PIB del tercer trimestre",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-16",
+      "descripcion": "Según datos citados por Portafolio, el terremoto de magnitud 7,4 ocurrido en agosto de 2026 habría restado hasta 0,8 puntos porcentuales al crecimiento del PIB colombiano en el tercer trimestre del año, afectando principalmente a los sectores de industria y construcción, con una recuperación limitada registrada en septiembre.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/terremoto-de-agosto-habria-restado-hasta-0-8-puntos-porcentuales-al-crecimiento-del-pib-del-tercer-trimestre-506287",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Administrativo Nacional de Estadistica (DANE) / Banco de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3147,
+      "titulo": "Avianca anuncia inversión de US$3.000 millones en el marco de la Milagro Week en Nueva York",
+      "categoria": "internacional",
+      "fecha": "2026-11-16",
+      "descripcion": "Durante la 'Milagro Week' realizada en Nueva York, Avianca, aerolínea oficial del evento, anunció una inversión de US$3.000 millones en Colombia y habilitó una operación especial de vuelos directos para facilitar la participación de delegados colombianos en la estrategia de atracción de inversión del gobierno.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/milagro-week-avianca-hara-millonaria-inversion-de-us3-000-millones-a-colombia-y-facilito-vuelos-directos-a-nueva-york/",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Vicepresidencia de la Republica / Avianca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3146,
+      "titulo": "Colombia y Japón reactivan diálogo para Acuerdo de Asociación Económica",
+      "categoria": "internacional",
+      "fecha": "2026-11-16",
+      "descripcion": "El ministro de Comercio, Industria y Turismo, Mauricio Gómez Amín, adelantó en Tokio reuniones con autoridades japonesas para reactivar las conversaciones hacia un Acuerdo de Asociación Económica (EPA) entre Colombia y Japón, como parte de la agenda internacional del nuevo gobierno.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/colombia-y-japon-reactivan-dialogo-para-acuerdo-de-asociacion-economica",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Gomez Amin"
+      ],
+      "entidad": "Ministerio de Comercio, Industria y Turismo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3145,
+      "titulo": "Gobierno lanza ofensiva en Nueva York para atraer inversión extranjera por US$41.000 millones",
+      "categoria": "economia",
+      "fecha": "2026-11-16",
+      "descripcion": "En el marco de la 'Semana Milagro' en Nueva York, el vicepresidente José Manuel Restrepo anunció una meta de atracción de inversiones por US$41.000 millones, con dos negocios preliminares ya concretados por US$3.400 millones. La estrategia busca fortalecer el PIB colombiano mediante capital extranjero.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/gobierno-comenzo-ofensiva-en-nueva-york-para-atraer-inversiones-por-us41000-billones",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3144,
+      "titulo": "Petro responde a acusación del presidente Noboa sobre encuentros con narcotraficantes",
+      "categoria": "mentiras",
+      "fecha": "2026-11-16",
+      "descripcion": "El presidente ecuatoriano Daniel Noboa acusó a Gustavo Petro de haber sostenido presuntos encuentros con narcotraficantes. Petro calificó la acusación como 'otra enorme calumnia' y la rechazó públicamente. No se han presentado pruebas formales ni se ha abierto investigación judicial sobre el señalamiento.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/gustavo-petro-rompio-el-silencio-frente-a-acusacion-de-noboa-por-presuntos-encuentros-con-narcotraficantes-otra-enorme-calumnia/202635/",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Daniel Noboa"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:36"
+    },
+    {
+      "id": 3143,
+      "titulo": "Alias 'Primo Gay' enviado a prisión tras legalización de captura",
+      "categoria": "seguridad",
+      "fecha": "2026-11-16",
+      "descripcion": "Néider Yesid Uñates López, alias 'Primo Gay', cabecilla que pasó de las disidencias de las Farc al Clan del Golfo, de 24 años, fue enviado a prisión tras la audiencia de legalización de captura en Antioquia. Es investigado por secuestros, homicidios y ataques armados. El caso avanza tras su reciente captura por el Ejercito Nacional, Policia Nacional y Fiscalia General de la Nacion.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/alias-primo-gay-fue-enviado-a-prision-lo-investigan-por-secuestros-homicidios-y-ataques-armados-en-antioquia-3601381",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [
+        "Nestor Yesid Uñates Lopez (Primo Gay)"
+      ],
+      "entidad": "Ejercito Nacional / Policia Nacional / Fiscalia General de la Nacion",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:36",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3142,
+      "titulo": "Contraloria mantiene advertencia de sobrecosto en compra de aviones Gripen",
+      "categoria": "contratos",
+      "fecha": "2026-11-16",
+      "descripcion": "La Contraloria General de la Republica mantuvo su advertencia sobre un presunto sobrecosto en la compra de los aviones de combate Gripen, pese a reconocer que no verifico el valor consignado en el contrato. El organismo de control no ha confirmado con precision la cifra del sobrecosto, pero insiste en el riesgo fiscal detectado en la negociacion.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZi1GeDNJdkF5YTRzbWtwMUlrdU04NTc0akxtbWpJTEJDYjl4ejlRbUFuZEt6ZGdaYmM1LUZnTk5DcGt1UXlQWXM4LXVtN3BGbC03aXM0QUdhZ3NlNVlrYW5SekxleDZuTGp3WkRrUXZRb2tGdldPX3RqcGQ5VFAxQlplNTBGWHNPai13Y1hZQm1ZSzcyQjdDekVENTVOWnNJeDBfVTZ4VmRMTEZGamdOOHFmdHdHNm9vNXdUd1RwTHpuSUlJbGZwSExpQ3JWc2xlUTRTTlRXZThiYkZtMTZ2T3Z6MVYwbEwzM1NfdTQ3OXpKSnRkdkZqX2F4R2F1Q25x0gGbAkFVX3lxTFBaME52Z2JYRnRSM3ZMc3JoWnIzbDkzb01KTzRiSjlEeHdCYk5mTFgtSF9vYVY3OWdtWm02MFlCRXJIZkwzNXIwek56VkxnTS1LWTVfTkplNWdwd1o5ZEw4aWRiSWEtSW5YRy1rZXJBR21rRzYzc1NyRm90LU0xNHdCOFI4clllbjBaeDZ3RWF3VUk2VXRmOXR3QUs5OVdNN2RtYW5WX0ZxaXVoRmFudFhTWTdCM2ZBRUxieURueksxSHdKSkZVaHVtUE1uUUc4SUFUTmhPb2dGVDFTVEEzYmdlX2Q4SWQtcWxwQy1PY3RDZnJQTXZsbWJSRXFaUGQ4OWhpbVpHRGY4dE4zQzJtTFFvQkpGVXZhbXRYVzg?oc=5",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloria General de la Republica / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:36"
+    },
+    {
+      "id": 3141,
+      "titulo": "Denuncian irregularidades en contratos del SIMIT por $45.800 millones",
+      "categoria": "contratos",
+      "fecha": "2026-11-16",
+      "descripcion": "Una denuncia presentada ante la Fiscalia General de la Nacion senala presuntas irregularidades en contratos por mas de $45.800 millones financiados con recursos de multas de transito administrados por el SIMIT. La denuncia alega conflictos de intereses, adjudicaciones directas y subcontrataciones entre empresas vinculadas entre si.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/denuncian-ante-la-fiscalia-presuntas-irregularidades-en-contratos-por-mas-de-45-800-millones-con-recursos-de-multas-de-transito-del-simit-3601370",
+          "fecha": "2026-11-16"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "SIMIT / Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-17 01:36"
+    },
+    {
       "id": 3140,
       "titulo": "Nueva central cafetera en Calarcá, Quindío, para recuperación tras el terremoto",
       "categoria": "avances",
@@ -73261,8 +73560,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-16",
-    "total_casos": 3051,
+    "ultima_actualizacion": "2026-11-17",
+    "total_casos": 3064,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
