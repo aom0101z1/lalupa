@@ -23,9 +23,284 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-16"
+    "ultima_actualizacion": "2026-11-17"
   },
   "lecturas": [
+    {
+      "id": 699,
+      "titulo": "Los centros de datos hiperescala ya consumen el 2% de la electricidad de EE.UU.",
+      "resumen": "Un nuevo estudio calcula el consumo energético y las emisiones de los grandes centros de datos operados por compañías como Amazon, Microsoft y Google, que en conjunto representan cerca del 2% de toda la electricidad consumida en Estados Unidos. El crecimiento de la demanda de cómputo para inteligencia artificial es el principal motor detrás de ese aumento.",
+      "por_que_leerlo": "Da una cifra concreta para entender el verdadero costo energético del boom de la inteligencia artificial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "centros de datos",
+        "energia",
+        "inteligencia artificial",
+        "consumo electrico"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 700,
+      "titulo": "Un ataque a Optimizely infecto con malware a sitios de Zoom y GitLab",
+      "resumen": "La plataforma de pruebas y personalizacion web Optimizely fue comprometida y usada para distribuir malware a visitantes de sitios de grandes marcas, incluidas Zoom y GitLab, segun una investigacion de seguridad independiente. El incidente expone los riesgos de los ataques a la cadena de suministro de software que convierten a un solo proveedor en vector de infeccion masiva.",
+      "por_que_leerlo": "Muestra como una sola herramienta de terceros comprometida puede convertir a empresas confiables en canal de infeccion para millones de usuarios.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "cadena de suministro",
+        "malware"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 701,
+      "titulo": "Estabilizar la economía no garantiza ganar elecciones, revela estudio de 44 programas",
+      "resumen": "Martín Tobal, director del Banco Central de México, analizó 44 programas de estabilización económica exitosos en el mundo y encontró que solo 17 de los gobiernos que los implementaron lograron ser reelegidos. El hallazgo cuestiona la idea de que el éxito macroeconómico se traduce automáticamente en respaldo político.",
+      "por_que_leerlo": "Ofrece evidencia concreta sobre la relación, más débil de lo que se cree, entre buenos resultados económicos y continuidad política.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "economia politica",
+        "estabilizacion",
+        "america latina",
+        "datos"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/advertencia-para-milei-el-dato-que-demuestra-que-estabilizar-la-economia-no-asegura-ganar-elecciones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 702,
+      "titulo": "Como crecieron tan rapido los primeros agujeros negros supermasivos del universo",
+      "resumen": "Un cuasar llamado J0313-1806, observado cuando el universo tenía menos de 700 millones de años, ya albergaba un agujero negro de unas 3.000 millones de masas solares. Nuevos modelos proponen que episodios caóticos de acreción de materia explicarían este crecimiento acelerado, un enigma que ha intrigado a los astrofísicos por dos décadas.",
+      "por_que_leerlo": "Explica con evidencia observacional una de las preguntas más difíciles de la cosmología moderna.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "cuasares",
+        "astrofisica",
+        "universo temprano"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-early-black-holes-grown-productive.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 703,
+      "titulo": "Voltear capas atomicas podria resolver el problema de calor en chips apilados",
+      "resumen": "Investigadores japoneses descubrieron que invertir la orientación de capas de materiales de solo unos átomos de grosor permite dirigir mejor el flujo de calor en procesadores apilados en 3D. El hallazgo podría ayudar a superar uno de los principales obstáculos para seguir aumentando la velocidad de los computadores mediante el apilamiento de chips.",
+      "por_que_leerlo": "Ofrece una pista concreta sobre cómo la industria de semiconductores podría superar el límite térmico del apilamiento de chips.",
+      "seccion": "tecnologia",
+      "tags": [
+        "semiconductores",
+        "chips",
+        "disipacion de calor",
+        "nanotecnologia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-flip-side-upside-atomic-layers.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 704,
+      "titulo": "Un amplificador cuantico de diamante a temperaturas ultra bajas multiplica senales 1.000 veces",
+      "resumen": "Científicos del instituto OIST en Japón crearon un amplificador de microondas basado en espines electrónicos en diamante que opera cerca del cero absoluto y aumenta señales más de 1.000 veces, añadiendo un ruido cercano al mínimo permitido por la física. El dispositivo es más robusto que las tecnologías actuales y podría usarse en sistemas de computación cuántica más exigentes.",
+      "por_que_leerlo": "Es un avance medible hacia hardware cuántico más práctico y resistente, clave para la próxima generación de computadores.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computacion cuantica",
+        "diamante",
+        "amplificador",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 705,
+      "titulo": "Startup de robots militares respaldada por Eric Trump no pago nomina y podria quebrar",
+      "resumen": "La empresa de robótica, que fabrica sistemas tipo 'robo-soldado', no logró pagar la nómina de sus empleados un año después de que su CEO usara fondos de la compañía para comprar una vivienda de lujo. El caso expone fallas graves de gobierno corporativo en una startup de defensa con respaldo político de alto perfil.",
+      "por_que_leerlo": "Es un caso de estudio sobre cómo el mal manejo financiero y la falta de controles pueden hundir a una startup pese a tener inversionistas influyentes.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "gobierno corporativo",
+        "defensa",
+        "fraude"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 706,
+      "titulo": "Los confinamientos por COVID-19 redujeron la actividad global de incendios en 12,3%",
+      "resumen": "Un analisis de datos satelitales encontro que durante los confinamientos por COVID-19 la actividad de incendios en el mundo cayo un 12,3%, revelando el peso real de la actividad humana en los patrones globales de fuego. El estudio ofrece una medicion cuantificada y poco comun del impacto directo de la actividad economica sobre el planeta.",
+      "por_que_leerlo": "Cuantifica con datos concretos cuanto influye la actividad humana en los incendios globales, algo que rara vez se mide con tanta precision.",
+      "seccion": "ciencia",
+      "tags": [
+        "incendios",
+        "clima",
+        "covid-19",
+        "datos satelitales"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 707,
+      "titulo": "Windows 11 recopila datos sobre que agentes de codigo e IA usan los desarrolladores",
+      "resumen": "Un analisis independiente revelo que Windows 11 envia a Microsoft telemetria detallada sobre el uso de herramientas de codificacion asistidas por IA y otros programas de desarrollo, sin que quede claro para el usuario que esta siendo monitoreado. El hallazgo genera dudas sobre la privacidad de los desarrolladores y el control que Microsoft ejerce sobre el ecosistema de herramientas de IA.",
+      "por_que_leerlo": "Alerta a quienes programan con asistentes de IA sobre que tanto vigila Microsoft sus herramientas de trabajo diario.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "windows",
+        "inteligencia artificial",
+        "desarrolladores"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 708,
+      "titulo": "Anthropic ya factura US$81.000 millones al año y se acerca al IPO como líder en IA",
+      "resumen": "Anthropic registró ingresos anualizados de US$81.000 millones al 31 de octubre, apenas seis años después de su fundación, y se perfila para convertirse en la acción de inteligencia artificial más relevante del mercado en medio de su próximo debut bursátil.",
+      "por_que_leerlo": "Muestra qué tan rápido puede escalar una startup de IA y qué métricas observar antes de una salida a bolsa.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "inteligencia artificial",
+        "inversion",
+        "ipo"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-esta-a-punto-de-convertirse-en-la-accion-de-ia-mas-importante-del-mundo-4525749"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-16",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 709,
+      "titulo": "Solé pone en marcha dos plantas solares en el Cesar y planea 16 para 2027",
+      "resumen": "La empresa Solé inauguró dos plantas solares en el departamento del Cesar con respaldo financiero de Skandia, y proyecta tener 16 minigranjas operando entre 2026 y 2027. Las 14 instalaciones restantes están en distintas etapas de construcción.",
+      "por_que_leerlo": "Muestra cómo se financia y escala paso a paso un proyecto de energía renovable en Colombia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia solar",
+        "colombia",
+        "inversion",
+        "renovables"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/sole-pone-en-marcha-dos-plantas-solares-en-el-cesar-y-proyecta-16-instalaciones-para-2027-con-millonaria-inversion-de-skandia/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
+    {
+      "id": 710,
+      "titulo": "Proyectos de infraestructura clave en Colombia se frenan por trámites ambientales",
+      "resumen": "Un informe de Corficolombiana identifica proyectos como Colectora y Sirius que enfrentan demoras por permisos ambientales, y propone un modelo de acuerdos claros para destrabar su avance.",
+      "por_que_leerlo": "Ayuda a dimensionar el riesgo regulatorio que enfrenta cualquier gran inversión en infraestructura en Colombia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "infraestructura",
+        "colombia",
+        "regulacion",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/estos-son-los-proyectos-clave-que-enfrentan-demoras-por-tramites-ambientales/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-15",
+      "added_date": "2026-11-17 05:01",
+      "auto_generated": true
+    },
     {
       "id": 687,
       "titulo": "Sondeo galactico de 20 anos sugiere que falta algo en el modelo del cosmos",

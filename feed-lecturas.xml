@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:53:42 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:01:06 -0000</lastBuildDate>
+    <item>
+      <title>Los centros de datos hiperescala ya consumen el 2% de la electricidad de EE.UU.</title>
+      <link>https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/</link>
+      <guid isPermaLink="false">lalupa-lectura-699</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un nuevo estudio calcula el consumo energético y las emisiones de los grandes centros de datos operados por compañías como Amazon, Microsoft y Google, que en conjunto representan cerca del 2% de toda la electricidad consumida en Estados Unidos. El crecimiento de la demanda de cómputo para inteligencia artificial es el principal motor detrás de ese aumento. Por que leerlo: Da una cifra concreta para entender el verdadero costo energético del boom de la inteligencia artificial. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un ataque a Optimizely infecto con malware a sitios de Zoom y GitLab</title>
+      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
+      <guid isPermaLink="false">lalupa-lectura-700</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>La plataforma de pruebas y personalizacion web Optimizely fue comprometida y usada para distribuir malware a visitantes de sitios de grandes marcas, incluidas Zoom y GitLab, segun una investigacion de seguridad independiente. El incidente expone los riesgos de los ataques a la cadena de suministro de software que convierten a un solo proveedor en vector de infeccion masiva. Por que leerlo: Muestra como una sola herramienta de terceros comprometida puede convertir a empresas confiables en canal de infeccion para millones de usuarios. (Hacker News, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Estabilizar la economía no garantiza ganar elecciones, revela estudio de 44 programas</title>
+      <link>https://www.bloomberglinea.com/latinoamerica/argentina/advertencia-para-milei-el-dato-que-demuestra-que-estabilizar-la-economia-no-asegura-ganar-elecciones/</link>
+      <guid isPermaLink="false">lalupa-lectura-701</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Martín Tobal, director del Banco Central de México, analizó 44 programas de estabilización económica exitosos en el mundo y encontró que solo 17 de los gobiernos que los implementaron lograron ser reelegidos. El hallazgo cuestiona la idea de que el éxito macroeconómico se traduce automáticamente en respaldo político. Por que leerlo: Ofrece evidencia concreta sobre la relación, más débil de lo que se cree, entre buenos resultados económicos y continuidad política. (Bloomberg Linea, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Como crecieron tan rapido los primeros agujeros negros supermasivos del universo</title>
+      <link>https://phys.org/news/2026-11-early-black-holes-grown-productive.html</link>
+      <guid isPermaLink="false">lalupa-lectura-702</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un cuasar llamado J0313-1806, observado cuando el universo tenía menos de 700 millones de años, ya albergaba un agujero negro de unas 3.000 millones de masas solares. Nuevos modelos proponen que episodios caóticos de acreción de materia explicarían este crecimiento acelerado, un enigma que ha intrigado a los astrofísicos por dos décadas. Por que leerlo: Explica con evidencia observacional una de las preguntas más difíciles de la cosmología moderna. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Voltear capas atomicas podria resolver el problema de calor en chips apilados</title>
+      <link>https://phys.org/news/2026-11-flip-side-upside-atomic-layers.html</link>
+      <guid isPermaLink="false">lalupa-lectura-703</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores japoneses descubrieron que invertir la orientación de capas de materiales de solo unos átomos de grosor permite dirigir mejor el flujo de calor en procesadores apilados en 3D. El hallazgo podría ayudar a superar uno de los principales obstáculos para seguir aumentando la velocidad de los computadores mediante el apilamiento de chips. Por que leerlo: Ofrece una pista concreta sobre cómo la industria de semiconductores podría superar el límite térmico del apilamiento de chips. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un amplificador cuantico de diamante a temperaturas ultra bajas multiplica senales 1.000 veces</title>
+      <link>https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html</link>
+      <guid isPermaLink="false">lalupa-lectura-704</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Científicos del instituto OIST en Japón crearon un amplificador de microondas basado en espines electrónicos en diamante que opera cerca del cero absoluto y aumenta señales más de 1.000 veces, añadiendo un ruido cercano al mínimo permitido por la física. El dispositivo es más robusto que las tecnologías actuales y podría usarse en sistemas de computación cuántica más exigentes. Por que leerlo: Es un avance medible hacia hardware cuántico más práctico y resistente, clave para la próxima generación de computadores. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Startup de robots militares respaldada por Eric Trump no pago nomina y podria quebrar</title>
+      <link>https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/</link>
+      <guid isPermaLink="false">lalupa-lectura-705</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La empresa de robótica, que fabrica sistemas tipo 'robo-soldado', no logró pagar la nómina de sus empleados un año después de que su CEO usara fondos de la compañía para comprar una vivienda de lujo. El caso expone fallas graves de gobierno corporativo en una startup de defensa con respaldo político de alto perfil. Por que leerlo: Es un caso de estudio sobre cómo el mal manejo financiero y la falta de controles pueden hundir a una startup pese a tener inversionistas influyentes. (Ars Technica, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Los confinamientos por COVID-19 redujeron la actividad global de incendios en 12,3%</title>
+      <link>https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/</link>
+      <guid isPermaLink="false">lalupa-lectura-706</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un analisis de datos satelitales encontro que durante los confinamientos por COVID-19 la actividad de incendios en el mundo cayo un 12,3%, revelando el peso real de la actividad humana en los patrones globales de fuego. El estudio ofrece una medicion cuantificada y poco comun del impacto directo de la actividad economica sobre el planeta. Por que leerlo: Cuantifica con datos concretos cuanto influye la actividad humana en los incendios globales, algo que rara vez se mide con tanta precision. (Ars Technica, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Windows 11 recopila datos sobre que agentes de codigo e IA usan los desarrolladores</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid isPermaLink="false">lalupa-lectura-707</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un analisis independiente revelo que Windows 11 envia a Microsoft telemetria detallada sobre el uso de herramientas de codificacion asistidas por IA y otros programas de desarrollo, sin que quede claro para el usuario que esta siendo monitoreado. El hallazgo genera dudas sobre la privacidad de los desarrolladores y el control que Microsoft ejerce sobre el ecosistema de herramientas de IA. Por que leerlo: Alerta a quienes programan con asistentes de IA sobre que tanto vigila Microsoft sus herramientas de trabajo diario. (Hacker News, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Anthropic ya factura US$81.000 millones al año y se acerca al IPO como líder en IA</title>
+      <link>https://www.larepublica.co/globoeconomia/anthropic-esta-a-punto-de-convertirse-en-la-accion-de-ia-mas-importante-del-mundo-4525749</link>
+      <guid isPermaLink="false">lalupa-lectura-708</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Anthropic registró ingresos anualizados de US$81.000 millones al 31 de octubre, apenas seis años después de su fundación, y se perfila para convertirse en la acción de inteligencia artificial más relevante del mercado en medio de su próximo debut bursátil. Por que leerlo: Muestra qué tan rápido puede escalar una startup de IA y qué métricas observar antes de una salida a bolsa. (La Republica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Solé pone en marcha dos plantas solares en el Cesar y planea 16 para 2027</title>
+      <link>https://www.valoraanalitik.com/sole-pone-en-marcha-dos-plantas-solares-en-el-cesar-y-proyecta-16-instalaciones-para-2027-con-millonaria-inversion-de-skandia/</link>
+      <guid isPermaLink="false">lalupa-lectura-709</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La empresa Solé inauguró dos plantas solares en el departamento del Cesar con respaldo financiero de Skandia, y proyecta tener 16 minigranjas operando entre 2026 y 2027. Las 14 instalaciones restantes están en distintas etapas de construcción. Por que leerlo: Muestra cómo se financia y escala paso a paso un proyecto de energía renovable en Colombia. (Valora Analitik, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Proyectos de infraestructura clave en Colombia se frenan por trámites ambientales</title>
+      <link>https://www.valoraanalitik.com/estos-son-los-proyectos-clave-que-enfrentan-demoras-por-tramites-ambientales/</link>
+      <guid isPermaLink="false">lalupa-lectura-710</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Un informe de Corficolombiana identifica proyectos como Colectora y Sirius que enfrentan demoras por permisos ambientales, y propone un modelo de acuerdos claros para destrabar su avance. Por que leerlo: Ayuda a dimensionar el riesgo regulatorio que enfrenta cualquier gran inversión en infraestructura en Colombia. (Valora Analitik, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Sondeo galactico de 20 anos sugiere que falta algo en el modelo del cosmos</title>
       <link>https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/</link>
@@ -390,102 +486,6 @@
       <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>La startup LangChain, conocida por su herramienta de gestion de agentes de inteligencia artificial LangSmith, alcanzo una valoracion de 3.000 millones de dolares. La compania asegura tener ya 7.000 clientes usando su plataforma, compatible con distintos modelos de IA. Por que leerlo: Muestra como las herramientas de infraestructura para agentes de IA se estan convirtiendo en un negocio multimillonario, util para quien construye productos con IA. (TechCrunch, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Estados Unidos paralizo todos los vuelos del pais por una falla de comunicaciones en el control aereo</title>
-      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
-      <guid isPermaLink="false">lalupa-lectura-643</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La FAA ordeno una parada total de vuelos en todo el espacio aereo de Estados Unidos tras problemas de comunicacion en varios centros de control de trafico aereo. La medida se levanto 4,5 horas despues, pero genero caos y una cobertura masiva, con mas de 1.600 puntos y 1.200 comentarios en Hacker News. Por que leerlo: Muestra que tan fragil puede ser la infraestructura critica de un pais cuando falla un sistema de comunicaciones clave. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>La energía solar ya genera más electricidad que todas las centrales nucleares del mundo combinadas</title>
-      <link>https://www.xataka.com/energia/energia-solar-produce-electricidad-que-todas-centrales-nucleares-mundo-juntas-cuando-hace-diez-anos-apenas-representaba-1</link>
-      <guid isPermaLink="false">lalupa-lectura-644</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Según el último informe de Ember, la energía solar pasó de representar apenas el 1% de la electricidad mundial hace una década a cerca del 10% hoy, superando a la generación nuclear global. El cofundador de Ember, Dave Jones, destaca lo acelerado de esta transición energética. Por que leerlo: Para entender hacia dónde se mueve la inversión energética global y qué implica para proyectos solares en Latinoamérica. (Xataka, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>China instala 27 espejos en una montaña para construir la presa más alta del mundo pese al frío extremo</title>
-      <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/para-construir-presa-alta-mundo-china-ha-colocado-27-espejos-montana-frio-extremo</link>
-      <guid isPermaLink="false">lalupa-lectura-645</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La central hidroeléctrica Shuangjiangkou se construye a 2.200 metros de altura con temperaturas invernales de hasta -20°C, por lo que los ingenieros colocaron 27 espejos gigantes para reflejar luz solar y calentar la zona de trabajo. La solución busca evitar que el frío extremo detenga el avance de una de las megaconstrucciones hidroeléctricas más ambiciosas del mundo. Por que leerlo: Es un ejemplo notable de ingeniería creativa para resolver un problema físico extremo en una megaobra. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un emulsionante alimentario comun podria resolver un viejo problema del combustible de cohetes</title>
-      <link>https://phys.org/news/2026-11-common-food-emulsifier-rocketry-oldest.html</link>
-      <guid isPermaLink="false">lalupa-lectura-646</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Los ingenieros de propulsion llevan decadas atrapados en el dilema entre combustibles solidos y liquidos, y los hibridos en gel han sido inestables. Investigadores descubrieron que un emulsionante comun usado en alimentos puede estabilizar estos geles, ofreciendo una solucion barata y practica. La tecnica podria simplificar el diseno de motores de cohetes de proxima generacion. Por que leerlo: Muestra como una solucion cotidiana e inesperada puede resolver un problema tecnico que ha frenado la innovacion aeroespacial durante decadas. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nuevo sensor molecular facilita detectar trazas invisibles de mercurio</title>
-      <link>https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html</link>
-      <guid isPermaLink="false">lalupa-lectura-647</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La contaminacion por mercurio es dificil de detectar a simple vista y normalmente requiere equipos de laboratorio costosos y personal especializado. Cientificos desarrollaron un sensor molecular capaz de revelar cantidades minimas de mercurio en agua o alimentos de forma mas simple y accesible. La herramienta podria facilitar el monitoreo ambiental y de seguridad alimentaria en zonas con pocos recursos. Por que leerlo: Presenta una tecnologia barata que podria democratizar la deteccion de un contaminante peligroso e invisible. (Phys.org, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Analisis de 46 craneos sugiere sacrificios humanos entre los primeros reyes de Egipto</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261112025540.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-648</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Cientificos reexaminaron 46 craneos de hace 5.000 anos y hallaron lesiones craneales potencialmente letales en 18 de ellos, un 39% de la muestra. El hallazgo respalda una teoria centenaria segun la cual sirvientes reales eran sacrificados cuando moria un faraon, posiblemente para servirle en el mas alla. Por que leerlo: Aporta evidencia forense concreta a una hipotesis arqueologica que llevaba un siglo sin confirmarse. (ScienceDaily, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Acusan a Nvidia de fabricar escasez de chips financiando a startups de IA para que los compren</title>
-      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-      <guid isPermaLink="false">lalupa-lectura-649</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Una investigacion periodistica senala que Nvidia habria financiado a startups de inteligencia artificial con la condicion implicita de que usaran ese dinero para comprar sus propias GPU, inflando la demanda y sosteniendo precios altos. El reporte genero fuerte debate, con mas de 900 puntos y 540 comentarios en Hacker News. Por que leerlo: Expone una practica de financiamiento circular que todo emprendedor de IA deberia entender antes de aceptar capital de un proveedor de infraestructura. (Hacker News, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Descubren una proteina que impulsa el envejecimiento sin causar inflamacion</title>
-      <link>https://www.nature.com/articles/d41586-026-03638-3</link>
-      <guid isPermaLink="false">lalupa-lectura-650</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores identificaron una proteina que contribuye al proceso de envejecimiento por una via distinta a la inflamacion cronica que normalmente se asocia con la vejez. El hallazgo, publicado en Nature, abre una ruta de estudio separada de las teorias inflamatorias dominantes sobre el envejecimiento. Por que leerlo: Presenta una pista cientifica nueva sobre los mecanismos del envejecimiento que podria orientar futuras terapias anti-edad. (Hacker News, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Nubank obtiene licencia para operar oficialmente como banco en Colombia</title>
-      <link>https://www.valoraanalitik.com/nubank-recibe-aval-para-convertirse-oficialmente-en-banco-asi-transformara-sus-operaciones/</link>
-      <guid isPermaLink="false">lalupa-lectura-651</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Nubank recibió una nueva autorización regulatoria que se suma a las tres licencias que ya poseía, lo que le permitirá operar formalmente como banco pleno. El cambio amplía el tipo de productos y operaciones financieras que puede ofrecer en el país. Por que leerlo: Revela cómo una de las fintechs más grandes de América Latina da el salto de operar con licencias limitadas a convertirse en banco completo, un movimiento clave para entender la evolución regulatoria del sector. (Valora Analitik, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Por qué el desplome petrolero no ha causado una crisis mayor en América Latina, según Goldman Sachs</title>
-      <link>https://www.bloomberglinea.com/mercados/por-que-el-petroleo-no-ha-provocado-una-crisis-economica-mayor-goldman-analiza-el-efecto-en-america-latina/</link>
-      <guid isPermaLink="false">lalupa-lectura-652</guid>
-      <pubDate>Sat, 14 Nov 2026 16:55:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Goldman Sachs explica que el choque en los precios del petróleo no ha generado el deterioro económico que se esperaba en América Latina, gracias a factores estructurales y medidas de contención en las economías de la región. El banco analiza qué variables explican esta resistencia inesperada frente a un escenario inicialmente más pesimista. Por que leerlo: Entender por qué la región resistió mejor de lo esperado ayuda a leer con más criterio los riesgos macro de invertir en América Latina. (Bloomberg Linea, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Una IA ayuda a descifrar los cuadernos secretos de Kurt Godel y revela cientos de teoremas</title>
-      <link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
-      <guid isPermaLink="false">lalupa-lectura-629</guid>
-      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores usaron inteligencia artificial para descifrar la taquigrafia Gabelsberger en la que Kurt Godel escribio miles de paginas de notas privadas, hallando cientos de teoremas matematicos que nunca publico. El hallazgo podria cambiar la comprension sobre el trabajo final del logico que revoluciono las matematicas en el siglo XX. Por que leerlo: Es un ejemplo concreto de como la IA esta abriendo archivos historicos cerrados durante decadas y reescribiendo la historia de la ciencia. (Hacker News, 6 min, interes 9/10)</description>
-    </item>
-    <item>
-      <title>Startup Drogue quiere alimentar centros de datos flotantes con el calor del oceano</title>
-      <link>https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/</link>
-      <guid isPermaLink="false">lalupa-lectura-630</guid>
-      <pubDate>Sat, 14 Nov 2026 02:58:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La startup Drogue desarrolla centros de datos montados en embarcaciones que funcionarian con energia termica oceanica. Su primer prototipo deberia estar operativo en el mar en menos de dos anos, y ya cuenta con respaldo de inversionistas. Por que leerlo: Es un ejemplo concreto de como innovar en energia para resolver el cuello de botella energetico de la IA. (TechCrunch, 3 min, interes 8/10)</description>
     </item>
   </channel>
 </rss>
