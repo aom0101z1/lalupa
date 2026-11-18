@@ -221,6 +221,507 @@
   ],
   "casos": [
     {
+      "id": 3244,
+      "titulo": "De la Espriella rechaza plan de Washington para operaciones conjuntas",
+      "categoria": "internacional",
+      "fecha": "2026-11-18",
+      "descripcion": "Segun reporte de The New York Times, el presidente Abelardo de la Espriella rechazo una propuesta de Washington para realizar operaciones conjuntas, debido a que no contaria con los votos suficientes en el Congreso colombiano para avanzar con dicha iniciativa.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/abelardo-rechaza-la-propuesta-de-washington-para-operaciones-conjuntas/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3243,
+      "titulo": "Gobierno presenta regimen RUGE de estabilidad tributaria a 16 anos",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Vicepresidente de la Republica presento el regimen RUGE, que promete reglas estables y tramites mas rapidos para atraer grandes inversiones, con una garantia de estabilidad tributaria de hasta 16 anos como parte de la agenda economica del gobierno De la Espriella.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-nacional-apuesta-por-reglas-estables-y-tramites-mas-rapidos-lo-que-propone-el-vicepresidente-506595",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Vicepresidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3242,
+      "titulo": "SAE busca convertir inmuebles en proyectos hoteleros en el Caribe",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) anuncio una estrategia para convertir inmuebles bajo su administracion en proyectos hoteleros mediante inversion privada en la region Caribe, buscando generar valor economico a traves de procesos de comercializacion de activos publicos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/la-sae-busca-convertir-inmuebles-bajo-su-administracion-en-proyectos-hoteleros-con-inversion-privada-en-el-caribe-506572",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3241,
+      "titulo": "Fenalcarbón pide ajuste gradual del impuesto al carbono en la Ley de Rescate Fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El gremio Fenalcarbón solicitó al Gobierno un incremento gradual del impuesto al carbono dentro del proyecto de Ley de Rescate Fiscal, advirtiendo que el aumento propuesto elevaría el tributo a más de $212.000 por tonelada de carbón en 2029, afectando los costos de la industria.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fenalcarbon-pide-al-gobierno-un-ajuste-gradual-del-impuesto-al-carbono-para-evitar-impacto-en-costos-de-la-industria/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fenalcarbon",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3240,
+      "titulo": "Ley de Rescate Económico proyecta ajuste fiscal de 4,7% del PIB para 2030",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El ministro de Hacienda, Miguel Gómez, ratificó que la Ley de Rescate Económico busca un ajuste fiscal cercano al 4,7% del PIB para 2030 y confirmó que no se modificará el IVA de la canasta básica, los agroinsumos ni los seguros de salud, en medio del debate legislativo de la reforma.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/la-ley-de-rescate-economico-busca-un-ajuste-fiscal-de-4-7-del-pib-para-2030-4527534",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gomez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3239,
+      "titulo": "Gobierno crea Consejo Nacional de Pagos con bancos y fintech",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Gobierno nacional, junto con bancos, cooperativas, fintech, franquicias y adquirentes, conformó el nuevo Consejo Nacional de Pagos, un espacio de diálogo para identificar necesidades del mercado financiero y proponer soluciones conjuntas en materia de pagos.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/bancos-fintech-y-gobierno-se-unen-en-el-nuevo-consejo-nacional-de-pagos-4527588",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3238,
+      "titulo": "Presunto terrorista muere al manipular explosivo destinado a peaje en Nariño",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "Un presunto terrorista murió en la madrugada del 18 de noviembre cuando el artefacto explosivo que intentaba instalar en el peaje El Contadero, en el municipio de Contadero (Nariño), le estalló en las manos. El hecho se enmarca en la ola de atentados con explosivos en vías del país.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/hombre-murio-explosion-bomba-peaje-narino-artefacto-explosivo-GE43746761",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3237,
+      "titulo": "Supernotariado denuncia irregularidades en venta de inmueble público en Cartagena",
+      "categoria": "contratos",
+      "fecha": "2026-11-18",
+      "descripcion": "La Superintendencia de Notariado y Registro denunció irregularidades en la venta de un inmueble público en Cartagena, abriendo interrogantes sobre el manejo de bienes estatales en la ciudad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/supernotariado-denuncio-irregularidades-en-la-venta-de-un-inmueble-publico-en-cartagena/202631/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Notariado y Registro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3236,
+      "titulo": "De la Espriella anuncia medidas para comerciantes afectados por incendio en El Gran San",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-18",
+      "descripcion": "El presidente Abelardo de la Espriella anunció medidas de apoyo para los comerciantes afectados por un incendio en el centro comercial El Gran San en Bogotá, pidiendo solidaridad ciudadana. El hecho constituye una emergencia distinta al terremoto de agosto.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSkpacDVtZC16bGFDZFJJRVZWY0ZxNjZ2eGlQaHpoaUwtZDlsbWtpTnVDaGJkMTVUSGJRdnJtQWVfXzNrTmlORHVXMm8wTDRUd2VSd0xVcklCOHNXT2NIa1UxaXBCVFlPUkYyQ2I5S3FZcmktb05NM1BTM0VDYlBORTI0MVhmQTZrQlR0NXF0SzBRdkpjNG1rQ1FvcHRlR0dFY2dMMnVqX3F3ZnNYel9aUmRZeS1Mb1NXeHIwM0QzZjZ5bUtVOHBfMFNwY0pHVVNOc0lIT282Yk13RDk4ZFAtcTdvMERYUlpSQ25XT0E5ZFE0WTRuX2otUk1TWTk3S29UOFhEb3pXdXlTMmV4ZUNpbDROZ2VGcE5pUHBF0gG2AkFVX3lxTE5WdVlQSDEzeGJBSGtHZGtvRzVjV0o2RUlVWmhfcGtwd1Z4X1dSeUVxVWY4T1VlNXl5WDhBei1najNsTGg3WVB4YUsxVWdnNFFVUmFfWFNtOGI5d1Vnek9pLTZURTVwd0hCQkZxNG95TTJBc2tyV2lVX3ZVWGxuaDNGR3J5dzltdGpwNnJTdFN2TzU4YndSajV2TmZpczVBZHJzbjVZQ0tPMWNmTlJtRTgtY2dUY0E3YWE0a2tzeHpSbk1CcHdaYlpYcGhlVGs0TnlDX3BBXzRzTmY1RG5fX2hBZ3dnRC1haS1NcjlTQXVpRlJZLU9feGdmblpIdG9ZWUhZTkp4VzN1ckt0Y2twYkVCSjBmREhiUU4xZ0gtcnowa0VLdWRacHRhbHFpVXVrUmVfbmZXQ0E?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3235,
+      "titulo": "Gobierno De la Espriella equilibra cooperación con Trump y acercamiento a demócratas tras los midterms",
+      "categoria": "internacional",
+      "fecha": "2026-11-18",
+      "descripcion": "Tras los resultados de las elecciones legislativas de medio término en Estados Unidos, el gobierno de De la Espriella refuerza la interlocución bipartidista con Washington, recibiendo en Bogotá a funcionarios de la Casa Blanca, en medio de posibles ajustes al gabinete relacionados con la relación bilateral.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cooperacion-con-trump-y-puentes-con-los-democratas-asi-navega-el-gobierno-de-de-la-espriella-la-relacion-con-estados-unidos-tras-los-midterms-3602111",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3234,
+      "titulo": "Escudo antidrones de $6,3 billones del gobierno Petro no pasó pruebas técnicas de las FF.MM.",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-18",
+      "descripcion": "Un documento del comité técnico del Proyecto Escudo Nacional Antidrones, consignado en el balance de gestión del sector Defensa 2022-2026, reveló que ninguno de los sistemas evaluados en Colombia y el exterior, por un valor de 6,3 billones de pesos, cumplió los requisitos operacionales de la Fuerza Pública, por lo que se recomendó no comprarlos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/escudo-antidrones-gobierno-petro-no-paso-evaluacion-tecnica-fuerzas-militares-CC43726163",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa (gobierno Petro)",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3233,
+      "titulo": "MinSalud denuncia retención ilegal de brigada médica en Vaupés",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Ministerio de Salud denunció la presunta retención de dos integrantes de una misión médica del Plan de Intervenciones Colectivas (PIC) de la ESE Hospital Antonio en el sector de San Gabriel de Yapú, Mitú (Vaupés), presuntamente por un grupo armado, mientras realizaban actividades extramurales de salud.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/minsalud-denuncia-retencion-dos-miembros-brigada-medica-grupo-armado-DF43752441",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3232,
+      "titulo": "Capturan en Caquetá a alias Bocalinda, señalado de fabricar 5.000 explosivos para disidencias de 'Calarcá'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "Las autoridades capturaron en Caquetá a alias 'Bocalinda', explosivista del Bloque Jorge Suárez Briceño de las disidencias de alias 'Calarcá', señalado de haber fabricado cerca de 5.000 explosivos, incluyendo granadas acondicionadas para ser lanzadas desde drones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-caqueta-a-alias-bocalinda-senalado-de-fabricar-5-000-explosivos-para-las-disidencias-de-calarca-3602061",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Bocalinda"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Ejercito Nacional",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3231,
+      "titulo": "Milagro Week en Nueva York supera meta de inversión con USD 43.000 millones en promesas",
+      "categoria": "internacional",
+      "fecha": "2026-11-18",
+      "descripcion": "El gobierno De la Espriella realizó en Nueva York su primera ronda de inversión internacional, denominada 'Milagro Week', en la que recibió promesas de inversión por USD 43.000 millones, superando ampliamente la meta inicial de USD 25.000 millones.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/asi-fue-la-milagro-week-show-ministros-y-una-meta-inversion-superada/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Ministerio de Comercio",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3230,
+      "titulo": "Gobierno plantea cobro personalizado del IVA que exima a los más pobres",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El ministro de Hacienda, Miguel Gómez, anunció que el gobierno De la Espriella estudia un mecanismo de cobro personalizado del IVA para que las personas de más bajos ingresos no paguen este impuesto, mientras confirmó que no habrá un aumento generalizado del IVA, aunque una nueva medida afectaría a quienes ganan más de $7 millones mensuales.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-quiere-aplicar-drastico-cambio-al-cobro-del-iva-en-colombia-seria-personalizado/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Miguel Gomez"
+      ],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3229,
+      "titulo": "Ministerio de Defensa presenta cifras oficiales de seguridad a 100 días del gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "El Ministerio de Defensa publicó las cifras oficiales de gestión en seguridad durante los primeros 100 días del gobierno de Abelardo de la Espriella, identificando los principales retos pendientes en la lucha contra grupos armados y el crimen organizado.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/asi-van-las-las-cifras-de-seguridad-del-gobierno-de-la-espriella-estos-son-los-retos-mas-grandes/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3228,
+      "titulo": "Contraloría destapa hallazgo de $9.000 millones por fotos y coordenadas repetidas en consultoría de vivienda del gobierno Petro",
+      "categoria": "contratos",
+      "fecha": "2026-11-17",
+      "descripcion": "La Contraloría General detectó irregularidades en una consultoría de $9.000 millones contratada durante el gobierno Petro para revisar subsidios de vivienda rural, la cual habría entregado miles de fotos y coordenadas repetidas como soporte de verificaciones en terreno, además de obras inconclusas pese al desembolso realizado.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdndRU1BkZGI5amxnQnI3QnRXTUVfcUYtcU9EVDY0Q3UxWVVOMjB1R3NqMEdkMmdRUXU4TFk3eDlPNVE3eEtBeGNiVWNyQ1RDWmZKVF9VWlBaOVJjM3RfU3FEMG0zYm4zNGxIR2NBMm9HRzFkQzhCeGJhMUFKSVRnUnV4Q1lndk5laFRUNTRrNkxHSnA1ZXVYc1pzMzdaT3pHYXVfWk9KUnVhSUZ6MDY5eTItNk8wc0MzRDdDcHhXb3RvMHNTX2FoQ1o5QldOUW1pTGZkMHJrY25GUUxJd3ctdVZ4V0hqM2RRejZ3LVFLYk0tQQ?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Contraloria General de la Republica / Ministerio de Agricultura",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3227,
+      "titulo": "Sandra Ortiz revela que Eva Ferrer se ofreció a ayudarla en el caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-17",
+      "descripcion": "Sandra Ortiz, investigada en el escándalo de corrupción de la UNGRD, reveló que Eva Ferrer se ofreció a ayudarla en el proceso que se adelanta en su contra, aportando un nuevo elemento a la investigación sobre el manejo irregular de recursos de la entidad durante el gobierno Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOenBuSnRwbVhHQ0ZiRWRzUm10Vmx3cWVGQjR3S0FNVFBkSm1LMVR1Y3diajM1Qm9JdUhzSU02VWNVd0EtajRhUUlIeGxyTHg1XzNyVFBGZ1o1Ni13SFkydEZSb0FSSzI2YkZTMmRJUm9HRHk4a3NzSXQxLTlkcGlWUnZ6d1BhQmZFUkpMSS1OY3BhQURnYU14ZnFBZXJlY1BEMWIwR3ctTWRZVUY5MW5uM0dBOUJfYkNpVkRmOTM2RVVSRTUtZTRZX0pVVy0yMWpEcVhqTG5WUDNkcHpnRS1VSUpwNTZIUWJWM09ib0RrdUZNdWZWM0FsUk1lQjJvTEZqOXJGeTdCY0NCR3PSAaYCQVVfeXFMTi1VM3FmaF96NzBCVTRLQjNNeVpKVDZLN3NmcjdZY3p0akJIQ2VGUnJnWV9UbEtfWl9LT2VINTFfNnMzQXAweWtob0FqSzRvd3BiRmFYOS1CU0VUamRjbDRnT2lkUGJaNGYxdzU0YnU1di1LR1lGUmR6eGNHNXpSRGQ4U0F0SWJYa0lJekdTOGxlVFdhd0lrMGk3SlNtdUhuNjVNQ1dCSjhVOVc0VC1QdmJNYUxSSlE5M3lhSVVzU0UzQng5eml1OTJGUVZjN1dzbDUtT0E2eTZfWTh5UEt2VFhwdGdSYl81eGN4RlZLaHgyODNVLWNTaDY4d29IODdSNnQ3NXNtUUZiRDk1WG1obHhrWWdxcXNRbi1XVHQ0UFhuYVVNcVh3?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz",
+        "Eva Ferrer"
+      ],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3226,
+      "titulo": "Congreso reparte más de 300 procesos contra el expresidente Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-18",
+      "descripcion": "El Congreso de la República repartió más de 300 procesos contra el expresidente Gustavo Petro, entre ellos la presunta violación de topes electorales por más de $5.000 millones, denuncias del excanciller Álvaro Leyva y el episodio conocido como el 'tarimazo'. Los casos quedaron en manos de dos de los principales críticos de la administración anterior en el Legislativo.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/el-congreso-repartio-mas-de-300-procesos-contra-el-expresidente-petro",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Alvaro Leyva"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3225,
+      "titulo": "Carlos Ríos amplía denuncia por 'sexocontratos' en el gobierno Petro",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-18",
+      "descripcion": "El director del Dapre, Carlos Ríos, amplió ante la Fiscalía su denuncia sobre los llamados 'sexocontratos' presuntamente otorgados durante el gobierno de Gustavo Petro, en los que se habrían intercambiado favores sexuales por contratos públicos.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTBqdzdRcl9jQnR1amN6ZlE3UjZ0Sk4yTkNnYnFIU21kaEx6dzV4MExsRHhjOVpRRkdJU3BBQmNTc1F1VEZtbEd4T2FBcXQ5TlpZb2dPem9NUUpNMVlYNWlCVl9PNHRKTVIxNWdvN3lsdk9mLVZFbVlfcVY3NzNwVEVnbTM0bHA2Q0dsLTBGOFd4ekwxaDNtb1praVZNZVJXaHV4UlZjallNYWpDWWZOai01MHZmNHROa2Vubmc3S3haVkxa?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Ríos"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre) / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3224,
+      "titulo": "Denuncian nombramientos de última hora en el gobierno Petro horas antes del cambio de mando",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-18",
+      "descripcion": "Una denuncia revela que 14 personas tomaron posesión de cargos públicos el 6 de agosto de 2026, horas antes de la toma de posesión de Abelardo de la Espriella, en lo que se señala como una práctica de nombramientos de última hora del gobierno saliente de Gustavo Petro.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/nombramientos-de-ultima-hora-denuncia-sobre-movimientos-del-gobierno-petro",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la Republica (Gustavo Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57"
+    },
+    {
+      "id": 3223,
+      "titulo": "De la Espriella denuncia ante la Fiscalía presuntas irregularidades por $119.000 millones en regalías de Barrancabermeja",
+      "categoria": "transparencia",
+      "fecha": "2026-11-18",
+      "descripcion": "El presidente Abelardo de la Espriella radicó ante la Fiscalía General una denuncia por presuntas irregularidades en el manejo de más de $119.000 millones de regalías en Barrancabermeja, Santander, como parte de un anunciado plan de lucha contra la corrupción. El alcalde Jonathan Vásquez respondió que demostrará el destino de los recursos. De la Espriella también anticipó que llevará ante la Fiscalía los casos de los 'sexocontratos' y presuntas irregularidades en la DNI.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/de-la-espriella-desde-la-fiscalia-denunciara-corrupcion-en-barranca-y-fraude-del-dni",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Jonathan Vásquez",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Alcaldia de Barrancabermeja",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 23:57",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3222,
       "titulo": "Jorge Enrique Gutiérrez asume como interventor de Nueva EPS",
       "categoria": "gabinete",
@@ -75159,7 +75660,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-18",
-    "total_casos": 3133,
+    "total_casos": 3155,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
