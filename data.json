@@ -221,6 +221,541 @@
   ],
   "casos": [
     {
+      "id": 3196,
+      "titulo": "Italika anuncia ensamblaje de motos en Barranquilla con cerca de 1.000 empleos",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El vicepresidente Jose Manuel Restrepo anunció que la empresa Italika, tras reunión con el empresario Ricardo Salinas, instalará una planta de ensamblaje de motocicletas en Barranquilla que generará cerca de 1.000 empleos.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/italika-llegara-a-barranquilla-para-ensamblar-motos-y-generar-cerca-de-1-000-empleos-4526797",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Manuel Restrepo",
+        "Ricardo Salinas"
+      ],
+      "entidad": "Vicepresidencia de la Republica / Italika",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3195,
+      "titulo": "AngloGold Ashanti confirma inversión de US$2.500 millones en mina de cobre Quebradona",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "AngloGold Ashanti confirmó una inversión de US$2.500 millones en el proyecto de cobre Quebradona, con una producción estimada de 80.000 toneladas y exportaciones cercanas a US$1.500 millones anuales, condicionado a la obtención de licencias ambientales.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/anglogold-confirmo-inversion-por-us-2-500-millones-en-la-mina-de-cobre-quebradona-4526786",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "AngloGold Ashanti / Ministerio de Minas y Energia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3194,
+      "titulo": "Secretario de Guerra de EE.UU. Pete Hegseth visita Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-11-17",
+      "descripcion": "El secretario de Guerra de Estados Unidos, Pete Hegseth, visitó Colombia para reunirse con el ministro de Defensa, Jorge Mora, y el comandante general de las Fuerzas Militares, general Erik Rodríguez, en el marco de la cooperación bilateral en seguridad.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-el-secretario-de-guerra-de-ee-uu-pete-hegseth-a-visitara-colombia-en-las-proximas-horas-3601792",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Pete Hegseth",
+        "Jorge Mora",
+        "Erik Rodríguez"
+      ],
+      "entidad": "Ministerio de Defensa / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3193,
+      "titulo": "Nombran a Natalia Abello Vives como presidenta del Grupo Bicentenario",
+      "categoria": "gabinete",
+      "fecha": "2026-11-17",
+      "descripcion": "La junta directiva del Grupo Bicentenario, holding financiero del Estado, aprobó el 30 de octubre de 2026 el nombramiento de Natalia Abello Vives como nueva presidenta, anunciado oficialmente el 17 de noviembre.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/grupo-bicentenario-designa-a-natalia-abello-vives-como-nueva-presidenta-del-holding-financiero-del-estado-506549",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Natalia Abello Vives"
+      ],
+      "entidad": "Grupo Bicentenario",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3192,
+      "titulo": "Gobierno anuncia medidas para destrabar proyectos mineros tras interés de inversión de Corex",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "Tras el anuncio de nuevas inversiones de Corex, dueña de Cerro Matoso, el Gobierno nacional presentó medidas para destrabar proyectos mineros, en lo que calificó como señal de recuperación de la confianza inversionista en el sector.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/cerro-matoso-prepara-nuevas-inversiones-en-colombia-gobierno-anuncia-medidas-para-destrabar-proyectos/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Restrepo"
+      ],
+      "entidad": "Ministerio de Minas y Energia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3191,
+      "titulo": "Gobierno elimina temporalmente aranceles a insumos agropecuarios",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El gobierno de De la Espriella anunció la eliminación de aranceles a insumos agropecuarios, con vigencia temporal de catorce meses, como medida para mitigar la volatilidad de precios internacionales que afecta al sector agrícola.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-busca-eliminar-aranceles-de-insumos-agropecuarios-para-mitigar-la-volatilidad-internacional/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Agricultura / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3190,
+      "titulo": "Comestibles La Rosa cierra fábrica en Dosquebradas por daños del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-17",
+      "descripcion": "Comestibles La Rosa, empresa de Nestlé, anunció el cierre de sus operaciones en su fábrica de Dosquebradas (Risaralda) tras el sismo del 10 de agosto, que dejó averías en el 70% de su infraestructura, la cual deberá ser demolida, afectando empleos y la economía local en la zona del terremoto.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/comestibles-la-rosa-suspendio-sus-operaciones-en-la-fabrica-de-dosquedabrasca-en-dosquebradas-4526394",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Comestibles La Rosa / Nestle",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 3189,
+      "titulo": "Creg amplía medidas regulatorias de energía ante llegada de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-17",
+      "descripcion": "La Comisión de Regulación de Energía y Gas (Creg) amplió sus medidas regulatorias para garantizar el suministro de energía ante la llegada del fenómeno de El Niño, que según la Noaa tiene 61% de probabilidad de extenderse hasta mayo de 2027.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/creg-amplia-medidas-regulatorias-para-el-suministro-de-energia-ante-la-llegada-de-el-nino-4526398",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Comision de Regulacion de Energia y Gas (Creg)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3188,
+      "titulo": "Aumentan homicidios en Atlántico en los primeros 100 días del gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "Atlántico registró 1.055 homicidios entre enero y octubre de 2026, un aumento frente al mismo periodo de 2025, pese a que el presidente Abelardo de la Espriella bautizó a Barranquilla como la 'capital alterna' del país y anunció enfoque en seguridad para la región.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/homicidios-cifra-atlantico-aumento-octubre-2026-PG43672973",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Policia Nacional / Alcaldia de Barranquilla",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3187,
+      "titulo": "Ejército reporta hallazgo diario de explosivos de disidencias de Farc en el Cañón del Micay",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "La Tercera División del Ejército reportó que en lo corrido de 2026 se han hallado y destruido de manera controlada 900 artefactos explosivos en el Cañón del Micay, Cauca, zona con presencia de disidencias de las Farc, a un promedio de tres explosivos diarios.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/explosivos-bombas-3-incautados-cada-dia-en-canon-del-micay-cauca-conflicto-terrorismo-farc-MJ43684338",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional (Tercera Division)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3186,
+      "titulo": "Consejo de Estado ordena a Petro retirar publicaciones sobre supuesto fraude electoral",
+      "categoria": "mentiras",
+      "fecha": "2026-11-17",
+      "descripcion": "El Consejo de Estado dio al expresidente Gustavo Petro cinco días para retirar de su cuenta de X publicaciones sobre un supuesto fraude en las elecciones presidenciales de 2026. El fallo de tutela, fechado el 30 de octubre, amparó los derechos a la honra y buen nombre del registrador nacional Hernán Penagos y de la Registraduría.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/consejo-de-estado-ordeno-gustavo-petro-retirar-fraude-electoral-DI43697040",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Hernan Penagos"
+      ],
+      "entidad": "Consejo de Estado / Registraduria Nacional",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35"
+    },
+    {
+      "id": 3185,
+      "titulo": "Alto funcionario de EE.UU. que lideró captura de Maduro confirma visita a Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-11-17",
+      "descripcion": "Un alto funcionario del gobierno de Estados Unidos que lideró las operaciones que derivaron en la captura del expresidente venezolano Nicolás Maduro confirmó su próxima visita a Colombia, en el marco de la cooperación bilateral en seguridad bajo el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mundo/noticias-estados-unidos/articulo/este-es-el-alto-funcionario-de-ee-uu-que-lidero-la-captura-de-maduro-y-confirmo-su-visita-a-colombia/202618/",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno de Estados Unidos / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3184,
+      "titulo": "Gobierno revela balance oficial del naufragio en La Guajira",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-17",
+      "descripcion": "El presidente Abelardo De la Espriella reveló el balance oficial del naufragio ocurrido en La Guajira, señalando que algunas personas aún permanecen desaparecidas. El hecho constituye una emergencia distinta al terremoto de agosto que el gobierno nacional está atendiendo.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTFJOaFNQOURLUEYyazJRcGhhbkFDN2lzNHlWX19ha1dNQlY1eXZBVDI5SXlnb3NSYlJYRXZJX2VHb19Hd09CdGNQNmZjc0NDamxHTHl6NjB2VDNWYjFTNnZBUWJvdWMtTXFvQ04xeHVuUUNHRDRtcnNFWjBpREVka2VLdDAzS0VxMnFpU2FLUEJXNmlLcGE1bkZJaGdxLWVIRnkwdDRrWTBua0pGYzdWREZMOXBSQVgyN2ZwLThRbU90eHA4Nmtxcm45ckJKNFV6OWVRLXZFTGl2V3RLcXUyTFk5Mi1Hc3pDcE1MS1ZEMUNBOVHSAfgBQVVfeXFMT1NxMHk5d3M5SWJ6U2s5QTB3Z25uWU5sY2hiR2lTVkQ0MlBBSVpZbU1aYjFOU25pZW5hUHZpaUZtek1mT0hoVngtdkY2LWhiV2NTQmdmV2sxUUFCOG16Ry1vUTJ4cTRjY0d5ZmY3eXprME1GWTE0Zk9mZ0xZTjh3ZGVQT2x4N0FPa3hsNG8yUnNXWUx0NDNJWEpWX052Q2dlTXdDbEJ2Y2FUN25NclpmcFlZdFltZ1ExY09TRXVGa3RKdlZyYllreXVVbEtqQ3JNVnZMWm04aFZ3cUdJcVY5RHlXeFhkVTNSeHpPdHhtMkxRN1BXYUo5c18?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3183,
+      "titulo": "Ministro Ordóñez posesiona equipo directivo del MinInterior",
+      "categoria": "gabinete",
+      "fecha": "2026-11-17",
+      "descripcion": "El ministro del Interior, Alejandro Ordoñez Maldonado, tomo juramento en Bogota a cuatro funcionarios que asumiran cargos clave en la cartera, entre ellos Maria Eugenia Carreño Gomez como nueva viceministra para el Dialogo Social y los Derechos Humanos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/ministro-ordonez-conforma-su-equipo-directivo-en-el-mininterior",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Ordoñez",
+        "Maria Eugenia Carreño Gomez"
+      ],
+      "entidad": "Ministerio del Interior",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3182,
+      "titulo": "MinHacienda fija fecha para primer debate de la Ley de Rescate Fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El Ministerio de Hacienda anuncio que el primer debate de la Ley de Rescate Fiscal se realizara el 1 de diciembre en el Congreso. El ministro destaco la necesidad de buscar nuevas fuentes de ingreso para compensar el ajuste que se elimino al retirar el IVA a la canasta familiar.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minhacienda-apunta-a-primer-debate-de-la-tributaria-para-el-1-de-diciembre-4526414",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3181,
+      "titulo": "Viuda de Miguel Uribe señala a Petro y Maduro por el magnicidio y pide a la Fiscalía establecer autoría intelectual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-17",
+      "descripcion": "María Claudia Tarazona, viuda del senador Miguel Uribe, señaló al expresidente Gustavo Petro y al líder venezolano Nicolás Maduro en relación con el magnicidio de su esposo, y pidió a la Fiscalía General de la Nación establecer quién ordenó el crimen.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNW8wbTVuUDBKMjhvTElxZHUxc2QyQzdrU202bEk4czRUbUFsajdiMFZpbjZGWmxFRl8yZzBTTThrc1g3YUstc3ZDclAyTEktRUR0WWV5cEpYV05zbFB6elBONDctSTNmT3NTZ2FjNjJRWUlIbkRaLXIxNWdVRm9hZUFrMExtNE9EV0VTX3pLeHJ4dGdidUlEZGpJcXBUa04ydVVrNklvbUtRZFhKQXFsSE5RS1BkNl9Ha1B5dUJWNnRocGJHWGFack0zbTQtMzRjSWVnS2RXLTVSRUJZRGItOW41UG9tT21aTlZNbnkxTG04U3JXX2pjS2RiQTBmLXA1M1c3dWlTdS1Jd9IBjwJBVV95cUxQYjE0cUhqSkRLWFdkdzlPT2Y2bzJ2ekJfcFNCLU9mY3NoRi10Z1BKNk11bTVFdHdRSnpNRW5ZNjFvVG1ZOHhadjViMnQxTlZ0YmlBN1dFNUFUTHE0Rkg0MGFQUzJ0a2JJQkNqcGFrU05sTlZBZ2I0NEdYZmJUbkx6UEFPdWYwcmVCLURteFpFdWY2RTUzSXAyaEY2RWVZSHJWMWFCODVmUUpOYWN0R0tqcFBFSGliY0FfNUl3Ync5T3FGSUw1SEFUbXlCQTRZX01XWDIzUUpsWTVvVjlHZjhJeS0xNFFGang0Q1BXNkw5eUQ2dkw5SW5sdE9kQ3ZiYzB0cWdrcjJQYk1TWGt1YTFF?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Maria Claudia Tarazona",
+        "Gustavo Petro",
+        "Nicolas Maduro"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35"
+    },
+    {
+      "id": 3180,
+      "titulo": "Operación conjunta Colombia-EE.UU. incauta 16,4 toneladas de droga en el Pacífico",
+      "categoria": "seguridad",
+      "fecha": "2026-11-17",
+      "descripcion": "Operaciones conjuntas entre Colombia y Estados Unidos en octubre, bajo la Operación Tridente y el marco del Escudo de las Américas, dejaron más de 16,4 toneladas de droga incautadas en el Pacífico, pérdidas estimadas en 530 millones de dólares para el narcotráfico, 20 personas capturadas y 37 laboratorios destruidos.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-conjunta-de-colombia-y-estados-unidos-en-el-pacifico-deja-mas-de-16-4-toneladas-de-droga-incautadas-y-perdidas-por-530-millones-de-dolares-3601809",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Armada Nacional / Fuerzas de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3179,
+      "titulo": "Gobierno defiende ante el Congreso la adhesión de Colombia al Escudo de las Américas",
+      "categoria": "internacional",
+      "fecha": "2026-11-17",
+      "descripcion": "Los ministros de Exteriores, Defensa y Justicia del gobierno De la Espriella comparecieron ante la Comisión Segunda de la Cámara de Representantes para defender la adhesión de Colombia al Escudo de las Américas, asegurando que no implica cesión de soberanía ni la presencia de tropas extranjeras en el país.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/gobierno-de-la-espriella-defiende-adhesion-de-colombia-al-escudo-de-las-americas-no-es-una-cesion-de-soberania-ni-habra-tropas-extranjeras-3601678",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Relaciones Exteriores / Ministerio de Defensa / Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3178,
+      "titulo": "Gobierno busca acuerdos con ponentes de la reforma tributaria tras retirar el IVA a la canasta familiar",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "Tras descartar el cobro de IVA a los alimentos de la canasta básica, el Ministerio de Hacienda presentará nuevas fórmulas de recaudo a los 26 ponentes de la reforma tributaria y la ley de ajuste fiscal. Se espera que el proyecto quede aprobado en comisiones del Congreso el 2 de diciembre.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/tras-retirar-el-iva-a-la-canasta-familiar-gobierno-de-la-espriella-busca-acuerdos-con-ponentes-de-la-reforma-tributaria-y-ley-de-ajuste-fiscal-3600960",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3177,
+      "titulo": "MinEducación recorta $386.173 millones de su presupuesto de inversión 2026",
+      "categoria": "economia",
+      "fecha": "2026-11-17",
+      "descripcion": "El Ministerio de Educación solicitó al Ministerio de Hacienda un recorte de $386.173 millones en su presupuesto de inversión para 2026, dentro del plan de austeridad fiscal dispuesto por el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/mineducacion-recortara-386173-millones-de-su-presupuesto-de-inversion",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3176,
+      "titulo": "Exinspectora de la DNI ya había alertado sobre irregularidades en la entidad antes del escándalo electoral",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-17",
+      "descripcion": "Indira Isabel Molina Ariza, exinspectora general de la Dirección Nacional de Inteligencia (DNI) y hoy magistrada del Tribunal Superior de Bogotá, había denunciado previamente presuntas irregularidades al interior del organismo, en medio de las revelaciones sobre el presunto uso indebido de la inteligencia del Estado durante el gobierno Petro para intentar sabotear las elecciones presidenciales de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/dni-funcionaria-denuncia-irregularidades-gobierno-gustavo-petro-EJ43681324",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Indira Isabel Molina Ariza"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35"
+    },
+    {
+      "id": 3175,
+      "titulo": "Auditoría revela 23 nombramientos irregulares en Prosperidad Social en los últimos días del gobierno Petro",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-17",
+      "descripcion": "Una auditoría interna del Departamento de Prosperidad Social (DPS) detectó presuntas irregularidades en 23 nombramientos realizados en los últimos tres días del gobierno Petro. Seis cargos de planta habrían sido entregados al círculo del exdirector Mauricio Rodríguez, 14 personas fueron posesionadas el último día de gobierno y ninguna resolución se publicó antes de la posesión del nuevo gobierno, como exige la norma.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/auditoria-23-nombramientos-irregulares-prosperidad-social-gobierno-petro-HJ43689952",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Rodriguez"
+      ],
+      "entidad": "Departamento de Prosperidad Social (DPS)",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35"
+    },
+    {
+      "id": 3174,
+      "titulo": "Sandra Ortiz admite que debió recusar a la fiscal del caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-17",
+      "descripcion": "Sandra Ortiz, exconsejera presidencial para las Regiones vinculada al escándalo UNGRD, reconoció en entrevista con Caracol Radio que fue 'una imprudencia' cuestionar públicamente a la fiscal del caso y que debió haber recusado a la fiscal María Cristina Patiño por su actitud durante el proceso.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/sandra-ortiz-reconoce-imprudencia-cuestionar-fiscal-camargo-ungrd-AJ43686611",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz",
+        "María Cristina Patiño"
+      ],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 00:35"
+    },
+    {
       "id": 3173,
       "titulo": "Destapan 'cartel de viáticos' en el Ejército Nacional",
       "categoria": "corrupcion",
@@ -74021,8 +74556,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-17",
-    "total_casos": 3084,
+    "ultima_actualizacion": "2026-11-18",
+    "total_casos": 3107,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
