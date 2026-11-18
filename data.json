@@ -221,6 +221,608 @@
   ],
   "casos": [
     {
+      "id": 3222,
+      "titulo": "Jorge Enrique Gutiérrez asume como interventor de Nueva EPS",
+      "categoria": "gabinete",
+      "fecha": "2026-11-18",
+      "descripcion": "Tras la renuncia de Solano, quien ocupó el cargo de interventor de Nueva EPS durante casi un mes, Jorge Enrique Gutiérrez asumirá la interventoría de la entidad. En el periodo intermedio, Mariam Liliana Carrillo Peña ejerció como interventora encargada.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/tras-renuncia-de-solano-jorge-enrique-gutierrez-asumira-como-interventor-de-nueva-eps-4527229",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Jorge Enrique Gutierrez",
+        "Solano",
+        "Mariam Liliana Carrillo Peña"
+      ],
+      "entidad": "Nueva EPS / Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3221,
+      "titulo": "FDN financia modernización del corredor férreo La Dorada-Chiriguaná",
+      "categoria": "obras",
+      "fecha": "2026-11-18",
+      "descripcion": "La Financiera de Desarrollo Nacional (FDN) aportó $248.360 millones para modernizar el corredor férreo La Dorada-Chiriguaná, dentro de un proyecto de infraestructura cuya financiación total asciende a $2,01 billones, que incluye intervenciones en puentes, rieles y talleres para aumentar la capacidad de transporte de mercancías por tren.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/fdn-aporta-248-360-millones-para-modernizar-el-corredor-ferreo-la-dorada-chiriguana-4527193",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Financiera de Desarrollo Nacional (FDN) / Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3220,
+      "titulo": "Restablecen energía en tres departamentos tras atentado a torres eléctricas en Huila",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-18",
+      "descripcion": "Autoridades restablecieron el servicio de energía eléctrica en tres departamentos tras un apagón provocado por un atentado contra torres de transmisión en el Huila, en medio de la ola de ataques armados en la región.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/regresa-la-energia-a-tres-departamentos-tras-apagon-provocado-por-atentado-a-torres-electricas-en-huila/202638/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energia / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3219,
+      "titulo": "Policía desarticula red de pedofilia que operaba bajo amenazas de eliminación",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "La Policía Nacional reveló detalles de la operación contra una red de pedofilia que amenazaba con eliminar a quienes no aportaran o colaboraran, segun reporte de autoridades sobre el modo de operacion de la organizacion criminal desmantelada.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/el-que-no-aporte-sera-eliminado-el-modo-en-que-operaba-red-de-pedofilia-descubierta-por-la-policia/202611/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3218,
+      "titulo": "Gobierno y Congreso acuerdan eliminar IVA a medicina prepagada en reforma tributaria",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Gobierno y los ponentes de la reforma tributaria llegaron a un acuerdo para eliminar el IVA a la medicina prepagada dentro de la Ley de Rescate Económico, mientras se estudian cambios en la sobretasa a la telefonía celular. La votación en primer debate en comisiones económicas conjuntas está prevista para el 1 o 2 de diciembre.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/atencion-hay-acuerdo-para-eliminar-iva-a-medicina-prepagada-de-reforma-tributaria-se-estudian-cambios-en-sobretasa-a-telefonia-celular/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3217,
+      "titulo": "DIAN incauta 483 drones en puertos de Buenaventura y Cartagena",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "La DIAN reportó la incautación de un total de 483 drones en los puertos de Buenaventura y Cartagena, avaluados en más de $350 millones, encontrados durante inspecciones aduaneras como parte de la estrategia contra el ingreso ilegal de mercancías en temporada decembrina.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/un-total-de-483-drones-ha-incautado-la-dian-en-los-puertos-de-buenaventura-y-cartagena",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Direccion de Impuestos y Aduanas Nacionales (DIAN)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3216,
+      "titulo": "MinJusticia anuncia ofensiva contra extorsiones desde cárceles",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "El Ministerio de Justicia anunció una nueva estrategia para frenar las extorsiones ejercidas desde centros carcelarios, enfocada en acelerar la cancelación de las líneas celulares denunciadas por los ciudadanos como usadas para estos delitos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/como-frenaran-extorsiones-desde-carceles-minjusticia-anuncia-ofensiva",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3215,
+      "titulo": "MinAgricultura avanza con PepsiCo en compra directa a pequeños productores",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El ministro de Agricultura, Indalecio Dangond Baquero, se reunió en Nueva York con la vicepresidenta de Relaciones Gubernamentales Globales de PepsiCo, Caroline Berson, para ampliar el esquema de compra directa de cosechas a pequeños campesinos colombianos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/minagricultura-avanza-con-pepsico-en-compra-directa-productores",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Indalecio Dangond Baquero",
+        "Caroline Berson"
+      ],
+      "entidad": "Ministerio de Agricultura / PepsiCo",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3214,
+      "titulo": "Nuevo gerente del Fondo Milagro promete reducir nómina y cambiar rumbo de la entidad",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-18",
+      "descripcion": "Luis Felipe Henao asumió como nuevo gerente del Fondo Milagro desde el viernes pasado, en reemplazo de Jaime Uribe, quien salió por críticas a los salarios de la entidad. Henao anunció que no cobrará más de $8 millones mensuales y prometió un cambio de rumbo en el manejo de la institución encargada de la reconstrucción tras el terremoto.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gerente-fondo-milagro-promete-cambio-rumbo-nomina-bajita-EB43714154",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao",
+        "Jaime Uribe"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3213,
+      "titulo": "MinDefensa despliega uniformados en vías troncales y peajes tras atentados terroristas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "El Gobierno nacional ordenó un despliegue operativo con patrullajes aéreos y unidades motorizadas en los principales corredores viales y peajes del país, como respuesta a la reciente ola de atentados terroristas con drones.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ministerio-de-defensa-despliega-uniformados-para-darle-seguridad-a-vias-troncales-y-peajes-tras-atentados-terroristas-3601906",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3212,
+      "titulo": "Fiscalía captura a cuatro integrantes de la banda 'Los Cabros' en Piedecuesta",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "Un operativo de la Fiscalía contra la banda 'los Cabros' en Piedecuesta, Santander, dejó cuatro capturas, incluidos tres menores de edad aprehendidos por el asesinato de un joven ocurrido en febrero de este año.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/redada-de-la-fiscalia-contra-la-banda-los-cabros-deja-cuatro-capturas-en-piedecuesta-santander-3601967",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3211,
+      "titulo": "Gobierno excluye alimentos para mascotas del aumento de IVA en Ley de Rescate",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó que la comida para mascotas no tenga aumento de IVA, como parte de las modificaciones que el Gobierno viene haciendo a su proyecto de Ley de Rescate Económico.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/se-salvaron-los-animales-comida-para-mascotas-tampoco-tendra-aumento-del-iva-por-orden-de-de-la-espriella-506558",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3210,
+      "titulo": "Gobierno firma acuerdo con Meta contra reclutamiento de menores por redes sociales",
+      "categoria": "internacional",
+      "fecha": "2026-11-18",
+      "descripcion": "En el marco de la Milagro Week en Nueva York, el Gobierno colombiano firmó un acuerdo con Meta para combatir el reclutamiento de menores a través de redes sociales, con la participación de la ministra de las TIC.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-firma-acuerdo-con-meta-para-combatir-el-reclutamiento-de-menores-por-redes-estos-son-los-alcances-506562",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Tecnologias de la Informacion y las Comunicaciones",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3209,
+      "titulo": "Gobierno inicia negociación del salario mínimo para 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Gobierno De la Espriella adelantó reuniones preparatorias con centrales obreras y gremios para organizar la agenda de la negociación del salario mínimo de 2027, que definirá los incrementos salariales del próximo año.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/salario-minimo-de-2027-fechas-clave-de-la-negociacion-e-incrementos-de-los-ultimos-10-anos/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3208,
+      "titulo": "Congresistas piden revisar otros impuestos de la Ley de Rescate Económico",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "Bancadas del Congreso solicitan al Gobierno revisar impuestos adicionales incluidos en la Ley de Rescate Económico propuesta por el presidente De la Espriella, en medio del debate legislativo sobre el ajuste fiscal.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/los-otros-impuestos-en-colombia-que-piden-revisar-los-congresistas-de-la-ley-rescate-del-gobierno/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3207,
+      "titulo": "Gobierno anuncia recorte a 60 entidades para ahorrar $23 billones",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "En reunión con las comisiones económicas del Congreso, el Gobierno presentó un ajuste fiscal que incluye recortes en 60 entidades estatales para generar un ahorro de $23 billones, junto con una desaceleración en la reducción del impuesto de renta.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/ajuste-fiscal-tijeretazo-60-entidades-para-ahorra-23-billones-de-pesos",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3206,
+      "titulo": "MinHacienda estudia IVA a alquileres turísticos y sobretasa en Ley de Rescate",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Ministerio de Hacienda evalúa cobrar IVA a alquileres turísticos y crear una sobretasa dentro de la Ley de Rescate Económico, tras replantear los impuestos que inicialmente se contemplaban para alimentos e insumos agropecuarios, buscando mantener el tamaño del ajuste fiscal.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/minhacienda-estudia-cobrar-iva-a-alquileres-turisticos-y-crear-sobretasa-en-la-ley-de-rescate-4527157",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3205,
+      "titulo": "MinEducación implementa plan de austeridad para recortar 70% en gastos de comisiones",
+      "categoria": "transparencia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Ministerio de Educación, bajo la ministra Ilva Myriam Hoyos Castañeda, puso en marcha un plan de austeridad para reducir en 70% los gastos de comisiones y optimizar el uso de los recursos públicos sin afectar la prestación del servicio educativo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/plan-austeridad-recortar-70-gastos-comisiones-mineducacion-KA43704943",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Ilva Myriam Hoyos Castañeda"
+      ],
+      "entidad": "Ministerio de Educacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3204,
+      "titulo": "Gobierno elimina requisito exigido a medios de transporte en Colombia",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El gobierno de Abelardo de la Espriella elimino un requisito que se exigia previamente a los medios de transporte en el pais, como parte de medidas de simplificacion regulatoria en el sector, segun reporto Valora Analitik el 18 de noviembre de 2026.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDZSUjZnRmZod2JDcG1mVF80dWhCMjM0LUhvTXRpOHlyem1SVFVGTnNDQ2lLaE5aRDM5MVhHYjhwU1hRTHlWTlROU2ZWNE9rR0pST2VOWWFQQTFfM3BXaVQ5TmZ6MTB3b1pQREtZQldZdjBVeHd6MmR4NGRXOXFCOXZwQ29lUDBBdjloRHZ5TkNNZF9UcFp0c25PN1JISkVaYmxnMzJZako5a2h1LUt5dU1PWVAtSUlFdkFPUUZOU25fY25QWVFpb2l30gHPAUFVX3lxTE91YlRYQlB2eGd1c0FyV2hFQjJqX2NPVld3WGF3US1jb0dIb1IwNnZsS2VuNzdiUHhrOUU5R004WWZkTFJaUHQtYlFxbDNieV9KUnFaUWpSWXAzLXE1WEIycUpQdWd0OUt0TnRfbEJzZTFMNWVINGZzZTdqX2w1S0JkVjBCaWRuT2NQaHBNQ3lwdm8tRTRna0ZrR2xFZ2pobXZiNXlld3FoSU9sVHNKWTNWeHJmRWk3TGxhNjFiU2JIdFhmZUlpM0ppLW83N2p6cw?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Transporte",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3203,
+      "titulo": "Gobierno alista cambios ministeriales para incluir representantes afrodescendientes",
+      "categoria": "gabinete",
+      "fecha": "2026-11-18",
+      "descripcion": "El gobierno de Abelardo de la Espriella prepara una recomposicion de su gabinete que incluiria la llegada de Angelica Mayolo, entre otros nombres considerados para incorporar representantes afrodescendientes, en medio de cuestionamientos sobre el desempeno de algunos ministros actuales.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-alista-cambios-ministeriales-para-incluir-representantes-afrodescendientes-4527353",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Angelica Mayolo"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3202,
+      "titulo": "Juez libera a militares investigados por falsificar reportes de viaticos en Cucuta",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-18",
+      "descripcion": "Un juez de control de garantias concedio la libertad a siete militares del Ejercito Nacional, entre ellos un capitan, investigados por presuntamente falsificar reportes administrativos para cobrar viaticos de un batallon en Cucuta sin haber cumplido las misiones asignadas. Segun la Fiscalia, los hechos ocurrieron entre enero y abril de 2025 y representan una afectacion a los recursos publicos cercana a $10 millones de pesos, en el marco del llamado 'cartel de viaticos' del Ejercito.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/corrupcion-ejercito-siete-militares-implicados-falsificacion-documentos-viaticos-batallon-cucuta-BB43714137",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional / Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08"
+    },
+    {
+      "id": 3201,
+      "titulo": "MinJusticia reporta avances en proyectos de buque-carcel y megacarceles",
+      "categoria": "obras",
+      "fecha": "2026-11-18",
+      "descripcion": "El ministro de Justicia, Ivan Cancino, informo en un debate en el Senado realizado el 17 de noviembre de 2026 que los proyectos de buque-carcel y megacarceles, anunciados por el presidente Abelardo de la Espriella desde su campaña, siguen en firme y en fase de planeacion avanzada en coordinacion con el Ministerio de Defensa.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/buque-carcel-megacarceles-gobierno-espriella-avances-ivan-cancino-ministro-justicia-GB43715355",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Ivan Cancino"
+      ],
+      "entidad": "Ministerio de Justicia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3200,
+      "titulo": "Ofensiva binacional deja 20 capturados y 37 laboratorios de coca destruidos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "El presidente Abelardo de la Espriella presento resultados de una ofensiva binacional enmarcada en la estrategia Escudo de las Americas, con 20 personas capturadas, seis embarcaciones inmovilizadas y 37 laboratorios de produccion de pasta base de coca destruidos, como parte del esfuerzo por recuperar el control territorial del pais.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/gobierno-anuncia-ofensiva-para-recuperar-el-control-territorial-del-pais",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerzas Militares / Armada Nacional",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3199,
+      "titulo": "Petro nombro como notaria a hermana de congresista ligado al caso Gabriela Muñoz",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-17",
+      "descripcion": "Una investigacion de la revista Cambio revelo que el gobierno de Gustavo Petro designo a Sandra Lucia Hincapie Galindo como notaria segunda de Ibague mediante decreto del 2 de junio de 2026. El nombramiento conecta a la familia Hincapie del Tolima con el entramado de Gabriela Muñoz y su madre Liliana Olaya, ampliando la red de designaciones cuestionadas vinculadas al petrismo en cargos publicos y notariales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gustavo-petro-nombra-persona-cercana-gabriela-munoz-DA43703374",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Lucia Hincapie Galindo",
+        "Gabriela Muñoz",
+        "Liliana Olaya"
+      ],
+      "entidad": "Presidencia de la Republica (Gustavo Petro)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08"
+    },
+    {
+      "id": 3198,
+      "titulo": "De la Espriella lanza estrategia 'D.I.O.S.' para reestructurar el SENA",
+      "categoria": "transparencia",
+      "fecha": "2026-11-18",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio el 17 de noviembre de 2026, en un evento en Barranquilla, una estrategia de modernizacion del Servicio Nacional de Aprendizaje (SENA) bajo el nombre 'D.I.O.S.', acusando al gobierno Petro de haber 'robado y politizado' la entidad. El mandatario senalo que esperan incluso ser demandados por las reformas que planean implementar en la institucion.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-revela-dios-estrategia-depurar-sena-robada-gobierno-petro-KA43708516",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "SENA / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3197,
+      "titulo": "A 100 días del terremoto persisten viviendas y colegios sin reconstruir en Choco, Valle y Risaralda",
+      "categoria": "damnificados",
+      "fecha": "2026-11-18",
+      "descripcion": "A 100 dias del terremoto del 10 de agosto de 2026, familias en Choco, Valle del Cauca y Risaralda siguen afectadas por danos en viviendas y colegios sin reparar. El caso de Lyam, un adolescente chocoano que dejo de asistir al colegio cerca de un mes por danos estructurales, ilustra el rezago en la atencion humanitaria y la reconstruccion de infraestructura educativa y habitacional pese al tiempo transcurrido desde la emergencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/100-terremoto-colombia-reconstruccion-viviendas-colegios-pendiente-donaciones-PB43713369",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Lyam"
+      ],
+      "entidad": "Fondo Milagro / Gobiernos locales",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-18 15:08",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 3196,
       "titulo": "Italika anuncia ensamblaje de motos en Barranquilla con cerca de 1.000 empleos",
       "categoria": "economia",
@@ -74557,7 +75159,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-18",
-    "total_casos": 3107,
+    "total_casos": 3133,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
