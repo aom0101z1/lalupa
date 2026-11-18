@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:06:16 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:17:47 -0000</lastBuildDate>
+    <item>
+      <title>Físicos envían un mensaje binario usando gravedad a través de una pared</title>
+      <link>https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html</link>
+      <guid isPermaLink="false">lalupa-lectura-735</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de la Universidad de Queensland movieron un contrapeso de 1,8 toneladas en un ascensor para codificar ceros y unos, y lograron detectar el mensaje con un gravímetro ultrasensible al otro lado de un muro de ladrillo. Es de los primeros experimentos que demuestra comunicación usando directamente el campo gravitacional en vez de ondas electromagnéticas. Por que leerlo: Muestra un principio de comunicación que ningún blindaje electromagnético puede bloquear, una idea con aplicaciones futuras en seguridad y telecomunicaciones. (Phys.org, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Astronomos confirman por primera vez la fusion completa de dos estrellas en Andromeda</title>
+      <link>https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</link>
+      <guid isPermaLink="false">lalupa-lectura-736</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores identificaron una estrella menos masiva que el Sol que se fusiono con una supergigante en las afueras de la galaxia de Andromeda, creando una estrella unica aparentemente 'rejuvenecida' apodada Bao. El hallazgo, financiado por la NASA, fue confirmado con observaciones rapidas del telescopio espacial James Webb. Por que leerlo: Es la primera confirmacion directa de una fusion estelar completa, un fenomeno que hasta ahora solo se habia inferido teoricamente. (NASA, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Microsoft integra Word, Excel y PowerPoint dentro de Copilot y lo llama el 'nuevo sistema operativo del trabajo'</title>
+      <link>https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/</link>
+      <guid isPermaLink="false">lalupa-lectura-737</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>En su conferencia Ignite, Microsoft presento a Copilot como el 'nuevo sistema operativo para el trabajo', con Word, Excel y PowerPoint funcionando directamente dentro de la interfaz del asistente de IA. La compania anuncio que el proximo paso seran agentes de IA siempre activos integrados en estas herramientas. Por que leerlo: Muestra hacia donde se dirige el software de oficina cuando la IA deja de ser un complemento y se convierte en la interfaz principal de trabajo. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Startup de Oakland busca romper el monopolio chino del grafito para baterias</title>
+      <link>https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/</link>
+      <guid isPermaLink="false">lalupa-lectura-738</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>China controla casi la totalidad de la produccion mundial de grafito, material clave para baterias de litio, pero la startup Molten Industries asegura que su nueva planta en Oakland podria quebrar ese dominio. La empresa plantea un proceso alternativo de fabricacion para competir directamente con la cadena de suministro china. Por que leerlo: Muestra una apuesta concreta para reducir la dependencia occidental de China en un insumo critico para la transicion energetica. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nuevo metodo de razonamiento basado en energia reduce 385 veces el costo de inferencia en IA</title>
+      <link>https://energy-based-reasoners.github.io/</link>
+      <guid isPermaLink="false">lalupa-lectura-739</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un grupo de investigadores presento los 'Energy-Based Reasoners', una arquitectura de razonamiento que logra inferencia hasta 385 veces mas eficiente que los modelos convencionales, lo que podria abaratar drasticamente el costo de ejecutar IA avanzada. Por que leerlo: Ofrece una pista temprana de hacia donde podria moverse la eficiencia computacional de la IA, algo clave para quien construye productos sobre estos modelos. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La física cuántica podría verificar con certeza desde dónde se envía una orden digital</title>
+      <link>https://phys.org/news/2026-11-quantum-physics-person.html</link>
+      <guid isPermaLink="false">lalupa-lectura-740</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores proponen un esquema basado en propiedades cuánticas para confirmar que una instrucción crítica, como una transferencia bancaria de millones de dólares, realmente proviene de una ubicación física autorizada y no de un atacante remoto. El método usaría las leyes de la mecánica cuántica para hacer imposible falsificar la prueba de ubicación. Por que leerlo: Plantea una solución concreta a un problema real de ciberseguridad financiera que hoy depende solo de contraseñas y VPNs falsificables. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un estudio expone fallas de la IA para identificar fauna silvestre, con un caso en Colombia</title>
+      <link>https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html</link>
+      <guid isPermaLink="false">lalupa-lectura-741</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un modelo de inteligencia artificial identificó un marsupial fotografiado por una cámara trampa en Colombia como una especie cuyo rango conocido no incluye el país, pese a que se le indicó que el avistamiento fue allí. El estudio, publicado en Biodiversity Data Journal, mapea dónde y por qué fallan estos sistemas en tareas de conservación. Por que leerlo: Es una advertencia concreta sobre los límites de la IA genérica aplicada a problemas del mundo real, con un ejemplo directo de Colombia. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Cientificos explican por que falta mas de mil millones de anos de historia geologica de la Tierra</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261116023403.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-742</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Nuevas investigaciones sugieren que corrientes profundas dentro del manto terrestre elevaron y hundieron continentes enteros a lo largo de eones, exponiendo rocas a la erosion antes de que pudieran quedar sepultadas y preservadas. Esto explicaria un vacio geologico global que ha intrigado a los geologos durante mas de un siglo. Por que leerlo: Resuelve un misterio clasico de la geologia con un mecanismo fisico concreto, util para entender como se forma y se borra el registro de la historia del planeta. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Startup india Humyn Labs levanta US$47 millones para vender datos de entrenamiento a robotica de EE.UU.</title>
+      <link>https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/</link>
+      <guid isPermaLink="false">lalupa-lectura-743</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Fundada en febrero, Humyn Labs capto una ronda de US$47 millones liderada por Accel para proveer datos especializados que entrenan modelos de inteligencia artificial para empresas de robotica. Cerca del 90% de sus ingresos proviene de clientes en Estados Unidos, compitiendo con firmas como Mecka AI y XDOF. Por que leerlo: Revela un nuevo nicho de negocio rentable dentro del boom de la IA: vender los datos que faltan para entrenar robots. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Amazon y Google controlaran casi 30% de Anthropic tras su salida a bolsa</title>
+      <link>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</link>
+      <guid isPermaLink="false">lalupa-lectura-744</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Tras el IPO de Anthropic, Amazon quedara con casi 15% de la compania (con opcion de subir mucho mas) y Google con casi 14%, sumando entre ambas casi un tercio de la startup de IA. Por que leerlo: Muestra como las grandes tecnologicas estan asegurando control estrategico sobre los laboratorios de IA mas valiosos mediante participaciones accionarias masivas. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Nueva medicion sin precedentes calcula la masa de la Via Lactea en 1,19 billones de soles</title>
+      <link>https://www.xataka.com/espacio/han-pesado-via-lactea-precision-nunca-vista-1-19-billones-veces-masa-sol</link>
+      <guid isPermaLink="false">lalupa-lectura-745</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Astronomos lograron la estimacion mas precisa hasta ahora de la masa total de la Via Lactea, equivalente a 1,19 billones de veces la masa del Sol, analizando el movimiento de estrellas distantes para incluir la materia oscura que domina la galaxia. Por que leerlo: Una medicion tan precisa ayuda a entender cuanta materia oscura rodea nuestra galaxia y pone a prueba los modelos cosmologicos actuales. (Xataka, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>La sonda Voyager 1 se convierte en el primer objeto humano a un día luz de la Tierra</title>
+      <link>https://hipertextual.com/ciencia/voyager-1-un-dia-luz-distancia-tierra/</link>
+      <guid isPermaLink="false">lalupa-lectura-746</guid>
+      <pubDate>Wed, 18 Nov 2026 19:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Casi 50 años después de su lanzamiento, la NASA confirmó el 18 de noviembre de 2026 que la Voyager 1 alcanzó una distancia equivalente a un día luz de la Tierra. Es el objeto construido por humanos más lejano jamás registrado, mientras continúa su viaje hacia el espacio interestelar. Por que leerlo: Permite dimensionar un hito histórico de la exploración espacial humana casi medio siglo después de su lanzamiento. (Hipertextual, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Estudio de EE.UU. halla que la adopción de IA aumenta la demanda de gerentes, no la reduce</title>
       <link>https://phys.org/news/2026-11-ai-managerial-skills.html</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 16 Nov 2026 20:53:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>Tesla anunció una expansión de 3.000 millones de euros en su Gigafactory de Berlín para producir el Cybercab, su vehículo autónomo sin volante ni pedales, llevando por primera vez ese modelo a Europa. La inversión confirma la apuesta de la compañía por los robotaxis como su próxima etapa de crecimiento. Por que leerlo: Porque muestra con una cifra concreta cómo Tesla está escalando su apuesta por los vehículos autónomos fuera de Estados Unidos. (TechCrunch, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El cohete Vulcan de ULA sufre su primer fracaso total de misión en 20 años</title>
-      <link>https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/</link>
-      <guid isPermaLink="false">lalupa-lectura-675</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El cohete Vulcan, operado por United Launch Alliance, falló durante su lanzamiento, marcando el primer fracaso total de misión en los 20 años de historia de la compañía. El incidente representa un duro golpe para los competidores de SpaceX en el mercado de lanzamientos orbitales. Por que leerlo: Revela qué tan difícil es competir con SpaceX en el negocio de lanzamientos espaciales, incluso para jugadores establecidos. (Ars Technica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Protomaps: alojar tus propios mapas en linea ya es barato y sencillo</title>
-      <link>https://bruceroettgers.eu/blog/protomaps/</link>
-      <guid isPermaLink="false">lalupa-lectura-676</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>El proyecto Protomaps permite generar y servir mosaicos de mapas sin depender de servicios pagos como Google Maps, usando un solo archivo estatico que puede alojarse en cualquier CDN economico. La tecnica reduce drasticamente el costo de anadir mapas interactivos a aplicaciones propias. Por que leerlo: Ofrece una alternativa practica y barata para anadir mapas a tus propios productos sin pagar licencias costosas. (Hacker News, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Una falla de Microsoft 365 provoco una intoxicacion por cloro en un parque aleman</title>
-      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <guid isPermaLink="false">lalupa-lectura-677</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un fallo tecnico vinculado a una caida de Microsoft 365 afecto el sistema de dosificacion de cloro en una piscina del parque Phantasialand en Alemania, provocando que 15 huespedes de un hotel resultaran intoxicados por gas de cloro. El incidente expone como fallas en la nube pueden propagarse a sistemas criticos de control industrial. Por que leerlo: Muestra un riesgo real y poco discutido: como una caida de software en la nube puede tener consecuencias fisicas graves en infraestructura critica. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Consumo de mayores de 55 años podría representar 19% del PIB colombiano en 2042</title>
-      <link>https://www.valoraanalitik.com/consumo-mayores-55-anos-pib-colombia/</link>
-      <guid isPermaLink="false">lalupa-lectura-678</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un estudio del CESA proyecta que el gasto de los colombianos mayores de 55 años equivaldrá a cerca del 19% del PIB en 2042, impulsado por el envejecimiento poblacional. Cali, Armenia y Manizales serán las ciudades más envejecidas del país, lo que cambiará la demanda de bienes y servicios. Por que leerlo: Revela un mercado en crecimiento sostenido que los emprendedores pueden empezar a atender desde ahora. (Valora Analitik, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Restaurante colombiano invirtió US$2,5 millones en Miami y ya generó US$1,2 millones</title>
-      <link>https://www.valoraanalitik.com/entrevista-l-la-historia-del-restaurante-colombiano-que-invirtio-us25-millones-en-miami-y-ya-genero-us12-millones-en-utilidades/</link>
-      <guid isPermaLink="false">lalupa-lectura-679</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Casa D Miami, del grupo Monark Hospitality/Evedesa, invirtió US$2,5 millones para abrir en Miami y ya acumula US$1,2 millones en utilidades, según su CEO Andrés González. El caso muestra cómo una marca gastronómica colombiana escaló su operación al mercado estadounidense. Por que leerlo: Ofrece un caso real con cifras concretas de expansión internacional, útil como referencia para quien piensa crecer fuera de Colombia. (Valora Analitik, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Urbanización en São Paulo colapsa las redes alimenticias de sus quebradas</title>
-      <link>https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html</link>
-      <guid isPermaLink="false">lalupa-lectura-680</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio publicado en Nature Cities analizó 190 especies conectadas en quebradas del área metropolitana de São Paulo y encontró que la urbanización no solo reduce la cantidad de especies, sino que elimina selectivamente organismos según su tamaño y simplifica drásticamente las redes ecológicas. La degradación altera las interacciones entre especies mucho más allá de la simple pérdida de biodiversidad. Por que leerlo: Muestra con datos concretos cómo la expansión urbana descontrolada destruye ecosistemas enteros en una megaciudad latinoamericana. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La vitamina C podría bloquear químicos cancerígenos que se forman en el estómago</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261114202236.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-681</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un nuevo modelo matemático sugiere que tomar vitamina C después de las comidas podría reducir la formación de nitrosaminas, compuestos potencialmente cancerígenos generados al comer alimentos con nitratos y nitritos. Los investigadores proponen esto como una estrategia simple y barata para disminuir el riesgo de cáncer de estómago. Por que leerlo: Ofrece un hábito concreto y de bajo costo que podría reducir el riesgo de cáncer, respaldado por un modelo científico. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Mantener horarios regulares se asocia con menos dolor y depresión en adultos mayores</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261113231624.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-682</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores de la Universidad de Missouri hallaron que los adultos mayores con horarios constantes para dormir, comer y realizar actividades reportan menos dolor físico y menos síntomas de depresión, incluso cuando sufren de insomnio. El hallazgo sugiere que la regularidad de la rutina diaria podría regular el cuerpo más allá de la simple cantidad de sueño. Por que leerlo: Da una recomendación práctica y gratuita, respaldada por datos, para mejorar el bienestar físico y mental. (ScienceDaily, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>La india Bharat Semi levanta US$24 millones para sensores de IA y ya tiene contratos con General Atomics</title>
-      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
-      <guid isPermaLink="false">lalupa-lectura-683</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La startup india Bharat Semi cerró una ronda semilla de 24 millones de dólares para desarrollar tecnología de sensores habilitados con inteligencia artificial, apuntando al mercado global. La empresa asegura tener acuerdos de diseño con compañías como General Atomics, lo que valida su tecnología en un sector de defensa y aeroespacial. Por que leerlo: Muestra cómo una startup de hardware de IA en un mercado emergente consigue capital y clientes industriales serios. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Enlaces antiguos de Bitly son secuestrados para redirigir a sitios maliciosos</title>
-      <link>https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/</link>
-      <guid isPermaLink="false">lalupa-lectura-684</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores descubrieron que enlaces cortos de Bitly creados hace años y luego abandonados estan siendo reclamados por atacantes, que los redirigen a paginas de phishing o malware. El caso salio a la luz tras detectarse que un tuit viejo de Burger King enviaba a un sitio de riesgo, revelando un problema que afecta a miles de enlaces corporativos olvidados. Por que leerlo: Alerta sobre un riesgo de seguridad olvidado que puede afectar enlaces usados en campanas de marketing o documentacion propia. (Hacker News, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Como funcionan realmente las incrustaciones posicionales en los modelos de lenguaje modernos</title>
-      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
-      <guid isPermaLink="false">lalupa-lectura-685</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un analisis tecnico detallado explica la evolucion de las tecnicas de codificacion posicional en los LLM, desde el enfoque original de Transformers hasta metodos recientes como RoPE usados en los modelos actuales de IA. El articulo compara ventajas y limitaciones de cada enfoque con ejemplos concretos. Por que leerlo: Para quienes construyen o ajustan modelos de IA, entender estas tecnicas ayuda a elegir mejor arquitectura y depurar resultados. (Hacker News, 10 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un sistema con dos soles a 16 anos luz podria albergar planetas habitables, segun nuevo estudio</title>
-      <link>https://www.xataka.com/espacio/otros-estudios-habian-encontrado-tatooine-vida-real-solo-este-apunta-a-planeta-masa-terrestre</link>
-      <guid isPermaLink="false">lalupa-lectura-686</guid>
-      <pubDate>Mon, 16 Nov 2026 02:36:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo internacional de cientificos publico un estudio que sugiere que un sistema binario cercano, a solo 16 anos luz, podria tener condiciones para un planeta con masa similar a la Tierra en su zona habitable, algo parecido al Tatooine de Star Wars. El hallazgo abre la posibilidad de vida simple, aunque la vida compleja seria mas dificil en ese entorno. Por que leerlo: Amplia la lista de candidatos reales para busqueda de vida extraterrestre con un caso cercano y bien fundamentado. (Xataka, 5 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

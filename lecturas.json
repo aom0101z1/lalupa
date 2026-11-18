@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 735,
+      "titulo": "Físicos envían un mensaje binario usando gravedad a través de una pared",
+      "resumen": "Investigadores de la Universidad de Queensland movieron un contrapeso de 1,8 toneladas en un ascensor para codificar ceros y unos, y lograron detectar el mensaje con un gravímetro ultrasensible al otro lado de un muro de ladrillo. Es de los primeros experimentos que demuestra comunicación usando directamente el campo gravitacional en vez de ondas electromagnéticas.",
+      "por_que_leerlo": "Muestra un principio de comunicación que ningún blindaje electromagnético puede bloquear, una idea con aplicaciones futuras en seguridad y telecomunicaciones.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fisica",
+        "gravedad",
+        "comunicaciones",
+        "experimento"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 736,
+      "titulo": "Astronomos confirman por primera vez la fusion completa de dos estrellas en Andromeda",
+      "resumen": "Investigadores identificaron una estrella menos masiva que el Sol que se fusiono con una supergigante en las afueras de la galaxia de Andromeda, creando una estrella unica aparentemente 'rejuvenecida' apodada Bao. El hallazgo, financiado por la NASA, fue confirmado con observaciones rapidas del telescopio espacial James Webb.",
+      "por_que_leerlo": "Es la primera confirmacion directa de una fusion estelar completa, un fenomeno que hasta ahora solo se habia inferido teoricamente.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "fusion estelar",
+        "james webb",
+        "andromeda"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 737,
+      "titulo": "Microsoft integra Word, Excel y PowerPoint dentro de Copilot y lo llama el 'nuevo sistema operativo del trabajo'",
+      "resumen": "En su conferencia Ignite, Microsoft presento a Copilot como el 'nuevo sistema operativo para el trabajo', con Word, Excel y PowerPoint funcionando directamente dentro de la interfaz del asistente de IA. La compania anuncio que el proximo paso seran agentes de IA siempre activos integrados en estas herramientas.",
+      "por_que_leerlo": "Muestra hacia donde se dirige el software de oficina cuando la IA deja de ser un complemento y se convierte en la interfaz principal de trabajo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "microsoft",
+        "copilot",
+        "ia en el trabajo",
+        "productividad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 738,
+      "titulo": "Startup de Oakland busca romper el monopolio chino del grafito para baterias",
+      "resumen": "China controla casi la totalidad de la produccion mundial de grafito, material clave para baterias de litio, pero la startup Molten Industries asegura que su nueva planta en Oakland podria quebrar ese dominio. La empresa plantea un proceso alternativo de fabricacion para competir directamente con la cadena de suministro china.",
+      "por_que_leerlo": "Muestra una apuesta concreta para reducir la dependencia occidental de China en un insumo critico para la transicion energetica.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "baterias",
+        "grafito",
+        "cadena de suministro",
+        "energia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 739,
+      "titulo": "Nuevo metodo de razonamiento basado en energia reduce 385 veces el costo de inferencia en IA",
+      "resumen": "Un grupo de investigadores presento los 'Energy-Based Reasoners', una arquitectura de razonamiento que logra inferencia hasta 385 veces mas eficiente que los modelos convencionales, lo que podria abaratar drasticamente el costo de ejecutar IA avanzada.",
+      "por_que_leerlo": "Ofrece una pista temprana de hacia donde podria moverse la eficiencia computacional de la IA, algo clave para quien construye productos sobre estos modelos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "eficiencia",
+        "inferencia",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://energy-based-reasoners.github.io/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 740,
+      "titulo": "La física cuántica podría verificar con certeza desde dónde se envía una orden digital",
+      "resumen": "Investigadores proponen un esquema basado en propiedades cuánticas para confirmar que una instrucción crítica, como una transferencia bancaria de millones de dólares, realmente proviene de una ubicación física autorizada y no de un atacante remoto. El método usaría las leyes de la mecánica cuántica para hacer imposible falsificar la prueba de ubicación.",
+      "por_que_leerlo": "Plantea una solución concreta a un problema real de ciberseguridad financiera que hoy depende solo de contraseñas y VPNs falsificables.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "computacion cuantica",
+        "criptografia",
+        "fintech"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-quantum-physics-person.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 741,
+      "titulo": "Un estudio expone fallas de la IA para identificar fauna silvestre, con un caso en Colombia",
+      "resumen": "Un modelo de inteligencia artificial identificó un marsupial fotografiado por una cámara trampa en Colombia como una especie cuyo rango conocido no incluye el país, pese a que se le indicó que el avistamiento fue allí. El estudio, publicado en Biodiversity Data Journal, mapea dónde y por qué fallan estos sistemas en tareas de conservación.",
+      "por_que_leerlo": "Es una advertencia concreta sobre los límites de la IA genérica aplicada a problemas del mundo real, con un ejemplo directo de Colombia.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "colombia",
+        "biodiversidad",
+        "limitaciones ia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 742,
+      "titulo": "Cientificos explican por que falta mas de mil millones de anos de historia geologica de la Tierra",
+      "resumen": "Nuevas investigaciones sugieren que corrientes profundas dentro del manto terrestre elevaron y hundieron continentes enteros a lo largo de eones, exponiendo rocas a la erosion antes de que pudieran quedar sepultadas y preservadas. Esto explicaria un vacio geologico global que ha intrigado a los geologos durante mas de un siglo.",
+      "por_que_leerlo": "Resuelve un misterio clasico de la geologia con un mecanismo fisico concreto, util para entender como se forma y se borra el registro de la historia del planeta.",
+      "seccion": "ciencia",
+      "tags": [
+        "geologia",
+        "manto terrestre",
+        "historia de la tierra",
+        "erosion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 743,
+      "titulo": "Startup india Humyn Labs levanta US$47 millones para vender datos de entrenamiento a robotica de EE.UU.",
+      "resumen": "Fundada en febrero, Humyn Labs capto una ronda de US$47 millones liderada por Accel para proveer datos especializados que entrenan modelos de inteligencia artificial para empresas de robotica. Cerca del 90% de sus ingresos proviene de clientes en Estados Unidos, compitiendo con firmas como Mecka AI y XDOF.",
+      "por_que_leerlo": "Revela un nuevo nicho de negocio rentable dentro del boom de la IA: vender los datos que faltan para entrenar robots.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "robotica",
+        "datos",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 744,
+      "titulo": "Amazon y Google controlaran casi 30% de Anthropic tras su salida a bolsa",
+      "resumen": "Tras el IPO de Anthropic, Amazon quedara con casi 15% de la compania (con opcion de subir mucho mas) y Google con casi 14%, sumando entre ambas casi un tercio de la startup de IA.",
+      "por_que_leerlo": "Muestra como las grandes tecnologicas estan asegurando control estrategico sobre los laboratorios de IA mas valiosos mediante participaciones accionarias masivas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "inteligencia artificial",
+        "inversion",
+        "ipo"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-17",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 745,
+      "titulo": "Nueva medicion sin precedentes calcula la masa de la Via Lactea en 1,19 billones de soles",
+      "resumen": "Astronomos lograron la estimacion mas precisa hasta ahora de la masa total de la Via Lactea, equivalente a 1,19 billones de veces la masa del Sol, analizando el movimiento de estrellas distantes para incluir la materia oscura que domina la galaxia.",
+      "por_que_leerlo": "Una medicion tan precisa ayuda a entender cuanta materia oscura rodea nuestra galaxia y pone a prueba los modelos cosmologicos actuales.",
+      "seccion": "ciencia",
+      "tags": [
+        "via lactea",
+        "materia oscura",
+        "astronomia",
+        "cosmologia"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/han-pesado-via-lactea-precision-nunca-vista-1-19-billones-veces-masa-sol"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
+      "id": 746,
+      "titulo": "La sonda Voyager 1 se convierte en el primer objeto humano a un día luz de la Tierra",
+      "resumen": "Casi 50 años después de su lanzamiento, la NASA confirmó el 18 de noviembre de 2026 que la Voyager 1 alcanzó una distancia equivalente a un día luz de la Tierra. Es el objeto construido por humanos más lejano jamás registrado, mientras continúa su viaje hacia el espacio interestelar.",
+      "por_que_leerlo": "Permite dimensionar un hito histórico de la exploración espacial humana casi medio siglo después de su lanzamiento.",
+      "seccion": "ciencia",
+      "tags": [
+        "espacio",
+        "voyager",
+        "nasa",
+        "exploracion"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/ciencia/voyager-1-un-dia-luz-distancia-tierra/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-18 19:17",
+      "auto_generated": true
+    },
+    {
       "id": 723,
       "titulo": "Estudio de EE.UU. halla que la adopción de IA aumenta la demanda de gerentes, no la reduce",
       "resumen": "Investigadores analizaron ofertas de empleo en Estados Unidos entre 2010 y 2022 y encontraron que las empresas que adoptan inteligencia artificial contratan más gerentes, no menos, aunque exigen habilidades gerenciales distintas a las tradicionales. El estudio, publicado en Strategic Management Journal por Alekseeva, Azar, Giné y Samila, cuestiona la suposición común de que la automatización reduce la necesidad de mandos medios.",
