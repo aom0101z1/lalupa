@@ -221,6 +221,386 @@
   ],
   "casos": [
     {
+      "id": 3260,
+      "titulo": "Universidad Nacional desmiente título académico de congresista del Pacto Histórico",
+      "categoria": "mentiras",
+      "fecha": "2026-11-19",
+      "descripcion": "La Universidad Nacional de Colombia negó que una congresista del Pacto Histórico, que previamente había intentado corregir públicamente al canciller, sea egresada de esa institución como ella había afirmado. El caso se suma a los antecedentes de funcionarios y congresistas del gobierno Petro con títulos académicos cuestionados o falsos.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/universidad-nacional-niega-que-congresista-del-pacto-historico-haya-sido-egresada-de-su-academia/202650/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Congresista del Pacto Histórico"
+      ],
+      "entidad": "Universidad Nacional de Colombia",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55"
+    },
+    {
+      "id": 3259,
+      "titulo": "Investigación por doble pasaporte a nombre de Zulma Guzmán en caso de muertes por talio",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-18",
+      "descripcion": "Autoridades investigan la presunta existencia de dos pasaportes distintos a nombre de Zulma Guzmán, entregados por dos entidades estatales diferentes a la Policía Nacional durante las pesquisas por la muerte de dos menores por envenenamiento con talio. La discrepancia documental genera dudas sobre la identidad y el manejo de registros oficiales por parte de las entidades involucradas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/caso-zulma-guzman-autoridades-estarian-investigando-la-presunta-existencia-de-2-pasaportes-a-su-nombre-tras-la-muerte-de-dos-menores-por-talio-3602130",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Zulma Guzman"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55"
+    },
+    {
+      "id": 3258,
+      "titulo": "Déficit comercial de Colombia se duplica en septiembre",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "El DANE informó que el déficit interanual de la balanza comercial de Colombia alcanzó 2.268,2 millones de dólares en septiembre de 2026, un aumento del 99,8% frente al mismo mes del año anterior, reflejando un deterioro significativo en las cuentas externas del país bajo el nuevo gobierno.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/el-deficit-interanual-de-la-balanza-comercial-de-colombia-se-duplico-en-septiembre/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Administrativo Nacional de Estadistica (DANE)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3257,
+      "titulo": "Gobierno establece Puesto de Mando Unificado para seguimiento a marchas del petrismo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-19",
+      "descripcion": "El presidente Abelardo de la Espriella ordenó la activación de un Puesto de Mando Unificado para hacer seguimiento a las marchas convocadas por sectores del petrismo en distintas ciudades del país, como medida de control de orden público.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU1QyQTVuQmRuZndmRENXWldyTlgxdm1PSnpkelE5SUE3NlRtdlY2Yk1vQURhMW13c2RFTTRCWHFoMjkycUNoUUtoOUFuclREQml2d2Q3Tm84Z0h4dkF1dWJRRkxielQzS2xqZmY5aWVReFdBYmpMdnoxWmxldmxHbUpYX0lIalluSms5NXZfLTVkTjZsN3lOMjI3UGRaWnhqbkR3cXFvbGUtb2MwNk03Z3ZzWkdXRDRrTGpQbS1ua3pHQmJmUXQwZzJjNjZTOV800gHWAUFVX3lxTE95R0hISUE0QTBCN1dsajdPM1JDNkpIZDZFZnJ1VnJBNDFTSTUwZzVRdV82WlZYZ0daT1dHRkp6R2lWSVJUcnFmbUY3V2NJQnZ3Mld3VGNxUGNNWTBRTGlRV3ljQ2xUbWZ4VGRpSlpNUjc5T3FJR1NlS0lEMVFUcW5yTVYwekZJc1N6SXI4VHNTZkltTFZEMS1nTkdTVHEzZVVkSEdROWhvSVVVTzdlNEV0N1R5YlRiSTZMZE9aaVd5YjBnRHducnBWUWFpQmFEbkRfdUpBMlE?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3256,
+      "titulo": "Colombia recibe sexto avión Hércules C-130 donado por Estados Unidos",
+      "categoria": "internacional",
+      "fecha": "2026-11-19",
+      "descripcion": "El secretario de Guerra de Estados Unidos, Pete Hegseth, entregó un avión Hércules C-130 a Colombia el 18 de noviembre, matriculado FAC 1019, en ceremonia en el Catam, Bogotá. La aeronave se suma a la Fuerza Aeroespacial Colombiana y será usada para transporte de tropas, armamento y misiones humanitarias, completando seis aviones de este tipo en el país.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/avion-hercules-c130-colombia-estados-unidos-fuerza-aerea-donacion-fac-1019-BH43770166",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Pete Hegseth"
+      ],
+      "entidad": "Ministerio de Defensa / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3255,
+      "titulo": "Gobierno crea bloque de búsqueda contra la corrupción",
+      "categoria": "transparencia",
+      "fecha": "2026-11-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella creó un bloque de búsqueda contra la corrupción, articulado entre distintas entidades del Estado, para perseguir delitos económicos. La medida cumple una de las promesas de campaña del mandatario en materia de lucha anticorrupción.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/colombia-crea-un-bloque-de-busqueda-contra-la-corrupcion/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3254,
+      "titulo": "Censo económico del Dane, bandera del gobierno Petro, bajo cuestionamiento por costos de $330.000 millones",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-18",
+      "descripcion": "El Dane puso bajo revisión los resultados del censo económico, programa insignia del gobierno Petro que costó más de $330.000 millones, luego de que Portafolio documentara cuestionamientos sobre su ejecución desde junio de 2024. El actual director de la entidad anunció una revisión formal de los resultados del censo ante las dudas sobre su rigor metodológico y el uso de los recursos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/atencion-director-del-dane-cuestiona-censo-economico-de-330-000-millones-y-anuncia-revision-de-sus-resultados-506621",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "DANE",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55"
+    },
+    {
+      "id": 3253,
+      "titulo": "Superfinanciera exige acelerar pagos de seguros del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-18",
+      "descripcion": "La Superintendencia Financiera exigió a las aseguradoras acelerar el proceso de valoración de daños y facilitar las reclamaciones de los afectados por el terremoto del 10 de agosto. A la fecha, las aseguradoras ya han pagado indemnizaciones por $1,43 billones, pero persisten demoras en la atención de reclamaciones pendientes.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/regiones/superfinanciera-exige-acelerar-pagos-por-el-terremoto-aseguradoras-ya-han-indemnizado-1-43-billones-506624",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia Financiera",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3252,
+      "titulo": "5.738 sedes educativas afectadas por el terremoto, 68 destruidas",
+      "categoria": "damnificados",
+      "fecha": "2026-11-18",
+      "descripcion": "El Ministerio de Educación identificó daños en planteles educativos de 480 municipios en 22 departamentos tras el terremoto del 10 de agosto. De las 5.738 sedes afectadas, 68 quedaron completamente destruidas y 548 están en riesgo de colapso estructural, afectando el acceso a la educación de miles de estudiantes en las zonas del sismo.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/terremoto-afecto-5-738-sedes-educativas-en-colombia-68-quedaron-destruidas-y-548-estan-en-riesgo-de-colapso-506631",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Educacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3251,
+      "titulo": "De la Espriella anuncia elaboracion de dossier sobre el expresidente Petro",
+      "categoria": "empalme",
+      "fecha": "2026-11-19",
+      "descripcion": "El presidente Abelardo De la Espriella anuncio que se elaborara un dossier sobre el expresidente Gustavo Petro, en medio del escandalo de los llamados 'sexocontratos' que involucra a la Presidencia durante el gobierno anterior.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTy14X0hCLUZoay1zU09peDVmRDFkcF9fS1lLckdDV0M1LURQRmhnMElPM3llQ1o4Y1BENXd4MkFYX1UtdzhvbVllWlpTOGxob1dZQ2s4MWQ5WjF5WXFkMXd3V0p1N3JvOUc1SEU2bzJMd2VkNEdiWFQzWFcta2dmSFlGNWFKTWxvWmhHbUE5eGJFY2R4Q0NlSUNBcWZ4RHBLcDFHTnYxYzZ1czdXc3fSAbMBQVVfeXFMTU1GS0p2UUNLTm9IbTk3WWRmTnBiWllFa0Y1NmdHSVJ6X1gtNjRmTG5vaWFiUDlxcmhrS3prMkZpdk1OZjBoanFrbmFSY0NicUJidVFkR2RLbWRqeWprMVhmWUJoS3FUM0l1SEloNm1WX2ZHTzVaSGMtMW5sczNsU1FfSWUwSi1PQVhDTmVhUVB0dnVSOEFycVZpcC1QVVBQU1UzS0pSakNmNGp0VHFOZzFZTW8?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3250,
+      "titulo": "Reforma tributaria confirma que no habra aumento de IVA pero gravara ingresos sobre $7 millones",
+      "categoria": "economia",
+      "fecha": "2026-11-18",
+      "descripcion": "El Gobierno de Abelardo De la Espriella confirmo que la reforma tributaria (Ley de Rescate Economico) no incluira aumento del IVA, pero una nueva medida afectara a las personas con ingresos mensuales superiores a $7 millones.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSGloT05Gcjd1MmFsNU9OeFhsV0FTd2paRTF5UVdnQXhtN0hQZk1lMkVNR1pzb0J4aGFSWUMwY3FPQ2V1QXlXbmRCQ3dOeXdCQnJZVmpDUmJNcHpjZm5yeUNGbHRLeWZjdVNlbGRJME5yQ2p6NGpLNnpNQnp5M0ZTdV9aQzlTNG5SZWRSaWx4c01wTlMyYVFOMmdOaE5tcEJjZnozM0FtcFI3OXgzMjl0RXFqN0FiQzRzb21xNFpjdllXREZmTHJ3WEZLTGVuTWRVeFJvWDVSc3ZRSDhxNHBPdGlyVS1xZXZTRnlqWUhoV3BiTXFDRE1fYnkyblRyR1U1T2fSAZwCQVVfeXFMTkpPRHZvLTRNQ0k1U3BmMjYxZl9QNTFncTg5WEFUNzFzaXpjaFNLRzdZQlNabU83MmVtUFRJZktMNXhBUE9TbjRSclhFbE9xREZtbkZ0S0VsY184Nnl1SUZ5bGVveDE5WFdYZkZvUXNEOW1hc3lkcFhBZzZOdUZKMUlXbWZRclBWOGVBYm4wZjBidV9YNDJUMktlOEp5b2ozOWRMemgtRVNKdUFvTmE0dHNqaE9USkhtX09hZ3VxM3pBNnNmZ2w3UFhKY2JDb3Q2WldsOTNFc0x5c2txSDVyRF9TS1A2clRtYnFKTE5FeXpfVl9WN1hmdk1lQWN2VkxMVDhQVGppaUNxeEJEVEJpQUR3MHhzUE9EdFJHUEI?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3249,
+      "titulo": "Petro denuncia a Maria Claudia Tarazona, defensa alega intento de intimidacion",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-18",
+      "descripcion": "El expresidente Gustavo Petro anuncio una denuncia contra Maria Claudia Tarazona, viuda de Miguel Uribe Turbay, en medio de las investigaciones sobre el magnicidio del senador; la defensa de Tarazona califico la accion como un intento de intimidarla.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/defensa-de-maria-claudia-tarazona-hablo-tras-el-anuncio-de-denuncia-del-expresidente-petro-en-su-contra-lo-califico-como-intento-de-intimidarla-3602055",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Maria Claudia Tarazona"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55"
+    },
+    {
+      "id": 3248,
+      "titulo": "Alias 'Primo Gay', cabecilla del Clan del Golfo, enviado a la carcel La Picota",
+      "categoria": "seguridad",
+      "fecha": "2026-11-18",
+      "descripcion": "El presidente Abelardo De la Espriella anuncio el envio a la carcel La Picota de Bogota de alias 'Primo Gay', jefe criminal del Clan del Golfo, luego de que el mandatario lo encarara durante el proceso de captura.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/alias-primo-gay-jefe-criminal-del-clan-del-golfo-fue-enviado-a-la-carcel-la-picota-de-bogota-3602064",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella",
+        "alias Primo Gay"
+      ],
+      "entidad": "Ministerio de Defensa / INPEC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3247,
+      "titulo": "Fondo Milagro anuncia entrega de 2.700 viviendas a damnificados en diciembre",
+      "categoria": "avances",
+      "fecha": "2026-11-18",
+      "descripcion": "El Fondo Milagro anuncio que entregara 2.700 viviendas de interes social a damnificados del terremoto del 10 de agosto durante el mes de diciembre de 2026, como parte de su plan de reconstruccion.",
+      "evidencia": "Reportado por Noticias Caracol",
+      "fuentes": [
+        {
+          "nombre": "Noticias Caracol",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGx4N3lHcmVKVy16bElvaGtvMkNQeHFzQnlYMkVQdTNyOWFUbWh5WGZDcG1BeFFOd1RRUEN2cjA1NlhxZ1M4RmlUamxlaUh3RVhKQ18tLVdxVUFEYWVqVVhraVVrYVRfeVBsYkVlOG1zUXlDdDZHcHhwYW1TbU92YmM5M3BWeDlYY1ByOW13em5RTV9NbGUyUWZIT3diaWpuVHNRaG1zVnJxWkxDRlg4Yk5HNVZkRGZTeWU1Vms4QldUTG8waUVRS1dfUHdoWHRuY3FlaHdB0gHjAUFVX3lxTE9wUVBvbHd1QVZneDNSSkhObUhlR3huOXVXNng1UFlqcFA1V0w0b203Ym51bDd1YXJMbHNwN1NUMVhqOGV2N1N6c05MQ1lsMXhaQU45TE15UnlveHRKY2QxbUdwTWpNeEdsbmdkOGI5R1ZTRm1hMGZWRUNielVkNk11QXdWLXZxOTd3djBuZjFLY05TeUo5YjBBT0g0M3hnQkF4WkRpUV9NZkVpVFJETTU1TzZlRHU2WEEwN3Faa3Vqd1pMcDNMczR1TmI4c3oxaHJtbDJiM2psWnF6NktiaWJ1czQw?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3246,
+      "titulo": "Gobernadora de Choco cuestiona manejo nacional de la emergencia y De la Espriella responde",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-17",
+      "descripcion": "La gobernadora del Choco, Nubia Cordoba, hizo declaraciones criticas sobre el manejo del Gobierno nacional frente a la emergencia del terremoto, tras lo cual el presidente Abelardo De la Espriella tomo una decision al respecto, segun reporto Revista Semana.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONzRwY0RyR2tHb2JydHEwcnJmRl9xcGdVYld0MFBRdWxRZi1ZSWNmSGh5MFdaUTBiNXVjSmw3Mi1BQUszdFJvaFotdHdWOEhMRm91VDduYnpsY2lEVkF2V2ktVHJrSzdfZ0FPTGJHYzBqdmFCUFJFbmV4cFpQWGhldk1teGluYnRpYTU3TjIxblpKSko2M1lMSm5lZGhueHZCcVBWb1BmeUpDdVltMU9fM3AzQ3EtdkV3cHRqcnVpTnhaWk1fRUxTWENfcU91RDJfUVdaNkVRTGl6QkdacmgzWjVDbWxtd1FH0gHuAUFVX3lxTE0zX2YwdlJJWk05MlI1alJnTk40dGlrU3pxY1hTb19Ic0hYWEEtVGI5bVBySGRiUjlZV0dqaWtMVjA3Z21oMUhGckpnUkx1OHJ3RnpTWHdHbVlnVXA0WmJOZVJNSy1yTnl5YzlWcE85eHdzNXR0azJrdWRXQ0hnaWtVVTYwb0owUkF2VUhUWnI4YkdQU25saDl4SE84OGg5Q2kxeGU1bmVZMk1GV1lyb3V0eW1HUlJPWEYwb2g1Z3doUHB5V3VWb0trbXhRWjN1LTQ0bDlNNkZEYWZQVTdnRU14QlI5ZFhvQkYxTHJsNVE?oc=5",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "personas_involucradas": [
+        "Nubia Cordoba",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobernacion del Choco / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "negativo"
+    },
+    {
+      "id": 3245,
+      "titulo": "Representante Alejandro Toro denuncia ante la ONU desatencion a damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-19",
+      "descripcion": "El representante a la Camara por el Pacto Historico, Alejandro Toro, radico el 18 de noviembre una denuncia formal ante el Consejo de Derechos Humanos de la ONU contra el gobierno de Abelardo De la Espriella, por la presunta falta de soluciones para los damnificados del terremoto del 10 de agosto y por riesgos a la protesta social.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alejandro-toro-denuncia-onu-gobierno-desatencion-damnificados-terremoto-riesgo-protesta-EG43763016",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Toro"
+      ],
+      "entidad": "Congreso de la Republica / ONU",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 05:55",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 3244,
       "titulo": "De la Espriella rechaza plan de Washington para operaciones conjuntas",
       "categoria": "internacional",
@@ -75659,8 +76039,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-18",
-    "total_casos": 3155,
+    "ultima_actualizacion": "2026-11-19",
+    "total_casos": 3171,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
