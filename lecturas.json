@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-18"
+    "ultima_actualizacion": "2026-11-19"
   },
   "lecturas": [
+    {
+      "id": 747,
+      "titulo": "Hallan que los electrones pueden emparejarse a temperatura ambiente, clave para la superconductividad",
+      "resumen": "Un estudio revela que la formacion de pares de electrones, un ingrediente esencial de la superconductividad, puede ocurrir a temperaturas mucho mas altas de lo que se creia, incluso a temperatura ambiente. El hallazgo sugiere que el obstaculo real para lograr superconductores sin resistencia electrica a temperatura ambiente no es el emparejamiento de electrones sino otro factor aun por identificar.",
+      "por_que_leerlo": "Redefine el problema central que separa a la humanidad de los superconductores a temperatura ambiente, una tecnologia que cambiaria la transmision de energia y la electronica.",
+      "seccion": "ciencia",
+      "tags": [
+        "superconductividad",
+        "fisica cuantica",
+        "energia",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 9,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 748,
+      "titulo": "Ucrania voló un puente clave de Putin usando drones de relevo para evadir las restricciones de Starlink",
+      "resumen": "Ucrania empleó tecnología propia de drones de relevo para sortear las limitaciones de Starlink y ejecutar un ataque exitoso contra un puente estratégico vinculado a Putin. El operativo aplicó lecciones de guerra electrónica aprendidas directamente del campo de batalla frente a su adversario.",
+      "por_que_leerlo": "Muestra cómo la innovación militar improvisada puede superar restricciones impuestas por infraestructura satelital comercial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "drones",
+        "guerra electronica",
+        "starlink",
+        "ingenieria militar"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 749,
+      "titulo": "Anthropic fija el precio de su OPI en 83 dólares por acción, por encima del rango previsto",
+      "resumen": "La esperada salida a bolsa de Anthropic valoró la compañía en 1,5 billones de dólares de forma totalmente diluida, superando las proyecciones iniciales del mercado.",
+      "por_que_leerlo": "Marca un hito histórico para una de las empresas de IA más valiosas del mundo justo al debutar en bolsa.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "inteligencia artificial",
+        "valoracion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 750,
+      "titulo": "Qué son los 'chip-dólares' y cómo financian hoy a Wall Street igual que los petrodólares en los 70",
+      "resumen": "Los excedentes generados por la industria asiática de semiconductores están financiando la compra masiva de acciones estadounidenses, en un mecanismo que recuerda al reciclaje de petrodólares de los años setenta. El fenómeno introduce nuevos riesgos de concentración y dependencia para los mercados globales, segun el analisis.",
+      "por_que_leerlo": "Explica con claridad un mecanismo financiero poco conocido que conecta la industria de los chips con el auge bursátil de Estados Unidos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "chips",
+        "mercados financieros",
+        "semiconductores",
+        "flujos de capital"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/mercados/que-son-los-chip-dolares-y-en-que-se-diferencian-de-los-petrodolares-de-los-anos-70/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 751,
+      "titulo": "Un cristal que destella en ritmo abre una nueva generacion de peines de frecuencia",
+      "resumen": "Investigadores del Caltech, liderados por Andrei Faraon, descubrieron por accidente que miles de millones de atomos embebidos en un cristal emiten luz en destellos ritmicos y sincronizados al ser excitados con laser, un fenomeno llamado superradiancia. El hallazgo, hecho en 2024 mientras buscaban otra cosa, podria dar origen a un nuevo tipo de peine de frecuencia util para mediciones de precision.",
+      "por_que_leerlo": "Muestra como un descubrimiento accidental en optica cuantica podria convertirse en una herramienta de medicion de precision para la proxima generacion de tecnologia cuantica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "fisica cuantica",
+        "fotonica",
+        "peine de frecuencia",
+        "descubrimiento accidental"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 752,
+      "titulo": "Quien responde cuando una IA actua sola: un nuevo marco legal busca definir responsabilidades",
+      "resumen": "Ante ciberataques y danos causados por sistemas de inteligencia artificial que actuan de forma autonoma, investigadores proponen un marco legal para repartir responsabilidades entre la empresa que construyo el modelo, los datos de entrenamiento y los usuarios que lo operaron. El analisis senala que las leyes actuales de responsabilidad de producto y de inmunidad de plataformas no fueron disenadas para agentes de IA que toman decisiones por su cuenta.",
+      "por_que_leerlo": "Util para cualquiera que construya o use agentes de IA y necesite entender quien asume el riesgo legal cuando algo sale mal.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "responsabilidad legal",
+        "agentes autonomos",
+        "regulacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-blame-rogue-ai-legal-framework.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 753,
+      "titulo": "Apagar un gen de reciclaje celular dispara la produccion de proteinas dificiles de fabricar",
+      "resumen": "Investigadores lograron que celulas produzcan cantidades mucho mayores de proteinas usadas para descubrir y desarrollar medicamentos, al desactivar con una modificacion genetica el sistema de reciclaje celular (autofagia) que normalmente degrada esas proteinas. El hallazgo podria acelerar el desarrollo de farmacos y reducir sus costos de investigacion.",
+      "por_que_leerlo": "Una tecnica que podria abaratar y acelerar el desarrollo de nuevos medicamentos, relevante para quien sigue de cerca la industria biotecnologica.",
+      "seccion": "ciencia",
+      "tags": [
+        "biotecnologia",
+        "desarrollo de farmacos",
+        "ingenieria genetica",
+        "produccion de proteinas"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-cellular-recycling-gene-yields-hard.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 754,
+      "titulo": "Hallazgo en Arabia muestra hipopotamos y lagos donde hoy hay desierto, hace 125.000 anos",
+      "resumen": "Un hallazgo arqueologico en Arabia Saudita revela que hace 125.000 anos humanos primitivos convivian junto a enormes lagos rodeados de fauna como hipopotamos, en una region que hoy es un vasto desierto. Miles de herramientas de piedra y restos vegetales sugieren tecnicas de caza sofisticadas, posiblemente con armas potenciadas con compuestos vegetales toxicos.",
+      "por_que_leerlo": "Una evidencia concreta de como el clima transformo por completo un paisaje y la vida humana que dependia de el.",
+      "seccion": "ciencia",
+      "tags": [
+        "arqueologia",
+        "arabia saudita",
+        "paleoclima",
+        "evolucion humana"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-17",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 755,
+      "titulo": "El envejecimiento debilita el sistema de limpieza nocturna del cerebro, segun el MIT",
+      "resumen": "Investigadores del MIT descubrieron que el sistema natural de eliminacion de desechos del cerebro, activo durante el sueno, se vuelve mucho menos eficaz con la edad, asociado a ondas cerebrales de sueno profundo mas debiles y cambios en el flujo sanguineo. Sorprendentemente, algunos adultos mayores conservan ondas de limpieza tan potentes como las de personas jovenes, lo que podria explicar por que el riesgo de Alzheimer varia tanto entre individuos de la misma edad.",
+      "por_que_leerlo": "Ofrece una pista concreta, medible en ondas cerebrales, sobre por que el riesgo de Alzheimer varia tanto entre personas mayores.",
+      "seccion": "ciencia",
+      "tags": [
+        "neurociencia",
+        "alzheimer",
+        "sueno",
+        "envejecimiento"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 756,
+      "titulo": "San Diego apaga sus cámaras Flock y farolas inteligentes apenas tres años después de instalarlas",
+      "resumen": "La ciudad de San Diego desconectará más de 500 cámaras de vigilancia Flock junto con su red de farolas inteligentes, solo tres años después de que el alcalde impulsara su aprobación.",
+      "por_que_leerlo": "Es un caso real de cómo un gobierno local abandona una costosa apuesta de vigilancia tecnológica tras poco tiempo de uso.",
+      "seccion": "tecnologia",
+      "tags": [
+        "vigilancia",
+        "gasto publico",
+        "camaras inteligentes",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-17",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 757,
+      "titulo": "Satya Nadella explica por qué pidió la salida voluntaria de 60.000 empleados de Microsoft",
+      "resumen": "El CEO de Microsoft reveló que la oferta de retiro voluntario a 60.000 empleados en octubre respondió a la reestructuración que exige la inteligencia artificial en la empresa, no a un recorte tradicional de personal.",
+      "por_que_leerlo": "Ofrece una visión directa de cómo una gran tecnológica está rediseñando su fuerza laboral frente al avance de la IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "empleo",
+        "microsoft",
+        "reestructuracion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
+    {
+      "id": 758,
+      "titulo": "Payhawk levanta 280 millones de dólares y alcanza valoración de 2.000 millones",
+      "resumen": "La plataforma de gestión de gastos empresariales Payhawk, fundada en 2018, cerró una ronda de 280 millones de dólares que la valora en 2.000 millones, apoyándose en agentes de IA para automatizar el control de gastos y compras corporativas.",
+      "por_que_leerlo": "Es un ejemplo de cómo una startup de finanzas corporativas escala su valoración integrando agentes de IA en procesos administrativos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "ia agentes",
+        "financiamiento",
+        "gestion de gastos"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 04:02",
+      "auto_generated": true
+    },
     {
       "id": 735,
       "titulo": "Físicos envían un mensaje binario usando gravedad a través de una pared",
