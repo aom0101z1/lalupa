@@ -221,6 +221,409 @@
   ],
   "casos": [
     {
+      "id": 3277,
+      "titulo": "SAE ofrece descuentos de hasta 40% en venta de inmuebles administrados",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) anunció una estrategia de venta de casas, locales, bodegas y lotes bajo su administración con descuentos de hasta el 40%, estableciendo criterios de participación para interesados en adquirir estos bienes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/casas-locales-bodegas-y-lotes-con-descuentos-de-hasta-el-40-asi-puede-comprar-bienes-administrados-por-la-sae-3602293",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE)",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3276,
+      "titulo": "Aseguradoras pagan $1,43 billones a afectados por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-19",
+      "descripcion": "Según Fasecolda, las aseguradoras han pagado $1,43 billones a afectados por el terremoto del 10 de agosto desde entonces. El gremio asegura que el sector llegó a la emergencia en condiciones de solvencia y liquidez, en seguimiento a las exigencias previas de la Superintendencia Financiera para acelerar los pagos.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/seguros-por-terremoto-en-colombia-aseguradoras-han-pagado-143-billones-a-afectados-desde-agosto/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fasecolda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3275,
+      "titulo": "Aeropuerto Matecaña reabre segundo piso tras terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-19",
+      "descripcion": "El Aeropuerto Internacional Matecaña de Pereira reabrió el segundo piso de su terminal desde el 19 de noviembre, alcanzando el 70% de su infraestructura operativa tras los daños causados por el terremoto del 10 de agosto de 2026.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/el-aeropuerto-matecana-reabre-su-segundo-piso-tras-terremoto",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aeropuerto Matecaña",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 3274,
+      "titulo": "Consejo Nacional de Ingenieria denuncia penalmente a Veronica Estrada por falsificar tarjeta profesional",
+      "categoria": "mentiras",
+      "fecha": "2026-11-19",
+      "descripcion": "Ademas del titulo academico falso ya confirmado por la Universidad Nacional, la congresista del Pacto Historico Luz Veronica Estrada enfrenta una nueva denuncia penal del Consejo Nacional de Ingenieria por presuntamente falsificar su tarjeta profesional, luego de que su solicitud de expedicion del documento fuera denegada por no cumplir los requisitos legales.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/19/la-congresista-luz-veronica-estrada-que-presento-titulo-universitario-adulterado-tambien-habria-falsificado-su-tarjeta-profesional-consejo-nacional-de-ingenieria-instauro-denuncia-penal-en-su-contra/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Veronica Estrada"
+      ],
+      "entidad": "Consejo Nacional de Ingenieria / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18"
+    },
+    {
+      "id": 3273,
+      "titulo": "Presidente del Senado pide retirar puntos de la Ley de Rescate y reducir ministerios",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "El presidente del Senado planteo que la Ley de Rescate Economico debe contemplar una reduccion del tamano del Estado, incluyendo la fusion o eliminacion de ministerios, como alternativa para generar ahorros fiscales, y pidio retirar otros puntos del proyecto.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/presidente-del-senado-pedira-al-gobierno-retirar-otros-puntos-de-la-ley-de-rescate-y-reducir-ministerios/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3272,
+      "titulo": "De la Espriella podria definir unilateralmente el aumento del salario minimo 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "En medio de la negociacion del salario minimo para 2027, el Gobierno indico que si no hay consenso entre centrales obreras y gremios, sera el presidente Abelardo de la Espriella quien termine definiendo el incremento por decreto.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/presidente-de-la-espriella-terminaria-definiendo-el-aumento-del-salario-minimo-en-colombia-en-este-caso/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3271,
+      "titulo": "Gobierno pedira aval del Congreso para operaciones militares conjuntas con EE.UU.",
+      "categoria": "internacional",
+      "fecha": "2026-11-19",
+      "descripcion": "El canciller Omar Bula confirmo que el Gobierno De la Espriella solicitara autorizacion del Congreso para que tropas estadounidenses realicen operaciones conjuntas en Colombia, tras una reunion con el secretario de Guerra de EE.UU., Pete Hegseth. El anuncio se da en medio de un reporte de The New York Times que el Gobierno colombiano desmintio parcialmente.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-de-la-espriella-buscara-aval-del-congreso-para-operaciones-conjuntas-con-ee-uu-en-colombia/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Omar Bula",
+        "Pete Hegseth"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Defensa / Cancilleria",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3270,
+      "titulo": "Atencion de secuelas de salud mental por el terremoto en Cali",
+      "categoria": "damnificados",
+      "fecha": "2026-11-19",
+      "descripcion": "Autoridades de salud en Cali reportan la atencion de secuelas emocionales y psicologicas en la poblacion afectada por el terremoto del 10 de agosto, tres meses despues del sismo.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mejor-colombia/articulo/salud-mental-en-cali-asi-se-atienden-las-secuelas-emocionales-que-dejo-el-terremoto/202613/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Cali / Secretaria de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3269,
+      "titulo": "Italika instalara planta de ensamblaje de motocicletas en Barranquilla tras acuerdo con el Gobierno",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "La empresa mexicana Italika anuncio un acuerdo con el Gobierno De la Espriella para ensamblar motocicletas en Barranquilla, en el marco de la agenda de atraccion de inversion extranjera del nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/vehiculos/articulo/quien-es-italika-la-empresa-que-montara-motocicletas-en-barranquilla-tras-el-acuerdo-con-el-gobierno-de-la-espriella/202643/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno De la Espriella / Italika",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3268,
+      "titulo": "Contratos por casi $8.000 millones dejados firmados por Jaime Uribe antes de salir del Fondo Milagro",
+      "categoria": "contratacion",
+      "fecha": "2026-11-19",
+      "descripcion": "Se revelaron contratos por casi $8.000 millones que el entonces gerente del Fondo Milagro, Jaime Uribe, dejó firmados antes de su polémica salida de la entidad encargada de administrar los recursos para la reconstrucción tras el terremoto del 10 de agosto, generando cuestionamientos sobre la transparencia de dichas contrataciones.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOT0t5UjJNV0Fna2J6QnlyUWNNQUZWb2E2dUU0Yk9UQVNVbHhKbkpreXI4SEctNXc3dnF4X1g4TFRXVFRxTk1pQ2tPb09LT3dlbGdXUjlLamFoV1BFLVp0dXI0LTIzakdUVzBhOXA0TjQ0N2xsWDZOMzR6ekdMdkVWMk1lSFhYVGhpRVg0eEtEclVpQUZaN0hJbDBYcF9kZFRSUnVsNmZwcTY2U0ljZnRxR3JHVXYzZDJnVXFjZVdoeW9sNkFPQ1NuQ1NQVEpjZjMwM2M1VEk5Vmpjd3k1bm9sSndIWll4WXRPcFFlRGtyUnluSWRieVJCQlVacl8yaWlXaFJoanJKUVhKdUZfVDEwVnRGQnJlTmFLLU0tdXZQbWk1QlJNSGdMb2Nn0gHEAkFVX3lxTE4zTExYNGw1b0lHNHBIS01MNWdNbnpxRzdMZDFFN0J2TGpTQ0JaTUtCbkVQM3VHVzU0OTh5andUNW1MSFBxeEpWSkhheUg2MlJpVVQ4VmlqUG8taEpobGEtVkhSUWZJNWZQZHAxY0I0QzlNelJXM29maERxRjQwVzNXdmp1Z0daaEtqcXdDdE9mQjZMbWtUOGpfa2NIVWljNUVNd25HNEpEX1pIYmNnaDkycEZ1UGNvLVFULTRVUjN6bHBEN3NoT2o4NEtqNjZTYmQ2Q3JsU0ZwTDhJS29YaTBQUGROeWdOSzZ3cTBVNzFZX0tiZkVKVFpJVHhUbjV5M29odEZVcmwwQkRISGJTQzFyNGxtSjRwcE1odkVrUHpNZG5pWmV0dU4xOVJwN0RnX0RQb3Vic0plNHhtZmxOelZMNGNuTA?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Uribe"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3267,
+      "titulo": "Gobierno pediría permiso al Congreso para que tropas de EE.UU. operen en Colombia",
+      "categoria": "internacional",
+      "fecha": "2026-11-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció que solicitará permiso al Congreso para permitir operaciones de tropas estadounidenses en territorio colombiano, argumentando la necesidad de 'salvar vidas' en el marco de la lucha contra grupos armados y el narcotráfico, lo que representa un giro frente a previas posturas del gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPajQ5SG0zUnBxVnhJQzVQdFlTWnRxLU5NRDR3Q3NHeEFGS0Y4V3lqZ2RVMWF4QzF3S1lPZDBzUTdrM3U3U3paOE9uZWpzaDdZbEx3ZXowSk5yT3FETV9mWmtMRVJyMTdEYWtiYzJuMnc4NDJwQkR4M2xRYU1hSGtzbm1vNFhibmFvUVRlWXUyeTR1RXhuX01KRi01WkRnSEViS2Q2dEQzMmNPdUV0dzFFMmlsRjMtTjJDX0lkX1loNjBUTU9mbWRWSzlneXVGY0ttZkV5UFkybjNRYmNkYlI4eHZUU3JEdW5LNnliVXk0M050QWtIQmNyLUhjOVN6MnZUNkxCWnVFS0dxTVRTeW1HY3FJajNLVU16YzNGNjByeE_SAbsCQVVfeXFMTUZXUy03bU5uVi1zai1aUER3WnBBdnBMYktPY2RDWTRpaFhKajFoajZrMUdIOE1EZGEtN3kwenBBd05xb2I3bW53c1hESGdPdmR4TUlYRXBGT2NPRmxMRDE3bHVmUTB2cFhEZ095b0N2cGw2dFFWRTU0MTV6VUdfZC1ic1EzWm5vaWxuVW51SjlSRE90SjI2RUNMMFhmVjNndkNhY04xX2ZhQzNZemZCVGFVR0lEYUJlZ1MwRUlKM3RFWWxTYUFZblZLRVl4NklYT0RLYklPOWRsQ3QwWWI4Ql82R24tVmVCTlZyU0dDWWhPelpDQjlXQ3ZBWElNalZYdU92c0xFZVdfYlZsSGJLbnNZaU1wd3ZPVjlic21CR2w3ZkpHMGV6M0xsZTZlbm9zbXc4M1JOYkp3TWxN?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3266,
+      "titulo": "Consejo de Estado suspende decreto del gobierno Petro sobre salario mínimo que afectaba pensiones",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-19",
+      "descripcion": "El Consejo de Estado suspendió un decreto expedido durante el gobierno de Gustavo Petro que modificaba el parámetro de deslizamiento del salario mínimo, al determinar que la medida incrementaba el costo de financiar rentas vitalicias y afectaba negativamente algunas pensiones de los colombianos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/consejo-de-estado-suspendio-decreto-del-gobierno-petro-sobre-el-salario-minimo-que-afectaba-algunas-pensiones-506672",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Consejo de Estado",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18"
+    },
+    {
+      "id": 3265,
+      "titulo": "Juicio a exministros Velasco y Bonilla por caso UNGRD se definirá en febrero de 2027",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-18",
+      "descripcion": "Las decisiones sobre los principales involucrados en el escándalo de corrupción de la UNGRD quedaron aplazadas para 2027. El inicio del juicio contra los exministros Luis Fernando Velasco y Ricardo Bonilla está programado para febrero de ese año, en el marco del proceso por el presunto desvío de recursos para atención de desastres durante el gobierno Petro.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/corrupcion-en-ungrd-decisiones-sobre-principales-involucrados-quedaron-para-2027",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Fernando Velasco",
+        "Ricardo Bonilla"
+      ],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18"
+    },
+    {
+      "id": 3264,
+      "titulo": "Deicy Jiménez aplaza cita con la Fiscalía y saldrá del país en caso de 'sexocontratos'",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-18",
+      "descripcion": "Deicy Jiménez, quien denunció al expresidente Gustavo Petro en el escándalo de los 'sexocontratos', pidió aplazar su cita con la Fiscalía programada para el 20 de noviembre porque saldrá del país. Esto ocurre días después de que Petro reconociera que intercedió para que ella 'buscara trabajo en el Congreso' y que sostuvieron encuentros cuando ella se dedicaba al entretenimiento para adultos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/deicy-jimenez-sale-pais-aplaza-cita-fiscalia-caso-sexocontratos-FF43757147",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Deicy Jimenez"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18"
+    },
+    {
+      "id": 3263,
+      "titulo": "Piden al Gobierno acelerar reconstrucción de viviendas afectadas por el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-18",
+      "descripcion": "Diversos sectores urgieron al Gobierno Nacional acelerar el ritmo de reconstrucción de viviendas destruidas por el terremoto del 10 de agosto, señalando demoras en la entrega de soluciones habitacionales a los damnificados en las zonas afectadas por el sismo.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUhsN25iM3NTOVYwa0hGMTRuNlZJdmtBQlF6dWdLbTFvTEJ6ZExVaUJTaGp0RFo3em1INHl4d0MwVjBwZVluMkNVSTBLX0JfSE1sTngybHM4SnpPUWVZR0kxVWhQU3F3ajZxdU1NMjV1SE94Sld1NUU4amYzdVMxYXNuMXVrNnJkbFdybHFleHRoQnU5SEpjSlV6aFNxVUgxTnNuVnVZOHRVWXBpRm5LXy05TXhNTG9JQ25MYUdR?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3262,
+      "titulo": "Gobierno De la Espriella llega a 10 bombardeos con nueva operación en el Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella confirmó una nueva operación de bombardeo en el Valle del Cauca, la décima de su administración contra grupos armados ilegales. La cifra se enmarca en la estrategia de seguridad del nuevo gobierno frente a estructuras criminales y disidencias.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3dLQUtfNzhNLTVSUTA5Q0J6QnFvdUhXbUstWnZsUWtPeVVxT3NQVEl0NzhUQWpheEJrV055UFkxMnJBUTBkdDRGbEhiTWRqQmN2V0lRVnA4NU9IaHdfOHNPVzlHcXJScF9RcXh6dVA1ZkRSbEp0Q3JTMjN5VzJVZ3JOeXFHbklvR051d2hJUzNLUGFFZnhYYWJOczlYd2JDNU0yaU56cmFCbTItNm1SclUwcjAzMms0VUtr0gHPAUFVX3lxTE5XajBFTUtUYWVad3pHWVpheW1YTkV0aHdGaXhidEJRcTJQOEs2U3FnWHBCR0tSZ0tIb0FseGRnRVk4ZlBJVlRjdTB6cTByNnpIbGg1UnVMX2xvNTdDcjVQX0lpbVpORkQweHo3RmZ0cTA5YW1LMHlaeE5mMUJYMjFSYmF1UFU2MGJFaFpndWlBZFhPMVUxMTZibXo0NXVJN2piaHR5bHg5TTV4aDZqRlNtUHl4eXZlLU1jNHkxMURTb21mN3FpTkhsVnNmTTZINA?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3261,
+      "titulo": "Eva Ferrer declara ante fiscales de Nueva York por denuncias contra Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-19",
+      "descripcion": "Eva Ferrer, señalada en el entramado de corrupción de la UNGRD, rindió declaración ante fiscales de Nueva York en el marco de denuncias que la vinculan con Verónica Alcocer, expresidenta del Pacto Histórico y esposa del expresidente Gustavo Petro. El encuentro se produce en medio de investigaciones internacionales sobre presuntos manejos irregulares de recursos y contactos políticos durante el gobierno Petro.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcGI3M2tvWExWZHJGVHZtNWpUTVNuX0xGN2FrSnhOR0F2VDFGcUd2NnFQUkdPTG5RMDN4RXR5ODRWc0pfbjRiZVNuc0FrNnN0eEozUHJjdkhyTFMweWd1ZGhOZ0h6NEdTSXhRR1ZVcnc2X1RTZmc5OEhGSkp1Nk8tcXNnMlBseWxVOVY4dmt2WVRZU3NwNjZncnd1X1p2OEZ1RnVDZmFRQWxwakloVjI3dFRLOWM1MGZZbFRndEl2QkxkbXRuNnpYMHdIWGdnUk92Q3VDd0JSVVBhVGZIQ2VyWHpLUGpUV01LYlNmM1JRbzBUTFJxcG1IaGhn0gH_AUFVX3lxTE5xcHJULTFFNWwtMzJwdDFZSE5tLW5CcXVJOUpFZXg3Z19ja1hCZ1dncWZWY0xuZVkzSUh0U2RTR2NZN3ktTVNuc2RDSlhoQU1hei1UVmZudGlpMjZ5dnB2VzFBd29CWkMzU3VJNld1ZElGc1gyQ2tvNlRBT2M3MktVU0hreFB4N1lNMGN4ZWllTGlFNmliZTNjRWRHekl3cTJ4dmJqaEtNVTlDSHJfNlljUlNSM3FwX0dmT3BfZ2NXRHByclhITnhJYWszNHdEbWVLdEZNbkx0SlFNSXRnWk9rY1VXVDlqaXJLZTN1TXQ4RzJ3TnFEWHMyamUxbWRjcw?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Eva Ferrer",
+        "Veronica Alcocer"
+      ],
+      "entidad": "Fiscalia de Nueva York / UNGRD",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-19 15:18"
+    },
+    {
       "id": 3260,
       "titulo": "Universidad Nacional desmiente título académico de congresista del Pacto Histórico",
       "categoria": "mentiras",
@@ -76040,7 +76443,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-19",
-    "total_casos": 3171,
+    "total_casos": 3188,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
