@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:02:38 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:26:16 -0000</lastBuildDate>
+    <item>
+      <title>Un modelo de IA de Anthropic resuelve dos problemas abiertos en física de agujeros negros</title>
+      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+      <guid isPermaLink="false">lalupa-lectura-759</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de Anthropic reportaron que su modelo Claude logró resolver dos problemas matemáticos abiertos relacionados con la física de agujeros negros, un terreno donde los modelos de lenguaje rara vez producen resultados originales verificables. El hallazgo generó más de 150 puntos y 40 comentarios en Hacker News, con debate sobre el verdadero alcance del aporte. Por que leerlo: Muestra un caso concreto donde un modelo de IA produjo una contribución científica original y verificable, no solo texto plausible. (Hacker News, 6 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>El asistente de IA Muse de Meta mezcla conversaciones y expone datos privados de empleados</title>
+      <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
+      <guid isPermaLink="false">lalupa-lectura-760</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Empleados de Meta reportaron que el agente de IA Muse les mostró mensajes ajenos sobre solicitudes de cuidado infantil, consejos de carrera, pedidos de productos y saldos bancarios que no les pertenecían. Meta asegura que esos saldos no son reales, pero las conversaciones internas muestran preocupación entre el propio personal por la privacidad del sistema. Por que leerlo: Es un caso concreto de cómo un agente de IA mal calibrado puede filtrar información privada incluso dentro de la empresa que lo crea. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un tribunal obliga al Reino Unido a revelar la orden secreta para crear una puerta trasera en Apple</title>
+      <link>https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/</link>
+      <guid isPermaLink="false">lalupa-lectura-761</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un tribunal británico rechazó el argumento del gobierno de que divulgar la orden secreta pondría en riesgo la seguridad nacional, y lo obligó a hacer pública la solicitud que exigía a Apple crear acceso oculto a datos cifrados de usuarios. Por que leerlo: Sienta un precedente legal sobre los límites del poder estatal para exigir accesos ocultos a la encriptación de productos tecnológicos. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Reino Unido admite haber emitido una orden secreta a Apple para debilitar su cifrado</title>
+      <link>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</link>
+      <guid isPermaLink="false">lalupa-lectura-762</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>El gobierno británico confirmó, tras presión legal, que envió a Apple una orden secreta bajo su ley de seguridad en línea para acceder a datos cifrados de usuarios, algo que la compañía había resistido públicamente. El caso revive el debate sobre puertas traseras de cifrado y la privacidad de millones de usuarios de iPhone. Por que leerlo: Expone cómo un gobierno occidental intentó forzar en secreto una puerta trasera de cifrado, algo clave para entender los riesgos reales de la privacidad digital. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Hallan vulnerabilidad crítica que permite ejecutar código remoto sin autenticación en Rails estándar</title>
+      <link>https://verialabs.com/ruby2shell/</link>
+      <guid isPermaLink="false">lalupa-lectura-763</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de seguridad descubrieron una falla llamada 'Ruby2shell' que permite ejecución remota de código (RCE) en instalaciones estándar de Ruby on Rails sin necesidad de autenticación previa. El hallazgo acumuló 334 puntos en Hacker News por el riesgo que representa para miles de aplicaciones web construidas sobre este framework. Por que leerlo: Si construyes o mantienes aplicaciones en Rails, necesitas conocer esta falla crítica antes de que un atacante la explote. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>La logística consume 15,6% de las ventas de las empresas colombianas; la meta es 9,5% en 2030</title>
+      <link>https://www.larepublica.co/empresas/la-logistica-se-lleva-15-6-de-las-ventas-de-las-empresas-y-se-busca-bajarlo-a-9-5-en-2030-4528316</link>
+      <guid isPermaLink="false">lalupa-lectura-764</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Un diagnóstico del sector revela que los costos logísticos equivalen al 15,6% de las ventas de las empresas en Colombia, muy por encima de la meta de 9,5% fijada para 2030. El hallazgo se da en medio de un repunte desigual del comercio exterior entre distintos sectores económicos. Por que leerlo: Te da una cifra concreta para entender cuánto le cuesta a cualquier negocio colombiano mover mercancía y la meta oficial para los próximos años. (La Republica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Fármacos para bajar de peso podrían reducir muertes y aliviar la presión sobre tierras agrícolas para 2050</title>
+      <link>https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html</link>
+      <guid isPermaLink="false">lalupa-lectura-765</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un estudio de la Universidad de Aberdeen proyecta que la adopción masiva de medicamentos para perder peso (tipo GLP-1) mejoraría la salud poblacional y, al mismo tiempo, reduciría la demanda de tierra agrícola destinada a producir alimentos, generando beneficios ambientales adicionales. Los investigadores calculan un doble efecto positivo: menos muertes prematuras y menos presión sobre el uso del suelo. Por que leerlo: Conecta una tendencia farmacéutica masiva con sus efectos económicos y ambientales a largo plazo, algo poco explorado hasta ahora. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un estudio halla toxinas de hongos en los 212 alimentos de origen vegetal analizados en el Reino Unido</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261118073749.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-766</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores probaron 212 productos veganos y vegetarianos —incluidas leches de avena, almendra y soya, y sustitutos de carne— vendidos en el Reino Unido, y encontraron que todos contenían al menos una micotoxina, compuesto tóxico producido por hongos que contaminan granos y legumbres. El hallazgo sorprendió a los propios investigadores por la universalidad del problema. Por que leerlo: Cuestiona con datos la idea de que los alimentos ultraprocesados a base de plantas son automáticamente más saludables. (ScienceDaily, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Una proteína llamada SORLA reduce los enredos de tau y protege el cerebro en ratones con Alzheimer</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261114202233.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-767</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos aumentaron los niveles de la proteína SORLA en ratones y lograron reducir significativamente los enredos tóxicos de tau, proteger las conexiones neuronales y frenar la atrofia cerebral asociada al Alzheimer. Al eliminar la proteína en otro grupo de ratones, el daño neurológico empeoró, confirmando su papel protector. Por que leerlo: Señala un posible nuevo blanco terapéutico contra el Alzheimer respaldado por evidencia experimental concreta. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Datos abiertos de la NASA permiten hallar pulsares hasta un millón de veces más rápido</title>
+      <link>https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/</link>
+      <guid isPermaLink="false">lalupa-lectura-768</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un equipo internacional de científicos usó datos públicos de la misión Fermi de la NASA para desarrollar un nuevo método que detecta pulsares difíciles de encontrar mucho más rápido que las técnicas anteriores, acelerando drásticamente la búsqueda de estos objetos astronómicos. Por que leerlo: Es un ejemplo concreto de cómo los datos abiertos y nuevos métodos computacionales aceleran el descubrimiento científico sin necesidad de nuevos telescopios. (NASA, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Lluvias de El Niño provocan la mayor floración del desierto de Atacama en la era satelital</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/</link>
+      <guid isPermaLink="false">lalupa-lectura-769</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Precipitaciones invernales vinculadas al fenómeno El Niño despertaron semillas dormidas en el norte de Chile, cubriendo el desierto de Atacama con flores en lo que podría ser la floración más extensa registrada desde que existen satélites de observación terrestre. Por que leerlo: Muestra con evidencia satelital cómo un fenómeno climático global transforma uno de los desiertos más áridos del planeta. (NASA, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>El Cybercab de Tesla cuesta US$30.000 pero exige pagar US$299 al mes para poder usarlo</title>
+      <link>https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/</link>
+      <guid isPermaLink="false">lalupa-lectura-770</guid>
+      <pubDate>Thu, 19 Nov 2026 19:26:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Tesla venderá su robotaxi Cybercab por US$30.000, pero los compradores deberán pagar una suscripción mensual de US$299 para operarlo, y la empresa se reserva el derecho de restringir en qué zonas puede circular e incluso bloquear su reventa. Por que leerlo: Expone un modelo de negocio donde comprar el producto no da control total sobre él, una tendencia a vigilar en productos conectados. (Ars Technica, 4 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Hallan que los electrones pueden emparejarse a temperatura ambiente, clave para la superconductividad</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261116023358.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Tue, 17 Nov 2026 19:41:00 -0000</pubDate>
       <category>Ciencia</category>
       <description>Un nuevo estudio vincula una variante genetica heredada de los neandertales con una estructura cerebral clave y una menor probabilidad de desarrollar esquizofrenia. El hallazgo confirma que el cruce entre humanos modernos y neandertales hace decenas de miles de anos sigue afectando la salud mental actual. Por que leerlo: Muestra con evidencia genetica concreta como la herencia neandertal sigue moldeando enfermedades mentales humanas hoy. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Los centros de datos hiperescala ya consumen el 2% de la electricidad de EE.UU.</title>
-      <link>https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/</link>
-      <guid isPermaLink="false">lalupa-lectura-699</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un nuevo estudio calcula el consumo energético y las emisiones de los grandes centros de datos operados por compañías como Amazon, Microsoft y Google, que en conjunto representan cerca del 2% de toda la electricidad consumida en Estados Unidos. El crecimiento de la demanda de cómputo para inteligencia artificial es el principal motor detrás de ese aumento. Por que leerlo: Da una cifra concreta para entender el verdadero costo energético del boom de la inteligencia artificial. (Ars Technica, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un ataque a Optimizely infecto con malware a sitios de Zoom y GitLab</title>
-      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
-      <guid isPermaLink="false">lalupa-lectura-700</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La plataforma de pruebas y personalizacion web Optimizely fue comprometida y usada para distribuir malware a visitantes de sitios de grandes marcas, incluidas Zoom y GitLab, segun una investigacion de seguridad independiente. El incidente expone los riesgos de los ataques a la cadena de suministro de software que convierten a un solo proveedor en vector de infeccion masiva. Por que leerlo: Muestra como una sola herramienta de terceros comprometida puede convertir a empresas confiables en canal de infeccion para millones de usuarios. (Hacker News, 4 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Estabilizar la economía no garantiza ganar elecciones, revela estudio de 44 programas</title>
-      <link>https://www.bloomberglinea.com/latinoamerica/argentina/advertencia-para-milei-el-dato-que-demuestra-que-estabilizar-la-economia-no-asegura-ganar-elecciones/</link>
-      <guid isPermaLink="false">lalupa-lectura-701</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Martín Tobal, director del Banco Central de México, analizó 44 programas de estabilización económica exitosos en el mundo y encontró que solo 17 de los gobiernos que los implementaron lograron ser reelegidos. El hallazgo cuestiona la idea de que el éxito macroeconómico se traduce automáticamente en respaldo político. Por que leerlo: Ofrece evidencia concreta sobre la relación, más débil de lo que se cree, entre buenos resultados económicos y continuidad política. (Bloomberg Linea, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Como crecieron tan rapido los primeros agujeros negros supermasivos del universo</title>
-      <link>https://phys.org/news/2026-11-early-black-holes-grown-productive.html</link>
-      <guid isPermaLink="false">lalupa-lectura-702</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un cuasar llamado J0313-1806, observado cuando el universo tenía menos de 700 millones de años, ya albergaba un agujero negro de unas 3.000 millones de masas solares. Nuevos modelos proponen que episodios caóticos de acreción de materia explicarían este crecimiento acelerado, un enigma que ha intrigado a los astrofísicos por dos décadas. Por que leerlo: Explica con evidencia observacional una de las preguntas más difíciles de la cosmología moderna. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Voltear capas atomicas podria resolver el problema de calor en chips apilados</title>
-      <link>https://phys.org/news/2026-11-flip-side-upside-atomic-layers.html</link>
-      <guid isPermaLink="false">lalupa-lectura-703</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores japoneses descubrieron que invertir la orientación de capas de materiales de solo unos átomos de grosor permite dirigir mejor el flujo de calor en procesadores apilados en 3D. El hallazgo podría ayudar a superar uno de los principales obstáculos para seguir aumentando la velocidad de los computadores mediante el apilamiento de chips. Por que leerlo: Ofrece una pista concreta sobre cómo la industria de semiconductores podría superar el límite térmico del apilamiento de chips. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un amplificador cuantico de diamante a temperaturas ultra bajas multiplica senales 1.000 veces</title>
-      <link>https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html</link>
-      <guid isPermaLink="false">lalupa-lectura-704</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Científicos del instituto OIST en Japón crearon un amplificador de microondas basado en espines electrónicos en diamante que opera cerca del cero absoluto y aumenta señales más de 1.000 veces, añadiendo un ruido cercano al mínimo permitido por la física. El dispositivo es más robusto que las tecnologías actuales y podría usarse en sistemas de computación cuántica más exigentes. Por que leerlo: Es un avance medible hacia hardware cuántico más práctico y resistente, clave para la próxima generación de computadores. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Startup de robots militares respaldada por Eric Trump no pago nomina y podria quebrar</title>
-      <link>https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/</link>
-      <guid isPermaLink="false">lalupa-lectura-705</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La empresa de robótica, que fabrica sistemas tipo 'robo-soldado', no logró pagar la nómina de sus empleados un año después de que su CEO usara fondos de la compañía para comprar una vivienda de lujo. El caso expone fallas graves de gobierno corporativo en una startup de defensa con respaldo político de alto perfil. Por que leerlo: Es un caso de estudio sobre cómo el mal manejo financiero y la falta de controles pueden hundir a una startup pese a tener inversionistas influyentes. (Ars Technica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Los confinamientos por COVID-19 redujeron la actividad global de incendios en 12,3%</title>
-      <link>https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/</link>
-      <guid isPermaLink="false">lalupa-lectura-706</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un analisis de datos satelitales encontro que durante los confinamientos por COVID-19 la actividad de incendios en el mundo cayo un 12,3%, revelando el peso real de la actividad humana en los patrones globales de fuego. El estudio ofrece una medicion cuantificada y poco comun del impacto directo de la actividad economica sobre el planeta. Por que leerlo: Cuantifica con datos concretos cuanto influye la actividad humana en los incendios globales, algo que rara vez se mide con tanta precision. (Ars Technica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Windows 11 recopila datos sobre que agentes de codigo e IA usan los desarrolladores</title>
-      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-      <guid isPermaLink="false">lalupa-lectura-707</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un analisis independiente revelo que Windows 11 envia a Microsoft telemetria detallada sobre el uso de herramientas de codificacion asistidas por IA y otros programas de desarrollo, sin que quede claro para el usuario que esta siendo monitoreado. El hallazgo genera dudas sobre la privacidad de los desarrolladores y el control que Microsoft ejerce sobre el ecosistema de herramientas de IA. Por que leerlo: Alerta a quienes programan con asistentes de IA sobre que tanto vigila Microsoft sus herramientas de trabajo diario. (Hacker News, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Anthropic ya factura US$81.000 millones al año y se acerca al IPO como líder en IA</title>
-      <link>https://www.larepublica.co/globoeconomia/anthropic-esta-a-punto-de-convertirse-en-la-accion-de-ia-mas-importante-del-mundo-4525749</link>
-      <guid isPermaLink="false">lalupa-lectura-708</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Anthropic registró ingresos anualizados de US$81.000 millones al 31 de octubre, apenas seis años después de su fundación, y se perfila para convertirse en la acción de inteligencia artificial más relevante del mercado en medio de su próximo debut bursátil. Por que leerlo: Muestra qué tan rápido puede escalar una startup de IA y qué métricas observar antes de una salida a bolsa. (La Republica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Solé pone en marcha dos plantas solares en el Cesar y planea 16 para 2027</title>
-      <link>https://www.valoraanalitik.com/sole-pone-en-marcha-dos-plantas-solares-en-el-cesar-y-proyecta-16-instalaciones-para-2027-con-millonaria-inversion-de-skandia/</link>
-      <guid isPermaLink="false">lalupa-lectura-709</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La empresa Solé inauguró dos plantas solares en el departamento del Cesar con respaldo financiero de Skandia, y proyecta tener 16 minigranjas operando entre 2026 y 2027. Las 14 instalaciones restantes están en distintas etapas de construcción. Por que leerlo: Muestra cómo se financia y escala paso a paso un proyecto de energía renovable en Colombia. (Valora Analitik, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Proyectos de infraestructura clave en Colombia se frenan por trámites ambientales</title>
-      <link>https://www.valoraanalitik.com/estos-son-los-proyectos-clave-que-enfrentan-demoras-por-tramites-ambientales/</link>
-      <guid isPermaLink="false">lalupa-lectura-710</guid>
-      <pubDate>Tue, 17 Nov 2026 05:01:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un informe de Corficolombiana identifica proyectos como Colectora y Sirius que enfrentan demoras por permisos ambientales, y propone un modelo de acuerdos claros para destrabar su avance. Por que leerlo: Ayuda a dimensionar el riesgo regulatorio que enfrenta cualquier gran inversión en infraestructura en Colombia. (Valora Analitik, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

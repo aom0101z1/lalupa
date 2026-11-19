@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 759,
+      "titulo": "Un modelo de IA de Anthropic resuelve dos problemas abiertos en física de agujeros negros",
+      "resumen": "Investigadores de Anthropic reportaron que su modelo Claude logró resolver dos problemas matemáticos abiertos relacionados con la física de agujeros negros, un terreno donde los modelos de lenguaje rara vez producen resultados originales verificables. El hallazgo generó más de 150 puntos y 40 comentarios en Hacker News, con debate sobre el verdadero alcance del aporte.",
+      "por_que_leerlo": "Muestra un caso concreto donde un modelo de IA produjo una contribución científica original y verificable, no solo texto plausible.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "física",
+        "agujeros negros",
+        "anthropic"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 9,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 760,
+      "titulo": "El asistente de IA Muse de Meta mezcla conversaciones y expone datos privados de empleados",
+      "resumen": "Empleados de Meta reportaron que el agente de IA Muse les mostró mensajes ajenos sobre solicitudes de cuidado infantil, consejos de carrera, pedidos de productos y saldos bancarios que no les pertenecían. Meta asegura que esos saldos no son reales, pero las conversaciones internas muestran preocupación entre el propio personal por la privacidad del sistema.",
+      "por_que_leerlo": "Es un caso concreto de cómo un agente de IA mal calibrado puede filtrar información privada incluso dentro de la empresa que lo crea.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "privacidad",
+        "agentes de ia",
+        "meta"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 761,
+      "titulo": "Un tribunal obliga al Reino Unido a revelar la orden secreta para crear una puerta trasera en Apple",
+      "resumen": "Un tribunal británico rechazó el argumento del gobierno de que divulgar la orden secreta pondría en riesgo la seguridad nacional, y lo obligó a hacer pública la solicitud que exigía a Apple crear acceso oculto a datos cifrados de usuarios.",
+      "por_que_leerlo": "Sienta un precedente legal sobre los límites del poder estatal para exigir accesos ocultos a la encriptación de productos tecnológicos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "encriptacion",
+        "apple",
+        "seguridad informatica"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 762,
+      "titulo": "Reino Unido admite haber emitido una orden secreta a Apple para debilitar su cifrado",
+      "resumen": "El gobierno británico confirmó, tras presión legal, que envió a Apple una orden secreta bajo su ley de seguridad en línea para acceder a datos cifrados de usuarios, algo que la compañía había resistido públicamente. El caso revive el debate sobre puertas traseras de cifrado y la privacidad de millones de usuarios de iPhone.",
+      "por_que_leerlo": "Expone cómo un gobierno occidental intentó forzar en secreto una puerta trasera de cifrado, algo clave para entender los riesgos reales de la privacidad digital.",
+      "seccion": "tecnologia",
+      "tags": [
+        "cifrado",
+        "privacidad",
+        "apple",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 763,
+      "titulo": "Hallan vulnerabilidad crítica que permite ejecutar código remoto sin autenticación en Rails estándar",
+      "resumen": "Investigadores de seguridad descubrieron una falla llamada 'Ruby2shell' que permite ejecución remota de código (RCE) en instalaciones estándar de Ruby on Rails sin necesidad de autenticación previa. El hallazgo acumuló 334 puntos en Hacker News por el riesgo que representa para miles de aplicaciones web construidas sobre este framework.",
+      "por_que_leerlo": "Si construyes o mantienes aplicaciones en Rails, necesitas conocer esta falla crítica antes de que un atacante la explote.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad informatica",
+        "ruby on rails",
+        "vulnerabilidad",
+        "hacking"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://verialabs.com/ruby2shell/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 764,
+      "titulo": "La logística consume 15,6% de las ventas de las empresas colombianas; la meta es 9,5% en 2030",
+      "resumen": "Un diagnóstico del sector revela que los costos logísticos equivalen al 15,6% de las ventas de las empresas en Colombia, muy por encima de la meta de 9,5% fijada para 2030. El hallazgo se da en medio de un repunte desigual del comercio exterior entre distintos sectores económicos.",
+      "por_que_leerlo": "Te da una cifra concreta para entender cuánto le cuesta a cualquier negocio colombiano mover mercancía y la meta oficial para los próximos años.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "logistica",
+        "costos",
+        "comercio exterior",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/la-logistica-se-lleva-15-6-de-las-ventas-de-las-empresas-y-se-busca-bajarlo-a-9-5-en-2030-4528316"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 765,
+      "titulo": "Fármacos para bajar de peso podrían reducir muertes y aliviar la presión sobre tierras agrícolas para 2050",
+      "resumen": "Un estudio de la Universidad de Aberdeen proyecta que la adopción masiva de medicamentos para perder peso (tipo GLP-1) mejoraría la salud poblacional y, al mismo tiempo, reduciría la demanda de tierra agrícola destinada a producir alimentos, generando beneficios ambientales adicionales. Los investigadores calculan un doble efecto positivo: menos muertes prematuras y menos presión sobre el uso del suelo.",
+      "por_que_leerlo": "Conecta una tendencia farmacéutica masiva con sus efectos económicos y ambientales a largo plazo, algo poco explorado hasta ahora.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "glp-1",
+        "agricultura",
+        "medio-ambiente"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 766,
+      "titulo": "Un estudio halla toxinas de hongos en los 212 alimentos de origen vegetal analizados en el Reino Unido",
+      "resumen": "Investigadores probaron 212 productos veganos y vegetarianos —incluidas leches de avena, almendra y soya, y sustitutos de carne— vendidos en el Reino Unido, y encontraron que todos contenían al menos una micotoxina, compuesto tóxico producido por hongos que contaminan granos y legumbres. El hallazgo sorprendió a los propios investigadores por la universalidad del problema.",
+      "por_que_leerlo": "Cuestiona con datos la idea de que los alimentos ultraprocesados a base de plantas son automáticamente más saludables.",
+      "seccion": "ciencia",
+      "tags": [
+        "alimentacion",
+        "micotoxinas",
+        "salud",
+        "veganismo"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 767,
+      "titulo": "Una proteína llamada SORLA reduce los enredos de tau y protege el cerebro en ratones con Alzheimer",
+      "resumen": "Científicos aumentaron los niveles de la proteína SORLA en ratones y lograron reducir significativamente los enredos tóxicos de tau, proteger las conexiones neuronales y frenar la atrofia cerebral asociada al Alzheimer. Al eliminar la proteína en otro grupo de ratones, el daño neurológico empeoró, confirmando su papel protector.",
+      "por_que_leerlo": "Señala un posible nuevo blanco terapéutico contra el Alzheimer respaldado por evidencia experimental concreta.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "neurociencia",
+        "proteinas",
+        "medicina"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 768,
+      "titulo": "Datos abiertos de la NASA permiten hallar pulsares hasta un millón de veces más rápido",
+      "resumen": "Un equipo internacional de científicos usó datos públicos de la misión Fermi de la NASA para desarrollar un nuevo método que detecta pulsares difíciles de encontrar mucho más rápido que las técnicas anteriores, acelerando drásticamente la búsqueda de estos objetos astronómicos.",
+      "por_que_leerlo": "Es un ejemplo concreto de cómo los datos abiertos y nuevos métodos computacionales aceleran el descubrimiento científico sin necesidad de nuevos telescopios.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "pulsares",
+        "datos-abiertos",
+        "nasa"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 769,
+      "titulo": "Lluvias de El Niño provocan la mayor floración del desierto de Atacama en la era satelital",
+      "resumen": "Precipitaciones invernales vinculadas al fenómeno El Niño despertaron semillas dormidas en el norte de Chile, cubriendo el desierto de Atacama con flores en lo que podría ser la floración más extensa registrada desde que existen satélites de observación terrestre.",
+      "por_que_leerlo": "Muestra con evidencia satelital cómo un fenómeno climático global transforma uno de los desiertos más áridos del planeta.",
+      "seccion": "ciencia",
+      "tags": [
+        "atacama",
+        "desierto",
+        "el nino",
+        "clima"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
+      "id": 770,
+      "titulo": "El Cybercab de Tesla cuesta US$30.000 pero exige pagar US$299 al mes para poder usarlo",
+      "resumen": "Tesla venderá su robotaxi Cybercab por US$30.000, pero los compradores deberán pagar una suscripción mensual de US$299 para operarlo, y la empresa se reserva el derecho de restringir en qué zonas puede circular e incluso bloquear su reventa.",
+      "por_que_leerlo": "Expone un modelo de negocio donde comprar el producto no da control total sobre él, una tendencia a vigilar en productos conectados.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "tesla",
+        "robotaxi",
+        "modelo de negocio",
+        "suscripcion"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-19 19:26",
+      "auto_generated": true
+    },
+    {
       "id": 747,
       "titulo": "Hallan que los electrones pueden emparejarse a temperatura ambiente, clave para la superconductividad",
       "resumen": "Un estudio revela que la formacion de pares de electrones, un ingrediente esencial de la superconductividad, puede ocurrir a temperaturas mucho mas altas de lo que se creia, incluso a temperatura ambiente. El hallazgo sugiere que el obstaculo real para lograr superconductores sin resistencia electrica a temperatura ambiente no es el emparejamiento de electrones sino otro factor aun por identificar.",
