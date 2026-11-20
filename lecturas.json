@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-19"
+    "ultima_actualizacion": "2026-11-20"
   },
   "lecturas": [
+    {
+      "id": 771,
+      "titulo": "El modelo de IA de Google DeepMind acerto la trayectoria del huracan Melissa cuando otros fallaron",
+      "resumen": "Una semana antes de que el huracan Melissa golpeara Jamaica, los modelos tradicionales no coincidian en su ruta ni en su intensidad. El modelo de IA de Google DeepMind fue el unico que predijo correctamente tanto el camino de la tormenta como su fuerza de categoria 5.",
+      "por_que_leerlo": "Evidencia concreta de que la IA ya supera a los modelos meteorologicos tradicionales en pronosticos criticos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "meteorologia",
+        "huracanes",
+        "deepmind"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-google-ai-hurricane.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 772,
+      "titulo": "Puede la IA salvar la revision por pares de otra IA en medio de la avalancha de articulos academicos",
+      "resumen": "Las revistas academicas enfrentan una avalancha de articulos: en Elsevier las sumisiones subieron 56% en tres anos, de 2,7 millones en 2022 a 4,2 millones en 2025. Con revisores voluntarios ya saturados, algunas editoriales exploran usar IA para filtrar y revisar ese volumen, mientras crece la preocupacion por articulos generados con IA.",
+      "por_que_leerlo": "Un caso concreto de como la IA esta transformando y poniendo a prueba el trabajo academico y editorial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "academia",
+        "publicaciones cientificas",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-peer.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 773,
+      "titulo": "Una terapia con virus oncolítico detiene el cáncer de páncreas en tres pacientes",
+      "resumen": "Una terapia experimental que inyecta un virus oncolítico directamente en el tumor logró detener el avance del cáncer de páncreas en tres pacientes, según reportó New Scientist. El hallazgo es relevante porque este cáncer tiene pocas opciones de tratamiento efectivas y una tasa de supervivencia muy baja.",
+      "por_que_leerlo": "Conoceras un tratamiento experimental que podria cambiar el pronostico de uno de los canceres mas mortales y con menos opciones terapeuticas.",
+      "seccion": "ciencia",
+      "tags": [
+        "cancer",
+        "medicina",
+        "virus oncolitico",
+        "oncologia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 774,
+      "titulo": "Modelos de IA de 'celula virtual' buscan explicar por que ocurren las enfermedades geneticas",
+      "resumen": "Los modelos actuales de inteligencia artificial pueden predecir si una persona con cierta mutacion desarrollara una enfermedad, pero no explican por que ocurre ni como disenar un tratamiento. La nueva generacion de 'celulas virtuales' con IA busca simular el comportamiento celular completo para responder esas preguntas y acelerar el diseno de farmacos.",
+      "por_que_leerlo": "Muestra hacia donde avanza la IA aplicada a la biomedicina: de predecir riesgo a disenar tratamientos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biomedicina",
+        "biologia celular",
+        "farmacos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ai-virtual-cell-technology-reveal.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 775,
+      "titulo": "Quimicos crean un metodo para producir peroxido de hidrogeno sin metales preciosos",
+      "resumen": "El peroxido de hidrogeno se fabrica hoy con metales preciosos y se usan millones de toneladas al ano en procesos industriales. Investigadores de Rutgers University-Newark y la Universidad de Bonn desarrollaron una tecnica alternativa que prescinde de esos metales, lo que podria abaratar y hacer mas sostenible su produccion.",
+      "por_que_leerlo": "Una innovacion quimica con potencial para reducir costos en una industria que mueve millones de toneladas al ano.",
+      "seccion": "ciencia",
+      "tags": [
+        "quimica",
+        "industria",
+        "sostenibilidad",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 776,
+      "titulo": "El misterio de los 'metales extranos' podria explicarse por estadistica cuantica, no por colisiones",
+      "resumen": "En los metales normales, la resistencia electrica se explica por choques de electrones con imperfecciones del cristal. En los 'metales extranos', como los superconductores de oxido de cobre, la resistencia crece de forma lineal con la temperatura en un rango muy amplio, rompiendo esas reglas. Una nueva teoria propone que el origen esta en la estadistica cuantica de los electrones, no en colisiones fisicas.",
+      "por_que_leerlo": "Una pista teorica que podria acercar a los fisicos a entender la superconductividad de alta temperatura.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica cuantica",
+        "superconductividad",
+        "materiales",
+        "electrones"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 777,
+      "titulo": "Un compuesto experimental quema grasa sin sacrificar musculo, segun estudio en ratones",
+      "resumen": "Investigadores de UC Berkeley identificaron un compuesto que aumenta el gasto energetico hasta 18%, mejora el control de azucar en sangre y reduce la grasa en el higado de ratones, promoviendo perdida de peso sin perder musculo. A diferencia de farmacos como Ozempic y Wegovy, que suprimen el apetito, este actua aumentando el metabolismo.",
+      "por_que_leerlo": "Una alternativa farmacologica distinta a los GLP-1 que podria evitar la perdida muscular asociada a esos tratamientos.",
+      "seccion": "ciencia",
+      "tags": [
+        "obesidad",
+        "farmacologia",
+        "metabolismo",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 778,
+      "titulo": "Demanda alega que alerta de IA por armas en escuela fue activada por una bolsa de Doritos",
+      "resumen": "Una demanda sostiene que un sistema de deteccion de armas con IA en una escuela genero una alarma falsa al confundir una bolsa de Doritos con un arma, traumatizando a los estudiantes involucrados. El caso revela que mas del 99% de las alertas generadas por ese sistema fueron falsos positivos.",
+      "por_que_leerlo": "Muestra con datos concretos cuan poco confiables pueden ser los sistemas de IA de seguridad que ya operan en instituciones reales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "seguridad",
+        "falsos positivos",
+        "escuelas"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 779,
+      "titulo": "Estados Unidos pierde su estatus de eliminacion del sarampion tras meses de transmision sostenida",
+      "resumen": "El sarampion se volvio endemico en Estados Unidos, con datos que muestran una aceleracion de casos en los ultimos meses, lo que llevo al pais a perder el estatus de eliminacion que mantenia desde el ano 2000. Expertos atribuyen la situacion a la caida sostenida en las tasas de vacunacion infantil.",
+      "por_que_leerlo": "Es una llamada de atencion basada en datos sobre como el descenso en vacunacion puede revertir decadas de progreso en salud publica.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud publica",
+        "vacunacion",
+        "sarampion",
+        "epidemiologia"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-18",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 780,
+      "titulo": "Rival de Anthropic sostiene que las empresas pueden prescindir de los modelos de IA mas caros",
+      "resumen": "El cofundador de Fireworks AI, competidor de Anthropic, argumenta que la mayoria de las empresas no necesitan los modelos de IA mas costosos y pueden usar alternativas de codigo abierto mas baratas. El pronunciamiento coincidio con el debut en bolsa de Anthropic y abordo tambien brechas de seguridad que le costaron la confianza de algunos clientes.",
+      "por_que_leerlo": "Ofrece una perspectiva practica para emprendedores que buscan reducir costos de IA sin sacrificar demasiado rendimiento.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "codigo abierto",
+        "costos",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 781,
+      "titulo": "Exejecutivo de Alibaba levanta US$48,5 millones para conectar minoristas con fabricas chinas",
+      "resumen": "La startup Everful, fundada por un exejecutivo de Alibaba, recaudo 48,5 millones de dolares para expandir su plataforma de abastecimiento directo de fabrica, que ayuda a minoristas a comprar productos de fabricantes en el extranjero sin intermediarios.",
+      "por_que_leerlo": "Muestra un modelo de negocio replicable para quienes quieren montar su propia cadena de abastecimiento internacional.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "cadena de suministro",
+        "comercio",
+        "financiamiento"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
+    {
+      "id": 782,
+      "titulo": "Altos intereses y bajo crecimiento ponen en riesgo la sostenibilidad de la deuda publica",
+      "resumen": "Un informe advierte que la brecha entre el costo de la deuda y el crecimiento economico esta presionando las finanzas publicas, un patron similar al observado durante la crisis financiera de 2009, la caida del petroleo y la pandemia. El diferencial entre tasa de interes y crecimiento se senala como indicador clave para anticipar crisis fiscales.",
+      "por_que_leerlo": "Explica un indicador concreto que permite anticipar crisis de deuda y evaluar el riesgo fiscal de un pais.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "deuda publica",
+        "finanzas",
+        "economia",
+        "riesgo fiscal"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/altos-intereses-y-bajo-crecimiento-ponen-en-riesgo-la-sostenibilidad-de-la-deuda-publica-4528357"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 03:57",
+      "auto_generated": true
+    },
     {
       "id": 759,
       "titulo": "Un modelo de IA de Anthropic resuelve dos problemas abiertos en física de agujeros negros",
