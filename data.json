@@ -221,6 +221,466 @@
   ],
   "casos": [
     {
+      "id": 3321,
+      "titulo": "SuperSalud ordena a interventores de EPS rendir cuentas en asambleas de accionistas",
+      "categoria": "transparencia",
+      "fecha": "2026-11-20",
+      "descripcion": "La Superintendencia de Salud ordeno a los interventores designados en EPS convocar asambleas de accionistas para rendir cuentas sobre su gestion, como medida de transparencia en el manejo de las entidades intervenidas.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/por-orden-de-supersalud-interventores-de-eps-tendran-que-convocar-a-asambleas-de-accionistas-para-rendirles-cuentas/202642/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3320,
+      "titulo": "Masacres en Colombia aumentan 13% en 2026, con 87 casos y 307 víctimas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-20",
+      "descripcion": "Registros oficiales muestran que las masacres en Colombia aumentaron 13% durante 2026, con 87 casos y 307 víctimas reportadas, el balance más alto desde 2022. El Valle del Cauca encabeza la lista de departamentos con más masacres, lo que plantea un reto de seguridad para la gestión del nuevo gobierno.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/masacres-en-colombia-aumentaron-un-13-en-2026-van-87-casos-y-307-victimas-3602683",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3319,
+      "titulo": "ANT avanza con inversiones de $12.160 millones y expedición de títulos rurales",
+      "categoria": "obras",
+      "fecha": "2026-11-20",
+      "descripcion": "La Agencia Nacional de Tierras reportó inversiones superiores a $12.160 millones y la expedición de 1.054 títulos de propiedad rural, equivalentes a 9.024 hectáreas, distribuidos en 18 departamentos del país, como parte de la gestión del gobierno De la Espriella en materia de formalización de tierras.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/agencia-nacional-de-tierras-avanza-con-inversiones-por-mas-de-12-160-millones-y-expedicion-de-titulos-rurales/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3318,
+      "titulo": "Traslado de alias 'Barba Chivo' a la carcel La Picota",
+      "categoria": "seguridad",
+      "fecha": "2026-11-20",
+      "descripcion": "El Gobierno Nacional confirmo el traslado de alias 'Barba Chivo', senalado cabecilla de grupo armado, a la carcel La Picota bajo estrictas medidas de seguridad, en el marco de la politica de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por Alternativa Caribe",
+      "fuentes": [
+        {
+          "nombre": "Alternativa Caribe",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVExMdUhOS21uRmkxekNuSHRIYWtRRDUyVFRHQlJDOVJ2Tk9YXzlYYi0xekFDTmJwV2QxVWVVcWFGSW9QQkxKR1ZxN2VFNEhyWGI4OVFQQU4tMXFRX3BUMmRLREFPeTdyaFFXLVJ6QlJqNUd3VDZCWkNoOVROc1FiY0dUNmpVYk0yYmpFdHlUVTBNVG5wTkFpSnpQdFIzeURNVU9zNUJKb3gxR3AzUGJNZ3BtdzRpbU1ENWtOczVXSnhibnd4MU5ZaUU4cUJMd2I0NS10NmhEN2hQTGIxci1qYWJqaFljbHJmVUtJU2NR?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 'Barba Chivo'"
+      ],
+      "entidad": "Ministerio de Defensa / INPEC",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3317,
+      "titulo": "Sandra Ortiz cambia version sobre confesion en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-20",
+      "descripcion": "Sandra Ortiz, vinculada al caso de corrupcion en la UNGRD, habia prometido entregar informacion clave a la justicia sobre el escandalo de sobornos y contratos irregulares, pero ahora afirma no tener conocimiento de los hechos, generando dudas sobre su credibilidad como testigo en el proceso judicial en curso.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXMtb2pzWU84QkdrWVdXV0cwRGpyV0dHWGs0QUNmN0ZzM0hyWndaeTdjd19QOFZNVTk2RlBRUGQyTUhNd0RsSVBLdk5HbER4N19RcVRGVGRNR0xsOXhHNXI3SHVVVHN3WUNtTmFFSmkyU2Fxal9ERzRid3RCWXdrajFjbFVfb2g3QzZLa1VfX0s0RDREdG9kZktnZ0hPUjBvMmFvczJJSXVybVpfM2IzN2VNcS0yekdkSnZHQWJpdHpzQnRqaFB30gHbAUFVX3lxTE9sX3NKRWJjbDBVWlZ0a2NlZ09QUHVRZXVGX0NrYmtlMV81T2tqbEVVTmxna1JRNFJoUlU3TnVKbGlHcTFWRG9kS19hNEF2WGE0UzlKTVE1cG9lbEJBOEJQWVBLcUNjVUdBNloyNGZoWU4xMzgzcm9LU3E5YUgwaThpV3pFYkl4UnhyT0tfaGtYaG9uNDJ5dmFOZHozTWFoOGY3RHFNckM0aXA0Tnp6VzVYQVVGamF2MHBuZTJ4YU9pNzNRTldvNFh6R1QxSFRXM1ptaEZpaUxqdGdkMA?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz"
+      ],
+      "entidad": "UNGRD / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56"
+    },
+    {
+      "id": 3316,
+      "titulo": "Corte Suprema evalua caso de titulos falsos de Veronica Estrada tras quinta denuncia",
+      "categoria": "mentiras",
+      "fecha": "2026-11-20",
+      "descripcion": "La representante Luz Veronica Estrada acumula ya cinco denuncias por presunta falsificacion de titulos universitarios, diploma de bachiller y certificados de experiencia laboral. La Corte Suprema de Justicia evalua el caso dado su condicion de aforada, mientras crecen los pedidos de renuncia desde el Congreso.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/caso-de-falsificacion-de-titulos-de-luz-veronica-estrada-pacto-historico-solicita-la-renuncia-de-la-congresista-y-convoca-a-comision-de-etica-3602613",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Veronica Estrada"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56"
+    },
+    {
+      "id": 3315,
+      "titulo": "Gobierno reporta balance de participacion en paro nacional del 19 de noviembre",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-20",
+      "descripcion": "El Gobierno de Abelardo de la Espriella cifro en cerca de 55.000 las personas que participaron en el paro nacional convocado en su contra el 19 de noviembre de 2026, y aseguro que el 97% de las movilizaciones se desarrollaron de manera pacifica.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/de-la-espriella-cifra-en-55-000-los-participantes-en-el-paro-nacional-contra-su-gobierno/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3314,
+      "titulo": "Gobierno advierte perdida de 500.000 empleos si no se aprueba reforma tributaria",
+      "categoria": "economia",
+      "fecha": "2026-11-20",
+      "descripcion": "El Gobierno advirtio que si no se aprueba la reforma tributaria dentro de la Ley de Rescate economico, se perderian cerca de medio millon de empleos, en medio del debate por el saneamiento de las cuentas fiscales del pais.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/si-no-se-aprueba-reforma-tributaria-en-colombia-para-rescate-economico-medio-millon-de-empleos-se-perderian-dice-gobierno/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3313,
+      "titulo": "Ecopetrol avanza en negocio de gas con PDVSA que podria abaratar precio 75%",
+      "categoria": "economia",
+      "fecha": "2026-11-20",
+      "descripcion": "Ecopetrol avanza en negociaciones con PDVSA para importar gas venezolano que podria ser hasta 75% mas barato que el actualmente importado por Colombia, en un contexto donde hace una decada el pais exportaba gas a Venezuela.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gas-de-venezuela-podria-ser-75-mas-barato-del-que-hoy-importa-colombia-ecopetrol-avanza-en-negocio-con-pdvsa/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ecopetrol / PDVSA",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3312,
+      "titulo": "SIC investiga contratos por $120.000 millones en Barrancabermeja",
+      "categoria": "contratos",
+      "fecha": "2026-11-20",
+      "descripcion": "La Superintendencia de Industria y Comercio prioriza una denuncia sobre contratos por $120.000 millones en Barrancabermeja, entre cuyos hallazgos esta la falta de publicacion de procesos en el SECOP II, la coincidencia de una oferta con el presupuesto oficial y la perdida de puntaje de un competidor por omitir documentos basicos.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/sic-prioriza-denuncia-por-contratos-de-120000-millones-en-barrancabermeja",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Industria y Comercio",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56"
+    },
+    {
+      "id": 3311,
+      "titulo": "Corte Suprema niega libertad a Wadith Manzur y Karen Manrique en caso UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-20",
+      "descripcion": "La Sala Especial de Primera Instancia de la Corte Suprema de Justicia nego el 18 de noviembre de 2026 las solicitudes de libertad provisional por vencimiento de terminos presentadas por las defensas de Wadith Alberto Manzur y Karen Astrith Manrique, procesados por el escandalo de corrupcion de la UNGRD.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/corte-suprema-libertad-a-wadith-manzur-karen-manrique-corrupcion-ungrd-KN43822778",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Wadith Alberto Manzur",
+        "Karen Astrith Manrique"
+      ],
+      "entidad": "UNGRD / Corte Suprema de Justicia",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56"
+    },
+    {
+      "id": 3310,
+      "titulo": "Extraditan desde Espana a integrante del Clan del Golfo vinculado a extorsiones",
+      "categoria": "seguridad",
+      "fecha": "2026-11-20",
+      "descripcion": "Autoridades extraditaron desde Espana a un integrante del Clan del Golfo que hacia parte de oficinas de cobro y estaria detras de extorsiones en el pais, en el marco de la lucha contra grupos armados del gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/bogota/articulo/extraditan-desde-espana-a-integrante-del-clan-del-golfo-hacia-parte-de-oficinas-de-cobro-y-esta-detras-de-extorsiones/202647/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalia General de la Nacion / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3309,
+      "titulo": "Fedegan pide vigilancia de la Procuraduria a auditoria forense del Fondo Nacional del Ganado",
+      "categoria": "contratos",
+      "fecha": "2026-11-20",
+      "descripcion": "Fedegan solicito a la Procuraduria General de la Nacion vigilar el proceso de contratacion de una auditoria forense al Fondo Nacional del Ganado, ante dudas sobre la transparencia del proceso de seleccion del contratista.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/empresas/articulo/fedegan-solicita-vigilancia-de-la-procuraduria-al-proceso-de-contratacion-de-auditoria-forense-al-fondo-nacional-del-ganado/202628/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fedegan / Procuraduria General de la Nacion / Fondo Nacional del Ganado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56"
+    },
+    {
+      "id": 3308,
+      "titulo": "Fondo Milagro avanza con lentitud en ejecucion de ayudas para el terremoto",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-20",
+      "descripcion": "Analisis de El Espectador senala que pese a la rapida reaccion inicial del Fondo Milagro tras el terremoto del 10 de agosto, la ejecucion de recursos y entregas a damnificados avanza con lentitud, generando criticas sobre la gestion nacional de la emergencia.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLXUtS3YxektNX0E5Rmh0ZkxqWHQtZ0lqWUw3MXpNRjZyTEJla0xEY0swdmx4bU15dERHa2ZCRGhvT1Z1cG94ZTdaMHBPanRER1lTNHJPSS1QQ3pTSVlJSFFjR1lYUGZza18wVERPSXRZeTFiWVo1NkRQZUlXcGNzMzhHYnJxd3FRTkJ4TnVfeHlxTEo0YWltWElwRmN4RGticDM3RnU3el9aSDVaWlF6TGQ4Rm1faDVfNFpZRXlUMFpqTHM1TXdQTNIB3AFBVV95cUxQTk1IanZLWExKdEx1blBCY2lBR0JQQkpHMGVUWXVhaFBFNWhBTC1lVTc5RVBvWGhRUU5FM3lqdEtuYWpmdTFwa3ZZVUFkRWJ1WXYzQU9HaWJWVEJZckxhZU85OTBLMnViVncyZGxNODBpMEpMMjRkZFF3M1Y3OFN2bTlWOE1HU0Q3YjVhZDlDOVpvUkxfUUhBNk5pNE90T1VPUndwQjU2VXZKTjRIVTlkNHpfUDdpNXBsZmxMNW5EdDVualQwN1hNTVZUcUxtbmxrWmVlMVBQSzhOa29H?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3307,
+      "titulo": "Gobierno De la Espriella firma acuerdo con Meta durante la Milagro Week",
+      "categoria": "internacional",
+      "fecha": "2026-11-18",
+      "descripcion": "El Gobierno de Abelardo De la Espriella firmó un acuerdo de cooperación con la empresa Meta en el marco de la Milagro Week, con beneficios para el país aún por detallarse en materia tecnológica y de conectividad.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0M2SEJnQ3ZLV2l0ZzFjTU10QkN1c3JCVHJaeHdSRmI3ZHhYbUlvYng2N2JjRTZ3QnFRWUZDV1ZsdVphZG9UbG1qd1VzSHljc3ExLW9WZVduM3dRc1BDSXU3TTVpcXRWUFVneXduZzhpZ2hJX0M1R1p3VjVLT2M0RlFXZXhzRE5QLXdxTEpPZkxFa1lGRzJNU2ZHTG1ZUVJqR0x5MTh3VHBzN1M0dXJWRWo1MmF0NXZ5Wkc0c2VyY2hCOWw0b0U0MUZRZlZOMmduNFhLSHQ2Sl9yVVJY0gHiAUFVX3lxTE93X3BCQWhHUDFJdF9hN2ZKU3cxWjJoMnZOcy1KZUFLSlVnOG1OVjhmSFV2M0RCbG9sa3ZtOWIzRlBqdloxVEZ3bkIwdkdrM2VlUXVhYTVLdW5Odmx1Mkd1YmR4RHU2b3VZZGFXbjhidUJWbFd0akJUdkFEYkRIelFLV1dvaDVLQ2RUNXNoWGJFc29IemFXZlc0NlBpd2J3SWlyWXRvS3Y0MXVWSFZiYWt0cHUzNmt5QU9RejZaUm9NVGdHSDdOdHBQbnpzR0xjNGZsVUtvNFVGSk5PZzNQOWVmTWc?oc=5",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Meta",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3306,
+      "titulo": "Captura de alias 'Blue' en Cali por actos violentos durante manifestaciones",
+      "categoria": "seguridad",
+      "fecha": "2026-11-19",
+      "descripcion": "El presidente Abelardo De la Espriella confirmó la captura en Cali de alias 'Blue', investigada por actos violentos durante manifestaciones públicas. Durante el registro las autoridades hallaron aerosoles, canicas y pólvora negra entre sus pertenencias.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirmo-la-captura-de-alias-blue-en-cali-investigada-por-actos-violentos-durante-manifestaciones-publicas-3602588",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "alias Blue"
+      ],
+      "entidad": "Policia Nacional / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3305,
+      "titulo": "Alcaldía de Cali abre convocatoria de subsidios de vivienda de $50 millones para damnificados",
+      "categoria": "avances",
+      "fecha": "2026-11-19",
+      "descripcion": "La Alcaldía de Cali, a través de la Secretaría de Vivienda Social y Hábitat, lanzó la primera convocatoria de subsidios de $50 millones para hogares que perdieron totalmente su vivienda en el terremoto. El alcalde Alejandro Eder anunció que los bonos permitirán la compra de VIP o VIS, dirigidos en esta etapa inicial a población específica de damnificados.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/como-solicitar-subsidio-vivienda-terremoto-cali-requisitos-NO43814238",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Alejandro Eder"
+      ],
+      "entidad": "Alcaldia de Cali / Secretaria de Vivienda Social y Habitat",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3304,
+      "titulo": "De la Espriella envía carta a su gabinete exigiendo resultados y ruptura con 'poderes tradicionales'",
+      "categoria": "gabinete",
+      "fecha": "2026-11-20",
+      "descripcion": "El presidente Abelardo de la Espriella envió una carta fechada el 19 de noviembre, dirigida inicialmente al ministro de Ambiente Fabio Arjona pero extendida a todo el gabinete, exigiendo resultados, coordinación entre carteras y corrección de errores. Cuestionó a gremios y empresarios, y advirtió que la lealtad de sus funcionarios debe ser con el pueblo colombiano y no con intereses partidarios o sectores de poder.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/carta-abelardo-fabio-arjona-ministro-ambiente-que-dice-GM43832325",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Fabio Arjona"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3303,
+      "titulo": "Operativos en tres departamentos capturan presunto sicario del Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-20",
+      "descripcion": "Autoridades reportaron operativos contra el crimen en tres departamentos que resultaron en la captura de un presunto sicario del Clan del Golfo, junto con otros hallazgos relacionados con estructuras criminales, según balance divulgado el 20 de noviembre.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/tres-departamentos-bajo-operativos-contra-el-crimen-capturan-a-presunto-sicario-del-clan-del-golfo-y-reportan-otros-hallazgos/202638/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerza Publica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3302,
+      "titulo": "Verónica Alcocer responde a denuncia de Eva Ferrer sobre contratos del proyecto de cocinas",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-20",
+      "descripcion": "Verónica Alcocer, exprimera dama, respondió a Eva Ferrer, su exmano derecha y exconsejera para la Reconciliación Nacional, quien la acusó ante la Procuraduría de tener intereses en los contratos del proyecto 'Colombia, Despensa y Cocina de Tradición'. Alcocer rechazó haber intervenido irregularmente y cuestionó la veracidad de las afirmaciones de Ferrer.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-alcocer-responde-eva-ferrer-polemica-contratos-proyecto-cocinas-FM43836289",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer",
+        "Eva Ferrer"
+      ],
+      "entidad": "Procuraduria General de la Nacion / Consejeria Presidencial para la Reconciliacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 14:56"
+    },
+    {
       "id": 3301,
       "titulo": "MinHacienda presenta apuestas para modernizar el mercado de deuda pública",
       "categoria": "economia",
@@ -77002,7 +77462,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-20",
-    "total_casos": 3212,
+    "total_casos": 3232,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
