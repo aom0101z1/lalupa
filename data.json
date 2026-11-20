@@ -221,6 +221,565 @@
   ],
   "casos": [
     {
+      "id": 3301,
+      "titulo": "MinHacienda presenta apuestas para modernizar el mercado de deuda pública",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "El Ministerio de Hacienda del gobierno De la Espriella anunció un conjunto de medidas orientadas a modernizar el mercado de deuda pública colombiano, como parte de su agenda económica y fiscal.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/estas-son-las-apuestas-del-minhacienda-para-modernizar-el-mercado-de-deuda-publica/202623/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3300,
+      "titulo": "Incautación de cerca de cuatro toneladas de cocaína en Vichada",
+      "categoria": "seguridad",
+      "fecha": "2026-11-19",
+      "descripcion": "Autoridades decomisaron cerca de cuatro toneladas de cocaína en el departamento de Vichada. El reporte investiga a quién pertenecía el cargamento, en el marco de las operaciones de seguridad del gobierno De la Espriella contra el narcotráfico.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/de-quien-eran-las-cerca-de-cuatro-toneladas-de-cocaina-decomisadas-en-vichada/202633/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3299,
+      "titulo": "Jefe del Pentágono visita Colombia en el marco de la cooperación militar con el nuevo gobierno",
+      "categoria": "internacional",
+      "fecha": "2026-11-20",
+      "descripcion": "El jefe del Pentágono realizó una visita a Colombia y posteriormente se reunió con el presidente de Ecuador, Daniel Noboa, en el marco de la agenda de cooperación de seguridad regional entre Estados Unidos y los gobiernos de la region, en el contexto de las discusiones sobre operaciones militares conjuntas.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mundo/articulo/tras-su-visita-a-colombia-jefe-del-pentagono-se-reunio-con-daniel-noboa-en-ecuador/202655/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3298,
+      "titulo": "Cancillería hace balance de colombianos afectados por el conflicto en Ucrania y prepara visita humanitaria",
+      "categoria": "internacional",
+      "fecha": "2026-11-19",
+      "descripcion": "La Cancillería colombiana anunció una visita humanitaria a colombianos detenidos en Ucrania y entregó un balance de 259 fallecidos y 1.068 desaparecidos colombianos en el conflicto. El Gobierno pidió extremar la cautela ante ofertas de seguridad en el exterior y recordó que no puede anular unilateralmente acuerdos con tropas extranjeras.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/cancilleria-realizara-visita-humanitaria-a-colombianos-detenidos-en-ucrania-y-entrega-balance-259-fallecidos-y-1-068-desaparecidos-en-el-conflicto-3602475",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria de Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3297,
+      "titulo": "Gobierno adiciona $1,5 billones al presupuesto de 2027 para la Rama Judicial",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "El Gobierno Nacional anunció la destrabación de recursos para la justicia, adicionando $1,5 billones al presupuesto de 2027 con el fin de evitar la salida de miles de funcionarios judiciales que cumplen labores de descongestión en juzgados, fiscalías y defensorías públicas.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-destraba-recursos-para-la-justicia-adicionara-1-5-billones-al-presupuesto-de-506716",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Rama Judicial",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3296,
+      "titulo": "Gobierno fija nuevas reglas para viajes internacionales de funcionarios en cierre de año",
+      "categoria": "transparencia",
+      "fecha": "2026-11-19",
+      "descripcion": "El Gobierno Nacional estableció que las entidades tendrán plazo hasta el 14 de diciembre para radicar solicitudes de viajes al exterior en la plataforma del Dapre, debiendo acreditar que los compromisos internacionales no pueden atenderse de forma virtual, como medida de control y austeridad en el gasto público de viajes.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/gobierno-fija-reglas-para-viajes-al-exterior-en-cierre-de-ano",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3295,
+      "titulo": "Congresista con diploma falso es coautora de proyecto de ley sobre verificación de títulos académicos",
+      "categoria": "mentiras",
+      "fecha": "2026-11-19",
+      "descripcion": "Se revela que la representante Luz Verónica Estrada, señalada de falsificar su título universitario, figura como coautora de un proyecto de ley impulsado por la representante María Fernanda Carrascal que busca crear un sistema de consulta pública de títulos académicos de educación superior, precisamente para evitar casos como el suyo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-estrada-titulo-falso-proyecto-consulta-titulos-academicos-DI43784447",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Verónica Estrada",
+        "María Fernanda Carrascal"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3294,
+      "titulo": "Dudas sobre título de bachiller de Verónica Estrada se suman al escándalo de diploma falso",
+      "categoria": "mentiras",
+      "fecha": "2026-11-19",
+      "descripcion": "El escándalo por la falsificación del título universitario de la representante Luz Verónica Estrada (Pacto Histórico) se amplía: el acta de grado del colegio Juan Pablo Gómez Ochoa en Caramanta, Antioquia, pone en duda incluso su título de bachiller, además del diploma de Ingeniería de Minas y Metalurgia que la Universidad Nacional ya desmintió haber expedido.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-estrada-acta-grado-diploma-bachiller-antioquia-CJ43791074",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Verónica Estrada"
+      ],
+      "entidad": "Institución Educativa Juan Pablo Gómez Ochoa / Universidad Nacional de Colombia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3293,
+      "titulo": "Tarazona denuncia presencia de funcionarios de la DNI en el parque donde fue asesinado Miguel Uribe",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-19",
+      "descripcion": "María Claudia Tarazona, esposa del precandidato asesinado Miguel Uribe, denunció ante Noticias Caracol que existen imágenes que corroborarían la presencia de funcionarios de la Dirección Nacional de Inteligencia (DNI) en el parque donde ocurrió el magnicidio. Aseguró además que los fiscales a cargo del caso reciben amenazas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/maria-claudia-tarazona-denuncia-que-funcionarios-de-la-dni-habrian-estado-en-el-parque-donde-fue-asesinado-miguel-uribe-existe-video-como-evidencia-3602375",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Maria Claudia Tarazona"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3292,
+      "titulo": "Fiscalía descarta por ahora imputar a Zulma Guzmán por dificultades de audiencia virtual",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-19",
+      "descripcion": "La fiscal general Luz Adriana Camargo descartó, por el momento, imputar a Zulma Guzmán, señalada por la muerte de dos menores por talio y por un caso de doble pasaporte, debido a que Inglaterra, donde reside, no cuenta con un sistema que permita realizar audiencias virtuales para su comparecencia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscal-luz-adriana-camargo-descarta-por-ahora-imputar-a-zulma-guzman-por-dificultades-para-realizar-audiencias-virtuales-desde-inglaterra-3602506",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Zulma Guzman",
+        "Luz Adriana Camargo"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3291,
+      "titulo": "Gobierno invierte $900.000 millones en vías de Santander",
+      "categoria": "obras",
+      "fecha": "2026-11-19",
+      "descripcion": "El gobierno de Abelardo de la Espriella anunció una inversión de casi $900.000 millones para recuperar los corredores viales Zipaquirá–Bucaramanga, Bucaramanga–Pamplona y la variante de San Gil, como parte de su agenda de infraestructura territorial.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-invertira-casi-1-billon-para-recuperar-las-vias-zipaquira-bucaramanga-bucaramanga-pamplona-y-variante-de-san-gil/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3290,
+      "titulo": "Congresistas del Pacto Histórico piden renuncia de Verónica Estrada por título falso",
+      "categoria": "mentiras",
+      "fecha": "2026-11-19",
+      "descripcion": "El senador Agmeth Escaf, de la misma bancada de Verónica Estrada en el Pacto Histórico, le pidió públicamente que renuncie a su curul tras confirmarse que el título de Ingeniería de Minas y Metalurgia que dice tener de la Universidad Nacional es falso, calificando la situación de 'guachafita'.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/congresistas-piden-renuncia-veronica-estrada-titulo-falso-BP43802892",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Estrada",
+        "Agmeth Escaf"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3289,
+      "titulo": "Llinás pidió a Verónica Estrada presentar oferta para contrato con la DIAN",
+      "categoria": "contratos",
+      "fecha": "2026-11-19",
+      "descripcion": "Nuevas revelaciones indican que Luis Eduardo Llinás fue quien pidió a Verónica Estrada, hoy representante a la Cámara señalada de títulos falsos, presentar oferta para firmar un contrato con la DIAN en 2025 por $78 millones, profundizando el escándalo sobre cómo se adjudicó dicho contrato.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/luis-eduardo-llinas-pidio-oferta-veronica-estrada-contrato-dian-78-millones-KO43811319",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Eduardo Llinas",
+        "Veronica Estrada"
+      ],
+      "entidad": "Direccion de Impuestos y Aduanas Nacionales (DIAN)",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3288,
+      "titulo": "De la Espriella cumple promesa a familia de niña afectada por el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-19",
+      "descripcion": "El presidente Abelardo de la Espriella cumplió una promesa hecha a la familia de una niña identificada como Elena, afectada por el terremoto del 10 de agosto, como parte del seguimiento a casos puntuales de atención a damnificados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/presidente-abelardo-de-la-espriella-cumplio-promesa-a-la-familia-de-la-pequena-elena-tras-el-terremoto/202653/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3287,
+      "titulo": "Balance de 100 días de gobierno muestra aprobación de 48,7%",
+      "categoria": "opinion-publica",
+      "fecha": "2026-11-14",
+      "descripcion": "A los 100 días de gobierno, Abelardo de la Espriella registra una aprobación de 48,7%, frente al 62% que tenía Gustavo Petro en un punto similar de su mandato. El balance señala que las metas de recuperar territorio de grupos armados, estabilizar la salud y sanear las cuentas públicas no se han cumplido en los plazos previstos.",
+      "evidencia": "Reportado por Eldiario.es",
+      "fuentes": [
+        {
+          "nombre": "Eldiario.es",
+          "url": "https://www.eldiario.es/internacional/primeros-100-dias-ultra-espriella-colombia-milagros-pendientes-promesa-cumplida_1_13662688.html",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3286,
+      "titulo": "De la Espriella supervisa operativos en Cali tras bloqueos durante protestas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-19",
+      "descripcion": "El presidente Abelardo De la Espriella supervisó operativos de seguridad en Cali tras bloqueos registrados durante las manifestaciones del 19 de noviembre, destacando la diferencia entre la protesta pacífica y los actos de violencia.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemlMN3VvYjlPVXZtdjhRenU4SlF0Zk9sS3JNdUp2MlA5U2VzZ210RFVwN1hLTkhDaFU1cDNjNTcwN3FLVGRkOThlejZaUGVUMWxhM3A3ZTB5cDR1bHdBS09PRTVpcFBkckF0ODZ2M2Zab3Bjc0pIS1FpejVrOU5fVmVwS3RsVV9SRllWOGRRc0Rja1dMV3N1ZW1mYjBka0ZYbVZLTklMaXdkRWtpTFNtUmJFNkx5STF0T3VGWGY1b25PTDNJS0HSAcsBQVVfeXFMTjFhbUNSQkRPdENlNTJNdUJLcVVMcGRjajZ6b2dnQjBlbUtzWm52c3JLSWdyNHBvdmFMVEhiY21oVjk5eG1WSkZxWi1uX2ZVbUZwYk56ejd4Vk55Z0Y5RDF5WERXZDk3c1Jrald0NGk3SDBpekxtTks1MHNwYjlLV2laWW1rTUh1Mjc2ODZZd0RGWFNCSHVzOFA1UEhoR3hZcWNBQkRiT2tqcDRFRFlSbjREeno0NlJ4YThTd0hMZDliQnZfa0F5dVJYX28?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3285,
+      "titulo": "Gobierno plantea IVA a arriendos turísticos de inmuebles",
+      "categoria": "economia",
+      "fecha": "2026-11-19",
+      "descripcion": "El Gobierno de Abelardo De la Espriella plantea, dentro de su reforma tributaria, un cobro de IVA a los arriendos de inmuebles con fines turísticos en Colombia, como parte de las medidas fiscales en discusión en el Congreso.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV1dYNFRva200dGNmTDZ3UThIbXdDNjFjX19NQ2pTYlV1QWU2UlAtMXlaNEN4NXh3clZESW9ib2FrMnVsRXFobXZGcVd0d0h5UlVUMW0wSkZ1cldmakNobU5OeGV4azV3dGdNVDFnVGdhc3ZoX0lZZEFkYjNJQlplY0cyNHRaVWZPdFExM0dQbnZiVFNsQUh3TF91a1NPdl93dlIxRnhubkN4WkVObGhzNVN3QllyTmJxaENnWDVhQWNtSXNRUnR1NWFpV3BKWThGcm1OaFVsd3c4SUxHeU50VFl1TWZuaEVVYzRjQno1Y2d2V05Td3BITnFBa2UtR3BNN2fSAZwCQVVfeXFMT19uVUg5OWZXN05hOFZ0cnZpaDFRdDVqZkVTMkY5dFFFa0kzdzlRNHlidjlXTXc1ejlJbXh2N1ktX014cVRBUWY0dXZmYzdoa0drVkJ1bDhWNTNLbFl2T2NrNkVuQ1lIWl80bHFqSHRtaHJIeXdPS3Jhb0RPOENtTUlVR3pZZHFsNGg5Qms2d1ZSM3EwdUVkN2RlYnA5ci11YWw4V3B4UmUxMWVMaE13YUZvZXI1U0tkRTdoYmtDbWVSSW5yS1N0WFhFbzV0eklCTENZTGgxSGRUaEExZjJtQVVhWnJQNTVFdC1Td21LSEVSUnRwcGplcFgzeEVNSmEwOGlZQnVnNTNfcUdONlhNdzJISU11TFJTR2VhTkE?oc=5",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3284,
+      "titulo": "Capturan en Ecuador a presunto cabecilla de 'Los Agredo' con presencia en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-19",
+      "descripcion": "La Policía ecuatoriana detuvo en Machala a un ciudadano colombiano señalado como cabecilla del grupo delincuencial 'Los Agredo', con presencia en Cali, quien tenía orden de captura vigente por homicidio, porte de armas y concierto para delinquir, requerido por Interpol y la justicia colombiana.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/capturan-en-ecuador-a-presunto-cabecilla-de-los-agredo-grupo-delincuencial-con-presencia-en-cali-era-requerido-por-interpol-y-justicia-colombiana-3602421",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional de Ecuador / Interpol",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3283,
+      "titulo": "Fondo Milagro busca alianzas con RedPRO y Fundación Santo Domingo para la reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-19",
+      "descripcion": "El director del Fondo Milagro, Luis Felipe Henao, sostuvo reuniones con RedPRO y la Fundación Santo Domingo para explorar alianzas de reconstrucción tras el terremoto, aunque no se anunciaron convenios ni proyectos aprobados.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/fondo-milagro-busca-alianzas-con-redpro-y-fundacion-santo-domingo-para-la-reconstruccion-tras-el-terremoto-506708",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Fondo Milagro / RedPRO / Fundacion Santo Domingo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3282,
+      "titulo": "Gobierno promete recursos para financiar déficit de la Rama Judicial",
+      "categoria": "economia",
+      "fecha": "2026-11-20",
+      "descripcion": "Durante el XXIX Encuentro Nacional de la Jurisdicción Ordinaria, el gobierno de Abelardo De la Espriella anunció que destinará recursos para financiar el déficit de la Rama Judicial, en medio de la actual crisis fiscal del país.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-promete-recursos-para-financiar-deficit-de-la-rama-judicial-en-medio-de-crisis-fiscal/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Rama Judicial / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3281,
+      "titulo": "Exdirector de la DIAN se defiende por contrato de $78 millones a Verónica Estrada",
+      "categoria": "contratos",
+      "fecha": "2026-11-19",
+      "descripcion": "El exdirector de la DIAN durante el gobierno Petro, Luis Eduardo Llinás, aseguró haber sido 'asaltado en su buena fe' tras conocerse que la congresista Verónica Estrada obtuvo un contrato de prestación de servicios por $78 millones en esa entidad en 2025, pese a que presuntamente no contaba con el título profesional que acreditaba.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/luis-eduardo-llinas-contrato-78-millones-veronica-estrada-EJ43791005",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Eduardo Llinas",
+        "Veronica Estrada"
+      ],
+      "entidad": "Direccion de Impuestos y Aduanas Nacionales (DIAN)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3280,
+      "titulo": "Carlos Oyola, señalado hacker de la DNI, trasladado a La Picota por orden presidencial",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-19",
+      "descripcion": "Carlos Andrés Oyola Tovar, exfuncionario de la Dirección Nacional de Inteligencia señalado de participar en operaciones de espionaje y ataques informáticos durante el gobierno de Petro, fue trasladado a la cárcel La Picota por orden del presidente Abelardo De la Espriella, menos de dos semanas después de su captura el 6 de noviembre en Neiva en un operativo conjunto del CTI.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/carlos-oyola-senalado-hacker-de-la-dni-fue-trasladado-a-la-picota-por-orden-de-de-la-espriella-OJ43798723",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Andres Oyola Tovar",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI) / INPEC",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
+      "id": 3279,
+      "titulo": "SIC revisará irregularidades en contrataciones de Foncolombia tras denuncia presidencial",
+      "categoria": "empalme",
+      "fecha": "2026-11-19",
+      "descripcion": "La Superintendencia de Industria y Comercio anunció que revisará presuntas irregularidades en las contrataciones de Foncolombia, luego de una denuncia pública del presidente Abelardo De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/empresas/articulo/luego-de-la-denuncia-del-presidente-de-la-espriella-la-sic-revisara-irregularidades-en-las-contrataciones-de-foncolombia/202617/",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Superintendencia de Industria y Comercio / Foncolombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3278,
+      "titulo": "Procuraduría abre investigación disciplinaria contra Verónica Estrada por título falso",
+      "categoria": "mentiras",
+      "fecha": "2026-11-19",
+      "descripcion": "La Procuraduría General abrió una investigación disciplinaria contra la representante Verónica Estrada (Pacto Histórico) por el presunto uso de un título profesional falso. El exregistrador Alfonso Portela advierte que la falta podría calificarse como gravísima por falsedad en documento público, dado que la congresista firmó contratos estatales acreditando esas condiciones académicas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-estrada-pacto-historico-investigacion-procuraduria-JJ43798991",
+          "fecha": "2026-11-19"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Estrada"
+      ],
+      "entidad": "Procuraduria General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 00:21"
+    },
+    {
       "id": 3277,
       "titulo": "SAE ofrece descuentos de hasta 40% en venta de inmuebles administrados",
       "categoria": "economia",
@@ -76442,8 +77001,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-19",
-    "total_casos": 3188,
+    "ultima_actualizacion": "2026-11-20",
+    "total_casos": 3212,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
