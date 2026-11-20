@@ -27,6 +27,279 @@
   },
   "lecturas": [
     {
+      "id": 783,
+      "titulo": "Investigador de Anthropic asegura que su IA Claude resolvió la hipótesis de Riemann",
+      "resumen": "Un matemático de Anthropic afirmó haber usado el chatbot Claude para demostrar la hipótesis de Riemann, uno de los Problemas del Milenio sin resolver desde hace más de 160 años. La afirmación aún debe pasar por revisión por pares, pero de confirmarse sería un hito sin precedentes para la IA en matemáticas puras.",
+      "por_que_leerlo": "Muestra hasta dónde puede llegar la IA generativa en razonamiento matemático avanzado, algo clave para quien usa estas herramientas en su trabajo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "matematicas",
+        "anthropic",
+        "claude"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 9,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 784,
+      "titulo": "Matemático propone una prueba de la Hipótesis Generalizada de Riemann",
+      "resumen": "Levent Alpöge publicó un documento que afirma demostrar la Hipótesis Generalizada de Riemann, uno de los problemas abiertos más importantes de las matemáticas, con implicaciones directas en teoría de números y criptografía. La comunidad matemática en Hacker News generó una discusión masiva (mas de 1.700 votos y 1.168 comentarios) mientras se verifica la prueba.",
+      "por_que_leerlo": "Si se confirma, seria uno de los mayores avances matematicos del siglo y el lector entendera por que genero tanto revuelo en la comunidad tecnica.",
+      "seccion": "ciencia",
+      "tags": [
+        "matematicas",
+        "teoria de numeros",
+        "riemann",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://alpo.ge/remark.pdf"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 9,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 785,
+      "titulo": "Investigador presenta una prueba de explosion en tiempo finito para las ecuaciones de Navier-Stokes",
+      "resumen": "Tristan Buckmaster publico en GitHub un trabajo que demuestra la existencia de soluciones que colapsan en tiempo finito para las ecuaciones de Navier-Stokes, uno de los siete Problemas del Milenio con premio de un millon de dolares. El anuncio genero fuerte debate en la comunidad cientifica por su relevancia para la fisica de fluidos y la mecanica teorica.",
+      "por_que_leerlo": "Es un posible hito matematico que resuelve, en parte, uno de los problemas sin resolver mas famosos de la ciencia.",
+      "seccion": "ciencia",
+      "tags": [
+        "matematicas",
+        "fisica",
+        "ecuaciones diferenciales",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/tristanbuckmaster/navier-stokes/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 7,
+      "interes_score": 9,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 786,
+      "titulo": "Nueva teoría resuelve un enigma de 40 años sobre el confinamiento de energía en plasmas de fusión",
+      "resumen": "Investigadores desarrollaron un marco teórico que explica cómo los plasmas de fusión entran en un estado de confinamiento de energía mejorado, un fenómeno clave para lograr fusión estable que llevaba cuatro décadas sin explicación completa. El avance podría acelerar el diseño de reactores de fusión más eficientes.",
+      "por_que_leerlo": "Es una pieza central para entender por qué la fusión nuclear, la energía del futuro, aún no es viable comercialmente.",
+      "seccion": "ciencia",
+      "tags": [
+        "fusion nuclear",
+        "energia",
+        "fisica de plasmas"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 787,
+      "titulo": "Bending Spoons compra Mailchimp por US$3.680 millones, una ganga frente al precio de Intuit",
+      "resumen": "La italiana Bending Spoons adquirió la plataforma de email marketing Mailchimp por 3.680 millones de dólares, muy por debajo de los 12.000 millones que pagó Intuit por la misma empresa en 2021. La operación revela cuánto puede caer la valoración de un activo de software maduro en pocos años.",
+      "por_que_leerlo": "Es un caso concreto de cómo identificar oportunidades de compra cuando el mercado corrige valoraciones infladas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusiones",
+        "adquisiciones",
+        "software",
+        "valoracion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 788,
+      "titulo": "Frostbite: una nueva arquitectura de CPU descubierta y verificada por IA",
+      "resumen": "La startup Architect Labs presento Frostbite, una arquitectura de procesador disenada, verificada y optimizada completamente por sistemas de inteligencia artificial, sin intervencion de ingenieros humanos en el diseno del chip. El anuncio acumulo mas de 500 votos en Hacker News por lo que implica para el futuro del diseno de hardware.",
+      "por_que_leerlo": "Muestra un caso concreto de como la IA ya esta disenando hardware real, no solo escribiendo codigo o texto.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "hardware",
+        "chips",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://architectlabs.com/blog/frostbite"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 789,
+      "titulo": "Las billeteras digitales duplican la recepción de remesas en Colombia en un año",
+      "resumen": "Un informe de ARQ revela que el número de colombianos que reciben dinero del exterior se duplicó en los últimos doce meses, impulsado por el auge de billeteras digitales. Además, el 19% de esos recursos se mantiene como ahorro en dólares digitales en vez de convertirse a pesos.",
+      "por_que_leerlo": "Muestra una tendencia de ahorro en dólares digitales que puede inspirar nuevos productos fintech para el mercado latinoamericano.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "remesas",
+        "fintech",
+        "dolares digitales",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/billeteras-transforman-el-mercado-de-remesas-y-ganan-terreno-los-dolares-digitales-4529326"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 790,
+      "titulo": "AWS inaugura infraestructura de nube en Bogotá y reconoce que la demanda regional supera su capacidad",
+      "resumen": "Amazon Web Services puso en marcha una nueva región de nube en Bogotá, suma a su expansión en Chile, y su VP para Latinoamérica reconoció que la capacidad actual no alcanza a cubrir la demanda regional, además de enfrentar competencia china en Brasil.",
+      "por_que_leerlo": "Tener infraestructura de nube local en Bogotá puede reducir latencia y costos para quienes construyen productos digitales en Colombia.",
+      "seccion": "tecnologia",
+      "tags": [
+        "aws",
+        "nube",
+        "infraestructura",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/colombia/aws-lanza-infraestructura-de-nube-en-bogota-que-dijo-su-vp-para-latinoamerica-sobre-argentina/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 791,
+      "titulo": "Investigadores identifican las cuatro estructuras de red responsables de los bucles de mensajes",
+      "resumen": "Un equipo de científicos de la computación determinó que, cuando fallan enlaces en una red de comunicaciones y los mensajes quedan atrapados en bucles de enrutamiento, la causa se reduce a solo cuatro estructuras de red simples. El hallazgo formaliza matemáticamente la llamada 'resiliencia perfecta' en redes.",
+      "por_que_leerlo": "Ofrece una base teórica útil para quienes diseñan o depuran redes de telecomunicaciones e infraestructura digital.",
+      "seccion": "tecnologia",
+      "tags": [
+        "redes",
+        "telecomunicaciones",
+        "teoria de la computacion"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 792,
+      "titulo": "El fósil de 3 millones de años 'Niño de Taung' complica la historia de la evolución humana",
+      "resumen": "Un nuevo estudio del fósil Taung, de 3 millones de años, sugiere que varios ancestros humanos antiguos considerados una sola especie en realidad pertenecen a ramas evolutivas distintas. El hallazgo también vincula cambios climáticos drásticos con la diversificación de los primeros homínidos.",
+      "por_que_leerlo": "Replantea con evidencia fósil cómo se ramificó realmente el árbol genealógico humano.",
+      "seccion": "ciencia",
+      "tags": [
+        "evolucion humana",
+        "paleontologia",
+        "fosiles"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 793,
+      "titulo": "Los acreedores de SpaceX no quieren que Musk lance al espacio los chips que respaldan su deuda",
+      "resumen": "Bancos y bonistas que financian a SpaceX exigen que los chips usados como garantía de sus préstamos permanezcan en la Tierra y accesibles, lo que choca con los planes de construir infraestructura de cómputo en órbita. El caso expone una tensión nueva entre el financiamiento tradicional y la ambición de llevar centros de datos al espacio.",
+      "por_que_leerlo": "Muestra cómo las reglas clásicas de financiamiento corporativo empiezan a frenar proyectos tecnológicos de frontera.",
+      "seccion": "tecnologia",
+      "tags": [
+        "financiamiento",
+        "spacex",
+        "centros de datos",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
+      "id": 794,
+      "titulo": "Estudio con mas de 7.000 personas sugiere que la hora de comer influye en el peso tanto como la dieta",
+      "resumen": "Una investigacion con mas de 7.000 participantes encontro que el horario en que se consumen las comidas se asocia de forma significativa con el peso corporal, independientemente de las calorias totales ingeridas o el ejercicio realizado. Los hallazgos refuerzan la idea de que los ritmos circadianos afectan el metabolismo tanto como la composicion de la dieta.",
+      "por_que_leerlo": "Ofrece un dato practico y respaldado por evidencia que cualquiera puede aplicar sin cambiar que come, solo cuando lo come.",
+      "seccion": "ciencia",
+      "tags": [
+        "salud",
+        "nutricion",
+        "metabolismo",
+        "estudio cientifico"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/medicina-y-salud/estudio-7-000-personas-apunta-a-que-hora-a-que-comes-importa-que-pensabamos"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-20 19:01",
+      "auto_generated": true
+    },
+    {
       "id": 771,
       "titulo": "El modelo de IA de Google DeepMind acerto la trayectoria del huracan Melissa cuando otros fallaron",
       "resumen": "Una semana antes de que el huracan Melissa golpeara Jamaica, los modelos tradicionales no coincidian en su ruta ni en su intensidad. El modelo de IA de Google DeepMind fue el unico que predijo correctamente tanto el camino de la tormenta como su fuerza de categoria 5.",
