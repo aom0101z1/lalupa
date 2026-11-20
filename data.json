@@ -221,6 +221,358 @@
   ],
   "casos": [
     {
+      "id": 3336,
+      "titulo": "Corredor ferroviario La Dorada–Chiriguaná logra financiación por $2,01 billones",
+      "categoria": "obras",
+      "fecha": "2026-11-20",
+      "descripcion": "El corredor ferroviario La Dorada–Chiriguaná obtuvo financiación por $2,01 billones. Entre los resultados esperados del proyecto se encuentra triplicar la capacidad de carga por tren, pasando de 2.000 a 6.000 toneladas, y reducir el tiempo de recorrido de 24 a 16 horas.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/corredor-la-dorada-chiriguana-logra-financiacion-por-2-01-billones-4529612",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3335,
+      "titulo": "Inauguración de la ampliación de la Autopista Norte de 6 a 12 carriles",
+      "categoria": "obras",
+      "fecha": "2026-11-20",
+      "descripcion": "El presidente Abelardo de la Espriella inauguró la ampliación de la Autopista Norte, que pasará de 6 a 12 carriles, con el objetivo de aliviar el congestionamiento vial entre Bogotá y los municipios de Chía, Cajicá, Tocancipá, Zipaquirá y Sopó.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/de-la-espriella-inaugura-la-ampliacion-de-la-autopista-norte-para-aliviar-el-trancon-pasara-de-6-a-12-carriles-506785",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Invias",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3334,
+      "titulo": "Ungrd invierte $920 millones en equipos tecnológicos para el Ideam",
+      "categoria": "obras",
+      "fecha": "2026-11-20",
+      "descripcion": "La Ungrd invirtió más de $920 millones de pesos en la entrega de 137 equipos tecnológicos para el Ideam, incluyendo 29 conmutadores de red, 12 equipos de seguridad informática y 96 transceptores, que serán distribuidos en la sede principal y diez seccionales del instituto, fortaleciendo su capacidad de monitoreo.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/ungrd-invirtio-mas-de-920-millones-en-la-entrega-de-137-equipos-tecnologicos-para-al-ideam-4529422",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad Nacional para la Gestion del Riesgo de Desastres (UNGRD) / Ideam",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3333,
+      "titulo": "Cuenta falsa suplanta a Deicy Jimenez con frase falsa sobre Petro",
+      "categoria": "mentiras",
+      "fecha": "2026-11-20",
+      "descripcion": "La Silla Vacia desmintio que Deicy Jimenez, denunciante del escandalo de 'sexocontratos' del expresidente Petro, haya publicado una frase atribuida a ella en redes sociales; se trata de un perfil falso en Facebook que la suplanta.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/deicy-jimenez-no-publico-esta-frase-sobre-petro-fue-una-cuenta-falsa/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Deicy Jimenez"
+      ],
+      "entidad": "Redes sociales / Fiscalia General de la Nacion",
+      "estado": "Desmentido",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43"
+    },
+    {
+      "id": 3332,
+      "titulo": "Andeg advierte impacto economico del impuesto al carbono en combustibles",
+      "categoria": "economia",
+      "fecha": "2026-11-20",
+      "descripcion": "El gremio Andeg senalo que la aplicacion del impuesto al carbono encareceria el diesel, el jet fuel y el carbon, con un efecto neto negativo estimado en $3,8 billones y mayor presion fiscal en subsidios de energia, segun Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/diesel-jet-fuel-y-carbon-se-encarecerian-con-la-aplicacion-del-impuesto-al-carbono/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Andeg",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3331,
+      "titulo": "De la Espriella pide acelerar obras de ampliacion de la Autopista Norte",
+      "categoria": "obras",
+      "fecha": "2026-11-20",
+      "descripcion": "El presidente De la Espriella solicito acelerar las obras de ampliacion de la Autopista Norte, planteando terminar el proyecto un ano antes de lo previsto. El Gobierno senalo que la obra permanecio sin avances durante cuatro anos bajo el gobierno anterior, segun Valora Analitik.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-pide-acelerar-obras-de-ampliacion-de-autopista-norte-plantea-terminar-el-proyecto-un-ano-antes/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Invias",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3330,
+      "titulo": "Ministra de Cultura declara insubsistente a directora de la Biblioteca Nacional tras fallo judicial",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-20",
+      "descripcion": "El Tribunal Administrativo de Cundinamarca suspendio provisionalmente el nombramiento de la directora de la Biblioteca Nacional por cuestionamientos sobre su experiencia profesional acreditada; en consecuencia, la Ministra de Cultura la declaro insubsistente, segun La Republica.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/ocio/ministra-de-cultura-declara-insubsistente-a-directora-de-la-biblioteca-nacional-tras-fallo-judicial-4529538",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Cultura / Biblioteca Nacional",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43"
+    },
+    {
+      "id": 3329,
+      "titulo": "Gobierno anuncia subsidio de arriendo equivalente a medio salario minimo para afectados por el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-20",
+      "descripcion": "El Gobierno Nacional anuncio que subsidiara con medio salario minimo mensual el arriendo de las personas afectadas por el terremoto del 10 de agosto, como medida de alivio economico mientras avanza la reconstruccion de viviendas, segun Semana.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/gobierno-subsidiara-con-medio-salario-minimo-el-arriendo-para-afectados-por-el-terremoto/202636/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3328,
+      "titulo": "Informe detecta falta de trazabilidad en giros del Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-11-20",
+      "descripcion": "Un informe revela que $624.656 millones destinados a damnificados del terremoto del 10 de agosto, administrados por el Fondo Milagro, no tienen trazabilidad de giros, segun publicacion de El Colombiano. El hallazgo pone en duda el control sobre la ejecucion de recursos para la emergencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1VYSTR6TUVrVXprY05VMWJtUjUxUXZrRENORmdLd1VzbVpHbVhMckVYdXlISmdpb3pPMTBPNGNSZGtOM0dJZGFGdXFxSWZTNTVGWlJNQ2dpdW1MOWFkYlhNbHlTX3BzUkM0aV9lNnFTR1JLbFZMMnRIWWpva05vTkFlYjV3Ni1SV2NWNjBSMnJ0QW9hT3ZzN0hTNW95Q1h4eVFHU19WR3dxeHM3SDZpMy10SnhiX25WTVNCTWZSUlZ0UdIBxwFBVV95cUxQdHJ4Z2dGU1hrS2pmWlJYQUJ5SnBYQTRwdkxGOUZmRFhJaTR1XzltamdrSXdFODFTOUV6blJDcDBPdHFjOW5qUEZoT1pIamtxYU16bUU1SVd3S0NNQXZfLUlka3hDRWpvOTRIek5KYXpFQXh1WXY1TkFwYTJFMDE2emI3WnIzZFExVXFRdjZqR1dRUFkzcmdsZjNhSFBhQWMydVhrTEZJOGFQVnZDai1Eal8zU1IzNW01WC1tSDhJU0NYSTZzYVd3?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3327,
+      "titulo": "Secretaria del colegio denuncia falsificación de firma en diploma de bachiller de Verónica Estrada",
+      "categoria": "mentiras",
+      "fecha": "2026-11-20",
+      "descripcion": "La secretaria auxiliar del colegio Juan Pablo Gómez Ochoa denunció que su firma fue falsificada en el diploma de bachiller atribuido a la representante Verónica Estrada, afirmando que la congresista no es egresada de la institución. El Copnia y autoridades académicas han revelado nuevas irregularidades sobre los títulos profesionales y de bachiller de la congresista.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/hablo-la-secretaria-del-colegio-que-habria-expedido-el-diploma-de-bachiller-de-luz-veronica-estrada-la-representante-no-es-egresada-3602816",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Estrada"
+      ],
+      "entidad": "Institucion Educativa Juan Pablo Gomez Ochoa / Consejo Nacional de Ingenieria",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43"
+    },
+    {
+      "id": 3326,
+      "titulo": "Verónica Estrada no comparece ante la Fiscalía por caso de título falso",
+      "categoria": "mentiras",
+      "fecha": "2026-11-20",
+      "descripcion": "La Fiscalía citó en dos oportunidades a la representante Verónica Estrada para que respondiera por la investigación de presunta falsedad en documento relacionada con sus títulos académicos, pero la congresista no asistió a ninguna de las diligencias pese a los requerimientos desde el año pasado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-estrada-fiscalia-cito-dos-veces-por-investigacion-titulo-falso-y-no-asistio-NM43836597",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Estrada"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43"
+    },
+    {
+      "id": 3325,
+      "titulo": "Fiscalía imputará a exgerente de campaña de Carolina Corcho por irregularidades en reposición de votos",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-20",
+      "descripcion": "La Fiscalía citó a audiencia de imputación, el 2 de diciembre, a Nelson Emiro Linares Zárate y Héctor Ulises Ávila Cortés, señalados de irregularidades en facturas de gastos de la campaña de Carolina Corcho (exministra de Salud de Petro) en la consulta interna del Pacto Histórico de octubre de 2025. Linares fue gerente de dicha campaña.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fiscalia-imputacion-exgerente-campana-carolina-corcho-DL43842188",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Nelson Emiro Linares Zarate",
+        "Hector Ulises Avila Cortes",
+        "Carolina Corcho"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43"
+    },
+    {
+      "id": 3324,
+      "titulo": "Sector privado y público se articulan para reconstrucción del Valle del Cauca",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-20",
+      "descripcion": "Empresarios y entidades públicas se reunieron en el evento 'Encontrémonos por el Valle del Cauca' para discutir los retos de la reconstrucción tras el sismo del 10 de agosto, articulando iniciativas conjuntas para la recuperación económica y social de la región.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/las-iniciativas-del-sector-privado-y-publico-para-la-reconstruccion-del-valle-tras-el-sismo-4529398",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion del Valle del Cauca / Sector privado",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3323,
+      "titulo": "Primera dama anuncia entrega de viviendas en Chocó",
+      "categoria": "avances",
+      "fecha": "2026-11-20",
+      "descripcion": "La primera dama Ana Lucía Pineda se reunió con la gobernadora de Chocó, Carolina Córdoba, para revisar avances en la reconstrucción tras el terremoto del 10 de agosto. Anunció que pronto se entregarán soluciones de vivienda a comunidades afectadas en Quibdó y el medio, bajo y alto Baudó.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/gobierno-abelardo-primera-dama-ana-lucia-pineda-gobernadora-choco-entrega-viviendas-EM43834918",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucia Pineda",
+        "Carolina Cordoba"
+      ],
+      "entidad": "Presidencia de la Republica / Gobernacion del Choco",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 3322,
+      "titulo": "Procuraduría destituye e inhabilita a Julián Caicedo, pareja de Ricardo Roa",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-20",
+      "descripcion": "La Procuraduría destituyó e inhabilitó por ocho años a Julián Caicedo, pareja del expresidente de Ecopetrol Ricardo Roa, por irregularidades relacionadas con sus vínculos laborales con el Invías y la Institución Universitaria Pascual Bravo. El Ministerio Público encontró que dichos nombramientos y contratos estuvieron ligados a su relación con Roa, funcionario clave del gobierno Petro.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjZNNWNLYzJLYmJXUlJPdlJncjJhR2V4XzU2TngwSXlZR21LTFRxb3JkeEpUU21YaXhwc1dzX3FpbjlxbDVKeThlbm9lQnQ3UkZQMElGbXFlaTRkM1RHUnFWTnFRY0RlbkM3bWptWUtqQVFpdmdGT0xWNHVnTHJqbkRoRzFvdlc0R19oS0RaR0JSTlpnaHJ0NFNwanJ4b3Z3NjZuMzBtN1dXb1pTYkRrWW53T1lsTU1ZTDBFVEo5cWVCTDM3YlNQTWFLSUdtNldPR243Y2FpYVRUcnhtRWo0SVBoX3ZNME1wVVBqcWhCczhzQdIBjAJBVV95cUxPc0lyb3JaNHo5NzdnNkVkUUdhMGdBODBoX0dQR0l5anBKM01qanFBa0VSRFBGdWxqS041Z1djaHB4VTNtajlVbElYX1B3VlFQcVVhTGZOX2ZuR1ptd0ZaRkxXNVZqWWhDQmNBTlpqSUYwZ1BZSWNOUElNdWN4eTRnOG44UkxpNWszaTNHWEJrYmJHZTdaTXNTYTNRV2J5OXNJVEZNLXF6RjlqSklSQ2ZvbXBFMDdPR2FYWkNINjFhbG5uTk91WTdEZnhyQk8xMGpWX3lWVTJ5elY4U0VheWR3NjlxSFRUNVhRbTVrWHFwVk56YWxGeVhBZHNmdHAtcUtOaExOZlVYTHA2RkU1?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Julián Caicedo",
+        "Ricardo Roa"
+      ],
+      "entidad": "Procuraduria General de la Nacion / Ecopetrol / Invias / Institucion Universitaria Pascual Bravo",
+      "estado": "Condenado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-20 23:43"
+    },
+    {
       "id": 3321,
       "titulo": "SuperSalud ordena a interventores de EPS rendir cuentas en asambleas de accionistas",
       "categoria": "transparencia",
@@ -77462,7 +77814,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-20",
-    "total_casos": 3232,
+    "total_casos": 3247,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
