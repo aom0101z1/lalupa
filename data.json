@@ -221,6 +221,76 @@
   ],
   "casos": [
     {
+      "id": 3348,
+      "titulo": "Caldas evalúa daños del terremoto en 140 colegios para planificar reconstrucción",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-21",
+      "descripcion": "Autoridades de Caldas adelantan una evaluación de daños causados por el terremoto en 140 colegios del departamento. Los resultados servirán para determinar qué obras requiere cada inmueble, su costo estimado y el nivel de urgencia de la intervención, como parte del proceso de reconstrucción tras el sismo del 10 de agosto de 2026.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/caldas-evaluara-danos-por-el-terremoto-en-140-colegios-para-definir-las-obras-de-recuperacion/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Caldas",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 14:14",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 3347,
+      "titulo": "Gobierno propone revivir los tres días sin IVA",
+      "categoria": "economia",
+      "fecha": "2026-11-21",
+      "descripcion": "El Gobierno De la Espriella anunció que no impondrá más IVA a productos de la canasta básica y evalúa revivir la jornada de tres días sin IVA como medida económica.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/proponen-revivir-los-tres-dias-sin-iva-en-colombia-cuando-aplicarian/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 14:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3346,
+      "titulo": "Gobierno confirma nuevo bombardeo contra disidencias de 'Mordisco'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-21",
+      "descripcion": "El presidente Abelardo De la Espriella anunció un nuevo bombardeo contra disidencias de las Farc lideradas por alias 'Mordisco' y confirmó el número de delincuentes muertos en la operación militar.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-anuncia-nuevo-bombardeo-contra-disidencias-de-mordisco-confirmo-cuantos-delincuentes-murieron/202629/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Defensa / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 14:14",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3345,
       "titulo": "Pacto Historico pide investigar responsabilidad de padrinos politicos de Veronica Estrada",
       "categoria": "nepotismo",
@@ -78031,7 +78101,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-21",
-    "total_casos": 3256,
+    "total_casos": 3259,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
