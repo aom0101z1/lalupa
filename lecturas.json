@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-20"
+    "ultima_actualizacion": "2026-11-21"
   },
   "lecturas": [
+    {
+      "id": 795,
+      "titulo": "CERN detecta por primera vez una desintegracion de particula extremadamente rara tras 40 anos de busqueda",
+      "resumen": "Cientificos del CERN hallaron evidencia de una desintegracion de una particula beauty que ocurre solo una vez cada 10.000 millones de veces, un proceso buscado durante mas de cuatro decadas. El hallazgo podria abrir una ventana hacia particulas o fuerzas desconocidas que la fisica actual no explica.",
+      "por_que_leerlo": "Un ejemplo concreto de como la fisica de particulas sigue buscando grietas en el modelo estandar con evidencia dura.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica de particulas",
+        "cern",
+        "mecanica cuantica",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 796,
+      "titulo": "Un experimento con 2 millones de 'canarios' revela fugas de datos en la cadena de suministro de IA",
+      "resumen": "Un investigador insertó dos millones de secretos únicos y rastreables en prompts para comprobar si los datos de usuarios permanecen privados en los sistemas de IA, y encontró filtraciones sistemáticas a lo largo de la cadena de suministro de modelos. El hallazgo expone fallas estructurales de privacidad en herramientas de IA ampliamente usadas.",
+      "por_que_leerlo": "Alerta con evidencia concreta sobre los riesgos reales de privacidad al integrar herramientas de IA en productos o negocios propios.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "privacidad",
+        "seguridad",
+        "datos"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 797,
+      "titulo": "El precio del gas importado en Colombia sube más de 125% en nueve meses",
+      "resumen": "El costo del gas natural importado superó los US$31 por millón de BTU, un alza de más de 125% en nueve meses, lo que ha llevado al país a evaluar la reactivación de compras a Venezuela y el desarrollo de nuevos campos locales para diversificar el suministro.",
+      "por_que_leerlo": "Entender este salto de precios ayuda a anticipar el impacto en costos energéticos y en la competitividad de la industria colombiana.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "gas natural",
+        "colombia",
+        "precios"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-precio-del-gas-importado-se-dispara-mas-de-125-en-nueve-meses-y-supera-los-us-31-mbtu-4529316"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 798,
+      "titulo": "Las funciones de gamificacion impulsan la adopcion de pagos moviles entre la generacion Z",
+      "resumen": "Un estudio publicado en el International Journal of Business Information Systems encontro que anadir elementos de juego a las aplicaciones de pago movil aumenta significativamente su adopcion en economias emergentes. El efecto fue casi identico entre hombres y mujeres encuestados.",
+      "por_que_leerlo": "Una leccion de diseno de producto respaldada por datos para quien construye fintech o apps de pagos en mercados emergentes.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "gamificacion",
+        "pagos moviles",
+        "emprendimiento"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-gamified-mobile-payment-features-gen.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 799,
+      "titulo": "Tras ocho anos de viaje, un telescopio de rayos X rumbo a Mercurio capta sus primeras observaciones",
+      "resumen": "El instrumento, que recorrio 10.000 millones de kilometros en ocho anos, comenzo a operar con un rendimiento superior al esperado por los cientificos. Se espera que revele la composicion quimica de Mercurio y ayude a entender como se formo el planeta mas pequeno del sistema solar.",
+      "por_que_leerlo": "Una mision espacial de largo plazo que finalmente empieza a dar resultados sobre el planeta menos explorado del sistema solar.",
+      "seccion": "ciencia",
+      "tags": [
+        "espacio",
+        "mercurio",
+        "telescopio",
+        "astronomia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 800,
+      "titulo": "Dos estrellas masivas podrian estar alimentando en secreto al agujero negro de la Via Lactea",
+      "resumen": "Astronomos rastrearon nubes de gas misteriosas cerca del agujero negro central de la galaxia hasta un par de estrellas masivas cuyos vientos estelares, al colisionar, generan grumos densos de material. Estas nubes podrian terminar alimentando al agujero negro, revelando un vinculo inesperado entre la actividad estelar y el crecimiento de estos gigantes cosmicos.",
+      "por_que_leerlo": "Muestra un mecanismo nuevo y sorprendente de como crecen los agujeros negros supermasivos en el centro de las galaxias.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujero negro",
+        "via lactea",
+        "astronomia",
+        "estrellas"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 801,
+      "titulo": "Por que las llamas de hidrogeno pasan de naranja a casi invisibles y como hacerlas mas seguras",
+      "resumen": "Investigadores descubrieron que pequenas cantidades de sodio en el aire son responsables de que las llamas de hidrogeno cambien de un naranja visible a un tono casi imperceptible. El hallazgo podria mejorar la seguridad de futuras estufas y hornos a hidrogeno mediante sensores especializados en lugar de deteccion visual.",
+      "por_que_leerlo": "Un dato practico de ingenieria clave para la seguridad de la futura economia del hidrogeno.",
+      "seccion": "tecnologia",
+      "tags": [
+        "hidrogeno",
+        "energia",
+        "seguridad",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 802,
+      "titulo": "Meta reconsidera su meta de cero emisiones netas para 2030 por el auge de la IA",
+      "resumen": "Meta está reevaluando su objetivo de neutralidad de carbono para 2030 después de registrar emisiones récord debido al crecimiento acelerado de sus centros de datos para entrenar modelos de IA. La decisión podría marcar una tendencia entre otras grandes tecnológicas que enfrentan el mismo dilema entre expansión de IA y compromisos climáticos.",
+      "por_que_leerlo": "Muestra cómo el boom de la IA está chocando con las metas climáticas corporativas y qué implica para el costo energético de la industria.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia",
+        "energia",
+        "centros de datos",
+        "sostenibilidad"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 803,
+      "titulo": "El fundador de Spotify invierte en una startup de fusión nuclear liderada por un exinvestigador de IA",
+      "resumen": "Daniel Ek respalda a Europa Fusion, una startup de energía de fusión fundada por un exinvestigador de inteligencia artificial que busca aplicar métodos computacionales avanzados para acelerar el diseño de reactores. La apuesta se suma al creciente interés de inversionistas tecnológicos en la fusión como solución a la demanda eléctrica disparada por la IA.",
+      "por_que_leerlo": "Ilustra cómo el capital y el talento de la IA están migrando hacia la energía de fusión como la próxima gran apuesta de inversión.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fusion nuclear",
+        "energia",
+        "inversion",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 804,
+      "titulo": "Startups de geotermia de roca súper caliente buscan resolver la crisis energética de los centros de datos",
+      "resumen": "Nuevas startups de geotermia proponen perforar rocas a temperaturas extremas para generar electricidad en casi cualquier ubicación, superando las limitaciones geográficas de la geotermia tradicional y prometiendo terawatts de energía para alimentar centros de datos de IA. La apuesta es saltarse a los líderes actuales del sector con una tecnología más escalable.",
+      "por_que_leerlo": "Presenta una posible solución de ingeniería al cuello de botella energético que hoy frena la expansión de la industria de la IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "geotermia",
+        "energia",
+        "centros de datos",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 805,
+      "titulo": "Una firma de transcripción usada por policías y fiscales expuso datos de clientes sin contraseña",
+      "resumen": "Una empresa de transcripción contratada por cuerpos policiales, fiscalías y grandes tecnológicas dejó expuestas en un servidor en la nube, sin protección alguna, transcripciones de entrevistas policiales y grabaciones de cámaras corporales. La falla de seguridad pone en riesgo información sensible de investigaciones criminales y de testigos.",
+      "por_que_leerlo": "Es un caso concreto que muestra los riesgos reales de ciberseguridad al tercerizar datos sensibles con proveedores de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "filtracion de datos",
+        "ia",
+        "policia"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
+    {
+      "id": 806,
+      "titulo": "La SEC investiga a Nvidia por presuntas irregularidades contables, segun fuentes",
+      "resumen": "Fuentes citadas por medios financieros revelan que la Comision de Bolsa y Valores de Estados Unidos abrio una pesquisa sobre Nvidia centrada en posibles irregularidades contables. La investigacion se suma al escrutinio regulatorio que enfrenta la compania en medio de su explosivo crecimiento ligado a la demanda de chips de IA.",
+      "por_que_leerlo": "Quien sigue de cerca el mercado de IA e inversion debe saber si la empresa mas valiosa del sector enfrenta riesgos regulatorios que podrian golpear su cotizacion.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "nvidia",
+        "sec",
+        "inversion",
+        "contabilidad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 03:48",
+      "auto_generated": true
+    },
     {
       "id": 783,
       "titulo": "Investigador de Anthropic asegura que su IA Claude resolvió la hipótesis de Riemann",
