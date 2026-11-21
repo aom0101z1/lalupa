@@ -221,6 +221,223 @@
   ],
   "casos": [
     {
+      "id": 3345,
+      "titulo": "Pacto Historico pide investigar responsabilidad de padrinos politicos de Veronica Estrada",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-21",
+      "descripcion": "El Pacto Historico senala a los congresistas Zuleta y Llinas como posibles responsables politicos por haber respaldado la postulacion de Veronica Estrada pese al escandalo de su titulo academico falso, buscando establecer su rol en el nombramiento o aval politico.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/pacto-historico-busca-la-responsabilidad-de-los-padrinos-politicos-de-veronica-estrada-mira-a-zuleta-y-llinas/202652/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Estrada",
+        "Zuleta",
+        "Llinas"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37"
+    },
+    {
+      "id": 3344,
+      "titulo": "Colombia reabre mercado chileno para la carne bovina",
+      "categoria": "economia",
+      "fecha": "2026-11-21",
+      "descripcion": "El ministro de Agricultura, Indalecio Dangond, anuncio la reapertura del mercado chileno para la carne bovina colombiana, con proyecciones de exportaciones por US$27 millones en 2027, segun Valora Analitik del 21 de noviembre de 2026.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/colombia-reabre-mercado-chileno-para-la-carne-bovina-y-proyecta-exportaciones-por-us27-millones-en-2027/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Indalecio Dangond"
+      ],
+      "entidad": "Ministerio de Agricultura",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3343,
+      "titulo": "Dudas sobre acceso de Veronica Estrada a informacion de inteligencia del Estado",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-20",
+      "descripcion": "En medio del escandalo por los presuntos titulos academicos falsos de la representante Luz Veronica Estrada, surge la inquietud sobre si, en el ejercicio de sus funciones legislativas en comisiones del Congreso, tuvo acceso a informacion de inteligencia y contrainteligencia del Estado, segun El Colombiano del 20 de noviembre de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/veronica-estrada-acceso-informacion-inteligencia-contrainteligencia-estado-DK43854412",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Estrada"
+      ],
+      "entidad": "Congreso de la Republica / Direccion Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37"
+    },
+    {
+      "id": 3342,
+      "titulo": "Bahamon revela tension entre Petro y Federacion Nacional de Cafeteros por el Fondo del Cafe",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-21",
+      "descripcion": "El gerente de la Federacion Nacional de Cafeteros, German Bahamon, revelo nuevos detalles sobre la tension que hubo entre el gobierno de Gustavo Petro y la Federacion, afirmando que el gobierno intento quitarles el manejo del Fondo Nacional del Cafe, segun Semana del 21 de noviembre de 2026.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/empresas/articulo/querian-quitarnos-el-fondo-del-cafe-german-bahamon-revela-nuevos-detalles-de-la-tension-que-hubo-entre-petro-y-la-federacion/202600/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "German Bahamon",
+        "Gustavo Petro"
+      ],
+      "entidad": "Federacion Nacional de Cafeteros / Fondo Nacional del Cafe",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37"
+    },
+    {
+      "id": 3341,
+      "titulo": "Gobierno De la Espriella presenta propuestas sobre compras de medicamentos, recobros y UPC",
+      "categoria": "economia",
+      "fecha": "2026-11-20",
+      "descripcion": "El gobierno de Abelardo De la Espriella presentó un paquete de propuestas orientadas a reformar el sistema de compras de medicamentos, el mecanismo de recobros y la Unidad de Pago por Capitación (UPC) en el sistema de salud colombiano, segun reporte de Valora Analitik del 20 de noviembre de 2026.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzRocmlwbWRrZ1lnUEtQM0VVa0hUNU5WeG1BWGZjTFRDNGl2bTZONUF0OEtSQ1N0d1N2eEFQLVVRcGlHeWZLYm5pLWFDNzZXSlJROExhc0NlRnYxa2Mxc2VCakhqdGpnUWdXM0VRNkwzMTBtQ0dCZmZwWW4wV0s1bkFlSFlHeGRMc2Q0VTJtQ1VoYXMweUUtVERwUTFrYXpRZTFRUC1aTTZXaVpwX1hBTUc2RE9EZWpsSHfSAb8BQVVfeXFMUGo0YWw0aVltVDdYbHRFeG1PcDhTYnBoTGNneVVhaENWRW5hcXcwOEsybktBVUNtNENQbGU2WUlOMTJ3YnRTZlczUWwxcElObUFvdUtqWmluNW1MbTUtemphOF93anRVbGIxOHh1OVY2RDBudndfcnEwb0Y5OG9BWXNSNEI4UWdKMGx6QVhaRDU3eXlnekpJVXhYWnF6U0JBa19qM3dWSE45VV9sckZYUmhPWEhrMXhFQlgtUk1YdWs?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3340,
+      "titulo": "Capturan en Cali a dominicano con notificacion roja de Interpol por narcotrafico",
+      "categoria": "seguridad",
+      "fecha": "2026-11-20",
+      "descripcion": "El dominicano Cesar Augusto Rodriguez Severino, alias Dondy, buscado con notificacion roja de Interpol por narcotrafico y lavado de activos, fue detenido en la ciudad de Cali, segun informo el Ministerio Publico de Republica Dominicana.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/detienen-en-colombia-a-un-dominicano-buscado-con-notificacion-de-interpol-por-narcotrafico/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Cesar Augusto Rodriguez Severino (alias Dondy)"
+      ],
+      "entidad": "Policia Nacional / Interpol",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3339,
+      "titulo": "Capturan a alias Plan B por caso de restos humanos en carcel La Modelo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-20",
+      "descripcion": "Las autoridades capturaron en el barrio Barlovento de Barranquilla a Oscar Ivan, alias Plan B, senalado de estar relacionado con el abandono de restos humanos y panfletos con amenazas contra funcionarios del INPEC cerca de la carcel La Modelo. La Policia tambien recupero una motocicleta usada presuntamente en el hecho.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/alias-plan-b-hombre-capturado-caso-restos-humanos-carcel-la-modelo-IJ43866259",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Oscar Ivan (alias Plan B)"
+      ],
+      "entidad": "Policia Nacional / INPEC",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3338,
+      "titulo": "Fondo Milagro destina recursos para demoliciones en Manizales",
+      "categoria": "dineros",
+      "fecha": "2026-11-21",
+      "descripcion": "El Fondo Milagro anuncio la asignacion de recursos para financiar demoliciones y labores de reconstruccion en Manizales, en el marco de la atencion a zonas afectadas por el terremoto del 10 de agosto de 2026, segun informo la Alcaldia de Manizales.",
+      "evidencia": "Reportado por Centro de Información – Alcaldía de Manizales",
+      "fuentes": [
+        {
+          "nombre": "Centro de Información – Alcaldía de Manizales",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnRwVGN3bFhyUnNscEJTY1hIYldvdUZwTlhOMW1uSXJINUdiUnQyNFVuRjZJTUdwLVNxeWY5eEJja3EyV3k2VlVJU3pGbFhfbzFFZ1E5bk55RGN0Q0l4aFNPRE9Qcmw0RDlyMFI2ekoyTjRnSHpuTWY2SmhjVVQySWVqWGZBU2txZTBVLWd6ZEhTM1hGNWpvTm5NWU1vM2tXVmUxNTFjWTRBYnpLYUhhMjBlV2JhaEJORlM5UEotN2hMZw?oc=5",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Alcaldia de Manizales",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 3337,
+      "titulo": "De la Espriella pide a Estados Unidos investigar a Petro por corrupción y narcotráfico",
+      "categoria": "internacional",
+      "fecha": "2026-11-20",
+      "descripcion": "El presidente Abelardo de la Espriella solicitó formalmente a las autoridades de Estados Unidos que adelanten una investigación contra el expresidente Gustavo Petro por presuntos vínculos con corrupción y narcotráfico. La petición se enmarca en la cooperación bilateral entre los gobiernos de Colombia y Estados Unidos en materia de seguridad y justicia tras el cambio de gobierno.",
+      "evidencia": "Reportado por Diario Las Américas",
+      "fuentes": [
+        {
+          "nombre": "Diario Las Américas",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQTJYc3h4THlSanJUUzM3b0VOX0pCZWVTSHBybmExR1BzMkhTa3ZxTnJRZmpDSXF6ZFlzanpTU3RfTkJibUNZY2FIcU1rZ1Rsdnp2VXR5OHRuWHZnaTZjR0ctbTZaMXU2MzhvSkt5OEtFeVFSamdLSUJCMlQtbXlUQUluSHk0T1R6di1Jb0Y3MVhuUUtWY2QzZmJIZ0RSR1lNUkRpazFJazRHSEZXM00tSnJhbGJoclg2UzhNMXpCY2tjTVVGZUHSAcsBQVVfeXFMTzc4d1FhNjBQdEVXQlBtRmxBdDJSZnUxMVFKSFF3YzVlWURodXMxMWpCMV9wYVVrWVhpMkpKNExnYzlwMDRvdVJsSi1tUHNpWmU0SF9GdlJ2Z2RKbjZlNHU5ZnY5QjJoRzBaMUw1SEs3Z1pJOU1yRFFzOWVZVHVOMWxuMEZTQzVOVjl0UlUzMW81Nm5OVkF4eFZoUW1EYkp4YlUydmxIbGxTUjVUbkRCQ0lzM21sMlFZZXZxdm5kWUtjREsyZ0N2cE5Da0U?oc=5",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la Republica / Gobierno de Estados Unidos",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 05:37",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3336,
       "titulo": "Corredor ferroviario La Dorada–Chiriguaná logra financiación por $2,01 billones",
       "categoria": "obras",
@@ -77813,8 +78030,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-20",
-    "total_casos": 3247,
+    "ultima_actualizacion": "2026-11-21",
+    "total_casos": 3256,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
