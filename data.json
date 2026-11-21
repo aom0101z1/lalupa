@@ -221,6 +221,285 @@
   ],
   "casos": [
     {
+      "id": 3360,
+      "titulo": "ANI entrega 106 km de vía del proyecto Santana-Mocoa-Neiva",
+      "categoria": "obras",
+      "fecha": "2026-11-21",
+      "descripcion": "La Agencia Nacional de Infraestructura puso en funcionamiento 106 kilómetros de vía correspondientes al proyecto Santana-Mocoa-Neiva, que tiene una longitud total de 456 kilómetros y una inversión global estimada en $2,1 billones, como parte de la agenda de obras del gobierno De la Espriella.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/agencia-naiconal-de-infraestructua-entrego-106-kilometros-de-via-en-huila-4530153",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3359,
+      "titulo": "Ejército golpea estructura de alias 'Primo Gay' con dos disidentes abatidos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-21",
+      "descripcion": "El Ejército Nacional reportó un nuevo golpe contra la estructura armada de alias 'Primo Gay', con dos presuntos disidentes muertos en combates recientes, en el marco de las operaciones de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/nuevo-golpe-del-ejercito-a-estructura-de-primo-gay-dos-disidentes-habrian-muerto-en-combates/202647/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Primo Gay"
+      ],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3358,
+      "titulo": "Representante Andrea Vargas aclara que aún no ha recibido su diploma de abogada",
+      "categoria": "mentiras",
+      "fecha": "2026-11-21",
+      "descripcion": "La representante Andrea Vargas, que había pedido la renuncia de Verónica Estrada por su escándalo de títulos falsos, debió dar explicaciones al conocerse que ella misma aún no ha recibido su diploma como abogada, generando dudas sobre su propia situación académica.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/de-pedir-renuncia-a-dar-explicaciones-representante-andrea-vargas-aclara-que-aun-no-recibe-su-diploma-como-abogada/202613/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Andrea Vargas"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49"
+    },
+    {
+      "id": 3357,
+      "titulo": "Verónica Estrada designa abogado para su defensa en caso de títulos académicos falsos",
+      "categoria": "mentiras",
+      "fecha": "2026-11-21",
+      "descripcion": "La congresista del Pacto Histórico, Luz Verónica Estrada, designó un abogado para asumir su defensa en el proceso por presunta falsificación de títulos académicos. Según el reporte, la congresista afirmó que atenderá a las autoridades competentes pero que por ahora no responderá públicamente a los hechos que se le imputan.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/el-abogado-que-luz-veronica-estrada-designo-para-su-defensa-por-el-caso-de-titulos-academicos-falsos-506841",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Veronica Estrada"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Congreso de la Republica",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49"
+    },
+    {
+      "id": 3356,
+      "titulo": "Gobierno alerta por bajo nivel de embalses ante fenómeno de El Niño",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-21",
+      "descripcion": "El Gobierno Nacional, a través de la ministra del ramo, advirtió sobre la disminución de los niveles de los embalses del país ante la inminencia del mayor impacto del fenómeno de El Niño, atribuido a la ausencia de lluvias y al aumento de la temperatura. La funcionaria llamó a prepararse para posibles afectaciones en el suministro energético e hídrico.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-prende-alarmas-por-menor-nivel-de-embalses-ad-portas-de-mayor-golpe-del-fenomeno-de-el-nino/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Minas y Energia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3355,
+      "titulo": "Descubridor de títulos falsos de Verónica Estrada advierte que hay más casos similares",
+      "categoria": "mentiras",
+      "fecha": "2026-11-21",
+      "descripcion": "Felipe Pedraza, el joven que destapó el escándalo de los títulos académicos falsos de la congresista Luz Verónica Estrada, afirmó en entrevista que 'no es el único caso', sugiriendo que existirían otros funcionarios o congresistas con diplomas falsificados. No se entregaron nombres adicionales ni pruebas concretas en esta declaración.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTB4ZGkxOXdSZXFwQ3FmT2dxVTNfVmt3cUpHbUNjUnFmeVFVOWZoSGd4cTNSVjRBLWV0d1VLYUtmeEZKbmRacTJ4NDlKMzBjVkNfaGhtMFdCUGhyRXpxSnhsdWFxeExaRFR1TzhXU3g0Y252QzhmSWxFV0FLZDl5Vk5HMjBHWk9FN0N5MVRRLXBVN0dZSUI1LWo0Z2NJSmRCQlh1YW9JdDZEXy1TVVo5TXNXX1F1emZKUmd2cDVrZFFzaDNfeUpn0gHbAUFVX3lxTE9xRzdialllV2hHT2FzY2lhMmpsNTlFaW1HTkJ2eEFZRnJ4dERNTGhSRzJOemh2dTRySDl0aDUzV29EdktyS3FQTGMwT2owMmJ4X3UtWVhWYzFPRnNYcEJRS2VsOFRoQW53MjlId0hyN0JQTlZ3RllKWFRJc1B5VS1pT3FvVElpUXBhUDVNQUhRcnJxR1B5cWs1eDEzbmJrTEVnc0VZVTNZU0pCVnhUWnNxeHhFNS14d0tJWTZrYUJSY1F6VXMzdk81NnZsY1AwdjFuLVc5MlVCOFpBWQ?oc=5",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Felipe Pedraza",
+        "Luz Veronica Estrada"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49"
+    },
+    {
+      "id": 3354,
+      "titulo": "19 presuntos integrantes de 'Los Carretilleros' enviados a la carcel en Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-21",
+      "descripcion": "La Fiscalia envio a la carcel a 19 presuntos integrantes de la banda 'Los Carretilleros' en Cali, acusados de instrumentalizar menores de edad para la venta de drogas. La investigacion documento tres homicidios y al menos 67 episodios de distribucion de estupefacientes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/asi-instrumentalizaban-menores-de-edad-para-vender-drogas-19-presuntos-integrantes-de-los-carretilleros-fueron-enviados-a-la-carcel-en-cali-3603015",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3353,
+      "titulo": "Viuda de Miguel Uribe acusa a Petro de ordenar su asesinato",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-21",
+      "descripcion": "Maria Claudia Tarazona, viuda del senador Miguel Uribe Turbay, acuso al expresidente Gustavo Petro de haber ordenado el asesinato de su esposo, en entrevista con la excandidata Vicky Davila. La Fiscalia General de la Nacion no tiene actualmente una linea de investigacion en contra del expresidente sobre esta acusacion.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/viuda-de-miguel-uribe-turbay-acusa-a-gustavo-petro-de-ordenar-su-asesinato/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Maria Claudia Tarazona",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49"
+    },
+    {
+      "id": 3352,
+      "titulo": "Gobierno lanza convocatoria para que 12.000 emprendedores vendan por internet",
+      "categoria": "economia",
+      "fecha": "2026-11-21",
+      "descripcion": "El Gobierno de Abelardo de la Espriella lanzó una convocatoria dirigida a 12.000 emprendedores colombianos para ampliar su presencia en canales de venta digital, como parte de una alianza publico-privada de fomento economico.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-lanza-convocatoria-para-que-12-000-emprendedores-vendan-sus-productos-por-internet-506833",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3351,
+      "titulo": "Tarazona revela posible advertencia de Benedetti antes del atentado contra Miguel Uribe",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-21",
+      "descripcion": "María Claudia Tarazona, viuda del senador Miguel Uribe Turbay, afirmó en entrevista con Vicky Dávila que una fuente le contó que Armando Benedetti, entonces funcionario del gobierno Petro, habría advertido a un miembro del Congreso sobre el atentado antes de que ocurriera. La denuncia no ha sido confirmada por autoridades judiciales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/benedetti-sabia-atentado-miguel-uribe-tarazona-advertencia-exministro-miembro-congreso-MH43886138",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti",
+        "Maria Claudia Tarazona",
+        "Miguel Uribe Turbay"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49"
+    },
+    {
+      "id": 3350,
+      "titulo": "Trasladan a 'hacker' de la DNI del gobierno Petro señalado de espionaje",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-21",
+      "descripcion": "Carlos Oyola, señalado de haber actuado como 'hacker' al servicio de la Dirección Nacional de Inteligencia (DNI) durante el gobierno Petro en un presunto caso de espionaje, fue trasladado a una cárcel de Valledupar. El presidente De la Espriella aseguró que el procesado enfrenta cargos por delitos informáticos, falsedad documental y fraude procesal, entre otros, en el marco de una investigación sobre el uso irregular de la inteligencia estatal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/video-primeras-imagenes-de-carlos-oyola-en-una-carcel-de-valledupar-asi-fue-trasladado-hacker-de-la-dni-de-gobierno-petro-senalado-de-espionaje-3602881",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Oyola"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI) / INPEC",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49"
+    },
+    {
+      "id": 3349,
+      "titulo": "Bombardeo contra disidencias de 'Mordisco' en Mapiripán, Meta deja cinco abatidos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-21",
+      "descripcion": "En la madrugada del 21 de noviembre, las Fuerzas Militares bombardearon la estructura 44 'Antonio Ricaurte' de las disidencias de las Farc al mando de alias 'Iván Mordisco' en zona rural de Mapiripán, Meta. El operativo dejó cinco presuntos disidentes muertos y la incautación de cuatro armas largas, dos cortas, 12 proveedores, munición, dos chalecos multipropósito, un equipo de campaña y un teléfono satelital. Según La Silla Vacía, es el undécimo bombardeo del gobierno De la Espriella contra este grupo armado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/bombardeo-en-mapiripan-meta-muerte-disidentes-PI43878869",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Néstor Gregorio Vera (alias Iván Mordisco)"
+      ],
+      "entidad": "Ministerio de Defensa / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-21 22:49",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3348,
       "titulo": "Caldas evalúa daños del terremoto en 140 colegios para planificar reconstrucción",
       "categoria": "gestion-local",
@@ -78101,7 +78380,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-21",
-    "total_casos": 3259,
+    "total_casos": 3271,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
