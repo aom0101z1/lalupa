@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 807,
+      "titulo": "Una teoria de 50 anos sobre la evolucion de los genes esenciales podria estar equivocada",
+      "resumen": "Un analisis extenso de mutaciones en bacterias y levaduras no encontro evidencia de que los genes esenciales muten menos que el resto, contradiciendo una teoria clasica sobre la proteccion evolutiva de genes clave. Los autores sugieren que estudios anteriores confundieron la seleccion natural -que elimina mutaciones daninas despues de ocurrir- con una menor tasa real de mutacion.",
+      "por_que_leerlo": "Revisa una idea asumida por decadas en biologia evolutiva con evidencia solida y metodologia clara.",
+      "seccion": "ciencia",
+      "tags": [
+        "evolucion",
+        "genetica",
+        "mutaciones",
+        "biologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 808,
+      "titulo": "Investigadores logran que modelos de lenguaje reescriban sus propios pesos",
+      "resumen": "Un nuevo paper publicado en arXiv describe modelos de lenguaje capaces de modificar sus propios parametros internos (pesos) durante su operacion, en lugar de depender solo de reentrenamiento externo. El hallazgo genero fuerte discusion tecnica por sus implicaciones en agentes autonomos y en como se entrena y actualiza la IA.",
+      "por_que_leerlo": "Es una senal temprana de hacia donde puede evolucionar la autonomia de los modelos de IA que ya usas o construyes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "modelos de lenguaje",
+        "investigacion",
+        "agentes"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://arxiv.org/abs/2611.21885"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 809,
+      "titulo": "Conectan 15 'minicerebros' de neuronas humanas en una mente colmena que supera a una IA",
+      "resumen": "La startup australiana Cortical Labs, que ya habia ensenado a un cultivo de neuronas humanas a jugar Pong, logro ahora enlazar quince de sus computadoras biologicas para que trabajen en equipo. El sistema combinado supero el desempeno de una inteligencia artificial convencional en las tareas presentadas.",
+      "por_que_leerlo": "Muestra un camino alterno a los chips de silicio para construir computacion mas eficiente, usando tejido neuronal real.",
+      "seccion": "ciencia",
+      "tags": [
+        "neurociencia",
+        "biocomputacion",
+        "inteligencia artificial",
+        "hardware"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/investigacion/alguien-ha-conectado-quince-minicerebros-neuronales-formando-mente-colmena-ha-superado-a-ia"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 810,
+      "titulo": "GOU Payments y zulu lanzan red de pagos instantáneos para empresas en Colombia",
+      "resumen": "La nueva red permite a empresas colombianas enviar transferencias inmediatas de hasta $250 millones de pesos, las 24 horas, los 7 días de la semana, con una red inicial de más de 15 bancos conectados. El servicio busca reemplazar métodos más lentos como cheques y transferencias tradicionales entre empresas.",
+      "por_que_leerlo": "Si manejas pagos entre empresas, esta red podría acelerar tus cobros y reducir fricciones operativas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "pagos instantaneos",
+        "colombia",
+        "banca empresarial"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/gou-payments-y-zulu-lanzan-red-de-pagos-instantaneos-para-empresas-en-colombia-permitira-transferencias-de-hasta-250-millones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 811,
+      "titulo": "Un sismo revela que el nucleo continental mas antiguo de Africa podria estar fracturandose",
+      "resumen": "En 2017 un terremoto de magnitud 6.5 sacudio el centro del craton del Kalahari, en Botsuana, una de las masas continentales mas antiguas del planeta con rocas de hasta 3.700 millones de anos. Los geologos creian que estos nucleos eran demasiado frios, gruesos y rigidos para fracturarse, pero la evidencia sismica sugiere que una antigua fosa tectonica fallida podria estar reactivandose.",
+      "por_que_leerlo": "Te muestra como la geologia desafia la idea de que los continentes mas antiguos son inmunes a la actividad tectonica.",
+      "seccion": "ciencia",
+      "tags": [
+        "geologia",
+        "tectonica",
+        "africa",
+        "terremotos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 812,
+      "titulo": "Un pez de agua dulce en Montana resulta tener hasta 130 anos de edad",
+      "resumen": "Mediante datacion por radiocarbono de bombas en los otolitos (piedras del oido), investigadores descubrieron que el 'blue sucker' del alto rio Missouri puede vivir hasta 130 anos, el triple de lo estimado antes (40 anos). Algunos ejemplares vivos hoy nacieron a finales del siglo XIX, antes de que Montana fuera estado.",
+      "por_que_leerlo": "Un ejemplo sorprendente de como una tecnica de datacion puede reescribir por completo lo que sabiamos sobre la longevidad de una especie.",
+      "seccion": "ciencia",
+      "tags": [
+        "biologia",
+        "longevidad",
+        "peces",
+        "datacion"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 813,
+      "titulo": "Un modelo de IA detecta estres en cultivos con muchos menos calculos, probado con hongos",
+      "resumen": "Investigadores de Penn State desarrollaron un modelo de inteligencia artificial que detecta estres en cultivos -por sequia, enfermedad o falta de nutrientes- mediante imagenes no destructivas, usando bastante menos poder de computo que los modelos actuales. El sistema fue probado primero con hongos antes de aplicarse a otros cultivos.",
+      "por_que_leerlo": "Una muestra concreta de como la IA aplicada puede reducir costos computacionales sin sacrificar precision, util para quien construye herramientas de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "agricultura",
+        "eficiencia",
+        "agrotecnologia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 814,
+      "titulo": "Fisicos proponen un experimento con relojes atomicos para probar si el tiempo fluye de formas distintas a la vez",
+      "resumen": "Un equipo de cientificos propuso un metodo para detectar relojes que experimentarian multiples flujos de tiempo simultaneos, usando relojes atomicos con sensibilidad mucho mayor a la actual. Si se confirma, el hallazgo revelaria un efecto cuantico nunca antes observado y cambiaria la comprension de la relacion entre tiempo y gravedad.",
+      "por_que_leerlo": "Una idea que podria romper una de las certezas mas basicas de la fisica: que el tiempo fluye de una sola manera.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica cuantica",
+        "tiempo",
+        "relojes atomicos",
+        "gravedad"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 815,
+      "titulo": "Fiscales acusan a hombre contratado por Rusia de espiar a firma tecnológica de Silicon Valley",
+      "resumen": "Un hombre de 25 años enfrenta cargos federales por espiar, presuntamente por encargo de Rusia, a una empresa de tecnología y defensa de Silicon Valley. Según la acusación, vigiló a empleados en una cafetería y los persiguió de forma agresiva en su auto.",
+      "por_que_leerlo": "Muestra cómo opera hoy el espionaje industrial contra empresas tecnológicas y de defensa en Estados Unidos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "espionaje",
+        "seguridad",
+        "rusia",
+        "defensa"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-19",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 816,
+      "titulo": "Un actor licencia su rostro generado por IA a una startup de 'microdramas' al estilo chino",
+      "resumen": "Un actor firmó un acuerdo para que una versión de su rostro creada con inteligencia artificial protagonice contenidos cortos producidos por una startup de 'microdramas', práctica ya popular en China. Expertos cuestionan qué pasaría con los derechos de imagen y el trabajo actoral si este modelo se extiende a Hollywood.",
+      "por_que_leerlo": "Anticipa un nuevo modelo de negocio donde la imagen humana se licencia como activo digital, algo clave para quien construye productos con IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "modelo de negocio",
+        "entretenimiento",
+        "derechos de imagen"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 817,
+      "titulo": "Centrales electricas cerradas de Europa se reconvierten en centros de datos",
+      "resumen": "La energetica alemana Uniper negocia un acuerdo, segun el Financial Times, para transformar sus antiguas centrales en desuso en infraestructura para centros de datos. Estas instalaciones ya cuentan con espacio, accesos y conexion a la red electrica, lo que reduce drasticamente los costos y tiempos de construccion frente a un datacenter desde cero.",
+      "por_que_leerlo": "Revela una tendencia de reutilizacion de activos energeticos que podria resolver el cuello de botella de energia que frena la expansion de la IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "centros de datos",
+        "energia",
+        "infraestructura",
+        "europa"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/viejas-centrales-cerradas-europa-han-encontrado-segunda-vida-centros-datos"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
+      "id": 818,
+      "titulo": "Estudio sobre coches electricos de segunda mano trae buenas noticias sobre la degradacion de baterias",
+      "resumen": "Una empresa especializada analizo como envejecen las baterias de los coches electricos tras varios anos y miles de ciclos de carga, en un intento por resolver la desconfianza del mercado de segunda mano hacia estos vehiculos. Los resultados muestran una degradacion menor a la esperada, lo que mejora las perspectivas de reventa.",
+      "por_que_leerlo": "Ofrece datos utiles para quien piensa comprar o vender un electrico usado y teme perder valor por el estado de la bateria.",
+      "seccion": "tecnologia",
+      "tags": [
+        "coches electricos",
+        "baterias",
+        "datos",
+        "movilidad"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/movilidad/empresa-queria-saber-cuanto-duran-baterias-coches-electricos-paso-nos-ha-dado-enorme-alegria"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-21 17:57",
+      "auto_generated": true
+    },
+    {
       "id": 795,
       "titulo": "CERN detecta por primera vez una desintegracion de particula extremadamente rara tras 40 anos de busqueda",
       "resumen": "Cientificos del CERN hallaron evidencia de una desintegracion de una particula beauty que ocurre solo una vez cada 10.000 millones de veces, un proceso buscado durante mas de cuatro decadas. El hallazgo podria abrir una ventana hacia particulas o fuerzas desconocidas que la fisica actual no explica.",
