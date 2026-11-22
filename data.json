@@ -221,6 +221,54 @@
   ],
   "casos": [
     {
+      "id": 3362,
+      "titulo": "Petro niega conocer a Veronica Estrada al momento de su candidatura",
+      "categoria": "mentiras",
+      "fecha": "2026-11-21",
+      "descripcion": "Gustavo Petro se desligó del caso de la congresista Veronica Estrada, señalada por titulos academicos falsos, afirmando que no la conocia cuando ella aspiraba a la Camara por las listas del Pacto Historico en Antioquia.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/petro-se-desliga-del-caso-de-la-congresista-veronica-estrada/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Veronica Estrada"
+      ],
+      "entidad": "Pacto Historico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 05:02"
+    },
+    {
+      "id": 3361,
+      "titulo": "De la Espriella exige investigar inventario de bienes entregados por jefes de las Farc",
+      "categoria": "empalme",
+      "fecha": "2026-11-21",
+      "descripcion": "El presidente Abelardo de la Espriella exigió que se investigue el inventario de los bienes entregados por los jefes de la extinta guerrilla de las Farc durante el proceso de paz, en el marco de los hallazgos de empalme sobre la gestión del gobierno saliente relacionada con el acuerdo de paz.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOLVllTFZJMVBrOEdZYlJaQnNPQ0xtM0hUUWVtVVM3aXJTWC1VRmdXMFZpMkVVUTZZYTJEdkJQWnF5MEFaRlNSZ0dURmptYWlEaF9UM2RUTGpPX002YWJfVjJ6a1lSaDUxZV9BZWUtamF0UW0tenE1RmRYRXdadTFCSTdmSS1UaTNwNFlkc2FVekVMNEV4Yl95YVZub3c1djhnRGkxZjBUVkdrWHAxQXpEQTZZcWlDQ2JiUWFZNExZeVJzSWVpZEdKT1lqeEl6UTVKSFNMVjBYdjBHTkRRZDRuRXVRYXU4MnE3a1B2ZmRDeFYtWjJ0cEhuVzFsX2lxWk5aa0UyVGRmcnRDUEVmYlRPbzJyMlJRZHRlcWxpS3plb9IBugJBVV95cUxNSVRIeURfUUtOVFVaeEZjUjk3bVNWQ25GY2FDUVN1QlZTeHI1OENkX0c4NllZRDlXSVk1SmFISHVudDU2ZFNudV83RTQ0WTVBNEM5NFdiVW03dnkxd2w4TTJNZWQyVDJSb1JfMmpoLXNOYjl6MlJkOUg4TnhhMGRrY2o5WHRiSjBDVVpfWm1GNHZlWVgzaXQtRTlPUHJGZHNKeFpEZEY3anZHRUdULUFGZl9INkk5My04NV9PYm5pQlV2cXJnY1hub2NLR3VNQ0YtaHc1SXVUWjJhLW1Pd084WmlDdjdScVQ1V1VrWmNBV05ORDdXVmVPRGM5V1NnNlBUUTQwdWdYbHR1S29LWHVNYUZTbV9McFY0azNFdFlQbDI3NXZqbUhVbTRiSE1yTXY5X0RRcXdZc3ctQQ?oc=5",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 05:02",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3360,
       "titulo": "ANI entrega 106 km de vía del proyecto Santana-Mocoa-Neiva",
       "categoria": "obras",
@@ -78379,8 +78427,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-21",
-    "total_casos": 3271,
+    "ultima_actualizacion": "2026-11-22",
+    "total_casos": 3273,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
