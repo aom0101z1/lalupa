@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-21"
+    "ultima_actualizacion": "2026-11-22"
   },
   "lecturas": [
+    {
+      "id": 819,
+      "titulo": "Thinking Machines Lab lanza Inkling 2 Mini, nueva version de su modelo de IA",
+      "resumen": "Thinking Machines Lab presento Inkling 2 Mini, una version mas compacta de su modelo de inteligencia artificial, que genero fuerte debate en la comunidad tecnica con mas de 1.390 votos y 281 comentarios en Hacker News. El lanzamiento se suma a la ola de nuevos modelos de IA que compiten por eficiencia y tamano reducido.",
+      "por_que_leerlo": "Te pone al dia sobre un nuevo modelo de IA que esta generando mucha discusion entre desarrolladores.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "modelos de lenguaje",
+        "lanzamiento",
+        "thinking machines"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 820,
+      "titulo": "Pildora oral contra el cancer de pancreas es calificada como el mayor avance en decadas",
+      "resumen": "Un nuevo farmaco oral llamado daraxonrasib fue calificado como el mayor avance en decadas contra el cancer de pancreas, uno de los tumores mas letales y con menos opciones de tratamiento disponibles. La noticia, publicada por The Guardian, generó amplia discusion en la comunidad cientifica con 681 votos y 163 comentarios en Hacker News.",
+      "por_que_leerlo": "Conoceras un avance medico real con evidencia contra uno de los canceres mas dificiles de tratar.",
+      "seccion": "ciencia",
+      "tags": [
+        "cancer",
+        "medicina",
+        "farmacologia",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 821,
+      "titulo": "Fundadoras colombianas de healthtech resuelven la crisis de pagos atrasados de las EPS",
+      "resumen": "Las EPS colombianas cerraron 2025 con obligaciones por 58 billones de pesos (unos US$16.000 millones) según la Contraloría, presionando financieramente a hospitales y clínicas. Tres fundadoras colombianas crearon startups de healthtech que dan liquidez a las instituciones prestadoras de salud sin esperar a que las EPS paguen.",
+      "por_que_leerlo": "Explica cómo emprendedoras colombianas usan tecnología financiera para resolver un problema estructural de 16.000 millones de dólares en el sistema de salud del país.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "healthtech",
+        "emprendimiento colombiano",
+        "fintech",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "Contxto",
+        "url": "https://contxto.com/es/healtech/tres-fundadoras-colombianas-de-healthtech-no-esperan-a-que-las-eps-en-crisis-les-paguen/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 822,
+      "titulo": "Eliminar el requisito de título universitario se asocia con mejores salarios para quienes no lo tienen",
+      "resumen": "Un estudio encontró que cuando las empresas quitan la exigencia de título universitario en sus vacantes, los trabajadores sin diploma que acceden a esos puestos tienden a recibir salarios más altos. La investigación analiza cómo las políticas de recursos humanos sobre credenciales académicas determinan el acceso laboral de personas con experiencia pero sin título formal.",
+      "por_que_leerlo": "Util para quien contrata o diseña procesos de seleccion y quiere ampliar su bolsa de talento sin perder calidad.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "contratacion",
+        "mercado laboral",
+        "educacion",
+        "rrhh"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-degree-requirements-linked-higher-pay.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 823,
+      "titulo": "Un software cuantico iguala por primera vez el estandar clasico en una interaccion molecular",
+      "resumen": "Investigadores lograron que un algoritmo de computacion cuantica reproduzca con la misma precision que los metodos clasicos mas avanzados el comportamiento de una interaccion molecular relevante para el descubrimiento de farmacos. El avance acerca la computacion cuantica al punto en que podria superar a las supercomputadoras clasicas en simulaciones quimicas complejas, reduciendo la necesidad de costosos ensayos de laboratorio.",
+      "por_que_leerlo": "Muestra en que punto real esta hoy la computacion cuantica aplicada a problemas utiles, mas alla de la promesa teorica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computacion cuantica",
+        "farmacos",
+        "simulacion molecular",
+        "quimica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 824,
+      "titulo": "Laser de rayos X bate record mundial con longitud de onda mas corta que la distancia entre atomos",
+      "resumen": "Investigadores de DESY y European XFEL lograron producir y transportar de forma confiable pulsos de laser de rayos X con una longitud de onda de 0,04 nanometros, equivalente a 30.000 electronvoltios de energia, superando su propio record anterior. Esto permite estudiar la materia a una escala mas fina que la distancia tipica entre atomos vecinos en los solidos.",
+      "por_que_leerlo": "Un avance tecnico concreto que amplia los limites de lo que se puede observar en ciencia de materiales a escala atomica.",
+      "seccion": "ciencia",
+      "tags": [
+        "rayos x",
+        "laser",
+        "fisica",
+        "ciencia de materiales"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-20",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 825,
+      "titulo": "Arandanos, chocolate negro y pescado azul: la evidencia sobre si protegen el cerebro es debil",
+      "resumen": "Es comun escuchar que los arandanos frenan el deterioro cognitivo, que el pescado azul mejora la concentracion o que el chocolate negro protege las neuronas, pero revisiones cientificas muestran que la evidencia detras de estas afirmaciones es mucho mas debil y contradictoria de lo que sugieren las redes sociales. Gran parte de los estudios originales tienen limitaciones metodologicas importantes.",
+      "por_que_leerlo": "Te ayuda a distinguir entre marketing nutricional y ciencia real antes de cambiar tu dieta por una promesa.",
+      "seccion": "ciencia",
+      "tags": [
+        "nutricion",
+        "neurociencia",
+        "evidencia cientifica",
+        "salud cerebral"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/medicina-y-salud/arandanos-chocolate-negro-pescado-azul-prometen-proteger-cerebro-ciencia-no-tiene-claro"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 826,
+      "titulo": "Signal restringe las capturas de pantalla ante la amenaza de vigilancia con IA",
+      "resumen": "Signal esta limitando la capacidad de los usuarios para tomar capturas de pantalla en sus apps de Android e iOS, como respuesta a lo que la empresa describe como una amenaza existencial de vigilancia impulsada por inteligencia artificial. La medida busca dificultar que agentes de IA o terceros capturen y analicen conversaciones privadas automaticamente.",
+      "por_que_leerlo": "Muestra como la IA esta cambiando las reglas de privacidad incluso en las apps de mensajeria mas seguras.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "inteligencia artificial",
+        "ciberseguridad",
+        "mensajeria"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 827,
+      "titulo": "Un astronomo propone que una sonda sovietica perdida en 1988 podria ser un misterioso asteroide",
+      "resumen": "El asteroide 1998 KY26 muestra una aceleracion anomala que antes se atribuia a un 'cometa oscuro', pero estudios recientes revelan que esta demasiado caliente para esa hipotesis. Un astronomo plantea ahora que el objeto podria ser en realidad una sonda sovietica extraviada en el espacio hace casi cuatro decadas.",
+      "por_que_leerlo": "Una pista astronomica inesperada que podria resolver un misterio espacial de la Guerra Fria.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroide",
+        "sonda espacial",
+        "astronomia",
+        "urss"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/1988-nave-sovietica-se-perdio-espacio-ahora-astronomo-cree-haberla-encontrado-misterioso-asteroide"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 828,
+      "titulo": "Escaneo sismico detecta un posible deposito de metales criticos bajo un volcan del Caribe",
+      "resumen": "Investigadores de la Universidad de Oxford analizaron terremotos para detectar, a dos kilometros bajo el volcan Soufriere Hills en Montserrat, lo que podria ser un deposito de fluidos calientes cargados de metales criticos. El hallazgo aun no se ha confirmado con perforacion directa, pero abre una via para localizar recursos minerales sin excavar primero.",
+      "por_que_leerlo": "Muestra como la sismologia puede mapear recursos minerales estrategicos antes de gastar en perforacion.",
+      "seccion": "ciencia",
+      "tags": [
+        "metales criticos",
+        "volcan",
+        "geofisica",
+        "mineria"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/materiales/reino-unido-escanea-volcan-caribe-terremotos-encuentra-sopa-metales-criticos-a-dos-kilometros-tierra"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 829,
+      "titulo": "Uruguay inaugura un nuevo servicio ferroviario de carga con inversion de Wabtec",
+      "resumen": "Uruguay puso en marcha un servicio ferroviario de carga que incorpora siete locomotoras de la estadounidense Wabtec, con el objetivo de ampliar las alternativas de transporte de mercancias y captar cargas desde Argentina, Brasil y Paraguay. El proyecto busca mejorar la conectividad logistica regional del Cono Sur.",
+      "por_que_leerlo": "Un caso concreto de inversion en infraestructura logistica que puede abrir oportunidades de negocio regional.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "logistica",
+        "uruguay",
+        "infraestructura",
+        "transporte de carga"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/se-inauguro-nuevo-servicio-ferroviario-de-carga-en-uruguay-con-millonaria-inversion-4530172"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
+    {
+      "id": 830,
+      "titulo": "El Nino podria reducir 25% la produccion de cacao de Ecuador para 2027",
+      "resumen": "Pronosticos basados en la intensidad de El Nino anticipan una caida del 25% en la produccion de cacao de Ecuador hacia 2027. Antes del fenomeno, el pais estaba en camino de desplazar a Ghana como segundo mayor productor mundial de cacao.",
+      "por_que_leerlo": "Una cifra concreta sobre como el clima puede golpear una exportacion clave y alterar mercados de materias primas en America Latina.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "cacao",
+        "ecuador",
+        "el nino",
+        "commodities"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/produccion-de-cacao-en-ecuador-podria-caer-25-en-2027-segun-intensidad-de-el-nino-4530145"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-21",
+      "added_date": "2026-11-22 02:53",
+      "auto_generated": true
+    },
     {
       "id": 807,
       "titulo": "Una teoria de 50 anos sobre la evolucion de los genes esenciales podria estar equivocada",
