@@ -221,6 +221,403 @@
   ],
   "casos": [
     {
+      "id": 3394,
+      "titulo": "Ejército destruye laboratorio de cocaína en San Cayetano, Norte de Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "El Ejército Nacional destruyó en San Cayetano, Norte de Santander, un laboratorio con capacidad para producir 800 kilos de cocaína al mes. En el lugar se hallaron 200 kilos de clorhidrato de cocaína en proceso de secado. No se reportaron capturas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruye-en-san-cayetano-norte-de-santander-un-laboratorio-de-cocaina-con-capacidad-para-producir-800-kilos-al-mes-3603175",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3393,
+      "titulo": "Peso colombiano entre las monedas más devaluadas de la semana",
+      "categoria": "economia",
+      "fecha": "2026-11-22",
+      "descripcion": "El peso colombiano registró una desvalorización frente al dólar superior al 5% en la última semana, llegando a superar los $3.500 en momentos de negociación, ubicándose entre las monedas emergentes más afectadas.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/finanzas/peso-colombiano-fue-una-de-las-monedas-mas-devaluadas-en-la-ultima-semana-506860",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Mercado cambiario / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3392,
+      "titulo": "Satena amplía conexión aérea con Medellín, Quibdó y el Pacífico",
+      "categoria": "obras",
+      "fecha": "2026-11-22",
+      "descripcion": "La aerolínea estatal Satena incorporó nuevas frecuencias que conectan a Medellín con Caucasia, El Bagre, Bahía Solano y Quibdó, fortaleciendo la conectividad aérea del Pacífico colombiano y regiones apartadas.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/regiones/medellin-quibdo-y-el-pacifico-colombiano-fortalecen-su-conexion-aerea-con-nuevas-frecuencias-de-satena-506875",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Satena / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3391,
+      "titulo": "Audios vinculan a senador Pedro Flórez con comisión millonaria por contrato de Coolechera",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-22",
+      "descripcion": "La revista CAMBIO revela audios en los que Rodolfo Bossa, familiar del senador del Pacto Historico Pedro Hernando Florez Porras, negocia con representantes de Green Summer Corporation una comision para recuperar un contrato relacionado con la operacion de Coolechera, cooperativa lechera del Caribe colombiano. Las grabaciones, obtenidas en reuniones, ponen en entredicho la actuacion del congresista.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/pedro-florez-senador-pacto-historico-audios-comision-millonaria-coolechera-NG43899325",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Pedro Hernando Florez Porras",
+        "Rodolfo Bossa"
+      ],
+      "entidad": "Congreso de la Republica / Coolechera",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17"
+    },
+    {
+      "id": 3390,
+      "titulo": "Corte Suprema admite a Enterritorio como parte perjudicada en proceso contra Armando Benedetti",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-22",
+      "descripcion": "La Corte Suprema de Justicia admitio a Enterritorio, entidad sucesora de Fonade, como parte perjudicada en el proceso judicial contra Armando Benedetti, reconociendo que pudo sufrir afectaciones por la contratacion examinada. Esto le permitira a Enterritorio intervenir como victima civil para sustentar una eventual reclamacion de perjuicios durante las etapas judiciales del caso.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/22/la-corte-suprema-admitio-a-enterritorio-como-parte-perjudicada-en-el-proceso-contra-armando-benedetti/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Armando Benedetti"
+      ],
+      "entidad": "Corte Suprema de Justicia / Enterritorio",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17"
+    },
+    {
+      "id": 3389,
+      "titulo": "Se conocen dos nombres mas de la lista de 48 mujeres de la denuncia del Dapre",
+      "categoria": "nepotismo",
+      "fecha": "2026-11-22",
+      "descripcion": "Se revelaron dos nombres adicionales de la lista de 48 mujeres mencionadas en la denuncia sobre nombramientos en el Dapre durante el gobierno Petro. Ambas fueron nombradas el mismo dia, tres dias despues de la llegada de Nhora Mondragon, la exdirectora a quien Petro le habria pedido vincular a Deicy Jimenez, alimentando las sospechas de nepotismo y contratacion a dedo en la entidad.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/se-conocen-dos-nombres-de-la-lista-de-48-mujeres-de-la-denuncia-del-dapre/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Nhora Mondragon",
+        "Deicy Jimenez",
+        "Gustavo Petro"
+      ],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17"
+    },
+    {
+      "id": 3388,
+      "titulo": "Defensoria alerta agravamiento del conflicto armado en el Catatumbo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "La Defensoria del Pueblo alerto sobre el agravamiento del conflicto en el Catatumbo, donde en diez dias se registraron al menos 17 hechos violentos con cinco muertos y 17 heridos. La entidad denuncio que el ELN y las disidencias intimidan a sus funcionarios en Tibu, en medio de la ofensiva de seguridad del Gobierno De la Espriella.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/defensoria-lanza-alerta-por-el-agravamiento-del-conflicto-en-el-catatumbo/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Defensoria del Pueblo",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3387,
+      "titulo": "Capturan a 'Cosa Mala', presunto tercer cabecilla del ELN en Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "Fue capturado alias 'Cosa Mala', senalado de ser el tercer cabecilla del ELN en Santander, presuntamente involucrado en actividades de extorsion contra el gremio de comerciantes de Concepcion y Malaga, como parte de los resultados de seguridad del Gobierno De la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/cayo-cosa-mala-presunto-tercer-cabecilla-del-eln-en-santander",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Cosa Mala"
+      ],
+      "entidad": "Policia Nacional / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3386,
+      "titulo": "Capturan en Santander a tres presuntos integrantes del ELN por quema de buses y extorsion",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "Autoridades capturaron en Santander a tres presuntos integrantes del ELN senalados de quemar buses y extorsionar en las vias de la region de Bucaramanga, en el marco de operativos de seguridad del Gobierno De la Espriella contra grupos armados.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/bucaramanga/articulo/capturan-en-santander-a-tres-presuntos-integrantes-del-eln-senalados-de-quemar-buses-y-extorsionar-en-las-vias/202632/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3385,
+      "titulo": "Fotos vinculan a entorno de Veronica Alcocer con personas senaladas de corrupcion",
+      "categoria": "conflicto-interes",
+      "fecha": "2026-11-22",
+      "descripcion": "Eva Ferrer senalo de corrupcion a Escaf, Mario Fernandez y Carolina Plata, vinculados por fotografias con un presunto 'amigo secreto' de Veronica Alcocer, esposa del expresidente Gustavo Petro, reavivando cuestionamientos sobre las relaciones de la exprimera dama con personas bajo sospecha.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/fotos-del-amigo-secreto-de-veronica-alcocer-con-escaf-mario-fernandez-y-carolina-plata-senalados-de-corrupcion-por-eva-ferrer/202627/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer",
+        "Eva Ferrer",
+        "Mario Fernandez",
+        "Carolina Plata"
+      ],
+      "entidad": "Veronica Alcocer / Denuncia periodistica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17"
+    },
+    {
+      "id": 3384,
+      "titulo": "Avanza entrega de medicamentos en plan de choque en salud del Gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-22",
+      "descripcion": "El Gobierno De la Espriella reporta avances en la entrega de medicamentos como parte del plan de choque en salud, en el marco de las medidas anunciadas para enfrentar problemas de compras públicas, recobros y UPC en el sistema de salud.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWW9GRDNxMVFoQWo3SUlucG5zUEcyZ3RiZllwM1JzRmxJWldPTElmeWxzRktnX0JVN3FaUTZXNWRsdlRZUkJJMl9aVFk4NjJJMWVEQ2hudUhxeWo4dnBxMDNvYnR6UlRLTDRxVTZtdlJrY1lyb3MyMGRDXzd4aWdmNDRtc2ZsbldQX2R3eVM2SUIxRjZKcVdxaklGOXk2dUlYVE9MVHdvN3JlbVY5anlmVDJodGNOamVhYk9hbEg2RFRSNHBiN2VpZWdHZ1lkeDBxT2J5eNIB2gFBVV95cUxQMzdkaXlMYVlpUEJUMTRoTmNIZG9kWG1nLTZkVWZQUVVtS3pKYTRzMmpHQTE1bVVuS2gxMGpIWV9MeEZqV1N2WURGcTdPdmFHOVlGS25DSUd0MjBsZl9ZVkxyNWNZQ2tzSm1hRTlwTE5FM2Ewb0xBTVFhai1aNjBkRFk4N1FYd3FyWlpCTE9UQVpIREZJUUZua0FhUWVQTUFyVVNSNDNUWnlxWnJKY2gzVlFsZ1NydEdRNVl6NDFuUk5xbk85LUwxRnZOX29teFR5aTBGUlNFN3RxQQ?oc=5",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3383,
+      "titulo": "Capturan en El Bagre a alias 11, cabecilla del Clan del Golfo señalado de secuestros y homicidios",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "La Policía Nacional capturó en El Bagre a alias 11, señalado de ordenar secuestros, extorsiones y homicidios para el 'Clan del Golfo'. El capturado sería cabecilla de zona en Puerto López y tendría diez años de trayectoria en la organización criminal.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-el-bagre-a-alias-11-senalado-de-ordenar-secuestros-extorsiones-y-homicidios-del-clan-del-golfo-3603155",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "alias 11"
+      ],
+      "entidad": "Policia Nacional / Fiscalia General de la Nacion",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3382,
+      "titulo": "Gobierno revisa ocho decretos laborales sobre tercerización, acoso y pactos colectivos",
+      "categoria": "economia",
+      "fecha": "2026-11-22",
+      "descripcion": "El Ministerio del Trabajo del Gobierno De la Espriella anunció la revisión de ocho decretos laborales, algunos con derogatorias completas y otros con modificaciones, que afectarían normas sobre tercerización laboral, acoso y pactos colectivos para las empresas en Colombia.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/empleo/gobierno-revisa-ocho-decretos-laborales-tercerizacion-acoso-y-pactos-colectivos-podrian-cambiar-para-las-empresas-506869",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio del Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3381,
+      "titulo": "De la Espriella exige resultados concretos a su gabinete en comunicación interna",
+      "categoria": "gabinete",
+      "fecha": "2026-11-21",
+      "descripcion": "El presidente Abelardo de la Espriella envió una comunicación fechada el 19 de noviembre de 2026 al ministro de Ambiente, Fabio Arjona, exigiendo a su gabinete resultados concretos y alineación con los lineamientos del 'gobierno del Tigre', advirtiendo consecuencias electorales si fallan al pueblo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/lo-que-revela-el-regano-de-de-la-espriellaa-su-gabinete-EI43875551",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Fabio Arjona"
+      ],
+      "entidad": "Presidencia de la Republica / Ministerio de Ambiente",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3380,
+      "titulo": "MinTIC abre investigaciones contra Starlink y cuatro operadores por señales ilegales en cárceles",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "El Ministerio de Tecnologías de la Información y las Comunicaciones formuló cargos contra Starlink Colombia S.A.S. y abrió actuaciones administrativas contra cuatro operadores adicionales por presunto incumplimiento de medidas para impedir comunicaciones no autorizadas desde establecimientos penitenciarios. El presidente Abelardo de la Espriella anunció la medida en redes sociales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/mintic-investigaciones-starlink-claro-movistar-tigo-senal-carceles-OG43899979",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Tecnologias de la Informacion y las Comunicaciones (MinTIC)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3379,
+      "titulo": "Risaralda proyecta 680 viviendas para damnificados del terremoto en Pereira",
+      "categoria": "avances",
+      "fecha": "2026-11-22",
+      "descripcion": "La Gobernación de Risaralda proyecta la construcción de 680 viviendas para familias damnificadas por el terremoto del 10 de agosto de 2026, como parte del plan de reconstrucción habitacional en la región de Pereira.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/risaralda-proyecta-680-viviendas-para-familias-damnificadas-por-el-terremoto/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "positivo"
+    },
+    {
+      "id": 3378,
+      "titulo": "Bombardeo número 11 del Gobierno De la Espriella deja cinco guerrilleros abatidos en Meta",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "El Ejército Nacional, en colaboración con otras fuerzas, realizó el undécimo bombardeo del Gobierno De la Espriella en el departamento del Meta, dejando al menos cinco guerrilleros abatidos. El presidente Abelardo de la Espriella anunció la operación como parte de la ofensiva militar sostenida desde agosto de 2026.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/resultados-bombardeo-numero-11-gobierno-de-la-espriella-meta-PG43891709",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ejercito Nacional / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 23:17",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3377,
       "titulo": "Deportan desde Ecuador a alias 'Alex', coordinador de 'Los Agredo'",
       "categoria": "seguridad",
@@ -78772,7 +79169,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-22",
-    "total_casos": 3288,
+    "total_casos": 3305,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
