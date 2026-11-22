@@ -221,6 +221,350 @@
   ],
   "casos": [
     {
+      "id": 3377,
+      "titulo": "Deportan desde Ecuador a alias 'Alex', coordinador de 'Los Agredo'",
+      "categoria": "seguridad",
+      "fecha": "2026-11-21",
+      "descripcion": "William Alexander Arias Agredo, alias 'Alex', senalado coordinador de la banda 'Los Agredo' vinculada a homicidios en Cali, fue detenido en Machala, Ecuador, y entregado a las autoridades colombianas en el puente internacional de Rumichaca.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/deportan-desde-ecuador-a-alias-alex-senalado-coordinador-de-los-agredo-banda-vinculada-a-homicidios-en-cali-3603004",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "William Alexander Arias Agredo (alias Alex)"
+      ],
+      "entidad": "Policia Nacional / Migracion Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3376,
+      "titulo": "Revelan red financiera de alias 'Chamorro' en el Clan del Golfo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-21",
+      "descripcion": "Investigacion revela que David Alexander Uribe Puerta, alias 'Chamorro', senalado cerebro financiero del Clan del Golfo, movia mas de 3.000 millones de pesos mensuales provenientes del narcotrafico, la mineria ilegal y la extorsion, a traves de testaferros y empresas fachada, ademas de pagos a 346 hombres de la estructura armada.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/asi-movia-mas-de-3-000-millones-mensuales-el-senalado-cerebro-financiero-del-clan-del-golfo-testaferros-empresas-fachada-y-pagos-a-346-hombres-3603018",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [
+        "David Alexander Uribe Puerta (alias Chamorro)"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3375,
+      "titulo": "Inversion de $14.677 millones en el Aeropuerto Matecana de Pereira",
+      "categoria": "obras",
+      "fecha": "2026-11-22",
+      "descripcion": "El Aeropuerto Internacional Matecana de Pereira proyecta una nueva etapa de inversiones para 2027, con un presupuesto de 14.677 millones de pesos destinado a intervenir su infraestructura, mejorar conexiones viales y modernizar servicios para pasajeros.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/aeropuerto-matecana-de-pereira-tendra-inversiones-por-14-677-millones/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Aeropuerto Matecana / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3374,
+      "titulo": "Compras publicas abren mercado a campesinos de Risaralda",
+      "categoria": "economia",
+      "fecha": "2026-11-22",
+      "descripcion": "Pequenos productores agropecuarios de Risaralda accederan a nuevas oportunidades de comercializacion a traves de programas de alimentacion financiados por el Estado, bajo el esquema de compras publicas, segun reporto la gobernacion.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/compras-publicas-buscan-abrir-mercado-a-los-campesinos-de-risaralda/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Risaralda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3373,
+      "titulo": "Entrega de indemnizaciones a victimas del conflicto en Antioquia",
+      "categoria": "economia",
+      "fecha": "2026-11-22",
+      "descripcion": "En una jornada realizada en Medellin se entregaron 1.006 cartas de indemnizacion administrativa y judicial a victimas del conflicto armado en Antioquia, por un valor superior a los 10.757 millones de pesos, en el marco de la politica de reparacion economica.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/antioquia-recibio-mas-de-10-700-millones-en-indemnizaciones-para-victimas-del-conflicto/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Unidad para las Victimas / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3372,
+      "titulo": "Ataque con explosivos a tropas en La Jagua de Ibirico, Cesar",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "Un ataque con explosivos, posiblemente mediante dron, contra tropas del Ejercito en La Jagua de Ibirico, Cesar, dejo un soldado muerto y 12 uniformados heridos. El presidente Abelardo De la Espriella rechazo el hecho y prometio una 'respuesta contundente'. El uso de drones con explosivos, antes concentrado en el suroccidente del pais, se extiende ahora al norte, segun el reporte.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/de-la-espriella-rechaza-ataque-con-explosivos-en-la-jagua-cauca/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3371,
+      "titulo": "Golpe al narcotrafico: caen dos laboratorios del ELN y 800 kilos de cocaina",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "Operativos de la Fuerza Publica destruyeron dos laboratorios de procesamiento de cocaina vinculados al ELN e incautaron 800 kilos de clorhidrato de cocaina en tres regiones del pais, en el marco de la ofensiva del gobierno De la Espriella contra el narcotrafico.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/golpe-al-narcotrafico-caen-dos-laboratorios-del-eln-y-800-kilos-de-cocaina-en-tres-regiones-del-pais/202613/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3370,
+      "titulo": "Nuevo caso de titulo falso en el Pacto Historico: Claudia Romero Nader",
+      "categoria": "mentiras",
+      "fecha": "2026-11-22",
+      "descripcion": "Tras el escandalo de Luz Veronica Estrada, se revela un nuevo caso de presunto titulo academico falso en el Pacto Historico: la congresista Claudia Romero Nader habria mentido sobre sus credenciales academicas, segun pruebas expuestas por Semana.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/nuevo-caso-de-titulo-falso-en-el-pacto-historico-congresista-claudia-romero-nader-habria-mentido-y-exponen-prueba/202641/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Claudia Romero Nader"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04"
+    },
+    {
+      "id": 3369,
+      "titulo": "Operación militar conjunta deja cinco integrantes del ELN muertos en Dagua, Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "Una operación conjunta de las Fuerzas Militares y la Policía Nacional contra una estructura del ELN dejó cinco integrantes de ese grupo muertos en la vereda La Elsa, zona rural del municipio de Dagua, Valle del Cauca.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/operacion-militar-golpea-estructura-del-eln-en-el-valle-del-cauca/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fuerzas Militares / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3368,
+      "titulo": "Documentos internos revelan que comité técnico, no el gobierno Petro, frenó compra de escudo antidrones",
+      "categoria": "contratos",
+      "fecha": "2026-11-21",
+      "descripcion": "El actual ministro de Defensa acusó a su predecesor del gobierno Petro de bloquear la adquisición de un sistema antidrones para Colombia. Sin embargo, documentos internos del Ministerio de Defensa revisados por El País muestran que fue un comité técnico de la propia Fuerza Pública el que frenó la compra, al concluir que ningún sistema ofertado cumplía con los requisitos exigidos por el propio ministerio en ese momento.",
+      "evidencia": "Reportado por EL PAÍS",
+      "fuentes": [
+        {
+          "nombre": "EL PAÍS",
+          "url": "https://elpais.com/america-colombia/2026-11-21/el-requisito-imposible-que-dejo-a-colombia-sin-escudo-antidrones.html",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04"
+    },
+    {
+      "id": 3367,
+      "titulo": "Denuncian contratos por mas de $174.000 millones en la Unidad para las Victimas",
+      "categoria": "contratos",
+      "fecha": "2026-11-22",
+      "descripcion": "El gobierno De la Espriella cuestiono la justificacion de varios contratos por mas de $174.000 millones celebrados durante la administracion Petro con una entidad que opero inicialmente como Edurret y luego como Al Desarrollo, en el marco de la Unidad para las Victimas.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/denuncian-contratos-por-mas-de-174-000-millones-en-la-unidad-para-las-victimas/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Unidad para las Victimas",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04"
+    },
+    {
+      "id": 3366,
+      "titulo": "Parque solar de $71.000 millones conecta a exministro Edwin Palma con contratistas del Pacto Historico",
+      "categoria": "contratos",
+      "fecha": "2026-11-22",
+      "descripcion": "Una investigacion de La Silla Vacia revela que el exministro del gobierno Petro, Edwin Palma, financio un proyecto de energia solar por $71.000 millones en Bahia Solano, Choco, que es manejado por un contratista relacionado con su grupo politico. El proyecto debia estar terminado y solo registra un avance del 15%.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/el-parque-solar-de-71-mil-millones-que-conecta-a-edwin-palma-con-contratistas-y-politicos-del-pacto/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Edwin Palma"
+      ],
+      "entidad": "Ministerio (exministro Petro) / Contratista vinculado al Pacto Historico",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04"
+    },
+    {
+      "id": 3365,
+      "titulo": "De la Espriella exige informes mensuales a delegados ante Camaras de Comercio",
+      "categoria": "transparencia",
+      "fecha": "2026-11-22",
+      "descripcion": "El presidente De la Espriella ordeno a sus representantes ante las Camaras de Comercio reportar mensualmente posibles irregularidades y ejercer sus funciones con transparencia y estricto cumplimiento de la ley.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/de-la-espriella-exige-informes-mensuales-a-sus-delegados-ante-las-camaras-de-comercio-4530242",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Camaras de Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3364,
+      "titulo": "Fondo Milagro anuncia cambios administrativos para reconstruccion de Pereira",
+      "categoria": "gestion-nacional",
+      "fecha": "2026-11-22",
+      "descripcion": "El Fondo Milagro anuncio cambios administrativos y nuevas medidas para la reconstruccion de Pereira, entidad que atiende a mas de 103.000 personas afectadas por el terremoto del 10 de agosto en Risaralda.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/fondo-milagro-anuncia-cambios-administrativos-y-nuevas-medidas-para-la-reconstruccion-de-pereira/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "neutro"
+    },
+    {
+      "id": 3363,
+      "titulo": "Comisiones economicas avanzan en reingenieria a ley de ajuste fiscal sin alza de IVA a canasta familiar",
+      "categoria": "economia",
+      "fecha": "2026-11-20",
+      "descripcion": "Tras el anuncio de De la Espriella de no subir el IVA a productos de la canasta familiar, las comisiones economicas conjuntas del Congreso y el Ministerio de Hacienda avanzaron en consensos sobre la ley de ajuste fiscal, aunque quedan temas de fondo por definir.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/reingenieria-ley-de-ajuste-fiscallo-que-han-propuesto-los-partidos-y-lo-que-acepto-el",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ministerio de Hacienda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-22 14:04",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3362,
       "titulo": "Petro niega conocer a Veronica Estrada al momento de su candidatura",
       "categoria": "mentiras",
@@ -78428,7 +78772,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-22",
-    "total_casos": 3273,
+    "total_casos": 3288,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
