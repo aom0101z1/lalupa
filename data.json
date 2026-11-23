@@ -221,6 +221,176 @@
   ],
   "casos": [
     {
+      "id": 3401,
+      "titulo": "Congresista Valencia niega haber recibido alertas sobre atentado contra Miguel Uribe",
+      "categoria": "mentiras",
+      "fecha": "2026-11-23",
+      "descripcion": "La congresista Valencia respondio a senalamientos sobre presuntas alertas previas al atentado contra el precandidato Miguel Uribe, afirmando que tales versiones son falsas. Aclaro que la informacion que llego a su conocimiento se referia exclusivamente a un eventual plan en su contra, no contra Uribe, en el marco de las investigaciones sobre posibles advertencias previas al magnicidio.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/valencia-habla-sobre-supuestas-alertas-sobre-atentado-contra-miguel-uribe",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Valencia",
+        "Miguel Uribe"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44"
+    },
+    {
+      "id": 3400,
+      "titulo": "Capturan en Huila a alias Canasto por cinco ataques terroristas",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "Autoridades capturaron en el departamento del Huila a alias Canasto, senalado como presunto responsable de cinco ataques terroristas ocurridos en la region, en el marco de los operativos de seguridad del gobierno De la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/capturan-en-huila-a-alias-canasto-presunto-responsable-de-cinco-ataques-terroristas-en-el-departamento/202602/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Canasto"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3399,
+      "titulo": "Gobierno y pueblos indigenas acuerdan inversion para Plan Nacional de Desarrollo 2026-2030",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "El Gobierno Nacional y representantes de pueblos indigenas llegaron a un acuerdo sobre el Plan Nacional de Desarrollo 2026-2030, que contempla una millonaria inversion destinada a estas comunidades como parte de la agenda de gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/gobierno-y-pueblos-indigenas-llegan-a-un-acuerdo-para-el-plan-nacional-de-desarrollo-2026-2030-esta-seria-la-millonaria-inversion/202616/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3398,
+      "titulo": "Juez ordena a fundacion de la primera dama detallar uso de donaciones privadas del terremoto",
+      "categoria": "control",
+      "fecha": "2026-11-09",
+      "descripcion": "Tres meses despues del terremoto del 10 de agosto de 2026 que dejo al menos 300 muertos, un juez ordeno a la fundacion de Ana Lucia Pineda, esposa del presidente Abelardo de la Espriella, detallar el uso de los aportes privados recibidos para las victimas de la tragedia, en medio de cuestionamientos sobre la transparencia en el manejo de donaciones.",
+      "evidencia": "Reportado por Latercera.com",
+      "fuentes": [
+        {
+          "nombre": "Latercera.com",
+          "url": "https://www.latercera.com/mundo/noticia/que-paso-con-las-donaciones-del-terremoto-en-colombia-la-fundacion-de-la-primera-dama-bajo-la-lupa/",
+          "fecha": "2026-11-09"
+        }
+      ],
+      "personas_involucradas": [
+        "Ana Lucia Pineda",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fundacion de la Primera Dama",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3397,
+      "titulo": "Gobierno destina $1,66 billones a subsidios de arriendo y vivienda para damnificados",
+      "categoria": "dineros",
+      "fecha": "2026-11-21",
+      "descripcion": "El Gobierno Nacional anuncio la destinacion de $1,66 billones de pesos para subsidios de arriendo y vivienda dirigidos a la poblacion damnificada por el terremoto del 10 de agosto de 2026 en los departamentos afectados.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDFyZUxEWFRzaEFkUlhLZlVlYU84cDNxbldUbXJTQjh5M05EOVR3X19rbmFZODRhOEdmVTc3S05jWU1fcnFNLW0tM2VNeVJGcmE1UUNUQUpzMHFYNnJKWFUtN0VJUFR2RXFvTDhrbThBaXdPdG5ZeFU1QWxuS2FDUkxid3hsLTcyZUJGNTYtQ21RN2x3QmVjM01HT2l3T2xRVmxVeTRiQjc2c2Zld0NsNFZUZmo5OVUycmtzUFo2dktyUjZ3ZXFiWnpIVdIB3wFBVV95cUxQSExzMy1NMVZZbEJLWm5UQ2xpcWt3Vkk5U3p1RlBBZENWQThfcjliSnFuTVVNWGtObWdzcXBpTjZHbDQ3Qk5ZYzRLbG5ya2tLVWhmSHBEMnRaamJjOGZHXzN4Nmljc1poa3NRTDFJRGI0UUd3MjI5eXdtN1lQWDZya1B6WWp2Zm1jT0FOTWE3NFE2dVczb1pvQzlxZTRRVzlhOEkyVFpJd2xoN3AxTUZWbEdiUXJxS0dsdFg1SWN5NDVlUmhZZ2NtQU5wMHdxVVRuc0VHSENtUE12RFMyTGIw?oc=5",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3396,
+      "titulo": "De la Espriella entrega balance de capturas y bajas contra el ELN en Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "El presidente Abelardo de la Espriella presento cifras consolidadas de capturas, muertes en operaciones militares y sometimientos de grupos armados ocurridas entre agosto y noviembre de 2026, incluyendo el balance del operativo en Valle del Cauca que dejo cinco integrantes del ELN dados de baja.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-operativo-contra-el-eln-en-valle-del-cauca-cinco-integrantes-fueron-dados-de-baja-3603130",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3395,
+      "titulo": "Chats de Eva Ferrer revelan presunto transporte de cocaina y privilegios de Veronica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-23",
+      "descripcion": "Una investigacion de Noticias RCN basada en mas de 40 gigas de informacion recuperada del celular de la exasesora presidencial Eva Ferrer revela chats donde esta senala a la exprimera dama Veronica Alcocer de presuntamente transportar cocaina hacia Venezuela. Los mensajes tambien muestran que la cercania entre ambas era tal que Alcocer disponia de escoltas y Casa Militar del Estado a su servicio durante el gobierno de Gustavo Petro (2022-2026).",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/chats-veronica-alcocer-eva-ferrer-muestra-cercania-tanta-ponia-escoltas-FO43907442",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer",
+        "Eva Ferrer",
+        "Gustavo Petro"
+      ],
+      "entidad": "Noticias RCN / Presidencia de la Republica (gobierno Petro)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 05:44"
+    },
+    {
       "id": 3394,
       "titulo": "Ejército destruye laboratorio de cocaína en San Cayetano, Norte de Santander",
       "categoria": "seguridad",
@@ -79168,8 +79338,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-22",
-    "total_casos": 3305,
+    "ultima_actualizacion": "2026-11-23",
+    "total_casos": 3312,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
