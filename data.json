@@ -221,6 +221,425 @@
   ],
   "casos": [
     {
+      "id": 3419,
+      "titulo": "Supersalud gestiona 44.000 reclamos atrasados de la administracion Petro",
+      "categoria": "empalme",
+      "fecha": "2026-11-23",
+      "descripcion": "La Superintendencia Nacional de Salud informo que gestiono 44.000 reclamos ciudadanos que quedaron atrasados de la anterior administracion, logrando reducir significativamente los tiempos de espera para el tramite de las solicitudes de los usuarios del sistema de salud.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/supersalud-gestiona-44000-reclamos-atrasados-de-la-anterior-administracion",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia Nacional de Salud (Supersalud)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3418,
+      "titulo": "Caen 22 integrantes de red narcotraficante en La Guajira",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "Un operativo de las autoridades permitio la captura de 22 integrantes de una red narcotraficante que delinquia desde La Guajira, con la incautacion de 105.002 dolares estadounidenses y 2.327.000 pesos dominicanos en efectivo, recursos relacionados con las actividades ilicitas de la organizacion.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/caen-22-integrantes-de-red-narcotraficante-que-delinquia-desde-la-guajira",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fiscalia General de la Nacion / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3417,
+      "titulo": "Centro Democratico presenta contrapropuesta a Ley de Rescate Fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "El Centro Democratico, con una propuesta atribuida al expresidente Alvaro Uribe, presento una contrapropuesta a la Ley de Rescate Fiscal del Gobierno, planteando reducir impuestos como el de patrimonio, el de timbre y el de dividendos, ademas de hacer descontables el 4x1000 y el ICA.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/centro-democratico-presenta-contrapropuesta-ley-de-rescate-fiscal",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Alvaro Uribe"
+      ],
+      "entidad": "Congreso de la Republica / Centro Democratico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3416,
+      "titulo": "Solo AtlasIntel publica cifra de aprobacion de De la Espriella en medio de encuestas sin sustento",
+      "categoria": "opinion-publica",
+      "fecha": "2026-11-23",
+      "descripcion": "Segun la Ley de Encuestas, unicamente la firma AtlasIntel ha publicado una medicion formal de la aprobacion del presidente Abelardo de la Espriella, mientras en redes sociales circulan cifras de aprobacion sin respaldo metodologico ni fuente verificable.",
+      "evidencia": "Reportado por CAMBIO Colombia",
+      "fuentes": [
+        {
+          "nombre": "CAMBIO Colombia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWExdVJDZU9mOE1Nc2N6Rl85cnpKYTd2S0NJZVR4dEtOamNpbkVMazBwXzlMeWdhS3lvdWFSSkVrT1JTNE5zeUZDM1lOTHZxLTBBa0YzV25SdEZGWnlsY0lfTnFMNnNZMlNtSVdLejNyOVhNLXdhYWhPbjhYR3lHcE83ck5PdzFIUjRHRjFwNDl2TVRHTjIwYmxTcDdULUZzeHA2YlpMc1AtWWc?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "AtlasIntel",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3415,
+      "titulo": "Veronica Alcocer dice estar 'tranquila' y minimiza evidencia a 'encuentros intimos'",
+      "categoria": "mentiras",
+      "fecha": "2026-11-23",
+      "descripcion": "Veronica Alcocer respondio a las revelaciones de chats y fotografias que la vinculan con transporte de cocaina y personas senaladas de corrupcion, afirmando estar 'tranquila' porque, segun ella, los elementos presentados se reducen a 'encuentros intimos'. La declaracion busca minimizar el alcance de las pruebas divulgadas sobre su entorno.",
+      "evidencia": "Reportado por Zona Cero",
+      "fuentes": [
+        {
+          "nombre": "Zona Cero",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlJiUTlaRnNzTC05Y1VxTkQxdmhpUVhhTERWR0Z2Z3c5cU56U3lQVkpMaFEzWU5pbWVyM0xibDNrdDZoM2tzMU8teHhaNlk5OWFxTmtkc1BudEFVRlV6a3Rua19JSU9wd1QwVFZCRHJXX25BR084SWR0SE85Smc4ZVpXcDlyS2hxanFDTmFSS2N0cXV1cDNKay1uUGVyWlo5Q0ljdU91amc1bnJJbUhhUUdaaGpCS1k?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer"
+      ],
+      "entidad": "Presidencia de la Republica (gobierno Petro)",
+      "estado": "Desmentido",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26"
+    },
+    {
+      "id": 3414,
+      "titulo": "Reduccion de hurtos y capturas reportadas por la Policia en Pasto",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "La Policia Metropolitana de Pasto reporto reducciones de hasta el 26% en hurtos, junto con un balance de 3.580 capturas, 247 motocicletas y 91 vehiculos recuperados y 105 armas de fuego incautadas en lo corrido de la gestion.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hurtos-en-pasto-registran-reducciones-de-hasta-el-26-policia-reporta-3-580-capturas-3603375",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Metropolitana de Pasto",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3413,
+      "titulo": "Disputa contractual de pasaportes con Thomas Greg & Sons podria afectar defensa del pais",
+      "categoria": "contratos",
+      "fecha": "2026-11-23",
+      "descripcion": "El contrato de pasaportes con la firma Thomas Greg & Sons quedo en medio de una disputa contractual que podria escalar a instancias internacionales, lo que complicaria la defensa juridica de Colombia frente a reclamaciones derivadas de irregularidades en la adjudicacion y ejecucion del contrato.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/pasaportes-en-colombia-contrato-con-thomas-greg-sons-podria-complicar-la-defensa-del-pais/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria / Thomas Greg & Sons",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26"
+    },
+    {
+      "id": 3412,
+      "titulo": "Gobierno entrega filtros de agua a comunidades Wayuu en La Guajira",
+      "categoria": "obras",
+      "fecha": "2026-11-23",
+      "descripcion": "El Ministerio de Vivienda entrego 28 sistemas portatiles de purificacion de agua a comunidades Wayuu en Uribia y Riohacha, beneficiando a cerca de 1.400 habitantes, como medida de choque mientras avanza la construccion de redes de acueducto en La Guajira.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-entrega-28-filtros-de-agua-comunidades-wayuu-en-la-guajira",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3411,
+      "titulo": "OIM revela cifras de familias desplazadas a 100 dias del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-23",
+      "descripcion": "Un analisis de la OIM divulgado el 23 de noviembre en Bogota muestra que, a 100 dias del terremoto de magnitud 7,4 del 10 de agosto de 2026, el 36% de los hogares afectados se desplazo dentro del mismo municipio y el 51% planea regresar a su lugar de residencia habitual, con base en la caracterizacion de 160 hogares y 550 personas movilizadas por el sismo.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/terremoto-colombia-oim-revela-familias-casa-encuestas-BM43921451",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Organizacion Internacional para las Migraciones (OIM)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3410,
+      "titulo": "Observatorio Fiscal advierte falta de datos sobre destino de recursos del Fondo Milagro",
+      "categoria": "control",
+      "fecha": "2026-11-22",
+      "descripcion": "El Observatorio Fiscal denuncia que no existen datos claros sobre cuanto de los recursos del Fondo Milagro ha llegado efectivamente a los territorios afectados por el terremoto, senalando falta de transparencia en la ejecucion de los dineros destinados a la reconstruccion.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOX3F0a2lnU29RNTlRRlZubEZyRkM2d2x2b19IMTVOLUtJQ3QyNEpUbkpvU3gtME9vU2x1RjI4U2NKQkZ1V3JDUU1Ya1drY25fbFRqZTJDSHRNR0JGNWg1OXZVVk5VbFpNaEQxT0hCVlVXVXZLSmNDdnNfemxob2ZzTEVldHZoOWJFVXZyVDBPN1dGN1Nra1NrSTNfaWJOYXp1enFtNDZOV2VvNTQ5R3p0T3RYU21KOUpTODJPRDg2NmJ6cC1Wb0k0cUtIZHBxLVZiVVl4VC04aUtmUnd1bnVFTjdLVWIyUWhwOVZ0S1FIU3FUSHBxTXVna3FQU2Y3LWxTSEpobkN0TnhjVHFTYXdUUXZhSjN6RE15ZUwwYTc3Vk12M01tNVNV0gHCAkFVX3lxTFA5dlhIMnhBY1FFYWw5dTJVWjNJQTJCSjh2TTIzMU1pSS1tNzVkRXFFamNCWFZ0bWV6dVpnY0V1Um1OWkxkOVhQY2JjczNqcmtyN0tDVnBCdTVmU3RxYzZzc3oyOFg2R19Ja1J3QUlUcUxUbGpWNGdkUmE5YnlGWXhENTZNVzZ5X21CUlJTVC1UZl9CMkxrZTR3YUJaR0NDMjFPaGk5d2lYcWpscEp0X2dvV0pCWDl6S0xmbW1hc3k2b0RaVFFocWJGdVV3Sld6UEduU3h5YVpadjlqWTVKMHpkOVdPOEtRMW5zd1dTNlRETTV6dmFlNUYtQWp2bDRSRXY3Ty12TTNYRHBQNS1ZVU5pMVVGN1N1M3VSNjQxc1dyZ0hGX3AweGZuSnJyRlFGcXhYU0tVN2FmSkthTS15VjNzbmc?oc=5",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Observatorio Fiscal",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3409,
+      "titulo": "Tribunal mantiene como prueba la entrevista de Nicolás Petro a Semana",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-23",
+      "descripcion": "Un tribunal decidió mantener como prueba dentro del proceso judicial contra Nicolás Petro la entrevista que este concedió a la Revista Semana, en el marco del caso por presunta financiación irregular de la campaña presidencial de Gustavo Petro.",
+      "evidencia": "Reportado por Zona Cero",
+      "fuentes": [
+        {
+          "nombre": "Zona Cero",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWt2YndBdE9ja1ZJVnlKT3hwLW1KWjhGckZsNnN5YlZfUjlqMXJUeVktbnFsUjBrX0ZzcDlMYktLUXhoQlVNaDROU3Fxbk5Lckh6elQ2T3JrbXRCeWVGbXVDNWNBMnV5RFdwUDIwZVZ0blFnUVIxVXhVQlNJOVdkaDh3YjdSYlBGQkt2VW5rUDBtNkpZbXVPemtIUUVPYVZxTlBkM28xU0N3UEIzN3hr?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolas Petro"
+      ],
+      "entidad": "Rama Judicial / Fiscalia General de la Nacion",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26"
+    },
+    {
+      "id": 3408,
+      "titulo": "Capturan a dos cabecillas de disidencias de las Farc y el ELN por reclutamiento de menores y extorsión",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "Autoridades capturaron a dos presuntos cabecillas de disidencias de las Farc y del ELN señalados de reclutamiento de menores, secuestros y extorsiones. Uno estaría vinculado al atentado contra el Batallón Pichincha y el otro sería el encargado de cobrar extorsiones a comerciantes.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-presuntos-cabecillas-de-las-disidencias-de-las-farc-y-el-eln-los-senalan-de-reclutamiento-de-menores-secuestros-y-extorsiones-3603284",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Ejercito Nacional",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3407,
+      "titulo": "Fondo Milagro se compromete a eliminar campamentos de damnificados antes del 31 de diciembre",
+      "categoria": "avances",
+      "fecha": "2026-11-23",
+      "descripcion": "El gerente del Fondo Milagro, Luis Felipe Henao, anunció el compromiso de que al 31 de diciembre no exista ninguna persona viviendo en campamentos de damnificados por el terremoto. Anunció ferias de vivienda en varias regiones afectadas y confirmó que todas las contrataciones públicas relacionadas con la reconstrucción se publicarán en el SECOP II para garantizar transparencia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/el-compromiso-es-que-al-31-de-diciembre-no-exista-ninguna-persona-en-los-campamentos-gerente-del-fondo-milagro-sobre-damnificados-por-el-terremoto-3603296",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3406,
+      "titulo": "Procuraduría abre investigación a Coosalud EPS por irregularidades financieras",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-23",
+      "descripcion": "La Procuraduría analiza 16 hallazgos disciplinarios contra Coosalud EPS relacionados con contratación, anticipos, cuentas médicas y entrega de medicamentos, en medio de la crisis del sistema de salud heredada del gobierno Petro.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/procuraduria-pone-la-lupa-sobre-coosalud-eps-por-irregularidades-financieras",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Coosalud EPS / Procuraduria General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26"
+    },
+    {
+      "id": 3405,
+      "titulo": "Gasto de la UNP creció 137% durante el gobierno Petro mientras protección a beneficiarios solo aumentó 28%",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-23",
+      "descripcion": "Un balance revela que el gasto de la Unidad Nacional de Protección (UNP) aumentó 137% durante el gobierno Petro, mientras el número de personas efectivamente protegidas creció solo 28%, evidenciando posibles sobrecostos. El entonces director Augusto Rodríguez había advertido en el Senado en noviembre de 2022 sobre contratos de tercerización y corrupción heredada, 920 días antes del atentado contra Miguel Uribe Turbay.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/unp-gasto-esquemas-proteccion-congresistas-lideres-sociales-austeridad-AO43907337",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Augusto Rodriguez"
+      ],
+      "entidad": "Unidad Nacional de Proteccion (UNP)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26"
+    },
+    {
+      "id": 3404,
+      "titulo": "Fondo Milagro responde a denuncias de damnificados en Pereira por presión para vender predios",
+      "categoria": "damnificados",
+      "fecha": "2026-11-23",
+      "descripcion": "Damnificados del terremoto en Pereira denunciaron haber recibido presiones para vender sus predios y afirmaron no contar con recursos para asumir los costos de demolición. El gerente del Fondo Milagro, Luis Felipe Henao, respondió que las decisiones deberán respetar la voluntad de los propietarios y anunció ferias de vivienda con diferentes alternativas para los afectados.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/fondo-milagro-que-pasara-con-las-reconstrucciones-y-demoliciones-tras-terremoto-DM43920399",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 3403,
+      "titulo": "Identifican a alias Bertha, cabecilla del ELN que sobrevivió a bombardeo en Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "Las autoridades identificaron a Soraya Canga, alias Bertha, como dirigente del frente Luis Carlos Cárdenas Arbeláez del ELN desde 2024, quien sobrevivió a un bombardeo ordenado por el gobierno De la Espriella en el Valle del Cauca. Tiene orden de captura por rebelión dentro de un proceso de la Fiscalía de Popayán y una recompensa de más de $700 millones por información que conduzca a su captura.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/23/quien-es-alias-bertha-la-cabecilla-del-eln-que-sobrevivio-a-bombardeo-ordenado-por-abelardo-de-la-espriella-en-el-valle-del-cauca-mas-de-700-millones-de-recompensa/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Soraya Canga"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Fuerzas Militares",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3402,
+      "titulo": "Denuncian ante Fiscalía, Procuraduría y Contraloría un carrusel de contratación en el Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-23",
+      "descripcion": "El vicepresidente del Senado presentó denuncias formales ante la Fiscalía, la Procuraduría y la Contraloría contra directivos del Fondo Milagro, entidad encargada de administrar los recursos de la reconstrucción tras el terremoto, por presunta corrupción y un presunto carrusel de contratación.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQThXeHlUSzFFWHM0cHlCV1N0WEdja2tMUnI0V2Jzejh0ZVNmVWZzTG1adnFmNy1yTm5BMjdUNnVnLVAtbnZ0NjJpeTVfQXV0TlVwVmdQOVJPUUItSGxBSEtIQVJCNU8wYkRNN1lsdkpWazNOY1VvdDIxQmNRcWdocmU2a1R3cEgySFgzWFFTdnpYMUh4dTN5Uk90MG5nQ0k5cGpRTTYtSDJpY2ZDUEFNb3dPOVF5MkhFbUdPb2ctMjRKSll1Mm1BLTdSZVFoVldxLV84OVdDYjJuLUduX25EWTZzYTh4RTZ3bDVYRmY1SWw4eC1kTTZ6akpmZnpka1cta1luX0xXR0VFTF9kRm9oZUhyUGc5Q01nM3Q5NFVCeTdTSXo2Z2FycGg4cm5tdXM0RUp4WlFmTFNCb2o4T3ZNNm4tUXFScnQzdW1vVWJnanl1SXRkVnfSAfACQVVfeXFMUDN4NWRJWm1CMWx6cWRDamlZR0UwWjZUYklVaGF4bWdvbHJ2V2hGaU0zYWZkbUlLU09ELVdRemtpV2xOVUlsZXVnTHlaTUJiUzBnU0Zlb05DNTFHTEVCbE9EMEpJRWYybkg1azAtVmhLTnpBRkRpdmVhbDFiN1ViaGNPZGg5Q1BtcWpEVE5xdUcya3cxTVd1UkVBYVBVd21NbkZNaTBMX0hrOTlZNGNXRHdrUEFhcUhCZkRodUlDVVJLTm9HVHJocGVXbTIzdExUeGNxVEVzMFVaVlJoek1XZF83QUFKeUZhZDhRempybnJ5YnNmV0h4cllfR3lMRnY1V3hiNF9YZ2ZDWVBQbnZZdDd3bndpc0M5U3d4X2NlSWdoSDNKVHNnaFZSYjI1ekJvc3Nvb01XOGZZYVA1ZGh3LVZOSm9WZTRhNi1aV1FINld5UTZPRW14Y2pHR3puUm15dDlWVndGVy05Xzd4djlKVlM?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Vicepresidente del Senado"
+      ],
+      "entidad": "Fondo Milagro / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-23 17:26",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
       "id": 3401,
       "titulo": "Congresista Valencia niega haber recibido alertas sobre atentado contra Miguel Uribe",
       "categoria": "mentiras",
@@ -79339,7 +79758,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-23",
-    "total_casos": 3312,
+    "total_casos": 3330,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
