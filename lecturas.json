@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-22"
+    "ultima_actualizacion": "2026-11-23"
   },
   "lecturas": [
+    {
+      "id": 843,
+      "titulo": "Un vacío en datos de fusiones sugiere agujeros negros nacidos sin explosión de supernova",
+      "resumen": "Analizando 257 fusiones de agujeros negros detectadas por ondas gravitacionales, un equipo encontró un patrón inesperado en sus masas que coincide con lo que predicen los modelos de colapso directo de estrellas masivas, sin la explosión visible de una supernova. El hallazgo sugiere que muchas estrellas gigantes podrían 'apagarse' silenciosamente en lugar de estallar, explicando el origen de buena parte de los agujeros negros del universo.",
+      "por_que_leerlo": "Explica con datos de decenas de fusiones un misterio sobre cómo nacen muchos agujeros negros sin una supernova visible.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "supernovas",
+        "ondas gravitacionales",
+        "astrofisica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 844,
+      "titulo": "Medicamentos comunes dejan huellas duraderas en la microbiota intestinal, según estudio con 2.500 personas",
+      "resumen": "Un estudio con más de 2.500 personas encontró que fármacos como antidepresivos, antihipertensivos y ansiolíticos dejan cambios medibles en las bacterias del intestino que persisten años después de dejar de tomarlos. Sorprendentemente, algunos medicamentos para la ansiedad tuvieron un efecto sobre la microbiota comparable al de los antibióticos.",
+      "por_que_leerlo": "Revela que decisiones médicas tomadas hace años pueden seguir afectando hoy la salud digestiva, algo relevante para pacientes y médicos.",
+      "seccion": "ciencia",
+      "tags": [
+        "microbiota",
+        "medicamentos",
+        "salud intestinal",
+        "estudio clinico"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 845,
+      "titulo": "La nueva guerra fría entre EE.UU. y China no es por los chips: es por los monos de laboratorio",
+      "resumen": "China fue durante años el mayor exportador de macacos cangrejeros a Estados Unidos, esenciales para probar medicamentos antes de los ensayos en humanos, pero la pandemia de COVID-19 rompió ese equilibrio y restringió el suministro. Esto ha generado una nueva disputa estratégica por el acceso a estos primates, clave para la investigación biomédica global.",
+      "por_que_leerlo": "Revela una dependencia poco conocida de la industria farmacéutica estadounidense frente a China, con implicaciones directas para el desarrollo de nuevos medicamentos.",
+      "seccion": "ciencia",
+      "tags": [
+        "biomedicina",
+        "china",
+        "estados unidos",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/investigacion/nueva-guerra-fria-estados-unidos-china-no-chips-monos-laboratorio"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 846,
+      "titulo": "Los cinturones de Van Allen de la Tierra se duplicaron temporalmente y nadie sabe por qué",
+      "resumen": "Los dos cinturones de radiación que normalmente protegen a la Tierra de partículas solares y cósmicas se convirtieron temporalmente en cuatro, un fenómeno inesperado que los científicos aún no logran explicar. El hallazgo cuestiona lo que se creía entender sobre la dinámica del campo magnético terrestre.",
+      "por_que_leerlo": "Un misterio espacial reciente y sin explicación que desafía el conocimiento establecido sobre el escudo magnético de la Tierra.",
+      "seccion": "ciencia",
+      "tags": [
+        "cinturones de van allen",
+        "campo magnetico",
+        "espacio",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/algo-raro-esta-pasando-alrededor-tierra-temporalmente-nuestros-dos-cinturones-radiacion-se-hicieron-cuatro-nadie-sabe-que"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 847,
+      "titulo": "El ADN de una tortuga de 194 años revela 287 variantes genéticas ligadas a su longevidad",
+      "resumen": "Jonathan, la tortuga gigante viva más longeva del mundo con 194 años, fue sometida a un análisis genético que identificó 287 variantes únicas asociadas a reparación de ADN, control de inflamación, regulación de insulina y supresión de tumores. Los científicos creen que estos genes podrían explicar por qué algunas especies envejecen mucho más lento que otras.",
+      "por_que_leerlo": "Ofrece pistas genéticas concretas sobre el envejecimiento que podrían inspirar investigación aplicada a la longevidad humana.",
+      "seccion": "ciencia",
+      "tags": [
+        "longevidad",
+        "genetica",
+        "envejecimiento",
+        "adn"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 848,
+      "titulo": "Guía para principiantes sobre IA local con Inkling, Qwen y Unsloth",
+      "resumen": "El artículo explica paso a paso cómo instalar y ejecutar modelos de lenguaje de forma local usando las herramientas Inkling, Qwen y Unsloth, pensado para quienes recién empiezan a trabajar con IA en su propio hardware. La guía detalla el proceso de configuración sin depender de servicios en la nube, lo que permite mayor control y menor costo operativo.",
+      "por_que_leerlo": "Si construyes productos con IA, esta guía te muestra cómo correr modelos localmente sin pagar por APIs externas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ia local",
+        "modelos de lenguaje",
+        "unsloth",
+        "herramientas"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 849,
+      "titulo": "Opel y Leapmotor cierran acuerdo: el próximo eléctrico alemán se fabricará en Zaragoza con tecnología china",
+      "resumen": "Opel y la china Leapmotor sellaron un acuerdo por el que la firma asiática aportará ingeniería y desarrollo para el próximo SUV eléctrico de la marca alemana, con una inversión de 100 millones de euros y producción en Zaragoza, España. El pacto refleja cómo los fabricantes europeos recurren a socios chinos para acelerar su transición eléctrica.",
+      "por_que_leerlo": "Ilustra cómo la industria automotriz europea depende cada vez más de tecnología china para competir en el mercado eléctrico.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "industria automotriz",
+        "vehiculos electricos",
+        "china",
+        "espana"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/movilidad/proximo-opel-electrico-se-fabricara-zaragoza-capo-habra-tecnologia-china"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 850,
+      "titulo": "España regula los centros de datos y la patronal denuncia una 'prohibición de facto'",
+      "resumen": "El Gobierno español aprobó por la vía urgente el Real Decreto 1032/2026, que regula la sostenibilidad y soberanía digital de los centros de datos, pese a más de 600 alegaciones presentadas. La patronal Spain DC, liderada por Begoña Villacís, anunció que recurrirá la norma y pedirá medidas cautelares por considerarla una restricción encubierta a la inversión en el sector.",
+      "por_que_leerlo": "Muestra cómo la regulación estatal puede frenar la inversión en infraestructura de IA justo cuando la demanda de cómputo crece más rápido que la oferta.",
+      "seccion": "tecnologia",
+      "tags": [
+        "centros de datos",
+        "regulacion",
+        "espana",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/begona-villacis-prohibicion-facto-patronal-centros-datos-pie-guerra-gobierno"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 851,
+      "titulo": "La quiebra de Ueno Bank en Perú le costaría al fisco más de US$1.300 millones",
+      "resumen": "Tras la quiebra de la entidad financiera peruana, el Fondo de Garantía de Depósitos del BCP tuvo que activarse para cubrir a los depositantes afectados. Las estimaciones indican que el golpe fiscal total superará los US$1.300 millones.",
+      "por_que_leerlo": "Un caso concreto para entender cuánto le cuesta al Estado rescatar a los ahorradores cuando quiebra un banco.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "banca",
+        "quiebra",
+        "peru",
+        "fondo de garantia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/el-golpe-fiscal-tras-la-quiebra-de-ueno-bank-seria-de-mas-de-us-1-300-millones-4530390"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 852,
+      "titulo": "Colombia queda penúltima en el índice de competitividad tributaria de la OCDE",
+      "resumen": "Colombia se ubica como el segundo país menos competitivo y neutral en materia tributaria entre los miembros de la OCDE, según el índice más reciente de la organización. Francia ocupa el último lugar del ranking, con una tasa impositiva máxima de 36,1%.",
+      "por_que_leerlo": "Un dato clave para entender qué tan atractivo es el sistema tributario colombiano frente a sus pares y qué implica para invertir o emprender.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "impuestos",
+        "ocde",
+        "colombia",
+        "competitividad"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-es-el-segundo-pais-menos-competitivo-y-neutral-en-materia-tributaria-de-la-ocde-4529870"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 853,
+      "titulo": "Inaam, marca colombiana de bebidas botánicas, busca US$8 millones para entrar a EE.UU. y México",
+      "resumen": "La startup colombiana prepara nuevos lanzamientos de producto y busca levantar US$8 millones para expandirse a Estados Unidos y México, mientras proyecta crecimiento en sus ventas locales.",
+      "por_que_leerlo": "Un ejemplo real de cómo una marca de consumo colombiana estructura su ronda de capital para salir al mercado internacional.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startup",
+        "expansion",
+        "colombia",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/inaam-busca-expandirse-a-ee-uu-y-mexico-mientras-proyecta-ventas-en-colombia/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
+    {
+      "id": 854,
+      "titulo": "Interaseo construye un proyecto de generación de energía en Cali y proyecta $1,5 billones en ingresos para 2027",
+      "resumen": "El gerente general de Interaseo detalló los avances de un nuevo proyecto de generación de energía en Cali y las proyecciones financieras de la compañía, que espera facturar $1,5 billones en 2027.",
+      "por_que_leerlo": "Muestra cómo una empresa de servicios públicos colombiana diversifica su negocio hacia la generación de energía para escalar ingresos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "colombia",
+        "negocios",
+        "cali"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/interaseo-avanza-con-nuevo-proyecto-de-generacion-de-energia-en-cali-y-espera-facturar-15-billones-en-2027/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 03:33",
+      "auto_generated": true
+    },
     {
       "id": 831,
       "titulo": "Simulan la Vía Láctea estrella por estrella usando IA y tres supercomputadoras",
