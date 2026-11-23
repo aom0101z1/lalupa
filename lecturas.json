@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 855,
+      "titulo": "Amazon compra la tecnología de optimización de IA de Decart por US$7.500 millones",
+      "resumen": "Amazon adquirió la tecnología de optimización de inteligencia artificial de Decart junto con su equipo de investigación, en un acuerdo valorado en 7.500 millones de dólares, mientras prepara el lanzamiento comercial de sus propios chips Trainium para competir con Nvidia.",
+      "por_que_leerlo": "Muestra hacia dónde se mueve el dinero de las grandes tecnológicas para reducir su dependencia de Nvidia en infraestructura de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inteligencia artificial",
+        "adquisiciones",
+        "chips",
+        "amazon"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 856,
+      "titulo": "CrowdStrike comprará Zscaler por US$44.000 millones para reforzar la seguridad de agentes de IA",
+      "resumen": "La firma de ciberseguridad CrowdStrike anunció la adquisición de Zscaler, proveedor de productos de seguridad de confianza cero para grandes empresas, en un acuerdo de 44.000 millones de dólares orientado a preparar a sus clientes para el uso masivo de agentes de inteligencia artificial.",
+      "por_que_leerlo": "Revela una de las mayores fusiones del año en ciberseguridad y hacia dónde apunta la inversión corporativa frente al auge de los agentes de IA.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "ciberseguridad",
+        "fusiones y adquisiciones",
+        "ia",
+        "empresas"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 857,
+      "titulo": "Lean, el lenguaje que permite verificar matemáticas sin necesidad de entenderlas del todo",
+      "resumen": "La conjetura de Kepler sobre el apilamiento más compacto de esferas fue 'demostrada' en 1998, pero generó tanta controversia que un panel de doce árbitros de Annals of Mathematics tardó cuatro años en revisarla sin llegar a un veredicto definitivo. El artículo explica cómo el asistente de prueba formal Lean resuelve este tipo de disputas al verificar matemáticamente cada paso de una demostración de forma automática e infalible.",
+      "por_que_leerlo": "Explica una herramienta que está cambiando cómo se valida el conocimiento matemático, algo relevante justo cuando la IA empieza a generar demostraciones propias.",
+      "seccion": "ciencia",
+      "tags": [
+        "matematicas",
+        "lean",
+        "verificacion formal",
+        "logica"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/investigacion/pregunta-como-podemos-saber-que-solucion-matematica-correcta-entenderla-respuestiene-cuatro-letras-lean"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 8,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 858,
+      "titulo": "Artex: la IA autónoma sospechosa del ciberataque a la Comisión Europea que tiene en alerta al FBI",
+      "resumen": "Una herramienta de inteligencia artificial llamada Artex, diseñada originalmente para detectar vulnerabilidades de seguridad de forma autónoma, es la principal sospechosa de un ciberataque contra la Comisión Europea. El caso ha puesto en alerta al FBI y reabre el debate sobre qué pasa cuando una IA capaz de encontrar fallos de seguridad actúa sin supervisión humana directa.",
+      "por_que_leerlo": "Es un caso concreto y reciente de cómo la IA autónoma ya está generando incidentes de seguridad con consecuencias institucionales reales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "ciberseguridad",
+        "union europea",
+        "ia autonoma"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/seguridad/que-artex-herramienta-ia-que-busca-fallos-seguridad-sola-que-preocupa-a-empresas-gobiernos"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 859,
+      "titulo": "Colombia se vuelve el país más caro de la región para invertir por su déficit fiscal",
+      "resumen": "Según Corficolombiana, el retorno mínimo que exigen los inversionistas en Colombia llegó a 24,09% en pesos en septiembre, 2,5 puntos más que hace un año, el más alto frente a otros cuatro países de la región.",
+      "por_que_leerlo": "Ofrece un dato concreto para entender cómo el riesgo fiscal encarece el costo de capital para cualquier negocio que opere en Colombia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "inversión",
+        "riesgo país",
+        "déficit fiscal",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-ya-es-el-pais-mas-caro-para-invertir-entre-cinco-de-la-region-y-la-razon-esta-en-el-deficit/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 860,
+      "titulo": "Bacterias y energia nuclear podrian construir casas listas para humanos en Marte",
+      "resumen": "El instituto Pioneer Labs, fundado por la bioingeniera Erika DeBenedictis, propone combinar bacterias con energia nuclear para fabricar estructuras habitables en Marte antes de que lleguen los astronautas. La propuesta se publico como preprint en arXiv bajo una politica de 'ciencia abierta', sin planes de pasar por una revista de pago.",
+      "por_que_leerlo": "Presenta una idea concreta de bioingenieria espacial que combina biologia sintetica y energia nuclear para resolver un problema logistico real.",
+      "seccion": "ciencia",
+      "tags": [
+        "bioingenieria",
+        "marte",
+        "energia nuclear",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-bacteria-nuclear-power-ready-homes.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 861,
+      "titulo": "Las velas solares interestelares enfrentan un freno inesperado cerca de la velocidad de la luz",
+      "resumen": "Investigadores descubrieron que al alcanzar el 75% de la velocidad de la luz, la luz dispersada que impulsa las velas solares futuristas podria comenzar a frenarlas en lugar de acelerarlas. El hallazgo complica los planes de usar este metodo de propulsion para viajes interestelares.",
+      "por_que_leerlo": "Explica un obstaculo fisico inesperado que cualquier mision interestelar futura con velas solares tendria que resolver.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica",
+        "velas solares",
+        "viaje interestelar",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-22",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 862,
+      "titulo": "El colapso del comercio de aceite de pescado en Panama tras el fallo del afloramiento marino",
+      "resumen": "Un ano despues de que el Instituto Smithsonian de Investigaciones Tropicales reportara el primer fallo registrado del afloramiento estacional del Golfo de Panama, un nuevo estudio documenta como esa falla se propago desde el viento hasta el plancton, los peces y las exportaciones, usando registros que las empresas pesqueras rara vez comparten.",
+      "por_que_leerlo": "Muestra con datos reales como un cambio climatico localizado puede desplomar una industria entera en pocos meses.",
+      "seccion": "ciencia",
+      "tags": [
+        "panama",
+        "pesca",
+        "cambio climatico",
+        "exportaciones"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-upwelling-panama-fish-oil-collapsed.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 863,
+      "titulo": "Como el sistema de reparacion del ADN hace posible la edicion genetica",
+      "resumen": "La informacion genetica es robusta, pero su estructura fisica es fragil; los mecanismos naturales que reparan miles de danos celulares diarios son la base de tecnologias de edicion genetica como CRISPR. El articulo explica como estos sistemas de reparacion permiten que la edicion de genes funcione en la practica.",
+      "por_que_leerlo": "Ayuda a entender el mecanismo biologico detras de herramientas de edicion genetica cada vez mas usadas en biotecnologia.",
+      "seccion": "ciencia",
+      "tags": [
+        "adn",
+        "edicion genetica",
+        "crispr",
+        "biotecnologia"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 7,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 864,
+      "titulo": "Anthropic lanza Claude Ship, herramienta que deja a agentes de IA revisar y aprobar código",
+      "resumen": "Anthropic presentó Claude Ship, una herramienta para desarrolladores que permite a agentes de IA revisar, corregir y aprobar cambios de código de forma autónoma, con el fin de eliminar cuellos de botella en equipos que ya generan grandes volúmenes de código con IA.",
+      "por_que_leerlo": "Es directamente aplicable para quien construye software con IA y quiere automatizar parte del proceso de revisión de código.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "agentes",
+        "desarrollo de software",
+        "anthropic"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 865,
+      "titulo": "Sierra, startup de IA para atención al cliente, duplica su valoración a US$30.000 millones en seis meses",
+      "resumen": "Sierra, cofundada por el excodirector ejecutivo de Salesforce Bret Taylor, levantó 1.750 millones de dólares en una ronda Serie F que duplicó su valoración en apenas seis meses, impulsada por la demanda de inteligencia artificial para experiencia de cliente.",
+      "por_que_leerlo": "Ejemplifica la velocidad con que crecen hoy las valoraciones de startups de IA aplicada a negocios.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "startups",
+        "inteligencia artificial",
+        "inversion",
+        "valoracion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
+      "id": 866,
+      "titulo": "Apple elimina una aplicación de código abierto de las tiendas de la Unión Europea tras nueve años",
+      "resumen": "El desarrollador de una app de código abierto denunció que Apple retiró su producto de las tiendas de aplicaciones en la Unión Europea después de nueve años disponible, en medio de ajustes regulatorios relacionados con las reglas de mercados digitales del bloque.",
+      "por_que_leerlo": "Alerta sobre el riesgo de construir un negocio dependiente de plataformas cerradas que pueden cambiar las reglas de un día para otro.",
+      "seccion": "tecnologia",
+      "tags": [
+        "desarrolladores",
+        "apple",
+        "regulacion",
+        "codigo abierto"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/glushchenko/fsnotes/discussions/2056"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-23 22:31",
+      "auto_generated": true
+    },
+    {
       "id": 843,
       "titulo": "Un vacío en datos de fusiones sugiere agujeros negros nacidos sin explosión de supernova",
       "resumen": "Analizando 257 fusiones de agujeros negros detectadas por ondas gravitacionales, un equipo encontró un patrón inesperado en sus masas que coincide con lo que predicen los modelos de colapso directo de estrellas masivas, sin la explosión visible de una supernova. El hallazgo sugiere que muchas estrellas gigantes podrían 'apagarse' silenciosamente en lugar de estallar, explicando el origen de buena parte de los agujeros negros del universo.",
