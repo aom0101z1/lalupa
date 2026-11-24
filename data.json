@@ -221,6 +221,603 @@
   ],
   "casos": [
     {
+      "id": 3445,
+      "titulo": "ANLA y ANI destraban proyecto del Canal del Dique tras 16 años",
+      "categoria": "obras",
+      "fecha": "2026-11-24",
+      "descripcion": "La Autoridad Nacional de Licencias Ambientales (ANLA) y la Agencia Nacional de Infraestructura (ANI) destrabaron el proyecto del Canal del Dique, que llevaba 16 años de espera por parte de la comunidad. Las obras del proyecto iniciarán en 2027, segun lo reportado.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/anla-y-ani-destraban-el-proyecto-del-canal-del-dique-tras-16-anos-de-espera-de-la-comunidad-iniciara-obras-en-2027/202644/",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Autoridad Nacional de Licencias Ambientales (Anla) / Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3444,
+      "titulo": "Gobierno promueve inversión ciudadana en deuda pública desde $60.000",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "El Gobierno Nacional implementó un mecanismo para que los colombianos puedan invertir en deuda pública desde $60.000 a través del celular, buscando ampliar la participación de pequeños ahorradores en el mercado de capitales.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/colombianos-pueden-invertir-en-deuda-publica-desde-60-000-asi-funciona-y-como-hacerlo-desde-el-celular-506958",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3443,
+      "titulo": "Gobierno destina $70.000 millones para Centro de Investigación Farmacéutica en la Universidad Nacional",
+      "categoria": "obras",
+      "fecha": "2026-11-23",
+      "descripcion": "El Gobierno nacional transfirió $70.000 millones a la Universidad Nacional para la construcción del Centro de Investigación, Innovación y Transferencia Farmacéutica (CITFARMA) en Bogotá, tras más de una década de espera para este proyecto.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-destina-70000-millones-investigacion-farmaceutica-en-unal",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Universidad Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3442,
+      "titulo": "Ejercito neutraliza atentado explosivo contra propanoducto en Cundinamarca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-24",
+      "descripcion": "Unidades del Ejercito Nacional neutralizaron un atentado contra un propanoducto en Cundinamarca, identificando un dispositivo explosivo con sistema de activacion por tiempo y una fuente de energia mediante bateria de 9 voltios, evitando asi un posible atentado contra infraestructura energetica.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/ejercito-neutraliza-atentado-contra-propanoducto-en-cundinamarca",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3441,
+      "titulo": "Avanza proyecto para transparentar precios de medicamentos en clinicas",
+      "categoria": "transparencia",
+      "fecha": "2026-11-23",
+      "descripcion": "El Congreso avanza en el tramite de un proyecto de ley que obligaria a las clinicas a transparentar y hacer comparables los precios de medicamentos en sus farmacias, como medida de transparencia en el sector salud.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/globoeconomia/avanza-tramite-para-que-clinicas-deban-transparentar-precios-de-medicamentos-4531277",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3440,
+      "titulo": "Carf advierte insuficiencia fiscal de la Ley de Rescate del Gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-24",
+      "descripcion": "El Comite Autonomo de la Regla Fiscal (Carf) advirtio que la Ley de Rescate Fiscal impulsada por el Gobierno De la Espriella no seria suficiente y dejaria un faltante de 9,6 billones de pesos. El organismo respalda la urgencia de aprobar el proyecto pero alerta que la deuda publica llegaria a 78,1% del PIB en 2030 y que los cambios al IVA generarian un hueco fiscal adicional.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/carf-advierte-que-ley-de-rescate-no-seria-suficiente-dejaria-un-faltante-de-9-6-billones-4531489",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Comite Autonomo de la Regla Fiscal (Carf) / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3439,
+      "titulo": "Senadora guajira Johana Osorio bajo escrutinio por presunto titulo falso",
+      "categoria": "mentiras",
+      "fecha": "2026-11-23",
+      "descripcion": "La senadora del Pacto Historico Deisy Johana Osorio, quien llego al Senado en el puesto 21 de la lista cerrada, es cuestionada publicamente porque en su informacion academica figura como contadora publica y especialista en Finanzas pese a no contar aun con titulo profesional. La congresista niega haberse presentado como graduada, en medio del escandalo de titulos falsos que afecta a varios integrantes de la bancada.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/congresista-pacto-historico-bajo-lupa-titulos-senadora-guajira-johana-osorio-niega-haberse-presentado-como-graduada-AK43946152",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Deisy Johana Osorio"
+      ],
+      "entidad": "Senado de la Republica / Pacto Historico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51"
+    },
+    {
+      "id": 3438,
+      "titulo": "Atentado con carro bomba contra la Gobernacion del Meta en Villavicencio",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-24",
+      "descripcion": "Un atentado con explosivos, al parecer un carro bomba, afecto la sede de la Gobernacion del Meta en Villavicencio el 24 de noviembre de 2026, dejando al menos 12 heridos segun reportes preliminares. El presidente Abelardo De la Espriella confirmo el hecho en redes sociales y señalo estar a la espera de reportes oficiales sobre victimas mortales.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/atentado-explosivos-villavicencio-gobernacion-meta-AI43967546",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / Gobernacion del Meta",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3437,
+      "titulo": "Partido Conservador y Cambio Radical condicionan apoyo a nuevos impuestos de la reforma tributaria",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "El Partido Conservador y Cambio Radical condicionaron su respaldo a los nuevos impuestos planteados en la reforma tributaria del Gobierno De la Espriella, exigiendo cambios especificos antes de dar su aval en el Congreso, en medio del tramite de la Ley de Rescate Fiscal.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQkZOX1NNUnRpM3ZIZ0xJOWdSYThGMlJZSXBOcE8zYWNfUFZYMDBlVmp3V3VjQW1TLTlQeEJzWHh3RUdkeElOQkt4OUpzVURldElLU2V1djN0bTVJLUdYOXRYQ3I0ZE9iSzc3Zzh1dlRLd09JWlJnYlZpa3g4cjJITFM3ZlpGeUprSnZ4QXpSZVl0U2syQkRFazlkMWQ2TmZYeWdaRjQ0RlR2b1V0OHJhRktjWnhfT2JObTlKbGJNVllXTXRhU3RuRGRJWTlYRGJ5MFFUeU5hZHdPZTktdFJvSDg1b19oaklvbHJKcmFCUkVLS0pfa1NvOWhYbVdnRVRybzQ4UjYtejdTRFhtRTRlbV9B0gGsAkFVX3lxTE9fRHVZTVNxeHpCQ25DTlp3WVhzWENFVzRsZ1NJNWViU1RFLV9lcXctamk2Skx4cnlTSnR4cWVCd2xLSEJxQU9oVHBDSGNhZWQ0Q0pqZWx6YjRPVlFWVHlwb3JRcVAzVWZrR29UWmlvYlpLZGlhZHdUc0FjSHdRUzVVT1M4MGJMdU5vMkZtaFRaWkNDd2JMU0xONUVISVhhNkRNRDA3REVQdW95eEFCVk5QajJSVnFJdTRWSm5hcXNJVjZ6elJlcm41b041ZEJsZWF4aFd1SE5mT3BSX1BDWndyUjVWaHc2aHdOTlBuMGtFaUNBdzlVRjFmS2hVcjQ0bmNGc1hyUjk5NDRsSW9SVWdnWU9KNXhUUGprNDNxMmlheVdfbkVQcmFJNXE5bQ?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Partido Conservador / Cambio Radical",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3436,
+      "titulo": "De la Espriella anuncia medidas sobre telecomunicaciones en carceles para frenar extorsiones",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio medidas contundentes para restringir las telecomunicaciones en centros penitenciarios del pais, con el objetivo de frenar las extorsiones que se originan desde las carceles.",
+      "evidencia": "Reportado por NTN24",
+      "fuentes": [
+        {
+          "nombre": "NTN24",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbExHMzFyeWVPaDVjbTh6LTZHbS1lUkt0dmJIa20zY2lnSWxmOFpDMUZRbmFBVG16SFNmSkxLc3oyaUJXNXQ3STdfcW9KNGw0Z2JZVEozYl9wRW5MZzRZWXhKQjFrX0xxRE5jb1pHOTZVNmJESU0yMncza0JNeGNqczlJbFJVd2VNT1ZnSWJSX0hIdnZOMUZtckJvV25tYkpqTWdwQWg1RXJ1d1RBOHQ5VVNhcXdMQ0lyVXhCTHFUTUFIbks4ZElkVnEtU2E5anpXanlFRjFiSDBWZk1MZmxFOTRvXzljR3BWekxidnRsZ01FUXhaMWRTdlRQRV9uaDYwbjQ5TTdsWEJDbUZrVjRTb2JOWdIBkwJBVV95cUxQZzZhQ29ZZXdWQ29lc09zY1RnUU5obUhpV1dsRWRQWlNvS1ppb1FIME84dDU1LTc4bXNFSllZTzJ2OHRwUkhoWDdubUR3OFNuQ1l1QXhJckw0QUtLbnJLM1J2VVJKVW1YdngzeFBuSDVGODZoai1Kb0lVRUYzQzREZGRFbHcxeVV1THBidEFPSi1Dd1BFejRiLXJ3ZFg2Qi10RkFQaV9ITzRFenlqX3JMT0Nhci1HYWV6QnlsOWRLbVlheWUyQjl5dE1nTWlBbXF5UlVGVUQ5dmNoY3BZU0F2bURjYUVxR25ndG9SWGpuNFRXY21EdU5mYWlreV8zQW9iNjlfcGQ3TE5mVng3bi1TTFpCOA?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica / INPEC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3435,
+      "titulo": "Video contradice version de Sandra Ortiz sobre $3.000 millones entregados a Ivan Name en caso Ungrd",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-24",
+      "descripcion": "Un video revelado contradiria la version de Sandra Ortiz, quien habia admitido ser 'la mensajera' de $3.000 millones entregados al expresidente del Senado Ivan Name en el marco del escandalo de sobornos de la Ungrd, pero ahora lo niega, segun Infobae.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWEc0Qmc5ZW4tbnZuSDVDLWlpcGpuRklCTnRzSndISU9jeVp1UW5mcFc2UFVCakUyMTZheHVGU1o5RjRsek1WUlQ4cWFLRm81SllmVmhUdmtka1ZGemZrc0xVeWJKcjBjZ1dFbmYzaU5qUF85RkhNUWR3X0VMZ2dZRUJLbnhlZUtrckRQSVhEVVNSMGdFR2dDYzIyVGpUbk90TXZ0akVMSjZoU0JuREpuQzloTDM1OFRDUHZFbXZBVTRYZ01VWnJjUFk2M1E1MFZsSzNGUHNZYU8yZU9EZDktRWhqa1N6VTFpMmRzSHlPcmxxaU82djY3c3l0YVBfREk0SjZ5X2RvcktCNjJ4SHJIbXZGR0ZDS2lYQk5JdtIBtwJBVV95cUxOSDU4R1M4ZXh2WG1IZkFBTFJtOC1yVWRfLThDNHF3TUNkekJnOV9EVHpfNk9IQjl3NFZBdGJScUR1a2x2MklSa3UybUExdW1ieFNmUFJnVlJxVnBURkc1YnJKVWljZ0xmdTl2SUpuZ0p6SVdFU1lBVGpIai14X1MyZFZQaHFZaWM4VDl5Ujhqa3FHU1FzT1o2M2ZadHZMWFlkQ0p3QmZtTnJFTEtIN04yVzVfaVllako4a2ZyajZyMHRpdWVzMlpwZ296VHI5MUU1XzBfazdwNk0taEpwTmVwc21pRUhhUjJiLWV1cHN5MmlXeVJZYngxYkpwTS1xOUJ2Ni1WeFhMQUpfcS16Y2xrd1JlaEppSXVrTG5lR1l0QzhyQmZUV0VhMjRndUx1V2wyN0xCdU9ySQ?oc=5",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Sandra Ortiz",
+        "Ivan Name"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Unidad Nacional para la Gestion del Riesgo de Desastres (Ungrd)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51"
+    },
+    {
+      "id": 3434,
+      "titulo": "Reactivan emision de pasaportes tras suspension por actualizacion del sistema",
+      "categoria": "transparencia",
+      "fecha": "2026-11-23",
+      "descripcion": "Las autoridades reactivaron la emision de pasaportes en el pais tras una suspension temporal causada por una actualizacion del sistema, restableciendo el servicio para los ciudadanos.",
+      "evidencia": "Reportado por Proceso Digital",
+      "fuentes": [
+        {
+          "nombre": "Proceso Digital",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2tEQ1R6RkhnSWRnWUJtaWtJM29SYXR0YzdwcXE5YTNYb002b1BnbDN5cHJnU21nc05jc1lIbldYNVlfRTMtQ0p5MnVVM1F2Wksyd1JtUmxLYlhjNVhBVWRXSXJCUDhDRmJLNDV5SE9wd1pLTkhkQ0Z6NmlqWFZZZHItUkZiYmNlNGlZOWpEU3VaZlM3TUh2c1ZjbVgxQQ?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3433,
+      "titulo": "Pacto Historico instala Comision Nacional de Etica para revisar escandalo de titulos falsos",
+      "categoria": "mentiras",
+      "fecha": "2026-11-23",
+      "descripcion": "El Pacto Historico instalo su Comision Nacional de Etica para revisar los presuntos casos de titulos academicos falsos de varios de sus congresistas, incluido el de Luz Veronica Estrada, en medio de la creciente polemica por irregularidades academicas en el partido.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/el-pacto-historico-instala-su-comision-nacional-de-etica-para-revisar-presuntos-casos-de-titulos-falsos-incluido-el-de-luz-veronica-estrada-3603612",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Luz Veronica Estrada",
+        "Claudia Romero Nader"
+      ],
+      "entidad": "Pacto Historico",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51"
+    },
+    {
+      "id": 3432,
+      "titulo": "Cifras de extorsion durante el gobierno De la Espriella mientras se estrecha el cerco en carceles",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "Reporte sobre la evolucion de las cifras de extorsion en el gobierno de Abelardo de la Espriella, en medio de medidas para restringir las comunicaciones ilegales desde centros penitenciarios usadas por bandas criminales para extorsionar.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbzJpeXM5SGVRUWV5aHZsOWpHV0RZcWZ4SEhqRzVXNHVZVlltT2hvb0gybHRmVDcwc08wcjBWbXM2QzFlcHlGZGpoWE9IcE9Jak1jQ0ZfTEkyMFpYeXhzYjdrX0dMT3VwbC1uOWtrZVVoRVFicW1VaFEwSTBoaVpIUVZTYWhXRFliUllSYXVYenY5LWxkWlBhcnZ6aEo5TXNSUGdELXlQTjJFUWVHMkFOMGdja1Y4QVN6d19NY1E0QmNNZkdoazlYcXpoWm5FM0FEd3dpLXZXNnRweXFYNGxDZU9obW1tT2N3MW9XdVpRcWg5RW9BUlE3YVVEZGljQzBnZF9vbmJ0djNUSUVpRUHSAZMCQVVfeXFMTVQ1UW9GWFB3REdIQXNrYWxaZlg3OTAxcmoteDNXaGZzYy1Sb0d3NERSb3FJVFVWdmZvMlZxYlc0MVhpTlRyR2xDMmZ3S0ZuXzBmLXFPTlBrbkJFVkJrQURnR0dtYUpsR3RqWUtDX1I4YXJXR2ZLN0ZHaERqMkpLVnF4aHZlMGVkUGo3c1ZadG45cGh0ekE4WDFHZ21IdWtfOE5NLUJ2aVZjQVVxaW1hMmRZYTUybGl5bk9jTnJsMkZOOEtYSjZKOGxBVWFkYi1zdUxJQTdnUlo3LWpHVmRxWnNnNVBxQ1VlLTQtbjlZQjhoTmlleG5HLVYxcDhNVk1jY0ZnbWJVQXFBaGNpWTNTa1FhaE0?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa / INPEC",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3431,
+      "titulo": "Reforma tributaria del Gobierno De la Espriella dispararia precio de la gasolina hasta $4.906 hacia 2029",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "Segun analisis citados por El Tiempo, la reforma tributaria del Gobierno De la Espriella podria elevar el precio de la gasolina hasta en $4.906 hacia 2029, lo que generaria un impacto significativo en el costo de vida y la inflacion del pais.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeGJYZXNyUU1hUDRjV2lma3llbk1lVGhCdzdySTFTSWNWd19NbFIzbEl6cWZORmZkYUlsTUh0Wl9XM0pFSlVRcHpvMHppR011Y3hFQmVNQjFlVm90RjQ1LWFHQTc1MGxFR212bllfcXF3UEtqZFpwYV9HT2tRN2JCZUx4amdGcjVVWHRMMGtJWnQycGpLcjVDVkUxTXU5QmVfdkJHMlZrSGtmcUR5N0MyQ3MwVWVLNGpuTWhaUWRnYWZ0N3BsNzBhbW1NSWpTbkJpUlJtanRZbFlCVmJuY1kzZDZCRDhDZG5iUDhB0gHwAUFVX3lxTFA4eHVKbFVPNmU5d2JnMksyeG5jbzZrNDhJOUNBcWdDdlg0R1kyQ3AyZS1McVNzNjhtLUNjMFVjaGUtbHZ0LTRRQm5OSmxDTnJLM3BxWDA5TUZoZ09EaERvajdpYldzelBYSkFjWmNnYWF1WDFWR1Y1MC1Takg1T2lWbEw4MTE4ZTVad2JuQlBaMVpRbWowamJTUDJuMDdJXzJwTnYzRzlhTHVIWjhhd3gxcG56WFJieUs2RWR1OHdzTTBwYjgzNmhobTk5OE9wRGtIaGlIejhYUFA3ZFF3WUxhaXA0VlNoc3Y5ZWlpeHBLTA?oc=5",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3430,
+      "titulo": "Mauricio Gomez Amin asume como ministro TIC ad hoc por litigio de Caracol y RCN",
+      "categoria": "gabinete",
+      "fecha": "2026-11-23",
+      "descripcion": "Mauricio Gomez Amin asumira las competencias de la ministra de las TIC de forma ad hoc, exclusivamente para las actuaciones relacionadas con el analisis y cumplimiento de la sentencia del tribunal andino en el litigio entre Caracol y RCN.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/mauricio-gomez-amin-asumira-como-ministro-de-las-tic-ad-hoc-por-litigio-de-caracol-y-rcn-ante-tribunal-andino/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Gomez Amin"
+      ],
+      "entidad": "Ministerio de Tecnologias de la Informacion y las Comunicaciones (MinTIC)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3429,
+      "titulo": "Microempresarios damnificados reciben creditos a 60 meses y 8.000 mercados",
+      "categoria": "avances",
+      "fecha": "2026-11-23",
+      "descripcion": "Un esquema que combina creditos a 60 meses con respaldo del Fondo Nacional de Garantias y la entrega de 8.000 mercados busca reactivar a pequenos negocios afectados por el terremoto del 10 de agosto en varias regiones del pais.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/microempresarios-damnificados-por-sismo-reciben-creditos-60-meses",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Nacional de Garantias / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3428,
+      "titulo": "Anla aprueba dos proyectos petroleros en Casanare y Meta",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "La Autoridad Nacional de Licencias Ambientales (Anla) aprobo dos proyectos petroleros en los departamentos de Casanare y Meta, dando via libre a la perforacion de pozos, adecuacion territorial y despliegue de infraestructura industrial en los Llanos Orientales bajo el gobierno De la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/anla-aprobo-dos-proyectos-petroleros-en-casanare-y-meta",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Autoridad Nacional de Licencias Ambientales (Anla)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3427,
+      "titulo": "Fondo Milagro anuncia canalizacion de fondos de reconstruccion a traves de Fedecafeteros",
+      "categoria": "dineros",
+      "fecha": "2026-11-23",
+      "descripcion": "El gerente del Fondo Milagro, Henao, anuncio que los recursos de reconstruccion se canalizaran a traves de la Federacion Nacional de Cafeteros, aprovechando su sistema de contratacion propio para garantizar que las soluciones lleguen a las familias damnificadas en un tiempo corto.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/el-fondo-milagro-anuncia-canalizacion-de-fondos-por-medio-de-fedecafeteros-4531223",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Gerente Henao"
+      ],
+      "entidad": "Fondo Milagro / Fedecafeteros",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3426,
+      "titulo": "Cali entrega $7.359 millones para reactivar 867 negocios afectados por el sismo",
+      "categoria": "avances",
+      "fecha": "2026-11-23",
+      "descripcion": "En Cali se entregaron $7.359 millones en maquinaria y equipos para reactivar 867 unidades productivas afectadas por el terremoto, como parte de una inversion total de $10.300 millones destinada a apoyar cerca de 1.300 negocios. La entrega de equipos comenzo el pasado viernes.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/empresas/cali-destina-7-359-millones-a-reactivar-867-negocios-tras-el-sismo-4531348",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Cali / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3425,
+      "titulo": "Ataques con drones explosivos aumentan 140% durante el gobierno De la Espriella",
+      "categoria": "seguridad",
+      "fecha": "2026-11-23",
+      "descripcion": "Segun un documento del Ministerio de Defensa compartido con la AFP, Colombia registro 358 ataques con drones cargados de explosivos entre enero y noviembre de 2026, usados por grupos criminales contra la fuerza publica y civiles, lo que representa un aumento del 140% pese a la politica de mano dura del presidente Abelardo de la Espriella con bombardeos y redadas.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/colombia-cifra-ataques-terroristas-con-dron-uno-por-dia-IN43934927",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3424,
+      "titulo": "Senadora Carolina Corcho habría inflado su hoja de vida presentándose como politóloga sin serlo",
+      "categoria": "mentiras",
+      "fecha": "2026-11-23",
+      "descripcion": "Durante los años previos a asumir el Ministerio de Salud, la senadora Diana Carolina Corcho Mejía se presentó públicamente y en redes como politóloga, título que no posee, según reporte periodístico que compara su caso con los de otras congresistas del Pacto Histórico investigadas por títulos falsos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/senadora-carolina-corcho-inflo-hoja-vida-perfiles-redes-sociales-titulo-NN43938746",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Carolina Corcho"
+      ],
+      "entidad": "Senado de la Republica / Pacto Historico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51"
+    },
+    {
+      "id": 3423,
+      "titulo": "Chats de Daysuris Vásquez con Nicolás Petro admitidos como prueba en el juicio",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-24",
+      "descripcion": "El Tribunal Superior de Barranquilla autorizó el uso como prueba de chats entre Daysuris Vásquez, Nicolás Petro y otros tres interlocutores dentro del proceso penal que se sigue contra el hijo del expresidente Gustavo Petro por presunto enriquecimiento ilícito y lavado de activos.",
+      "evidencia": "Reportado por Emisora Atlántico 1070 AM",
+      "fuentes": [
+        {
+          "nombre": "Emisora Atlántico 1070 AM",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZDZGMUlEeVI5N255eWx0WnhFRlo2dHJHZnhaV1laem55QlpITUhDZEd3eWRFa1dUOVZpUXlpbVY2OWN6NDZDTHdDbjFzWlBOSWNNeDh1dVZVR09DeGtpemxVTFJxYTg5QTJSWGVLbmR6ejNqeGRScGpsU296UDFDQmhXdHNISjZnVjhFZGJuMlljNFF4bF9OR3l6TVVuNzNTcUxUM2s4V3JKRFEtZ1l6Q0ZuNWQwWVdmbnBLRTlfMzFlS2FfUUxZbENoZ0NJSWVIOEVIRGVzMNIB5wFBVV95cUxOSGV3bndhcm1tM3l0cUp1R0kzc1lnQW1xaklfdEwtTGdDYmk1d1dfNEZ5NW9aUm9ZZ1Q0b2ZlTkpYUmVEQTRpR1FMaVRxYWJSWXpDZHhiMS1hS3p6ZVdpODdYeTlvVXhjaVJ6RHIzUjlWX0tpdzdNLWdfaUJsSXZXWEpJUV9jUEREeTE2YUZFaFphbWZ4eEFPVHBhTTVQNFV0LXlXSEo5TUk2RFRFR2VOdzhNODVzUk1EdWZfTmZ3OEc5dkFHZVhLMkJ0SUtFUEhBVklzYzh0SjNTRVl0ZHd4bHN1V2hVSkE?oc=5",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Nicolas Petro",
+        "Daysuris Vasquez"
+      ],
+      "entidad": "Rama Judicial / Fiscalia General de la Nacion",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51"
+    },
+    {
+      "id": 3422,
+      "titulo": "Gobierno propone reformar Ley de APP para permitir adiciones de hasta 50% en megaproyectos",
+      "categoria": "economia",
+      "fecha": "2026-11-23",
+      "descripcion": "La ministra de Transporte, Elsa Noguera, anunció que el Gobierno propondrá una reforma a la Ley de Asociaciones Público-Privadas (APP) para permitir adiciones contractuales de hasta el 50% en megaproyectos de infraestructura, medida que calificó como clave ante la estrechez fiscal actual.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-reformar-la-ley-de-app-busca-adiciones-hasta-50-megaproyectos/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Elsa Noguera"
+      ],
+      "entidad": "Ministerio de Transporte / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3421,
+      "titulo": "Gobierno nombra nuevos viceministros de Deporte y Educación Superior",
+      "categoria": "gabinete",
+      "fecha": "2026-11-23",
+      "descripcion": "El Gobierno De la Espriella anunció cambios en los viceministerios de Deporte y de Educación Superior, dando a conocer los perfiles de los nuevos funcionarios designados para estas carteras.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-mueve-fichas-en-los-viceministerios-de-deporte-y-educacion-superior-estos-son-los-cambios/",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Presidencia de la Republica / Ministerio de Educacion / Ministerio del Deporte",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3420,
+      "titulo": "Fiscalía remite a la Corte Suprema tres investigaciones contra Claudia Romero por título falso",
+      "categoria": "mentiras",
+      "fecha": "2026-11-23",
+      "descripcion": "La Fiscalía confirmó que la representante Claudia Romero Nader (Pacto Histórico) ya tenía tres noticias criminales abiertas por presuntas irregularidades en su diploma de Administración de Empresas de la Universidad Javeriana, antecedente que se suma al caso y que ahora pasa a la Corte Suprema de Justicia por su fuero como congresista.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/claudia-romero-fiscalia-investiga-a-la-congresista-y-remite-congreso-GN43936642",
+          "fecha": "2026-11-23"
+        }
+      ],
+      "personas_involucradas": [
+        "Claudia Romero Nader"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 03:51"
+    },
+    {
       "id": 3419,
       "titulo": "Supersalud gestiona 44.000 reclamos atrasados de la administracion Petro",
       "categoria": "empalme",
@@ -79757,8 +80354,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-23",
-    "total_casos": 3330,
+    "ultima_actualizacion": "2026-11-24",
+    "total_casos": 3356,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
