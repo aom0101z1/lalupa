@@ -221,6 +221,242 @@
   ],
   "casos": [
     {
+      "id": 3455,
+      "titulo": "Organizaciones advierten que ayudas del terremoto no llegan a todas las familias a 100 días",
+      "categoria": "damnificados",
+      "fecha": "2026-11-24",
+      "descripcion": "A cien días del terremoto de agosto de 2026, organizaciones humanitarias promueven jornadas de donación. Caritas Colombia expresó preocupación porque en ciudades con capacidades instaladas las ayudas no están llegando a todas las familias afectadas, evidenciando falencias en la distribución de la asistencia humanitaria.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/a-cien-dias-del-terremoto-organizaciones-promueven-jornadas-de-donacion/",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Caritas Colombia",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3454,
+      "titulo": "Metro de Bogotá avanza en contratación de interventoría y gerencia para Línea 2",
+      "categoria": "obras",
+      "fecha": "2026-11-24",
+      "descripcion": "La Empresa Metro de Bogota (EMB) abrio las convocatorias para contratar la interventoria y la gerencia de la Linea 2 del Metro, con contratos que suman mas de $534.000 millones, como paso clave para avanzar en el proyecto de infraestructura.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/metro-de-bogota-da-paso-clave-para-avanzar-en-linea-2/",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Empresa Metro de Bogota (EMB)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3453,
+      "titulo": "China exige al Gobierno colombiano medidas tras visita de congresistas a Taiwán",
+      "categoria": "internacional",
+      "fecha": "2026-11-24",
+      "descripcion": "El gobierno chino expresó formalmente su rechazo por la visita de congresistas colombianos a Taiwán y exigió al Gobierno Nacional tomar medidas al respecto, en medio de la disputa histórica sobre la soberanía de la isla entre China y Taiwán. El hecho genera un reto diplomático para la administracion De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/china-expresa-rechazo-a-visita-de-congresistas-colombianos-a-taiwan-y-exige-al-gobierno-tomar-medidas/",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Agmeth Escaf"
+      ],
+      "entidad": "Cancilleria / Gobierno de China",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3452,
+      "titulo": "Aseguradoras aceleran pago de indemnizaciones por terremoto de agosto",
+      "categoria": "dineros",
+      "fecha": "2026-11-24",
+      "descripcion": "Las aseguradoras han pagado $1,7 billones en indemnizaciones por el terremoto de agosto de 2026. Entre el 6 y el 18 de noviembre se registró una aceleración significativa en los desembolsos, con $351.000 millones adicionales entregados en la última semana, segun datos reportados por el sector asegurador.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/finanzas/aseguradoras-pagan-1-7-billones-por-el-terremoto-y-aceleran-desembolsos-semanales-4531681",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fasecolda / Sector Asegurador",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3451,
+      "titulo": "De la Espriella anuncia plan de atención integral para víctimas de atentados en Cúcuta y Curumaní",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-24",
+      "descripcion": "El presidente Abelardo de la Espriella anunció un plan de atención integral para las familias afectadas por los recientes atentados terroristas registrados en Cúcuta y Curumaní, como parte de la respuesta del Gobierno Nacional a los hechos de violencia en esas regiones.",
+      "evidencia": "Reportado por La FM",
+      "fuentes": [
+        {
+          "nombre": "La FM",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeG5fWnNxNjR6R3RINzcybUhJVjJGdGZUdWRpYldjdk12ZU9xZ3NTOG9wczVkdndaYmVKLURSWVVhSDF1VDFKQ3BSMEZHTmxOYjIyeVNoc2UtYTdWdHRSckxETFBvSEZleVh1NFNleXgtTUR0bnBCLURnUjVjeVVlLWpqQ2I5ZS1hQmc3NDMtOGdkUF9sbjNKcXltNnpYeTAyMzg3X3EyY9IBpwFBVV95cUxOS2hsRUhFUU9QZ3NfakxfRW5ORUZnM3JERkVfamdrX2Rkb1NJcU4xSWw2bzQ2dm15bDNFZjk3NXN1SE9fcmJLYWFwbjZZcGJFYVYwbU9lYW5DZDFyVEsxN0VBel8yNTJyZ1NvMEUxNzhESjRrY3JwZk5YQkJqZ2hBQjB6ZU96dG1LZDYyX1YxdVRuTXdxNHZGWnNOa0E2NkYtRGYwbjFWRQ?oc=5",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3450,
+      "titulo": "Grupo Nutresa avanza en cinco de ocho proyectos de reconstrucción en Chocó",
+      "categoria": "avances",
+      "fecha": "2026-11-24",
+      "descripcion": "En menos de 80 días tras el terremoto, el Grupo Nutresa reporta avances en cinco de ocho proyectos comprometidos en Chocó, incluyendo acciones en agua potable, cacao y educación, junto con nuevas iniciativas adicionales de apoyo a la reconstrucción de la región.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/regiones/grupo-nutresa-pone-en-marcha-cinco-de-ocho-proyectos-en-choco-tras-el-terremoto-asi-avanzan-sus-compromisos-506980",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Grupo Nutresa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 3449,
+      "titulo": "Encuesta de Valora Analitik ubica aprobación de De la Espriella en 51,5% a 100 días",
+      "categoria": "opinion-publica",
+      "fecha": "2026-11-24",
+      "descripcion": "Una encuesta de Valora Analitik reporta que el presidente Abelardo de la Espriella alcanza un 51,5% de aprobación en sus primeros 100 días de gobierno, además de medir cuánto conocen los colombianos sobre las obras y resultados de su administración.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-alcanza-515-de-aprobacion-en-sus-primeros-100-dias-de-gobierno-segun-encuesta/",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Valora Analitik",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3448,
+      "titulo": "Más de 7.300 ayudas por el terremoto siguen sin reclamar en Risaralda",
+      "categoria": "damnificados",
+      "fecha": "2026-11-24",
+      "descripcion": "A más de tres meses del terremoto del 10 de agosto, más de 7.300 ayudas económicas asignadas a familias damnificadas en Risaralda continúan sin ser reclamadas, según reportes locales. La situación evidencia fallas en la entrega efectiva de los apoyos económicos destinados a la reconstrucción en la región de Pereira/Risaralda, una de las más afectadas por el sismo.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/risaralda-mas-de-7-300-ayudas-por-el-terremoto-siguen-sin-ser-reclamadas/",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro / Gobernacion de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 3447,
+      "titulo": "Petro reprende al senador Agmeth Escaf por viaje a Taiwán",
+      "categoria": "diplomaticos",
+      "fecha": "2026-11-24",
+      "descripcion": "El expresidente Gustavo Petro cuestionó a su copartidario, el senador Agmeth Escaf, por un viaje a Taiwán, en medio de tensiones internas en el Pacto Histórico que ya enfrenta el escándalo de títulos falsos de Verónica Estrada. El episodio se suma a los señalamientos sobre viajes de congresistas de la bancada petrista sin claridad sobre su financiamiento o proposito.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/petro-le-paso-factura-senador-agmeth-escaf-pacto-historico-viaje-taiwan-que-dijo-JJ43976618",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Agmeth Escaf"
+      ],
+      "entidad": "Pacto Historico / Senado de la Republica",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00"
+    },
+    {
+      "id": 3446,
+      "titulo": "Andi propone $48,8 billones para ajuste fiscal del Gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-24",
+      "descripcion": "El gremio empresarial Andi presentó al Gobierno De la Espriella una propuesta de $48,8 billones como alternativa para el ajuste fiscal, en medio del debate sobre la Ley de Rescate y la reforma tributaria. La propuesta busca evitar nuevos impuestos y plantea fuentes alternativas de financiamiento.",
+      "evidencia": "Reportado por Portafolio.co",
+      "fuentes": [
+        {
+          "nombre": "Portafolio.co",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQblI5SXAzT3JuWlVZSDFQNjVuU05sWjZzTndzUDZfRmdDZzEwS25fTDdwTXNNWDAyTUlrOTNhZm5oc1FKRHZaa0F6ZWNpa0FITi1PblhqX01FOVljRFBfQXNCNHBZWVdqam1PaVB0RnBjaFNKUHdza2dWWk5CeEFJTENMYUNybU12ZExwMzd4Y3dWSXZscEExU0NCNGFxRzI3TXZTS1BoWkUtWjJMN2l5LWtsQ0Z6RnBXeW5CS0huY0V0Ul80aXQ2MGJPRDRldDNaOGs1WV9DVzBmU293VXZjTDNtQ1RhekZXbzJ5eE5EWlLSAfYBQVVfeXFMTWFFLXFsU3FReVZKYno1RGNfUXBReXcxQVdldHhtNWhfZnZMM2lBams2U1hmZldpZWUxNHlnV0gxZ19NLTU5Y0thWGJsSGg1MUFWMkJ3QVBuaEpkYmV3V3dSS2MxTDVxOFhDVDlBeFN3WlZiWE91blBnRkp6LTdEdE9odWRhRHNud2pBVXBpei1QbXp0ckE4cU1QNVl4R1FYSXA5SHhxRFBHQ0FaTS13Nm5Lbm5aSElIbWROUFBxRzVpdmEycjAtSFY4a1cwQ0RVVkFPMUFPX1JYNW5qNTR1ZURuWTJKSXoxNjZNOE5PNkVSVUR0ejh3?oc=5",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Asociacion Nacional de Empresarios de Colombia (Andi) / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-24 17:00",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3445,
       "titulo": "ANLA y ANI destraban proyecto del Canal del Dique tras 16 años",
       "categoria": "obras",
@@ -80355,7 +80591,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-24",
-    "total_casos": 3356,
+    "total_casos": 3366,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
