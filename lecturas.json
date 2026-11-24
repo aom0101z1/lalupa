@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-23"
+    "ultima_actualizacion": "2026-11-24"
   },
   "lecturas": [
+    {
+      "id": 867,
+      "titulo": "NASA busca socios para disenar el primer reactor nuclear para la Luna",
+      "resumen": "NASA abrio una convocatoria para que empresas desarrollen y prueben el primer reactor nuclear disenado para generar electricidad en la superficie lunar. El sistema, llamado Lunar Reactor-1 (LR-1), seria un reactor de fision de pequena escala capaz de producir 20 kilovatios, suficiente para abastecer unas 16 viviendas.",
+      "por_que_leerlo": "Muestra como la energia nuclear portatil podria resolver el mayor cuello de botella de la exploracion espacial: la generacion continua de electricidad.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia nuclear",
+        "luna",
+        "ingenieria espacial",
+        "nasa"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 868,
+      "titulo": "Dos agujeros negros gigantes del amanecer del universo desafian la teoria",
+      "resumen": "Astronomos identificaron el par de cuasares compactos mas antiguo conocido, alimentado por dos agujeros negros que ya existian apenas 900 millones de anos despues del Big Bang. Juntos pesan 1.500 millones y 400 millones de masas solares, tamanos que los modelos actuales no explican a edades tan tempranas del cosmos.",
+      "por_que_leerlo": "Pone en jaque los modelos vigentes sobre como crecen los agujeros negros supermasivos en el universo temprano.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "cuasares",
+        "cosmologia",
+        "astrofisica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 869,
+      "titulo": "Rusia podria lanzar un arma nuclear al espacio ya el proximo mes, segun reportes",
+      "resumen": "Informes citados por medios indican que Rusia podria desplegar antes de lo previsto un satelite con capacidad nuclear en orbita. Expertos advierten que una detonacion nuclear en el espacio podria causar la perdida o degradacion repentina de miles de satelites de los que dependen comunicaciones y GPS.",
+      "por_que_leerlo": "Para entender el riesgo real que corre la infraestructura satelital de la que depende buena parte de internet y las comunicaciones globales.",
+      "seccion": "tecnologia",
+      "tags": [
+        "espacio",
+        "seguridad",
+        "geopolitica",
+        "satelites"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 870,
+      "titulo": "NariQ comprime un modelo de IA a 10 GB sin perder calidad frente a la version completa",
+      "resumen": "Investigadores crearon NariQ, una cuantizacion de 3 bits o menos del modelo Qwen3.8-27B que mantiene un desempeno cercano al de la version original de 16 bits en tareas agenticas, matematicas, razonamiento multilingue y comprension de imagenes. Los benchmarks muestran que incluso a 2 bits el modelo conserva gran parte de su capacidad en tareas complejas de largo horizonte.",
+      "por_que_leerlo": "Una tecnica que permite correr modelos de IA potentes en hardware mucho mas modesto, util para quien construye herramientas de IA local.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "modelos de lenguaje",
+        "optimizacion",
+        "ia local"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 871,
+      "titulo": "Startup colombiana Vuun capta US$525.000 y se expande a México y Perú",
+      "resumen": "Vuun, una empresa colombiana que automatiza la compra y venta de viviendas, cerró una ronda pre-seed de US$525.000 con tres fondos de inversión. Con ese capital busca acelerar su crecimiento regional, entrando a los mercados de México y Perú.",
+      "por_que_leerlo": "Es un caso concreto de cómo una proptech colombiana financia y ejecuta su expansión por Latinoamérica.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "proptech",
+        "startup",
+        "ronda de inversion",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/empresa-colombiana-que-automatiza-la-compra-y-venta-de-viviendas-se-expande-a-mexico-y-peru/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 872,
+      "titulo": "Nuevo metodo verifica propiedades cuanticas globales con mediciones locales",
+      "resumen": "Investigadores desarrollaron una tecnica que permite comprobar si un estado cuantico se parece al objetivo o si sus qubits estan entrelazados usando solo mediciones locales y un numero constante de repeticiones, sin reconstruir el estado completo. Esto evita que el costo de verificar computadoras cuanticas crezca exponencialmente a medida que aumentan los qubits.",
+      "por_que_leerlo": "Ofrece una via practica para validar computadoras cuanticas cada vez mas grandes sin que el costo de comprobacion se dispare.",
+      "seccion": "tecnologia",
+      "tags": [
+        "computacion cuantica",
+        "qubits",
+        "verificacion",
+        "fisica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 873,
+      "titulo": "IA guiada por fisica reconstruye el flujo sanguineo a partir de datos incompletos",
+      "resumen": "Investigadores de la Universidad de California en Irvine combinaron ecuaciones de fisica con inteligencia artificial para reconstruir el flujo de sangre en el corazon a partir de imagenes medicas dispersas y con ruido. El enfoque llena los vacios que las tecnicas de imagenologia actuales no logran capturar, sin requerir equipos mas costosos.",
+      "por_que_leerlo": "Es un ejemplo concreto de como la IA aplicada a la fisica puede mejorar diagnosticos medicos usando la infraestructura existente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "imagenologia medica",
+        "fisica",
+        "salud"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 874,
+      "titulo": "Datos satelitales muestran como la lluvia rompe las nubes que enfrian la Tierra",
+      "resumen": "El satelite EarthCARE de la Agencia Espacial Europea revelo que la lluvia es un factor clave en la ruptura de las grandes capas de nubes brillantes que ayudan a mantener fresco el planeta al reflejar luz solar. El hallazgo aporta evidencia directa sobre un proceso climatico que hasta ahora era poco comprendido.",
+      "por_que_leerlo": "Aporta evidencia satelital concreta sobre un mecanismo climatico clave y poco entendido hasta ahora.",
+      "seccion": "ciencia",
+      "tags": [
+        "clima",
+        "satelites",
+        "nubes",
+        "evidencia cientifica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 875,
+      "titulo": "Supertake levanta US$20 millones para convertir predicciones de mercado en portafolios con IA",
+      "resumen": "La startup Supertake deja que los usuarios expresen una tesis sobre hacia donde se dirige el mercado y encarga a agentes de IA construir el portafolio de acciones correspondiente, sin que la persona tenga que elegir los titulos manualmente. La ronda de US$20 millones busca escalar esta propuesta de inversion automatizada.",
+      "por_que_leerlo": "Muestra como la IA esta cambiando la forma de invertir en bolsa sin requerir conocimientos tecnicos para seleccionar acciones.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "fintech",
+        "inteligencia artificial",
+        "inversion",
+        "startups"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 876,
+      "titulo": "Colombia ha aprobado 21 reformas tributarias en 32 años, una cada 18 meses",
+      "resumen": "Un análisis muestra que Colombia aprobó 21 reformas tributarias entre 1990 y 2022, en promedio una cada año y medio. La nueva Ley de Rescate sería la reforma número 22, y analistas advierten que recarga el esfuerzo fiscal sobre los contribuyentes en lugar de recortar gasto público.",
+      "por_que_leerlo": "Ayuda a entender el patrón histórico de inestabilidad tributaria que enfrenta cualquier negocio que opere en Colombia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "reforma tributaria",
+        "colombia",
+        "impuestos",
+        "gasto publico"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-ha-aprobado-21-reformas-tributarias-desde-1990-hasta-2022-una-cada-18-meses-4531428"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 877,
+      "titulo": "Pensión de las mujeres en Colombia: qué implica bajar a 1.000 semanas cotizadas",
+      "resumen": "Desde 2036 las mujeres en Colombia podrán pensionarse cotizando 1.000 semanas en lugar de 1.300, un cambio que reduce la barrera de acceso a la pensión. Sin embargo, el análisis advierte que cotizar menos tiempo puede traducirse en una mesada más baja al momento del retiro.",
+      "por_que_leerlo": "Ayuda a entender un cambio normativo que afecta directamente la planificación de retiro de millones de mujeres colombianas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "pensiones",
+        "mujeres",
+        "colombia",
+        "finanzas personales"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/pension-mujeres-colombia-advertencia-por-menos-semanas/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
+    {
+      "id": 878,
+      "titulo": "Cómo usar los fondos de pensiones voluntarias para ahorrar vivienda y pagar menos impuestos",
+      "resumen": "Los fondos de pensiones voluntarias en Colombia permiten acumular ahorro destinado a comprar vivienda o abonar un crédito hipotecario, con la ventaja de deducir ese aporte de la renta gravable. El artículo explica los requisitos y el funcionamiento práctico del mecanismo.",
+      "por_que_leerlo": "Entrega una herramienta concreta de planeación financiera para reducir impuestos mientras se ahorra para un objetivo específico.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "pensiones voluntarias",
+        "vivienda",
+        "impuestos",
+        "ahorro"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/fondos-de-pensiones-voluntarias-permiten-ahorrar-para-vivienda-con-beneficios-de-impuestos-asi-funcionan/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-24 06:47",
+      "auto_generated": true
+    },
     {
       "id": 855,
       "titulo": "Amazon compra la tecnología de optimización de IA de Decart por US$7.500 millones",

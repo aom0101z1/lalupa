@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:31:21 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:47:23 -0000</lastBuildDate>
+    <item>
+      <title>NASA busca socios para disenar el primer reactor nuclear para la Luna</title>
+      <link>https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/</link>
+      <guid isPermaLink="false">lalupa-lectura-867</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>NASA abrio una convocatoria para que empresas desarrollen y prueben el primer reactor nuclear disenado para generar electricidad en la superficie lunar. El sistema, llamado Lunar Reactor-1 (LR-1), seria un reactor de fision de pequena escala capaz de producir 20 kilovatios, suficiente para abastecer unas 16 viviendas. Por que leerlo: Muestra como la energia nuclear portatil podria resolver el mayor cuello de botella de la exploracion espacial: la generacion continua de electricidad. (NASA, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Dos agujeros negros gigantes del amanecer del universo desafian la teoria</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261122060342.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-868</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Astronomos identificaron el par de cuasares compactos mas antiguo conocido, alimentado por dos agujeros negros que ya existian apenas 900 millones de anos despues del Big Bang. Juntos pesan 1.500 millones y 400 millones de masas solares, tamanos que los modelos actuales no explican a edades tan tempranas del cosmos. Por que leerlo: Pone en jaque los modelos vigentes sobre como crecen los agujeros negros supermasivos en el universo temprano. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Rusia podria lanzar un arma nuclear al espacio ya el proximo mes, segun reportes</title>
+      <link>https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/</link>
+      <guid isPermaLink="false">lalupa-lectura-869</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Informes citados por medios indican que Rusia podria desplegar antes de lo previsto un satelite con capacidad nuclear en orbita. Expertos advierten que una detonacion nuclear en el espacio podria causar la perdida o degradacion repentina de miles de satelites de los que dependen comunicaciones y GPS. Por que leerlo: Para entender el riesgo real que corre la infraestructura satelital de la que depende buena parte de internet y las comunicaciones globales. (Ars Technica, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>NariQ comprime un modelo de IA a 10 GB sin perder calidad frente a la version completa</title>
+      <link>https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF</link>
+      <guid isPermaLink="false">lalupa-lectura-870</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores crearon NariQ, una cuantizacion de 3 bits o menos del modelo Qwen3.8-27B que mantiene un desempeno cercano al de la version original de 16 bits en tareas agenticas, matematicas, razonamiento multilingue y comprension de imagenes. Los benchmarks muestran que incluso a 2 bits el modelo conserva gran parte de su capacidad en tareas complejas de largo horizonte. Por que leerlo: Una tecnica que permite correr modelos de IA potentes en hardware mucho mas modesto, util para quien construye herramientas de IA local. (Hacker News, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Startup colombiana Vuun capta US$525.000 y se expande a México y Perú</title>
+      <link>https://www.valoraanalitik.com/empresa-colombiana-que-automatiza-la-compra-y-venta-de-viviendas-se-expande-a-mexico-y-peru/</link>
+      <guid isPermaLink="false">lalupa-lectura-871</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Vuun, una empresa colombiana que automatiza la compra y venta de viviendas, cerró una ronda pre-seed de US$525.000 con tres fondos de inversión. Con ese capital busca acelerar su crecimiento regional, entrando a los mercados de México y Perú. Por que leerlo: Es un caso concreto de cómo una proptech colombiana financia y ejecuta su expansión por Latinoamérica. (Valora Analitik, 3 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nuevo metodo verifica propiedades cuanticas globales con mediciones locales</title>
+      <link>https://phys.org/news/2026-11-local-reveal-global-quantum-properties.html</link>
+      <guid isPermaLink="false">lalupa-lectura-872</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores desarrollaron una tecnica que permite comprobar si un estado cuantico se parece al objetivo o si sus qubits estan entrelazados usando solo mediciones locales y un numero constante de repeticiones, sin reconstruir el estado completo. Esto evita que el costo de verificar computadoras cuanticas crezca exponencialmente a medida que aumentan los qubits. Por que leerlo: Ofrece una via practica para validar computadoras cuanticas cada vez mas grandes sin que el costo de comprobacion se dispare. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>IA guiada por fisica reconstruye el flujo sanguineo a partir de datos incompletos</title>
+      <link>https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html</link>
+      <guid isPermaLink="false">lalupa-lectura-873</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de la Universidad de California en Irvine combinaron ecuaciones de fisica con inteligencia artificial para reconstruir el flujo de sangre en el corazon a partir de imagenes medicas dispersas y con ruido. El enfoque llena los vacios que las tecnicas de imagenologia actuales no logran capturar, sin requerir equipos mas costosos. Por que leerlo: Es un ejemplo concreto de como la IA aplicada a la fisica puede mejorar diagnosticos medicos usando la infraestructura existente. (Phys.org, 5 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Datos satelitales muestran como la lluvia rompe las nubes que enfrian la Tierra</title>
+      <link>https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html</link>
+      <guid isPermaLink="false">lalupa-lectura-874</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>El satelite EarthCARE de la Agencia Espacial Europea revelo que la lluvia es un factor clave en la ruptura de las grandes capas de nubes brillantes que ayudan a mantener fresco el planeta al reflejar luz solar. El hallazgo aporta evidencia directa sobre un proceso climatico que hasta ahora era poco comprendido. Por que leerlo: Aporta evidencia satelital concreta sobre un mecanismo climatico clave y poco entendido hasta ahora. (Phys.org, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Supertake levanta US$20 millones para convertir predicciones de mercado en portafolios con IA</title>
+      <link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</link>
+      <guid isPermaLink="false">lalupa-lectura-875</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>La startup Supertake deja que los usuarios expresen una tesis sobre hacia donde se dirige el mercado y encarga a agentes de IA construir el portafolio de acciones correspondiente, sin que la persona tenga que elegir los titulos manualmente. La ronda de US$20 millones busca escalar esta propuesta de inversion automatizada. Por que leerlo: Muestra como la IA esta cambiando la forma de invertir en bolsa sin requerir conocimientos tecnicos para seleccionar acciones. (TechCrunch, 3 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Colombia ha aprobado 21 reformas tributarias en 32 años, una cada 18 meses</title>
+      <link>https://www.larepublica.co/economia/colombia-ha-aprobado-21-reformas-tributarias-desde-1990-hasta-2022-una-cada-18-meses-4531428</link>
+      <guid isPermaLink="false">lalupa-lectura-876</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Un análisis muestra que Colombia aprobó 21 reformas tributarias entre 1990 y 2022, en promedio una cada año y medio. La nueva Ley de Rescate sería la reforma número 22, y analistas advierten que recarga el esfuerzo fiscal sobre los contribuyentes en lugar de recortar gasto público. Por que leerlo: Ayuda a entender el patrón histórico de inestabilidad tributaria que enfrenta cualquier negocio que opere en Colombia. (La Republica, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Pensión de las mujeres en Colombia: qué implica bajar a 1.000 semanas cotizadas</title>
+      <link>https://www.valoraanalitik.com/pension-mujeres-colombia-advertencia-por-menos-semanas/</link>
+      <guid isPermaLink="false">lalupa-lectura-877</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Desde 2036 las mujeres en Colombia podrán pensionarse cotizando 1.000 semanas en lugar de 1.300, un cambio que reduce la barrera de acceso a la pensión. Sin embargo, el análisis advierte que cotizar menos tiempo puede traducirse en una mesada más baja al momento del retiro. Por que leerlo: Ayuda a entender un cambio normativo que afecta directamente la planificación de retiro de millones de mujeres colombianas. (Valora Analitik, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Cómo usar los fondos de pensiones voluntarias para ahorrar vivienda y pagar menos impuestos</title>
+      <link>https://www.valoraanalitik.com/fondos-de-pensiones-voluntarias-permiten-ahorrar-para-vivienda-con-beneficios-de-impuestos-asi-funcionan/</link>
+      <guid isPermaLink="false">lalupa-lectura-878</guid>
+      <pubDate>Tue, 24 Nov 2026 06:47:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Los fondos de pensiones voluntarias en Colombia permiten acumular ahorro destinado a comprar vivienda o abonar un crédito hipotecario, con la ventaja de deducir ese aporte de la renta gravable. El artículo explica los requisitos y el funcionamiento práctico del mecanismo. Por que leerlo: Entrega una herramienta concreta de planeación financiera para reducir impuestos mientras se ahorra para un objetivo específico. (Valora Analitik, 5 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Amazon compra la tecnología de optimización de IA de Decart por US$7.500 millones</title>
       <link>https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</link>
@@ -390,102 +486,6 @@
       <pubDate>Sun, 22 Nov 2026 02:53:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>Pronosticos basados en la intensidad de El Nino anticipan una caida del 25% en la produccion de cacao de Ecuador hacia 2027. Antes del fenomeno, el pais estaba en camino de desplazar a Ghana como segundo mayor productor mundial de cacao. Por que leerlo: Una cifra concreta sobre como el clima puede golpear una exportacion clave y alterar mercados de materias primas en America Latina. (La Republica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Una teoria de 50 anos sobre la evolucion de los genes esenciales podria estar equivocada</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261119194538.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-807</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un analisis extenso de mutaciones en bacterias y levaduras no encontro evidencia de que los genes esenciales muten menos que el resto, contradiciendo una teoria clasica sobre la proteccion evolutiva de genes clave. Los autores sugieren que estudios anteriores confundieron la seleccion natural -que elimina mutaciones daninas despues de ocurrir- con una menor tasa real de mutacion. Por que leerlo: Revisa una idea asumida por decadas en biologia evolutiva con evidencia solida y metodologia clara. (ScienceDaily, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Investigadores logran que modelos de lenguaje reescriban sus propios pesos</title>
-      <link>https://arxiv.org/abs/2611.21885</link>
-      <guid isPermaLink="false">lalupa-lectura-808</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un nuevo paper publicado en arXiv describe modelos de lenguaje capaces de modificar sus propios parametros internos (pesos) durante su operacion, en lugar de depender solo de reentrenamiento externo. El hallazgo genero fuerte discusion tecnica por sus implicaciones en agentes autonomos y en como se entrena y actualiza la IA. Por que leerlo: Es una senal temprana de hacia donde puede evolucionar la autonomia de los modelos de IA que ya usas o construyes. (Hacker News, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Conectan 15 'minicerebros' de neuronas humanas en una mente colmena que supera a una IA</title>
-      <link>https://www.xataka.com/investigacion/alguien-ha-conectado-quince-minicerebros-neuronales-formando-mente-colmena-ha-superado-a-ia</link>
-      <guid isPermaLink="false">lalupa-lectura-809</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>La startup australiana Cortical Labs, que ya habia ensenado a un cultivo de neuronas humanas a jugar Pong, logro ahora enlazar quince de sus computadoras biologicas para que trabajen en equipo. El sistema combinado supero el desempeno de una inteligencia artificial convencional en las tareas presentadas. Por que leerlo: Muestra un camino alterno a los chips de silicio para construir computacion mas eficiente, usando tejido neuronal real. (Xataka, 6 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>GOU Payments y zulu lanzan red de pagos instantáneos para empresas en Colombia</title>
-      <link>https://www.valoraanalitik.com/gou-payments-y-zulu-lanzan-red-de-pagos-instantaneos-para-empresas-en-colombia-permitira-transferencias-de-hasta-250-millones/</link>
-      <guid isPermaLink="false">lalupa-lectura-810</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>La nueva red permite a empresas colombianas enviar transferencias inmediatas de hasta $250 millones de pesos, las 24 horas, los 7 días de la semana, con una red inicial de más de 15 bancos conectados. El servicio busca reemplazar métodos más lentos como cheques y transferencias tradicionales entre empresas. Por que leerlo: Si manejas pagos entre empresas, esta red podría acelerar tus cobros y reducir fricciones operativas. (Valora Analitik, 3 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un sismo revela que el nucleo continental mas antiguo de Africa podria estar fracturandose</title>
-      <link>https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html</link>
-      <guid isPermaLink="false">lalupa-lectura-811</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>En 2017 un terremoto de magnitud 6.5 sacudio el centro del craton del Kalahari, en Botsuana, una de las masas continentales mas antiguas del planeta con rocas de hasta 3.700 millones de anos. Los geologos creian que estos nucleos eran demasiado frios, gruesos y rigidos para fracturarse, pero la evidencia sismica sugiere que una antigua fosa tectonica fallida podria estar reactivandose. Por que leerlo: Te muestra como la geologia desafia la idea de que los continentes mas antiguos son inmunes a la actividad tectonica. (Phys.org, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un pez de agua dulce en Montana resulta tener hasta 130 anos de edad</title>
-      <link>https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html</link>
-      <guid isPermaLink="false">lalupa-lectura-812</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Mediante datacion por radiocarbono de bombas en los otolitos (piedras del oido), investigadores descubrieron que el 'blue sucker' del alto rio Missouri puede vivir hasta 130 anos, el triple de lo estimado antes (40 anos). Algunos ejemplares vivos hoy nacieron a finales del siglo XIX, antes de que Montana fuera estado. Por que leerlo: Un ejemplo sorprendente de como una tecnica de datacion puede reescribir por completo lo que sabiamos sobre la longevidad de una especie. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un modelo de IA detecta estres en cultivos con muchos menos calculos, probado con hongos</title>
-      <link>https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html</link>
-      <guid isPermaLink="false">lalupa-lectura-813</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Investigadores de Penn State desarrollaron un modelo de inteligencia artificial que detecta estres en cultivos -por sequia, enfermedad o falta de nutrientes- mediante imagenes no destructivas, usando bastante menos poder de computo que los modelos actuales. El sistema fue probado primero con hongos antes de aplicarse a otros cultivos. Por que leerlo: Una muestra concreta de como la IA aplicada puede reducir costos computacionales sin sacrificar precision, util para quien construye herramientas de IA. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Fisicos proponen un experimento con relojes atomicos para probar si el tiempo fluye de formas distintas a la vez</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261120075558.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-814</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo de cientificos propuso un metodo para detectar relojes que experimentarian multiples flujos de tiempo simultaneos, usando relojes atomicos con sensibilidad mucho mayor a la actual. Si se confirma, el hallazgo revelaria un efecto cuantico nunca antes observado y cambiaria la comprension de la relacion entre tiempo y gravedad. Por que leerlo: Una idea que podria romper una de las certezas mas basicas de la fisica: que el tiempo fluye de una sola manera. (ScienceDaily, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Fiscales acusan a hombre contratado por Rusia de espiar a firma tecnológica de Silicon Valley</title>
-      <link>https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/</link>
-      <guid isPermaLink="false">lalupa-lectura-815</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un hombre de 25 años enfrenta cargos federales por espiar, presuntamente por encargo de Rusia, a una empresa de tecnología y defensa de Silicon Valley. Según la acusación, vigiló a empleados en una cafetería y los persiguió de forma agresiva en su auto. Por que leerlo: Muestra cómo opera hoy el espionaje industrial contra empresas tecnológicas y de defensa en Estados Unidos. (Ars Technica, 3 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Un actor licencia su rostro generado por IA a una startup de 'microdramas' al estilo chino</title>
-      <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
-      <guid isPermaLink="false">lalupa-lectura-816</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un actor firmó un acuerdo para que una versión de su rostro creada con inteligencia artificial protagonice contenidos cortos producidos por una startup de 'microdramas', práctica ya popular en China. Expertos cuestionan qué pasaría con los derechos de imagen y el trabajo actoral si este modelo se extiende a Hollywood. Por que leerlo: Anticipa un nuevo modelo de negocio donde la imagen humana se licencia como activo digital, algo clave para quien construye productos con IA. (TechCrunch, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Centrales electricas cerradas de Europa se reconvierten en centros de datos</title>
-      <link>https://www.xataka.com/energia/viejas-centrales-cerradas-europa-han-encontrado-segunda-vida-centros-datos</link>
-      <guid isPermaLink="false">lalupa-lectura-817</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>La energetica alemana Uniper negocia un acuerdo, segun el Financial Times, para transformar sus antiguas centrales en desuso en infraestructura para centros de datos. Estas instalaciones ya cuentan con espacio, accesos y conexion a la red electrica, lo que reduce drasticamente los costos y tiempos de construccion frente a un datacenter desde cero. Por que leerlo: Revela una tendencia de reutilizacion de activos energeticos que podria resolver el cuello de botella de energia que frena la expansion de la IA. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Estudio sobre coches electricos de segunda mano trae buenas noticias sobre la degradacion de baterias</title>
-      <link>https://www.xataka.com/movilidad/empresa-queria-saber-cuanto-duran-baterias-coches-electricos-paso-nos-ha-dado-enorme-alegria</link>
-      <guid isPermaLink="false">lalupa-lectura-818</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Una empresa especializada analizo como envejecen las baterias de los coches electricos tras varios anos y miles de ciclos de carga, en un intento por resolver la desconfianza del mercado de segunda mano hacia estos vehiculos. Los resultados muestran una degradacion menor a la esperada, lo que mejora las perspectivas de reventa. Por que leerlo: Ofrece datos utiles para quien piensa comprar o vender un electrico usado y teme perder valor por el estado de la bateria. (Xataka, 4 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>
