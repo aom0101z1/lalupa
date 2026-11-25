@@ -27,6 +27,259 @@
   },
   "lecturas": [
     {
+      "id": 903,
+      "titulo": "Físicos atrapan antimateria en un avance que podría explicar por qué existe el universo",
+      "resumen": "Un equipo de físicos logró atrapar un positrón, la antipartícula del electrón, y enfriarlo a temperaturas cercanas al cero absoluto en una trampa sin paredes, aislado de la materia ordinaria. Buscan hacer la comparación más precisa jamás hecha entre electrones y positrones, pues cualquier diferencia expondría fisuras en el Modelo Estándar.",
+      "por_que_leerlo": "Ofrece una ventana a un experimento que podría resolver uno de los mayores misterios de la física: por qué sobrevivió la materia tras el Big Bang.",
+      "seccion": "ciencia",
+      "tags": [
+        "antimateria",
+        "fisica",
+        "positrones",
+        "modelo estandar"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 904,
+      "titulo": "Científicos transmiten un mensaje a través de un muro de ladrillo usando solo gravedad",
+      "resumen": "Investigadores enviaron la palabra 'Gravity' atravesando un muro de ladrillo moviendo un contrapeso masivo entre dos posiciones y detectando los minúsculos cambios en la atracción gravitacional con un detector ultrasensible. A diferencia del Wi-Fi o las ondas de radio, la señal gravitacional atraviesa barreras sin ser bloqueada.",
+      "por_que_leerlo": "Muestra una prueba de concepto real de comunicación que ningún material puede bloquear, con posibles aplicaciones futuras en transmisión de datos.",
+      "seccion": "ciencia",
+      "tags": [
+        "gravedad",
+        "fisica",
+        "comunicaciones",
+        "experimento"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 905,
+      "titulo": "La FCC autoriza a SpaceX desplegar hasta un millón de satélites",
+      "resumen": "La Comisión Federal de Comunicaciones de EE.UU. aprobó que SpaceX amplíe su constelación a un millón de satélites, lo que multiplicaría por aproximadamente 50 veces el número de satélites actualmente en órbita. La decisión consolida el dominio de Starlink sobre la infraestructura orbital global.",
+      "por_que_leerlo": "Entender hacia dónde va la infraestructura satelital global ayuda a anticipar oportunidades y riesgos en telecomunicaciones.",
+      "seccion": "tecnologia",
+      "tags": [
+        "satelites",
+        "spacex",
+        "telecomunicaciones",
+        "regulacion"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 906,
+      "titulo": "1Password confirma hackeo: accedieron a sus servidores y robaron datos de usuarios",
+      "resumen": "1Password, uno de los gestores de contraseñas mas usados del mundo, confirmo que sufrio acceso no autorizado a sus servidores con robo de algunos datos de usuarios. La compania aclaro que las bovedas de contraseñas no fueron comprometidas pese a lo grave del incidente.",
+      "por_que_leerlo": "saber si tus contrasenas estan en riesgo y que medidas tomar tras el incidente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "seguridad",
+        "contraseñas",
+        "1password",
+        "ciberataque"
+      ],
+      "fuente": {
+        "nombre": "Hipertextual",
+        "url": "https://hipertextual.com/seguridad/1password-sufre-un-hackeo-que-ha-pasado-y-como-te-afecta/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 907,
+      "titulo": "La plataforma de inversión trii permite operar acciones con ChatGPT y Claude",
+      "resumen": "Usuarios de trii en Colombia, Chile y Perú podrán conectar sus cuentas a agentes de IA como ChatGPT y Claude para analizar sus portafolios y ejecutar órdenes de compra y venta previa autorización.",
+      "por_que_leerlo": "Es un ejemplo concreto de cómo la IA agentic ya llega a las decisiones de inversión personal en la región.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "inversión",
+        "fintech",
+        "agentes ia"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/mercados/comprar-acciones-con-chatgpt-y-claude-trii-se-suma-a-la-carrera-por-llevar-la-ia-a-las-inversiones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 908,
+      "titulo": "Una nueva teoría sugiere que la conciencia humana podría estar fuera del alcance de la IA",
+      "resumen": "Investigadores proponen que el cerebro codificaría y recuperaría recuerdos mediante procesos químicos, no solo eléctricos, a través de interacciones entre neuronas y su entorno molecular. La hipótesis busca explicar el vínculo entre memoria, emoción y pensamiento, y desafía la idea de que computadoras cada vez más potentes puedan replicar la conciencia humana.",
+      "por_que_leerlo": "Plantea un argumento científico, no solo filosófico, sobre por qué la inteligencia artificial podría nunca igualar la mente humana.",
+      "seccion": "ciencia",
+      "tags": [
+        "conciencia",
+        "cerebro",
+        "inteligencia artificial",
+        "neurociencia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 909,
+      "titulo": "Sin vida marina, el CO2 atmosférico podría dispararse hasta 65% para fin de siglo",
+      "resumen": "Un informe del proyecto europeo OceanICU, presentado en la cumbre climática de la ONU, calcula que sin los organismos marinos que transportan carbono hacia las profundidades del océano, la concentración de CO2 atmosférico en 2100 sería entre 35% y 65% más alta de lo proyectado actualmente.",
+      "por_que_leerlo": "Pone en números concretos cuánto depende el clima futuro de un servicio ecosistémico que suele darse por sentado.",
+      "seccion": "ciencia",
+      "tags": [
+        "oceanos",
+        "carbono",
+        "cambio climatico",
+        "clima"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-marine-life-atmospheric-century.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 910,
+      "titulo": "Una 'molécula cubo de Rubik' hace más elásticos los semiconductores flexibles",
+      "resumen": "Investigadores de la Universidad de Toronto desarrollaron una técnica para aumentar la elasticidad de los plásticos conductores usados en pantallas plegables, sin sacrificar su capacidad de conducir electricidad. El hallazgo ataca el problema de los cristales rígidos que hoy se agrietan con el uso repetido en celulares plegables.",
+      "por_que_leerlo": "Es un avance concreto de ingeniería de materiales que podría alargar la vida útil de los dispositivos plegables.",
+      "seccion": "tecnologia",
+      "tags": [
+        "semiconductores",
+        "materiales",
+        "electronica flexible",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 911,
+      "titulo": "NASA cierra el diseño de su primera nave con propulsión nuclear eléctrica",
+      "resumen": "NASA completó la revisión clave de la misión Space Reactor-1 (SR-1) Freedom y fijó la arquitectura de la nave, que buscará demostrar por primera vez propulsión nuclear eléctrica en el espacio profundo, con lanzamiento previsto para 2028. El proyecto reúne a la agencia, al Departamento de Energía de EE.UU. y a la industria privada en torno a un diseño ya bloqueado.",
+      "por_que_leerlo": "Muestra cómo avanza la energía nuclear aplicada a la exploración espacial, un terreno donde ingeniería y financiamiento público-privado convergen.",
+      "seccion": "tecnologia",
+      "tags": [
+        "energia nuclear",
+        "nasa",
+        "propulsion espacial",
+        "ingenieria"
+      ],
+      "fuente": {
+        "nombre": "NASA",
+        "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 912,
+      "titulo": "EE.UU. revisa al alza su PIB trimestral a 4,3%, impulsado por el gasto en IA",
+      "resumen": "La economía estadounidense creció más de lo estimado inicialmente hasta septiembre, con una variación trimestral revisada a 4,3%, gracias al gasto de los consumidores y a la fuerte inversión empresarial en inteligencia artificial.",
+      "por_que_leerlo": "Muestra con una cifra oficial cómo la inversión en IA ya se refleja de forma medible en el crecimiento económico real de la mayor economía del mundo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "pib",
+        "estados unidos",
+        "inversion",
+        "inteligencia artificial"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/ee-uu-revisa-al-alza-la-variacion-del-pib-trimestral-a-4-3-hasta-septiembre-4532998"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
+      "id": 913,
+      "titulo": "La deuda pública de Colombia llega a 62,2% del PIB en octubre",
+      "resumen": "La deuda pública de Colombia superó los $1.200 billones en octubre, equivalente al 62,2% del PIB, tras subir $14,7 billones frente a septiembre y $19,6 billones frente al mismo mes de 2025.",
+      "por_que_leerlo": "Da una cifra concreta y reciente para medir qué tan rápido se deteriora la sostenibilidad fiscal del país.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "deuda pública",
+        "fiscal",
+        "colombia",
+        "macroeconomía"
+      ],
+      "fuente": {
+        "nombre": "Valora Analitik",
+        "url": "https://www.valoraanalitik.com/deuda-publica-de-colombia-supero-los-1-200-billones-y-subio-al-622-del-pib-con-corte-a-octubre/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 20:28",
+      "auto_generated": true
+    },
+    {
       "id": 891,
       "titulo": "Nuevo resultado teorico fija el exponente de la multiplicacion de matrices en 2.25",
       "resumen": "Investigadores presentan una prueba que establece el exponente de complejidad de la multiplicacion de matrices en n^2.25, un avance en uno de los problemas mas estudiados de la computacion teorica. El preprint genero fuerte discusion en la comunidad de ciencias de la computacion, con cientos de comentarios en foros especializados.",
