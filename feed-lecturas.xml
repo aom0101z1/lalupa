@@ -6,7 +6,103 @@
     <atom:link href="https://lalupa.com.co/feed-lecturas.xml" rel="self" type="application/rss+xml"/>
     <description>Pocas lecturas al dia sobre emprendimiento, ciencia y tecnologia, elegidas por interes y resumidas en espanol, con su fuente.</description>
     <language>es-co</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:03:36 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:17:37 -0000</lastBuildDate>
+    <item>
+      <title>Nuevo resultado teorico fija el exponente de la multiplicacion de matrices en 2.25</title>
+      <link>https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</link>
+      <guid isPermaLink="false">lalupa-lectura-891</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores presentan una prueba que establece el exponente de complejidad de la multiplicacion de matrices en n^2.25, un avance en uno de los problemas mas estudiados de la computacion teorica. El preprint genero fuerte discusion en la comunidad de ciencias de la computacion, con cientos de comentarios en foros especializados. Por que leerlo: Es un avance fundamental en algoritmos que eventualmente podria acelerar los calculos que sostienen la IA y la computacion cientifica. (Hacker News, 8 min, interes 9/10)</description>
+    </item>
+    <item>
+      <title>El Índice de Burocracia de la UE: la legislación europea se duplicó desde 2010</title>
+      <link>https://phys.org/news/2026-11-eu-bureaucracy-index-law.html</link>
+      <guid isPermaLink="false">lalupa-lectura-892</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>El nuevo Índice de Burocracia de la UE muestra que al cierre de 2025 las regulaciones y directivas vigentes de la Unión Europea suman cerca de 47.600 páginas estándar, un 118% más que en 2010. El crecimiento se explica principalmente por nuevas sanciones y normas ambientales, y la tendencia siguió al alza durante 2026. Por que leerlo: Para entender con cifras concretas cómo crece el aparato regulatorio que enfrenta cualquier negocio que opera en o con Europa. (Phys.org, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Nanocápsulas autoensamblables mejoran 25 veces la entrega de CRISPR a tumores</title>
+      <link>https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html</link>
+      <guid isPermaLink="false">lalupa-lectura-893</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Investigadores del Institute of Science Tokyo desarrollaron un nanotransportador que protege las proteínas Cas9 de la degradación y libera su carga solo en el ambiente ácido del tumor. En ratones con tumores de HeLa, el sistema logró una tasa de edición genética del 37.2% en el gen objetivo, frente a apenas 1.5% con la proteína libre, además de frenar el crecimiento tumoral. Por que leerlo: Muestra con datos concretos cómo la ingeniería de materiales resuelve uno de los grandes obstáculos de la terapia génica contra el cáncer. (Phys.org, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Gotas nasales restauran la memoria juvenil y frenan el Alzheimer en ratones</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261123005337.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-894</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un tratamiento nasal basado en tecnología similar a las vacunas de ARN mensajero restauró el desempeño de aprendizaje y memoria en ratones envejecidos y previno el deterioro cognitivo severo en ratones con un modelo de Alzheimer. El tratamiento estimula la producción de una proteína que protege y fortalece las neuronas. Por que leerlo: Es un avance temprano pero concreto hacia terapias no invasivas contra el deterioro cognitivo, con un mecanismo biológico claro. (ScienceDaily, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Un nuevo benchmark revela que hasta los mejores agentes de IA fallan en tareas cotidianas</title>
+      <link>https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/</link>
+      <guid isPermaLink="false">lalupa-lectura-895</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un benchmark que evalua agentes de IA personales en tareas diarias encuentra que incluso los modelos mas avanzados fallan en completarlas de forma confiable y segura, introduciendo nuevos riesgos. El estudio llega justo cuando millones de usuarios adoptan asistentes de IA personal para su vida diaria. Por que leerlo: Si construyes o piensas usar agentes de IA, esto muestra exactamente donde fallan antes de confiarles tareas criticas. (TechCrunch, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Decenas de petroleros y buques quimicos sufren ciberataques en semanas recientes</title>
+      <link>https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/</link>
+      <guid isPermaLink="false">lalupa-lectura-896</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Un reporte documenta decenas de ciberataques contra buques petroleros y de productos quimicos en semanas recientes, con Iran como principal sospechoso. Los ataques apuntan directamente a la infraestructura critica que mueve el transporte maritimo de energia. Por que leerlo: Expone un frente de ciberseguridad poco cubierto: la infraestructura energetica y naviera que mueve el petroleo del mundo. (TechCrunch, 4 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Modelos GPT-6 muestran capacidad intrinseca para disenar proteinas</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
+      <guid isPermaLink="false">lalupa-lectura-897</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>OpenAI reporta que sus modelos GPT-6 demuestran capacidades nativas de diseno de proteinas sin entrenamiento adicional especifico, abriendo una via para aplicar grandes modelos de lenguaje a la biologia molecular. El hallazgo sugiere que las capacidades generales de estos modelos se extienden mas alla del lenguaje y el codigo hacia problemas cientificos duros. Por que leerlo: Muestra hacia donde se dirige la IA generativa aplicada a ciencia dura: diseno biologico asistido por modelos de lenguaje de proposito general. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Campaña activa de intrusión ataca servidores de gestión de seguridad Check Point</title>
+      <link>https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</link>
+      <guid isPermaLink="false">lalupa-lectura-898</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Tecnología</category>
+      <description>Investigadores de GreyNoise detectaron una campaña activa de ataques contra servidores de gestión de seguridad Check Point, explotando vulnerabilidades para obtener acceso no autorizado a redes corporativas. El hallazgo generó más de 270 puntos y 140 comentarios en Hacker News, señal de la magnitud de la amenaza entre profesionales de seguridad. Por que leerlo: Si administras o dependes de infraestructura de seguridad corporativa, esta alerta te dice qué parchar antes de ser la próxima víctima. (Hacker News, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Una IA resuelve el debate de una década: el cambio climático sí aumentará los rayos que caen a tierra</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/ciencia-llevaba-anos-debatiendo-cambio-climatico-traeria-rayos-ia-acaba-dar-respuesta-inquietante</link>
+      <guid isPermaLink="false">lalupa-lectura-899</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Durante más de diez años los modelos climáticos daban resultados contradictorios sobre si un planeta más caliente produciría más rayos. Un nuevo análisis con machine learning muestra que los rayos que impactan la superficie terrestre podrían aumentar de forma significativa con el calentamiento global. Por que leerlo: Resuelve con datos un debate científico abierto por años y anticipa un riesgo climático concreto poco discutido como incendios o daños a infraestructura. (Xataka, 5 min, interes 8/10)</description>
+    </item>
+    <item>
+      <title>Los océanos antiguos de la Tierra podrían haber ocultado la verdadera historia del oxígeno</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261122060340.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-900</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Un nuevo análisis sugiere que el oxígeno se acumuló en la atmósfera terrestre en tres grandes etapas, mientras los océanos tardaron millones o cientos de millones de años en alcanzar niveles similares de oxigenación. Esto implica que la cronología aceptada sobre cómo la Tierra pasó de un mundo sin oxígeno a uno capaz de sostener vida compleja podría estar equivocada. Por que leerlo: Revisa con nueva evidencia uno de los capítulos más importantes de la historia de la vida en la Tierra. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Un agujero negro del tamaño de un átomo podría destruir una estrella entera desde adentro</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261122060332.htm</link>
+      <guid isPermaLink="false">lalupa-lectura-901</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Ciencia</category>
+      <description>Científicos del MIT proponen que diminutos agujeros negros primordiales, remanentes del Big Bang, podrían devorar lentamente estrellas desde su interior y eventualmente provocar explosiones visibles a escala galáctica. Detectar estos eventos confirmaría la existencia de estos agujeros negros y ayudaría a resolver el misterio de la materia oscura. Por que leerlo: Plantea una forma concreta de buscar observacionalmente la materia oscura, uno de los grandes misterios sin resolver de la física. (ScienceDaily, 4 min, interes 7/10)</description>
+    </item>
+    <item>
+      <title>Colombia crea 265.757 empresas entre enero y septiembre, la cifra más alta de la década</title>
+      <link>https://www.larepublica.co/empresas/como-se-han-movido-las-matriculas-mercantiles-en-camaras-de-comercio-este-ano-4532556</link>
+      <guid isPermaLink="false">lalupa-lectura-902</guid>
+      <pubDate>Wed, 25 Nov 2026 05:17:00 -0000</pubDate>
+      <category>Emprendimiento</category>
+      <description>Las cámaras de comercio del país registraron 265.757 nuevas matrículas mercantiles en lo corrido de 2026, el mayor número en lo que va de la década. El total de compañías activas en Colombia superó los 1,75 millones. Por que leerlo: Da un termómetro concreto del dinamismo emprendedor en Colombia este año, útil para contextualizar cualquier decisión de negocio. (La Republica, 3 min, interes 7/10)</description>
+    </item>
     <item>
       <title>Rocas de la cara oculta de la Luna reescriben la historia violenta del sistema solar</title>
       <link>https://www.sciencedaily.com/releases/2026/11/261121221136.htm</link>
@@ -390,102 +486,6 @@
       <pubDate>Mon, 23 Nov 2026 03:33:00 -0000</pubDate>
       <category>Emprendimiento</category>
       <description>El gerente general de Interaseo detalló los avances de un nuevo proyecto de generación de energía en Cali y las proyecciones financieras de la compañía, que espera facturar $1,5 billones en 2027. Por que leerlo: Muestra cómo una empresa de servicios públicos colombiana diversifica su negocio hacia la generación de energía para escalar ingresos. (Valora Analitik, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Simulan la Vía Láctea estrella por estrella usando IA y tres supercomputadoras</title>
-      <link>https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html</link>
-      <guid isPermaLink="false">lalupa-lectura-831</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un equipo liderado por investigadores de la Universidad de Tokio logró simular toda la Vía Láctea a nivel de estrellas individuales, la mayor resolución alcanzada hasta ahora. Combinaron tres de las supercomputadoras más potentes del mundo con un modelo acelerado por inteligencia artificial compatible con distintas plataformas de hardware. Por que leerlo: Muestra cómo la IA está haciendo posibles simulaciones científicas antes inalcanzables al combinar supercómputo distribuido con aprendizaje automático. (Phys.org, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Imágenes satelitales muestran que Huawei tiene energía de sobra pero no los chips para su gigantesco centro de IA</title>
-      <link>https://www.xataka.com/robotica-e-ia/china-tiene-energia-no-chips-que-revelan-satelites-centro-ia-huawei</link>
-      <guid isPermaLink="false">lalupa-lectura-832</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Huawei construye uno de los mayores centros de datos de China en Horinger, Mongolia Interior, confirmado por imágenes de alta resolución de los satélites Copernicus Sentinel (UE) y Vantor (EE.UU.). Las fotos muestran una infraestructura energética ya lista, en contraste con las restricciones de semiconductores que siguen limitando su capacidad real de cómputo. Por que leerlo: Da evidencia visual concreta de cómo las sanciones de chips frenan la carrera de IA de China pese a su ventaja energética. (Xataka, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>NG Energy podría aportar hasta 20% del gas que consume Colombia y busca entrar a Venezuela</title>
-      <link>https://www.valoraanalitik.com/ng-energy-y-sus-socios-podrian-aportar-hasta-20-del-gas-que-consume-colombia-la-empresa-espera-entrar-en-venezuela/</link>
-      <guid isPermaLink="false">lalupa-lectura-833</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Jorge Fonseca, presidente de NG Energy, reveló que la empresa y sus socios podrían suministrar hasta una quinta parte del gas que consume Colombia. La compañía también evalúa entrar al mercado venezolano, que posee las mayores reservas de petróleo y gas del mundo. Por que leerlo: Da cifras concretas sobre quién podría resolver la crisis de abastecimiento de gas en Colombia y hacia dónde se mueve el mercado energético regional. (Valora Analitik, 5 min, interes 8/10)</description>
-    </item>
-    <item>
-      <title>Un agujero negro temprano creció más rápido que su galaxia, según el James Webb</title>
-      <link>https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html</link>
-      <guid isPermaLink="false">lalupa-lectura-834</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>El telescopio espacial James Webb detectó un agujero negro de cerca de mil millones de masas solares formado en menos de mil millones de años tras el Big Bang. Su crecimiento habría superado al de la galaxia que lo alberga, lo que desafía los modelos estándar sobre cómo coevolucionan agujeros negros y galaxias. Por que leerlo: Ayuda a entender uno de los grandes misterios de la cosmología: cómo se formaron tan rápido los primeros agujeros negros supermasivos del universo. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Crean un hidrogel a base de azúcar que se fortalece al doblarlo repetidamente</title>
-      <link>https://phys.org/news/2026-11-sugar-based-hydrogel.html</link>
-      <guid isPermaLink="false">lalupa-lectura-835</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Investigadores de la Universidad de Washington en St. Louis, liderados por el químico Chenfeng Ke, desarrollaron un polímero que, al contrario de la mayoría de materiales, se vuelve más resistente con el uso repetido en lugar de desgastarse. Por que leerlo: Es un hallazgo con potencial para diseñar materiales de ingeniería más duraderos que funcionan al revés de lo esperado. (Phys.org, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Proponen reescribir el árbol genealógico humano e incluir a Australopithecus en el género Homo</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261118074039.htm</link>
-      <guid isPermaLink="false">lalupa-lectura-836</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Un estudio de la Universidad de Monash cuestiona la clasificación tradicional de nuestros ancestros y argumenta que especies como Australopithecus y Paranthropus deberían agruparse dentro del género Homo. El análisis se basa en nuevos fósiles y relaciones evolutivas que difuminan los límites entre estos parientes antiguos. Por que leerlo: Replantea una de las bases de la paleoantropología sobre cómo clasificamos a nuestros ancestros más antiguos. (ScienceDaily, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El centro de datos de Anthropic funcionará con 87% de gas y 11% de carbón en 2028</title>
-      <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
-      <guid isPermaLink="false">lalupa-lectura-837</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Un análisis de Better Data Center Project proyecta que para 2028 el 87% de la energía que alimentará la infraestructura de cómputo de Anthropic provendrá de gas natural y un 11% adicional de carbón, dejando una fracción mínima para fuentes limpias. La cifra expone la brecha entre el discurso de sostenibilidad de las empresas de IA y su huella energética real. Por que leerlo: Revela qué tan lejos está la industria de IA de cumplir sus promesas de energía limpia. (Hacker News, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Toyota, Nissan y Honda acuerdan estandarizar piezas para reducir costos</title>
-      <link>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</link>
-      <guid isPermaLink="false">lalupa-lectura-838</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Los tres grandes fabricantes japoneses firmaron un acuerdo para compartir estándares de piezas comunes entre sus modelos, buscando economías de escala ante la presión de competidores chinos y el costo de la transición eléctrica. La cooperación no implica fusión de marcas, sino compartir componentes y proveedores. Por que leerlo: Muestra cómo rivales de una industria madura cooperan en lugar de competir para sobrevivir a la disrupción. (Hacker News, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El sobreentrenamiento físico también pasa factura al cerebro, según nueva evidencia</title>
-      <link>https://www.xataka.com/medicina-y-salud/sabemos-que-entrenar-descanso-perjudica-al-cuerpo-ahora-han-descubierto-que-puede-ocurrir-tambien-cerebro</link>
-      <guid isPermaLink="false">lalupa-lectura-839</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Ciencia</category>
-      <description>Además de afectar músculos, metabolismo y sistema inmunitario, el entrenamiento excesivo sin descanso suficiente podría dañar también la función cerebral, según nuevos hallazgos científicos. El estudio refuerza que el descanso no es un lujo opcional sino parte activa del proceso de mejora física. Por que leerlo: Útil para quien entrena duro y quiere evitar llevar cuerpo y mente al límite sin saberlo. (Xataka, 5 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>El auge de la IA generativa reduce los pacientes de psicólogos que dependían del tráfico de internet</title>
-      <link>https://www.xataka.com/medicina-y-salud/notamos-caida-pacientes-como-estan-viviendo-psicologos-auge-ia-poblacion</link>
-      <guid isPermaLink="false">lalupa-lectura-840</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>Terapeutas como Aurora Gómez Delgado reportan una caída de pacientes porque la gente ya no llega a sus blogs ni páginas web, al usar asistentes de IA para resolver dudas o incluso buscar apoyo emocional antes de pedir una cita. El fenómeno evidencia cómo la IA generativa está desplazando el tráfico de búsqueda que antes alimentaba negocios basados en contenido y SEO. Por que leerlo: Un ejemplo concreto de cómo la IA está reconfigurando modelos de negocio que dependían del tráfico de búsqueda. (Xataka, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>OCDE propone a Colombia subir edad de pensión, ampliar el IVA y eliminar subsidios por estrato</title>
-      <link>https://www.larepublica.co/economia/ocde-plantea-subir-la-edad-de-pension-ampliar-el-iva-y-eliminar-subsidios-por-estratos-4530260</link>
-      <guid isPermaLink="false">lalupa-lectura-841</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Emprendimiento</category>
-      <description>Un estudio de la OCDE traza una hoja de ruta de reformas para Colombia que incluye elevar la edad de jubilación, ampliar la base del IVA y eliminar los subsidios basados en estratos socioeconómicos. El objetivo es estabilizar la deuda pública ante el rápido envejecimiento poblacional del país. Por que leerlo: Entiende qué reformas fiscales y de pensiones podrían venir en Colombia y cómo afectarían tus finanzas e impuestos. (La Republica, 4 min, interes 7/10)</description>
-    </item>
-    <item>
-      <title>Colombia entra al top 15 mundial de países que más usan IA para trabajar</title>
-      <link>https://www.larepublica.co/globoeconomia/colombia-esta-en-el-top-15-de-paises-que-mas-usa-ia-para-trabajar-4530037</link>
-      <guid isPermaLink="false">lalupa-lectura-842</guid>
-      <pubDate>Sun, 22 Nov 2026 18:15:00 -0000</pubDate>
-      <category>Tecnología</category>
-      <description>India, China y Nigeria lideran la adopción de inteligencia artificial en el trabajo con índices de 91%, 88% y 85% respectivamente, y Colombia se ubica entre los primeros 15 países del ranking global. El dato refleja qué tan rápido se está integrando la IA en las labores cotidianas en distintas economías. Por que leerlo: Te da una referencia concreta de cómo se compara la adopción de IA en Colombia frente a otros países emergentes. (La Republica, 3 min, interes 7/10)</description>
     </item>
   </channel>
 </rss>

@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-24"
+    "ultima_actualizacion": "2026-11-25"
   },
   "lecturas": [
+    {
+      "id": 891,
+      "titulo": "Nuevo resultado teorico fija el exponente de la multiplicacion de matrices en 2.25",
+      "resumen": "Investigadores presentan una prueba que establece el exponente de complejidad de la multiplicacion de matrices en n^2.25, un avance en uno de los problemas mas estudiados de la computacion teorica. El preprint genero fuerte discusion en la comunidad de ciencias de la computacion, con cientos de comentarios en foros especializados.",
+      "por_que_leerlo": "Es un avance fundamental en algoritmos que eventualmente podria acelerar los calculos que sostienen la IA y la computacion cientifica.",
+      "seccion": "tecnologia",
+      "tags": [
+        "algoritmos",
+        "complejidad computacional",
+        "matematicas",
+        "computacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 8,
+      "interes_score": 9,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 892,
+      "titulo": "El Índice de Burocracia de la UE: la legislación europea se duplicó desde 2010",
+      "resumen": "El nuevo Índice de Burocracia de la UE muestra que al cierre de 2025 las regulaciones y directivas vigentes de la Unión Europea suman cerca de 47.600 páginas estándar, un 118% más que en 2010. El crecimiento se explica principalmente por nuevas sanciones y normas ambientales, y la tendencia siguió al alza durante 2026.",
+      "por_que_leerlo": "Para entender con cifras concretas cómo crece el aparato regulatorio que enfrenta cualquier negocio que opera en o con Europa.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "regulacion",
+        "union europea",
+        "burocracia",
+        "politica economica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-eu-bureaucracy-index-law.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 893,
+      "titulo": "Nanocápsulas autoensamblables mejoran 25 veces la entrega de CRISPR a tumores",
+      "resumen": "Investigadores del Institute of Science Tokyo desarrollaron un nanotransportador que protege las proteínas Cas9 de la degradación y libera su carga solo en el ambiente ácido del tumor. En ratones con tumores de HeLa, el sistema logró una tasa de edición genética del 37.2% en el gen objetivo, frente a apenas 1.5% con la proteína libre, además de frenar el crecimiento tumoral.",
+      "por_que_leerlo": "Muestra con datos concretos cómo la ingeniería de materiales resuelve uno de los grandes obstáculos de la terapia génica contra el cáncer.",
+      "seccion": "ciencia",
+      "tags": [
+        "crispr",
+        "cancer",
+        "terapia genica",
+        "nanotecnologia"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 894,
+      "titulo": "Gotas nasales restauran la memoria juvenil y frenan el Alzheimer en ratones",
+      "resumen": "Un tratamiento nasal basado en tecnología similar a las vacunas de ARN mensajero restauró el desempeño de aprendizaje y memoria en ratones envejecidos y previno el deterioro cognitivo severo en ratones con un modelo de Alzheimer. El tratamiento estimula la producción de una proteína que protege y fortalece las neuronas.",
+      "por_que_leerlo": "Es un avance temprano pero concreto hacia terapias no invasivas contra el deterioro cognitivo, con un mecanismo biológico claro.",
+      "seccion": "ciencia",
+      "tags": [
+        "alzheimer",
+        "neurociencia",
+        "arn mensajero",
+        "memoria"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 895,
+      "titulo": "Un nuevo benchmark revela que hasta los mejores agentes de IA fallan en tareas cotidianas",
+      "resumen": "Un benchmark que evalua agentes de IA personales en tareas diarias encuentra que incluso los modelos mas avanzados fallan en completarlas de forma confiable y segura, introduciendo nuevos riesgos. El estudio llega justo cuando millones de usuarios adoptan asistentes de IA personal para su vida diaria.",
+      "por_que_leerlo": "Si construyes o piensas usar agentes de IA, esto muestra exactamente donde fallan antes de confiarles tareas criticas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "agentes ia",
+        "benchmark",
+        "inteligencia artificial",
+        "automatizacion"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 896,
+      "titulo": "Decenas de petroleros y buques quimicos sufren ciberataques en semanas recientes",
+      "resumen": "Un reporte documenta decenas de ciberataques contra buques petroleros y de productos quimicos en semanas recientes, con Iran como principal sospechoso. Los ataques apuntan directamente a la infraestructura critica que mueve el transporte maritimo de energia.",
+      "por_que_leerlo": "Expone un frente de ciberseguridad poco cubierto: la infraestructura energetica y naviera que mueve el petroleo del mundo.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "infraestructura critica",
+        "energia",
+        "transporte maritimo"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 897,
+      "titulo": "Modelos GPT-6 muestran capacidad intrinseca para disenar proteinas",
+      "resumen": "OpenAI reporta que sus modelos GPT-6 demuestran capacidades nativas de diseno de proteinas sin entrenamiento adicional especifico, abriendo una via para aplicar grandes modelos de lenguaje a la biologia molecular. El hallazgo sugiere que las capacidades generales de estos modelos se extienden mas alla del lenguaje y el codigo hacia problemas cientificos duros.",
+      "por_que_leerlo": "Muestra hacia donde se dirige la IA generativa aplicada a ciencia dura: diseno biologico asistido por modelos de lenguaje de proposito general.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "biologia",
+        "gpt-6",
+        "diseno de proteinas"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 898,
+      "titulo": "Campaña activa de intrusión ataca servidores de gestión de seguridad Check Point",
+      "resumen": "Investigadores de GreyNoise detectaron una campaña activa de ataques contra servidores de gestión de seguridad Check Point, explotando vulnerabilidades para obtener acceso no autorizado a redes corporativas. El hallazgo generó más de 270 puntos y 140 comentarios en Hacker News, señal de la magnitud de la amenaza entre profesionales de seguridad.",
+      "por_que_leerlo": "Si administras o dependes de infraestructura de seguridad corporativa, esta alerta te dice qué parchar antes de ser la próxima víctima.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "vulnerabilidad",
+        "check point",
+        "infraestructura"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 899,
+      "titulo": "Una IA resuelve el debate de una década: el cambio climático sí aumentará los rayos que caen a tierra",
+      "resumen": "Durante más de diez años los modelos climáticos daban resultados contradictorios sobre si un planeta más caliente produciría más rayos. Un nuevo análisis con machine learning muestra que los rayos que impactan la superficie terrestre podrían aumentar de forma significativa con el calentamiento global.",
+      "por_que_leerlo": "Resuelve con datos un debate científico abierto por años y anticipa un riesgo climático concreto poco discutido como incendios o daños a infraestructura.",
+      "seccion": "ciencia",
+      "tags": [
+        "cambio climatico",
+        "inteligencia artificial",
+        "clima",
+        "rayos"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/ciencia-llevaba-anos-debatiendo-cambio-climatico-traeria-rayos-ia-acaba-dar-respuesta-inquietante"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 900,
+      "titulo": "Los océanos antiguos de la Tierra podrían haber ocultado la verdadera historia del oxígeno",
+      "resumen": "Un nuevo análisis sugiere que el oxígeno se acumuló en la atmósfera terrestre en tres grandes etapas, mientras los océanos tardaron millones o cientos de millones de años en alcanzar niveles similares de oxigenación. Esto implica que la cronología aceptada sobre cómo la Tierra pasó de un mundo sin oxígeno a uno capaz de sostener vida compleja podría estar equivocada.",
+      "por_que_leerlo": "Revisa con nueva evidencia uno de los capítulos más importantes de la historia de la vida en la Tierra.",
+      "seccion": "ciencia",
+      "tags": [
+        "oxigeno",
+        "evolucion",
+        "oceanos",
+        "paleoclima"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-23",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 901,
+      "titulo": "Un agujero negro del tamaño de un átomo podría destruir una estrella entera desde adentro",
+      "resumen": "Científicos del MIT proponen que diminutos agujeros negros primordiales, remanentes del Big Bang, podrían devorar lentamente estrellas desde su interior y eventualmente provocar explosiones visibles a escala galáctica. Detectar estos eventos confirmaría la existencia de estos agujeros negros y ayudaría a resolver el misterio de la materia oscura.",
+      "por_que_leerlo": "Plantea una forma concreta de buscar observacionalmente la materia oscura, uno de los grandes misterios sin resolver de la física.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "materia oscura",
+        "fisica",
+        "astrofisica"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
+    {
+      "id": 902,
+      "titulo": "Colombia crea 265.757 empresas entre enero y septiembre, la cifra más alta de la década",
+      "resumen": "Las cámaras de comercio del país registraron 265.757 nuevas matrículas mercantiles en lo corrido de 2026, el mayor número en lo que va de la década. El total de compañías activas en Colombia superó los 1,75 millones.",
+      "por_que_leerlo": "Da un termómetro concreto del dinamismo emprendedor en Colombia este año, útil para contextualizar cualquier decisión de negocio.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "emprendimiento",
+        "colombia",
+        "camaras de comercio",
+        "empresas"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/empresas/como-se-han-movido-las-matriculas-mercantiles-en-camaras-de-comercio-este-ano-4532556"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-25 05:17",
+      "auto_generated": true
+    },
     {
       "id": 879,
       "titulo": "Rocas de la cara oculta de la Luna reescriben la historia violenta del sistema solar",
