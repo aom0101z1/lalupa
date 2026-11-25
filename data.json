@@ -221,6 +221,405 @@
   ],
   "casos": [
     {
+      "id": 3496,
+      "titulo": "Ataque armado contra unidad policial en Padilla, Cauca deja varios uniformados afectados",
+      "categoria": "seguridad",
+      "fecha": "2026-11-25",
+      "descripcion": "Una unidad de la Policía Nacional con seis uniformados fue atacada en el municipio de Padilla, Cauca. Las autoridades se encuentran verificando el número de fallecidos tras el ataque, en medio del contexto de violencia armada que enfrenta el gobierno de De la Espriella en esa region del pais.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/unidad-de-la-policia-con-seis-uniformados-fue-atacada-en-padilla-cauca-se-verifica-el-numero-de-fallecidos/202606/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3495,
+      "titulo": "Comercio de Manizales se recupera tras el terremoto de agosto",
+      "categoria": "avances",
+      "fecha": "2026-11-25",
+      "descripcion": "El sector comercial de Manizales, que conto con cerca de 2.000 comerciantes afectados por el terremoto del 10 de agosto, reporta avances en la recuperacion de su actividad economica tras varios meses del sismo, segun gremios locales.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/comercio-de-manizales-recupera-actividad-tras-el-terremoto-de-agosto/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Comerciantes de Manizales",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 3494,
+      "titulo": "Andi propone pagos extra de empleadores para fortalecer el sistema de salud en medio del ajuste fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-25",
+      "descripcion": "La Andi planteo al Gobierno Nacional que los empleadores realicen pagos adicionales para reforzar los recursos del sistema de salud, como mecanismo alternativo dentro de las discusiones del rescate economico, sin afectar directamente el bolsillo de los ciudadanos.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/proponen-al-gobierno-que-empleadores-hagan-pagos-extra-para-el-sistema-de-salud-en-colombia-en-medio-de-rescate-economico/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Asociacion Nacional de Empresarios de Colombia (Andi) / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3493,
+      "titulo": "Cancilleria rechaza declaracion de parlamentarios britanicos sobre implementacion del Acuerdo de Paz",
+      "categoria": "internacional",
+      "fecha": "2026-11-25",
+      "descripcion": "El Ministerio de Relaciones Exteriores de Colombia manifesto su inconformidad ante un pronunciamiento firmado por mas de 70 parlamentarios del Reino Unido sobre la ejecucion del Acuerdo de Paz de 2016, en una actuacion diplomatica del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/cancilleria-rechaza-declaracion-de-parlamentarios-britanicos-sobre-paz",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cancilleria",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3492,
+      "titulo": "Ministro de Vivienda detalla estado del Fondo Milagro y obras prioritarias para reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-25",
+      "descripcion": "El ministro Luis Felipe Henao revelo detalles sobre el estado financiero del Fondo Milagro, incluyendo el dinero que aun falta por desembolsar para la reconstruccion tras el terremoto de agosto, y anuncio cuales obras seran priorizadas en los proximos meses.",
+      "evidencia": "Reportado por Minuto60",
+      "fuentes": [
+        {
+          "nombre": "Minuto60",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEtuSXdJVFdmMGlsUk0ySENaRVB1Y2xRNlJpaEo2a3dsN1ZEQlN1RlRDMkw2VmticF8zdmo3cGJfSkRicGwtOEFEZXg5TUQ5MW51VXlJQXl0TjBMQmZlYWdnZHlwVjMtaXFENWo5eDc4XzNwRzBHeWMyRkJtcmVaSEl3VS1ZV1RGemtJNXVhSk9yS2RvMXc?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Fondo Milagro / Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3491,
+      "titulo": "Gobierno dialoga con el Partido de la U sobre el ajuste fiscal de la 'Operación Rescate'",
+      "categoria": "economia",
+      "fecha": "2026-11-25",
+      "descripcion": "El Gobierno de Abelardo de la Espriella sostuvo una nueva jornada de trabajo, esta vez con el Partido de la U, dentro de la estrategia 'Operación Rescate' para buscar consensos políticos sobre el ajuste fiscal que busca impulsar el Ejecutivo ante el hueco fiscal heredado.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-busca-consensos-con-el-partido-de-la-u-sobre-ajuste-fiscal",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Partido de la U",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3490,
+      "titulo": "Senado aprueba adición presupuestal para el Fondo Milagro y atención del terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-25",
+      "descripcion": "El Senado de la República aprobó una adición presupuestal clave destinada al Fondo Milagro para la atención de la emergencia por el terremoto de agosto de 2026, luego de que en días previos el Pacto Histórico frenara el debate rompiendo el quórum. La aprobación busca destrabar recursos para la reconstrucción en las zonas afectadas.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUm5mOXRmc0I2NGI2UUxlQVFyZy1fTjdKSk5LQ254ZzFGVEFpMVY3MkczOVNVcUNqakM0WFN0Zk01VVJnNGh4ZXJSVnBWMEl2bFJmcTMyU2JjeXc0T09uRFVBdGJUUV9aX1oyeENCU002TGJoTDR6b1RFeENYZk5udXNvcWxmekt3dnpld3ZDYmViUXFDRkZmbVp5TjM0ZFd4Sy0zOExoU1ZZTWFhRzY0elNqSHlxZ1k1Xzh4aFl5eU1SWG_SAdcBQVVfeXFMTXhaSmZpTGdVbFdpWlJoNkFPRXlXeVp1UWxtYkhSVFJWelZsblJHT05CWWxfSlRUbVh2QzhnOEFLNzJXMThrZk5CWXhrenpka1dqRFhKZENabTJCbTVqV05uN04yTDBmYV9iVXllYVZBRUNWSGJBWUQxSHRkR29yYlJwemxiZ1IyR0Y3NFgyWkE4a3JxeHNBMEw0Z0pMRFhjYUFVSkxmVGZONjlQREFBRVNzMEJqZ1NfQTVwbzNxelZ3bHFUeUMzRVZKUkRoMmd1VEFacnB5VE0?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Senado de la Republica / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3489,
+      "titulo": "Queda en firme fallo de responsabilidad fiscal contra Olmedo López y Sneyder Pinilla por carrotanques de La Guajira",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-25",
+      "descripcion": "La Contraloría General de la República declaró en firme la responsabilidad fiscal de los exfuncionarios de la Ungrd Olmedo López y Sneyder Pinilla, junto con dos empresas contratistas, por sobrecostos superiores a $24.000 millones en el contrato de carrotanques para La Guajira. La decisión obliga a los sancionados a responder patrimonialmente por el detrimento fiscal identificado en uno de los episodios centrales del escándalo de la Ungrd durante el gobierno Petro.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/investigacion/caso-carrotanques-de-la-guajira-en-firme-fallo-de-responsabilidad-fiscal-contra-olmedo-lopez-y-sneyder-pinilla-3604170",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Olmedo Lopez",
+        "Sneyder Pinilla"
+      ],
+      "entidad": "Contraloria General de la Republica / Unidad Nacional para la Gestion del Riesgo de Desastres (Ungrd)",
+      "estado": "Condenado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50"
+    },
+    {
+      "id": 3488,
+      "titulo": "Gobierno restablece suministro de energía en el suroccidente del país",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-25",
+      "descripcion": "El gobierno de Abelardo de la Espriella confirmó un avance importante en el restablecimiento del suministro eléctrico en el suroccidente colombiano, tras el apagón masivo causado por explosiones en torres de energía semanas atrás. Las autoridades reportaron la recuperación progresiva del servicio en las zonas afectadas.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-importante-restablecimiento-del-suministro-de-energia-en-el-suroccidente-de-colombia/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3487,
+      "titulo": "Gobierno extradita a exmilitar acusado de filtrar rutas de narcotráfico en el Caribe",
+      "categoria": "seguridad",
+      "fecha": "2026-11-25",
+      "descripcion": "El presidente Abelardo de la Espriella confirmó la extradición a Estados Unidos de Julián David Mosquera Dussán, alias 'Mosca', oficial en retiro de la Armada Nacional, requerido por una corte federal de Tampa, Florida, por presuntamente filtrar rutas de narcotráfico en el Caribe.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/gobierno-extradito-exmilitar-acusado-de-filtrar-rutas-en-el-caribe",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Julian David Mosquera Dussan",
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional / Armada Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3486,
+      "titulo": "Fondo Milagro solo dispone de uno de cada cuatro pesos requeridos para la reconstrucción",
+      "categoria": "dineros",
+      "fecha": "2026-11-25",
+      "descripcion": "Según cifras oficiales, la reconstrucción tras el terremoto de agosto de 2026 requiere $54 billones de pesos, de los cuales el Fondo Milagro dispone actualmente de solo $15,3 billones, es decir, uno de cada cuatro pesos necesarios. El ministro Luis Felipe Henao reconoció la brecha fiscal que enfrenta el proceso de reconstrucción nacional, generando preocupación sobre la capacidad del fondo para cubrir las necesidades de las zonas afectadas.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/fondo-milagro-tiene-uno-de-cada-cuatro-pesos-que-requiere-para-la-reconstruccion-4533128",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Luis Felipe Henao"
+      ],
+      "entidad": "Fondo Milagro / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3485,
+      "titulo": "Fuerzas Militares abaten a cinco miembros del ELN en el Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-22",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la muerte de cinco miembros del ELN en un operativo militar realizado en el Valle del Cauca, en el que además se decomisaron armas. La operación se enmarca en los esfuerzos del gobierno por frenar la expansión de ese grupo armado en la región.",
+      "evidencia": "Reportado por Nacion.com",
+      "fuentes": [
+        {
+          "nombre": "Nacion.com",
+          "url": "https://www.nacion.com/el-mundo/de-la-espriella-anuncia-la-muerte-de-cinco/P6WWBFVVPBAG3PKNSIDXIZMG3Y/story/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerzas Militares / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3484,
+      "titulo": "SAE entrega 24 inmuebles a Cali para damnificados del terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-25",
+      "descripcion": "La Sociedad de Activos Especiales (SAE) entregó 24 inmuebles a la administración distrital de Cali destinados a atender a familias damnificadas por el terremoto de agosto de 2026. Se espera que la alcaldía reciba formalmente los bienes antes del 20 de diciembre de 2026 para su destinación a vivienda u otros usos relacionados con la reconstrucción.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/la-sae-entrego-24-inmuebles-a-cali-para-damnificados-del-terremoto-3604118",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Sociedad de Activos Especiales (SAE) / Alcaldia de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3483,
+      "titulo": "Fiscalía inspeccionará la Presidencia por denuncias de narcotráfico contra Verónica Alcocer",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-24",
+      "descripcion": "La Fiscalía General de la Nación anunció que realizará una inspección en la sede de la Presidencia de la República en el marco de una investigación por presunto narcotráfico, luego de denuncias que involucran a Verónica Alcocer, exprimera dama durante el gobierno de Gustavo Petro. El procedimiento busca recabar evidencia relacionada con las acusaciones formuladas contra ella.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTENNWWl0QlZYWEg5SjZNcG5LblVVX09TMXppM0g0aGMxV0dteHlYSVFjbldqUGdWaUxSNmFIYlRaQkJXZ0NUekMzeGFQUnlTbVFDVm5lMVg0S2ZDTVU3ZTBid1JCcl93bFVLbFVVUDU5eUJQdXhyQm1uaU93cXlfTFdFbFRVN2lJVlJzQlZHamFuckVjRmRYVkgtZ1J1WmtSU1Mzbk9CQV82Uy1DUmhIZkp1MFd0XzNKMl9RSDhuWEZzZjdRUXBJ0gHbAUFVX3lxTFA4MEpqSUlpV3JhckFqaUZyVlRGU1BIdUdqUzBmVlNyOFdpdm5ScVQtcDFhZHBaU1c3SWx1Rl9vM0hBeUd6SEtPUXJNMXhnWDdYX0k3VDctSHkzSHloRlZQcDVZQko0SnBuZTJwcnIwQ01fblFUaHZJd2xHM1hGb2cyRDNsVTJXWVhZTzE5bmtpRHN5ajVlbFFhLVhDZnJ6UHd2YXJxZ2pwbTYwVENkMWMwOXJLcWk1X2c0U2YwVnRvTDdMeTZaaEYwS1p2cUtYaWVIS2xVWFdJa0ZyZw?oc=5",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [
+        "Veronica Alcocer"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Presidencia de la Republica (gobierno Petro)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50"
+    },
+    {
+      "id": 3482,
+      "titulo": "Ecopetrol y Hocol piden ser reconocidas como víctimas en el proceso contra Ricardo Roa",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-25",
+      "descripcion": "Ecopetrol y su filial Hocol solicitaron ante la justicia ser reconocidas como víctimas dentro del proceso penal contra Ricardo Roa, expresidente de la petrolera estatal, acusado de irregularidades contractuales. La solicitud busca que las empresas puedan participar activamente en el proceso judicial y eventualmente reclamar perjuicios derivados de la presunta gestión irregular de Roa al frente de la compañía.",
+      "evidencia": "Reportado por Blu Radio",
+      "fuentes": [
+        {
+          "nombre": "Blu Radio",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1BWYWd5S2dHakEweEwxZGJlblRaWThVTVQ3X3luTGJxckh3SF9jd29mSDRhS3pxMHRZZUlpR1R6YkFhWHpVYklXZ0lSREVSQV91RHd2LWNzamRlYndvWUhFMFM5VlM1alRaUFBEZFRCTnRlaUw1aG4tSFUzaWxtdHJXaGRYZkt1bEVYd0pwT0RtQ1MxUHRHZXU1c2czc2dTM1poMWtxN21sZWdSQlMtb2l5T2NCWndLNnh4UmtWeXRwcG8tQ1d0NdIB1gFBVV95cUxQT3dpdjdmbkItemhiU2tNNnlhSXhxUHJpb3lBZXVXX3lIZ0RkZjY1R0U2alFFREhIcUxoWEREdGtvQUR5eUF5ZUQzOV9vWDlqY1VVSGp2ZDdhdG5TSEdCVDd5YnRxWGVSX1k2a2VsUnRtaVREcS1WSGJ6eXBCUEpyX05hNm9pckNPZ3J5YXlRU09uUmZCNW1pZjZOZGZZdEc5OFJQaFpuMlNxV1NuTjBYZlZsbWRFWHBPMXdzSHJSd2daRDVDUmxXelJiM09vcm1JN3B4dzlR?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Ecopetrol / Hocol / Fiscalia General de la Nacion",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50"
+    },
+    {
+      "id": 3481,
+      "titulo": "Fiscalía presenta escrito de acusación contra Ricardo Roa por irregularidades en Ecopetrol",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-25",
+      "descripcion": "Se conoció el escrito de acusación de la Fiscalía contra Ricardo Roa, expresidente de Ecopetrol, por presuntas irregularidades contractuales durante su gestión y por la compra de un inmueble en Bogotá bajo circunstancias cuestionadas. El documento formaliza el paso del caso a la etapa de juicio, en medio de los señalamientos de corrupción contra funcionarios del gobierno Petro en la estatal petrolera.",
+      "evidencia": "Reportado por Howl.Link",
+      "fuentes": [
+        {
+          "nombre": "Howl.Link",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9vWjZ6c3hucUE1cVFxNzNjWEhNUGVPcjFDalVkZy1BaTh2RWNHTXFRNzVmc2l1V2FGd0tv?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Ecopetrol",
+      "estado": "Juicio",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50"
+    },
+    {
+      "id": 3480,
+      "titulo": "Exsecretario de Cancillería acusado por irregularidades en contrato de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-11-25",
+      "descripcion": "La Fiscalía acusó a José Antonio Salazar, exsecretario general del Ministerio de Relaciones Exteriores, por presuntas irregularidades en la adjudicación del contrato de pasaportes. Se le atribuye haber reactivado una licitación previamente declarada desierta para adjudicarla de forma irregular, así como la compra de tres predios sin justificación financiera aparente. El caso se suma a los escándalos relacionados con el manejo de la expedición de pasaportes durante el gobierno Petro.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/jose-antonio-salazar-exsecretario-de-cancilleria-acusado-por-irregularidades-en-contratos-de",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "José Antonio Salazar"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Cancilleria",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-25 16:50"
+    },
+    {
       "id": 3479,
       "titulo": "Pacto Histórico rompe quórum y frena debate de adición presupuestal en Cámara",
       "categoria": "economia",
@@ -81151,7 +81550,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-25",
-    "total_casos": 3390,
+    "total_casos": 3407,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
