@@ -221,6 +221,400 @@
   ],
   "casos": [
     {
+      "id": 3534,
+      "titulo": "Nueva denuncia por presunto diploma falso contra representante del Pacto Histórico",
+      "categoria": "mentiras",
+      "fecha": "2026-11-26",
+      "descripcion": "Semana reporta una nueva denuncia contra un representante a la Cámara del Pacto Histórico por presuntamente haberse graduado como bachiller a los 9 años, lo que generaría dudas sobre la autenticidad de su diploma académico. El caso se suma a la serie de denuncias sobre títulos académicos falsos en el Congreso, que ya incluye a otros 30 congresistas señalados y a la representante suspendida Luz Verónica Estrada.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/bachiller-a-los-9-anos-nueva-denuncia-contra-representante-del-pacto-por-presunto-diploma-falso/202643/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Representante del Pacto Historico (no identificado en el resumen)"
+      ],
+      "entidad": "Congreso de la Republica / Pacto Historico",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25"
+    },
+    {
+      "id": 3533,
+      "titulo": "MinHacienda reporta ejecucion de apenas 0,027% de los recursos del Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-11-25",
+      "descripcion": "El Ministerio de Hacienda reporto que la ejecucion real de los recursos asignados al Fondo Milagro para la reconstruccion tras el terremoto es de solo 0,027%, una cifra extremadamente baja que genera preocupacion sobre la velocidad de la respuesta estatal a los damnificados.",
+      "evidencia": "Reportado por La Silla Vacía",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacía",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFUwU1ZTeXlaM29uQ3p2YjMzZlg1NHFhNEdFZ1dzakVHTmlVRHFUV0R0VFZDWFJsWUVLaUpCTG9lUDh5c25tTl9TTmtwMTRRamJUeFJ3YkdSVHlULTk0RjF1RlY3anJJWXV3WGUzMmdGZFE2ZTlkclU0clpTeTU0OUdvMjhHOWxjSzNDeVFnNlBFTHplUVA0YU84NVJ4LUthOXkw?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Hacienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3532,
+      "titulo": "Fondo Milagro detalla distribucion de recursos: 77% para cuatro sectores",
+      "categoria": "dineros",
+      "fecha": "2026-11-26",
+      "descripcion": "El Fondo Milagro revelo el plan de gasto de sus recursos para la reconstruccion tras el terremoto, indicando que cuatro sectores concentraran el 77% de los dineros disponibles, en medio del seguimiento ciudadano sobre la ejecucion de los fondos de emergencia.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDhqandZR1ZDRUJTUzNIdk5LOXJHZTBqb284UW91LUdGWU5WX2JBcEFJSEZYT0pqN0FYSTZmbEI1ZXN0WU9nZnlTNGNDTU1TRHRCQkFVcDliTy1FUE1ZT2JqellLeWh1YnZraWlVdUQ1eDVCcjdDRmJHaHdlQnVhSWotTDk1c3F1U3lKYkU0Y0d5Sm1LVG5FQ2lVNlpXOFJHYnE3NExUN0p0UVYtNEJ1SzhGZG5uNlZfdTVnQXdTQ3dXb0xCR3gyRkpWMnNvTHZUTHfSAdcBQVVfeXFMTUZ0WUFkODJFVXRfZzJVT3QtTmZ5Mkd3NzFtQkZYTHVGcW1oZ1duWURqNjVsaGh3Z3pQTS1sd3JWNHBJS083VEtzZGtJb0RqUmxHNHg4RHUtMG1xODczdi1wUzFPQ1hodTBvLU9rT3VCTldtUUd5RzVOS3NUUFdIWlB1STR6ZU1YQkw3djdyak1TcS1ySmdkNzdBblpPY2Q2OHRFVHBYT3pPOEtGV0xNeExmTkl0TDhSdmpxZmc2c09yeWZpNTR6QkM2aVc2cW9oRjVyX3pPWEk?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3531,
+      "titulo": "Manizales habilita puntos de orientacion para damnificados del terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-26",
+      "descripcion": "La Alcaldia de Manizales habilito seis puntos de orientacion en distintas zonas de la ciudad para que los damnificados por el terremoto del 10 de agosto reciban informacion sobre recuperacion de viviendas, intervenciones en edificaciones y medidas para familias y actividades economicas afectadas.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/seis-zonas-de-manizales-tienen-puntos-de-orientacion-para-los-damnificados-por-el-terremoto/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Manizales",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "positivo"
+    },
+    {
+      "id": 3530,
+      "titulo": "Gobierno pide ahorro energetico por sequias del fenomeno de El Nino",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-26",
+      "descripcion": "El Gobierno De la Espriella hizo un llamado a los hogares colombianos para ahorrar energia ante las sequias provocadas por el fenomeno de El Nino, que segun las autoridades se extenderia hasta mayo del proximo ano.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-urge-a-hogares-ahorrar-energia-por-sequias-del-fenomeno-de-el-nino/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3529,
+      "titulo": "Operativos en Cauca dejan capturas de ELN y rescate de secuestrado pese a ataques",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "En medio de la violencia en Cauca, dos policias fueron asesinados en una emboscada armada. En respuesta, el Ejercito y el Gaula de la Policia rescataron a un hombre que llevaba 75 dias secuestrado, capturaron a nueve integrantes del ELN y dieron de baja a otro miembro del grupo armado.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/continua-la-violencia-en-cauca-dos-policias-fueron-asesinados-en-una-emboscada-armada",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ejercito Nacional / GAULA Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3528,
+      "titulo": "Congreso debate reconstruccion de $58 billones tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-26",
+      "descripcion": "Una comision especial de 51 congresistas, respaldada por resolucion de las presidencias de Senado y Camara, debatira en el Congreso el plan de reconstruccion valorado en $58 billones tras el terremoto de agosto de 2026, en seguimiento al manejo de los recursos destinados a la emergencia.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/congreso-debatira-ayudas-tras-terremoto-cuya-reconstruccion-vale-58-billones",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
+      "id": 3527,
+      "titulo": "Gobierno restringe nuevos contratos de arriendo como medida de austeridad",
+      "categoria": "transparencia",
+      "fecha": "2026-11-26",
+      "descripcion": "El Gobierno Nacional lanzo una nueva medida interna de austeridad que restringira la firma de nuevos contratos de arriendo para entidades publicas, como parte de la politica de ajuste fiscal del gobierno De la Espriella.",
+      "evidencia": "Reportado por El Espectador",
+      "fuentes": [
+        {
+          "nombre": "El Espectador",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaUg1LU5BMUJMN2RxZjYtRWhSbEs3NUt1MTlBbnBfOHhyTThBWEpSUnlqTTdqYzdDb2F2eFJwTnF4X2kwNDN5bnNXaVhYam05eS1WUzVuWlp3T2NYdjhlTllSVkZFSHZJVk12ZHpnUDBKYjliSnVZbUVGRDNpNkZuU0FkWkh5SWJkQ0wzWmdrejdGMFdVNVZjSDBTeXFEWjAyeDU5ekRZd0RidU5ycVNnd25vWWZEWExxbWVmTzBkU1lxdHRqaTVPU3N3V1pQb09KWDUtLW1kV0ZXNDJVajdkVWFaQl9yMHkybklUU0NESmdUSWQzQlVHQi1nMNIBjwJBVV95cUxOaTc3OHhLSU5OcGlYYlVuM01nbTd4MC1JbWJwb3l6eVdIRThqM0MtZjNDYUxuVHVaTmN1RDd2QUV1NWJjS25Vckg0Q0phWUFOYW1SVzBzS1pKWjdBTVZIRVFBSEJoTXFQMjlBeWxzd3B1emZ0VzA2ZExSSU1TX1dwRmY5OEhKYTAycWpfVlFwLVk0R2Y0Qzlya0NmRkpxR1g0UTVYaXJkNHZwZlVNazhtREJVQVVXVk1BamFRU3o2N0VXMUFtcTlkUmF2dFJvSU0yRm1jVHBWYXhvMjJsekVhdThscXFrSmlRWWN4aHhrbHpHb3dpQkIzRGIxeFhSYzdCaTJzTVAzeGxaUnZlQmVj?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3526,
+      "titulo": "ANT formaliza tierras entregadas sin titulo durante el gobierno Petro",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-26",
+      "descripcion": "La Agencia Nacional de Tierras (ANT) inicio la formalizacion de predios que fueron entregados sin titulo durante el gobierno Petro, beneficiando por ahora a 16 familias de Cimitarra que recibieron tierras sin documentos legales validos, evidenciando irregularidades previas en la entrega de predios.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/ant-empieza-a-formalizar-tierras-que-fueron-entregadas-sin-titulo-durante-el-gobierno-petro-3604536",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Tierras (ANT)",
+      "estado": "Comprobado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25"
+    },
+    {
+      "id": 3525,
+      "titulo": "Manizales aplaza financiacion para reconstruccion tras anuncios del Fondo Milagro",
+      "categoria": "dineros",
+      "fecha": "2026-11-26",
+      "descripcion": "La Alcaldia de Manizales aplazo un proyecto de financiacion para la reconstruccion tras nuevos anuncios de recursos del Fondo Milagro que modificaron el panorama presupuestal de la ciudad, generando incertidumbre sobre el flujo de dineros para la reconstruccion.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/manizales-aplaza-proyecto-de-financiacion-para-la-reconstruccion-tras-anuncios-del-fondo-milagro/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Manizales / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "negativo"
+    },
+    {
+      "id": 3524,
+      "titulo": "Risaralda evalúa impacto del terremoto en las finanzas municipales",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-26",
+      "descripcion": "Autoridades de Risaralda analizan las dificultades fiscales que enfrentan los municipios del departamento tras el terremoto del 10 de agosto, mas alla de la reconstruccion de viviendas y edificaciones, evidenciando presion sobre las finanzas locales para atender la emergencia.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/risaralda-evalua-el-impacto-del-terremoto-en-las-finanzas-municipales/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Risaralda / Alcaldias de Risaralda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 3523,
+      "titulo": "Gobierno proyecta $20,1 billones en vivienda y agua para el cuatrienio",
+      "categoria": "obras",
+      "fecha": "2026-11-26",
+      "descripcion": "El ministro de Vivienda, Jaime Beltran, anuncio una proyeccion de inversiones por $20,1 billones en vivienda y agua durante el cuatrienio del gobierno De la Espriella, destacando el mecanismo de Obras por Impuestos como clave para financiar la reconstruccion y reactivar el sector de la construccion.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-proyecta-inversiones-por-20-1-billones-en-vivienda-y-agua-durante-el-cuatrienio-4534053",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Jaime Beltran"
+      ],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3522,
+      "titulo": "Ataque con dron terrorista contra iglesia en Dagua, Valle del Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "Un ataque con dron explosivo, presuntamente dirigido contra una subestacion de Policia, impacto por error en una iglesia del corregimiento El Carmen, en Dagua, Valle del Cauca, el 25 de noviembre. El presidente Abelardo de la Espriella califico el hecho como 'un acto de barbarie' atribuido a un grupo armado organizado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/atentado-terrorista-dron-iglesia-dagua-abelardo-espriella-declaracion-acto-barbarie-MB44103168",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3521,
+      "titulo": "Operacion Iron III golpea bandas criminales en Cali, Yumbo y Jamundi",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "La Operacion Iron III dejo como resultado 89 capturas y mas de 100 allanamientos contra 11 bandas criminales que operaban en Cali, Yumbo y Jamundi, segun reporto Semana.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/cali/articulo/operacion-iron-iii-golpeo-a-11-bandas-criminales-en-cali-yumbo-y-jamundi-89-capturados-y-mas-de-100-allanamientos/202652/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3520,
+      "titulo": "Gobierno relanza subsidio de vivienda como 'Mi Casa Milagro'",
+      "categoria": "economia",
+      "fecha": "2026-11-26",
+      "descripcion": "El Gobierno de Abelardo de la Espriella confirmo el regreso del subsidio de vivienda 'Mi Casa Ya', ahora denominado 'Mi Casa Milagro', con creditos a tasas cercanas al 2%. El ministro de Vivienda aseguro que los recursos estan previstos en el Plan Nacional de Desarrollo, aunque aun no se conocen requisitos ni presupuesto total.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/26/gobierno-de-abelardo-de-la-espriella-confirmo-el-regreso-del-subsidio-de-vivienda-mi-casa-ya-ahora-se-llamara-mi-casa-milagro/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3519,
+      "titulo": "Feria de vivienda para damnificados en Cali con $50.000 millones",
+      "categoria": "avances",
+      "fecha": "2026-11-25",
+      "descripcion": "El Gobierno Nacional destina $50.000 millones para una feria de vivienda dirigida a damnificados del terremoto en Cali, como parte de las medidas de reconstrucción en el Valle del Cauca.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdzBEaGk0dkpBZ1dVam5OLURoaU9vc0FLeC0ycGUwWFVNQkNjSWZnR0ZmOW5SckxlbG84dWdlUHl1RXVUMzY1c2otMXQwbXlfQk1GQTk5QTctd0ZsMndtNHFTNjRmWVJVa0RGZlByQ3E2SHZNcTJaZUNHRW03UllfR0VYWi15clRQYnpYNXFTV1Z1bE5qeDRWMHNEVElNT19MczI4Yjg5clM4TGhvSDhmTUhNVGlPeHdOMWl5SDJKT3BNbWIyLVRQRDlGNk9yX1XSAdQBQVVfeXFMTktvTldWRlVjeFQ2cGlwWmZXWHkxYkowU29Uek44aWwxQ1ZzN0VkNUFsVnFBQUZfX3JwZmNUbmtFMThZMThqZ1ZSLXl5WGhzR2ZZbUxXU1dNZTFtcUczTFQtMC1FTXRXS0RiZ1VyUkZTazM1RUw5cVlaMmxjRUJiWlMwcjFpZWlWMzVCOGFVTG43WlpWMF9RSFpaQ2RhTHpEX18tMi1mcGcwOS1mVHJLdVJJWkRvd1MtNUJSU2VuVGNEQXVpZElKZ0tnVHNOdFVMNXd4RWU?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Alcaldia de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3518,
+      "titulo": "Gobierno denuncia campaña de ataques contra el Fondo Milagro",
+      "categoria": "denuncias",
+      "fecha": "2026-11-26",
+      "descripcion": "Funcionarios denuncian una presunta campaña de ataques y desinformación contra el Fondo Milagro en medio del proceso de reconstrucción tras el sismo de agosto, en respuesta a cuestionamientos sobre el manejo de los recursos destinados a la emergencia.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzZfbDNvYW5RQklwTGRic0t3OGVZRXpyYnFtUW9EdTdnRXdib2gtSWxfSG5US2lxLXFBNmdQSlpmLXRMZUZjV2tRQmRxdGlxS01pd1VRcnhrVmpUa2NRVENnQVl0WVpBazNRR1dBY0NZN1d6T21ubGF0UTZsYVZwNXc3QXg4bHhadURKNTdGWlJraVpyS0N4Y0VjeFJ3Q3FMTlhTOHA1Q3dVNzBza2VtMllzc1ZqWU5MT3VSVzV6QXh4UTBQbE5JcDB2NNIB3wFBVV95cUxPQ0Y1aGMxQ2RpRVBsYS02eF9VMzFsTkloeFRIZDVzUUJRQ25hQ2lidklraV85Y2JETl9fdDlJR3dkUUdSYURELXNzVzRacGtYU1ZxOEFscTF4T2tESTBSWlpYdlJOZWd2bFJ3MzlkU3FuZ2h6YmJWRjE1MnlmeUZabENqTEJteldsbFhnUENqS3BYbHFXbnVDS2duTUxydkpnbFBjd1pwVzc3NzJBbGNOTFRCU0tCb0VvNHVkbHZ0OFRHYVdjclZZbmdIek92WndQb0w0NzhGUm80eWViZ2lV?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-26 16:25",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "neutro"
+    },
+    {
       "id": 3517,
       "titulo": "Encuesta DatAnálisis mide imagen favorable de De la Espriella en 52%",
       "categoria": "opinion-publica",
@@ -82039,7 +82433,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-26",
-    "total_casos": 3428,
+    "total_casos": 3445,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
