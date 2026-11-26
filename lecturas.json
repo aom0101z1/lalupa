@@ -23,9 +23,285 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-25"
+    "ultima_actualizacion": "2026-11-26"
   },
   "lecturas": [
+    {
+      "id": 914,
+      "titulo": "Astrónomos detectan un posible agujero negro primordial anterior a las primeras estrellas",
+      "resumen": "Un objeto llamado Phoebe, detectado al magnificar brevemente una estrella distante, podría ser un agujero negro primordial formado justo después del Big Bang. Tiene una masa estimada de apenas tres veces la de la Luna y unos 13.000 millones de años de antigüedad, lo que ofrece nuevas pistas sobre la naturaleza de la materia oscura.",
+      "por_que_leerlo": "Para entender cómo un hallazgo diminuto podría ayudar a resolver uno de los mayores misterios de la física moderna.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujero negro",
+        "materia oscura",
+        "astrofisica",
+        "big bang"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 915,
+      "titulo": "Misión europea Hera revela el caos real que dejó el impacto de DART en un asteroide",
+      "resumen": "La sonda europea Hera llegó al asteroide Dimorphos tras el experimento DART de la NASA y encontró una escena mucho más caótica de lo esperado tras el impacto deliberado. Los científicos reconocen que el desprendimiento de material fue enorme, pero hasta ahora no sabían exactamente qué tipo de desorden había generado la colisión.",
+      "por_que_leerlo": "Muestra en vivo cómo funciona realmente la defensa planetaria contra asteroides, más allá de las simulaciones de laboratorio.",
+      "seccion": "ciencia",
+      "tags": [
+        "asteroides",
+        "defensa planetaria",
+        "espacio",
+        "dart"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 916,
+      "titulo": "La IA ya resuelve en minutos cálculos que a físicos teóricos les tomaba un día entero",
+      "resumen": "Modelos de IA de frontera están resolviendo problemas de física teórica que antes requerían una jornada completa de trabajo de los mejores especialistas. Esto obliga a la comunidad científica a repensar qué significa hacer física teórica en la era de la inteligencia artificial.",
+      "por_que_leerlo": "Anticipa cómo la IA está a punto de transformar el trabajo intelectual más especializado, no solo las tareas rutinarias.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "física",
+        "investigación científica",
+        "automatización"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 917,
+      "titulo": "La FCC aprueba el plan de SpaceX para instalar centros de datos de IA en el espacio",
+      "resumen": "La Comisión Federal de Comunicaciones de EE.UU. aprobó el plan de SpaceX para desplegar centros de datos de inteligencia artificial en órbita, descartando objeciones —incluidas amenazas a la investigación científica— por considerar que quedan fuera de su jurisdicción regulatoria.",
+      "por_que_leerlo": "Marca el inicio de una carrera por sacar la infraestructura de IA del planeta, con implicaciones energéticas y regulatorias enormes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "spacex",
+        "centros de datos",
+        "inteligencia artificial",
+        "espacio"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 918,
+      "titulo": "Google publica investigaciones de IA sobre factorización de enteros y logaritmos discretos",
+      "resumen": "Google Research liberó una serie de papers bajo el nombre 'Cogentic' que exploran cómo la inteligencia artificial puede abordar problemas matemáticos clásicos como la factorización de enteros y los logaritmos discretos, pilares de buena parte de la criptografía actual. El repositorio generó fuerte debate en la comunidad técnica por sus posibles implicaciones en seguridad informática y computación cuántica.",
+      "por_que_leerlo": "Entender hacia dónde apunta la IA aplicada a problemas matemáticos que sostienen la seguridad digital del mundo entero.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "criptografia",
+        "matematicas",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 919,
+      "titulo": "Nuevo inhibidor restaura la eficacia de un antibiótico contra bacterias resistentes MRSA",
+      "resumen": "Investigadores del Imperial College London identificaron una molécula pequeña capaz de restaurar la actividad del antibiótico ciprofloxacino contra Staphylococcus aureus resistente a la meticilina (MRSA). El hallazgo abre una vía para combatir una de las bacterias multirresistentes más peligrosas sin necesidad de crear un antibiótico completamente nuevo.",
+      "por_que_leerlo": "Porque muestra una estrategia concreta y de bajo costo para enfrentar la resistencia a los antibióticos, un problema que mata a millones cada año.",
+      "seccion": "ciencia",
+      "tags": [
+        "antibioticos",
+        "resistencia bacteriana",
+        "salud",
+        "mrsa"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-inhibitor-antibiotic-drug-resistant-bacteria.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 920,
+      "titulo": "Un nuevo cálculo sugiere que la teoría de Einstein no explica del todo el Big Bang",
+      "resumen": "Físicos del MIT y UC Santa Barbara hallaron que el modelo clásico de Einstein sobre el movimiento de partículas no logra explicar ciertos impulsos extremos que sufren quarks pesados al moverse por un plasma ultracaliente cerca de la velocidad de la luz. El resultado sugiere que falta algo importante en la descripción física de los primeros instantes del universo.",
+      "por_que_leerlo": "Porque cuestiona un pilar de la física que se daba por sentado desde hace 120 años.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica",
+        "big bang",
+        "einstein",
+        "particulas"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-24",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 921,
+      "titulo": "Fotosíntesis artificial convierte CO2 de desecho en un hongo comestible rico en proteína en siete días",
+      "resumen": "Un sistema de fotosíntesis artificial transforma CO2 residual en un hongo comestible con alto contenido de proteína en apenas una semana, sin requerir las cantidades de tierra y agua que exige la ganadería. La innovación responde a una demanda de proteína que se espera crezca cerca de 50% para mediados de siglo.",
+      "por_que_leerlo": "Porque plantea una idea de negocio concreta para producir proteína con una huella ambiental mucho menor.",
+      "seccion": "tecnologia",
+      "tags": [
+        "proteina alternativa",
+        "sostenibilidad",
+        "co2",
+        "alimentos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 922,
+      "titulo": "Una app con inteligencia artificial identifica productos ilegales de fauna silvestre",
+      "resumen": "Una nueva aplicación basada en inteligencia artificial permite identificar, usando solo la cámara del celular, productos derivados del comercio ilegal de vida silvestre como marfil, escamas y polvos de origen animal. El tráfico ilegal de especies es uno de los principales motores de pérdida de biodiversidad en el mundo.",
+      "por_que_leerlo": "Porque es un ejemplo concreto de cómo la IA aplicada puede combatir el crimen organizado con una herramienta simple y accesible.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "crimen",
+        "conservacion",
+        "app"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 923,
+      "titulo": "S&P evalúa bajarle la calificación crediticia a Nvidia por riesgos de gobierno corporativo",
+      "resumen": "La agencia calificadora S&P estudia reducir la calificación crediticia de Nvidia a AA-, la cuarta más alta, citando riesgos de gobernanza y dependencia excesiva de su liderazgo. La decisión podría afectar el costo de financiamiento de la empresa más valiosa del mundo en chips de IA.",
+      "por_que_leerlo": "Da una señal temprana, con cifras concretas, de que el mercado empieza a cuestionar los riesgos detrás del boom de Nvidia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "nvidia",
+        "calificación crediticia",
+        "gobierno corporativo",
+        "inversión"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 924,
+      "titulo": "España tiene gas asegurado para el invierno, pero la crisis de Ormuz le costará 6.000 millones de euros",
+      "resumen": "Desde que Irán bloqueó parcialmente el tránsito energético por el estrecho de Ormuz en febrero, el mundo enfrenta escasez de crudo y gas con alzas de precios que golpean hogares, industria y transporte. España tiene reservas suficientes para pasar el invierno, pero el sobrecosto energético derivado de la crisis se estima en 6.000 millones de euros.",
+      "por_que_leerlo": "Dimensiona en cifras concretas cómo un conflicto geopolítico lejano se traduce en costos reales para la economía de un país.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "energia",
+        "geopolitica",
+        "gas natural",
+        "espana"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/espana-tiene-gas-para-afrontar-invierno-crisis-ormuz-le-va-a-costar-6-000-millones-euros"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
+    {
+      "id": 925,
+      "titulo": "Xiaomi encadena tercer trimestre con caída de ingresos por el alza de precios de memoria",
+      "resumen": "Xiaomi reportó una caída del 68% en su beneficio neto trimestral, hasta 3.900 millones de yuanes (unos 535 millones de euros), debido al encarecimiento de los chips de memoria que los centros de datos de IA están absorbiendo en gran escala. La compañía, que construyó su éxito en móviles baratos, ahora se ve forzada a vender menos unidades pero a precios más altos.",
+      "por_que_leerlo": "Muestra con cifras concretas cómo la demanda de infraestructura de IA ya está reconfigurando los costos y modelos de negocio de toda la industria electrónica de consumo.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "xiaomi",
+        "cadena de suministro",
+        "inteligencia artificial",
+        "semiconductores"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/xiaomi-ha-construido-su-exito-moviles-baratos-crisis-memorias-le-esta-obligando-a-vender-caro"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-26 04:45",
+      "auto_generated": true
+    },
     {
       "id": 903,
       "titulo": "Físicos atrapan antimateria en un avance que podría explicar por qué existe el universo",
