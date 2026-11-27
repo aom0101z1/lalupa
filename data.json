@@ -221,6 +221,449 @@
   ],
   "casos": [
     {
+      "id": 3553,
+      "titulo": "Proindesa presenta iniciativas privadas por $4 billones ante la ANI",
+      "categoria": "obras",
+      "fecha": "2026-11-26",
+      "descripcion": "La firma Proindesa presentó dos iniciativas privadas (IP) por $4 billones ante la Agencia Nacional de Infraestructura tras la posesión del nuevo Gobierno, y alista otras dos propuestas para proyectos de infraestructura vial, según declaró su presidente Alberto Mariño a Portafolio (26 de noviembre de 2026).",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/infraestructura/primicia-proindesa-presento-dos-ip-por-4-billones-ante-la-ani-y-alista-otras-dos-para-infraestructura-vial-507191",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Alberto Mariño"
+      ],
+      "entidad": "Proindesa / Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3552,
+      "titulo": "Aeropuerto de Cartagena avanza en modernizacion tras acuerdos con la ANI",
+      "categoria": "obras",
+      "fecha": "2026-11-27",
+      "descripcion": "La ANI, el Gobierno y la concesión definieron compromisos sobre terrenos, vías y espacio público que permitieron destrabar las obras de modernización del aeropuerto de Cartagena, las cuales registran un avance del 11%, según Valora Analitik (27 de noviembre de 2026).",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/aeropuerto-de-cartagena-avanza-en-su-modernizacion-tras-acuerdos-para-destrabar-obras/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3551,
+      "titulo": "Gobierno refuerza seguridad de medios de comunicacion en Bogota",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "El Gobierno Nacional activó un plan operativo para reforzar de manera inmediata los esquemas de seguridad en sedes periodísticas de Bogotá, incluyendo despliegue de capacidades de inteligencia para evitar ataques contra comunicadores, según El Nuevo Siglo (26 de noviembre de 2026).",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/gobierno-activa-medidas-de-seguridad-para-proteger-medios-en-bogota",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3550,
+      "titulo": "Extraditan a exalcalde de Pupiales por nexos con el Cartel de La Guajira",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "El exalcalde de Pupiales (Nariño), Wylton Belalcázar, será extraditado a Estados Unidos por su presunta vinculación con la organización denominada 'Cartel de La Guajira'. El exmandatario asumió la alcaldía dos años atrás y es investigado por sus nexos con la estructura criminal, según reportó El Nuevo Siglo el 26 de noviembre de 2026.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/exalcalde-de-pupiales-wylton-belalcazar-sera-extraditado-estados-unidos",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Wylton Belalcázar"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3549,
+      "titulo": "Gobierno fija meta de reducir pobreza monetaria al 20% para 2030",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El gobierno de Abelardo De la Espriella establecio como meta sacar a 3,6 millones de colombianos de la pobreza monetaria antes de finalizar 2030, reduciendo la tasa al 20%, mediante componentes de empleo, emprendimiento y formacion para el trabajo.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/reducir-la-pobreza-monetaria-al-20-en-2030-la-meta-de-politica-social-de-abelardo-de-la-espriella/202643/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3548,
+      "titulo": "Denuncia por titulos falsos contra miembro de la UTL de Claudia Romero",
+      "categoria": "mentiras",
+      "fecha": "2026-11-27",
+      "descripcion": "La representante Angie Rodriguez denuncio presuntos titulos academicos falsos de una integrante de la Unidad de Trabajo Legislativo (UTL) de la congresista Claudia Romero, quien tambien es senalada de alterar diplomas.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/angie-rodriguez-denuncio-posibles-titulos-falsos-de-un-miembro-de-la-utl-de-claudia-romero-tambien-senalada-de-alterar-diplomas/202621/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodriguez",
+        "Claudia Romero"
+      ],
+      "entidad": "Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32"
+    },
+    {
+      "id": 3547,
+      "titulo": "Coche bomba deja 23 heridos en Villavicencio",
+      "categoria": "seguridad",
+      "fecha": "2026-11-24",
+      "descripcion": "Una explosion de coche bomba dejo al menos 23 heridos en Villavicencio, destruyendo un restaurante y danando fachadas y ventanas de inmuebles cercanos a la sede del gobierno departamental, en un nuevo atentado durante el gobierno De la Espriella.",
+      "evidencia": "Reportado por Aristeguinoticias.com",
+      "fuentes": [
+        {
+          "nombre": "Aristeguinoticias.com",
+          "url": "https://aristeguinoticias.com/2411/mundo/explosion-de-coche-bomba-deja-al-menos-23-heridos-en-villavicencio-colombia",
+          "fecha": "2026-11-24"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3546,
+      "titulo": "Capturan a dos mujeres con subfusil aleman vinculado a bandas de Antioquia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "Dos mujeres fueron capturadas en un bus de servicio publico que se movilizaba desde Norte de Santander hacia Medellin, portando un subfusil aleman que habria terminado en manos de bandas criminales en Antioquia.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-pistas-del-subfusil-aleman-que-habria-terminado-en-manos-de-bandas-criminales-en-antioquia-3604582",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional",
+      "estado": "Imputado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3545,
+      "titulo": "Avanzan mayorías para reforma tributaria y ley de ajuste fiscal",
+      "categoria": "economia",
+      "fecha": "2026-11-26",
+      "descripcion": "Tras la aprobación de la adición presupuestal de 2026, el gobierno busca consolidar mayorías en el Congreso para sacar adelante la reforma tributaria y la ley de ajuste fiscal, aunque los votos dependeran de los cambios que se negocien en la ponencia de las comisiones economicas.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/congreso/asi-estan-las-mayorias-para-la-reforma-tributaria-y-ley-de-ajuste-fiscal-el-gobierno-avanza-pero-los-votos-dependen-de-los-acuerdos-3604645",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Congreso de la Republica / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3544,
+      "titulo": "Gobierno anuncia nueva ola de megaproyectos viales",
+      "categoria": "obras",
+      "fecha": "2026-11-26",
+      "descripcion": "El presidente de la ANI, Ricardo Ayerbe, detalló un nuevo programa de concesiones para construir carreteras esperadas desde hace años en el pais, como parte de la agenda de infraestructura del gobierno De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-destapa-nueva-ola-de-megaproyectos-carreteras-esperadas-hace-anos/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Ayerbe"
+      ],
+      "entidad": "Agencia Nacional de Infraestructura (ANI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3543,
+      "titulo": "Colombia presenta ante la OCDE plan de transformación productiva",
+      "categoria": "internacional",
+      "fecha": "2026-11-26",
+      "descripcion": "El gobierno de Abelardo De la Espriella presentó ante la OCDE una hoja de ruta para transformar el sector productivo del país, priorizando agroindustria, bioeconomía y minerales de la transición energética, en linea con el quinto pilar de su politica exterior.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/internacional/colombia-presenta-ante-la-ocde-plan-para-transformar-sector-productivo",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3542,
+      "titulo": "Ataque con dron explosivo mata a policia en Condoto, Choco",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "Un ataque con explosivos lanzados desde un dron contra la estacion de Policia de Condoto, Choco, el 26 de noviembre, hirio gravemente al auxiliar de policia Juan Alcides Murillo Palomino, de 19 anos, quien murio posteriormente. El presidente De la Espriella prometio que los responsables 'van a responder por este asesinato'.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ataque-dron-explosivo-condoto-choco-mato-un-policia-de-la-espriella-pronunciamiento-OD44125821",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Juan Alcides Murillo Palomino"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3541,
+      "titulo": "Gobierno alista reforma a licencias ambientales y consulta previa",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El Gobierno de De la Espriella anuncio que prepara cambios normativos para agilizar el otorgamiento de licencias ambientales y modificar los tramites de consulta previa en Colombia, con el fin de acelerar proyectos de inversion e infraestructura en el pais.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObGRBcHFvN1VUdHdzTDFEd3A5LWxiSVhPaU0yUVFqcmFzQ3dPTUlHTk1iYjdIdTdiY3Zwb1poRHlxZXpkNFQzc1E2bm9vc2pTTHpfWmhxOENvQVpnZmlNOHVTdnotaXR2N3BVRGN0Z3VjbElSd29MY0p2NTMyWEQydEw2TFE4bUhhT0VBVGRId21BNjhoSTdlTU1nTzR2b00wNm5ueHA3SGdVMi1kWW1fTTZrRF9QZGowSHlnbUxnYXdOTmdpcy1sam90VktLcXlneHA5ejlkbDkybUtiUDU4VFY3SzY1TmxPQ3hZVzhwMnpKaGZDSHU0YnZheXNSd25lR3o5OVlNY9IBogJBVV95cUxQX2l5NHFja0hQaVl5WFhjLVY4TXRSZG5jck0yeEVkcmJBODVES2RRMGJiNHlMNDMwTTN4STQzM0VmSDNsSGxjRk1SR0gybW9JaDNuc2xxRVNwajRsSUtFOV9ST2NhM01ZZWdIdUM1cFBYYnk2SjkxZkhmeUZRLWNFYm9uOElyTW5pTlQzVHQ5M0U5eUdYU3RJTFdobzg2d1B4SExHVDM1QzhQWDVNcVZQYnhPZnZoeVVaNXk1ZW9UOXRoWFFxNXF1YlAyNzd0OGVPZThfcDIyWThEaU4wTDYwQWp6eTRDM0NfYTdrUENxTVRGclJBaDlkSnk0a0NFSHdlSS1MSW1NSWQ3ejVyNUJtT1dsRFN4dW1CdDdUWVhHdzJQZw?oc=5",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3540,
+      "titulo": "Exministro Guillermo Jaramillo responde a advertencias sobre procesos en su contra",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-27",
+      "descripcion": "El exministro de Salud del gobierno Petro, Guillermo Jaramillo, respondio con un desafiante 'que me capture' a advertencias del Gobierno Nacional sobre procesos judiciales en curso en su contra, en el marco de senalamientos por su gestion durante el gobierno anterior.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/que-me-capture-exministro-guillermo-jaramillo-respondio-a-advertencias-del-gobierno-sobre-procesos-en-su-contra/202654/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Guillermo Jaramillo"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32"
+    },
+    {
+      "id": 3539,
+      "titulo": "Grupo Argos entrega primer barrio reconstruido en Choco tras el terremoto",
+      "categoria": "avances",
+      "fecha": "2026-11-26",
+      "descripcion": "Grupo Argos anuncio la entrega para el 17 de diciembre de las primeras 40 de 92 viviendas del barrio Milagro de Dios, en el corregimiento El Dos, municipio de Union Panamericana, Choco, marcando el primer barrio completamente reconstruido tras el terremoto de agosto, menos de cinco meses despues del evento.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/grupo-argos-primer-barrio-reconstruccion-viviendas-terremoto-choco-LA44114861",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Grupo Argos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "terremoto",
+      "region": "choco",
+      "signo": "positivo"
+    },
+    {
+      "id": 3538,
+      "titulo": "Carrillo se retracta de senalar a Trujillo y Petro intenta desligarse del escandalo UNGRD",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-27",
+      "descripcion": "El exdirector de la Ungrd Carlos Carrillo se retracto de su senalamiento contra el exsenador Carlos Andres Trujillo como presunto cerebro del escandalo de corrupcion de la Ungrd. El expresidente Gustavo Petro intento desligarse de la responsabilidad de Olmedo Lopez en el caso, lo que genero una respuesta publica de Carrillo atribuyendole el error a Petro.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/petro-carrillo-se-enfrentan-por-corrupcion-caso-ungrd-olmedo-lopez-MA44112583",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Carlos Carrillo",
+        "Olmedo Lopez",
+        "Carlos Andres Trujillo"
+      ],
+      "entidad": "Unidad Nacional para la Gestion del Riesgo de Desastres (Ungrd) / Fiscalia General de la Nacion",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32"
+    },
+    {
+      "id": 3537,
+      "titulo": "De la Espriella ordena operativo sorpresa en carcel Villahermosa de Cali",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "El presidente Abelardo de la Espriella ordeno un operativo sorpresa de requisa en la carcel Villahermosa de Cali, en el que se reportaron hallazgos de elementos no autorizados dentro del penal, como parte de las medidas de seguridad carcelaria del nuevo gobierno.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-ordeno-operativo-sorpresa-en-la-carcel-villahermosa-de-cali-hallazgo-no-paso-desapercibido/202655/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "INPEC / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3536,
+      "titulo": "Proyectos sociales anunciados por Petro con aviones Gripen quedaron sin contratos",
+      "categoria": "mentiras",
+      "fecha": "2026-11-26",
+      "descripcion": "Una investigacion periodistica revela que los proyectos sociales y de salud que el expresidente Gustavo Petro anuncio como contraprestacion de la compra de los aviones de combate suecos Gripen quedaron sin contratos formalizados, en medio de dudas sobre el cumplimiento de los compromisos anunciados por el gobierno saliente.",
+      "evidencia": "Reportado por El Irreverente",
+      "fuentes": [
+        {
+          "nombre": "El Irreverente",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEJGRDNDUFFwRWozeWc4UEhqQjlXeFVJa2hqdjNVbDhzaDBJc3duRGtvQkE0VDZaUDAtQ3QxVkxVOUVBZFh0N3hNTDlzejJNSUJJQlpmT1lzSGE1MU45VlFlSEN0REVTRFBvZjdfS1VTbjVkcGtOaEw0dDd4a01NTUx1ZnhsRzY2b0JOUi1SeW91QXdIMmNFeEFjVEYxLXBfRlVONXZTMndqME1WZDhabGl0OVR1clZqSVN4ak8xTTFGejRW?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Presidencia de la Republica (gobierno Petro) / Ministerio de Defensa",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32"
+    },
+    {
+      "id": 3535,
+      "titulo": "Procuraduría investiga a Iván Name y Andrés Calle por presunta corrupción en la Ungrd",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-26",
+      "descripcion": "La Procuraduría General de la Nación abrió investigación disciplinaria contra el expresidente del Senado Iván Name y el expresidente de la Cámara Andrés Calle por presunta corrupción relacionada con el escándalo de sobornos de la Ungrd, en el marco del entramado de corrupción destapado por Olmedo López y Sneyder Pinilla.",
+      "evidencia": "Reportado por Pulzo",
+      "fuentes": [
+        {
+          "nombre": "Pulzo",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmdHYWVUWE9PdHZZNUpXaTFtNVQ5MC1WZ3RRbUlGSWN6VXc4R3J4QU1kLUh4S2ZFTmQyaWY3cHB4X2hVaEF5UnRJYWdRSXFKVU84bGRHYlNxWUExbHdwOTlSVVJacFhZM2tnbTYwRWN6TTItLURMVzZRR1JrQ2xaaDRRc0wwUHdxLUpYeEVmTkVwdllZVHJURDB1YjU3aGszMGF6NWJyTTVja0NMWVhRYjgyWFp5WGNYd3IwWGdnWFR4VnBtYWJabg?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Ivan Name",
+        "Andres Calle"
+      ],
+      "entidad": "Procuraduria General de la Nacion / Unidad Nacional para la Gestion del Riesgo de Desastres (Ungrd)",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 01:32"
+    },
+    {
       "id": 3534,
       "titulo": "Nueva denuncia por presunto diploma falso contra representante del Pacto Histórico",
       "categoria": "mentiras",
@@ -82432,8 +82875,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-26",
-    "total_casos": 3445,
+    "ultima_actualizacion": "2026-11-27",
+    "total_casos": 3464,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
