@@ -23,9 +23,284 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-26"
+    "ultima_actualizacion": "2026-11-27"
   },
   "lecturas": [
+    {
+      "id": 938,
+      "titulo": "Nvidia detiene envíos de chips de IA al sudeste asiático por presión de EE.UU.",
+      "resumen": "Nvidia pidió a sus socios de manufactura pausar el envío de servidores a Malasia, Singapur, Tailandia e Indonesia mientras Estados Unidos endurece los controles para evitar que sus chips de IA lleguen a China a través de terceros países. La medida golpea una ruta de distribución clave usada hasta ahora para sortear las restricciones de exportación.",
+      "por_que_leerlo": "Entender cómo la guerra tecnológica entre EE.UU. y China reconfigura en tiempo real las cadenas de suministro de chips de IA.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nvidia",
+        "chips ia",
+        "cadena de suministro",
+        "geopolitica"
+      ],
+      "fuente": {
+        "nombre": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 939,
+      "titulo": "Cómo la inteligencia artificial volvió divertido otra vez el self-hosting",
+      "resumen": "Un desarrollador cuenta cómo usar asistentes de IA para configurar, depurar y mantener sus propios servidores le devolvió el gusto por alojar sus propias aplicaciones, algo que antes abandonaba por la fricción técnica. El artículo, con más de 400 puntos en Hacker News, detalla herramientas y flujos de trabajo concretos y replicables.",
+      "por_que_leerlo": "Da ideas prácticas de cómo usar la IA para montar y mantener tu propia infraestructura sin depender de la nube.",
+      "seccion": "tecnologia",
+      "tags": [
+        "self-hosting",
+        "inteligencia artificial",
+        "automatizacion",
+        "servidores"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://janlukas.blog/posts/ai-self-hosting"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 8,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 940,
+      "titulo": "Argentina reforma la Carta Orgánica del Banco Central para limitar el financiamiento al Tesoro",
+      "resumen": "El Congreso aprobó cambios que fijan la preservación del valor de la moneda como mandato exclusivo del Banco Central y restringen el financiamiento monetario al Gobierno. Milei calificó la medida como el fin de '90 años de estafa' ligada a la emisión descontrolada de pesos.",
+      "por_que_leerlo": "Es un caso de estudio sobre cómo las reglas institucionales pueden frenar la inflación crónica causada por el financiamiento monetario del déficit.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "argentina",
+        "banco central",
+        "inflacion",
+        "reforma institucional"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-celebro-la-reforma-de-la-carta-organica-del-bcra-se-termino-con-mas-de-90-anos-de-estafa/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 941,
+      "titulo": "Argentina aprueba régimen RIGI para una inversión de US$50.750 millones en Vaca Muerta",
+      "resumen": "El Gobierno oficializó la aprobación del régimen de incentivos para grandes inversiones (RIGI) que permitirá desembolsar US$50.750 millones en distintas etapas para ampliar la infraestructura de procesamiento y exportación del gas de Vaca Muerta.",
+      "por_que_leerlo": "Muestra cómo un marco regulatorio favorable a la inversión puede atraer capital masivo a un proyecto energético estratégico.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "argentina",
+        "vaca muerta",
+        "inversion",
+        "gas"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-el-gobierno-oficializa-aprobacion-del-rigi-para-una-inversion-de-us50750-millones/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 942,
+      "titulo": "Descubren el cuásar más lejano jamás visto, formado 630 millones de años después del Big Bang",
+      "resumen": "Astrónomos hallaron el cuásar más distante conocido hasta la fecha, el núcleo brillante de una galaxia con un agujero negro supermasivo que ya devoraba materia apenas 630 millones de años después del Big Bang. El hallazgo establece un nuevo récord de distancia y aporta pistas sobre cómo se formaron los agujeros negros gigantes en el universo temprano.",
+      "por_que_leerlo": "Entender cómo crecieron tan rápido los agujeros negros gigantes ayuda a resolver uno de los misterios más grandes de la cosmología moderna.",
+      "seccion": "ciencia",
+      "tags": [
+        "astronomia",
+        "agujeros negros",
+        "cuasar",
+        "universo temprano"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 943,
+      "titulo": "Un estudio cuestiona décadas de teoría sobre cómo funcionan las neuronas del cerebro",
+      "resumen": "Un análisis de registros de actividad neuronal en 43 regiones del cerebro de ratones reveló que la mayoría de las neuronas son 'multitarea' y responden a una amplia variedad de información, en vez de estar altamente especializadas como se creía. El hallazgo desafía un supuesto central en neurociencia sobre la organización funcional del cerebro.",
+      "por_que_leerlo": "Cambia una idea básica sobre cómo procesa información el cerebro, algo relevante para cualquiera interesado en neurociencia o en cómo se inspiran los modelos de inteligencia artificial.",
+      "seccion": "ciencia",
+      "tags": [
+        "neurociencia",
+        "cerebro",
+        "neuronas",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 944,
+      "titulo": "Nuevos experimentos amplían la búsqueda de la materia oscura 'ultraligera'",
+      "resumen": "Físicos están diseñando experimentos novedosos para detectar la materia oscura ultraligera, una hipotética forma de masa faltante del universo mucho más liviana que las partículas candidatas tradicionales. Estos montajes usan técnicas de precisión para buscar señales que los detectores convencionales no pueden captar.",
+      "por_que_leerlo": "Ofrece un vistazo a cómo la física experimental de vanguardia ataca uno de los mayores misterios sin resolver del cosmos.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica",
+        "materia oscura",
+        "experimentos",
+        "cosmologia"
+      ],
+      "fuente": {
+        "nombre": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 6,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 945,
+      "titulo": "El drenaje de turberas explica una parte del calentamiento global desde 1800",
+      "resumen": "Un nuevo cálculo detallado que se remonta a 1800 estima cuánto carbono ha sido liberado por el drenaje de turberas en todo el mundo para uso agrícola y forestal. El análisis sugiere que esta práctica, poco discutida frente a otras fuentes de emisiones, aporta unos pocos puntos porcentuales al calentamiento global acumulado.",
+      "por_que_leerlo": "Da una cifra concreta sobre cuánto pesa una práctica agrícola poco discutida en el calentamiento global.",
+      "seccion": "ciencia",
+      "tags": [
+        "cambio climatico",
+        "turberas",
+        "carbono",
+        "agricultura"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 946,
+      "titulo": "El navegador independiente Ladybird lanza su primera alpha descargable",
+      "resumen": "Ladybird, un motor de navegador construido desde cero sin depender de Chromium ni Firefox, publicó su primera versión alpha funcional para Linux y macOS. Las pruebas iniciales muestran que, pese a ser un proyecto joven, ya renderiza sitios modernos de forma sorprendentemente competente.",
+      "por_que_leerlo": "Muestra que todavía es posible construir un motor de navegador independiente en la era dominada por Chromium.",
+      "seccion": "tecnologia",
+      "tags": [
+        "navegadores",
+        "software libre",
+        "ingenieria de software"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-25",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 947,
+      "titulo": "Los precios de discos duros se dispararon por la demanda de almacenamiento de la IA",
+      "resumen": "Los precios de discos duros en el Black Friday resultaron mucho más altos de lo esperado, una distorsión que varios usuarios y analistas atribuyen a que los centros de datos de IA están absorbiendo gran parte de la oferta mundial de almacenamiento. La discusión, con más de 300 comentarios en Hacker News, compara precios históricos para confirmar el alza.",
+      "por_que_leerlo": "Explica una consecuencia concreta y medible del boom de la IA en un mercado de hardware que cualquier emprendedor tecnológico usa.",
+      "seccion": "tecnologia",
+      "tags": [
+        "discos duros",
+        "inteligencia artificial",
+        "hardware",
+        "cadena de suministro"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 948,
+      "titulo": "Acusan al director de tecnología de 'RansomwareHelp' de estafar a víctimas de ransomware",
+      "resumen": "La justicia de EE.UU. acusó al CTO de una firma que negocia con hackers de ransomware de pagar en secreto a los atacantes, cobrar de más a las víctimas y quedarse con la diferencia. El caso, documentado por Krebs on Security, expone cómo algunas empresas que dicen proteger a víctimas de ciberataques terminan lucrándose del propio delito.",
+      "por_que_leerlo": "Revela una práctica fraudulenta dentro de una industria que se supone protege a las víctimas del ciberdelito.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ransomware",
+        "ciberseguridad",
+        "fraude",
+        "justicia"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
+    {
+      "id": 949,
+      "titulo": "Blue Origin entra al negocio de lanzamientos pequeños que SpaceX está abandonando",
+      "resumen": "SpaceX se prepara para terminar su programa de rideshare para satélites pequeños, y Blue Origin aprovecha el vacío: ya firmó un acuerdo con la empresa búlgara Endurosat para dos lanzamientos dedicados en sus cohetes. El movimiento reconfigura la competencia en el mercado de lanzamientos de satélites pequeños.",
+      "por_que_leerlo": "Revela cómo se reorganiza la competencia en la industria espacial cuando un gigante cambia de estrategia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "espacio",
+        "satelites",
+        "blue origin",
+        "spacex"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/espacio/spacex-no-lanzara-satelites-pequenos-ajenos-blue-origin-ha-sacado-tajada-ello"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-26",
+      "added_date": "2026-11-27 04:48",
+      "auto_generated": true
+    },
     {
       "id": 926,
       "titulo": "Un algoritmo de IA habría resuelto una pista clave de la hipótesis de Riemann, pero nadie sabe qué significa",
