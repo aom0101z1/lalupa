@@ -221,6 +221,450 @@
   ],
   "casos": [
     {
+      "id": 3572,
+      "titulo": "Ofensiva contra bandas criminales en Cundinamarca afecta 178 estructuras",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "Autoridades reportan que la ofensiva contra bandas criminales en el departamento de Cundinamarca ha logrado afectar 178 estructuras delincuenciales, en el marco de los operativos de seguridad del gobierno nacional contra el crimen organizado en la region.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mejor-colombia/articulo/asi-golpea-cundinamarca-a-las-bandas-criminales-van-178-estructuras-afectadas/202649/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion de Cundinamarca / Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3571,
+      "titulo": "Emboscada armada mata a dos policias en el suroeste de Colombia",
+      "categoria": "seguridad",
+      "fecha": "2026-11-25",
+      "descripcion": "Los agentes Kevin David Torres y Bayron Jesus Riascos murieron y otros cuatro companeros resultaron heridos en una emboscada con fusiles en el suroeste de Colombia. Los uniformados escoltaban a funcionarios municipales que se dirigian a la inauguracion de un parque cuando fueron atacados.",
+      "evidencia": "Reportado por Latercera.com",
+      "fuentes": [
+        {
+          "nombre": "Latercera.com",
+          "url": "https://www.latercera.com/mundo/noticia/mueren-a-tiros-dos-policias-y-otros-cuatro-resultan-heridos-en-el-suroeste-de-colombia/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [
+        "Kevin David Torres",
+        "Bayron Jesus Riascos"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3570,
+      "titulo": "Datos sobre incautaciones de aeronaves y embarcaciones del narcotrafico",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "Un informe revela que las inmovilizaciones e incautaciones de aeronaves vinculadas al narcotráfico se han reducido a la mitad en los últimos dos años, mientras que las incautaciones de embarcaciones registran un repunte en 2026, en el marco de la ofensiva del Gobierno contra el narcotráfico marítimo y aéreo.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-datos-detras-de-la-ofensiva-contra-la-flota-aerea-y-maritima-del-narcotrafico-en-colombia-3604879",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3569,
+      "titulo": "Centro Democratico propone recorte de $36 billones al Estado",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El Centro Democrático presentó al Gobierno una propuesta de ajuste fiscal que plantea recortar $36 billones del gasto estatal, lo que dejaría un hueco de $19,9 billones, cifra similar al faltante que tendría el Gobierno tras bajar el IVA a los alimentos, en medio del debate de la reforma tributaria y el ajuste fiscal.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/propuesta-del-cd-al-gobierno-recorta-36-billones-al-estado/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Partido Centro Democratico / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3568,
+      "titulo": "Superservicios advierte riesgo de cortes en el suministro de gas",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-27",
+      "descripcion": "La Superintendencia de Servicios Públicos identificó desbalances operativos en los gasoductos del país que ponen en riesgo el suministro de gas, por lo que anunció que intensificará la vigilancia y el control sobre los operadores para proteger el servicio a los usuarios.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/superservicios-advierte-posibles-cortes-en-el-servicio-de-gas-en-colombia",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Superintendencia de Servicios Publicos",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3567,
+      "titulo": "Banco de proyectos de inversion del Gobierno crece de 13 a 255 iniciativas",
+      "categoria": "obras",
+      "fecha": "2026-11-27",
+      "descripcion": "El vicepresidente Jose Manuel Restrepo informo que el banco de proyectos de inversion del Gobierno paso de 13 a 255 iniciativas en tres meses, abarcando cerca de 25 departamentos, con un ingreso semanal de entre 10 y 20 nuevas propuestas de inversion.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/especiales/congreso-nacional-de-infraestructura-2026/banco-de-proyectos-de-inversion-del-gobierno-paso-de-13-a-255-iniciativas-en-tres-meses-4535183",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Jose Manuel Restrepo"
+      ],
+      "entidad": "Vicepresidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3566,
+      "titulo": "Hallan sin vida a joven secuestrada por el ELN en Norte de Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "El cuerpo de Anyi Jacome fue hallado sin vida el 26 de noviembre en la vereda Monte Redondo, municipio de Abrego, Norte de Santander, tras 101 dias secuestrada por el ELN. La victima presentaba dos impactos de bala en el pecho.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/anyi-jacome-hallada-sin-vida-tras-secuestro-eln-norte-santander-FB44105752",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Anyi Jacome"
+      ],
+      "entidad": "ELN / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3565,
+      "titulo": "Asesinan a funcionario de la Fiscalia en Cauca",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "Harold Fernand Chicaiza Bolaños, asistente de fiscal adscrito a la Direccion Seccional Cauca, fue asesinado a disparos el 26 de noviembre en el municipio de Balboa, Cauca, cuando se desplazaba a su lugar de trabajo. La Fiscalia activo un equipo especializado para investigar el crimen.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/asesinan-disparos-funcionario-fiscalia-cauca-equipo-especial-investiga-crimen-KC44131597",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Harold Fernand Chicaiza Bolaños"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3564,
+      "titulo": "Capturan en Espana al exgobernador del Magdalena Carlos Caicedo",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "Carlos Caicedo Omar, exgobernador del Magdalena, fue detenido en Espana tras una circular roja de Interpol solicitada por la Fiscalia colombiana, que lo investiga por presunta violencia sexual. El presidente Abelardo De la Espriella celebro publicamente la captura con el mensaje 'Bienvenido a la Patria Milagro'.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/confidenciales/articulo/abelardo-de-la-espriella-publico-foto-del-exalcalde-carlos-caicedo-tras-ser-detenido-en-espana-esto-escribio-el-presidente/202601/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Carlos Caicedo Omar",
+        "Abelardo De la Espriella"
+      ],
+      "entidad": "Fiscalia General de la Nacion / Interpol",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3563,
+      "titulo": "Corte Suprema pidio investigar al abogado del expresidente Petro",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-27",
+      "descripcion": "La Corte Suprema de Justicia confirmo que si solicito a la Comision Disciplinaria investigar al abogado del expresidente Gustavo Petro, desmintiendo versiones de que el tema habia sido olvidado por la Corte.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/pese-a-su-olvido-corte-suprema-de-justicia-si-le-pidio-a-la-comision-disciplinaria-investigar-al-abogado-del-expresidente-petro/202611/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Corte Suprema de Justicia / Comision Disciplinaria",
+      "estado": "En investigacion",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11"
+    },
+    {
+      "id": 3562,
+      "titulo": "Proponen reducir IVA a carros eléctricos en reforma tributaria del gobierno De la Espriella",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "En el marco de la reforma tributaria del gobierno De la Espriella se propuso fijar el IVA de los vehículos eléctricos en 10%, en lugar del 19% general, como incentivo a la adopción de esta tecnología.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/proponen-iva-en-colombia-del-10-y-no-del-19-a-carros-electricos-en-reforma-tributaria-del-gobierno-de-la-espriella/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3561,
+      "titulo": "Director de Imprenta Nacional alerta sobre fallas en implementación del nuevo esquema de pasaportes",
+      "categoria": "contratos",
+      "fecha": "2026-11-27",
+      "descripcion": "El gerente de la Imprenta Nacional, Hitler Roseau Chaverra, radicó un informe ante el Tribunal Administrativo de Cundinamarca en el que advierte vacíos en la implementación real del nuevo esquema de expedición de pasaportes, un tema que ha estado en el centro de denuncias por irregularidades contractuales.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/director-de-imprenta-alerta-al-tribunal-sobre-fallas-en-pasaportes",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Hitler Roseau Chaverra"
+      ],
+      "entidad": "Imprenta Nacional / Tribunal Administrativo de Cundinamarca",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11"
+    },
+    {
+      "id": 3560,
+      "titulo": "Gobierno intensifica ofensiva contra el ELN tras atentado en Norte de Santander",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "Tras un atentado en Norte de Santander que dejó varios policías heridos, el Gobierno Nacional anunció una intensificación de operaciones contra el ELN en la región, reportando que los uniformados afectados se encuentran estables.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/gobierno-intensifica-ofensiva-contra-el-eln-tras-atentado-en-norte-de-santander",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Fuerzas Militares",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3559,
+      "titulo": "Dian propone aumentar la UVT a $55.673 para 2027",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "La Dian planteó incrementar la Unidad de Valor Tributario (UVT) a $55.673 para 2027, un aumento del 6,3% frente al valor actual, cifra que sirve de base para calcular impuestos, sanciones y topes fiscales administrados por la entidad.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/la-dian-plantea-subir-la-uvt-a-55-673-en-2027-un-aumento-de-6-3-frente-a-este-ano-4535269",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Direccion de Impuestos y Aduanas Nacionales (Dian)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3558,
+      "titulo": "De la Espriella anuncia medidas tras ataque terrorista en Chocó",
+      "categoria": "seguridad",
+      "fecha": "2026-11-26",
+      "descripcion": "El presidente Abelardo De la Espriella anunció las primeras medidas de respuesta tras un ataque terrorista registrado en Chocó, prometiendo ubicar a los responsables. El anuncio se suma a la ofensiva de seguridad del gobierno en la región.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOGVMeG9Db3RrMUdUcHltZU5oV2ZmOW9HSzFPdDNfM1ZuZGJXclpyVi1DY2h1S1pXZUc1Sk1JNWRZQVRsSFNEVlhWLW10RUV6RXgtdjVCeVRjQlc1MGJ2NEc5OU12czZoc3dmQnhSaHdHRFRsSGp6OWxjYzByQ3lKS2hRUHQ2a21XZ2ZRUXVJbEFIVzZlS1NkRjdjNjBPWGFFNlBXN1g5bTFwQVJ3OE13a2pKc0E4enpUQVRabW9JcG5aN3pRQ09DY0lNdE1FVW9FcDBidk5ycm5XZ3FMczM2ZGdieVVPblnSAewBQVVfeXFMUEJ5dlVfbnpPV0VxZU1ZdU1vWkt6b2N6aG1oVGpzdG5HVjVhelhOQVpUSy1DZTI1VHdyQjQxTDc4S013R0xkWEt1OXNwYmdWemw2ZjdRcTFoNHRYQWtuTnpuY21jYVBRQ1Q2UEJxYlp4RzM5cW13ajhXd3VUYlVub3ZZY1lFSTBNcGZrN2p5VkVCdk9sNFd5ZEJBOGNJMlNTS3NzM25mLWxUQmxxUTRMdFJScmdOcGR6dFpqa3c3N05yQlZlejBnVU9tdnNSSG1zRE13U2tocVJXSVZ5eHZhLUVjOWQzdEFackRXV08?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3557,
+      "titulo": "Denuncias sin resolver sobre presunto intento de fraude electoral de Petro mediante la DNI",
+      "categoria": "abuso-poder",
+      "fecha": "2026-11-27",
+      "descripcion": "Segun reportaje de La Silla Vacia, persisten sin respuesta denuncias sobre un presunto intento de fraude del expresidente Gustavo Petro, incluyendo por que la Direccion Nacional de Inteligencia (DNI) solicito acceso al censo electoral y las funciones de un hacker que continuo vinculado a la entidad pese a tener orden de captura.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/silla-nacional/respuestas-pendientes-de-petro-sobre-denuncias-de-que-intento-hacer-fraude/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro"
+      ],
+      "entidad": "Direccion Nacional de Inteligencia (DNI)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11"
+    },
+    {
+      "id": 3556,
+      "titulo": "Gobierno consigue recursos para cubrir huecos presupuestales y financiar reconstruccion tras el terremoto",
+      "categoria": "dineros",
+      "fecha": "2026-11-25",
+      "descripcion": "El Gobierno nacional reporto la consecucion de nuevos recursos para cerrar brechas presupuestales y financiar la reconstruccion de las zonas afectadas por el terremoto de agosto, en medio de las dificultades fiscales que enfrenta el Fondo Milagro para cubrir la totalidad de las necesidades.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUFFVWEVSenNQdDE0clVtaWpWRDRaN2FQNG9lZzdqc25ackVVWFF2UVV3a3lVVUFOVmdHdmhnejJCdTFtQU9JOHpUU1F6Q3FaeVJ3MGpEbDhySFlnV3VZOERabmsxc0RQcWdKRlRNUkY3b0ZhX2NCeDZCcFlzNVdwR3pkSTVZZE85c2J3dlZRNVNSNTNpdEVkOU9pbExsNURkMVBHcXpsUkN4MFY4VjEyMDBTYVFMdmFCYmctTGdKZXBxdTlyYUE0M0gtVmgyZk1zeEVDVkprSlFGZy1WWHYwTlE3dWlDT1NXSXE5QVNHYWdmdjc0MGRFaXRHRnpkLXPSAYQCQVVfeXFMT25PeTk5bDdFYWh0NlhBZnV5akNIRWhkdHlZcUpDMkVRaHE3UjNQT0JaaDBHbjZ1ZXhFekJ4Q1g1UUR4cHU5S3ZpbUVuY2s1TmJZNXBsTlVza24wVkNYaks5dzc5Vjg0dFpVWWVydXVjdG1qTGZrbFB5eTZEcDFxSTZmd1BoakpkLWFILWNNVE5rV05PWlVOcGFoQlpZcTNoUXpmSTRoY2FtSEVmTWZUaURlZGsxSEtFNS14OW5vNkR3OGkzNFpIeDFETnEwSzN2cE9MMjN1WmpLN1FpbHpYaVZKNzF4aGtKazU3X0psdHdzRF9vRm5YOTJ2X2p4RlBiWmhtM0E?oc=5",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3555,
+      "titulo": "Alcaldes de municipios de Risaralda reclaman ante el Congreso por falta de ayudas tras el terremoto",
+      "categoria": "damnificados",
+      "fecha": "2026-11-27",
+      "descripcion": "En audiencia publica realizada el 27 de noviembre en el Centro de Convenciones Villa Olimpica de Pereira, ante la Comision Accidental Bicameral del Congreso, los alcaldes de Belen de Umbria, Marsella, Pueblo Rico, Santuario y La Virginia denunciaron fallas en el suministro de vias, energia y agua para los damnificados del terremoto de magnitud 7,4, que dejo mas de 300 muertos y 4.505 heridos, y solicitaron intervencion urgente del Gobierno nacional.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/damnificados-de-terremoto-reclaman-ante-el-congreso-vias-energia-y-agua",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Salazar Pelaez"
+      ],
+      "entidad": "Alcaldias de Risaralda / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "terremoto",
+      "region": "pereira",
+      "signo": "negativo"
+    },
+    {
+      "id": 3554,
+      "titulo": "Capturan a dos presuntos integrantes de disidencias de las Farc en el Meta con explosivos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "El 26 de noviembre, Ejercito y Policia capturaron en flagrancia a dos personas en Puerto Gaitan, Meta, vinculadas al Frente 39 'Arcesio Nino' de las disidencias de las Farc, al mando de alias Antonio Medina, cuando presuntamente planeaban un ataque contra instalaciones militares. Se incauto un vehiculo NPR y una motocicleta. La gobernadora del Meta, Rafaela Cortes, entrego los detalles del operativo conjunto que frustro el presunto atentado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/capturados-en-el-meta-serian-de-las-disidencias-de-las-farc-HC44139086",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Rafaela Cortes",
+        "alias Antonio Medina"
+      ],
+      "entidad": "Ejercito Nacional / Policia Nacional / Gobernacion del Meta",
+      "estado": "Imputado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-27 16:11",
+      "seccion": "nuevo-gobierno"
+    },
+    {
       "id": 3553,
       "titulo": "Proindesa presenta iniciativas privadas por $4 billones ante la ANI",
       "categoria": "obras",
@@ -82876,7 +83320,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-27",
-    "total_casos": 3464,
+    "total_casos": 3483,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
