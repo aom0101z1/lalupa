@@ -27,6 +27,282 @@
   },
   "lecturas": [
     {
+      "id": 950,
+      "titulo": "Convierten uno de los plásticos más difíciles de reciclar en aceite lubricante de alto rendimiento",
+      "resumen": "Científicos de Virginia Tech desarrollaron un proceso que transforma PVC desechado en un ingrediente valioso para aceite de motor de alto desempeño en solo tres horas. La innovación podría convertir una fuente importante de contaminación plástica en un recurso industrial rentable.",
+      "por_que_leerlo": "Muestra una idea concreta de cómo la química aplicada puede convertir basura en negocio rentable.",
+      "seccion": "tecnologia",
+      "tags": [
+        "reciclaje",
+        "quimica aplicada",
+        "economia circular",
+        "materiales"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 951,
+      "titulo": "Hackean la plataforma de computacion en la nube de la Fuerza Aerea de Estados Unidos",
+      "resumen": "Atacantes vulneraron el sistema de cloud computing utilizado por la Fuerza Aerea de EE.UU., segun reportes periodisticos, en un incidente que se suma a una ola reciente de ciberataques contra infraestructura gubernamental y militar critica.",
+      "por_que_leerlo": "demuestra que ni las organizaciones con mas recursos de ciberseguridad estan exentas de riesgo, una leccion para cualquier negocio que maneje datos sensibles.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "hackeo",
+        "gobierno",
+        "militar"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 952,
+      "titulo": "Pozos de almacenamiento de carbono se vinculan a terremotos cerca de Edmonton, Canadá",
+      "resumen": "Investigadores rastrearon dos sismos sentidos en Edmonton (1 de abril y 9 de mayo de 2026) hasta la inyección de CO2 en el proyecto de almacenamiento Quest, en Alberta. El regulador energético de la provincia no recibió reportes de daños, pero el hallazgo aporta evidencia concreta sobre los riesgos sísmicos de los proyectos de captura y almacenamiento de carbono.",
+      "por_que_leerlo": "Expone un riesgo técnico real de la tecnología CCS que muchos gobiernos promueven como solución climática.",
+      "seccion": "tecnologia",
+      "tags": [
+        "captura de carbono",
+        "energia",
+        "sismologia",
+        "ccs"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-carbon-storage-wells-linked-earthquakes.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 953,
+      "titulo": "El experimento ATLAS del CERN halla indicios de una estructura oculta del vacío",
+      "resumen": "La colaboración ATLAS, con participación de investigadores de Bonn, Oxford y Praga, detectó en el Gran Colisionador de Hadrones más colisiones de protones con el patrón buscado de lo esperado. El exceso podría señalar un fenómeno predicho por el Modelo Estándar de física de partículas que nunca se ha observado directamente.",
+      "por_que_leerlo": "Ofrece una mirada concreta a la frontera experimental de la física de partículas con datos reales del LHC.",
+      "seccion": "ciencia",
+      "tags": [
+        "fisica de particulas",
+        "cern",
+        "modelo estandar",
+        "lhc"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-atlas-hints-hidden-vacuum.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 954,
+      "titulo": "Galaxias cercanas desafían las simulaciones cosmológicas sobre materia oscura",
+      "resumen": "Mediciones del movimiento de estrellas y gas en galaxias cercanas muestran menos materia oscura en sus regiones internas de lo que predicen las simulaciones computacionales más avanzadas. El hallazgo cuestiona los modelos usados para entender cómo se forman y evolucionan las galaxias.",
+      "por_que_leerlo": "Presenta evidencia que obliga a revisar uno de los pilares de la cosmología moderna.",
+      "seccion": "ciencia",
+      "tags": [
+        "materia oscura",
+        "cosmologia",
+        "galaxias",
+        "simulaciones"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 955,
+      "titulo": "Intel debió ceder 10% de sus acciones al gobierno de EE.UU. para no perder subsidios",
+      "resumen": "Intel enfrentó la disyuntiva de entregar una participación del 10% de la compañía al gobierno de Trump o arriesgar miles de millones de dólares en subvenciones ya prometidas. El caso ilustra cómo la política industrial puede convertirse en una forma directa de intervención estatal en empresas privadas.",
+      "por_que_leerlo": "Es un caso de estudio sobre los riesgos de depender de subsidios estatales y la intervención del gobierno en empresas tecnológicas.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "intel",
+        "politica industrial",
+        "subsidios",
+        "gobierno corporativo"
+      ],
+      "fuente": {
+        "nombre": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 956,
+      "titulo": "Detectan scripts de robo de tarjetas via WebRTC en tiendas online durante el Black Friday",
+      "resumen": "Investigadores de seguridad identificaron scripts maliciosos de skimming que usan WebRTC para robar datos de tarjetas de credito en sitios de comercio electronico populares, aprovechando el pico de compras del Black Friday. La tecnica es mas dificil de detectar que los metodos tradicionales de inyeccion de scripts porque opera a traves de canales de comunicacion en tiempo real del navegador.",
+      "por_que_leerlo": "cualquier persona que administre una tienda online necesita conocer esta vulnerabilidad para proteger a sus clientes.",
+      "seccion": "tecnologia",
+      "tags": [
+        "ciberseguridad",
+        "ecommerce",
+        "skimming",
+        "webrtc"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 957,
+      "titulo": "Capital Energy abandona su tercer proyecto de centro de datos en Aragon y vende la conexion electrica a Blackstone",
+      "resumen": "Capital Energy se retira del proyecto Epilon en Epila (Zaragoza), uno de los megacampus de centros de datos planeados en Aragon, y vende 150 MW de conexion electrica a Blackstone para su proyecto Rhodes. Es el tercer proyecto de este tipo que cae en la region, pese a que Aragon se habia posicionado como uno de los territorios mas atractivos de Espana para la industria de centros de datos.",
+      "por_que_leerlo": "revela que no todos los anuncios de megaproyectos de IA se concretan, una leccion util para evaluar el boom real de inversion en centros de datos.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "centros de datos",
+        "energia",
+        "aragon",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/energia/capital-energy-abandona-su-tercer-centro-datos-aragon-vende-150-mw-a-blackstone-para-su-proyecto-rhodes"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 958,
+      "titulo": "Espana lleva cuatro inviernos sin una sola ola de frio y la AEMET teme que sea un cambio permanente",
+      "resumen": "Espana no ha registrado una sola ola de frio en cuatro inviernos consecutivos, un patron sin precedentes segun los registros de la Agencia Estatal de Meteorologia (AEMET). La agencia comienza a considerar que este vacio de frio extremo podria no ser una anomalia temporal sino un efecto estructural del calentamiento global.",
+      "por_que_leerlo": "aporta evidencia concreta de como el cambio climatico ya esta alterando patrones meteorologicos medibles, mas alla de las proyecciones teoricas.",
+      "seccion": "ciencia",
+      "tags": [
+        "cambio climatico",
+        "meteorologia",
+        "espana",
+        "evidencia"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/espana-nunca-ha-tenido-cuatro-inviernos-consecutivos-sola-ola-frio-va-a-tener-todo-que-ello-conlleva"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 5,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 959,
+      "titulo": "Chips Blackwell de Nvidia aparecen en centro de datos chino pese a la prohibición",
+      "resumen": "Según documentos revisados por Bloomberg, al menos dos empresas chinas instalaron hardware Nvidia con arquitectura Blackwell en un centro de datos de Shanghái vinculado a Alice Huang, exdirectora de Megaspeed, pese a que la venta de estos chips a China está prohibida.",
+      "por_que_leerlo": "Muestra en concreto cómo se están esquivando las restricciones de EE.UU. a la exportación de chips de IA hacia China.",
+      "seccion": "tecnologia",
+      "tags": [
+        "nvidia",
+        "chips ia",
+        "china",
+        "exportaciones"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/chips-blackwell-nvidia-aparecen-centro-datos-shanghai-vinculado-a-alice-huang"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 960,
+      "titulo": "Taiwán sufre su mayor fuga de capital extranjero por temores sobre la IA",
+      "resumen": "Los inversionistas extranjeros retiraron de la bolsa taiwanesa ventas netas que alcanzan 1,09 billones de dólares taiwaneses, según Bloomberg, en medio de la misma preocupación por una posible burbuja de IA que ha sacudido otros mercados globales.",
+      "por_que_leerlo": "Es una señal temprana de cómo el miedo a una burbuja de IA ya está moviendo capitales en mercados clave de semiconductores.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "taiwan",
+        "ia",
+        "mercados",
+        "inversion"
+      ],
+      "fuente": {
+        "nombre": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/taiwan-sufre-mayor-fuga-capital-extranjero-su-historia-ia-gran-sospechosa"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
+      "id": 961,
+      "titulo": "Parex debutará en la Bolsa de Colombia y abrirá nueva opción de inversión en petróleo",
+      "resumen": "La petrolera oficializará en los próximos días su ingreso a la Bolsa de Valores de Colombia, donde los inversionistas podrán negociar sus títulos directamente en pesos colombianos.",
+      "por_que_leerlo": "Es una nueva alternativa local para invertir en el sector petrolero sin exposición cambiaria directa.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "bolsa de colombia",
+        "petroleo",
+        "inversion",
+        "parex"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/parex-llegara-a-la-bolsa-de-colombia-y-abrira-nueva-alternativa-de-inversion-en-petroleo-4535416"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-27 19:51",
+      "auto_generated": true
+    },
+    {
       "id": 938,
       "titulo": "Nvidia detiene envíos de chips de IA al sudeste asiático por presión de EE.UU.",
       "resumen": "Nvidia pidió a sus socios de manufactura pausar el envío de servidores a Malasia, Singapur, Tailandia e Indonesia mientras Estados Unidos endurece los controles para evitar que sus chips de IA lleguen a China a través de terceros países. La medida golpea una ruta de distribución clave usada hasta ahora para sortear las restricciones de exportación.",
