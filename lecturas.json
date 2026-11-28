@@ -23,9 +23,239 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-27"
+    "ultima_actualizacion": "2026-11-28"
   },
   "lecturas": [
+    {
+      "id": 962,
+      "titulo": "El Telescopio del Horizonte de Sucesos capta en detalle extremo el chorro de un agujero negro",
+      "resumen": "La colaboración internacional del Event Horizon Telescope, la misma que logró las primeras imágenes de M87* y Sagitario A*, ahora revela con un nivel de detalle sin precedentes la dinámica y geometría del chorro de materia que emite un agujero negro supermasivo. El hallazgo permite observar directamente cómo se forma y estructura uno de los fenómenos más energéticos del universo.",
+      "por_que_leerlo": "Ofrece la mejor evidencia observacional hasta ahora de cómo un agujero negro lanza materia a velocidades cercanas a la luz, un misterio central de la astrofísica.",
+      "seccion": "ciencia",
+      "tags": [
+        "agujeros negros",
+        "astronomia",
+        "telescopio",
+        "astrofisica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 5,
+      "interes_score": 8,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 963,
+      "titulo": "Google logra modelos de IA hasta 3 veces mas rapidos sin perder calidad con nueva tecnica",
+      "resumen": "Investigadores de Google presentaron DeepCrossAttention, una modificacion de las conexiones residuales en los transformers que entrena modelos con calidad comparable a la arquitectura estandar pero hasta 3 veces mas rapido. El hallazgo, publicado en el blog de investigacion de Google, apunta a reducir de forma significativa el costo computacional de entrenar IA.",
+      "por_que_leerlo": "Muestra como un ajuste arquitectonico relativamente simple puede recortar drasticamente el costo de entrenar modelos de inteligencia artificial.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "transformers",
+        "eficiencia",
+        "investigacion"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 8,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 964,
+      "titulo": "El peso colombiano cae casi 10% en noviembre al desvanecerse el atractivo del carry trade",
+      "resumen": "La moneda colombiana se devaluó cerca de 10% en el mes mientras el menor crecimiento económico reduce las expectativas de nuevas alzas de tasas de interés locales, justo cuando en Estados Unidos ocurre lo contrario. Esa divergencia de tasas está erosionando el diferencial que hacía atractivo el carry trade en pesos.",
+      "por_que_leerlo": "Explica con el mecanismo de tasas de interés por qué se mueve el tipo de cambio, algo clave para quien invierte o cobra en dólares.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "peso colombiano",
+        "carry trade",
+        "tasas de interes",
+        "divisas"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/finanzas/peso-colombiano-pierde-casi-10-en-noviembre-mientras-se-desvanece-atractivo-del-carry-trade-4535417"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 3,
+      "interes_score": 8,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 965,
+      "titulo": "Sensores inteligentes con IA detectan alérgenos ocultos en alimentos en minutos",
+      "resumen": "El proyecto smartJAN, desarrollado por la Universidad de Deusto junto a Kernet y la Fundación Miranda, completó un prototipo funcional capaz de detectar proteínas de transferencia de lípidos (LTP), una familia de alérgenos vegetales que puede causar reacciones alérgicas severas. El sistema combina sensores y algoritmos de inteligencia artificial para ofrecer una deteccion rapida y de bajo costo, pensada para la industria alimentaria.",
+      "por_que_leerlo": "Muestra como combinar IA con sensores baratos puede resolver un problema real de seguridad alimentaria, una idea aplicable a otros nichos de hardware inteligente.",
+      "seccion": "tecnologia",
+      "tags": [
+        "inteligencia artificial",
+        "sensores",
+        "seguridad alimentaria",
+        "alergenos"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 966,
+      "titulo": "Implante sin batería usa ultrasonido para monitorear su propio estado de salud",
+      "resumen": "Investigadores desarrollaron un implante bioelectrónico que no necesita batería: cosecha energía de ondas de ultrasonido externas y emite luz para indicar su condición interna, resolviendo el problema de no poder inspeccionar dispositivos implantados sin cirugía. La tecnología busca extender la vida útil y seguridad de dispositivos médicos implantables.",
+      "por_que_leerlo": "Es un ejemplo concreto de ingeniería que resuelve un problema práctico de hardware médico sin depender de baterías, util para quien piensa en diseño de dispositivos.",
+      "seccion": "tecnologia",
+      "tags": [
+        "bioelectronica",
+        "implantes",
+        "ultrasonido",
+        "ingenieria medica"
+      ],
+      "fuente": {
+        "nombre": "Phys.org",
+        "url": "https://phys.org/news/2026-11-battery-free-implant-harvests-ultrasound.html"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 967,
+      "titulo": "El colmillo del narval esconde una doble espiral que revela un secreto de ingeniería natural",
+      "resumen": "Usando tecnología de rayos X avanzada, un equipo internacional descubrió que el icónico colmillo en espiral del narval contiene dos espirales microscópicas entrelazadas que giran en direcciones opuestas. Esta estructura, nunca antes documentada con este detalle, podría explicar la resistencia mecánica del colmillo pese a su forma delgada y alargada.",
+      "por_que_leerlo": "Revela un principio de ingeniería biológica que podría inspirar nuevos diseños de materiales resistentes y livianos.",
+      "seccion": "ciencia",
+      "tags": [
+        "biomecanica",
+        "narval",
+        "materiales",
+        "biologia"
+      ],
+      "fuente": {
+        "nombre": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 968,
+      "titulo": "Una herramienta de IA para crear apps envia la idea del usuario a un servidor sin avisar",
+      "resumen": "Desarrolladores descubrieron que una 'skill' del backend de Convex, usada por agentes de IA para generar aplicaciones, enviaba automaticamente la descripcion de la idea de negocio del usuario a un servidor externo sin consentimiento explicito. El caso, reportado en GitHub, encendio alarmas sobre la privacidad de las herramientas de IA para construir software.",
+      "por_que_leerlo": "Es una advertencia practica para quien usa agentes de IA para prototipar productos y quiere proteger la confidencialidad de sus ideas.",
+      "seccion": "tecnologia",
+      "tags": [
+        "privacidad",
+        "ia",
+        "desarrollo de software",
+        "seguridad"
+      ],
+      "fuente": {
+        "nombre": "Hacker News",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64"
+      },
+      "idioma_original": "en",
+      "tiempo_lectura_min": 3,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 969,
+      "titulo": "Remesas a Colombia llegan a US$11.046 millones hasta octubre, ya por encima de todo 2023",
+      "resumen": "El flujo de remesas recibido por Colombia en los primeros diez meses del año superó el total registrado en todo 2023 (US$10.091 millones). El dato confirma el peso creciente de este ingreso como fuente de divisas para el país.",
+      "por_que_leerlo": "Da una cifra concreta para entender cuánto pesan las remesas en la economía colombiana y hacia dónde va esa tendencia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "remesas",
+        "colombia",
+        "divisas",
+        "economia"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-ingresos-por-remesas-alcanzaron-us-11-046-millones-con-corte-a-octubre-4535912"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 2,
+      "interes_score": 7,
+      "fecha": "2026-11-28",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 970,
+      "titulo": "Uruguay prohíbe a los taxis usar apps como Uber y la empresa amenaza con dejar el país",
+      "resumen": "Uber advirtió que reevaluará su operación en Uruguay después de que el país prohibiera a los conductores de taxi usar la aplicación, y calificó el momento como una 'etapa de incertidumbre' para sostener un negocio viable.",
+      "por_que_leerlo": "Muestra en vivo la tensión entre regulación estatal y un modelo de negocio basado en mercado libre, con riesgo real de que la empresa se retire.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "uber",
+        "regulacion",
+        "uruguay",
+        "mercados"
+      ],
+      "fuente": {
+        "nombre": "La Republica",
+        "url": "https://www.larepublica.co/globoeconomia/uber-reevaluara-operacion-en-uruguay-tras-la-prohibicion-de-los-taxis-4535500"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 2,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
+    {
+      "id": 971,
+      "titulo": "En Colombia, por cada trabajador con salario mínimo hay 11 que ganan menos",
+      "resumen": "Entre enero y septiembre de 2026, 12,68 millones de ocupados colombianos (53,4% del total) ganaron menos de un salario mínimo, frente a 11,44 millones un año antes del alza salarial del 23%. El dato del DANE muestra que la informalidad y los bajos ingresos siguen siendo la norma, no la excepción, en el mercado laboral.",
+      "por_que_leerlo": "Revela con cifras duras por qué subir el salario mínimo por decreto no resuelve la precariedad laboral real en Colombia.",
+      "seccion": "emprendimiento",
+      "tags": [
+        "salario minimo",
+        "mercado laboral",
+        "informalidad",
+        "colombia"
+      ],
+      "fuente": {
+        "nombre": "Bloomberg Linea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/colombia/por-cada-trabajador-que-recibe-el-salario-minimo-en-colombia-hay-11-que-ganan-menos/"
+      },
+      "idioma_original": "es",
+      "tiempo_lectura_min": 4,
+      "interes_score": 7,
+      "fecha": "2026-11-27",
+      "added_date": "2026-11-28 04:32",
+      "auto_generated": true
+    },
     {
       "id": 950,
       "titulo": "Convierten uno de los plásticos más difíciles de reciclar en aceite lubricante de alto rendimiento",
