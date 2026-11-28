@@ -221,6 +221,305 @@
   ],
   "casos": [
     {
+      "id": 3607,
+      "titulo": "MinSalud lanza campaña nacional para prevenir quemados por pólvora",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-28",
+      "descripcion": "El Ministerio de Salud lanzó una campaña de prevención de quemaduras por pólvora tras reportar que más de 5.500 personas han resultado lesionadas en el país. La medida busca reducir los casos durante la temporada decembrina mediante educación ciudadana y control de venta de pirotecnia.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/nacion/articulo/minsalud-lanzo-campana-para-prevenir-quemados-por-polvora-mas-de-5500-personas-han-resultado-lesionadas/202625/",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Salud",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3606,
+      "titulo": "Gobierno busca cerrar acuerdo de salario mínimo 2027 a mediados de diciembre",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El Gobierno Nacional anuncio que conocera las propuestas de los distintos sectores para el ajuste del salario minimo 2027 el 10 de diciembre, con la meta de cerrar un acuerdo tripartito a mas tardar a mediados de ese mes.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/salario-minimo-2027-el-gobierno-apunta-a-cerrar-acuerdo-a-mitad-de-diciembre-507288",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / Ministerio de Trabajo",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3605,
+      "titulo": "OCDE alerta sobre déficit fiscal de 7,2% y deuda pública de 67,6% del PIB",
+      "categoria": "economia",
+      "fecha": "2026-11-28",
+      "descripcion": "La OCDE publico una revision de la economia colombiana en la que advierte un deficit fiscal de 7,2% y una deuda publica equivalente al 67,6% del PIB, senalando la necesidad urgente de reducir el endeudamiento y ordenar las finanzas publicas en el corto plazo bajo el gobierno de Abelardo de la Espriella.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/economia/ocde-alerta-por-deficit-fiscal-de-72-y-deuda-publica-de-676-del-pib",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "OCDE / Ministerio de Hacienda",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3604,
+      "titulo": "MinVivienda abre convocatoria para postular viviendas VIS y VIP para damnificados del sismo",
+      "categoria": "avances",
+      "fecha": "2026-11-28",
+      "descripcion": "El Ministerio de Vivienda anuncio la apertura de una convocatoria para que personas naturales y juridicas postulen ofertas de Vivienda de Interes Social (VIS) y Vivienda de Interes Prioritario (VIP) que seran adquiridas para atender a los afectados por el terremoto del 10 de agosto, como parte de la ejecucion de los recursos de reconstruccion habitacional.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/abren-convocatoria-para-postular-viviendas-destinadas-a-afectados-por-el-sismo-4536087",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3603,
+      "titulo": "Centro Democrático propone eliminar el impuesto al patrimonio en la Ley de Rescate",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "La bancada del Centro Democratico presento el 27 de noviembre una contrapropuesta a la Ley de Rescate del gobierno De la Espriella, planteando eliminar el impuesto al patrimonio, no gravar la canasta basica y priorizar la austeridad y reduccion del gasto publico antes de aumentar cargas tributarias a los ciudadanos.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/centro-democratico-propone-eliminar-impuesto-patrimonio-ley-rescate-fiscal-detalles-contrapropuesta-EG44172723",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Partido Centro Democratico / Congreso de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3602,
+      "titulo": "Ataque con drones explosivos deja un policía muerto en Arenal del Sur, Bolívar",
+      "categoria": "seguridad",
+      "fecha": "2026-11-28",
+      "descripcion": "El 27 de noviembre un ataque con drones cargados de explosivos contra uniformados en el municipio de Arenal del Sur, Bolivar, dejo muerto a un subintendente de la Policia Nacional. El presidente Abelardo de la Espriella condeno el hecho y ordeno acciones para identificar a los responsables del atentado.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/ataque-drones-explosivos-bolivar-policia-muerto-identificaron-victima-OJ44182914",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Policia Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3601,
+      "titulo": "Restauraciones en Casa de Nariño por $325 millones sin actas de inventario",
+      "categoria": "recursos-publicos",
+      "fecha": "2026-11-28",
+      "descripcion": "Una investigacion revela que durante los gobiernos de Duque y Petro se gastaron $325 millones en restaurar piezas historicas de la Casa de Nariño, incluyendo el retrato de Simon Bolivar ($20,2 millones), el de Tomas Cipriano de Mosquera ($11,1 millones) y el sofa Emperatriz con sus sillones ($97 millones), entre otros objetos. El reporte senala que varias de estas piezas carecen de actas de inventario que respalden su estado y manejo, lo que genera dudas sobre el control patrimonial de bienes del Estado en el Palacio presidencial.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/casa-narino-inventarios-sin-actas-restauraciones-petrpo-duque-IJ44189067",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Casa de Narino / Presidencia de la Republica",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03"
+    },
+    {
+      "id": 3600,
+      "titulo": "Gobierno expulsa a 14 extranjeros en Santander por riñas, armas y microtráfico",
+      "categoria": "seguridad",
+      "fecha": "2026-11-28",
+      "descripcion": "El presidente Abelardo de la Espriella anunció la expulsión de 14 ciudadanos extranjeros en el departamento de Santander, señalados de participar en riñas, porte ilegal de armas y presunta venta de drogas, como parte de las medidas de seguridad del nuevo gobierno.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU2FqMjdXVE5CclFhU2w2Q0ZGX0RiR3hpbzlvVUJkbjdEMUxSSk5TUlliVlhJUjBDMEdweVNYMUc1R1JKeExDSFh4UHhtTy1zb3g3b3I0WjFwWXB4XzZNYWlxWVoxT0p5bC1jaThFTHY3LUJUdXJqVGY0RHFSUnQ5cWxXNXhId1VzNGJYRmZHUklSZ0xRd0FpWFBxb2lDMzdxRlpyd21xMHJsRVkwVFY3Z1l3bWRVSG0wa29Fa1BTSTAzY2dHellLd3I2M2ZyWTB1aVVEbm4zclZKOWNrUU9UR2huMktDSjVISE5tSUVoR3U1VnRnejRSamFQU3Rfbk3SAZoCQVVfeXFMUGpPWlJ3TndCREdHUUc1N3dXbEZjTkxKRnRHZk0zaDRTREJvWDE0aTJOX1lsa0hPSDRReHppUUc1VmlRZTFsOHNaODBpcUlZNDVaMUNzcE80ZWhSZWM4QWFaOHpvZG9sN0x4MlU0QWdad2VXY1JTcVludHFpaDd2a0dwQkZzbEkxaTZpdFgxekRJU3lYcDBjZzJFa05NR0pDNlRxTk9jc2JYMTJ4cTJQSGVaanIxVGZNWFlPVWg5bE05Z2FRWXp2c3dtdTN2TG1XQkplZm9oeGVPMnM4aDVBWDc4b1YwVzl0a3pYckxYZHhybjZMeC1Zc3ZUbncwaGk5Sk5LNWJQZERrX3ctZXotV3dfSFRTejFTQThR?oc=5",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3599,
+      "titulo": "Ricardo Roa busca anular sanción del CNE por irregularidades en cuentas de campaña",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-28",
+      "descripcion": "Ricardo Roa, expresidente de Ecopetrol, adelanta una estrategia legal para tumbar la sancion impuesta por el Consejo Nacional Electoral (CNE) relacionada con presuntas irregularidades en el manejo de las cuentas de su campaña politica.",
+      "evidencia": "Reportado por Revista Semana",
+      "fuentes": [
+        {
+          "nombre": "Revista Semana",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQk1USHpSZm1lSEN1Rk5rTXdDVG1VWXJxeGFlREJjUmllNU03YXFwZGhGd2VGY0ptUTF4MjMzcW90NTVackFXLTRpSm1TY2wtSDB0eU9KOFRNVTVNV1lZSmk3c1JXZmI3Y3I0YWZBOFpaSGgtZlBwWlFOTG04TV9jNlZzTkF5R2NyX2VGWXJlemo4ak5PNkNQOG5jaTFiekRMRkk0MU1TSFdRLUEzTmFSWGJvTFg0VURaenM0NWVEaFdyYkRMMjdUcHhwRHlyWUxJMkRvYmEwQUdOeEVTbTdjME85bw?oc=5",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Ricardo Roa"
+      ],
+      "entidad": "Consejo Nacional Electoral (CNE)",
+      "estado": "Juicio",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03"
+    },
+    {
+      "id": 3598,
+      "titulo": "Dapre contrató a cofundadora de fundación de la primera dama para cubrimiento de ayuda humanitaria",
+      "categoria": "contratacion",
+      "fecha": "2026-11-28",
+      "descripcion": "El Dapre (Presidencia) habria firmado en agosto un contrato por 48 millones de pesos con la cofundadora de la fundación de la primera dama para apoyar el cubrimiento de eventos relacionados con la ayuda humanitaria tras el terremoto. La denuncia fue hecha por Pedraza y señala un posible conflicto de interes en la contratacion de emergencia.",
+      "evidencia": "Reportado por La Silla Vacia",
+      "fuentes": [
+        {
+          "nombre": "La Silla Vacia",
+          "url": "https://www.lasillavacia.com/en-vivo/pedraza-denuncia-que-el-dapre-contrato-a-cofundadora-de-la-fundacion-de-la-primera-dama/",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Administrativo de la Presidencia (Dapre)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "negativo"
+    },
+    {
+      "id": 3597,
+      "titulo": "Operativo golpea disidencias de las Farc en Pasto con hallazgo de drones y explosivos",
+      "categoria": "seguridad",
+      "fecha": "2026-11-28",
+      "descripcion": "Autoridades realizaron tres diligencias de registro y allanamiento en Pasto que permitieron capturar en flagrancia a tres presuntos integrantes de disidencias armadas y hallar drones, impresoras 3D y material explosivo utilizado por la estructura ilegal.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/golpe-disidencias-en-pasto-hallan-drones-impresoras-3d-y-explosivos",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Policia Nacional / Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3596,
+      "titulo": "Fondo Milagro abre postulaciones a subsidios de vivienda en el Valle",
+      "categoria": "avances",
+      "fecha": "2026-11-27",
+      "descripcion": "El Fondo Milagro anunció el inicio formal de las postulaciones a subsidios de vivienda para los afectados por el terremoto de agosto en el departamento del Valle del Cauca, como parte de la estrategia de reconstrucción habitacional en la region.",
+      "evidencia": "Reportado por El País",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZG9vQUJLVzVMc29TdzRjWTZUYlh6SFFpb0p6UXhGNjdIVkRWR0p5dHhjXzZyVFEwQk5wa2lRZ0xRcDdCQUY1MTd3aEJzRmNHSTJFQ1hLbXk2Snd6OUk2d1RRX0lseHJDUnZoUktncmFYU1IzLURXUFljQ19NaWFGS1E1SVpMcF96MVhKNVRpNmVCVDBzVW5qYi1KcmhsRW1uWnVsS18wM1hEUzZNVXBidE9SaDExVnJGQkhEcUVaN3FLSVFRRW5hQ3MzMFNpb1pqNXN0ZXVEQk5TRjR3Rmp3WG5SOTU2OXBvdi1uMGFJMEFRTGZVNExIStIB_gFBVV95cUxQQ3lrejJpVDNUTjVLdkZnZ0FnOWlyTk56RTVaMHFKYmpydFNoMzFHZUhZOWlXbGwycDRiZXk1LXJIajNINGRJbEpxWVN5Qk5Oa2psLS12eDlaNmN6QWZua0VsbzVfMXo5cW1nUmxURGNCNlZVNHJqZ0trU2d0eTFRRGZrTjFVUG9feXBxc2dqR1NxS3BHYkQzLWY5a29OdTNKQUIxQUJ0LVBPNnlycVRCTmJaVEhFZ1JWcGpDRVY0LTNrbk1qZHJIZ29qbXAzNm9aNzVCLXZkcGd2RnByZjVvempnc09qWHlsZDhtUWJibWRXZkNNa3Z4Uk1iZi03QQ?oc=5",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3595,
+      "titulo": "Corte Suprema abre indagación previa a Petro y Pizarro por 'sexocontratos'",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-28",
+      "descripcion": "La Corte Suprema de Justicia abrió una indagación previa contra el expresidente Gustavo Petro y la excongresista María José Pizarro por presuntos contratos entregados a cambio de favores sexuales, en un caso que examina la contratación de Deicy Jiménez en el Senado. El proceso esta a cargo del magistrado Javier Fernando Fonseca de la Sala de Instrucción, quien ha solicitado recopilar informacion adicional.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/petro-maria-jose-pizarro-indagacion-corte-sexocontratos-LJ44188506",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Gustavo Petro",
+        "Maria Jose Pizarro",
+        "Deicy Jimenez"
+      ],
+      "entidad": "Corte Suprema de Justicia",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 15:03"
+    },
+    {
       "id": 3594,
       "titulo": "Colombia y Perú aplazan Gabinete Binacional previsto en Barranquilla",
       "categoria": "internacional",
@@ -83833,7 +84132,7 @@
   ],
   "estadisticas": {
     "ultima_actualizacion": "2026-11-28",
-    "total_casos": 3505,
+    "total_casos": 3518,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
