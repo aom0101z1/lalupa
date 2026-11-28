@@ -221,6 +221,519 @@
   ],
   "casos": [
     {
+      "id": 3594,
+      "titulo": "Colombia y Perú aplazan Gabinete Binacional previsto en Barranquilla",
+      "categoria": "internacional",
+      "fecha": "2026-11-28",
+      "descripcion": "La presidenta de Perú, Keiko Fujimori, acordó con el presidente Abelardo De la Espriella aplazar el séptimo Gabinete Binacional entre ambos países, que estaba previsto para el 3 de diciembre en Barranquilla. No se especificó nueva fecha para el encuentro presidencial.",
+      "evidencia": "Reportado por Eje21",
+      "fuentes": [
+        {
+          "nombre": "Eje21",
+          "url": "https://www.eje21.com.co/2026/11/fujimori-acuerda-con-de-la-espriella-aplazar-el-gabinete-binacional-entre-peru-y-colombia/",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella",
+        "Keiko Fujimori"
+      ],
+      "entidad": "Presidencia de la Republica / Gobierno de Peru",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3593,
+      "titulo": "Sacyr regulariza contrato e iniciará obras del Canal del Dique en febrero de 2027",
+      "categoria": "obras",
+      "fecha": "2026-11-28",
+      "descripcion": "La constructora española Sacyr anunció que iniciará las obras del proyecto Canal del Dique en febrero de 2027, tras regularizar el contrato con la Agencia Nacional de Infraestructura (ANI). La empresa destacó el apetito de inversión existente en el sector de infraestructura en Colombia para impulsar nuevos proyectos bajo el gobierno de De la Espriella.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/canal-del-dique-sacyr-iniciara-obras-en-febrero-de-2027-tras-regularizar-el-contrato/",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Agencia Nacional de Infraestructura (ANI) / Sacyr",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3592,
+      "titulo": "Gobierno anuncia estudio de factibilidad del Tren de Cercanias del Caribe",
+      "categoria": "obras",
+      "fecha": "2026-11-28",
+      "descripcion": "El presidente Abelardo De la Espriella anuncio el inicio del estudio de prefactibilidad del Tren de Cercanias del Caribe y dijo que buscara agilizar otros proyectos como el Canal del Dique y la perimetral de Oriente de Cundinamarca, en el marco de su agenda de infraestructura.",
+      "evidencia": "Reportado por La Republica",
+      "fuentes": [
+        {
+          "nombre": "La Republica",
+          "url": "https://www.larepublica.co/economia/gobierno-iniciara-estudio-de-prefactibilidad-del-tren-de-cercanias-del-caribe-4535737",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3591,
+      "titulo": "Restablecen servicio de energia al 100% en cinco departamentos tras atentado",
+      "categoria": "gestion-emergencia",
+      "fecha": "2026-11-27",
+      "descripcion": "Tras un atentado contra dos torres de energia en zona rural de Narino que dejo tres dias de interrupciones, el servicio electrico fue restablecido completamente el 27 de noviembre de 2026 en Narino, Cauca, Putumayo, Caqueta y sur del Huila, segun Cedenar y el Grupo Energia Bogota a traves de su filial Enlaza.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/vuelve-totalidad-servicio-energia-narino-cauca-putumayo-caqueta-huila-atentado-red-electrica-BG44179901",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Cedenar / Grupo Energia Bogota (Enlaza)",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3590,
+      "titulo": "DNP presenta Plan Maestro de Transporte Intermodal 2027-2057",
+      "categoria": "obras",
+      "fecha": "2026-11-28",
+      "descripcion": "El Departamento Nacional de Planeacion presento una hoja de ruta de 30 anos para la infraestructura del pais, con inversiones proyectadas de $288 billones en 64 proyectos estrategicos, incluyendo los corredores Quibdo-Medellin y Bogota-Puerto Antioquia, con potencial de 5,1 millones de empleos y $650 billones de impacto en el PIB.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/dnp-inversion-vias-quibdo-medellin-bogota-puerto-antioquia-FG44170544",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Departamento Nacional de Planeacion (DNP)",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3589,
+      "titulo": "Minvivienda y Fondo Milagro destinan $1,8 billones para reconstruir viviendas",
+      "categoria": "dineros",
+      "fecha": "2026-11-27",
+      "descripcion": "El Ministerio de Vivienda y el Fondo Milagro anunciaron una inversión conjunta de $1,8 billones para la reconstrucción de viviendas afectadas por el terremoto del 10 de agosto, con una meta de 25.750 soluciones habitacionales y una convocatoria abierta dirigida a constructores para ejecutar los proyectos.",
+      "evidencia": "Reportado por Portafolio",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/gobierno/minvivienda-y-fondo-milagro-invertiran-1-8-billones-para-reconstruir-viviendas-tras-el-terremoto-507280",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Vivienda / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "terremoto",
+      "region": "nacional",
+      "signo": "positivo"
+    },
+    {
+      "id": 3588,
+      "titulo": "Gobierno propone aumentar plazos y adiciones en concesiones viales",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El Gobierno Nacional anunció que en el Plan de Desarrollo propondrá aumentar los plazos de las concesiones de infraestructura en Colombia, además de elevar del 20% al 50% el tope de adiciones con recursos públicos para contratos de concesión vigentes.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-propondra-en-plan-de-desarrollo-aumentar-plazos-de-concesiones-en-colombia/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional / ANI",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3587,
+      "titulo": "Ministerio de Ambiente abre auditoría por $3 billones del Fondo Vida",
+      "categoria": "contratos",
+      "fecha": "2026-11-27",
+      "descripcion": "El Ministerio de Ambiente abrió una auditoría sobre $3 billones de recursos del Fondo Vida, tras detectar alertas como un mismo contratista supervisando 80 acuerdos por $1,83 billones y la firma de 148 contratos por $1,68 billones en enero de 2026, días antes de entrar en vigor la Ley de Garantías, lo que sugiere posibles irregularidades contractuales del gobierno saliente.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/politica/ministerio-de-ambiente-abre-auditoria-por-3-billones-del-fondo-vida",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Ministerio de Ambiente / Fondo Vida",
+      "estado": "En investigacion",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08"
+    },
+    {
+      "id": 3586,
+      "titulo": "De la Espriella propone 'salario solidario' para formalización laboral",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El presidente Abelardo de la Espriella presentó por primera vez su posición sobre el salario mínimo de 2027 y propuso la creación de un 'salario solidario' para avanzar en la formalización laboral, involucrando a las cajas de compensación familiar, durante el Encuentro Nacional de Modernización del Sistema de Subsidio Familiar.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/salario-minimo-de-la-espriella-solidario-informales-cajas-compensacion-FH44166164",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3585,
+      "titulo": "Cali se moviliza para apoyar a familias y emprendedores afectados por el sismo",
+      "categoria": "gestion-local",
+      "fecha": "2026-11-27",
+      "descripcion": "La Alcaldía de Cali y organizaciones locales adelantan acciones de apoyo a familias y emprendedores afectados por el terremoto del 10 de agosto, con iniciativas de acompañamiento económico y social para la recuperación de la ciudad.",
+      "evidencia": "Reportado por Semana",
+      "fuentes": [
+        {
+          "nombre": "Semana",
+          "url": "https://www.semana.com/mejor-colombia/articulo/del-sismo-a-la-esperanza-asi-se-moviliza-cali-para-apoyar-a-familias-y-emprendedores-afectados/202643/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Cali",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3584,
+      "titulo": "Gobierno anuncia 15.000 nuevos créditos del Icetex y medidas de alivio",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "El Gobierno Nacional anunció la entrega de 15.000 nuevos créditos del Icetex junto con nuevas medidas de alivio financiero para beneficiarios del sistema de financiamiento educativo, como parte de la gestión del gobierno De la Espriella en materia social.",
+      "evidencia": "Reportado por Risaraldahoy.com",
+      "fuentes": [
+        {
+          "nombre": "Risaraldahoy.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzNvRVEtcmVSNEt6NmtJeUxkSTFzQWpFQ2pJR0RJVVd6Y0VRWmRadXN0dDhJYXVBVno5N2lRLXJndHhrTC1iQU42elFuYUs5aGNpWUY0RXg1Rko0aTN6LXVPVmEtMzFNNGdBZEFVck1iazUwbmpuM1lSblJYQTNJRDlqakpJeGdVTHE3UmhOZjE4X2RBOGFvLWRpZTBRdG5lVThWOHBtOVlQZFFvOEl3ZmNLU1RXWURETFdRLWZ4N0c4ajZoYVB4WUxPUQ?oc=5",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Icetex / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:08",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3583,
+      "titulo": "Olmedo Lopez y Sneyder Pinilla declarados responsables fiscales por escandalo en la Ungrd",
+      "categoria": "corrupcion",
+      "fecha": "2026-11-26",
+      "descripcion": "La Contraloria General declaro responsables fiscales a Olmedo Lopez y Sneyder Pinilla por el escandalo de corrupcion en la Unidad Nacional para la Gestion del Riesgo de Desastres (Ungrd), en el marco de los hallazgos sobre el manejo irregular de contratos durante el gobierno Petro.",
+      "evidencia": "Reportado por La Nación.com.co",
+      "fuentes": [
+        {
+          "nombre": "La Nación.com.co",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGpmMzFYUGs1M3phU05NeVJYeFgwV2tRUVBRaElXZjNtNlY1ZW1oUnJRTkRGZ2xlVWtiN2VheG55U0g4ZXJBRkFRWVdOY0ctN1JrbzdrX0FZaS1STWJ3NmxKbFpVQzV2c2J0UGo1czFFZml4ZDhlOGR5M3hPQVNBMW1Ud1NoSFFVOUg5WFFzc0kwa3hBWDdpZ2V5UzF1NGlRTkpidVZfQ0hfX28?oc=5",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "personas_involucradas": [
+        "Olmedo Lopez",
+        "Sneyder Pinilla"
+      ],
+      "entidad": "Contraloria General de la Nacion / Ungrd",
+      "estado": "Comprobado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07"
+    },
+    {
+      "id": 3582,
+      "titulo": "Fiscalia golpea al Tren de Aragua con extincion de dominio de 34 bienes",
+      "categoria": "seguridad",
+      "fecha": "2026-11-27",
+      "descripcion": "La Fiscalia General de la Nacion logro la incautacion de 34 bienes vinculados a actividades ilegales de alias Flipper, cabecilla del Tren de Aragua, en uno de los golpes mas fuertes contra la organizacion en materia de extincion de dominio.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-propino-uno-de-los-golpes-mas-fuertes-contra-el-tren-de-aragua-en-materia-de-extincion-de-dominio-3604924",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "alias Flipper"
+      ],
+      "entidad": "Fiscalia General de la Nacion",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3581,
+      "titulo": "Angie Rodriguez denuncia irregularidades en titulos de exsecretaria de Petro vinculada a UTL de congresista",
+      "categoria": "mentiras",
+      "fecha": "2026-11-27",
+      "descripcion": "La exdirectora del Dapre, Angie Rodriguez, denuncio presuntas irregularidades en los titulos academicos de una exsecretaria de Gustavo Petro vinculada a la UTL de un congresista, pidiendo aclarar que credenciales presento ante el Congreso y el resultado de la investigacion disciplinaria correspondiente.",
+      "evidencia": "Reportado por El Tiempo",
+      "fuentes": [
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-exdirectora-del-dapre-denuncio-presuntas-irregularidades-en-titulos-de-exsecretaria-de-gustavo-petro-vinculada-a-utl-de-congresista-3604905",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Angie Rodriguez"
+      ],
+      "entidad": "Congreso de la Republica / DAPRE",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07"
+    },
+    {
+      "id": 3580,
+      "titulo": "Operacion militar abate a alias Maicol del ELN en Casanare",
+      "categoria": "seguridad",
+      "fecha": "2026-11-28",
+      "descripcion": "Una operacion del Ejercito en Hato Corozal, Casanare, dio de baja a alias Maicol, presunto integrante del frente Domingo Lain Saenz del ELN señalado de ataques en Arauca, segun anuncio el presidente Abelardo de la Espriella.",
+      "evidencia": "Reportado por Infobae",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/28/fue-abatido-a-alias-maicol-presunto-integrante-del-eln-senalado-de-ataques-en-arauca-durante-una-operacion-en-hato-corozal-casanare/",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Ejercito Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3579,
+      "titulo": "Gobierno reglamenta cobertura de deslizamiento del salario minimo para blindar pensiones",
+      "categoria": "economia",
+      "fecha": "2026-11-27",
+      "descripcion": "Tras la suspension cautelar del Decreto 1485 de 2025, el Gobierno de De la Espriella expidio una nueva normativa para dar certeza tecnica a las rentas vitalicias y proteger el ahorro pensional.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reglamenta-cobertura-de-deslizamiento-del-salario-minimo-para-blindar-las-pensiones/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3578,
+      "titulo": "Gobierno negociara acuerdo con EE.UU. para eliminar aranceles y convenio comercial con Japon",
+      "categoria": "internacional",
+      "fecha": "2026-11-27",
+      "descripcion": "El ministro de Comercio, Mauricio Gomez, anuncio que el Gobierno de De la Espriella firmara en las proximas semanas un acuerdo con Estados Unidos para eliminar aranceles, ademas de un convenio comercial con Japon.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/de-la-espriella-firmara-acuerdo-ee-uu-eliminar-aranceles-convenio-japon/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Mauricio Gomez"
+      ],
+      "entidad": "Ministerio de Comercio",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3577,
+      "titulo": "Operacion Muralla de Acero deja 63 capturados en Cartagena",
+      "categoria": "seguridad",
+      "fecha": "2026-11-28",
+      "descripcion": "El presidente Abelardo de la Espriella anuncio que la Operacion Muralla de Acero dejo 63 capturados y 62 allanamientos en Cartagena, Bolivar, como parte de la ofensiva contra organizaciones criminales en la ciudad.",
+      "evidencia": "Reportado por El Colombiano",
+      "fuentes": [
+        {
+          "nombre": "El Colombiano",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-anuncia-63-capturados-cartagena-FJ44184551",
+          "fecha": "2026-11-28"
+        }
+      ],
+      "personas_involucradas": [
+        "Abelardo de la Espriella"
+      ],
+      "entidad": "Fuerza Publica / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "alta",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3576,
+      "titulo": "Gobernacion del Valle y Fondo Milagro buscan financiar 4.000 viviendas para damnificados",
+      "categoria": "dineros",
+      "fecha": "2026-11-27",
+      "descripcion": "La Gobernacion del Valle del Cauca, junto con el Fondo Milagro, adelanta gestiones para financiar la construccion de 4.000 viviendas destinadas a los damnificados del terremoto en el departamento.",
+      "evidencia": "Reportado por elnortehoy",
+      "fuentes": [
+        {
+          "nombre": "elnortehoy",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUlCOV9FVUhiYWw1dTdtVFhqdlFaU29mc3d3WWJNTW5lS3JQYXJ1elZWeEhXUmpoYW5hX1BWbUVHcURZMmJtYnRKdk84OEQwZEpLNFdCNUNYcmJlY3lQYkQwN3V2NEVZU0FOSkdNTGQtTWNseEpFeW5CYXhvcFduSE9WQjc2ekNZNHQtS3BEVkhSd09FdHpZ?oc=5",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Gobernacion del Valle / Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "positivo"
+    },
+    {
+      "id": 3575,
+      "titulo": "Fondo Milagro contratara demolicion de edificaciones afectadas en Viterbo",
+      "categoria": "contratacion",
+      "fecha": "2026-11-27",
+      "descripcion": "El Fondo Milagro anuncio que se encargara de la contratacion para demoler edificaciones afectadas por el sismo en el municipio de Viterbo, Caldas, como parte de las labores de atencion a la emergencia.",
+      "evidencia": "Reportado por Caracol Radio",
+      "fuentes": [
+        {
+          "nombre": "Caracol Radio",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFpUWWM1dGRTMDR3UFIyWEkwakhWMm9FWlBiNldNOERFRmhOdlBhS3VDdVZISVRtZHc0MEdyUkM3Y3ZDWUdQTjF2ZkZLaHJTN3NNTTc1dDZVN09XVk96bmtaUEpGM2N1OS1iNm9QX0dwYTU2b1VYeWpMby11U0dXS3JCUlFJN0tfbHJpTVN3UHhCaHp4WEtSVFpqRmZMazMwMVhqMVZpR281VlQyTEZqMlN6MEJqSGpTOVoyUU51VnRVRTdOdmtTM3Utc1ZHbW5G0gHkAUFVX3lxTE9XbU82b25nZTBJQlhHM1hzUVN4RGhwRzNVeUpOOVRfUEtrc3pyelk2MXNGZ0tscG9paVV4Y3RhTXMtb0NNZzhTTnd0LUxGWU82d3dPRlZucnBsTTdPb1Y2RUFOVzViYV9CTldBYWUwc3VZbF82WlJ0WllweHNHRmhSaVlkVnh3VU55VGlwWG1aallCaUI5dEFOMXFuRVlCRmdqZWotM0sxWDVnMEJfXzRHSlpER2dfX2dST3l3ZTRiSkwwTVJBenhVRlJPSFc4dWt2NmJSdjN0X2cwM2VyTkhzNFlXUg?oc=5",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Fondo Milagro",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "terremoto",
+      "region": "otras",
+      "signo": "neutro"
+    },
+    {
+      "id": 3574,
+      "titulo": "Nombramiento de Alberto Mario Vergara como presidente de Fiduprevisora",
+      "categoria": "gabinete",
+      "fecha": "2026-11-27",
+      "descripcion": "Mediante decreto, el Gobierno oficializo el nombramiento de Alberto Mario Vergara como nuevo presidente de Fiduprevisora, en medio de la transicion de la entidad tras el fin del contrato para administrar el Fomag.",
+      "evidencia": "Reportado por Valora Analitik",
+      "fuentes": [
+        {
+          "nombre": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/fiduprevisora-tiene-nuevo-presidente-alberto-mario-vergara-asumira-la-direccion/",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [
+        "Alberto Mario Vergara"
+      ],
+      "entidad": "Fiduprevisora",
+      "estado": "Reportado",
+      "gravedad": "baja",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "nuevo-gobierno"
+    },
+    {
+      "id": 3573,
+      "titulo": "Arriendos en Cali se disparan tras el sismo y damnificados piden ayuda",
+      "categoria": "damnificados",
+      "fecha": "2026-11-27",
+      "descripcion": "Tras el terremoto, los precios de arriendo en Cali se dispararon, afectando a damnificados que piden al Gobierno nacional agilizar soluciones de fondo para la crisis habitacional derivada de la emergencia.",
+      "evidencia": "Reportado por El Nuevo Siglo",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Siglo",
+          "url": "https://www.elnuevosiglo.com.co/nacion/arriendos-en-cali-se-dispararon-tras-sismo-damnificados-piden-ayuda",
+          "fecha": "2026-11-27"
+        }
+      ],
+      "personas_involucradas": [],
+      "entidad": "Alcaldia de Cali / Gobierno Nacional",
+      "estado": "Reportado",
+      "gravedad": "media",
+      "auto_generated": true,
+      "added_date": "2026-11-28 01:07",
+      "seccion": "terremoto",
+      "region": "cali",
+      "signo": "negativo"
+    },
+    {
       "id": 3572,
       "titulo": "Ofensiva contra bandas criminales en Cundinamarca afecta 178 estructuras",
       "categoria": "seguridad",
@@ -83319,8 +83832,8 @@
     }
   ],
   "estadisticas": {
-    "ultima_actualizacion": "2026-11-27",
-    "total_casos": 3483,
+    "ultima_actualizacion": "2026-11-28",
+    "total_casos": 3505,
     "por_categoria": {
       "mentiras": 25,
       "corrupcion": 31,
